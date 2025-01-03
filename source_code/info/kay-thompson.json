@@ -1,0 +1,55 @@
+{
+    "relationships": [
+        {
+            "name": "Andy Williams",
+            "href": "https://www.whosdatedwho.com/dating/andy-williams",
+            "relationship_type": 2,
+            "start_date": "1947",
+            "end_date": "1962",
+            "length": "15 years",
+            "start_months_since_1900": 564,
+            "end_months_since_1900": 744,
+            "length_in_months": 180
+        },
+        {
+            "name": "William Spier",
+            "href": "https://www.whosdatedwho.com/dating/william-spier",
+            "relationship_type": 4,
+            "start_date": "1941",
+            "end_date": "1947",
+            "length": "6 years",
+            "start_months_since_1900": 492,
+            "end_months_since_1900": 564,
+            "length_in_months": 72
+        },
+        {
+            "name": "Jack Jenney",
+            "href": "https://www.whosdatedwho.com/dating/jack-jenney",
+            "relationship_type": 4,
+            "start_date": "1937",
+            "end_date": "1939",
+            "length": "2 years",
+            "start_months_since_1900": 444,
+            "end_months_since_1900": 468,
+            "length_in_months": 24
+        }
+    ],
+    "details": {
+        "First Name": "Kay",
+        "Middle Name": "Louise",
+        "Last Name": "Thompson",
+        "Maiden Name": "NA",
+        "Full Name at Birth": "Catherine Louise Fink",
+        "Alternative Name": "Kitty, Kay, Kay Thompson",
+        "Birthday": "1909",
+        "Birthplace": "USA",
+        "Height": "166",
+        "Weight": "NA",
+        "Zodiac Sign": "5",
+        "Sexuality": "Straight",
+        "Religion": "1",
+        "Ethnicity": "6",
+        "Nationality": "91",
+        "Occupation": "3"
+    }
+}

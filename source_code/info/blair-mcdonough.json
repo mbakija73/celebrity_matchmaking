@@ -1,0 +1,66 @@
+{
+    "relationships": [
+        {
+            "name": "Di Stewart",
+            "href": "https://www.whosdatedwho.com/dating/di-stewart",
+            "relationship_type": 2,
+            "start_date": "Jan 2007",
+            "end_date": "Mar 2007",
+            "length": "1 month",
+            "start_months_since_1900": 1284,
+            "end_months_since_1900": 1286,
+            "length_in_months": 1
+        },
+        {
+            "name": "Miriama Smith",
+            "href": "https://www.whosdatedwho.com/dating/miriama-smith",
+            "relationship_type": 2,
+            "start_date": "Sep 2005",
+            "end_date": "Nov 2006",
+            "length": "1 year",
+            "start_months_since_1900": 1268,
+            "end_months_since_1900": 1282,
+            "length_in_months": 12
+        },
+        {
+            "name": "Delta Goodrem",
+            "href": "https://www.whosdatedwho.com/dating/delta-goodrem",
+            "relationship_type": 2,
+            "start_date": "2002",
+            "end_date": "2003",
+            "length": "1 year",
+            "start_months_since_1900": 1224,
+            "end_months_since_1900": 1236,
+            "length_in_months": 12
+        },
+        {
+            "name": "Kristi Townley",
+            "href": "https://www.whosdatedwho.com/dating/kristi-townley",
+            "relationship_type": 4,
+            "start_date": "",
+            "end_date": "present",
+            "length": "-",
+            "start_months_since_1900": -1,
+            "end_months_since_1900": -1,
+            "length_in_months": -1
+        }
+    ],
+    "details": {
+        "First Name": "Blair",
+        "Middle Name": "NA",
+        "Last Name": "McDonough",
+        "Maiden Name": "NA",
+        "Full Name at Birth": "NA",
+        "Alternative Name": "NA",
+        "Birthday": "1981",
+        "Birthplace": "Australia",
+        "Height": "183",
+        "Weight": "NA",
+        "Zodiac Sign": "3",
+        "Sexuality": "Straight",
+        "Religion": "1",
+        "Ethnicity": "6",
+        "Nationality": "135",
+        "Occupation": "8"
+    }
+}

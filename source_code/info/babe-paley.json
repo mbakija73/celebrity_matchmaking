@@ -1,0 +1,44 @@
+{
+    "relationships": [
+        {
+            "name": "William Paley",
+            "href": "https://www.whosdatedwho.com/dating/william-paley",
+            "relationship_type": 4,
+            "start_date": "1946",
+            "end_date": "1978",
+            "length": "32 years",
+            "start_months_since_1900": 552,
+            "end_months_since_1900": 936,
+            "length_in_months": 384
+        },
+        {
+            "name": "Franklin D. Roosevelt Jr.",
+            "href": "https://www.whosdatedwho.com/dating/franklin-d-roosevelt-jr",
+            "relationship_type": 2,
+            "start_date": "1933",
+            "end_date": "1933",
+            "length": "-",
+            "start_months_since_1900": 396,
+            "end_months_since_1900": 396,
+            "length_in_months": -1
+        }
+    ],
+    "details": {
+        "First Name": "Babe",
+        "Middle Name": "NA",
+        "Last Name": "Paley",
+        "Maiden Name": "Cushing",
+        "Full Name at Birth": "Barbara Cushing",
+        "Alternative Name": "NA",
+        "Birthday": "1915",
+        "Birthplace": "MA",
+        "Height": "NA",
+        "Weight": "NA",
+        "Zodiac Sign": "8",
+        "Sexuality": "Straight",
+        "Religion": "1",
+        "Ethnicity": "6",
+        "Nationality": "91",
+        "Occupation": "11"
+    }
+}

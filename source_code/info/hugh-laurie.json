@@ -1,0 +1,55 @@
+{
+    "relationships": [
+        {
+            "name": "Audrey Cooke",
+            "href": "https://www.whosdatedwho.com/dating/audrey-cooke",
+            "relationship_type": 2,
+            "start_date": "1997",
+            "end_date": "1998",
+            "length": "1 year",
+            "start_months_since_1900": 1164,
+            "end_months_since_1900": 1176,
+            "length_in_months": 12
+        },
+        {
+            "name": "Jo Green",
+            "href": "https://www.whosdatedwho.com/dating/jo-green",
+            "relationship_type": 4,
+            "start_date": "1988",
+            "end_date": "present",
+            "length": "36 years",
+            "start_months_since_1900": 1056,
+            "end_months_since_1900": -1,
+            "length_in_months": 432
+        },
+        {
+            "name": "Emma Thompson",
+            "href": "https://www.whosdatedwho.com/dating/emma-thompson",
+            "relationship_type": 2,
+            "start_date": "1978",
+            "end_date": "1982",
+            "length": "4 years",
+            "start_months_since_1900": 936,
+            "end_months_since_1900": 984,
+            "length_in_months": 48
+        }
+    ],
+    "details": {
+        "First Name": "James",
+        "Middle Name": "Hugh Calum",
+        "Last Name": "Laurie",
+        "Maiden Name": "NA",
+        "Full Name at Birth": "James Hugh Calum Laurie",
+        "Alternative Name": "James Hugh Calum Laurie, Hugh Laurie, Hugh",
+        "Birthday": "1959",
+        "Birthplace": "UK",
+        "Height": "189",
+        "Weight": "207lbs (94 kg)",
+        "Zodiac Sign": "4",
+        "Sexuality": "Straight",
+        "Religion": "22",
+        "Ethnicity": "6",
+        "Nationality": "8",
+        "Occupation": "8"
+    }
+}

@@ -1,0 +1,44 @@
+{
+    "relationships": [
+        {
+            "name": "Ken Curtis",
+            "href": "https://www.whosdatedwho.com/dating/ken-curtis",
+            "relationship_type": 4,
+            "start_date": "1950",
+            "end_date": "23rd Jul 1964",
+            "length": "14 years",
+            "start_months_since_1900": 600,
+            "end_months_since_1900": 774,
+            "length_in_months": 168
+        },
+        {
+            "name": "Robert Walker",
+            "href": "https://www.whosdatedwho.com/dating/robert-walker",
+            "relationship_type": 4,
+            "start_date": "Jan 1948",
+            "end_date": "Dec 1948",
+            "length": "11 months",
+            "start_months_since_1900": 576,
+            "end_months_since_1900": 587,
+            "length_in_months": 11
+        }
+    ],
+    "details": {
+        "First Name": "Barbara",
+        "Middle Name": "Nugent",
+        "Last Name": "Ford",
+        "Maiden Name": "NA",
+        "Full Name at Birth": "Barbara Feeney",
+        "Alternative Name": "Barbara Feeney, Barbara Nugent Ford, Barbara Ford",
+        "Birthday": "1922",
+        "Birthplace": "USA",
+        "Height": "NA",
+        "Weight": "NA",
+        "Zodiac Sign": "6",
+        "Sexuality": "Straight",
+        "Religion": "1",
+        "Ethnicity": "6",
+        "Nationality": "91",
+        "Occupation": "9"
+    }
+}

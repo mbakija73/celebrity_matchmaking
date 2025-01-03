@@ -1,0 +1,77 @@
+{
+    "relationships": [
+        {
+            "name": "Kim Darby",
+            "href": "https://www.whosdatedwho.com/dating/kim-darby",
+            "relationship_type": 2,
+            "start_date": "1969",
+            "end_date": "1970",
+            "length": "1 year",
+            "start_months_since_1900": 828,
+            "end_months_since_1900": 840,
+            "length_in_months": 12
+        },
+        {
+            "name": "Susan Saint James",
+            "href": "https://www.whosdatedwho.com/dating/susan-saint-james",
+            "relationship_type": 2,
+            "start_date": "1968",
+            "end_date": "1968",
+            "length": "-",
+            "start_months_since_1900": 816,
+            "end_months_since_1900": 816,
+            "length_in_months": -1
+        },
+        {
+            "name": "Sally Field",
+            "href": "https://www.whosdatedwho.com/dating/sally-field",
+            "relationship_type": 2,
+            "start_date": "1967",
+            "end_date": "1968",
+            "length": "1 year",
+            "start_months_since_1900": 804,
+            "end_months_since_1900": 816,
+            "length_in_months": 12
+        },
+        {
+            "name": "Jill Andre",
+            "href": "https://www.whosdatedwho.com/dating/jill-andre",
+            "relationship_type": 2,
+            "start_date": "1966",
+            "end_date": "1967",
+            "length": "1 year",
+            "start_months_since_1900": 792,
+            "end_months_since_1900": 804,
+            "length_in_months": 12
+        },
+        {
+            "name": "Judy Carne",
+            "href": "https://www.whosdatedwho.com/dating/judy-carne",
+            "relationship_type": 2,
+            "start_date": "1966",
+            "end_date": "1966",
+            "length": "-",
+            "start_months_since_1900": 792,
+            "end_months_since_1900": 792,
+            "length_in_months": -1
+        }
+    ],
+    "details": {
+        "First Name": "Pete",
+        "Middle Name": "NA",
+        "Last Name": "Duel",
+        "Maiden Name": "NA",
+        "Full Name at Birth": "Peter Ellstrom Deuel",
+        "Alternative Name": "Peter Duel, Peter E. Deuel",
+        "Birthday": "1940",
+        "Birthplace": "USA",
+        "Height": "179",
+        "Weight": "NA",
+        "Zodiac Sign": "1",
+        "Sexuality": "Straight",
+        "Religion": "1",
+        "Ethnicity": "6",
+        "Nationality": "91",
+        "Occupation": "8"
+    }
+}

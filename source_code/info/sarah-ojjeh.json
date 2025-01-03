@@ -1,0 +1,44 @@
+{
+    "relationships": [
+        {
+            "name": "Lewis Hamilton",
+            "href": "https://www.whosdatedwho.com/dating/lewis-hamilton",
+            "relationship_type": 2,
+            "start_date": "2007",
+            "end_date": "2007",
+            "length": "-",
+            "start_months_since_1900": 1284,
+            "end_months_since_1900": 1284,
+            "length_in_months": -1
+        },
+        {
+            "name": "Rodrigo Vieira",
+            "href": "https://www.whosdatedwho.com/dating/rodrigo-vieira",
+            "relationship_type": 2,
+            "start_date": "Apr 2005",
+            "end_date": "Jun 2005",
+            "length": "2 months",
+            "start_months_since_1900": 1263,
+            "end_months_since_1900": 1265,
+            "length_in_months": 2
+        }
+    ],
+    "details": {
+        "First Name": "Sarah",
+        "Middle Name": "NA",
+        "Last Name": "Ojjeh",
+        "Maiden Name": "NA",
+        "Full Name at Birth": "NA",
+        "Alternative Name": "NA",
+        "Birthday": "NA",
+        "Birthplace": "NA",
+        "Height": "NA",
+        "Weight": "NA",
+        "Zodiac Sign": "2",
+        "Sexuality": "NA",
+        "Religion": "1",
+        "Ethnicity": "1",
+        "Nationality": "65",
+        "Occupation": "19"
+    }
+}

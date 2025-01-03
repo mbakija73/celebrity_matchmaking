@@ -1,0 +1,66 @@
+{
+    "relationships": [
+        {
+            "name": "Bill Dugger",
+            "href": "https://www.whosdatedwho.com/dating/bill-dugger",
+            "relationship_type": 4,
+            "start_date": "Aug 1961",
+            "end_date": "Dec 1964",
+            "length": "3 years",
+            "start_months_since_1900": 739,
+            "end_months_since_1900": 779,
+            "length_in_months": 36
+        },
+        {
+            "name": "Gunter Sachs",
+            "href": "https://www.whosdatedwho.com/dating/gunter-sachs",
+            "relationship_type": 2,
+            "start_date": "Apr 1959",
+            "end_date": "Jun 1959",
+            "length": "2 months",
+            "start_months_since_1900": 711,
+            "end_months_since_1900": 713,
+            "length_in_months": 2
+        },
+        {
+            "name": "Dado Ruspoli",
+            "href": "https://www.whosdatedwho.com/dating/dado-ruspoli",
+            "relationship_type": 2,
+            "start_date": "Dec 1954",
+            "end_date": "Nov 1956",
+            "length": "1 year",
+            "start_months_since_1900": 659,
+            "end_months_since_1900": 682,
+            "length_in_months": 12
+        },
+        {
+            "name": "Steve Cochran",
+            "href": "https://www.whosdatedwho.com/dating/steve-cochran",
+            "relationship_type": 2,
+            "start_date": "",
+            "end_date": "",
+            "length": "-",
+            "start_months_since_1900": -1,
+            "end_months_since_1900": -1,
+            "length_in_months": -1
+        }
+    ],
+    "details": {
+        "First Name": "Mara",
+        "Middle Name": "NA",
+        "Last Name": "Lane",
+        "Maiden Name": "Bolton",
+        "Full Name at Birth": "Dorothy Lane Bolton",
+        "Alternative Name": "NA",
+        "Birthday": "1930",
+        "Birthplace": "Austria",
+        "Height": "NA",
+        "Weight": "NA",
+        "Zodiac Sign": "12",
+        "Sexuality": "Straight",
+        "Religion": "1",
+        "Ethnicity": "6",
+        "Nationality": "44",
+        "Occupation": "8"
+    }
+}

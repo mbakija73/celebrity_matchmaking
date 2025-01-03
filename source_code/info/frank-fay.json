@@ -1,0 +1,66 @@
+{
+    "relationships": [
+        {
+            "name": "Betty Kean",
+            "href": "https://www.whosdatedwho.com/dating/betty-kean",
+            "relationship_type": 4,
+            "start_date": "1937",
+            "end_date": "1939",
+            "length": "2 years",
+            "start_months_since_1900": 444,
+            "end_months_since_1900": 468,
+            "length_in_months": 24
+        },
+        {
+            "name": "Elinor Troy",
+            "href": "https://www.whosdatedwho.com/dating/elinor-troy",
+            "relationship_type": 3,
+            "start_date": "1937",
+            "end_date": "1937",
+            "length": "-",
+            "start_months_since_1900": 444,
+            "end_months_since_1900": 444,
+            "length_in_months": -1
+        },
+        {
+            "name": "Barbara Stanwyck",
+            "href": "https://www.whosdatedwho.com/dating/barbara-stanwyck",
+            "relationship_type": 4,
+            "start_date": "1928",
+            "end_date": "30th Dec 1935",
+            "length": "8 years",
+            "start_months_since_1900": 336,
+            "end_months_since_1900": 431,
+            "length_in_months": 96
+        },
+        {
+            "name": "Frances White",
+            "href": "https://www.whosdatedwho.com/dating/frances-white-actress",
+            "relationship_type": 4,
+            "start_date": "1917",
+            "end_date": "1917",
+            "length": "-",
+            "start_months_since_1900": 204,
+            "end_months_since_1900": 204,
+            "length_in_months": -1
+        }
+    ],
+    "details": {
+        "First Name": "Frank",
+        "Middle Name": "NA",
+        "Last Name": "Fay",
+        "Maiden Name": "NA",
+        "Full Name at Birth": "Francis Anthony Donner",
+        "Alternative Name": "Francis Anthony Donner, Francis A. Donner, Frank Fay",
+        "Birthday": "1891",
+        "Birthplace": "California USA",
+        "Height": "185",
+        "Weight": "NA",
+        "Zodiac Sign": "5",
+        "Sexuality": "Straight",
+        "Religion": "13",
+        "Ethnicity": "6",
+        "Nationality": "91",
+        "Occupation": "8"
+    }
+}

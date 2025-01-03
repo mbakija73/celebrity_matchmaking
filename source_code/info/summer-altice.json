@@ -1,0 +1,66 @@
+{
+    "relationships": [
+        {
+            "name": "Vin Diesel",
+            "href": "https://www.whosdatedwho.com/dating/vin-diesel",
+            "relationship_type": 3,
+            "start_date": "Mar 2000",
+            "end_date": "Jun 2000",
+            "length": "3 months",
+            "start_months_since_1900": 1202,
+            "end_months_since_1900": 1205,
+            "length_in_months": 3
+        },
+        {
+            "name": "Hank Azaria",
+            "href": "https://www.whosdatedwho.com/dating/hank-azaria",
+            "relationship_type": 2,
+            "start_date": "2000",
+            "end_date": "2000",
+            "length": "-",
+            "start_months_since_1900": 1200,
+            "end_months_since_1900": 1200,
+            "length_in_months": -1
+        },
+        {
+            "name": "Fred Durst",
+            "href": "https://www.whosdatedwho.com/dating/fred-durst",
+            "relationship_type": 2,
+            "start_date": "Sep 1999",
+            "end_date": "Nov 1999",
+            "length": "2 months",
+            "start_months_since_1900": 1196,
+            "end_months_since_1900": 1198,
+            "length_in_months": 2
+        },
+        {
+            "name": "Charlie Sheen",
+            "href": "https://www.whosdatedwho.com/dating/charlie-sheen",
+            "relationship_type": 2,
+            "start_date": "1999",
+            "end_date": "2000",
+            "length": "1 year",
+            "start_months_since_1900": 1188,
+            "end_months_since_1900": 1200,
+            "length_in_months": 12
+        }
+    ],
+    "details": {
+        "First Name": "Summer",
+        "Middle Name": "Danielle",
+        "Last Name": "NA",
+        "Maiden Name": "Altice",
+        "Full Name at Birth": "Summer Danielle Altice",
+        "Alternative Name": "Miss August 2000, Spitfire, Sunshine, Summer Altice, Summer Danielle Altice",
+        "Birthday": "1979",
+        "Birthplace": "USA",
+        "Height": "179",
+        "Weight": "125lbs (57 kg)",
+        "Zodiac Sign": "13",
+        "Sexuality": "Bisexual",
+        "Religion": "1",
+        "Ethnicity": "6",
+        "Nationality": "91",
+        "Occupation": "16"
+    }
+}

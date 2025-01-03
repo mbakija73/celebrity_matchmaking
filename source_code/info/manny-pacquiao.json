@@ -1,0 +1,55 @@
+{
+    "relationships": [
+        {
+            "name": "Krista Ranillo",
+            "href": "https://www.whosdatedwho.com/dating/krista-ranillo",
+            "relationship_type": 3,
+            "start_date": "2009",
+            "end_date": "2010",
+            "length": "1 year",
+            "start_months_since_1900": 1308,
+            "end_months_since_1900": 1320,
+            "length_in_months": 12
+        },
+        {
+            "name": "Ara Mina",
+            "href": "https://www.whosdatedwho.com/dating/ara-mina",
+            "relationship_type": 3,
+            "start_date": "2007",
+            "end_date": "2007",
+            "length": "-",
+            "start_months_since_1900": 1284,
+            "end_months_since_1900": 1284,
+            "length_in_months": -1
+        },
+        {
+            "name": "Jinkee Pacquiao",
+            "href": "https://www.whosdatedwho.com/dating/jinkee-pacquiao",
+            "relationship_type": 4,
+            "start_date": "2000",
+            "end_date": "present",
+            "length": "24 years",
+            "start_months_since_1900": 1200,
+            "end_months_since_1900": -1,
+            "length_in_months": 288
+        }
+    ],
+    "details": {
+        "First Name": "Manny",
+        "Middle Name": "NA",
+        "Last Name": "Pacquiao",
+        "Maiden Name": "NA",
+        "Full Name at Birth": "Emmanuel Dapidran Pacquiao",
+        "Alternative Name": "Pac-Man, The Mexi-cutioner, Pambansang Kamao (\"National Fist\"), Pacman, Emmanuel Dapidran Pacquiao, Manny Pacquiao, National Godfather, Fighting Pride of the Philippines, The Filipino Slugger, The Fighting Congressman, Pac Man, The Destroyer, The Mexicutioner, The Nation's Fist",
+        "Birthday": "1978",
+        "Birthplace": "Philippines",
+        "Height": "166",
+        "Weight": "147lbs (67 kg)",
+        "Zodiac Sign": "6",
+        "Sexuality": "Straight",
+        "Religion": "13",
+        "Ethnicity": "3",
+        "Nationality": "16",
+        "Occupation": "2"
+    }
+}

@@ -1,0 +1,44 @@
+{
+    "relationships": [
+        {
+            "name": "Samantha Boscarino",
+            "href": "https://www.whosdatedwho.com/dating/samantha-boscarino",
+            "relationship_type": 2,
+            "start_date": "Dec 2017",
+            "end_date": "Dec 2017",
+            "length": "-",
+            "start_months_since_1900": 1415,
+            "end_months_since_1900": 1415,
+            "length_in_months": -1
+        },
+        {
+            "name": "Bridgit Mendler",
+            "href": "https://www.whosdatedwho.com/dating/bridgit-mendler",
+            "relationship_type": 2,
+            "start_date": "May 2011",
+            "end_date": "May 2015",
+            "length": "4 years",
+            "start_months_since_1900": 1336,
+            "end_months_since_1900": 1384,
+            "length_in_months": 48
+        }
+    ],
+    "details": {
+        "First Name": "Shane",
+        "Middle Name": "Steven",
+        "Last Name": "Harper",
+        "Maiden Name": "NA",
+        "Full Name at Birth": "Shane Steven Harper",
+        "Alternative Name": "NA",
+        "Birthday": "1993",
+        "Birthplace": "USA",
+        "Height": "187",
+        "Weight": "NA",
+        "Zodiac Sign": "9",
+        "Sexuality": "Straight",
+        "Religion": "18",
+        "Ethnicity": "6",
+        "Nationality": "91",
+        "Occupation": "8"
+    }
+}

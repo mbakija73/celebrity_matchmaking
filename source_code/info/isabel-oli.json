@@ -1,0 +1,77 @@
+{
+    "relationships": [
+        {
+            "name": "John Prats",
+            "href": "https://www.whosdatedwho.com/dating/john-prats",
+            "relationship_type": 4,
+            "start_date": "2013",
+            "end_date": "present",
+            "length": "11 years",
+            "start_months_since_1900": 1356,
+            "end_months_since_1900": -1,
+            "length_in_months": 132
+        },
+        {
+            "name": "Gab Valenciano",
+            "href": "https://www.whosdatedwho.com/dating/gab-valenciano",
+            "relationship_type": 2,
+            "start_date": "Aug 2011",
+            "end_date": "Dec 2011",
+            "length": "4 months",
+            "start_months_since_1900": 1339,
+            "end_months_since_1900": 1343,
+            "length_in_months": 4
+        },
+        {
+            "name": "James Yap",
+            "href": "https://www.whosdatedwho.com/dating/james-yap",
+            "relationship_type": 3,
+            "start_date": "2011",
+            "end_date": "",
+            "length": "-",
+            "start_months_since_1900": 1332,
+            "end_months_since_1900": -1,
+            "length_in_months": -1
+        },
+        {
+            "name": "Paolo Contis",
+            "href": "https://www.whosdatedwho.com/dating/paolo-contis",
+            "relationship_type": 2,
+            "start_date": "2006",
+            "end_date": "2008",
+            "length": "2 years",
+            "start_months_since_1900": 1272,
+            "end_months_since_1900": 1296,
+            "length_in_months": 24
+        },
+        {
+            "name": "Marco Alcaraz",
+            "href": "https://www.whosdatedwho.com/dating/marco-alcaraz",
+            "relationship_type": 2,
+            "start_date": "2004",
+            "end_date": "2004",
+            "length": "-",
+            "start_months_since_1900": 1248,
+            "end_months_since_1900": 1248,
+            "length_in_months": -1
+        }
+    ],
+    "details": {
+        "First Name": "Maria Olivia",
+        "Middle Name": "S.",
+        "Last Name": "Prats",
+        "Maiden Name": "Daytia",
+        "Full Name at Birth": "Maria Olivia S. Daytia",
+        "Alternative Name": "Isabel Oli",
+        "Birthday": "1981",
+        "Birthplace": "Cebu",
+        "Height": "NA",
+        "Weight": "NA",
+        "Zodiac Sign": "10",
+        "Sexuality": "Straight",
+        "Religion": "13",
+        "Ethnicity": "8",
+        "Nationality": "16",
+        "Occupation": "15"
+    }
+}

@@ -1,0 +1,77 @@
+{
+    "relationships": [
+        {
+            "name": "Howard Stern",
+            "href": "https://www.whosdatedwho.com/dating/howard-stern",
+            "relationship_type": 3,
+            "start_date": "Dec 1999",
+            "end_date": "Dec 1999",
+            "length": "-",
+            "start_months_since_1900": 1199,
+            "end_months_since_1900": 1199,
+            "length_in_months": -1
+        },
+        {
+            "name": "Kevin Trudeau",
+            "href": "https://www.whosdatedwho.com/dating/kevin-trudeau",
+            "relationship_type": 2,
+            "start_date": "1994",
+            "end_date": "1995",
+            "length": "1 year",
+            "start_months_since_1900": 1128,
+            "end_months_since_1900": 1140,
+            "length_in_months": 12
+        },
+        {
+            "name": "Marvin Young",
+            "href": "https://www.whosdatedwho.com/dating/marvin-young",
+            "relationship_type": 2,
+            "start_date": "1990",
+            "end_date": "1990",
+            "length": "-",
+            "start_months_since_1900": 1080,
+            "end_months_since_1900": 1080,
+            "length_in_months": -1
+        },
+        {
+            "name": "James Woods",
+            "href": "https://www.whosdatedwho.com/dating/james-woods",
+            "relationship_type": 2,
+            "start_date": "1985",
+            "end_date": "1985",
+            "length": "-",
+            "start_months_since_1900": 1020,
+            "end_months_since_1900": 1020,
+            "length_in_months": -1
+        },
+        {
+            "name": "Ed Begley Jr.",
+            "href": "https://www.whosdatedwho.com/dating/ed-begley-jr",
+            "relationship_type": 2,
+            "start_date": "",
+            "end_date": "",
+            "length": "-",
+            "start_months_since_1900": -1,
+            "end_months_since_1900": -1,
+            "length_in_months": -1
+        }
+    ],
+    "details": {
+        "First Name": "Amy",
+        "Middle Name": "Lynn",
+        "Last Name": "NA",
+        "Maiden Name": "Baxter",
+        "Full Name at Birth": "Amy Lynn Baxter",
+        "Alternative Name": "Amy Baxter, Amy Lynn, Amy Lynn Baxter",
+        "Birthday": "1967",
+        "Birthplace": "USA",
+        "Height": "170",
+        "Weight": "120lbs (54 kg)",
+        "Zodiac Sign": "11",
+        "Sexuality": "Straight",
+        "Religion": "1",
+        "Ethnicity": "6",
+        "Nationality": "91",
+        "Occupation": "16"
+    }
+}

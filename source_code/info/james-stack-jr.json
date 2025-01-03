@@ -1,0 +1,44 @@
+{
+    "relationships": [
+        {
+            "name": "Wanda Hendrix",
+            "href": "https://www.whosdatedwho.com/dating/wanda-hendrix",
+            "relationship_type": 4,
+            "start_date": "Nov 1953",
+            "end_date": "Nov 1958",
+            "length": "5 years",
+            "start_months_since_1900": 646,
+            "end_months_since_1900": 706,
+            "length_in_months": 60
+        },
+        {
+            "name": "Lina Romay",
+            "href": "https://www.whosdatedwho.com/dating/lina-romay-actress",
+            "relationship_type": 2,
+            "start_date": "1948",
+            "end_date": "1948",
+            "length": "-",
+            "start_months_since_1900": 576,
+            "end_months_since_1900": 576,
+            "length_in_months": -1
+        }
+    ],
+    "details": {
+        "First Name": "James",
+        "Middle Name": "Langford",
+        "Last Name": "Stack Jr",
+        "Maiden Name": "NA",
+        "Full Name at Birth": "NA",
+        "Alternative Name": "NA",
+        "Birthday": "1916",
+        "Birthplace": "USA",
+        "Height": "201",
+        "Weight": "215lbs (98 kg)",
+        "Zodiac Sign": "3",
+        "Sexuality": "NA",
+        "Religion": "1",
+        "Ethnicity": "1",
+        "Nationality": "91",
+        "Occupation": "2"
+    }
+}

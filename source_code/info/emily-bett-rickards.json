@@ -1,0 +1,44 @@
+{
+    "relationships": [
+        {
+            "name": "Aisha Tyler",
+            "href": "https://www.whosdatedwho.com/dating/aisha-tyler",
+            "relationship_type": 1,
+            "start_date": "2018",
+            "end_date": "2018",
+            "length": "-",
+            "start_months_since_1900": 1416,
+            "end_months_since_1900": 1416,
+            "length_in_months": -1
+        },
+        {
+            "name": "Colton Haynes",
+            "href": "https://www.whosdatedwho.com/dating/colton-haynes",
+            "relationship_type": 2,
+            "start_date": "Dec 2013",
+            "end_date": "Dec 2013",
+            "length": "-",
+            "start_months_since_1900": 1367,
+            "end_months_since_1900": 1367,
+            "length_in_months": -1
+        }
+    ],
+    "details": {
+        "First Name": "Emily",
+        "Middle Name": "Bett",
+        "Last Name": "Rickards",
+        "Maiden Name": "NA",
+        "Full Name at Birth": "Emily Bett Rickards",
+        "Alternative Name": "Felicity",
+        "Birthday": "1991",
+        "Birthplace": "Canada",
+        "Height": "165",
+        "Weight": "121lbs (55 kg)",
+        "Zodiac Sign": "12",
+        "Sexuality": "Straight",
+        "Religion": "1",
+        "Ethnicity": "6",
+        "Nationality": "90",
+        "Occupation": "8"
+    }
+}

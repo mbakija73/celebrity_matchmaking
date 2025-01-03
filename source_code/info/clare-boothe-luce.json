@@ -1,0 +1,110 @@
+{
+    "relationships": [
+        {
+            "name": "Roald Dahl",
+            "href": "https://www.whosdatedwho.com/dating/roald-dahl",
+            "relationship_type": 3,
+            "start_date": "1942",
+            "end_date": "1942",
+            "length": "-",
+            "start_months_since_1900": 504,
+            "end_months_since_1900": 504,
+            "length_in_months": -1
+        },
+        {
+            "name": "Charles A. Willoughby",
+            "href": "https://www.whosdatedwho.com/dating/charles-a-willoughby",
+            "relationship_type": 2,
+            "start_date": "1940",
+            "end_date": "1945",
+            "length": "5 years",
+            "start_months_since_1900": 480,
+            "end_months_since_1900": 540,
+            "length_in_months": 60
+        },
+        {
+            "name": "Henry R. Luce",
+            "href": "https://www.whosdatedwho.com/dating/henry-r-luce",
+            "relationship_type": 4,
+            "start_date": "1935",
+            "end_date": "1967",
+            "length": "32 years",
+            "start_months_since_1900": 420,
+            "end_months_since_1900": 804,
+            "length_in_months": 384
+        },
+        {
+            "name": "Bernard Baruch",
+            "href": "https://www.whosdatedwho.com/dating/bernard-baruch-610307",
+            "relationship_type": 2,
+            "start_date": "1932",
+            "end_date": "1935",
+            "length": "3 years",
+            "start_months_since_1900": 384,
+            "end_months_since_1900": 420,
+            "length_in_months": 36
+        },
+        {
+            "name": "George Tuttle Brokaw",
+            "href": "https://www.whosdatedwho.com/dating/george-tuttle-brokaw",
+            "relationship_type": 4,
+            "start_date": "1923",
+            "end_date": "1929",
+            "length": "6 years",
+            "start_months_since_1900": 276,
+            "end_months_since_1900": 348,
+            "length_in_months": 72
+        },
+        {
+            "name": "Joseph P. Kennedy",
+            "href": "https://www.whosdatedwho.com/dating/joseph-p-kennedy",
+            "relationship_type": 2,
+            "start_date": "",
+            "end_date": "",
+            "length": "-",
+            "start_months_since_1900": -1,
+            "end_months_since_1900": -1,
+            "length_in_months": -1
+        },
+        {
+            "name": "Randolph Churchill",
+            "href": "https://www.whosdatedwho.com/dating/randolph-churchill",
+            "relationship_type": 2,
+            "start_date": "",
+            "end_date": "",
+            "length": "-",
+            "start_months_since_1900": -1,
+            "end_months_since_1900": -1,
+            "length_in_months": -1
+        },
+        {
+            "name": "William Hale",
+            "href": "https://www.whosdatedwho.com/dating/william-hale",
+            "relationship_type": 2,
+            "start_date": "",
+            "end_date": "",
+            "length": "-",
+            "start_months_since_1900": -1,
+            "end_months_since_1900": -1,
+            "length_in_months": -1
+        }
+    ],
+    "details": {
+        "First Name": "Clare",
+        "Middle Name": "Boothe",
+        "Last Name": "Luce",
+        "Maiden Name": "Boothe",
+        "Full Name at Birth": "Ann Clare Boothe",
+        "Alternative Name": "Mrs G T Brokaw",
+        "Birthday": "1903",
+        "Birthplace": "NY",
+        "Height": "NA",
+        "Weight": "NA",
+        "Zodiac Sign": "7",
+        "Sexuality": "Straight",
+        "Religion": "13",
+        "Ethnicity": "6",
+        "Nationality": "91",
+        "Occupation": "3"
+    }
+}

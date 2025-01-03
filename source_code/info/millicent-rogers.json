@@ -1,0 +1,110 @@
+{
+    "relationships": [
+        {
+            "name": "Ronald Balcom",
+            "href": "https://www.whosdatedwho.com/dating/ronald-balcom",
+            "relationship_type": 4,
+            "start_date": "1936",
+            "end_date": "1941",
+            "length": "5 years",
+            "start_months_since_1900": 432,
+            "end_months_since_1900": 492,
+            "length_in_months": 60
+        },
+        {
+            "name": "Arturo Peralta-Ram",
+            "href": "https://www.whosdatedwho.com/dating/arturo-peralta-ram",
+            "relationship_type": 4,
+            "start_date": "1927",
+            "end_date": "1935",
+            "length": "8 years",
+            "start_months_since_1900": 324,
+            "end_months_since_1900": 420,
+            "length_in_months": 96
+        },
+        {
+            "name": "Ludwig Salm",
+            "href": "https://www.whosdatedwho.com/dating/ludwig-von-salm-hoogstraeten",
+            "relationship_type": 4,
+            "start_date": "1924",
+            "end_date": "1927",
+            "length": "3 years",
+            "start_months_since_1900": 288,
+            "end_months_since_1900": 324,
+            "length_in_months": 36
+        },
+        {
+            "name": "Roald Dahl",
+            "href": "https://www.whosdatedwho.com/dating/roald-dahl",
+            "relationship_type": 3,
+            "start_date": "",
+            "end_date": "",
+            "length": "-",
+            "start_months_since_1900": -1,
+            "end_months_since_1900": -1,
+            "length_in_months": -1
+        },
+        {
+            "name": "Serge Obolensky",
+            "href": "https://www.whosdatedwho.com/dating/serge-obolensky",
+            "relationship_type": 2,
+            "start_date": "",
+            "end_date": "",
+            "length": "-",
+            "start_months_since_1900": -1,
+            "end_months_since_1900": -1,
+            "length_in_months": -1
+        },
+        {
+            "name": "Clark Gable",
+            "href": "https://www.whosdatedwho.com/dating/clark-gable",
+            "relationship_type": 2,
+            "start_date": "",
+            "end_date": "",
+            "length": "-",
+            "start_months_since_1900": -1,
+            "end_months_since_1900": -1,
+            "length_in_months": -1
+        },
+        {
+            "name": "Marlene Dietrich",
+            "href": "https://www.whosdatedwho.com/dating/marlene-dietrich",
+            "relationship_type": 3,
+            "start_date": "",
+            "end_date": "",
+            "length": "-",
+            "start_months_since_1900": -1,
+            "end_months_since_1900": -1,
+            "length_in_months": -1
+        },
+        {
+            "name": "Ian Fleming",
+            "href": "https://www.whosdatedwho.com/dating/ian-fleming",
+            "relationship_type": 2,
+            "start_date": "",
+            "end_date": "",
+            "length": "-",
+            "start_months_since_1900": -1,
+            "end_months_since_1900": -1,
+            "length_in_months": -1
+        }
+    ],
+    "details": {
+        "First Name": "Millicent",
+        "Middle Name": "NA",
+        "Last Name": "Rogers",
+        "Maiden Name": "NA",
+        "Full Name at Birth": "Mary Millicent Abigail Rogers",
+        "Alternative Name": "NA",
+        "Birthday": "1902",
+        "Birthplace": "New York City",
+        "Height": "NA",
+        "Weight": "NA",
+        "Zodiac Sign": "9",
+        "Sexuality": "Bisexual",
+        "Religion": "1",
+        "Ethnicity": "6",
+        "Nationality": "91",
+        "Occupation": "18"
+    }
+}

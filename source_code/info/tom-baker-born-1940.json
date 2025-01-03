@@ -1,0 +1,44 @@
+{
+    "relationships": [
+        {
+            "name": "Pamela Courson",
+            "href": "https://www.whosdatedwho.com/dating/pam-courson",
+            "relationship_type": 2,
+            "start_date": "1968",
+            "end_date": "1968",
+            "length": "-",
+            "start_months_since_1900": 816,
+            "end_months_since_1900": 816,
+            "length_in_months": -1
+        },
+        {
+            "name": "Janis Joplin",
+            "href": "https://www.whosdatedwho.com/dating/janis-joplin",
+            "relationship_type": 2,
+            "start_date": "",
+            "end_date": "",
+            "length": "-",
+            "start_months_since_1900": -1,
+            "end_months_since_1900": -1,
+            "length_in_months": -1
+        }
+    ],
+    "details": {
+        "First Name": "Tom",
+        "Middle Name": "NA",
+        "Last Name": "Baker",
+        "Maiden Name": "NA",
+        "Full Name at Birth": "Thomas F. Baker",
+        "Alternative Name": "Tom Baker, Thomas F. Baker",
+        "Birthday": "1940",
+        "Birthplace": "West Virginia USA",
+        "Height": "NA",
+        "Weight": "NA",
+        "Zodiac Sign": "12",
+        "Sexuality": "Straight",
+        "Religion": "1",
+        "Ethnicity": "6",
+        "Nationality": "91",
+        "Occupation": "8"
+    }
+}

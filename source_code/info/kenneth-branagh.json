@@ -1,0 +1,77 @@
+{
+    "relationships": [
+        {
+            "name": "Lindsay Brunnock",
+            "href": "https://www.whosdatedwho.com/dating/lindsay-brunnock",
+            "relationship_type": 4,
+            "start_date": "1999",
+            "end_date": "present",
+            "length": "25 years",
+            "start_months_since_1900": 1188,
+            "end_months_since_1900": -1,
+            "length_in_months": 300
+        },
+        {
+            "name": "Alicia Silverstone",
+            "href": "https://www.whosdatedwho.com/dating/alicia-silverstone",
+            "relationship_type": 3,
+            "start_date": "1998",
+            "end_date": "Oct 1999",
+            "length": "1 year",
+            "start_months_since_1900": 1176,
+            "end_months_since_1900": 1197,
+            "length_in_months": 12
+        },
+        {
+            "name": "Helena Bonham Carter",
+            "href": "https://www.whosdatedwho.com/dating/helena-bonham-carter",
+            "relationship_type": 2,
+            "start_date": "Oct 1993",
+            "end_date": "Jan 1999",
+            "length": "5 years",
+            "start_months_since_1900": 1125,
+            "end_months_since_1900": 1188,
+            "length_in_months": 60
+        },
+        {
+            "name": "Emma Thompson",
+            "href": "https://www.whosdatedwho.com/dating/emma-thompson",
+            "relationship_type": 4,
+            "start_date": "Jul 1987",
+            "end_date": "Oct 1995",
+            "length": "8 years",
+            "start_months_since_1900": 1050,
+            "end_months_since_1900": 1149,
+            "length_in_months": 96
+        },
+        {
+            "name": "Joely Richardson",
+            "href": "https://www.whosdatedwho.com/dating/joely-richardson",
+            "relationship_type": 2,
+            "start_date": "1985",
+            "end_date": "1987",
+            "length": "2 years",
+            "start_months_since_1900": 1020,
+            "end_months_since_1900": 1044,
+            "length_in_months": 24
+        }
+    ],
+    "details": {
+        "First Name": "Kenneth",
+        "Middle Name": "Charles",
+        "Last Name": "Branagh",
+        "Maiden Name": "NA",
+        "Full Name at Birth": "Kenneth Charles Branagh",
+        "Alternative Name": "Ken",
+        "Birthday": "1960",
+        "Birthplace": "Northern Ireland",
+        "Height": "177",
+        "Weight": "NA",
+        "Zodiac Sign": "6",
+        "Sexuality": "Straight",
+        "Religion": "11",
+        "Ethnicity": "6",
+        "Nationality": "109",
+        "Occupation": "8"
+    }
+}

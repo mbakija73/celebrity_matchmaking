@@ -1,0 +1,44 @@
+{
+    "relationships": [
+        {
+            "name": "Jodi Gordon",
+            "href": "https://www.whosdatedwho.com/dating/jodi-gordon",
+            "relationship_type": 2,
+            "start_date": "Jun 2007",
+            "end_date": "Jun 2009",
+            "length": "2 years",
+            "start_months_since_1900": 1289,
+            "end_months_since_1900": 1313,
+            "length_in_months": 24
+        },
+        {
+            "name": "Simone Kessell",
+            "href": "https://www.whosdatedwho.com/dating/simone-kessell",
+            "relationship_type": 2,
+            "start_date": "",
+            "end_date": "",
+            "length": "-",
+            "start_months_since_1900": -1,
+            "end_months_since_1900": -1,
+            "length_in_months": -1
+        }
+    ],
+    "details": {
+        "First Name": "Ryan",
+        "Middle Name": "NA",
+        "Last Name": "Stokes",
+        "Maiden Name": "NA",
+        "Full Name at Birth": "NA",
+        "Alternative Name": "NA",
+        "Birthday": "NA",
+        "Birthplace": "NA",
+        "Height": "NA",
+        "Weight": "NA",
+        "Zodiac Sign": "2",
+        "Sexuality": "NA",
+        "Religion": "1",
+        "Ethnicity": "1",
+        "Nationality": "65",
+        "Occupation": "7"
+    }
+}

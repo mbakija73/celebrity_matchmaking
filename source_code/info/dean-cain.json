@@ -1,0 +1,99 @@
+{
+    "relationships": [
+        {
+            "name": "Samantha Torres",
+            "href": "https://www.whosdatedwho.com/dating/samantha-torres",
+            "relationship_type": 2,
+            "start_date": "1998",
+            "end_date": "1999",
+            "length": "1 year",
+            "start_months_since_1900": 1176,
+            "end_months_since_1900": 1188,
+            "length_in_months": 12
+        },
+        {
+            "name": "Mindy McCready",
+            "href": "https://www.whosdatedwho.com/dating/mindy-mccready",
+            "relationship_type": 2,
+            "start_date": "Jan 1997",
+            "end_date": "Aug 1998",
+            "length": "1 year",
+            "start_months_since_1900": 1164,
+            "end_months_since_1900": 1183,
+            "length_in_months": 12
+        },
+        {
+            "name": "Pamela Anderson",
+            "href": "https://www.whosdatedwho.com/dating/pamela-anderson",
+            "relationship_type": 3,
+            "start_date": "1993",
+            "end_date": "1993",
+            "length": "-",
+            "start_months_since_1900": 1116,
+            "end_months_since_1900": 1116,
+            "length_in_months": -1
+        },
+        {
+            "name": "Teri Hatcher",
+            "href": "https://www.whosdatedwho.com/dating/teri-hatcher",
+            "relationship_type": 2,
+            "start_date": "1993",
+            "end_date": "1993",
+            "length": "-",
+            "start_months_since_1900": 1116,
+            "end_months_since_1900": 1116,
+            "length_in_months": -1
+        },
+        {
+            "name": "Ami Dolenz",
+            "href": "https://www.whosdatedwho.com/dating/ami-dolenz",
+            "relationship_type": 2,
+            "start_date": "1991",
+            "end_date": "1992",
+            "length": "1 year",
+            "start_months_since_1900": 1092,
+            "end_months_since_1900": 1104,
+            "length_in_months": 12
+        },
+        {
+            "name": "Brooke Shields",
+            "href": "https://www.whosdatedwho.com/dating/brooke-shields",
+            "relationship_type": 2,
+            "start_date": "Mar 1983",
+            "end_date": "Aug 1987",
+            "length": "4 years",
+            "start_months_since_1900": 998,
+            "end_months_since_1900": 1051,
+            "length_in_months": 48
+        },
+        {
+            "name": "Gabrielle Reece",
+            "href": "https://www.whosdatedwho.com/dating/gabrielle-reece",
+            "relationship_type": 2,
+            "start_date": "",
+            "end_date": "",
+            "length": "-",
+            "start_months_since_1900": -1,
+            "end_months_since_1900": -1,
+            "length_in_months": -1
+        }
+    ],
+    "details": {
+        "First Name": "Dean",
+        "Middle Name": "George",
+        "Last Name": "Cain",
+        "Maiden Name": "NA",
+        "Full Name at Birth": "Dean George Tanaka",
+        "Alternative Name": "NA",
+        "Birthday": "1966",
+        "Birthplace": "Michigan",
+        "Height": "183",
+        "Weight": "NA",
+        "Zodiac Sign": "12",
+        "Sexuality": "Straight",
+        "Religion": "1",
+        "Ethnicity": "8",
+        "Nationality": "91",
+        "Occupation": "8"
+    }
+}

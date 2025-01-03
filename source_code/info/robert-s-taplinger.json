@@ -1,0 +1,66 @@
+{
+    "relationships": [
+        {
+            "name": "Gila Golan",
+            "href": "https://www.whosdatedwho.com/dating/gila-golan",
+            "relationship_type": 2,
+            "start_date": "Feb 1968",
+            "end_date": "Mar 1968",
+            "length": "< 1 month",
+            "start_months_since_1900": 817,
+            "end_months_since_1900": 818,
+            "length_in_months": 0
+        },
+        {
+            "name": "Elizabeth Allen",
+            "href": "https://www.whosdatedwho.com/dating/elizabeth-allen-actress",
+            "relationship_type": 2,
+            "start_date": "Oct 1962",
+            "end_date": "May 1963",
+            "length": "7 months",
+            "start_months_since_1900": 753,
+            "end_months_since_1900": 760,
+            "length_in_months": 7
+        },
+        {
+            "name": "Allison Hayes",
+            "href": "https://www.whosdatedwho.com/dating/allison-hayes",
+            "relationship_type": 2,
+            "start_date": "Jan 1957",
+            "end_date": "Feb 1957",
+            "length": "1 month",
+            "start_months_since_1900": 684,
+            "end_months_since_1900": 685,
+            "length_in_months": 1
+        },
+        {
+            "name": "Bette Davis",
+            "href": "https://www.whosdatedwho.com/dating/bette-davis",
+            "relationship_type": 3,
+            "start_date": "Apr 1940",
+            "end_date": "May 1940",
+            "length": "1 month",
+            "start_months_since_1900": 483,
+            "end_months_since_1900": 484,
+            "length_in_months": 1
+        }
+    ],
+    "details": {
+        "First Name": "Robert",
+        "Middle Name": "S.",
+        "Last Name": "Taplinger",
+        "Maiden Name": "NA",
+        "Full Name at Birth": "NA",
+        "Alternative Name": "NA",
+        "Birthday": "1909",
+        "Birthplace": "PA",
+        "Height": "NA",
+        "Weight": "NA",
+        "Zodiac Sign": "1",
+        "Sexuality": "NA",
+        "Religion": "1",
+        "Ethnicity": "6",
+        "Nationality": "91",
+        "Occupation": "7"
+    }
+}

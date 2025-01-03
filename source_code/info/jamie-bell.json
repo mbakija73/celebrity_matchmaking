@@ -1,0 +1,55 @@
+{
+    "relationships": [
+        {
+            "name": "Kate Mara",
+            "href": "https://www.whosdatedwho.com/dating/kate-mara",
+            "relationship_type": 4,
+            "start_date": "Apr 2015",
+            "end_date": "present",
+            "length": "9 years",
+            "start_months_since_1900": 1383,
+            "end_months_since_1900": -1,
+            "length_in_months": 108
+        },
+        {
+            "name": "Evan Rachel Wood",
+            "href": "https://www.whosdatedwho.com/dating/evan-rachel-wood",
+            "relationship_type": 4,
+            "start_date": "Apr 2005",
+            "end_date": "Nov 2014",
+            "length": "9 years",
+            "start_months_since_1900": 1263,
+            "end_months_since_1900": 1378,
+            "length_in_months": 108
+        },
+        {
+            "name": "Amy Derova",
+            "href": "https://www.whosdatedwho.com/dating/amy-derova",
+            "relationship_type": 1,
+            "start_date": "",
+            "end_date": "",
+            "length": "-",
+            "start_months_since_1900": -1,
+            "end_months_since_1900": -1,
+            "length_in_months": -1
+        }
+    ],
+    "details": {
+        "First Name": "Jamie",
+        "Middle Name": "NA",
+        "Last Name": "Bell",
+        "Maiden Name": "NA",
+        "Full Name at Birth": "Andrew James Matfin Bell",
+        "Alternative Name": "NA",
+        "Birthday": "1986",
+        "Birthplace": "UK",
+        "Height": "173",
+        "Weight": "NA",
+        "Zodiac Sign": "1",
+        "Sexuality": "Straight",
+        "Religion": "1",
+        "Ethnicity": "6",
+        "Nationality": "8",
+        "Occupation": "8"
+    }
+}

@@ -1,0 +1,44 @@
+{
+    "relationships": [
+        {
+            "name": "LeVar Burton",
+            "href": "https://www.whosdatedwho.com/dating/levar-burton",
+            "relationship_type": 4,
+            "start_date": "1991",
+            "end_date": "present",
+            "length": "33 years",
+            "start_months_since_1900": 1092,
+            "end_months_since_1900": -1,
+            "length_in_months": 396
+        },
+        {
+            "name": "John Matuszak",
+            "href": "https://www.whosdatedwho.com/dating/john-matuszak",
+            "relationship_type": 2,
+            "start_date": "1980",
+            "end_date": "Jun 1989",
+            "length": "9 years",
+            "start_months_since_1900": 960,
+            "end_months_since_1900": 1073,
+            "length_in_months": 108
+        }
+    ],
+    "details": {
+        "First Name": "Stephanie",
+        "Middle Name": "Cozart",
+        "Last Name": "Burton",
+        "Maiden Name": "Cozart",
+        "Full Name at Birth": "Stephanie Roxanne Cozart",
+        "Alternative Name": "NA",
+        "Birthday": "1953",
+        "Birthplace": "USA",
+        "Height": "NA",
+        "Weight": "NA",
+        "Zodiac Sign": "5",
+        "Sexuality": "Straight",
+        "Religion": "1",
+        "Ethnicity": "8",
+        "Nationality": "91",
+        "Occupation": "9"
+    }
+}

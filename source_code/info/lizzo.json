@@ -1,0 +1,44 @@
+{
+    "relationships": [
+        {
+            "name": "Myke Wright",
+            "href": "https://www.whosdatedwho.com/dating/myke-wright",
+            "relationship_type": 2,
+            "start_date": "2022",
+            "end_date": "present",
+            "length": "2 years",
+            "start_months_since_1900": 1464,
+            "end_months_since_1900": -1,
+            "length_in_months": 24
+        },
+        {
+            "name": "Chris Evans",
+            "href": "https://www.whosdatedwho.com/dating/chris-evans",
+            "relationship_type": 3,
+            "start_date": "",
+            "end_date": "",
+            "length": "-",
+            "start_months_since_1900": -1,
+            "end_months_since_1900": -1,
+            "length_in_months": -1
+        }
+    ],
+    "details": {
+        "First Name": "Melissa",
+        "Middle Name": "Viviane",
+        "Last Name": "Jefferson",
+        "Maiden Name": "NA",
+        "Full Name at Birth": "Melissa Viviane Jefferson",
+        "Alternative Name": "Lizzo, Melissa Jefferson",
+        "Birthday": "1988",
+        "Birthplace": "USA",
+        "Height": "178",
+        "Weight": "185lbs (84 kg)",
+        "Zodiac Sign": "3",
+        "Sexuality": "Straight",
+        "Religion": "1",
+        "Ethnicity": "2",
+        "Nationality": "91",
+        "Occupation": "1"
+    }
+}

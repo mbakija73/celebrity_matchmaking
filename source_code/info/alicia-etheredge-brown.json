@@ -1,0 +1,44 @@
+{
+    "relationships": [
+        {
+            "name": "Bobby Brown",
+            "href": "https://www.whosdatedwho.com/dating/bobby-brown",
+            "relationship_type": 4,
+            "start_date": "2007",
+            "end_date": "present",
+            "length": "17 years",
+            "start_months_since_1900": 1284,
+            "end_months_since_1900": -1,
+            "length_in_months": 204
+        },
+        {
+            "name": "Teddy Riley",
+            "href": "https://www.whosdatedwho.com/dating/teddy-riley",
+            "relationship_type": 2,
+            "start_date": "1990",
+            "end_date": "1994",
+            "length": "4 years",
+            "start_months_since_1900": 1080,
+            "end_months_since_1900": 1128,
+            "length_in_months": 48
+        }
+    ],
+    "details": {
+        "First Name": "Alicia",
+        "Middle Name": "NA",
+        "Last Name": "Brown",
+        "Maiden Name": "Ethridge",
+        "Full Name at Birth": "Alicia Christine Etheredge",
+        "Alternative Name": "Alicia Etheredge, Alicia Etheredge-Brown, Alicia Christine Etheredge",
+        "Birthday": "1973",
+        "Birthplace": "United States",
+        "Height": "NA",
+        "Weight": "NA",
+        "Zodiac Sign": "6",
+        "Sexuality": "Straight",
+        "Religion": "1",
+        "Ethnicity": "8",
+        "Nationality": "91",
+        "Occupation": "8"
+    }
+}

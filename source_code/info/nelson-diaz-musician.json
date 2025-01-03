@@ -1,0 +1,33 @@
+{
+    "relationships": [
+        {
+            "name": "CariDee English",
+            "href": "https://www.whosdatedwho.com/dating/caridee-english",
+            "relationship_type": 3,
+            "start_date": "Jan 2021",
+            "end_date": "Feb 2021",
+            "length": "1 month",
+            "start_months_since_1900": 1452,
+            "end_months_since_1900": 1453,
+            "length_in_months": 1
+        }
+    ],
+    "details": {
+        "First Name": "Nelson",
+        "Middle Name": "NA",
+        "Last Name": "Diaz",
+        "Maiden Name": "NA",
+        "Full Name at Birth": "NA",
+        "Alternative Name": "NA",
+        "Birthday": "1994",
+        "Birthplace": "NA",
+        "Height": "NA",
+        "Weight": "NA",
+        "Zodiac Sign": "2",
+        "Sexuality": "NA",
+        "Religion": "1",
+        "Ethnicity": "6",
+        "Nationality": "65",
+        "Occupation": "1"
+    }
+}

@@ -1,0 +1,54 @@
+{
+    "relationships": [
+        {
+            "name": "Jean Trebek",
+            "href": "https://www.whosdatedwho.com/dating/jean-currivan",
+            "relationship_type": "Married",
+            "start_date": "Apr 1989",
+            "end_date": "Nov 2020",
+            "length": "31 years"
+        },
+        {
+            "name": "Beverly Adams",
+            "href": "https://www.whosdatedwho.com/dating/beverly-adams",
+            "relationship_type": "Relationship",
+            "start_date": "1985",
+            "end_date": "1988",
+            "length": "3 years"
+        },
+        {
+            "name": "Kathy Simmons",
+            "href": "https://www.whosdatedwho.com/dating/kathy-simmons",
+            "relationship_type": "Encounter",
+            "start_date": "1983",
+            "end_date": "1983",
+            "length": "-"
+        },
+        {
+            "name": "Elaine Kares Trebek",
+            "href": "https://www.whosdatedwho.com/dating/elaine-kares-trebek-journalist",
+            "relationship_type": "Married",
+            "start_date": "1973",
+            "end_date": "1981",
+            "length": "8 years"
+        }
+    ],
+    "details": {
+        "First Name": "Alex",
+        "Middle Name": "NA",
+        "Last Name": "Trebek",
+        "Maiden Name": "NA",
+        "Full Name at Birth": "George Alexander Trebek",
+        "Alternative Name": "George Alexander Trebek, Giorgi Suka-Alex Trebek, Alex Trebek",
+        "Birthday": "22nd July, 1940",
+        "Birthplace": "Sudbury, Ontario, Canada",
+        "Height": "5' 8\" (173 cm)",
+        "Weight": "NA",
+        "Zodiac Sign": "Cancer",
+        "Sexuality": "Straight",
+        "Religion": "NA",
+        "Ethnicity": "White",
+        "Nationality": "Canadian",
+        "Occupation": "TV Personality"
+    }
+}

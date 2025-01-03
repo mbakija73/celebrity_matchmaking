@@ -1,0 +1,77 @@
+{
+    "relationships": [
+        {
+            "name": "Henry Ropner",
+            "href": "https://www.whosdatedwho.com/dating/henry-ropner",
+            "relationship_type": 2,
+            "start_date": "2007",
+            "end_date": "2007",
+            "length": "-",
+            "start_months_since_1900": 1284,
+            "end_months_since_1900": 1284,
+            "length_in_months": -1
+        },
+        {
+            "name": "Prince William of Wales",
+            "href": "https://www.whosdatedwho.com/dating/prince-william-royalty",
+            "relationship_type": 4,
+            "start_date": "Dec 2003",
+            "end_date": "present",
+            "length": "20 years",
+            "start_months_since_1900": 1247,
+            "end_months_since_1900": -1,
+            "length_in_months": 240
+        },
+        {
+            "name": "Rupert Finch",
+            "href": "https://www.whosdatedwho.com/dating/rupert-finch",
+            "relationship_type": 2,
+            "start_date": "2002",
+            "end_date": "2003",
+            "length": "1 year",
+            "start_months_since_1900": 1224,
+            "end_months_since_1900": 1236,
+            "length_in_months": 12
+        },
+        {
+            "name": "Willem Marx",
+            "href": "https://www.whosdatedwho.com/dating/willem-marx",
+            "relationship_type": 2,
+            "start_date": "2000",
+            "end_date": "2002",
+            "length": "2 years",
+            "start_months_since_1900": 1200,
+            "end_months_since_1900": 1224,
+            "length_in_months": 24
+        },
+        {
+            "name": "Harry Blakelock",
+            "href": "https://www.whosdatedwho.com/dating/harry-blakelock",
+            "relationship_type": 2,
+            "start_date": "1998",
+            "end_date": "1999",
+            "length": "1 year",
+            "start_months_since_1900": 1176,
+            "end_months_since_1900": 1188,
+            "length_in_months": 12
+        }
+    ],
+    "details": {
+        "First Name": "Catherine",
+        "Middle Name": "Elizabeth",
+        "Last Name": "Mountbatten-Windsor",
+        "Maiden Name": "Middleton",
+        "Full Name at Birth": "Catherine Elizabeth Middleton",
+        "Alternative Name": "Duchess of Cambridge, Princess Catherine, Duchess Catherine, Kate Middleton, Catherine Middleton, Catherine Duchess of Cambridge, Waity Katie, Babykins, Duchess of Smiles, Catherine, Catherine Elizabeth Middleton, Mrs. Prince William, Catherine, Duchess of Cambridge",
+        "Birthday": "1982",
+        "Birthplace": "UK",
+        "Height": "175",
+        "Weight": "128lbs (58 kg)",
+        "Zodiac Sign": "13",
+        "Sexuality": "Straight",
+        "Religion": "37",
+        "Ethnicity": "6",
+        "Nationality": "8",
+        "Occupation": "18"
+    }
+}

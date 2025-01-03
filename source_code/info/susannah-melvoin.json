@@ -1,0 +1,66 @@
+{
+    "relationships": [
+        {
+            "name": "Doyle Bramhall II",
+            "href": "https://www.whosdatedwho.com/dating/doyle-bramhall-ii",
+            "relationship_type": 4,
+            "start_date": "1996",
+            "end_date": "2007",
+            "length": "11 years",
+            "start_months_since_1900": 1152,
+            "end_months_since_1900": 1284,
+            "length_in_months": 132
+        },
+        {
+            "name": "John Cusack",
+            "href": "https://www.whosdatedwho.com/dating/john-cusack",
+            "relationship_type": 2,
+            "start_date": "Dec 1990",
+            "end_date": "Apr 1996",
+            "length": "5 years",
+            "start_months_since_1900": 1091,
+            "end_months_since_1900": 1155,
+            "length_in_months": 60
+        },
+        {
+            "name": "Seal",
+            "href": "https://www.whosdatedwho.com/dating/seal",
+            "relationship_type": 2,
+            "start_date": "1990",
+            "end_date": "1991",
+            "length": "1 year",
+            "start_months_since_1900": 1080,
+            "end_months_since_1900": 1092,
+            "length_in_months": 12
+        },
+        {
+            "name": "Prince",
+            "href": "https://www.whosdatedwho.com/dating/prince-musician",
+            "relationship_type": 2,
+            "start_date": "1984",
+            "end_date": "1986",
+            "length": "2 years",
+            "start_months_since_1900": 1008,
+            "end_months_since_1900": 1032,
+            "length_in_months": 24
+        }
+    ],
+    "details": {
+        "First Name": "Susannah",
+        "Middle Name": "Kay",
+        "Last Name": "Bramhall",
+        "Maiden Name": "Melvoin",
+        "Full Name at Birth": "Susannah Kay Melvoin",
+        "Alternative Name": "Susannah Melvoin Bramhall",
+        "Birthday": "1964",
+        "Birthplace": "USA",
+        "Height": "160",
+        "Weight": "NA",
+        "Zodiac Sign": "9",
+        "Sexuality": "Straight",
+        "Religion": "1",
+        "Ethnicity": "6",
+        "Nationality": "91",
+        "Occupation": "1"
+    }
+}

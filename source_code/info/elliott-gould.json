@@ -1,0 +1,88 @@
+{
+    "relationships": [
+        {
+            "name": "Valerie Perrine",
+            "href": "https://www.whosdatedwho.com/dating/valerie-perrine",
+            "relationship_type": 2,
+            "start_date": "Nov 1974",
+            "end_date": "1976",
+            "length": "1 year",
+            "start_months_since_1900": 898,
+            "end_months_since_1900": 912,
+            "length_in_months": 12
+        },
+        {
+            "name": "Jennifer Bogart",
+            "href": "https://www.whosdatedwho.com/dating/jennifer-bogart",
+            "relationship_type": 4,
+            "start_date": "1973",
+            "end_date": "Apr 1979",
+            "length": "6 years",
+            "start_months_since_1900": 876,
+            "end_months_since_1900": 951,
+            "length_in_months": 72
+        },
+        {
+            "name": "Jennifer O'Neill",
+            "href": "https://www.whosdatedwho.com/dating/jennifer-o-neill",
+            "relationship_type": 2,
+            "start_date": "1973",
+            "end_date": "1975",
+            "length": "2 years",
+            "start_months_since_1900": 876,
+            "end_months_since_1900": 900,
+            "length_in_months": 24
+        },
+        {
+            "name": "Barbra Streisand",
+            "href": "https://www.whosdatedwho.com/dating/barbra-streisand",
+            "relationship_type": 4,
+            "start_date": "1963",
+            "end_date": "1971",
+            "length": "8 years",
+            "start_months_since_1900": 756,
+            "end_months_since_1900": 852,
+            "length_in_months": 96
+        },
+        {
+            "name": "Carole Mallory",
+            "href": "https://www.whosdatedwho.com/dating/carole-mallory",
+            "relationship_type": 3,
+            "start_date": "",
+            "end_date": "",
+            "length": "-",
+            "start_months_since_1900": -1,
+            "end_months_since_1900": -1,
+            "length_in_months": -1
+        },
+        {
+            "name": "Vicki Hodge",
+            "href": "https://www.whosdatedwho.com/dating/vicki-hodge",
+            "relationship_type": 3,
+            "start_date": "",
+            "end_date": "",
+            "length": "-",
+            "start_months_since_1900": -1,
+            "end_months_since_1900": -1,
+            "length_in_months": -1
+        }
+    ],
+    "details": {
+        "First Name": "Elliott",
+        "Middle Name": "NA",
+        "Last Name": "Gould",
+        "Maiden Name": "NA",
+        "Full Name at Birth": "Elliot Goldstein",
+        "Alternative Name": "NA",
+        "Birthday": "1938",
+        "Birthplace": "USA",
+        "Height": "191",
+        "Weight": "NA",
+        "Zodiac Sign": "11",
+        "Sexuality": "Straight",
+        "Religion": "31",
+        "Ethnicity": "6",
+        "Nationality": "91",
+        "Occupation": "8"
+    }
+}

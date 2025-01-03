@@ -1,0 +1,110 @@
+{
+    "relationships": [
+        {
+            "name": "Carole Lombard",
+            "href": "https://www.whosdatedwho.com/dating/carole-lombard",
+            "relationship_type": 2,
+            "start_date": "Aug 1933",
+            "end_date": "2nd Sep 1934",
+            "length": "1 year",
+            "start_months_since_1900": 403,
+            "end_months_since_1900": 416,
+            "length_in_months": 12
+        },
+        {
+            "name": "Hannah Williams",
+            "href": "https://www.whosdatedwho.com/dating/hannah-williams",
+            "relationship_type": 2,
+            "start_date": "1933",
+            "end_date": "1933",
+            "length": "-",
+            "start_months_since_1900": 396,
+            "end_months_since_1900": 396,
+            "length_in_months": -1
+        },
+        {
+            "name": "Sally Blane",
+            "href": "https://www.whosdatedwho.com/dating/sally-blane",
+            "relationship_type": 2,
+            "start_date": "1933",
+            "end_date": "1933",
+            "length": "-",
+            "start_months_since_1900": 396,
+            "end_months_since_1900": 396,
+            "length_in_months": -1
+        },
+        {
+            "name": "Pola Negri",
+            "href": "https://www.whosdatedwho.com/dating/pola-negri",
+            "relationship_type": 3,
+            "start_date": "1932",
+            "end_date": "1932",
+            "length": "-",
+            "start_months_since_1900": 384,
+            "end_months_since_1900": 384,
+            "length_in_months": -1
+        },
+        {
+            "name": "Dorothy Dell",
+            "href": "https://www.whosdatedwho.com/dating/dorothy-dell",
+            "relationship_type": 2,
+            "start_date": "1931",
+            "end_date": "1932",
+            "length": "1 year",
+            "start_months_since_1900": 372,
+            "end_months_since_1900": 384,
+            "length_in_months": 12
+        },
+        {
+            "name": "Loretta Young",
+            "href": "https://www.whosdatedwho.com/dating/loretta-young",
+            "relationship_type": 2,
+            "start_date": "",
+            "end_date": "",
+            "length": "-",
+            "start_months_since_1900": -1,
+            "end_months_since_1900": -1,
+            "length_in_months": -1
+        },
+        {
+            "name": "Lupe Velez",
+            "href": "https://www.whosdatedwho.com/dating/lupe-velez",
+            "relationship_type": 2,
+            "start_date": "",
+            "end_date": "",
+            "length": "-",
+            "start_months_since_1900": -1,
+            "end_months_since_1900": -1,
+            "length_in_months": -1
+        },
+        {
+            "name": "Greta Garbo",
+            "href": "https://www.whosdatedwho.com/dating/greta-garbo",
+            "relationship_type": 3,
+            "start_date": "",
+            "end_date": "",
+            "length": "-",
+            "start_months_since_1900": -1,
+            "end_months_since_1900": -1,
+            "length_in_months": -1
+        }
+    ],
+    "details": {
+        "First Name": "Russ",
+        "Middle Name": "Eugenio di Rodolfo",
+        "Last Name": "Columbo",
+        "Maiden Name": "NA",
+        "Full Name at Birth": "Ruggerio Eugenio di Rudolpho Colombo",
+        "Alternative Name": "NA",
+        "Birthday": "1908",
+        "Birthplace": "USA",
+        "Height": "183",
+        "Weight": "NA",
+        "Zodiac Sign": "13",
+        "Sexuality": "Straight",
+        "Religion": "13",
+        "Ethnicity": "6",
+        "Nationality": "91",
+        "Occupation": "1"
+    }
+}

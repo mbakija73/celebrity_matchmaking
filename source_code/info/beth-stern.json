@@ -1,0 +1,66 @@
+{
+    "relationships": [
+        {
+            "name": "Ethan Erickson",
+            "href": "https://www.whosdatedwho.com/dating/ethan-erickson",
+            "relationship_type": 3,
+            "start_date": "2003",
+            "end_date": "2003",
+            "length": "-",
+            "start_months_since_1900": 1236,
+            "end_months_since_1900": 1236,
+            "length_in_months": -1
+        },
+        {
+            "name": "Howard Stern",
+            "href": "https://www.whosdatedwho.com/dating/howard-stern",
+            "relationship_type": 4,
+            "start_date": "Apr 2000",
+            "end_date": "",
+            "length": "-",
+            "start_months_since_1900": 1203,
+            "end_months_since_1900": -1,
+            "length_in_months": -1
+        },
+        {
+            "name": "Brian Van Holt",
+            "href": "https://www.whosdatedwho.com/dating/brian-van-holt",
+            "relationship_type": 2,
+            "start_date": "Mar 1998",
+            "end_date": "May 1998",
+            "length": "2 months",
+            "start_months_since_1900": 1178,
+            "end_months_since_1900": 1180,
+            "length_in_months": 2
+        },
+        {
+            "name": "Michael Cerveris",
+            "href": "https://www.whosdatedwho.com/dating/michael-cerveris",
+            "relationship_type": 2,
+            "start_date": "1997",
+            "end_date": "1997",
+            "length": "-",
+            "start_months_since_1900": 1164,
+            "end_months_since_1900": 1164,
+            "length_in_months": -1
+        }
+    ],
+    "details": {
+        "First Name": "Beth",
+        "Middle Name": "Anne",
+        "Last Name": "Stern",
+        "Maiden Name": "Ostrosky",
+        "Full Name at Birth": "Beth Anne Ostrosky",
+        "Alternative Name": "Beth Stern, Beth O., Beth O`Stern, Beth Stern, Beth O`Stern, Beth Ostroski, Beth Ostrosky Stern, Beth Ostrosky",
+        "Birthday": "1972",
+        "Birthplace": "Pennsylvania",
+        "Height": "176",
+        "Weight": "105lbs (48 kg)",
+        "Zodiac Sign": "8",
+        "Sexuality": "Straight",
+        "Religion": "13",
+        "Ethnicity": "6",
+        "Nationality": "91",
+        "Occupation": "16"
+    }
+}

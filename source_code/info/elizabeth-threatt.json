@@ -1,0 +1,77 @@
+{
+    "relationships": [
+        {
+            "name": "Gene Williams",
+            "href": "https://www.whosdatedwho.com/dating/gene-williams",
+            "relationship_type": 4,
+            "start_date": "1953",
+            "end_date": "1954",
+            "length": "1 year",
+            "start_months_since_1900": 636,
+            "end_months_since_1900": 648,
+            "length_in_months": 12
+        },
+        {
+            "name": "Kirk Douglas",
+            "href": "https://www.whosdatedwho.com/dating/kirk-douglas",
+            "relationship_type": 2,
+            "start_date": "1951",
+            "end_date": "1953",
+            "length": "2 years",
+            "start_months_since_1900": 612,
+            "end_months_since_1900": 636,
+            "length_in_months": 24
+        },
+        {
+            "name": "Howard Hawks",
+            "href": "https://www.whosdatedwho.com/dating/howard-hawks",
+            "relationship_type": 2,
+            "start_date": "1950",
+            "end_date": "1951",
+            "length": "1 year",
+            "start_months_since_1900": 600,
+            "end_months_since_1900": 612,
+            "length_in_months": 12
+        },
+        {
+            "name": "Louis Cushed",
+            "href": "https://www.whosdatedwho.com/dating/louis-cushed",
+            "relationship_type": 4,
+            "start_date": "1946",
+            "end_date": "1950",
+            "length": "4 years",
+            "start_months_since_1900": 552,
+            "end_months_since_1900": 600,
+            "length_in_months": 48
+        },
+        {
+            "name": "Antoine Decontades",
+            "href": "https://www.whosdatedwho.com/dating/antoine-decontades",
+            "relationship_type": 4,
+            "start_date": "",
+            "end_date": "1963",
+            "length": "-",
+            "start_months_since_1900": -1,
+            "end_months_since_1900": 756,
+            "length_in_months": -1
+        }
+    ],
+    "details": {
+        "First Name": "Elizabeth",
+        "Middle Name": "NA",
+        "Last Name": "Threatt",
+        "Maiden Name": "NA",
+        "Full Name at Birth": "Elizabeth Coyet Threatt",
+        "Alternative Name": "Elizabeth Coyet Threatt, Elizabeth Coyet, Elizabeth Coyote, Betty",
+        "Birthday": "1926",
+        "Birthplace": "United States",
+        "Height": "NA",
+        "Weight": "NA",
+        "Zodiac Sign": "7",
+        "Sexuality": "Straight",
+        "Religion": "1",
+        "Ethnicity": "8",
+        "Nationality": "91",
+        "Occupation": "15"
+    }
+}

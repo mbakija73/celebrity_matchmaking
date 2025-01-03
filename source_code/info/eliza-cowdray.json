@@ -1,0 +1,44 @@
+{
+    "relationships": [
+        {
+            "name": "Ned Rocknroll",
+            "href": "https://www.whosdatedwho.com/dating/ned-rocknroll",
+            "relationship_type": 4,
+            "start_date": "2007",
+            "end_date": "2011",
+            "length": "4 years",
+            "start_months_since_1900": 1284,
+            "end_months_since_1900": 1332,
+            "length_in_months": 48
+        },
+        {
+            "name": "Jonathan Debin",
+            "href": "https://www.whosdatedwho.com/dating/jonathan-debin",
+            "relationship_type": 2,
+            "start_date": "",
+            "end_date": "",
+            "length": "-",
+            "start_months_since_1900": -1,
+            "end_months_since_1900": -1,
+            "length_in_months": -1
+        }
+    ],
+    "details": {
+        "First Name": "Eliza",
+        "Middle Name": "NA",
+        "Last Name": "Cowdray",
+        "Maiden Name": "NA",
+        "Full Name at Birth": "Eliza Anne Venetia Pearson",
+        "Alternative Name": "Eliza Pearson",
+        "Birthday": "1988",
+        "Birthplace": "NA",
+        "Height": "NA",
+        "Weight": "NA",
+        "Zodiac Sign": "4",
+        "Sexuality": "Straight",
+        "Religion": "1",
+        "Ethnicity": "6",
+        "Nationality": "8",
+        "Occupation": "11"
+    }
+}

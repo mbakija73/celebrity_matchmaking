@@ -1,0 +1,55 @@
+{
+    "relationships": [
+        {
+            "name": "Marlon Brando",
+            "href": "https://www.whosdatedwho.com/dating/marlon-brando",
+            "relationship_type": 4,
+            "start_date": "1959",
+            "end_date": "1968",
+            "length": "9 years",
+            "start_months_since_1900": 708,
+            "end_months_since_1900": 816,
+            "length_in_months": 108
+        },
+        {
+            "name": "Jack Doyle",
+            "href": "https://www.whosdatedwho.com/dating/jack-doyle",
+            "relationship_type": 4,
+            "start_date": "1938",
+            "end_date": "1944",
+            "length": "6 years",
+            "start_months_since_1900": 456,
+            "end_months_since_1900": 528,
+            "length_in_months": 72
+        },
+        {
+            "name": "Clark Gable",
+            "href": "https://www.whosdatedwho.com/dating/clark-gable",
+            "relationship_type": 3,
+            "start_date": "1935",
+            "end_date": "1935",
+            "length": "-",
+            "start_months_since_1900": 420,
+            "end_months_since_1900": 420,
+            "length_in_months": -1
+        }
+    ],
+    "details": {
+        "First Name": "Movita",
+        "Middle Name": "Luisa",
+        "Last Name": "NA",
+        "Maiden Name": "Castaneda",
+        "Full Name at Birth": "Maria Luisa Castaneda",
+        "Alternative Name": "Movita Castaneda, Maria Luisa Castaneda, Maria Castaneda",
+        "Birthday": "1916",
+        "Birthplace": "Arizona USA",
+        "Height": "NA",
+        "Weight": "NA",
+        "Zodiac Sign": "7",
+        "Sexuality": "Straight",
+        "Religion": "13",
+        "Ethnicity": "1",
+        "Nationality": "91",
+        "Occupation": "8"
+    }
+}

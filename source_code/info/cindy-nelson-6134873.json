@@ -1,0 +1,33 @@
+{
+    "relationships": [
+        {
+            "name": "Martina Navratilova",
+            "href": "https://www.whosdatedwho.com/dating/martina-navratilova",
+            "relationship_type": 2,
+            "start_date": "1992",
+            "end_date": "1992",
+            "length": "-",
+            "start_months_since_1900": 1104,
+            "end_months_since_1900": 1104,
+            "length_in_months": -1
+        }
+    ],
+    "details": {
+        "First Name": "Cindy",
+        "Middle Name": "NA",
+        "Last Name": "Nelson",
+        "Maiden Name": "NA",
+        "Full Name at Birth": "NA",
+        "Alternative Name": "NA",
+        "Birthday": "1955",
+        "Birthplace": "MN",
+        "Height": "168",
+        "Weight": "NA",
+        "Zodiac Sign": "12",
+        "Sexuality": "NA",
+        "Religion": "1",
+        "Ethnicity": "1",
+        "Nationality": "91",
+        "Occupation": "2"
+    }
+}

@@ -1,0 +1,44 @@
+{
+    "relationships": [
+        {
+            "name": "Nuno Silva",
+            "href": "https://www.whosdatedwho.com/dating/nuno-silva",
+            "relationship_type": 3,
+            "start_date": "Jul 2017",
+            "end_date": "Aug 2017",
+            "length": "1 month",
+            "start_months_since_1900": 1410,
+            "end_months_since_1900": 1411,
+            "length_in_months": 1
+        },
+        {
+            "name": "Bruno Marv\u00e3o",
+            "href": "https://www.whosdatedwho.com/dating/bruno-marvao",
+            "relationship_type": 3,
+            "start_date": "Jan 2017",
+            "end_date": "Jan 2017",
+            "length": "-",
+            "start_months_since_1900": 1404,
+            "end_months_since_1900": 1404,
+            "length_in_months": -1
+        }
+    ],
+    "details": {
+        "First Name": "Andreia",
+        "Middle Name": "Mesquita",
+        "Last Name": "Cardoso",
+        "Maiden Name": "NA",
+        "Full Name at Birth": "NA",
+        "Alternative Name": "NA",
+        "Birthday": "1993",
+        "Birthplace": "Portugal",
+        "Height": "NA",
+        "Weight": "NA",
+        "Zodiac Sign": "2",
+        "Sexuality": "NA",
+        "Religion": "1",
+        "Ethnicity": "6",
+        "Nationality": "77",
+        "Occupation": "11"
+    }
+}

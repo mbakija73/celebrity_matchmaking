@@ -1,0 +1,55 @@
+{
+    "relationships": [
+        {
+            "name": "Barbie Blank",
+            "href": "https://www.whosdatedwho.com/dating/barbie-blank",
+            "relationship_type": 2,
+            "start_date": "2007",
+            "end_date": "Mar 2009",
+            "length": "2 years",
+            "start_months_since_1900": 1284,
+            "end_months_since_1900": 1310,
+            "length_in_months": 24
+        },
+        {
+            "name": "Stacy Keibler",
+            "href": "https://www.whosdatedwho.com/dating/stacy-keibler",
+            "relationship_type": 2,
+            "start_date": "2000",
+            "end_date": "2002",
+            "length": "2 years",
+            "start_months_since_1900": 1200,
+            "end_months_since_1900": 1224,
+            "length_in_months": 24
+        },
+        {
+            "name": "Stephanie McMahon",
+            "href": "https://www.whosdatedwho.com/dating/stephanie-mcmahon",
+            "relationship_type": 4,
+            "start_date": "1999",
+            "end_date": "1999",
+            "length": "-",
+            "start_months_since_1900": 1188,
+            "end_months_since_1900": 1188,
+            "length_in_months": -1
+        }
+    ],
+    "details": {
+        "First Name": "Andrew",
+        "Middle Name": "NA",
+        "Last Name": "Martin",
+        "Maiden Name": "NA",
+        "Full Name at Birth": "Andrew James Robert Patrick Martin",
+        "Alternative Name": "Big Foot, Martin Kane, Test, T.J. Thunder, The Punisher, Andrew \"Test\" Martin, Andrew Martin",
+        "Birthday": "1975",
+        "Birthplace": "Ontario",
+        "Height": "200",
+        "Weight": "282lbs (128 kg)",
+        "Zodiac Sign": "1",
+        "Sexuality": "Straight",
+        "Religion": "1",
+        "Ethnicity": "6",
+        "Nationality": "90",
+        "Occupation": "2"
+    }
+}

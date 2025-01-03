@@ -1,0 +1,66 @@
+{
+    "relationships": [
+        {
+            "name": "Char Defrancesco",
+            "href": "https://www.whosdatedwho.com/dating/char-defrancesco",
+            "relationship_type": 4,
+            "start_date": "2015",
+            "end_date": "present",
+            "length": "9 years",
+            "start_months_since_1900": 1380,
+            "end_months_since_1900": -1,
+            "length_in_months": 108
+        },
+        {
+            "name": "Harry Louis",
+            "href": "https://www.whosdatedwho.com/dating/harry-louis",
+            "relationship_type": 2,
+            "start_date": "2011",
+            "end_date": "Oct 2013",
+            "length": "2 years",
+            "start_months_since_1900": 1332,
+            "end_months_since_1900": 1365,
+            "length_in_months": 24
+        },
+        {
+            "name": "Austin Armacost",
+            "href": "https://www.whosdatedwho.com/dating/austin-armacost",
+            "relationship_type": 2,
+            "start_date": "Mar 2008",
+            "end_date": "2009",
+            "length": "10 months",
+            "start_months_since_1900": 1298,
+            "end_months_since_1900": 1308,
+            "length_in_months": 10
+        },
+        {
+            "name": "Lorenzo Martone",
+            "href": "https://www.whosdatedwho.com/dating/lorenzo-martone",
+            "relationship_type": 4,
+            "start_date": "2007",
+            "end_date": "May 2010",
+            "length": "3 years",
+            "start_months_since_1900": 1284,
+            "end_months_since_1900": 1324,
+            "length_in_months": 36
+        }
+    ],
+    "details": {
+        "First Name": "Marc",
+        "Middle Name": "NA",
+        "Last Name": "Jacobs",
+        "Maiden Name": "NA",
+        "Full Name at Birth": "NA",
+        "Alternative Name": "NA",
+        "Birthday": "1963",
+        "Birthplace": "New York City",
+        "Height": "175",
+        "Weight": "159lbs (72 kg)",
+        "Zodiac Sign": "7",
+        "Sexuality": "Gay",
+        "Religion": "31",
+        "Ethnicity": "6",
+        "Nationality": "91",
+        "Occupation": "15"
+    }
+}

@@ -1,0 +1,33 @@
+{
+    "relationships": [
+        {
+            "name": "Eve Arden",
+            "href": "https://www.whosdatedwho.com/dating/eve-arden",
+            "relationship_type": 4,
+            "start_date": "1946",
+            "end_date": "7th Feb 1984",
+            "length": "38 years",
+            "start_months_since_1900": 552,
+            "end_months_since_1900": 1009,
+            "length_in_months": 456
+        }
+    ],
+    "details": {
+        "First Name": "Brooks",
+        "Middle Name": "NA",
+        "Last Name": "West",
+        "Maiden Name": "NA",
+        "Full Name at Birth": "Dudley Brooks West",
+        "Alternative Name": "NA",
+        "Birthday": "1916",
+        "Birthplace": "USA",
+        "Height": "NA",
+        "Weight": "NA",
+        "Zodiac Sign": "1",
+        "Sexuality": "Bisexual",
+        "Religion": "1",
+        "Ethnicity": "6",
+        "Nationality": "91",
+        "Occupation": "8"
+    }
+}

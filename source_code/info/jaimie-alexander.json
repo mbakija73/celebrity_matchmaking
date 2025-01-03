@@ -1,0 +1,77 @@
+{
+    "relationships": [
+        {
+            "name": "David Raymond",
+            "href": "https://www.whosdatedwho.com/dating/david-raymond",
+            "relationship_type": 2,
+            "start_date": "2022",
+            "end_date": "2023",
+            "length": "1 year",
+            "start_months_since_1900": 1464,
+            "end_months_since_1900": 1476,
+            "length_in_months": 12
+        },
+        {
+            "name": "Airon Armstrong",
+            "href": "https://www.whosdatedwho.com/dating/airon-armstrong",
+            "relationship_type": 2,
+            "start_date": "Sep 2016",
+            "end_date": "Sep 2016",
+            "length": "-",
+            "start_months_since_1900": 1400,
+            "end_months_since_1900": 1400,
+            "length_in_months": -1
+        },
+        {
+            "name": "Peter Facinelli",
+            "href": "https://www.whosdatedwho.com/dating/peter-facinelli",
+            "relationship_type": 2,
+            "start_date": "Nov 2012",
+            "end_date": "Feb 2016",
+            "length": "3 years",
+            "start_months_since_1900": 1354,
+            "end_months_since_1900": 1393,
+            "length_in_months": 36
+        },
+        {
+            "name": "Milo Ventimiglia",
+            "href": "https://www.whosdatedwho.com/dating/milo-ventimiglia",
+            "relationship_type": 2,
+            "start_date": "2010",
+            "end_date": "Feb 2012",
+            "length": "2 years",
+            "start_months_since_1900": 1320,
+            "end_months_since_1900": 1345,
+            "length_in_months": 24
+        },
+        {
+            "name": "Tom Pelphrey",
+            "href": "https://www.whosdatedwho.com/dating/tom-pelphrey",
+            "relationship_type": 2,
+            "start_date": "",
+            "end_date": "",
+            "length": "-",
+            "start_months_since_1900": -1,
+            "end_months_since_1900": -1,
+            "length_in_months": -1
+        }
+    ],
+    "details": {
+        "First Name": "Jaimie",
+        "Middle Name": "Lauren",
+        "Last Name": "Alexander",
+        "Maiden Name": "Tarbush",
+        "Full Name at Birth": "Jaimie Lauren Tarbush",
+        "Alternative Name": "James, Jaimie Alexander, Jaimie Lauren Tarbush, Jaime Alexander, Jaimie Lauren Alexander",
+        "Birthday": "1984",
+        "Birthplace": "USA",
+        "Height": "175",
+        "Weight": "128lbs (58 kg)",
+        "Zodiac Sign": "1",
+        "Sexuality": "Straight",
+        "Religion": "18",
+        "Ethnicity": "6",
+        "Nationality": "91",
+        "Occupation": "8"
+    }
+}

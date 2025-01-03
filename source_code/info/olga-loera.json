@@ -1,0 +1,66 @@
+{
+    "relationships": [
+        {
+            "name": "John Gray",
+            "href": "https://www.whosdatedwho.com/dating/john-gray",
+            "relationship_type": 3,
+            "start_date": "30th Jul 2012",
+            "end_date": "25th Jan 2015",
+            "length": "2 years",
+            "start_months_since_1900": 1350,
+            "end_months_since_1900": 1380,
+            "length_in_months": 24
+        },
+        {
+            "name": "Pitbull",
+            "href": "https://www.whosdatedwho.com/dating/pitbull",
+            "relationship_type": 3,
+            "start_date": "May 2012",
+            "end_date": "May 2012",
+            "length": "-",
+            "start_months_since_1900": 1348,
+            "end_months_since_1900": 1348,
+            "length_in_months": -1
+        },
+        {
+            "name": "Gavin Sterritt",
+            "href": "https://www.whosdatedwho.com/dating/gavin-sterritt",
+            "relationship_type": 2,
+            "start_date": "",
+            "end_date": "",
+            "length": "-",
+            "start_months_since_1900": -1,
+            "end_months_since_1900": -1,
+            "length_in_months": -1
+        },
+        {
+            "name": "Kevin Montalvo",
+            "href": "https://www.whosdatedwho.com/dating/kevin-montalvo",
+            "relationship_type": 4,
+            "start_date": "",
+            "end_date": "",
+            "length": "-",
+            "start_months_since_1900": -1,
+            "end_months_since_1900": -1,
+            "length_in_months": -1
+        }
+    ],
+    "details": {
+        "First Name": "Olga",
+        "Middle Name": "NA",
+        "Last Name": "Loera",
+        "Maiden Name": "NA",
+        "Full Name at Birth": "Olga lidia Loera Martinez",
+        "Alternative Name": "Olga Loera",
+        "Birthday": "1980",
+        "Birthplace": "Mexico",
+        "Height": "155",
+        "Weight": "105lbs (48 kg)",
+        "Zodiac Sign": "9",
+        "Sexuality": "Straight",
+        "Religion": "28",
+        "Ethnicity": "8",
+        "Nationality": "7",
+        "Occupation": "16"
+    }
+}

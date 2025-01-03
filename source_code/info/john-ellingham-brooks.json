@@ -1,0 +1,55 @@
+{
+    "relationships": [
+        {
+            "name": "Romaine Brooks",
+            "href": "https://www.whosdatedwho.com/dating/romaine-brooks",
+            "relationship_type": 4,
+            "start_date": "",
+            "end_date": "",
+            "length": "-",
+            "start_months_since_1900": -1,
+            "end_months_since_1900": -1,
+            "length_in_months": -1
+        },
+        {
+            "name": "W. Somerset Maugham",
+            "href": "https://www.whosdatedwho.com/dating/w-somerset-maugham",
+            "relationship_type": 2,
+            "start_date": "",
+            "end_date": "",
+            "length": "-",
+            "start_months_since_1900": -1,
+            "end_months_since_1900": -1,
+            "length_in_months": -1
+        },
+        {
+            "name": "E.F. Benson",
+            "href": "https://www.whosdatedwho.com/dating/e-f-benson-born-1867",
+            "relationship_type": 2,
+            "start_date": "",
+            "end_date": "",
+            "length": "-",
+            "start_months_since_1900": -1,
+            "end_months_since_1900": -1,
+            "length_in_months": -1
+        }
+    ],
+    "details": {
+        "First Name": "John",
+        "Middle Name": "Ellingham",
+        "Last Name": "Brooks",
+        "Maiden Name": "NA",
+        "Full Name at Birth": "NA",
+        "Alternative Name": "NA",
+        "Birthday": "1862",
+        "Birthplace": "England",
+        "Height": "NA",
+        "Weight": "NA",
+        "Zodiac Sign": "2",
+        "Sexuality": "Gay",
+        "Religion": "1",
+        "Ethnicity": "6",
+        "Nationality": "8",
+        "Occupation": "1"
+    }
+}

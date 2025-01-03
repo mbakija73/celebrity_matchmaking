@@ -1,0 +1,77 @@
+{
+    "relationships": [
+        {
+            "name": "Gabriel Boric",
+            "href": "https://www.whosdatedwho.com/dating/gabriel-boric",
+            "relationship_type": 2,
+            "start_date": "Aug 2018",
+            "end_date": "Nov 2018",
+            "length": "3 months",
+            "start_months_since_1900": 1423,
+            "end_months_since_1900": 1426,
+            "length_in_months": 3
+        },
+        {
+            "name": "Fulvio Rossi Ciocca",
+            "href": "https://www.whosdatedwho.com/dating/fulvio-rossi-ciocca",
+            "relationship_type": 2,
+            "start_date": "2012",
+            "end_date": "2013",
+            "length": "1 year",
+            "start_months_since_1900": 1344,
+            "end_months_since_1900": 1356,
+            "length_in_months": 12
+        },
+        {
+            "name": "Mario Velasco",
+            "href": "https://www.whosdatedwho.com/dating/mario-velasco",
+            "relationship_type": 2,
+            "start_date": "Apr 2009",
+            "end_date": "Aug 2009",
+            "length": "4 months",
+            "start_months_since_1900": 1311,
+            "end_months_since_1900": 1315,
+            "length_in_months": 4
+        },
+        {
+            "name": "Mauricio Pinilla",
+            "href": "https://www.whosdatedwho.com/dating/mauricio-pinilla",
+            "relationship_type": 3,
+            "start_date": "Aug 2008",
+            "end_date": "Sep 2008",
+            "length": "1 month",
+            "start_months_since_1900": 1303,
+            "end_months_since_1900": 1304,
+            "length_in_months": 1
+        },
+        {
+            "name": "Alvaro Ballero",
+            "href": "https://www.whosdatedwho.com/dating/alvaro-ballero",
+            "relationship_type": 3,
+            "start_date": "2008",
+            "end_date": "2008",
+            "length": "-",
+            "start_months_since_1900": 1296,
+            "end_months_since_1900": 1296,
+            "length_in_months": -1
+        }
+    ],
+    "details": {
+        "First Name": "Maite",
+        "Middle Name": "NA",
+        "Last Name": "Orsini",
+        "Maiden Name": "NA",
+        "Full Name at Birth": "NA",
+        "Alternative Name": "NA",
+        "Birthday": "1988",
+        "Birthplace": "Chile",
+        "Height": "NA",
+        "Weight": "NA",
+        "Zodiac Sign": "1",
+        "Sexuality": "NA",
+        "Religion": "1",
+        "Ethnicity": "1",
+        "Nationality": "141",
+        "Occupation": "15"
+    }
+}

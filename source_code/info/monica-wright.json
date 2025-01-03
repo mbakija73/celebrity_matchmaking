@@ -1,0 +1,33 @@
+{
+    "relationships": [
+        {
+            "name": "Kevin Durant",
+            "href": "https://www.whosdatedwho.com/dating/kevin-durant",
+            "relationship_type": 2,
+            "start_date": "Jan 2013",
+            "end_date": "Jul 2014",
+            "length": "1 year",
+            "start_months_since_1900": 1356,
+            "end_months_since_1900": 1374,
+            "length_in_months": 12
+        }
+    ],
+    "details": {
+        "First Name": "Monica",
+        "Middle Name": "NA",
+        "Last Name": "Wright",
+        "Maiden Name": "NA",
+        "Full Name at Birth": "Monica Ashante Wright",
+        "Alternative Name": "NA",
+        "Birthday": "1988",
+        "Birthplace": "USA",
+        "Height": "180",
+        "Weight": "178lbs (81 kg)",
+        "Zodiac Sign": "8",
+        "Sexuality": "Straight",
+        "Religion": "1",
+        "Ethnicity": "2",
+        "Nationality": "91",
+        "Occupation": "2"
+    }
+}

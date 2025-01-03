@@ -1,0 +1,99 @@
+{
+    "relationships": [
+        {
+            "name": "Charles Hollerith",
+            "href": "https://www.whosdatedwho.com/dating/charles-hollerith",
+            "relationship_type": 4,
+            "start_date": "Jan 1985",
+            "end_date": "19th Dec 2003",
+            "length": "18 years",
+            "start_months_since_1900": 1020,
+            "end_months_since_1900": 1247,
+            "length_in_months": 216
+        },
+        {
+            "name": "John Cheever",
+            "href": "https://www.whosdatedwho.com/dating/john-cheever",
+            "relationship_type": 2,
+            "start_date": "1972",
+            "end_date": "1973",
+            "length": "1 year",
+            "start_months_since_1900": 864,
+            "end_months_since_1900": 876,
+            "length_in_months": 12
+        },
+        {
+            "name": "Alan J. Pakula",
+            "href": "https://www.whosdatedwho.com/dating/alan-j-pakula",
+            "relationship_type": 4,
+            "start_date": "1962",
+            "end_date": "Jul 1971",
+            "length": "9 years",
+            "start_months_since_1900": 744,
+            "end_months_since_1900": 858,
+            "length_in_months": 108
+        },
+        {
+            "name": "Glenn Ford",
+            "href": "https://www.whosdatedwho.com/dating/glenn-ford",
+            "relationship_type": 2,
+            "start_date": "May 1961",
+            "end_date": "Oct 1962",
+            "length": "1 year",
+            "start_months_since_1900": 736,
+            "end_months_since_1900": 753,
+            "length_in_months": 12
+        },
+        {
+            "name": "Stephen Boyd",
+            "href": "https://www.whosdatedwho.com/dating/stephen-boyd",
+            "relationship_type": 3,
+            "start_date": "Nov 1960",
+            "end_date": "Nov 1960",
+            "length": "-",
+            "start_months_since_1900": 730,
+            "end_months_since_1900": 730,
+            "length_in_months": -1
+        },
+        {
+            "name": "Don Murray",
+            "href": "https://www.whosdatedwho.com/dating/don-murray",
+            "relationship_type": 4,
+            "start_date": "1955",
+            "end_date": "Jul 1961",
+            "length": "6 years",
+            "start_months_since_1900": 660,
+            "end_months_since_1900": 738,
+            "length_in_months": 72
+        },
+        {
+            "name": "Eddie Fisher",
+            "href": "https://www.whosdatedwho.com/dating/eddie-fisher",
+            "relationship_type": 3,
+            "start_date": "",
+            "end_date": "",
+            "length": "-",
+            "start_months_since_1900": -1,
+            "end_months_since_1900": -1,
+            "length_in_months": -1
+        }
+    ],
+    "details": {
+        "First Name": "Hope",
+        "Middle Name": "Elise Ross",
+        "Last Name": "Lange",
+        "Maiden Name": "NA",
+        "Full Name at Birth": "Hope Elise Ross Lange",
+        "Alternative Name": "NA",
+        "Birthday": "1933",
+        "Birthplace": "USA",
+        "Height": "157",
+        "Weight": "NA",
+        "Zodiac Sign": "6",
+        "Sexuality": "Straight",
+        "Religion": "1",
+        "Ethnicity": "6",
+        "Nationality": "91",
+        "Occupation": "8"
+    }
+}

@@ -1,0 +1,154 @@
+{
+    "relationships": [
+        {
+            "name": "Greg Bautzer",
+            "href": "https://www.whosdatedwho.com/dating/greg-bautzer",
+            "relationship_type": 2,
+            "start_date": "Dec 1971",
+            "end_date": "Jan 1972",
+            "length": "1 month",
+            "start_months_since_1900": 863,
+            "end_months_since_1900": 864,
+            "length_in_months": 1
+        },
+        {
+            "name": "Adam West",
+            "href": "https://www.whosdatedwho.com/dating/adam-west",
+            "relationship_type": 2,
+            "start_date": "Jan 1968",
+            "end_date": "Jun 1968",
+            "length": "5 months",
+            "start_months_since_1900": 816,
+            "end_months_since_1900": 821,
+            "length_in_months": 5
+        },
+        {
+            "name": "Christopher George",
+            "href": "https://www.whosdatedwho.com/dating/christopher-george",
+            "relationship_type": 2,
+            "start_date": "Jan 1968",
+            "end_date": "Feb 1968",
+            "length": "1 month",
+            "start_months_since_1900": 816,
+            "end_months_since_1900": 817,
+            "length_in_months": 1
+        },
+        {
+            "name": "Yale Wexler",
+            "href": "https://www.whosdatedwho.com/dating/yale-wexler",
+            "relationship_type": 4,
+            "start_date": "Dec 1960",
+            "end_date": "1966",
+            "length": "5 years",
+            "start_months_since_1900": 731,
+            "end_months_since_1900": 792,
+            "length_in_months": 60
+        },
+        {
+            "name": "Buddy Bregman",
+            "href": "https://www.whosdatedwho.com/dating/buddy-bregman",
+            "relationship_type": 2,
+            "start_date": "Oct 1959",
+            "end_date": "Nov 1959",
+            "length": "1 month",
+            "start_months_since_1900": 717,
+            "end_months_since_1900": 718,
+            "length_in_months": 1
+        },
+        {
+            "name": "William Campbell",
+            "href": "https://www.whosdatedwho.com/dating/william-campbell",
+            "relationship_type": 2,
+            "start_date": "Jun 1959",
+            "end_date": "Aug 1959",
+            "length": "2 months",
+            "start_months_since_1900": 713,
+            "end_months_since_1900": 715,
+            "length_in_months": 2
+        },
+        {
+            "name": "Hugo Fregonese",
+            "href": "https://www.whosdatedwho.com/dating/hugo-fregonese",
+            "relationship_type": 2,
+            "start_date": "Apr 1959",
+            "end_date": "May 1959",
+            "length": "1 month",
+            "start_months_since_1900": 711,
+            "end_months_since_1900": 712,
+            "length_in_months": 1
+        },
+        {
+            "name": "John Saxon",
+            "href": "https://www.whosdatedwho.com/dating/john-saxon",
+            "relationship_type": 2,
+            "start_date": "Apr 1958",
+            "end_date": "Apr 1958",
+            "length": "-",
+            "start_months_since_1900": 699,
+            "end_months_since_1900": 699,
+            "length_in_months": -1
+        },
+        {
+            "name": "Robert Champion",
+            "href": "https://www.whosdatedwho.com/dating/robert-champion",
+            "relationship_type": 4,
+            "start_date": "Apr 1958",
+            "end_date": "Dec 1959",
+            "length": "1 year",
+            "start_months_since_1900": 699,
+            "end_months_since_1900": 719,
+            "length_in_months": 12
+        },
+        {
+            "name": "George DeWitt",
+            "href": "https://www.whosdatedwho.com/dating/george-dewitt",
+            "relationship_type": 3,
+            "start_date": "Mar 1958",
+            "end_date": "Apr 1958",
+            "length": "1 month",
+            "start_months_since_1900": 698,
+            "end_months_since_1900": 699,
+            "length_in_months": 1
+        },
+        {
+            "name": "Anson Williams",
+            "href": "https://www.whosdatedwho.com/dating/anson-williams",
+            "relationship_type": 2,
+            "start_date": "",
+            "end_date": "",
+            "length": "-",
+            "start_months_since_1900": -1,
+            "end_months_since_1900": -1,
+            "length_in_months": -1
+        },
+        {
+            "name": "Bobby Darin",
+            "href": "https://www.whosdatedwho.com/dating/bobby-darin",
+            "relationship_type": 3,
+            "start_date": "",
+            "end_date": "",
+            "length": "-",
+            "start_months_since_1900": -1,
+            "end_months_since_1900": -1,
+            "length_in_months": -1
+        }
+    ],
+    "details": {
+        "First Name": "Linda",
+        "Middle Name": "NA",
+        "Last Name": "Cristal",
+        "Maiden Name": "NA",
+        "Full Name at Birth": "Marta Victoria Moya Peggo Burges",
+        "Alternative Name": "Linda Cristal, Marta Wexler, Marta Victoria Moya Burges, Marta Victoria Moya Burges / Pego, Marta Victoria Moya Peggo Burges",
+        "Birthday": "1934",
+        "Birthplace": "Argentina",
+        "Height": "NA",
+        "Weight": "NA",
+        "Zodiac Sign": "1",
+        "Sexuality": "Straight",
+        "Religion": "1",
+        "Ethnicity": "6",
+        "Nationality": "28",
+        "Occupation": "8"
+    }
+}

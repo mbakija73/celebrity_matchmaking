@@ -1,0 +1,55 @@
+{
+    "relationships": [
+        {
+            "name": "Dodi Fayed",
+            "href": "https://www.whosdatedwho.com/dating/dodi-fayed",
+            "relationship_type": 2,
+            "start_date": "1981",
+            "end_date": "1981",
+            "length": "-",
+            "start_months_since_1900": 972,
+            "end_months_since_1900": 972,
+            "length_in_months": -1
+        },
+        {
+            "name": "Barry Roberts",
+            "href": "https://www.whosdatedwho.com/dating/barry-roberts",
+            "relationship_type": 4,
+            "start_date": "1974",
+            "end_date": "1981",
+            "length": "7 years",
+            "start_months_since_1900": 888,
+            "end_months_since_1900": 972,
+            "length_in_months": 84
+        },
+        {
+            "name": "Lance O'Brien",
+            "href": "https://www.whosdatedwho.com/dating/lance-o-brien",
+            "relationship_type": 2,
+            "start_date": "",
+            "end_date": "",
+            "length": "-",
+            "start_months_since_1900": -1,
+            "end_months_since_1900": -1,
+            "length_in_months": -1
+        }
+    ],
+    "details": {
+        "First Name": "Tanya",
+        "Middle Name": "NA",
+        "Last Name": "Roberts",
+        "Maiden Name": "NA",
+        "Full Name at Birth": "Victoria Leigh Blum",
+        "Alternative Name": "NA",
+        "Birthday": "1949",
+        "Birthplace": "USA",
+        "Height": "173",
+        "Weight": "NA",
+        "Zodiac Sign": "10",
+        "Sexuality": "Straight",
+        "Religion": "31",
+        "Ethnicity": "6",
+        "Nationality": "91",
+        "Occupation": "8"
+    }
+}

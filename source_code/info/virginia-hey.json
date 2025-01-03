@@ -1,0 +1,44 @@
+{
+    "relationships": [
+        {
+            "name": "Michael Hutchence",
+            "href": "https://www.whosdatedwho.com/dating/michael-hutchence",
+            "relationship_type": 2,
+            "start_date": "1988",
+            "end_date": "1988",
+            "length": "-",
+            "start_months_since_1900": 1056,
+            "end_months_since_1900": 1056,
+            "length_in_months": -1
+        },
+        {
+            "name": "John Taylor",
+            "href": "https://www.whosdatedwho.com/dating/john-taylor",
+            "relationship_type": 2,
+            "start_date": "1985",
+            "end_date": "1985",
+            "length": "-",
+            "start_months_since_1900": 1020,
+            "end_months_since_1900": 1020,
+            "length_in_months": -1
+        }
+    ],
+    "details": {
+        "First Name": "Virginia",
+        "Middle Name": "Robyn",
+        "Last Name": "NA",
+        "Maiden Name": "Hey",
+        "Full Name at Birth": "Virginia Robyn Hey",
+        "Alternative Name": "Gardenia, Virginia Robyn Hey, Virginia Hey",
+        "Birthday": "1952",
+        "Birthplace": "Australia",
+        "Height": "179",
+        "Weight": "150lbs (68 kg)",
+        "Zodiac Sign": "4",
+        "Sexuality": "Straight",
+        "Religion": "26",
+        "Ethnicity": "6",
+        "Nationality": "135",
+        "Occupation": "8"
+    }
+}

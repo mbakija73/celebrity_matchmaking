@@ -1,0 +1,66 @@
+{
+    "relationships": [
+        {
+            "name": "Heather Lowe",
+            "href": "https://www.whosdatedwho.com/dating/heather-lowe",
+            "relationship_type": 4,
+            "start_date": "1986",
+            "end_date": "",
+            "length": "-",
+            "start_months_since_1900": 1032,
+            "end_months_since_1900": -1,
+            "length_in_months": -1
+        },
+        {
+            "name": "Brenda Scott",
+            "href": "https://www.whosdatedwho.com/dating/brenda-scott",
+            "relationship_type": 4,
+            "start_date": "Dec 1965",
+            "end_date": "1978",
+            "length": "12 years",
+            "start_months_since_1900": 791,
+            "end_months_since_1900": 936,
+            "length_in_months": 144
+        },
+        {
+            "name": "Karyn Kupcinet",
+            "href": "https://www.whosdatedwho.com/dating/karyn-kupcinet",
+            "relationship_type": 2,
+            "start_date": "Dec 1962",
+            "end_date": "1963",
+            "length": "1 month",
+            "start_months_since_1900": 755,
+            "end_months_since_1900": 756,
+            "length_in_months": 1
+        },
+        {
+            "name": "Sharon Farrell",
+            "href": "https://www.whosdatedwho.com/dating/sharon-farrell",
+            "relationship_type": 4,
+            "start_date": "1961",
+            "end_date": "1962",
+            "length": "1 year",
+            "start_months_since_1900": 732,
+            "end_months_since_1900": 744,
+            "length_in_months": 12
+        }
+    ],
+    "details": {
+        "First Name": "Andrew",
+        "Middle Name": "Louis",
+        "Last Name": "Prine",
+        "Maiden Name": "NA",
+        "Full Name at Birth": "Andrew Louis Prine",
+        "Alternative Name": "Andrew Lewis Prine, Andrew Prine, Andrew Louis Prine",
+        "Birthday": "1936",
+        "Birthplace": "USA",
+        "Height": "188",
+        "Weight": "NA",
+        "Zodiac Sign": "9",
+        "Sexuality": "Straight",
+        "Religion": "1",
+        "Ethnicity": "6",
+        "Nationality": "91",
+        "Occupation": "8"
+    }
+}

@@ -1,0 +1,99 @@
+{
+    "relationships": [
+        {
+            "name": "Tami Roman",
+            "href": "https://www.whosdatedwho.com/dating/tami-roman",
+            "relationship_type": 3,
+            "start_date": "Oct 1992",
+            "end_date": "Oct 1992",
+            "length": "-",
+            "start_months_since_1900": 1113,
+            "end_months_since_1900": 1113,
+            "length_in_months": -1
+        },
+        {
+            "name": "Jada Pinkett Smith",
+            "href": "https://www.whosdatedwho.com/dating/jada-pinkett-smith",
+            "relationship_type": 3,
+            "start_date": "1992",
+            "end_date": "1992",
+            "length": "-",
+            "start_months_since_1900": 1104,
+            "end_months_since_1900": 1104,
+            "length_in_months": -1
+        },
+        {
+            "name": "MC Lyte",
+            "href": "https://www.whosdatedwho.com/dating/mc-lyte",
+            "relationship_type": 2,
+            "start_date": "1992",
+            "end_date": "1993",
+            "length": "1 year",
+            "start_months_since_1900": 1104,
+            "end_months_since_1900": 1116,
+            "length_in_months": 12
+        },
+        {
+            "name": "Lisa Fischer",
+            "href": "https://www.whosdatedwho.com/dating/lisa-fischer-musician",
+            "relationship_type": 3,
+            "start_date": "",
+            "end_date": "",
+            "length": "-",
+            "start_months_since_1900": -1,
+            "end_months_since_1900": -1,
+            "length_in_months": -1
+        },
+        {
+            "name": "Karyn Parsons",
+            "href": "https://www.whosdatedwho.com/dating/karyn-parsons",
+            "relationship_type": 3,
+            "start_date": "",
+            "end_date": "",
+            "length": "-",
+            "start_months_since_1900": -1,
+            "end_months_since_1900": -1,
+            "length_in_months": -1
+        },
+        {
+            "name": "Tracie Spencer",
+            "href": "https://www.whosdatedwho.com/dating/tracie-spencer",
+            "relationship_type": 3,
+            "start_date": "",
+            "end_date": "",
+            "length": "-",
+            "start_months_since_1900": -1,
+            "end_months_since_1900": -1,
+            "length_in_months": -1
+        },
+        {
+            "name": "Tyler Collins",
+            "href": "https://www.whosdatedwho.com/dating/tyler-collins",
+            "relationship_type": 3,
+            "start_date": "",
+            "end_date": "",
+            "length": "-",
+            "start_months_since_1900": -1,
+            "end_months_since_1900": -1,
+            "length_in_months": -1
+        }
+    ],
+    "details": {
+        "First Name": "Todd",
+        "Middle Name": "NA",
+        "Last Name": "1",
+        "Maiden Name": "NA",
+        "Full Name at Birth": "Todd A. Brown",
+        "Alternative Name": "Todd A. Brown, Todd Brown, Todd Muhammad, Todd-1",
+        "Birthday": "1970",
+        "Birthplace": "USA",
+        "Height": "171",
+        "Weight": "NA",
+        "Zodiac Sign": "4",
+        "Sexuality": "Straight",
+        "Religion": "1",
+        "Ethnicity": "2",
+        "Nationality": "91",
+        "Occupation": "11"
+    }
+}

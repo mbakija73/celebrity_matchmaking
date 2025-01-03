@@ -1,0 +1,33 @@
+{
+    "relationships": [
+        {
+            "name": "David Tennant",
+            "href": "https://www.whosdatedwho.com/dating/david-tennant",
+            "relationship_type": 2,
+            "start_date": "Nov 2007",
+            "end_date": "Feb 2008",
+            "length": "3 months",
+            "start_months_since_1900": 1294,
+            "end_months_since_1900": 1297,
+            "length_in_months": 3
+        }
+    ],
+    "details": {
+        "First Name": "Bethan",
+        "Middle Name": "NA",
+        "Last Name": "Britton",
+        "Maiden Name": "NA",
+        "Full Name at Birth": "Bethan Britton",
+        "Alternative Name": "Beth Britton",
+        "Birthday": "1980",
+        "Birthplace": "UK",
+        "Height": "NA",
+        "Weight": "NA",
+        "Zodiac Sign": "13",
+        "Sexuality": "Straight",
+        "Religion": "1",
+        "Ethnicity": "6",
+        "Nationality": "83",
+        "Occupation": "18"
+    }
+}

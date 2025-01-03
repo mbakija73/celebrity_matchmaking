@@ -1,0 +1,44 @@
+{
+    "relationships": [
+        {
+            "name": "Dixie D'Amelio",
+            "href": "https://www.whosdatedwho.com/dating/dixie-d-amelio",
+            "relationship_type": 2,
+            "start_date": "Sep 2020",
+            "end_date": "Nov 2022",
+            "length": "2 years",
+            "start_months_since_1900": 1448,
+            "end_months_since_1900": 1474,
+            "length_in_months": 24
+        },
+        {
+            "name": "Slim Danger",
+            "href": "https://www.whosdatedwho.com/dating/slim-danger",
+            "relationship_type": 3,
+            "start_date": "",
+            "end_date": "",
+            "length": "-",
+            "start_months_since_1900": -1,
+            "end_months_since_1900": -1,
+            "length_in_months": -1
+        }
+    ],
+    "details": {
+        "First Name": "Noah",
+        "Middle Name": "Timothy",
+        "Last Name": "Beck",
+        "Maiden Name": "NA",
+        "Full Name at Birth": "Noah Timothy Beck",
+        "Alternative Name": "Noah, Noah Timothy Beck, Noah Beck",
+        "Birthday": "2001",
+        "Birthplace": "USA",
+        "Height": "175",
+        "Weight": "163lbs (74 kg)",
+        "Zodiac Sign": "3",
+        "Sexuality": "Straight",
+        "Religion": "1",
+        "Ethnicity": "6",
+        "Nationality": "91",
+        "Occupation": "2"
+    }
+}

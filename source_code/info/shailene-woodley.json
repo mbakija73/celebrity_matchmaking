@@ -1,0 +1,88 @@
+{
+    "relationships": [
+        {
+            "name": "Aaron Rodgers",
+            "href": "https://www.whosdatedwho.com/dating/aaron-rodgers",
+            "relationship_type": 2,
+            "start_date": "Jun 2020",
+            "end_date": "Feb 2022",
+            "length": "1 year",
+            "start_months_since_1900": 1445,
+            "end_months_since_1900": 1465,
+            "length_in_months": 12
+        },
+        {
+            "name": "Ben Volavola",
+            "href": "https://www.whosdatedwho.com/dating/ben-volavola",
+            "relationship_type": 2,
+            "start_date": "Aug 2017",
+            "end_date": "Apr 2020",
+            "length": "2 years",
+            "start_months_since_1900": 1411,
+            "end_months_since_1900": 1443,
+            "length_in_months": 24
+        },
+        {
+            "name": "Ezra Miller",
+            "href": "https://www.whosdatedwho.com/dating/ezra-miller",
+            "relationship_type": 2,
+            "start_date": "Feb 2016",
+            "end_date": "",
+            "length": "-",
+            "start_months_since_1900": 1393,
+            "end_months_since_1900": -1,
+            "length_in_months": -1
+        },
+        {
+            "name": "Nahko Bear",
+            "href": "https://www.whosdatedwho.com/dating/nahko-bear",
+            "relationship_type": 2,
+            "start_date": "7th Nov 2014",
+            "end_date": "2016",
+            "length": "1 year",
+            "start_months_since_1900": 1378,
+            "end_months_since_1900": 1392,
+            "length_in_months": 12
+        },
+        {
+            "name": "Theo James",
+            "href": "https://www.whosdatedwho.com/dating/theo-james",
+            "relationship_type": 2,
+            "start_date": "Apr 2014",
+            "end_date": "",
+            "length": "-",
+            "start_months_since_1900": 1371,
+            "end_months_since_1900": -1,
+            "length_in_months": -1
+        },
+        {
+            "name": "Elliot Page",
+            "href": "https://www.whosdatedwho.com/dating/ellen-page",
+            "relationship_type": 2,
+            "start_date": "",
+            "end_date": "",
+            "length": "-",
+            "start_months_since_1900": -1,
+            "end_months_since_1900": -1,
+            "length_in_months": -1
+        }
+    ],
+    "details": {
+        "First Name": "Shailene",
+        "Middle Name": "Diann",
+        "Last Name": "Woodley",
+        "Maiden Name": "NA",
+        "Full Name at Birth": "Shailene Diann Woodley",
+        "Alternative Name": "Shai, Shaileney Beany",
+        "Birthday": "1991",
+        "Birthplace": "USA",
+        "Height": "173",
+        "Weight": "132lbs (60 kg)",
+        "Zodiac Sign": "6",
+        "Sexuality": "Bisexual",
+        "Religion": "18",
+        "Ethnicity": "8",
+        "Nationality": "91",
+        "Occupation": "8"
+    }
+}

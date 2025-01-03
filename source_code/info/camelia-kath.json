@@ -1,0 +1,55 @@
+{
+    "relationships": [
+        {
+            "name": "Jeff Lynne",
+            "href": "https://www.whosdatedwho.com/dating/jeff-lynne",
+            "relationship_type": 2,
+            "start_date": "2006",
+            "end_date": "present",
+            "length": "18 years",
+            "start_months_since_1900": 1272,
+            "end_months_since_1900": -1,
+            "length_in_months": 216
+        },
+        {
+            "name": "Kiefer Sutherland",
+            "href": "https://www.whosdatedwho.com/dating/kiefer-sutherland",
+            "relationship_type": 4,
+            "start_date": "1986",
+            "end_date": "1st Feb 1990",
+            "length": "4 years",
+            "start_months_since_1900": 1032,
+            "end_months_since_1900": 1081,
+            "length_in_months": 48
+        },
+        {
+            "name": "Terry Kath",
+            "href": "https://www.whosdatedwho.com/dating/terry-kath",
+            "relationship_type": 4,
+            "start_date": "1972",
+            "end_date": "23rd Jan 1978",
+            "length": "6 years",
+            "start_months_since_1900": 864,
+            "end_months_since_1900": 936,
+            "length_in_months": 72
+        }
+    ],
+    "details": {
+        "First Name": "Camelia",
+        "Middle Name": "NA",
+        "Last Name": "Kath",
+        "Maiden Name": "Ortiz",
+        "Full Name at Birth": "Camillia Emily Ortiz",
+        "Alternative Name": "Camelia Kath, Camelia Sutherland",
+        "Birthday": "1954",
+        "Birthplace": "USA",
+        "Height": "NA",
+        "Weight": "NA",
+        "Zodiac Sign": "6",
+        "Sexuality": "Straight",
+        "Religion": "1",
+        "Ethnicity": "8",
+        "Nationality": "91",
+        "Occupation": "8"
+    }
+}

@@ -1,0 +1,132 @@
+{
+    "relationships": [
+        {
+            "name": "Andy Jones",
+            "href": "https://www.whosdatedwho.com/dating/andy-jones",
+            "relationship_type": 2,
+            "start_date": "2005",
+            "end_date": "Dec 2009",
+            "length": "4 years",
+            "start_months_since_1900": 1260,
+            "end_months_since_1900": 1319,
+            "length_in_months": 48
+        },
+        {
+            "name": "Danny Goffey",
+            "href": "https://www.whosdatedwho.com/dating/daniel-goffey",
+            "relationship_type": 3,
+            "start_date": "2001",
+            "end_date": "2001",
+            "length": "-",
+            "start_months_since_1900": 1212,
+            "end_months_since_1900": 1212,
+            "length_in_months": -1
+        },
+        {
+            "name": "Jude Law",
+            "href": "https://www.whosdatedwho.com/dating/jude-law",
+            "relationship_type": 4,
+            "start_date": "Mar 1995",
+            "end_date": "Oct 2003",
+            "length": "8 years",
+            "start_months_since_1900": 1142,
+            "end_months_since_1900": 1245,
+            "length_in_months": 96
+        },
+        {
+            "name": "Gary Kemp",
+            "href": "https://www.whosdatedwho.com/dating/gary-kemp",
+            "relationship_type": 4,
+            "start_date": "1981",
+            "end_date": "Aug 1995",
+            "length": "14 years",
+            "start_months_since_1900": 972,
+            "end_months_since_1900": 1147,
+            "length_in_months": 168
+        },
+        {
+            "name": "James Gooding",
+            "href": "https://www.whosdatedwho.com/dating/james-gooding",
+            "relationship_type": 1,
+            "start_date": "",
+            "end_date": "",
+            "length": "-",
+            "start_months_since_1900": -1,
+            "end_months_since_1900": -1,
+            "length_in_months": -1
+        },
+        {
+            "name": "Barry Smith",
+            "href": "https://www.whosdatedwho.com/dating/barry-smith",
+            "relationship_type": 1,
+            "start_date": "",
+            "end_date": "",
+            "length": "-",
+            "start_months_since_1900": -1,
+            "end_months_since_1900": -1,
+            "length_in_months": -1
+        },
+        {
+            "name": "Jackson Scott",
+            "href": "https://www.whosdatedwho.com/dating/jackson-scott",
+            "relationship_type": 1,
+            "start_date": "",
+            "end_date": "",
+            "length": "-",
+            "start_months_since_1900": -1,
+            "end_months_since_1900": -1,
+            "length_in_months": -1
+        },
+        {
+            "name": "Kristian Marr",
+            "href": "https://www.whosdatedwho.com/dating/kristian-marr",
+            "relationship_type": 1,
+            "start_date": "",
+            "end_date": "",
+            "length": "-",
+            "start_months_since_1900": -1,
+            "end_months_since_1900": -1,
+            "length_in_months": -1
+        },
+        {
+            "name": "Darren Strowger",
+            "href": "https://www.whosdatedwho.com/dating/darren-strowger",
+            "relationship_type": 1,
+            "start_date": "",
+            "end_date": "",
+            "length": "-",
+            "start_months_since_1900": -1,
+            "end_months_since_1900": -1,
+            "length_in_months": -1
+        },
+        {
+            "name": "Tom Wright",
+            "href": "https://www.whosdatedwho.com/dating/tom-wright-129690210",
+            "relationship_type": 1,
+            "start_date": "",
+            "end_date": "",
+            "length": "-",
+            "start_months_since_1900": -1,
+            "end_months_since_1900": -1,
+            "length_in_months": -1
+        }
+    ],
+    "details": {
+        "First Name": "Sadie",
+        "Middle Name": "Liza",
+        "Last Name": "Frost",
+        "Maiden Name": "Vaughan",
+        "Full Name at Birth": "Sadie Liza Vaughan",
+        "Alternative Name": "Sadie Liza Frost, Sadie Liza Vaughan, Sadie Frost",
+        "Birthday": "1965",
+        "Birthplace": "England UK",
+        "Height": "170",
+        "Weight": "NA",
+        "Zodiac Sign": "4",
+        "Sexuality": "Straight",
+        "Religion": "1",
+        "Ethnicity": "6",
+        "Nationality": "8",
+        "Occupation": "8"
+    }
+}

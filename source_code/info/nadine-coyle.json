@@ -1,0 +1,66 @@
+{
+    "relationships": [
+        {
+            "name": "Jason Bell",
+            "href": "https://www.whosdatedwho.com/dating/jason-bell",
+            "relationship_type": 2,
+            "start_date": "Jan 2008",
+            "end_date": "Sep 2019",
+            "length": "11 years",
+            "start_months_since_1900": 1296,
+            "end_months_since_1900": 1436,
+            "length_in_months": 132
+        },
+        {
+            "name": "Jesse Metcalfe",
+            "href": "https://www.whosdatedwho.com/dating/jesse-metcalfe",
+            "relationship_type": 2,
+            "start_date": "May 2006",
+            "end_date": "Dec 2007",
+            "length": "1 year",
+            "start_months_since_1900": 1276,
+            "end_months_since_1900": 1295,
+            "length_in_months": 12
+        },
+        {
+            "name": "David Wilcox",
+            "href": "https://www.whosdatedwho.com/dating/david-wilcox-8798571",
+            "relationship_type": 2,
+            "start_date": "Jul 2003",
+            "end_date": "Jul 2003",
+            "length": "-",
+            "start_months_since_1900": 1242,
+            "end_months_since_1900": 1242,
+            "length_in_months": -1
+        },
+        {
+            "name": "Neil McCafferty",
+            "href": "https://www.whosdatedwho.com/dating/neil-mccafferty",
+            "relationship_type": 2,
+            "start_date": "Jul 2001",
+            "end_date": "Jul 2003",
+            "length": "2 years",
+            "start_months_since_1900": 1218,
+            "end_months_since_1900": 1242,
+            "length_in_months": 24
+        }
+    ],
+    "details": {
+        "First Name": "Nadine",
+        "Middle Name": "Elizabeth Louise",
+        "Last Name": "Coyle",
+        "Maiden Name": "NA",
+        "Full Name at Birth": "Nadine Elizabeth Louise Coyle",
+        "Alternative Name": "Diney, Nadine, Nadz",
+        "Birthday": "1985",
+        "Birthplace": "Northern Ireland",
+        "Height": "168",
+        "Weight": "126lbs (57 kg)",
+        "Zodiac Sign": "4",
+        "Sexuality": "Straight",
+        "Religion": "1",
+        "Ethnicity": "6",
+        "Nationality": "109",
+        "Occupation": "1"
+    }
+}

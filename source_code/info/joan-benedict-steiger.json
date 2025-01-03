@@ -1,0 +1,55 @@
+{
+    "relationships": [
+        {
+            "name": "Jeremy Slate",
+            "href": "https://www.whosdatedwho.com/dating/jeremy-slate",
+            "relationship_type": 2,
+            "start_date": "2002",
+            "end_date": "Nov 2006",
+            "length": "4 years",
+            "start_months_since_1900": 1224,
+            "end_months_since_1900": 1282,
+            "length_in_months": 48
+        },
+        {
+            "name": "John Myhers",
+            "href": "https://www.whosdatedwho.com/dating/john-myhers",
+            "relationship_type": 4,
+            "start_date": "1962",
+            "end_date": "May 1992",
+            "length": "30 years",
+            "start_months_since_1900": 744,
+            "end_months_since_1900": 1108,
+            "length_in_months": 360
+        },
+        {
+            "name": "Rod Steiger",
+            "href": "https://www.whosdatedwho.com/dating/rod-steiger",
+            "relationship_type": 4,
+            "start_date": "1959",
+            "end_date": "Jul 2002",
+            "length": "43 years",
+            "start_months_since_1900": 708,
+            "end_months_since_1900": 1230,
+            "length_in_months": 516
+        }
+    ],
+    "details": {
+        "First Name": "Joan",
+        "Middle Name": "NA",
+        "Last Name": "Steiger",
+        "Maiden Name": "Benedict",
+        "Full Name at Birth": "Joan Benedict",
+        "Alternative Name": "NA",
+        "Birthday": "1927",
+        "Birthplace": "USA",
+        "Height": "NA",
+        "Weight": "NA",
+        "Zodiac Sign": "8",
+        "Sexuality": "Straight",
+        "Religion": "1",
+        "Ethnicity": "6",
+        "Nationality": "91",
+        "Occupation": "8"
+    }
+}

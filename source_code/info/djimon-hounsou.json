@@ -1,0 +1,77 @@
+{
+    "relationships": [
+        {
+            "name": "Paula Patton",
+            "href": "https://www.whosdatedwho.com/dating/paula-patton",
+            "relationship_type": 2,
+            "start_date": "2016",
+            "end_date": "2017",
+            "length": "1 year",
+            "start_months_since_1900": 1392,
+            "end_months_since_1900": 1404,
+            "length_in_months": 12
+        },
+        {
+            "name": "Cameron Diaz",
+            "href": "https://www.whosdatedwho.com/dating/cameron-diaz",
+            "relationship_type": 3,
+            "start_date": "Feb 2007",
+            "end_date": "Mar 2007",
+            "length": "< 1 month",
+            "start_months_since_1900": 1285,
+            "end_months_since_1900": 1286,
+            "length_in_months": 0
+        },
+        {
+            "name": "Kimora Lee Simmons",
+            "href": "https://www.whosdatedwho.com/dating/kimora-lee-simmons",
+            "relationship_type": 2,
+            "start_date": "Feb 2007",
+            "end_date": "Nov 2012",
+            "length": "5 years",
+            "start_months_since_1900": 1285,
+            "end_months_since_1900": 1354,
+            "length_in_months": 60
+        },
+        {
+            "name": "Kola Boof",
+            "href": "https://www.whosdatedwho.com/dating/kola-boof",
+            "relationship_type": 3,
+            "start_date": "2006",
+            "end_date": "2006",
+            "length": "-",
+            "start_months_since_1900": 1272,
+            "end_months_since_1900": 1272,
+            "length_in_months": -1
+        },
+        {
+            "name": "Debbie Allen",
+            "href": "https://www.whosdatedwho.com/dating/debbie-allen",
+            "relationship_type": 3,
+            "start_date": "",
+            "end_date": "",
+            "length": "-",
+            "start_months_since_1900": -1,
+            "end_months_since_1900": -1,
+            "length_in_months": -1
+        }
+    ],
+    "details": {
+        "First Name": "Djimon",
+        "Middle Name": "Gaston",
+        "Last Name": "Hounsou",
+        "Maiden Name": "NA",
+        "Full Name at Birth": "Djimon Gaston Hounsou",
+        "Alternative Name": "NA",
+        "Birthday": "1964",
+        "Birthplace": "Benin",
+        "Height": "187",
+        "Weight": "NA",
+        "Zodiac Sign": "3",
+        "Sexuality": "Straight",
+        "Religion": "1",
+        "Ethnicity": "2",
+        "Nationality": "24",
+        "Occupation": "8"
+    }
+}

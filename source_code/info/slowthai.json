@@ -1,0 +1,44 @@
+{
+    "relationships": [
+        {
+            "name": "Anne-Marie",
+            "href": "https://www.whosdatedwho.com/dating/anne-marie-singer",
+            "relationship_type": 4,
+            "start_date": "2022",
+            "end_date": "present",
+            "length": "2 years",
+            "start_months_since_1900": 1464,
+            "end_months_since_1900": -1,
+            "length_in_months": 24
+        },
+        {
+            "name": "Katya Kischuk",
+            "href": "https://www.whosdatedwho.com/dating/katya-kischuk",
+            "relationship_type": 2,
+            "start_date": "2020",
+            "end_date": "2022",
+            "length": "2 years",
+            "start_months_since_1900": 1440,
+            "end_months_since_1900": 1464,
+            "length_in_months": 24
+        }
+    ],
+    "details": {
+        "First Name": "Slowthai",
+        "Middle Name": "NA",
+        "Last Name": "NA",
+        "Maiden Name": "NA",
+        "Full Name at Birth": "NA",
+        "Alternative Name": "NA",
+        "Birthday": "1994",
+        "Birthplace": "England",
+        "Height": "NA",
+        "Weight": "NA",
+        "Zodiac Sign": "6",
+        "Sexuality": "Straight",
+        "Religion": "1",
+        "Ethnicity": "8",
+        "Nationality": "8",
+        "Occupation": "1"
+    }
+}

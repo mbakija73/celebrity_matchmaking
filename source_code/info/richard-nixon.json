@@ -1,0 +1,44 @@
+{
+    "relationships": [
+        {
+            "name": "Zsa Zsa Gabor",
+            "href": "https://www.whosdatedwho.com/dating/zsa-zsa-gabor",
+            "relationship_type": 2,
+            "start_date": "1972",
+            "end_date": "1972",
+            "length": "-",
+            "start_months_since_1900": 864,
+            "end_months_since_1900": 864,
+            "length_in_months": -1
+        },
+        {
+            "name": "Pat Nixon",
+            "href": "https://www.whosdatedwho.com/dating/pat-nixon",
+            "relationship_type": 4,
+            "start_date": "Jan 1938",
+            "end_date": "22nd Jun 1993",
+            "length": "55 years",
+            "start_months_since_1900": 456,
+            "end_months_since_1900": 1121,
+            "length_in_months": 660
+        }
+    ],
+    "details": {
+        "First Name": "Richard",
+        "Middle Name": "Milhous",
+        "Last Name": "Nixon",
+        "Maiden Name": "NA",
+        "Full Name at Birth": "Richard Milhous Nixon",
+        "Alternative Name": "Dick Nixon, Tricky Dick",
+        "Birthday": "1913",
+        "Birthplace": "California",
+        "Height": "178",
+        "Weight": "165lbs (75 kg)",
+        "Zodiac Sign": "13",
+        "Sexuality": "Straight",
+        "Religion": "18",
+        "Ethnicity": "6",
+        "Nationality": "91",
+        "Occupation": "12"
+    }
+}

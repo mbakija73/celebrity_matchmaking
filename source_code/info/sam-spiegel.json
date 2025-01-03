@@ -1,0 +1,88 @@
+{
+    "relationships": [
+        {
+            "name": "Pamela Curran",
+            "href": "https://www.whosdatedwho.com/dating/pamela-curran",
+            "relationship_type": 2,
+            "start_date": "Apr 1967",
+            "end_date": "May 1967",
+            "length": "1 month",
+            "start_months_since_1900": 807,
+            "end_months_since_1900": 808,
+            "length_in_months": 1
+        },
+        {
+            "name": "Erica Beer",
+            "href": "https://www.whosdatedwho.com/dating/erica-beer",
+            "relationship_type": 2,
+            "start_date": "1958",
+            "end_date": "1959",
+            "length": "1 year",
+            "start_months_since_1900": 696,
+            "end_months_since_1900": 708,
+            "length_in_months": 12
+        },
+        {
+            "name": "Vikki Dougan",
+            "href": "https://www.whosdatedwho.com/dating/vikki-dougan",
+            "relationship_type": 3,
+            "start_date": "May 1954",
+            "end_date": "Jul 1954",
+            "length": "2 months",
+            "start_months_since_1900": 652,
+            "end_months_since_1900": 654,
+            "length_in_months": 2
+        },
+        {
+            "name": "Lynn Baggett",
+            "href": "https://www.whosdatedwho.com/dating/lynn-baggett",
+            "relationship_type": 4,
+            "start_date": "1945",
+            "end_date": "Oct 1952",
+            "length": "7 years",
+            "start_months_since_1900": 540,
+            "end_months_since_1900": 633,
+            "length_in_months": 84
+        },
+        {
+            "name": "Marie-H\u00e9l\u00e8ne Arnaud",
+            "href": "https://www.whosdatedwho.com/dating/marie-helene-arnaud",
+            "relationship_type": 2,
+            "start_date": "",
+            "end_date": "",
+            "length": "-",
+            "start_months_since_1900": -1,
+            "end_months_since_1900": -1,
+            "length_in_months": -1
+        },
+        {
+            "name": "Hedy Lamarr",
+            "href": "https://www.whosdatedwho.com/dating/hedy-lamarr",
+            "relationship_type": 3,
+            "start_date": "",
+            "end_date": "",
+            "length": "-",
+            "start_months_since_1900": -1,
+            "end_months_since_1900": -1,
+            "length_in_months": -1
+        }
+    ],
+    "details": {
+        "First Name": "Sam",
+        "Middle Name": "NA",
+        "Last Name": "Spiegel",
+        "Maiden Name": "NA",
+        "Full Name at Birth": "Samuel P. Spiegel",
+        "Alternative Name": "Sam Spiegel",
+        "Birthday": "1901",
+        "Birthplace": "Poland",
+        "Height": "175",
+        "Weight": "NA",
+        "Zodiac Sign": "5",
+        "Sexuality": "Straight",
+        "Religion": "31",
+        "Ethnicity": "6",
+        "Nationality": "91",
+        "Occupation": "9"
+    }
+}

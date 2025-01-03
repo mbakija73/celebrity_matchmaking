@@ -1,0 +1,88 @@
+{
+    "relationships": [
+        {
+            "name": "Anna Scott",
+            "href": "https://www.whosdatedwho.com/dating/anna-scott",
+            "relationship_type": 2,
+            "start_date": "Jan 2002",
+            "end_date": "Dec 2007",
+            "length": "5 years",
+            "start_months_since_1900": 1224,
+            "end_months_since_1900": 1295,
+            "length_in_months": 60
+        },
+        {
+            "name": "Sandy Urquart",
+            "href": "https://www.whosdatedwho.com/dating/sandy-urquart",
+            "relationship_type": 2,
+            "start_date": "Jul 2001",
+            "end_date": "Dec 2001",
+            "length": "5 months",
+            "start_months_since_1900": 1218,
+            "end_months_since_1900": 1223,
+            "length_in_months": 5
+        },
+        {
+            "name": "Dani Behr",
+            "href": "https://www.whosdatedwho.com/dating/dani-behr",
+            "relationship_type": 2,
+            "start_date": "Jan 2001",
+            "end_date": "Jul 2001",
+            "length": "6 months",
+            "start_months_since_1900": 1212,
+            "end_months_since_1900": 1218,
+            "length_in_months": 6
+        },
+        {
+            "name": "Melanie C",
+            "href": "https://www.whosdatedwho.com/dating/melanie-chisholm",
+            "relationship_type": 3,
+            "start_date": "Mar 2000",
+            "end_date": "Jul 2000",
+            "length": "4 months",
+            "start_months_since_1900": 1202,
+            "end_months_since_1900": 1206,
+            "length_in_months": 4
+        },
+        {
+            "name": "Maria-Antoaneta Tudor",
+            "href": "https://www.whosdatedwho.com/dating/maria-jensen",
+            "relationship_type": 2,
+            "start_date": "1998",
+            "end_date": "1999",
+            "length": "1 year",
+            "start_months_since_1900": 1176,
+            "end_months_since_1900": 1188,
+            "length_in_months": 12
+        },
+        {
+            "name": "Avril Wilson",
+            "href": "https://www.whosdatedwho.com/dating/avril-wilson",
+            "relationship_type": 2,
+            "start_date": "1995",
+            "end_date": "1999",
+            "length": "4 years",
+            "start_months_since_1900": 1140,
+            "end_months_since_1900": 1188,
+            "length_in_months": 48
+        }
+    ],
+    "details": {
+        "First Name": "Jason",
+        "Middle Name": "Paul",
+        "Last Name": "Brown",
+        "Maiden Name": "NA",
+        "Full Name at Birth": "Jason Paul Brown",
+        "Alternative Name": "Jason \"J\" Brown",
+        "Birthday": "1976",
+        "Birthplace": "UK",
+        "Height": "180",
+        "Weight": "NA",
+        "Zodiac Sign": "4",
+        "Sexuality": "Straight",
+        "Religion": "1",
+        "Ethnicity": "6",
+        "Nationality": "8",
+        "Occupation": "1"
+    }
+}

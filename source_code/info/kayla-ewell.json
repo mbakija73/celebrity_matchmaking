@@ -1,0 +1,55 @@
+{
+    "relationships": [
+        {
+            "name": "Zach Roerig",
+            "href": "https://www.whosdatedwho.com/dating/zach-roerig",
+            "relationship_type": 2,
+            "start_date": "Jun 2010",
+            "end_date": "Jun 2010",
+            "length": "-",
+            "start_months_since_1900": 1325,
+            "end_months_since_1900": 1325,
+            "length_in_months": -1
+        },
+        {
+            "name": "Tanner Novlan",
+            "href": "https://www.whosdatedwho.com/dating/tanner-novlan",
+            "relationship_type": 4,
+            "start_date": "Feb 2010",
+            "end_date": "present",
+            "length": "14 years",
+            "start_months_since_1900": 1321,
+            "end_months_since_1900": -1,
+            "length_in_months": 168
+        },
+        {
+            "name": "Kellan Lutz",
+            "href": "https://www.whosdatedwho.com/dating/kellan-lutz",
+            "relationship_type": 2,
+            "start_date": "Sep 2006",
+            "end_date": "Jul 2008",
+            "length": "1 year",
+            "start_months_since_1900": 1280,
+            "end_months_since_1900": 1302,
+            "length_in_months": 12
+        }
+    ],
+    "details": {
+        "First Name": "Kayla",
+        "Middle Name": "Noelle",
+        "Last Name": "Ewell",
+        "Maiden Name": "NA",
+        "Full Name at Birth": "Kayla Noelle Ewell",
+        "Alternative Name": "NA",
+        "Birthday": "1985",
+        "Birthplace": "California",
+        "Height": "170",
+        "Weight": "NA",
+        "Zodiac Sign": "11",
+        "Sexuality": "Straight",
+        "Religion": "1",
+        "Ethnicity": "6",
+        "Nationality": "91",
+        "Occupation": "8"
+    }
+}

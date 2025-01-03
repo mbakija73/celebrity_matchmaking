@@ -1,0 +1,55 @@
+{
+    "relationships": [
+        {
+            "name": "Trevor Noah",
+            "href": "https://www.whosdatedwho.com/dating/trevor-noah",
+            "relationship_type": 2,
+            "start_date": "Jan 2023",
+            "end_date": "present",
+            "length": "1 year",
+            "start_months_since_1900": 1476,
+            "end_months_since_1900": -1,
+            "length_in_months": 12
+        },
+        {
+            "name": "Tyga",
+            "href": "https://www.whosdatedwho.com/dating/tyga",
+            "relationship_type": 3,
+            "start_date": "Jun 2018",
+            "end_date": "Jul 2018",
+            "length": "1 month",
+            "start_months_since_1900": 1421,
+            "end_months_since_1900": 1422,
+            "length_in_months": 1
+        },
+        {
+            "name": "Joe Jonas",
+            "href": "https://www.whosdatedwho.com/dating/joe-jonas",
+            "relationship_type": 3,
+            "start_date": "May 2016",
+            "end_date": "Jul 2016",
+            "length": "2 months",
+            "start_months_since_1900": 1396,
+            "end_months_since_1900": 1398,
+            "length_in_months": 2
+        }
+    ],
+    "details": {
+        "First Name": "Juliana",
+        "Middle Name": "NA",
+        "Last Name": "Herz",
+        "Maiden Name": "NA",
+        "Full Name at Birth": "NA",
+        "Alternative Name": "NA",
+        "Birthday": "1989",
+        "Birthplace": "Costa Rica",
+        "Height": "175",
+        "Weight": "NA",
+        "Zodiac Sign": "9",
+        "Sexuality": "Straight",
+        "Religion": "13",
+        "Ethnicity": "8",
+        "Nationality": "69",
+        "Occupation": "15"
+    }
+}

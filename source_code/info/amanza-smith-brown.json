@@ -1,0 +1,44 @@
+{
+    "relationships": [
+        {
+            "name": "Taye Diggs",
+            "href": "https://www.whosdatedwho.com/dating/taye-diggs",
+            "relationship_type": 2,
+            "start_date": "2014",
+            "end_date": "2018",
+            "length": "4 years",
+            "start_months_since_1900": 1368,
+            "end_months_since_1900": 1416,
+            "length_in_months": 48
+        },
+        {
+            "name": "Ralph D. Brown",
+            "href": "https://www.whosdatedwho.com/dating/ralph-brown-football-american",
+            "relationship_type": 4,
+            "start_date": "2007",
+            "end_date": "2012",
+            "length": "5 years",
+            "start_months_since_1900": 1284,
+            "end_months_since_1900": 1344,
+            "length_in_months": 60
+        }
+    ],
+    "details": {
+        "First Name": "Amanza",
+        "Middle Name": "NA",
+        "Last Name": "Brown",
+        "Maiden Name": "Smith",
+        "Full Name at Birth": "Amanza Smith",
+        "Alternative Name": "Amanza Smith-Brown, Amanza Smith, Amanza Brown",
+        "Birthday": "1976",
+        "Birthplace": "NA",
+        "Height": "NA",
+        "Weight": "NA",
+        "Zodiac Sign": "6",
+        "Sexuality": "Straight",
+        "Religion": "1",
+        "Ethnicity": "8",
+        "Nationality": "91",
+        "Occupation": "15"
+    }
+}

@@ -1,0 +1,44 @@
+{
+    "relationships": [
+        {
+            "name": "King George V",
+            "href": "https://www.whosdatedwho.com/dating/george-v-of-the-united-kingdom",
+            "relationship_type": 4,
+            "start_date": "Jul 1893",
+            "end_date": "Jan 1936",
+            "length": "42 years",
+            "start_months_since_1900": -78,
+            "end_months_since_1900": 432,
+            "length_in_months": 504
+        },
+        {
+            "name": "Prince Albert Victor, Duke of Clarence and Avondale",
+            "href": "https://www.whosdatedwho.com/dating/prince-albert-victor-duke-of-clarence-and-avondale",
+            "relationship_type": 2,
+            "start_date": "Dec 1891",
+            "end_date": "Jan 1892",
+            "length": "1 month",
+            "start_months_since_1900": -97,
+            "end_months_since_1900": -96,
+            "length_in_months": 1
+        }
+    ],
+    "details": {
+        "First Name": "Mary",
+        "Middle Name": "Of",
+        "Last Name": "Teck",
+        "Maiden Name": "NA",
+        "Full Name at Birth": "Victoria Mary Augusta Louise Olga Pauline Claudine Agnes",
+        "Alternative Name": "May, Mary of Teck",
+        "Birthday": "1867",
+        "Birthplace": "UK",
+        "Height": "168",
+        "Weight": "NA",
+        "Zodiac Sign": "4",
+        "Sexuality": "Straight",
+        "Religion": "18",
+        "Ethnicity": "6",
+        "Nationality": "8",
+        "Occupation": "18"
+    }
+}

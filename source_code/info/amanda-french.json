@@ -1,0 +1,55 @@
+{
+    "relationships": [
+        {
+            "name": "Bode Miller",
+            "href": "https://www.whosdatedwho.com/dating/bode-miller",
+            "relationship_type": 2,
+            "start_date": "Jul 2010",
+            "end_date": "Dec 2010",
+            "length": "5 months",
+            "start_months_since_1900": 1326,
+            "end_months_since_1900": 1331,
+            "length_in_months": 5
+        },
+        {
+            "name": "Marco Sullivan",
+            "href": "https://www.whosdatedwho.com/dating/marco-sullivan",
+            "relationship_type": 3,
+            "start_date": "Aug 2007",
+            "end_date": "Apr 2008",
+            "length": "8 months",
+            "start_months_since_1900": 1291,
+            "end_months_since_1900": 1299,
+            "length_in_months": 8
+        },
+        {
+            "name": "Josh Lebowitz",
+            "href": "https://www.whosdatedwho.com/dating/josh-lebowitz",
+            "relationship_type": 2,
+            "start_date": "",
+            "end_date": "Nov 2006",
+            "length": "-",
+            "start_months_since_1900": -1,
+            "end_months_since_1900": 1282,
+            "length_in_months": -1
+        }
+    ],
+    "details": {
+        "First Name": "Amanda",
+        "Middle Name": "Jean",
+        "Last Name": "French",
+        "Maiden Name": "NA",
+        "Full Name at Birth": "Amanda Jean French",
+        "Alternative Name": "NA",
+        "Birthday": "1983",
+        "Birthplace": "New England",
+        "Height": "160",
+        "Weight": "NA",
+        "Zodiac Sign": "9",
+        "Sexuality": "Straight",
+        "Religion": "1",
+        "Ethnicity": "6",
+        "Nationality": "91",
+        "Occupation": "15"
+    }
+}

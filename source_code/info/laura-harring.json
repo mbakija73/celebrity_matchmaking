@@ -1,0 +1,55 @@
+{
+    "relationships": [
+        {
+            "name": "Brian Quintana",
+            "href": "https://www.whosdatedwho.com/dating/brian-quintana",
+            "relationship_type": 2,
+            "start_date": "1996",
+            "end_date": "1998",
+            "length": "2 years",
+            "start_months_since_1900": 1152,
+            "end_months_since_1900": 1176,
+            "length_in_months": 24
+        },
+        {
+            "name": "Francois Graff",
+            "href": "https://www.whosdatedwho.com/dating/francois-graff",
+            "relationship_type": 2,
+            "start_date": "1988",
+            "end_date": "1990",
+            "length": "2 years",
+            "start_months_since_1900": 1056,
+            "end_months_since_1900": 1080,
+            "length_in_months": 24
+        },
+        {
+            "name": "Carl Eduard von Bismarck",
+            "href": "https://www.whosdatedwho.com/dating/carl-eduard-von-bismarck",
+            "relationship_type": 4,
+            "start_date": "1985",
+            "end_date": "1989",
+            "length": "4 years",
+            "start_months_since_1900": 1020,
+            "end_months_since_1900": 1068,
+            "length_in_months": 48
+        }
+    ],
+    "details": {
+        "First Name": "Laura",
+        "Middle Name": "Elena",
+        "Last Name": "Harring",
+        "Maiden Name": "Mart\u00ednez",
+        "Full Name at Birth": "Laura Elena Mart\u00ednez Herring",
+        "Alternative Name": "Laura Mart\u00ednez-Herring, Laura M. Herring, Laura Herring, Laura Elena Harring, Laura Elena Mart\u00ednez Herring, Laura Harring, Laura Elena Harring Mart\u00ednez, Countess von Bismarck-Sch\u00f6nhausen, Laura Elena, Laura Elena Mart\u00ednez-Herring, Laura Elena Countess von Bismarck-Sch\u00f6nhausen, Laura Martinez Herring, \u041b\u043e\u0440\u0430 \u0425\u0430\u0440\u0440\u0438\u043d\u0433, Lora Harring, \u041b\u0430\u0443\u0440\u0430 \u0425\u044d\u0440\u0440\u0438\u043d\u0433, \u041f\u043e\u043b\u043d\u0430\u044f \u0444\u0438\u043b\u044c\u043c\u043e\u0433\u0440\u0430\u0444\u0438\u044f",
+        "Birthday": "1964",
+        "Birthplace": "Mexico",
+        "Height": "168",
+        "Weight": "147lbs (67 kg)",
+        "Zodiac Sign": "1",
+        "Sexuality": "Straight",
+        "Religion": "18",
+        "Ethnicity": "6",
+        "Nationality": "91",
+        "Occupation": "8"
+    }
+}

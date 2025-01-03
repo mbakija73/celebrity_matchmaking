@@ -1,0 +1,55 @@
+{
+    "relationships": [
+        {
+            "name": "Jenna Presley",
+            "href": "https://www.whosdatedwho.com/dating/jenna-presley",
+            "relationship_type": 3,
+            "start_date": "2008",
+            "end_date": "2008",
+            "length": "-",
+            "start_months_since_1900": 1296,
+            "end_months_since_1900": 1296,
+            "length_in_months": -1
+        },
+        {
+            "name": "Rosa Blasi",
+            "href": "https://www.whosdatedwho.com/dating/rosa-blasi",
+            "relationship_type": 4,
+            "start_date": "2003",
+            "end_date": "2008",
+            "length": "5 years",
+            "start_months_since_1900": 1236,
+            "end_months_since_1900": 1296,
+            "length_in_months": 60
+        },
+        {
+            "name": "Nichole Van Croft",
+            "href": "https://www.whosdatedwho.com/dating/nichole-van-croft",
+            "relationship_type": 1,
+            "start_date": "1998",
+            "end_date": "1998",
+            "length": "-",
+            "start_months_since_1900": 1176,
+            "end_months_since_1900": 1176,
+            "length_in_months": -1
+        }
+    ],
+    "details": {
+        "First Name": "Jim",
+        "Middle Name": "NA",
+        "Last Name": "Finn",
+        "Maiden Name": "NA",
+        "Full Name at Birth": "James Finn Jr.",
+        "Alternative Name": "NA",
+        "Birthday": "1976",
+        "Birthplace": "USA",
+        "Height": "183",
+        "Weight": "245lbs (111 kg)",
+        "Zodiac Sign": "6",
+        "Sexuality": "Straight",
+        "Religion": "1",
+        "Ethnicity": "6",
+        "Nationality": "91",
+        "Occupation": "2"
+    }
+}

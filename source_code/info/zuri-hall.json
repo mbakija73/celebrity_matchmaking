@@ -1,0 +1,55 @@
+{
+    "relationships": [
+        {
+            "name": "Travis Kelce",
+            "href": "https://www.whosdatedwho.com/dating/travis-kelce",
+            "relationship_type": 2,
+            "start_date": "2022",
+            "end_date": "2022",
+            "length": "-",
+            "start_months_since_1900": 1464,
+            "end_months_since_1900": 1464,
+            "length_in_months": -1
+        },
+        {
+            "name": "Sean Culkin",
+            "href": "https://www.whosdatedwho.com/dating/sean-culkin",
+            "relationship_type": 2,
+            "start_date": "2019",
+            "end_date": "2022",
+            "length": "3 years",
+            "start_months_since_1900": 1428,
+            "end_months_since_1900": 1464,
+            "length_in_months": 36
+        },
+        {
+            "name": "Mettin Copier",
+            "href": "https://www.whosdatedwho.com/dating/mettin-copier",
+            "relationship_type": 2,
+            "start_date": "2012",
+            "end_date": "2018",
+            "length": "6 years",
+            "start_months_since_1900": 1344,
+            "end_months_since_1900": 1416,
+            "length_in_months": 72
+        }
+    ],
+    "details": {
+        "First Name": "Zuri",
+        "Middle Name": "NA",
+        "Last Name": "Hall",
+        "Maiden Name": "NA",
+        "Full Name at Birth": "NA",
+        "Alternative Name": "NA",
+        "Birthday": "1988",
+        "Birthplace": "USA",
+        "Height": "170",
+        "Weight": "NA",
+        "Zodiac Sign": "4",
+        "Sexuality": "Straight",
+        "Religion": "1",
+        "Ethnicity": "2",
+        "Nationality": "91",
+        "Occupation": "11"
+    }
+}

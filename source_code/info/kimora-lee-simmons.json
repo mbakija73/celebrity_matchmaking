@@ -1,0 +1,77 @@
+{
+    "relationships": [
+        {
+            "name": "Tim Leissner",
+            "href": "https://www.whosdatedwho.com/dating/tim-leissner",
+            "relationship_type": 4,
+            "start_date": "Mar 2013",
+            "end_date": "Jan 2020",
+            "length": "6 years",
+            "start_months_since_1900": 1358,
+            "end_months_since_1900": 1440,
+            "length_in_months": 72
+        },
+        {
+            "name": "Djimon Hounsou",
+            "href": "https://www.whosdatedwho.com/dating/djimon-hounsou",
+            "relationship_type": 2,
+            "start_date": "Feb 2007",
+            "end_date": "Nov 2012",
+            "length": "5 years",
+            "start_months_since_1900": 1285,
+            "end_months_since_1900": 1354,
+            "length_in_months": 60
+        },
+        {
+            "name": "Birdman",
+            "href": "https://www.whosdatedwho.com/dating/baby-aka-birdman",
+            "relationship_type": 2,
+            "start_date": "Aug 2004",
+            "end_date": "Feb 2014",
+            "length": "9 years",
+            "start_months_since_1900": 1255,
+            "end_months_since_1900": 1369,
+            "length_in_months": 108
+        },
+        {
+            "name": "Kendu Isaacs",
+            "href": "https://www.whosdatedwho.com/dating/kendu-isaacs",
+            "relationship_type": 3,
+            "start_date": "2001",
+            "end_date": "2001",
+            "length": "-",
+            "start_months_since_1900": 1212,
+            "end_months_since_1900": 1212,
+            "length_in_months": -1
+        },
+        {
+            "name": "Russell Simmons",
+            "href": "https://www.whosdatedwho.com/dating/russell-simmons",
+            "relationship_type": 4,
+            "start_date": "Nov 1992",
+            "end_date": "Jan 2009",
+            "length": "16 years",
+            "start_months_since_1900": 1114,
+            "end_months_since_1900": 1308,
+            "length_in_months": 192
+        }
+    ],
+    "details": {
+        "First Name": "Kimora",
+        "Middle Name": "Lee",
+        "Last Name": "Simmons",
+        "Maiden Name": "NA",
+        "Full Name at Birth": "Kimora Lee Perkins",
+        "Alternative Name": "Ms. Fabulosity, American Dream, First Lady Of Hip Hop",
+        "Birthday": "1975",
+        "Birthplace": "United States",
+        "Height": "183",
+        "Weight": "140lbs (64 kg)",
+        "Zodiac Sign": "3",
+        "Sexuality": "Straight",
+        "Religion": "36",
+        "Ethnicity": "8",
+        "Nationality": "91",
+        "Occupation": "15"
+    }
+}

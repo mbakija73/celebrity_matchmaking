@@ -1,0 +1,33 @@
+{
+    "relationships": [
+        {
+            "name": "Fred Armisen",
+            "href": "https://www.whosdatedwho.com/dating/fred-armisen",
+            "relationship_type": 2,
+            "start_date": "Sep 2007",
+            "end_date": "2008",
+            "length": "4 months",
+            "start_months_since_1900": 1292,
+            "end_months_since_1900": 1296,
+            "length_in_months": 4
+        }
+    ],
+    "details": {
+        "First Name": "Petra",
+        "Middle Name": "NA",
+        "Last Name": "NA",
+        "Maiden Name": "Haden",
+        "Full Name at Birth": "Petra Haden",
+        "Alternative Name": "NA",
+        "Birthday": "1971",
+        "Birthplace": "NY",
+        "Height": "NA",
+        "Weight": "NA",
+        "Zodiac Sign": "10",
+        "Sexuality": "NA",
+        "Religion": "1",
+        "Ethnicity": "6",
+        "Nationality": "91",
+        "Occupation": "1"
+    }
+}

@@ -1,0 +1,66 @@
+{
+    "relationships": [
+        {
+            "name": "Erica Redling",
+            "href": "https://www.whosdatedwho.com/dating/erica-redling",
+            "relationship_type": 2,
+            "start_date": "2020",
+            "end_date": "present",
+            "length": "4 years",
+            "start_months_since_1900": 1440,
+            "end_months_since_1900": -1,
+            "length_in_months": 48
+        },
+        {
+            "name": "Carol Castelo Branco",
+            "href": "https://www.whosdatedwho.com/dating/carol-castelo-branco",
+            "relationship_type": 2,
+            "start_date": "2013",
+            "end_date": "2015",
+            "length": "2 years",
+            "start_months_since_1900": 1356,
+            "end_months_since_1900": 1380,
+            "length_in_months": 24
+        },
+        {
+            "name": "Carolina Magalh\u00e3es",
+            "href": "https://www.whosdatedwho.com/dating/carolina-magalhaes",
+            "relationship_type": 2,
+            "start_date": "Dec 2011",
+            "end_date": "2012",
+            "length": "1 month",
+            "start_months_since_1900": 1343,
+            "end_months_since_1900": 1344,
+            "length_in_months": 1
+        },
+        {
+            "name": "Ana Luiza Castro",
+            "href": "https://www.whosdatedwho.com/dating/ana-luiza-castro",
+            "relationship_type": 2,
+            "start_date": "Dec 2008",
+            "end_date": "",
+            "length": "-",
+            "start_months_since_1900": 1307,
+            "end_months_since_1900": -1,
+            "length_in_months": -1
+        }
+    ],
+    "details": {
+        "First Name": "Tarso",
+        "Middle Name": "NA",
+        "Last Name": "Marques",
+        "Maiden Name": "NA",
+        "Full Name at Birth": "NA",
+        "Alternative Name": "NA",
+        "Birthday": "1976",
+        "Birthplace": "PR",
+        "Height": "NA",
+        "Weight": "NA",
+        "Zodiac Sign": "13",
+        "Sexuality": "Straight",
+        "Religion": "1",
+        "Ethnicity": "1",
+        "Nationality": "87",
+        "Occupation": "2"
+    }
+}

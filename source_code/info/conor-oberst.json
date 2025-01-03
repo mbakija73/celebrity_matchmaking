@@ -1,0 +1,77 @@
+{
+    "relationships": [
+        {
+            "name": "Phoebe Bridgers",
+            "href": "https://www.whosdatedwho.com/dating/phoebe-bridgers",
+            "relationship_type": 1,
+            "start_date": "2019",
+            "end_date": "2019",
+            "length": "-",
+            "start_months_since_1900": 1428,
+            "end_months_since_1900": 1428,
+            "length_in_months": -1
+        },
+        {
+            "name": "Corina Figueroa Escamilla",
+            "href": "https://www.whosdatedwho.com/dating/corina-figueroa-escamilla",
+            "relationship_type": 4,
+            "start_date": "2008",
+            "end_date": "2017",
+            "length": "9 years",
+            "start_months_since_1900": 1296,
+            "end_months_since_1900": 1404,
+            "length_in_months": 108
+        },
+        {
+            "name": "Winona Ryder",
+            "href": "https://www.whosdatedwho.com/dating/winona-ryder",
+            "relationship_type": 3,
+            "start_date": "Apr 2003",
+            "end_date": "May 2003",
+            "length": "1 month",
+            "start_months_since_1900": 1239,
+            "end_months_since_1900": 1240,
+            "length_in_months": 1
+        },
+        {
+            "name": "Michelle Williams",
+            "href": "https://www.whosdatedwho.com/dating/michelle-williams",
+            "relationship_type": 2,
+            "start_date": "1999",
+            "end_date": "2001",
+            "length": "2 years",
+            "start_months_since_1900": 1188,
+            "end_months_since_1900": 1212,
+            "length_in_months": 24
+        },
+        {
+            "name": "Maria Taylor",
+            "href": "https://www.whosdatedwho.com/dating/maria-taylor",
+            "relationship_type": 2,
+            "start_date": "",
+            "end_date": "2006",
+            "length": "-",
+            "start_months_since_1900": -1,
+            "end_months_since_1900": 1272,
+            "length_in_months": -1
+        }
+    ],
+    "details": {
+        "First Name": "Conor",
+        "Middle Name": "NA",
+        "Last Name": "Oberst",
+        "Maiden Name": "NA",
+        "Full Name at Birth": "Conor Mullen Oberst",
+        "Alternative Name": "NA",
+        "Birthday": "1980",
+        "Birthplace": "Nebraska",
+        "Height": "168",
+        "Weight": "NA",
+        "Zodiac Sign": "9",
+        "Sexuality": "NA",
+        "Religion": "1",
+        "Ethnicity": "6",
+        "Nationality": "91",
+        "Occupation": "1"
+    }
+}

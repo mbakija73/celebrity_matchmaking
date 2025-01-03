@@ -1,0 +1,88 @@
+{
+    "relationships": [
+        {
+            "name": "Sue Barker",
+            "href": "https://www.whosdatedwho.com/dating/sue-barker",
+            "relationship_type": 2,
+            "start_date": "1982",
+            "end_date": "1986",
+            "length": "4 years",
+            "start_months_since_1900": 984,
+            "end_months_since_1900": 1032,
+            "length_in_months": 48
+        },
+        {
+            "name": "Una Stubbs",
+            "href": "https://www.whosdatedwho.com/dating/una-stubbs",
+            "relationship_type": 2,
+            "start_date": "1961",
+            "end_date": "1961",
+            "length": "-",
+            "start_months_since_1900": 732,
+            "end_months_since_1900": 732,
+            "length_in_months": -1
+        },
+        {
+            "name": "Delia Wicks",
+            "href": "https://www.whosdatedwho.com/dating/delia-wicks",
+            "relationship_type": 2,
+            "start_date": "1960",
+            "end_date": "1960",
+            "length": "-",
+            "start_months_since_1900": 720,
+            "end_months_since_1900": 720,
+            "length_in_months": -1
+        },
+        {
+            "name": "Carol Costa Harris",
+            "href": "https://www.whosdatedwho.com/dating/carol-costa-harris",
+            "relationship_type": 3,
+            "start_date": "1959",
+            "end_date": "1959",
+            "length": "-",
+            "start_months_since_1900": 708,
+            "end_months_since_1900": 708,
+            "length_in_months": -1
+        },
+        {
+            "name": "Jackie Irving",
+            "href": "https://www.whosdatedwho.com/dating/jackie-irving",
+            "relationship_type": 2,
+            "start_date": "",
+            "end_date": "",
+            "length": "-",
+            "start_months_since_1900": -1,
+            "end_months_since_1900": -1,
+            "length_in_months": -1
+        },
+        {
+            "name": "Carol Ann Harris",
+            "href": "https://www.whosdatedwho.com/dating/carol-harris",
+            "relationship_type": 3,
+            "start_date": "",
+            "end_date": "",
+            "length": "-",
+            "start_months_since_1900": -1,
+            "end_months_since_1900": -1,
+            "length_in_months": -1
+        }
+    ],
+    "details": {
+        "First Name": "Cliff",
+        "Middle Name": "Rodger",
+        "Last Name": "Richard",
+        "Maiden Name": "NA",
+        "Full Name at Birth": "Harry Rodger Webb",
+        "Alternative Name": "Prince of Pop, SirCliff Richard",
+        "Birthday": "1940",
+        "Birthplace": "India",
+        "Height": "179",
+        "Weight": "155lbs (70 kg)",
+        "Zodiac Sign": "10",
+        "Sexuality": "DISPUTED",
+        "Religion": "18",
+        "Ethnicity": "6",
+        "Nationality": "98",
+        "Occupation": "1"
+    }
+}

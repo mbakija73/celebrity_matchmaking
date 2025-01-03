@@ -1,0 +1,44 @@
+{
+    "relationships": [
+        {
+            "name": "Leland Orser",
+            "href": "https://www.whosdatedwho.com/dating/leland-orser",
+            "relationship_type": 4,
+            "start_date": "1999",
+            "end_date": "present",
+            "length": "25 years",
+            "start_months_since_1900": 1188,
+            "end_months_since_1900": -1,
+            "length_in_months": 300
+        },
+        {
+            "name": "Ben Stiller",
+            "href": "https://www.whosdatedwho.com/dating/ben-stiller",
+            "relationship_type": 2,
+            "start_date": "1990",
+            "end_date": "Aug 1996",
+            "length": "6 years",
+            "start_months_since_1900": 1080,
+            "end_months_since_1900": 1159,
+            "length_in_months": 72
+        }
+    ],
+    "details": {
+        "First Name": "Jeanne",
+        "Middle Name": "Marie",
+        "Last Name": "NA",
+        "Maiden Name": "Tripplehorn",
+        "Full Name at Birth": "Jeanne Marie Tripplehorn",
+        "Alternative Name": "NA",
+        "Birthday": "1963",
+        "Birthplace": "USA",
+        "Height": "170",
+        "Weight": "125lbs (57 kg)",
+        "Zodiac Sign": "4",
+        "Sexuality": "Straight",
+        "Religion": "1",
+        "Ethnicity": "6",
+        "Nationality": "91",
+        "Occupation": "8"
+    }
+}

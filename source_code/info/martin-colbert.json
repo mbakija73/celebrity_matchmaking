@@ -1,0 +1,44 @@
+{
+    "relationships": [
+        {
+            "name": "Patricia Blair",
+            "href": "https://www.whosdatedwho.com/dating/patricia-blair",
+            "relationship_type": 4,
+            "start_date": "1964",
+            "end_date": "4th Feb 1993",
+            "length": "29 years",
+            "start_months_since_1900": 768,
+            "end_months_since_1900": 1117,
+            "length_in_months": 348
+        },
+        {
+            "name": "Beverly Wills",
+            "href": "https://www.whosdatedwho.com/dating/beverly-wills",
+            "relationship_type": 4,
+            "start_date": "1959",
+            "end_date": "24th Oct 1963",
+            "length": "4 years",
+            "start_months_since_1900": 708,
+            "end_months_since_1900": 765,
+            "length_in_months": 48
+        }
+    ],
+    "details": {
+        "First Name": "Martin",
+        "Middle Name": "NA",
+        "Last Name": "Colbert",
+        "Maiden Name": "NA",
+        "Full Name at Birth": "NA",
+        "Alternative Name": "NA",
+        "Birthday": "NA",
+        "Birthplace": "NA",
+        "Height": "NA",
+        "Weight": "NA",
+        "Zodiac Sign": "2",
+        "Sexuality": "Straight",
+        "Religion": "1",
+        "Ethnicity": "1",
+        "Nationality": "65",
+        "Occupation": "18"
+    }
+}

@@ -1,0 +1,44 @@
+{
+    "relationships": [
+        {
+            "name": "Anita Page",
+            "href": "https://www.whosdatedwho.com/dating/anita-page",
+            "relationship_type": 2,
+            "start_date": "1927",
+            "end_date": "1927",
+            "length": "-",
+            "start_months_since_1900": 324,
+            "end_months_since_1900": 324,
+            "length_in_months": -1
+        },
+        {
+            "name": "Lili Damita",
+            "href": "https://www.whosdatedwho.com/dating/lili-damita",
+            "relationship_type": 2,
+            "start_date": "",
+            "end_date": "",
+            "length": "-",
+            "start_months_since_1900": -1,
+            "end_months_since_1900": -1,
+            "length_in_months": -1
+        }
+    ],
+    "details": {
+        "First Name": "Prince Louis",
+        "Middle Name": "NA",
+        "Last Name": "Ferdinand",
+        "Maiden Name": "NA",
+        "Full Name at Birth": "Louis Ferdinand Victor Edward Albert Michael Hubert, Prince Of Prussia",
+        "Alternative Name": "Luis Ferdinand, Prince of Prussia",
+        "Birthday": "1907",
+        "Birthplace": "Germany",
+        "Height": "NA",
+        "Weight": "NA",
+        "Zodiac Sign": "5",
+        "Sexuality": "Straight",
+        "Religion": "1",
+        "Ethnicity": "6",
+        "Nationality": "55",
+        "Occupation": "18"
+    }
+}

@@ -1,0 +1,55 @@
+{
+    "relationships": [
+        {
+            "name": "Chloe Green",
+            "href": "https://www.whosdatedwho.com/dating/chloe-green",
+            "relationship_type": 2,
+            "start_date": "Sep 2012",
+            "end_date": "Dec 2012",
+            "length": "3 months",
+            "start_months_since_1900": 1352,
+            "end_months_since_1900": 1355,
+            "length_in_months": 3
+        },
+        {
+            "name": "Rosie Roff",
+            "href": "https://www.whosdatedwho.com/dating/rosie-roff",
+            "relationship_type": 2,
+            "start_date": "2012",
+            "end_date": "2012",
+            "length": "-",
+            "start_months_since_1900": 1344,
+            "end_months_since_1900": 1344,
+            "length_in_months": -1
+        },
+        {
+            "name": "Jude Littler",
+            "href": "https://www.whosdatedwho.com/dating/jude-littler",
+            "relationship_type": 4,
+            "start_date": "2005",
+            "end_date": "2012",
+            "length": "7 years",
+            "start_months_since_1900": 1260,
+            "end_months_since_1900": 1344,
+            "length_in_months": 84
+        }
+    ],
+    "details": {
+        "First Name": "Djibril",
+        "Middle Name": "NA",
+        "Last Name": "Cisse",
+        "Maiden Name": "NA",
+        "Full Name at Birth": "Djibril Ciss\u00e9",
+        "Alternative Name": "NA",
+        "Birthday": "1981",
+        "Birthplace": "France",
+        "Height": "182",
+        "Weight": "NA",
+        "Zodiac Sign": "12",
+        "Sexuality": "Straight",
+        "Religion": "13",
+        "Ethnicity": "2",
+        "Nationality": "86",
+        "Occupation": "2"
+    }
+}

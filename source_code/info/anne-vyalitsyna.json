@@ -1,0 +1,88 @@
+{
+    "relationships": [
+        {
+            "name": "Adam Cahan",
+            "href": "https://www.whosdatedwho.com/dating/adam-cahan",
+            "relationship_type": 2,
+            "start_date": "2014",
+            "end_date": "2021",
+            "length": "7 years",
+            "start_months_since_1900": 1368,
+            "end_months_since_1900": 1452,
+            "length_in_months": 84
+        },
+        {
+            "name": "Matt Harvey",
+            "href": "https://www.whosdatedwho.com/dating/matt-harvey",
+            "relationship_type": 2,
+            "start_date": "May 2013",
+            "end_date": "Jan 2014",
+            "length": "8 months",
+            "start_months_since_1900": 1360,
+            "end_months_since_1900": 1368,
+            "length_in_months": 8
+        },
+        {
+            "name": "Jared Leto",
+            "href": "https://www.whosdatedwho.com/dating/jared-leto",
+            "relationship_type": 3,
+            "start_date": "May 2012",
+            "end_date": "May 2012",
+            "length": "-",
+            "start_months_since_1900": 1348,
+            "end_months_since_1900": 1348,
+            "length_in_months": -1
+        },
+        {
+            "name": "Alexander Skarsg\u00e5rd",
+            "href": "https://www.whosdatedwho.com/dating/alexander-skarsgard",
+            "relationship_type": 3,
+            "start_date": "2012",
+            "end_date": "2012",
+            "length": "-",
+            "start_months_since_1900": 1344,
+            "end_months_since_1900": 1344,
+            "length_in_months": -1
+        },
+        {
+            "name": "Adam Levine",
+            "href": "https://www.whosdatedwho.com/dating/adam-levine",
+            "relationship_type": 2,
+            "start_date": "Apr 2010",
+            "end_date": "Mar 2012",
+            "length": "1 year",
+            "start_months_since_1900": 1323,
+            "end_months_since_1900": 1346,
+            "length_in_months": 12
+        },
+        {
+            "name": "Leonardo DiCaprio",
+            "href": "https://www.whosdatedwho.com/dating/leonardo-dicaprio",
+            "relationship_type": 3,
+            "start_date": "Jul 2009",
+            "end_date": "Sep 2009",
+            "length": "2 months",
+            "start_months_since_1900": 1314,
+            "end_months_since_1900": 1316,
+            "length_in_months": 2
+        }
+    ],
+    "details": {
+        "First Name": "Anne",
+        "Middle Name": "NA",
+        "Last Name": "Vyalitsyna",
+        "Maiden Name": "NA",
+        "Full Name at Birth": "Anna Sergeyevna Vyalitsyna",
+        "Alternative Name": "Anne V, \u0410\u0301\u043d\u043d\u0430 \u0412\u044c\u044f\u043b\u0438\u0301\u0446\u044b\u043d\u0430, \u0410\u043d\u043d\u0430 \u0421\u0435\u0440\u0433\u0435\u0435\u0432\u043d\u0430 \u0412\u044c\u044f\u043b\u0438\u0446\u044b\u043d\u0430",
+        "Birthday": "1986",
+        "Birthplace": "Russia",
+        "Height": "178",
+        "Weight": "139lbs (63 kg)",
+        "Zodiac Sign": "1",
+        "Sexuality": "Straight",
+        "Religion": "32",
+        "Ethnicity": "6",
+        "Nationality": "9",
+        "Occupation": "15"
+    }
+}

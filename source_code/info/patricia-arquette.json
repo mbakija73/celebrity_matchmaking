@@ -1,0 +1,77 @@
+{
+    "relationships": [
+        {
+            "name": "Eric White",
+            "href": "https://www.whosdatedwho.com/dating/eric-white-121182292",
+            "relationship_type": 2,
+            "start_date": "Feb 2015",
+            "end_date": "Feb 2015",
+            "length": "-",
+            "start_months_since_1900": 1381,
+            "end_months_since_1900": 1381,
+            "length_in_months": -1
+        },
+        {
+            "name": "Thomas Jane",
+            "href": "https://www.whosdatedwho.com/dating/thomas-jane",
+            "relationship_type": 4,
+            "start_date": "Sep 2001",
+            "end_date": "1st Jul 2011",
+            "length": "9 years",
+            "start_months_since_1900": 1220,
+            "end_months_since_1900": 1338,
+            "length_in_months": 108
+        },
+        {
+            "name": "Nicolas Cage",
+            "href": "https://www.whosdatedwho.com/dating/nicolas-cage",
+            "relationship_type": 4,
+            "start_date": "Apr 1994",
+            "end_date": "May 2001",
+            "length": "7 years",
+            "start_months_since_1900": 1131,
+            "end_months_since_1900": 1216,
+            "length_in_months": 84
+        },
+        {
+            "name": "Paul Rossi",
+            "href": "https://www.whosdatedwho.com/dating/paul-rossi",
+            "relationship_type": 2,
+            "start_date": "1988",
+            "end_date": "1991",
+            "length": "3 years",
+            "start_months_since_1900": 1056,
+            "end_months_since_1900": 1092,
+            "length_in_months": 36
+        },
+        {
+            "name": "Unknown",
+            "href": "https://www.whosdatedwho.com/dating/unknown-profile",
+            "relationship_type": 1,
+            "start_date": "",
+            "end_date": "",
+            "length": "-",
+            "start_months_since_1900": -1,
+            "end_months_since_1900": -1,
+            "length_in_months": -1
+        }
+    ],
+    "details": {
+        "First Name": "Patricia",
+        "Middle Name": "NA",
+        "Last Name": "Arquette",
+        "Maiden Name": "NA",
+        "Full Name at Birth": "Patricia T. Arquette",
+        "Alternative Name": "NA",
+        "Birthday": "1968",
+        "Birthplace": "USA",
+        "Height": "156",
+        "Weight": "NA",
+        "Zodiac Sign": "7",
+        "Sexuality": "Straight",
+        "Religion": "31",
+        "Ethnicity": "6",
+        "Nationality": "91",
+        "Occupation": "8"
+    }
+}

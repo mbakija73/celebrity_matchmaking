@@ -1,0 +1,44 @@
+{
+    "relationships": [
+        {
+            "name": "Bill Maris",
+            "href": "https://www.whosdatedwho.com/dating/bill-maris",
+            "relationship_type": 4,
+            "start_date": "2013",
+            "end_date": "present",
+            "length": "11 years",
+            "start_months_since_1900": 1356,
+            "end_months_since_1900": -1,
+            "length_in_months": 132
+        },
+        {
+            "name": "Jason Mraz",
+            "href": "https://www.whosdatedwho.com/dating/jason-mraz",
+            "relationship_type": 2,
+            "start_date": "2009",
+            "end_date": "Jun 2011",
+            "length": "2 years",
+            "start_months_since_1900": 1308,
+            "end_months_since_1900": 1337,
+            "length_in_months": 24
+        }
+    ],
+    "details": {
+        "First Name": "Tristan",
+        "Middle Name": "NA",
+        "Last Name": "Prettyman",
+        "Maiden Name": "NA",
+        "Full Name at Birth": "Tristan Ann Prettyman",
+        "Alternative Name": "NA",
+        "Birthday": "1982",
+        "Birthplace": "USA",
+        "Height": "NA",
+        "Weight": "NA",
+        "Zodiac Sign": "4",
+        "Sexuality": "Straight",
+        "Religion": "1",
+        "Ethnicity": "6",
+        "Nationality": "91",
+        "Occupation": "1"
+    }
+}

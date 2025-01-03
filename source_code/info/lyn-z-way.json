@@ -1,0 +1,33 @@
+{
+    "relationships": [
+        {
+            "name": "Gerard Way",
+            "href": "https://www.whosdatedwho.com/dating/gerard-way",
+            "relationship_type": 4,
+            "start_date": "Jun 2007",
+            "end_date": "present",
+            "length": "17 years",
+            "start_months_since_1900": 1289,
+            "end_months_since_1900": -1,
+            "length_in_months": 204
+        }
+    ],
+    "details": {
+        "First Name": "Lindsey",
+        "Middle Name": "Ann",
+        "Last Name": "Way",
+        "Maiden Name": "Ballato",
+        "Full Name at Birth": "Lindsey Ann Ballato",
+        "Alternative Name": "Lindsey Ann Way, Lindsey Ballato Way, Lyn-Z, Lindsey Ann Ballato",
+        "Birthday": "1976",
+        "Birthplace": "Scotland",
+        "Height": "170",
+        "Weight": "NA",
+        "Zodiac Sign": "4",
+        "Sexuality": "Straight",
+        "Religion": "1",
+        "Ethnicity": "6",
+        "Nationality": "91",
+        "Occupation": "1"
+    }
+}

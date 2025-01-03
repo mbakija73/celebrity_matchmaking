@@ -1,0 +1,77 @@
+{
+    "relationships": [
+        {
+            "name": "Sarah Foster",
+            "href": "https://www.whosdatedwho.com/dating/sarah-foster",
+            "relationship_type": 3,
+            "start_date": "2008",
+            "end_date": "Jan 2008",
+            "length": "-",
+            "start_months_since_1900": 1296,
+            "end_months_since_1900": 1296,
+            "length_in_months": -1
+        },
+        {
+            "name": "Nicky Rothschild",
+            "href": "https://www.whosdatedwho.com/dating/nicky-rothschild",
+            "relationship_type": 2,
+            "start_date": "Feb 2002",
+            "end_date": "Dec 2003",
+            "length": "1 year",
+            "start_months_since_1900": 1225,
+            "end_months_since_1900": 1247,
+            "length_in_months": 12
+        },
+        {
+            "name": "Mandy Moore",
+            "href": "https://www.whosdatedwho.com/dating/mandy-moore",
+            "relationship_type": 2,
+            "start_date": "2001",
+            "end_date": "2002",
+            "length": "1 year",
+            "start_months_since_1900": 1212,
+            "end_months_since_1900": 1224,
+            "length_in_months": 12
+        },
+        {
+            "name": "Heather Knese",
+            "href": "https://www.whosdatedwho.com/dating/heather-knese",
+            "relationship_type": 2,
+            "start_date": "2000",
+            "end_date": "2003",
+            "length": "3 years",
+            "start_months_since_1900": 1200,
+            "end_months_since_1900": 1236,
+            "length_in_months": 36
+        },
+        {
+            "name": "Taylor Bisciotti",
+            "href": "https://www.whosdatedwho.com/dating/taylor-bisciotti",
+            "relationship_type": 2,
+            "start_date": "",
+            "end_date": "",
+            "length": "-",
+            "start_months_since_1900": -1,
+            "end_months_since_1900": -1,
+            "length_in_months": -1
+        }
+    ],
+    "details": {
+        "First Name": "Brian",
+        "Middle Name": "Michael",
+        "Last Name": "McFayden",
+        "Maiden Name": "NA",
+        "Full Name at Birth": "Brian Michael Mcfayden",
+        "Alternative Name": "NA",
+        "Birthday": "1976",
+        "Birthplace": "Nebraska",
+        "Height": "185",
+        "Weight": "NA",
+        "Zodiac Sign": "10",
+        "Sexuality": "Straight",
+        "Religion": "13",
+        "Ethnicity": "6",
+        "Nationality": "91",
+        "Occupation": "16"
+    }
+}

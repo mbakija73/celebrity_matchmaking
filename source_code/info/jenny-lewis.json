@@ -1,0 +1,77 @@
+{
+    "relationships": [
+        {
+            "name": "Bill Murray",
+            "href": "https://www.whosdatedwho.com/dating/bill-murray",
+            "relationship_type": 2,
+            "start_date": "Oct 2015",
+            "end_date": "Oct 2015",
+            "length": "-",
+            "start_months_since_1900": 1389,
+            "end_months_since_1900": 1389,
+            "length_in_months": -1
+        },
+        {
+            "name": "Johnathan Rice",
+            "href": "https://www.whosdatedwho.com/dating/johnathan-rice",
+            "relationship_type": 2,
+            "start_date": "2005",
+            "end_date": "2013",
+            "length": "8 years",
+            "start_months_since_1900": 1260,
+            "end_months_since_1900": 1356,
+            "length_in_months": 96
+        },
+        {
+            "name": "Jake Gyllenhaal",
+            "href": "https://www.whosdatedwho.com/dating/jake-gyllenhaal",
+            "relationship_type": 2,
+            "start_date": "Oct 2001",
+            "end_date": "Oct 2001",
+            "length": "-",
+            "start_months_since_1900": 1221,
+            "end_months_since_1900": 1221,
+            "length_in_months": -1
+        },
+        {
+            "name": "Blake Soper",
+            "href": "https://www.whosdatedwho.com/dating/blake-soper",
+            "relationship_type": 2,
+            "start_date": "1996",
+            "end_date": "2002",
+            "length": "6 years",
+            "start_months_since_1900": 1152,
+            "end_months_since_1900": 1224,
+            "length_in_months": 72
+        },
+        {
+            "name": "David Faustino",
+            "href": "https://www.whosdatedwho.com/dating/david-faustino",
+            "relationship_type": 2,
+            "start_date": "1992",
+            "end_date": "1995",
+            "length": "3 years",
+            "start_months_since_1900": 1104,
+            "end_months_since_1900": 1140,
+            "length_in_months": 36
+        }
+    ],
+    "details": {
+        "First Name": "Jenny",
+        "Middle Name": "Diane",
+        "Last Name": "Lewis",
+        "Maiden Name": "NA",
+        "Full Name at Birth": "Jennifer Diane Lewis",
+        "Alternative Name": "Jenny",
+        "Birthday": "1976",
+        "Birthplace": "USA",
+        "Height": "155",
+        "Weight": "106lbs (48 kg)",
+        "Zodiac Sign": "13",
+        "Sexuality": "Straight",
+        "Religion": "31",
+        "Ethnicity": "6",
+        "Nationality": "91",
+        "Occupation": "1"
+    }
+}

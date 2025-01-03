@@ -1,0 +1,33 @@
+{
+    "relationships": [
+        {
+            "name": "Kitty Spiegel",
+            "href": "https://www.whosdatedwho.com/dating/kitty-spiegel",
+            "relationship_type": 4,
+            "start_date": "1928",
+            "end_date": "Mar 1938",
+            "length": "10 years",
+            "start_months_since_1900": 336,
+            "end_months_since_1900": 458,
+            "length_in_months": 120
+        }
+    ],
+    "details": {
+        "Birthday": "1889",
+        "First Name": "NA",
+        "Middle Name": "NA",
+        "Last Name": "NA",
+        "Maiden Name": "NA",
+        "Full Name at Birth": "NA",
+        "Alternative Name": "NA",
+        "Birthplace": "NA",
+        "Height": "NA",
+        "Weight": "NA",
+        "Zodiac Sign": "2",
+        "Sexuality": "NA",
+        "Religion": "1",
+        "Ethnicity": "1",
+        "Nationality": "65",
+        "Occupation": "7"
+    }
+}

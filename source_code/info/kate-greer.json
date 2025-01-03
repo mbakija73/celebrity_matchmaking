@@ -1,0 +1,33 @@
+{
+    "relationships": [
+        {
+            "name": "Jack Dorsey",
+            "href": "https://www.whosdatedwho.com/dating/jack-dorsey",
+            "relationship_type": 2,
+            "start_date": "Jun 2013",
+            "end_date": "",
+            "length": "-",
+            "start_months_since_1900": 1361,
+            "end_months_since_1900": -1,
+            "length_in_months": -1
+        }
+    ],
+    "details": {
+        "First Name": "Kate",
+        "Middle Name": "NA",
+        "Last Name": "NA",
+        "Maiden Name": "Greer",
+        "Full Name at Birth": "Katherine Greer",
+        "Alternative Name": "NA",
+        "Birthday": "1985",
+        "Birthplace": "USA",
+        "Height": "163",
+        "Weight": "NA",
+        "Zodiac Sign": "1",
+        "Sexuality": "Straight",
+        "Religion": "1",
+        "Ethnicity": "6",
+        "Nationality": "91",
+        "Occupation": "11"
+    }
+}

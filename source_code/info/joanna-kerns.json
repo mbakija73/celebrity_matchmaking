@@ -1,0 +1,55 @@
+{
+    "relationships": [
+        {
+            "name": "Marc Appleton",
+            "href": "https://www.whosdatedwho.com/dating/marc-appleton",
+            "relationship_type": 4,
+            "start_date": "Sep 1994",
+            "end_date": "Aug 2019",
+            "length": "24 years",
+            "start_months_since_1900": 1136,
+            "end_months_since_1900": 1435,
+            "length_in_months": 288
+        },
+        {
+            "name": "Alan Thicke",
+            "href": "https://www.whosdatedwho.com/dating/alan-thicke",
+            "relationship_type": 2,
+            "start_date": "1985",
+            "end_date": "1985",
+            "length": "-",
+            "start_months_since_1900": 1020,
+            "end_months_since_1900": 1020,
+            "length_in_months": -1
+        },
+        {
+            "name": "Richard Kerns",
+            "href": "https://www.whosdatedwho.com/dating/richard-kerns",
+            "relationship_type": 4,
+            "start_date": "1974",
+            "end_date": "1984",
+            "length": "10 years",
+            "start_months_since_1900": 888,
+            "end_months_since_1900": 1008,
+            "length_in_months": 120
+        }
+    ],
+    "details": {
+        "First Name": "Joanne",
+        "Middle Name": "Crussie",
+        "Last Name": "Kerns",
+        "Maiden Name": "DeVarona",
+        "Full Name at Birth": "Joanne Crussie DeVarona",
+        "Alternative Name": "NA",
+        "Birthday": "1953",
+        "Birthplace": "USA",
+        "Height": "174",
+        "Weight": "132lbs (60 kg)",
+        "Zodiac Sign": "9",
+        "Sexuality": "Straight",
+        "Religion": "1",
+        "Ethnicity": "6",
+        "Nationality": "91",
+        "Occupation": "8"
+    }
+}

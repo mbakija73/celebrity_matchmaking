@@ -1,0 +1,44 @@
+{
+    "relationships": [
+        {
+            "name": "Safaree",
+            "href": "https://www.whosdatedwho.com/dating/safaree",
+            "relationship_type": 3,
+            "start_date": "2019",
+            "end_date": "2019",
+            "length": "-",
+            "start_months_since_1900": 1428,
+            "end_months_since_1900": 1428,
+            "length_in_months": -1
+        },
+        {
+            "name": "Pleasure P.",
+            "href": "https://www.whosdatedwho.com/dating/pleasure-p",
+            "relationship_type": 2,
+            "start_date": "",
+            "end_date": "",
+            "length": "-",
+            "start_months_since_1900": -1,
+            "end_months_since_1900": -1,
+            "length_in_months": -1
+        }
+    ],
+    "details": {
+        "First Name": "Gabrielle",
+        "Middle Name": "NA",
+        "Last Name": "Davis",
+        "Maiden Name": "NA",
+        "Full Name at Birth": "NA",
+        "Alternative Name": "NA",
+        "Birthday": "1989",
+        "Birthplace": "NA",
+        "Height": "NA",
+        "Weight": "NA",
+        "Zodiac Sign": "4",
+        "Sexuality": "Straight",
+        "Religion": "1",
+        "Ethnicity": "8",
+        "Nationality": "62",
+        "Occupation": "11"
+    }
+}

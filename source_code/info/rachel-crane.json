@@ -1,0 +1,44 @@
+{
+    "relationships": [
+        {
+            "name": "Robert Schwartzman",
+            "href": "https://www.whosdatedwho.com/dating/robert-schwartzman",
+            "relationship_type": 2,
+            "start_date": "2006",
+            "end_date": "2008",
+            "length": "2 years",
+            "start_months_since_1900": 1272,
+            "end_months_since_1900": 1296,
+            "length_in_months": 24
+        },
+        {
+            "name": "Elias Kefalidis",
+            "href": "https://www.whosdatedwho.com/dating/elias-kefalidis",
+            "relationship_type": 2,
+            "start_date": "",
+            "end_date": "",
+            "length": "-",
+            "start_months_since_1900": -1,
+            "end_months_since_1900": -1,
+            "length_in_months": -1
+        }
+    ],
+    "details": {
+        "First Name": "Rachel",
+        "Middle Name": "NA",
+        "Last Name": "NA",
+        "Maiden Name": "Crane",
+        "Full Name at Birth": "Rachel Crane",
+        "Alternative Name": "NA",
+        "Birthday": "26th October",
+        "Birthplace": "NA",
+        "Height": "NA",
+        "Weight": "NA",
+        "Zodiac Sign": "5",
+        "Sexuality": "NA",
+        "Religion": "1",
+        "Ethnicity": "6",
+        "Nationality": "91",
+        "Occupation": "8"
+    }
+}

@@ -1,0 +1,44 @@
+{
+    "relationships": [
+        {
+            "name": "Brigitte Bardot",
+            "href": "https://www.whosdatedwho.com/dating/brigitte-bardot",
+            "relationship_type": 3,
+            "start_date": "",
+            "end_date": "",
+            "length": "-",
+            "start_months_since_1900": -1,
+            "end_months_since_1900": -1,
+            "length_in_months": -1
+        },
+        {
+            "name": "Tyrone Power",
+            "href": "https://www.whosdatedwho.com/dating/tyrone-power",
+            "relationship_type": 3,
+            "start_date": "",
+            "end_date": "",
+            "length": "-",
+            "start_months_since_1900": -1,
+            "end_months_since_1900": -1,
+            "length_in_months": -1
+        }
+    ],
+    "details": {
+        "First Name": "Jonathan",
+        "Middle Name": "NA",
+        "Last Name": "Gilmore",
+        "Maiden Name": "NA",
+        "Full Name at Birth": "Jonathan Gilmore",
+        "Alternative Name": "John Gilmore",
+        "Birthday": "1935",
+        "Birthplace": "CA",
+        "Height": "183",
+        "Weight": "NA",
+        "Zodiac Sign": "8",
+        "Sexuality": "Bisexual",
+        "Religion": "1",
+        "Ethnicity": "6",
+        "Nationality": "91",
+        "Occupation": "3"
+    }
+}

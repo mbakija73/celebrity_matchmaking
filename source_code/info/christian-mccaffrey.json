@@ -1,0 +1,55 @@
+{
+    "relationships": [
+        {
+            "name": "Olivia Culpo",
+            "href": "https://www.whosdatedwho.com/dating/olivia-culpo",
+            "relationship_type": 4,
+            "start_date": "May 2019",
+            "end_date": "present",
+            "length": "5 years",
+            "start_months_since_1900": 1432,
+            "end_months_since_1900": -1,
+            "length_in_months": 60
+        },
+        {
+            "name": "Marybeth Sant",
+            "href": "https://www.whosdatedwho.com/dating/marybeth-sant",
+            "relationship_type": 2,
+            "start_date": "May 2015",
+            "end_date": "May 2015",
+            "length": "-",
+            "start_months_since_1900": 1384,
+            "end_months_since_1900": 1384,
+            "length_in_months": -1
+        },
+        {
+            "name": "Brooke Pettet",
+            "href": "https://www.whosdatedwho.com/dating/brooke-pettet",
+            "relationship_type": 2,
+            "start_date": "2015",
+            "end_date": "2017",
+            "length": "2 years",
+            "start_months_since_1900": 1380,
+            "end_months_since_1900": 1404,
+            "length_in_months": 24
+        }
+    ],
+    "details": {
+        "First Name": "Christian",
+        "Middle Name": "NA",
+        "Last Name": "McCaffrey",
+        "Maiden Name": "NA",
+        "Full Name at Birth": "Christian Jackson McCaffrey",
+        "Alternative Name": "NA",
+        "Birthday": "1996",
+        "Birthplace": "Colorado",
+        "Height": "181",
+        "Weight": "209lbs (95 kg)",
+        "Zodiac Sign": "4",
+        "Sexuality": "Straight",
+        "Religion": "18",
+        "Ethnicity": "6",
+        "Nationality": "91",
+        "Occupation": "2"
+    }
+}

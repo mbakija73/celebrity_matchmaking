@@ -1,0 +1,55 @@
+{
+    "relationships": [
+        {
+            "name": "Laya Raki",
+            "href": "https://www.whosdatedwho.com/dating/laya-raki",
+            "relationship_type": 4,
+            "start_date": "Dec 1956",
+            "end_date": "Jun 2005",
+            "length": "48 years",
+            "start_months_since_1900": 683,
+            "end_months_since_1900": 1265,
+            "length_in_months": 576
+        },
+        {
+            "name": "Adele Jergens",
+            "href": "https://www.whosdatedwho.com/dating/adele-jergens",
+            "relationship_type": 2,
+            "start_date": "Jan 1948",
+            "end_date": "Mar 1948",
+            "length": "2 months",
+            "start_months_since_1900": 576,
+            "end_months_since_1900": 578,
+            "length_in_months": 2
+        },
+        {
+            "name": "Simone Silva",
+            "href": "https://www.whosdatedwho.com/dating/simone-silva",
+            "relationship_type": 2,
+            "start_date": "",
+            "end_date": "",
+            "length": "-",
+            "start_months_since_1900": -1,
+            "end_months_since_1900": -1,
+            "length_in_months": -1
+        }
+    ],
+    "details": {
+        "First Name": "Ronald",
+        "Middle Name": "Egan",
+        "Last Name": "Randell",
+        "Maiden Name": "NA",
+        "Full Name at Birth": "Ronald Egan Randell",
+        "Alternative Name": "Ron Randall, Ronald Egan Randell, Ronald Randell, Ron Randell",
+        "Birthday": "1918",
+        "Birthplace": "Australia",
+        "Height": "180",
+        "Weight": "NA",
+        "Zodiac Sign": "10",
+        "Sexuality": "Straight",
+        "Religion": "1",
+        "Ethnicity": "6",
+        "Nationality": "135",
+        "Occupation": "8"
+    }
+}

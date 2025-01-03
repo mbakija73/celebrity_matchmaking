@@ -1,0 +1,55 @@
+{
+    "relationships": [
+        {
+            "name": "Jo Jo Laine",
+            "href": "https://www.whosdatedwho.com/dating/jo-jo-laine",
+            "relationship_type": 2,
+            "start_date": "Sep 1981",
+            "end_date": "Mar 1982",
+            "length": "6 months",
+            "start_months_since_1900": 980,
+            "end_months_since_1900": 986,
+            "length_in_months": 6
+        },
+        {
+            "name": "Sharon Osbourne",
+            "href": "https://www.whosdatedwho.com/dating/sharon-osbourne",
+            "relationship_type": 3,
+            "start_date": "1981",
+            "end_date": "1981",
+            "length": "-",
+            "start_months_since_1900": 972,
+            "end_months_since_1900": 972,
+            "length_in_months": -1
+        },
+        {
+            "name": "Jodi Vigier",
+            "href": "https://www.whosdatedwho.com/dating/jodi-vigier-raskin",
+            "relationship_type": 2,
+            "start_date": "",
+            "end_date": "",
+            "length": "-",
+            "start_months_since_1900": -1,
+            "end_months_since_1900": -1,
+            "length_in_months": -1
+        }
+    ],
+    "details": {
+        "First Name": "Randy",
+        "Middle Name": "William",
+        "Last Name": "Rhoads",
+        "Maiden Name": "NA",
+        "Full Name at Birth": "Randall William Rhoads",
+        "Alternative Name": "NA",
+        "Birthday": "1956",
+        "Birthplace": "USA",
+        "Height": "170",
+        "Weight": "NA",
+        "Zodiac Sign": "6",
+        "Sexuality": "Straight",
+        "Religion": "28",
+        "Ethnicity": "6",
+        "Nationality": "91",
+        "Occupation": "1"
+    }
+}

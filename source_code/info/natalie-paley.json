@@ -1,0 +1,88 @@
+{
+    "relationships": [
+        {
+            "name": "Erich Maria Remarque",
+            "href": "https://www.whosdatedwho.com/dating/erich-maria-remarque",
+            "relationship_type": 2,
+            "start_date": "1945",
+            "end_date": "1952",
+            "length": "7 years",
+            "start_months_since_1900": 540,
+            "end_months_since_1900": 624,
+            "length_in_months": 84
+        },
+        {
+            "name": "John C. Wilson",
+            "href": "https://www.whosdatedwho.com/dating/john-c-wilson",
+            "relationship_type": 4,
+            "start_date": "1936",
+            "end_date": "Oct 1961",
+            "length": "25 years",
+            "start_months_since_1900": 432,
+            "end_months_since_1900": 741,
+            "length_in_months": 300
+        },
+        {
+            "name": "Charles Boyer",
+            "href": "https://www.whosdatedwho.com/dating/charles-boyer",
+            "relationship_type": 2,
+            "start_date": "Apr 1933",
+            "end_date": "1933",
+            "length": "3 months",
+            "start_months_since_1900": 399,
+            "end_months_since_1900": 396,
+            "length_in_months": 3
+        },
+        {
+            "name": "Serge Lifar",
+            "href": "https://www.whosdatedwho.com/dating/serge-lifar",
+            "relationship_type": 2,
+            "start_date": "Jul 1931",
+            "end_date": "Apr 1933",
+            "length": "1 year",
+            "start_months_since_1900": 378,
+            "end_months_since_1900": 399,
+            "length_in_months": 12
+        },
+        {
+            "name": "Jean Cocteau",
+            "href": "https://www.whosdatedwho.com/dating/jean-cocteau",
+            "relationship_type": 2,
+            "start_date": "1930",
+            "end_date": "Nov 1932",
+            "length": "2 years",
+            "start_months_since_1900": 360,
+            "end_months_since_1900": 394,
+            "length_in_months": 24
+        },
+        {
+            "name": "Lucien Lelong",
+            "href": "https://www.whosdatedwho.com/dating/lucien-lelong",
+            "relationship_type": 4,
+            "start_date": "1926",
+            "end_date": "1937",
+            "length": "11 years",
+            "start_months_since_1900": 312,
+            "end_months_since_1900": 444,
+            "length_in_months": 132
+        }
+    ],
+    "details": {
+        "First Name": "Natalie",
+        "Middle Name": "NA",
+        "Last Name": "Paley",
+        "Maiden Name": "von Hohenfelsen",
+        "Full Name at Birth": "Countess Natalia Pavlovna von Hohenfelsen",
+        "Alternative Name": "Princess Natalia Pavlovna Paley, Natalie de Hohenfelsen, Nathalie Paley, Natascha Paley, Natalie Pavlovna, Natalia Pavlovna Paley",
+        "Birthday": "1905",
+        "Birthplace": "France",
+        "Height": "NA",
+        "Weight": "NA",
+        "Zodiac Sign": "6",
+        "Sexuality": "Straight",
+        "Religion": "24",
+        "Ethnicity": "6",
+        "Nationality": "9",
+        "Occupation": "18"
+    }
+}

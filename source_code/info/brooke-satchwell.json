@@ -1,0 +1,44 @@
+{
+    "relationships": [
+        {
+            "name": "David Gross",
+            "href": "https://www.whosdatedwho.com/dating/david-gross-editor",
+            "relationship_type": 2,
+            "start_date": "Oct 2012",
+            "end_date": "Jun 2019",
+            "length": "6 years",
+            "start_months_since_1900": 1353,
+            "end_months_since_1900": 1433,
+            "length_in_months": 72
+        },
+        {
+            "name": "Matthew Newton",
+            "href": "https://www.whosdatedwho.com/dating/matthew-newton",
+            "relationship_type": 2,
+            "start_date": "Sep 2001",
+            "end_date": "May 2006",
+            "length": "4 years",
+            "start_months_since_1900": 1220,
+            "end_months_since_1900": 1276,
+            "length_in_months": 48
+        }
+    ],
+    "details": {
+        "First Name": "Brooke",
+        "Middle Name": "Kerith",
+        "Last Name": "NA",
+        "Maiden Name": "Satchwell",
+        "Full Name at Birth": "Brooke Kerith Satchwell",
+        "Alternative Name": "Brooke Kerith Satchwell, Brooke Satchwell, Brooke",
+        "Birthday": "1980",
+        "Birthplace": "Australia",
+        "Height": "165",
+        "Weight": "121lbs (55 kg)",
+        "Zodiac Sign": "5",
+        "Sexuality": "Straight",
+        "Religion": "1",
+        "Ethnicity": "6",
+        "Nationality": "135",
+        "Occupation": "8"
+    }
+}

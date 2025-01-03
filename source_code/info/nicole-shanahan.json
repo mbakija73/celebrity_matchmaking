@@ -1,0 +1,55 @@
+{
+    "relationships": [
+        {
+            "name": "Elon Musk",
+            "href": "https://www.whosdatedwho.com/dating/elon-musk",
+            "relationship_type": 2,
+            "start_date": "2021",
+            "end_date": "2021",
+            "length": "-",
+            "start_months_since_1900": 1452,
+            "end_months_since_1900": 1452,
+            "length_in_months": -1
+        },
+        {
+            "name": "Sergey Brin",
+            "href": "https://www.whosdatedwho.com/dating/sergey-brin",
+            "relationship_type": 4,
+            "start_date": "Nov 2018",
+            "end_date": "Jan 2022",
+            "length": "3 years",
+            "start_months_since_1900": 1426,
+            "end_months_since_1900": 1464,
+            "length_in_months": 36
+        },
+        {
+            "name": "Jeremy Asher Kranz",
+            "href": "https://www.whosdatedwho.com/dating/jeremy-asher-kranz",
+            "relationship_type": 4,
+            "start_date": "2013",
+            "end_date": "2015",
+            "length": "2 years",
+            "start_months_since_1900": 1356,
+            "end_months_since_1900": 1380,
+            "length_in_months": 24
+        }
+    ],
+    "details": {
+        "First Name": "Nicole",
+        "Middle Name": "NA",
+        "Last Name": "Shanahan",
+        "Maiden Name": "NA",
+        "Full Name at Birth": "NA",
+        "Alternative Name": "Nicole",
+        "Birthday": "1989",
+        "Birthplace": "USA",
+        "Height": "170",
+        "Weight": "119lbs (54 kg)",
+        "Zodiac Sign": "3",
+        "Sexuality": "Straight",
+        "Religion": "1",
+        "Ethnicity": "8",
+        "Nationality": "91",
+        "Occupation": "7"
+    }
+}

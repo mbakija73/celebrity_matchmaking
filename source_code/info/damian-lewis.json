@@ -1,0 +1,88 @@
+{
+    "relationships": [
+        {
+            "name": "Alison Mosshart",
+            "href": "https://www.whosdatedwho.com/dating/alison-mosshart",
+            "relationship_type": 2,
+            "start_date": "2022",
+            "end_date": "present",
+            "length": "2 years",
+            "start_months_since_1900": 1464,
+            "end_months_since_1900": -1,
+            "length_in_months": 24
+        },
+        {
+            "name": "Helen McCrory",
+            "href": "https://www.whosdatedwho.com/dating/helen-mccrory",
+            "relationship_type": 4,
+            "start_date": "Jun 2005",
+            "end_date": "Apr 2021",
+            "length": "15 years",
+            "start_months_since_1900": 1265,
+            "end_months_since_1900": 1455,
+            "length_in_months": 180
+        },
+        {
+            "name": "Sophia Myles",
+            "href": "https://www.whosdatedwho.com/dating/sophia-myles",
+            "relationship_type": 3,
+            "start_date": "Apr 2005",
+            "end_date": "May 2005",
+            "length": "1 month",
+            "start_months_since_1900": 1263,
+            "end_months_since_1900": 1264,
+            "length_in_months": 1
+        },
+        {
+            "name": "Kristin Davis",
+            "href": "https://www.whosdatedwho.com/dating/kristin-davis",
+            "relationship_type": 2,
+            "start_date": "Sep 2003",
+            "end_date": "2004",
+            "length": "4 months",
+            "start_months_since_1900": 1244,
+            "end_months_since_1900": 1248,
+            "length_in_months": 4
+        },
+        {
+            "name": "Freya Stafford",
+            "href": "https://www.whosdatedwho.com/dating/freya-stafford",
+            "relationship_type": 2,
+            "start_date": "Jul 2001",
+            "end_date": "Dec 2003",
+            "length": "2 years",
+            "start_months_since_1900": 1218,
+            "end_months_since_1900": 1247,
+            "length_in_months": 24
+        },
+        {
+            "name": "Katie Razzall",
+            "href": "https://www.whosdatedwho.com/dating/katie-razzall",
+            "relationship_type": 2,
+            "start_date": "Jun 2001",
+            "end_date": "Jan 2002",
+            "length": "7 months",
+            "start_months_since_1900": 1217,
+            "end_months_since_1900": 1224,
+            "length_in_months": 7
+        }
+    ],
+    "details": {
+        "First Name": "Damian",
+        "Middle Name": "Watkyn",
+        "Last Name": "Lewis",
+        "Maiden Name": "NA",
+        "Full Name at Birth": "Damian Watkyn Lewis",
+        "Alternative Name": "NA",
+        "Birthday": "1971",
+        "Birthplace": "England",
+        "Height": "185",
+        "Weight": "NA",
+        "Zodiac Sign": "9",
+        "Sexuality": "Straight",
+        "Religion": "18",
+        "Ethnicity": "6",
+        "Nationality": "8",
+        "Occupation": "8"
+    }
+}

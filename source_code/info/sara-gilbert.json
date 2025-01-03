@@ -1,0 +1,66 @@
+{
+    "relationships": [
+        {
+            "name": "Linda Perry",
+            "href": "https://www.whosdatedwho.com/dating/linda-perry",
+            "relationship_type": 4,
+            "start_date": "Oct 2011",
+            "end_date": "Dec 2019",
+            "length": "8 years",
+            "start_months_since_1900": 1341,
+            "end_months_since_1900": 1439,
+            "length_in_months": 96
+        },
+        {
+            "name": "Ali Adler",
+            "href": "https://www.whosdatedwho.com/dating/ali-adler",
+            "relationship_type": 2,
+            "start_date": "2001",
+            "end_date": "Aug 2011",
+            "length": "10 years",
+            "start_months_since_1900": 1212,
+            "end_months_since_1900": 1339,
+            "length_in_months": 120
+        },
+        {
+            "name": "Tobey Maguire",
+            "href": "https://www.whosdatedwho.com/dating/tobey-maguire",
+            "relationship_type": 2,
+            "start_date": "Feb 1993",
+            "end_date": "Nov 1996",
+            "length": "3 years",
+            "start_months_since_1900": 1117,
+            "end_months_since_1900": 1162,
+            "length_in_months": 36
+        },
+        {
+            "name": "Johnny Galecki",
+            "href": "https://www.whosdatedwho.com/dating/johnny-galecki",
+            "relationship_type": 2,
+            "start_date": "1992",
+            "end_date": "1993",
+            "length": "1 year",
+            "start_months_since_1900": 1104,
+            "end_months_since_1900": 1116,
+            "length_in_months": 12
+        }
+    ],
+    "details": {
+        "First Name": "Sara",
+        "Middle Name": "Rebecca",
+        "Last Name": "Gilbert",
+        "Maiden Name": "Abeles",
+        "Full Name at Birth": "Sara Rebecca Abeles",
+        "Alternative Name": "Sara Gilbert, Sara",
+        "Birthday": "1975",
+        "Birthplace": "USA",
+        "Height": "157",
+        "Weight": "117lbs (53 kg)",
+        "Zodiac Sign": "9",
+        "Sexuality": "Lesbian",
+        "Religion": "31",
+        "Ethnicity": "6",
+        "Nationality": "91",
+        "Occupation": "8"
+    }
+}

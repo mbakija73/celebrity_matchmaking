@@ -1,0 +1,66 @@
+{
+    "relationships": [
+        {
+            "name": "Francesca Van Hartz",
+            "href": "https://www.whosdatedwho.com/dating/francesca-van-hartz",
+            "relationship_type": 4,
+            "start_date": "1950",
+            "end_date": "Jan 2005",
+            "length": "55 years",
+            "start_months_since_1900": 600,
+            "end_months_since_1900": 1260,
+            "length_in_months": 660
+        },
+        {
+            "name": "Jack Kerouac",
+            "href": "https://www.whosdatedwho.com/dating/jack-kerouac",
+            "relationship_type": 2,
+            "start_date": "1944",
+            "end_date": "1944",
+            "length": "-",
+            "start_months_since_1900": 528,
+            "end_months_since_1900": 528,
+            "length_in_months": -1
+        },
+        {
+            "name": "Allen Ginsberg",
+            "href": "https://www.whosdatedwho.com/dating/allen-ginsberg",
+            "relationship_type": 3,
+            "start_date": "1944",
+            "end_date": "1944",
+            "length": "-",
+            "start_months_since_1900": 528,
+            "end_months_since_1900": 528,
+            "length_in_months": -1
+        },
+        {
+            "name": "David Kammerer",
+            "href": "https://www.whosdatedwho.com/dating/david-kammerer",
+            "relationship_type": 2,
+            "start_date": "1939",
+            "end_date": "Aug 1944",
+            "length": "5 years",
+            "start_months_since_1900": 468,
+            "end_months_since_1900": 535,
+            "length_in_months": 60
+        }
+    ],
+    "details": {
+        "First Name": "Lucien",
+        "Middle Name": "NA",
+        "Last Name": "Carr",
+        "Maiden Name": "NA",
+        "Full Name at Birth": "Lucien Carr",
+        "Alternative Name": "NA",
+        "Birthday": "1925",
+        "Birthplace": "USA",
+        "Height": "NA",
+        "Weight": "NA",
+        "Zodiac Sign": "1",
+        "Sexuality": "Bisexual",
+        "Religion": "1",
+        "Ethnicity": "6",
+        "Nationality": "91",
+        "Occupation": "3"
+    }
+}

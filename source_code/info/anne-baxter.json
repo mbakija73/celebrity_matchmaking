@@ -1,0 +1,110 @@
+{
+    "relationships": [
+        {
+            "name": "Max Showalter",
+            "href": "https://www.whosdatedwho.com/dating/max-showalter",
+            "relationship_type": 2,
+            "start_date": "Oct 1978",
+            "end_date": "Nov 1978",
+            "length": "1 month",
+            "start_months_since_1900": 945,
+            "end_months_since_1900": 946,
+            "length_in_months": 1
+        },
+        {
+            "name": "David Klee",
+            "href": "https://www.whosdatedwho.com/dating/david-klee",
+            "relationship_type": 4,
+            "start_date": "1976",
+            "end_date": "15th Oct 1977",
+            "length": "1 year",
+            "start_months_since_1900": 912,
+            "end_months_since_1900": 933,
+            "length_in_months": 12
+        },
+        {
+            "name": "Randolph Galt",
+            "href": "https://www.whosdatedwho.com/dating/randolph-galt",
+            "relationship_type": 4,
+            "start_date": "1959",
+            "end_date": "1969",
+            "length": "10 years",
+            "start_months_since_1900": 708,
+            "end_months_since_1900": 828,
+            "length_in_months": 120
+        },
+        {
+            "name": "Yul Brynner",
+            "href": "https://www.whosdatedwho.com/dating/yul-brynner",
+            "relationship_type": 2,
+            "start_date": "Oct 1954",
+            "end_date": "Aug 1955",
+            "length": "10 months",
+            "start_months_since_1900": 657,
+            "end_months_since_1900": 667,
+            "length_in_months": 10
+        },
+        {
+            "name": "Darryl F. Zanuck",
+            "href": "https://www.whosdatedwho.com/dating/darryl-f-zanuck",
+            "relationship_type": 3,
+            "start_date": "Apr 1950",
+            "end_date": "Jun 1950",
+            "length": "2 months",
+            "start_months_since_1900": 603,
+            "end_months_since_1900": 605,
+            "length_in_months": 2
+        },
+        {
+            "name": "John Hodiak",
+            "href": "https://www.whosdatedwho.com/dating/john-hodiak",
+            "relationship_type": 4,
+            "start_date": "1945",
+            "end_date": "Jan 1953",
+            "length": "8 years",
+            "start_months_since_1900": 540,
+            "end_months_since_1900": 636,
+            "length_in_months": 96
+        },
+        {
+            "name": "Peter Lawford",
+            "href": "https://www.whosdatedwho.com/dating/peter-lawford",
+            "relationship_type": 2,
+            "start_date": "Nov 1943",
+            "end_date": "Jan 1944",
+            "length": "2 months",
+            "start_months_since_1900": 526,
+            "end_months_since_1900": 528,
+            "length_in_months": 2
+        },
+        {
+            "name": "William Eythe",
+            "href": "https://www.whosdatedwho.com/dating/william-eythe",
+            "relationship_type": 1,
+            "start_date": "Sep 1943",
+            "end_date": "Dec 1943",
+            "length": "3 months",
+            "start_months_since_1900": 524,
+            "end_months_since_1900": 527,
+            "length_in_months": 3
+        }
+    ],
+    "details": {
+        "First Name": "Anne",
+        "Middle Name": "NA",
+        "Last Name": "Baxter",
+        "Maiden Name": "NA",
+        "Full Name at Birth": "Anne Baxter",
+        "Alternative Name": "NA",
+        "Birthday": "1923",
+        "Birthplace": "USA",
+        "Height": "163",
+        "Weight": "NA",
+        "Zodiac Sign": "3",
+        "Sexuality": "Straight",
+        "Religion": "1",
+        "Ethnicity": "6",
+        "Nationality": "91",
+        "Occupation": "8"
+    }
+}

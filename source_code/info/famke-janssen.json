@@ -1,0 +1,77 @@
+{
+    "relationships": [
+        {
+            "name": "Josh Peck",
+            "href": "https://www.whosdatedwho.com/dating/josh-peck",
+            "relationship_type": 2,
+            "start_date": "Jul 2007",
+            "end_date": "Aug 2007",
+            "length": "1 month",
+            "start_months_since_1900": 1290,
+            "end_months_since_1900": 1291,
+            "length_in_months": 1
+        },
+        {
+            "name": "Cole Frates",
+            "href": "https://www.whosdatedwho.com/dating/cole-frates",
+            "relationship_type": 2,
+            "start_date": "2006",
+            "end_date": "2006",
+            "length": "-",
+            "start_months_since_1900": 1272,
+            "end_months_since_1900": 1272,
+            "length_in_months": -1
+        },
+        {
+            "name": "Ryan Gosling",
+            "href": "https://www.whosdatedwho.com/dating/ryan-gosling",
+            "relationship_type": 3,
+            "start_date": "Nov 2004",
+            "end_date": "Nov 2004",
+            "length": "-",
+            "start_months_since_1900": 1258,
+            "end_months_since_1900": 1258,
+            "length_in_months": -1
+        },
+        {
+            "name": "Tod Williams",
+            "href": "https://www.whosdatedwho.com/dating/tod-williams",
+            "relationship_type": 4,
+            "start_date": "1995",
+            "end_date": "2000",
+            "length": "5 years",
+            "start_months_since_1900": 1140,
+            "end_months_since_1900": 1200,
+            "length_in_months": 60
+        },
+        {
+            "name": "York Alec Shackleton",
+            "href": "https://www.whosdatedwho.com/dating/york-alec-shackleton",
+            "relationship_type": 1,
+            "start_date": "",
+            "end_date": "",
+            "length": "-",
+            "start_months_since_1900": -1,
+            "end_months_since_1900": -1,
+            "length_in_months": -1
+        }
+    ],
+    "details": {
+        "First Name": "Famke",
+        "Middle Name": "Beumer",
+        "Last Name": "Janssen",
+        "Maiden Name": "NA",
+        "Full Name at Birth": "Famke Beumer Janssen",
+        "Alternative Name": "Famke Beumer Janssen, Famke Janssen",
+        "Birthday": "1965",
+        "Birthplace": "Netherlands",
+        "Height": "181",
+        "Weight": "119lbs (54 kg)",
+        "Zodiac Sign": "5",
+        "Sexuality": "Straight",
+        "Religion": "36",
+        "Ethnicity": "6",
+        "Nationality": "45",
+        "Occupation": "8"
+    }
+}

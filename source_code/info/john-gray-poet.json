@@ -1,0 +1,44 @@
+{
+    "relationships": [
+        {
+            "name": "Oscar Wilde",
+            "href": "https://www.whosdatedwho.com/dating/oscar-wilde",
+            "relationship_type": 2,
+            "start_date": "1891",
+            "end_date": "1893",
+            "length": "2 years",
+            "start_months_since_1900": -108,
+            "end_months_since_1900": -84,
+            "length_in_months": 24
+        },
+        {
+            "name": "Marc-Andre Raffalovich",
+            "href": "https://www.whosdatedwho.com/dating/marc-andre-raffalovich",
+            "relationship_type": 2,
+            "start_date": "1890",
+            "end_date": "Feb 1934",
+            "length": "44 years",
+            "start_months_since_1900": -120,
+            "end_months_since_1900": 409,
+            "length_in_months": 528
+        }
+    ],
+    "details": {
+        "First Name": "John",
+        "Middle Name": "NA",
+        "Last Name": "Gray",
+        "Maiden Name": "NA",
+        "Full Name at Birth": "NA",
+        "Alternative Name": "John Gray",
+        "Birthday": "1866",
+        "Birthplace": "UK",
+        "Height": "NA",
+        "Weight": "NA",
+        "Zodiac Sign": "1",
+        "Sexuality": "Gay",
+        "Religion": "1",
+        "Ethnicity": "6",
+        "Nationality": "8",
+        "Occupation": "3"
+    }
+}

@@ -1,0 +1,27 @@
+{
+    "relationships": [
+        {
+            "name": "Paulo Ramos",
+            "href": "https://www.whosdatedwho.com/dating/paulo-ramos-32433845",
+            "relationship_type": 2,
+            "start_date": "May 2017",
+            "end_date": "Jul 2017",
+            "length": "2 months",
+            "start_months_since_1900": 1408,
+            "end_months_since_1900": 1410,
+            "length_in_months": 2
+        },
+        {
+            "name": "Daniel Palmeiro",
+            "href": "https://www.whosdatedwho.com/dating/daniel-palmeiro",
+            "relationship_type": 2,
+            "start_date": "Feb 2017",
+            "end_date": "Mar 2017",
+            "length": "< 1 month",
+            "start_months_since_1900": 1405,
+            "end_months_since_1900": 1406,
+            "length_in_months": 0
+        }
+    ],
+    "details": {}
+}

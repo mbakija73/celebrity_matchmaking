@@ -1,0 +1,44 @@
+{
+    "relationships": [
+        {
+            "name": "Sly Stone",
+            "href": "https://www.whosdatedwho.com/dating/sly-stone",
+            "relationship_type": 4,
+            "start_date": "1972",
+            "end_date": "Oct 1974",
+            "length": "2 years",
+            "start_months_since_1900": 864,
+            "end_months_since_1900": 897,
+            "length_in_months": 24
+        },
+        {
+            "name": "Billy Preston",
+            "href": "https://www.whosdatedwho.com/dating/billy-preston",
+            "relationship_type": 2,
+            "start_date": "",
+            "end_date": "",
+            "length": "-",
+            "start_months_since_1900": -1,
+            "end_months_since_1900": -1,
+            "length_in_months": -1
+        }
+    ],
+    "details": {
+        "First Name": "Kathy",
+        "Middle Name": "NA",
+        "Last Name": "Silva",
+        "Maiden Name": "NA",
+        "Full Name at Birth": "Catalina Silva Morena",
+        "Alternative Name": "Kathy Silva, Kathleen Silva, Kathleen Stewart-Darling, Catalina Silva Morena",
+        "Birthday": "1948",
+        "Birthplace": "NA",
+        "Height": "NA",
+        "Weight": "NA",
+        "Zodiac Sign": "6",
+        "Sexuality": "NA",
+        "Religion": "1",
+        "Ethnicity": "1",
+        "Nationality": "91",
+        "Occupation": "8"
+    }
+}

@@ -1,0 +1,66 @@
+{
+    "relationships": [
+        {
+            "name": "Rex Linn",
+            "href": "https://www.whosdatedwho.com/dating/rex-linn",
+            "relationship_type": 2,
+            "start_date": "Jan 2020",
+            "end_date": "present",
+            "length": "4 years",
+            "start_months_since_1900": 1440,
+            "end_months_since_1900": -1,
+            "length_in_months": 48
+        },
+        {
+            "name": "Anthony Lasuzzo",
+            "href": "https://www.whosdatedwho.com/dating/anthony-lasuzzo",
+            "relationship_type": 2,
+            "start_date": "Nov 2017",
+            "end_date": "May 2019",
+            "length": "1 year",
+            "start_months_since_1900": 1414,
+            "end_months_since_1900": 1432,
+            "length_in_months": 12
+        },
+        {
+            "name": "Narvel Blackstock",
+            "href": "https://www.whosdatedwho.com/dating/narvel-blackstock",
+            "relationship_type": 4,
+            "start_date": "1987",
+            "end_date": "28th Oct 2015",
+            "length": "28 years",
+            "start_months_since_1900": 1044,
+            "end_months_since_1900": 1389,
+            "length_in_months": 336
+        },
+        {
+            "name": "Charlie Battles",
+            "href": "https://www.whosdatedwho.com/dating/charlie-battles",
+            "relationship_type": 4,
+            "start_date": "Jun 1975",
+            "end_date": "Jun 1987",
+            "length": "12 years",
+            "start_months_since_1900": 905,
+            "end_months_since_1900": 1049,
+            "length_in_months": 144
+        }
+    ],
+    "details": {
+        "First Name": "Reba",
+        "Middle Name": "Nell",
+        "Last Name": "McEntire",
+        "Maiden Name": "NA",
+        "Full Name at Birth": "Reba Nell McEntire",
+        "Alternative Name": "Reba",
+        "Birthday": "1955",
+        "Birthplace": "USA",
+        "Height": "170",
+        "Weight": "128lbs (58 kg)",
+        "Zodiac Sign": "7",
+        "Sexuality": "Straight",
+        "Religion": "18",
+        "Ethnicity": "6",
+        "Nationality": "91",
+        "Occupation": "1"
+    }
+}

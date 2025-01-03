@@ -1,0 +1,44 @@
+{
+    "relationships": [
+        {
+            "name": "Anais Mali",
+            "href": "https://www.whosdatedwho.com/dating/anais-mali",
+            "relationship_type": 2,
+            "start_date": "2016",
+            "end_date": "",
+            "length": "-",
+            "start_months_since_1900": 1392,
+            "end_months_since_1900": -1,
+            "length_in_months": -1
+        },
+        {
+            "name": "Frank Ocean",
+            "href": "https://www.whosdatedwho.com/dating/frank-ocean",
+            "relationship_type": 1,
+            "start_date": "",
+            "end_date": "",
+            "length": "-",
+            "start_months_since_1900": -1,
+            "end_months_since_1900": -1,
+            "length_in_months": -1
+        }
+    ],
+    "details": {
+        "First Name": "Willy",
+        "Middle Name": "NA",
+        "Last Name": "Cartier",
+        "Maiden Name": "NA",
+        "Full Name at Birth": "NA",
+        "Alternative Name": "Willy Leservot",
+        "Birthday": "1991",
+        "Birthplace": "France",
+        "Height": "183",
+        "Weight": "NA",
+        "Zodiac Sign": "11",
+        "Sexuality": "Gay",
+        "Religion": "1",
+        "Ethnicity": "8",
+        "Nationality": "86",
+        "Occupation": "15"
+    }
+}

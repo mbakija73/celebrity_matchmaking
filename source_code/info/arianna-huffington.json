@@ -1,0 +1,88 @@
+{
+    "relationships": [
+        {
+            "name": "Cory Booker",
+            "href": "https://www.whosdatedwho.com/dating/cory-booker",
+            "relationship_type": 2,
+            "start_date": "2007",
+            "end_date": "",
+            "length": "-",
+            "start_months_since_1900": 1284,
+            "end_months_since_1900": -1,
+            "length_in_months": -1
+        },
+        {
+            "name": "Bill Maher",
+            "href": "https://www.whosdatedwho.com/dating/bill-maher",
+            "relationship_type": 2,
+            "start_date": "1997",
+            "end_date": "1997",
+            "length": "-",
+            "start_months_since_1900": 1164,
+            "end_months_since_1900": 1164,
+            "length_in_months": -1
+        },
+        {
+            "name": "Michael Huffington",
+            "href": "https://www.whosdatedwho.com/dating/michael-huffington",
+            "relationship_type": 4,
+            "start_date": "Jun 1985",
+            "end_date": "1997",
+            "length": "11 years",
+            "start_months_since_1900": 1025,
+            "end_months_since_1900": 1164,
+            "length_in_months": 132
+        },
+        {
+            "name": "Mort Zuckerman",
+            "href": "https://www.whosdatedwho.com/dating/mort-zuckerman",
+            "relationship_type": 2,
+            "start_date": "1985",
+            "end_date": "1985",
+            "length": "-",
+            "start_months_since_1900": 1020,
+            "end_months_since_1900": 1020,
+            "length_in_months": -1
+        },
+        {
+            "name": "Jerry Brown",
+            "href": "https://www.whosdatedwho.com/dating/jerry-brown",
+            "relationship_type": 2,
+            "start_date": "1980",
+            "end_date": "1980",
+            "length": "-",
+            "start_months_since_1900": 960,
+            "end_months_since_1900": 960,
+            "length_in_months": -1
+        },
+        {
+            "name": "Bernard Levin",
+            "href": "https://www.whosdatedwho.com/dating/bernard-levin",
+            "relationship_type": 2,
+            "start_date": "1971",
+            "end_date": "1980",
+            "length": "9 years",
+            "start_months_since_1900": 852,
+            "end_months_since_1900": 960,
+            "length_in_months": 108
+        }
+    ],
+    "details": {
+        "First Name": "Ari\u00e1nna",
+        "Middle Name": "NA",
+        "Last Name": "Huffington",
+        "Maiden Name": "Stasinopo\u00falou",
+        "Full Name at Birth": "Ariadni-Anna Stasinopoulou",
+        "Alternative Name": "\u0391\u03c1\u03b9\u03ac\u03b4\u03bd\u03b7-\u0386\u03bd\u03bd\u03b1 \u03a3\u03c4\u03b1\u03c3\u03b9\u03bd\u03bf\u03c0\u03bf\u03cd\u03bb\u03bf\u03c5, Arianna Stassinopoulos, Arianna Huffington, Adrianna Huffington, Arianna Stassinopoulos Huffington, Ariadni-Anna Stasinopoulou, Arianna",
+        "Birthday": "1950",
+        "Birthplace": "Greece",
+        "Height": "178",
+        "Weight": "149lbs (68 kg)",
+        "Zodiac Sign": "8",
+        "Sexuality": "Straight",
+        "Religion": "34",
+        "Ethnicity": "6",
+        "Nationality": "91",
+        "Occupation": "3"
+    }
+}

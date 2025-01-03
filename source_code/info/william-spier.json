@@ -1,0 +1,55 @@
+{
+    "relationships": [
+        {
+            "name": "June Havoc",
+            "href": "https://www.whosdatedwho.com/dating/june-havoc",
+            "relationship_type": 4,
+            "start_date": "Jan 1947",
+            "end_date": "30th May 1973",
+            "length": "26 years",
+            "start_months_since_1900": 564,
+            "end_months_since_1900": 880,
+            "length_in_months": 312
+        },
+        {
+            "name": "Kay Thompson",
+            "href": "https://www.whosdatedwho.com/dating/kay-thompson",
+            "relationship_type": 4,
+            "start_date": "1941",
+            "end_date": "1947",
+            "length": "6 years",
+            "start_months_since_1900": 492,
+            "end_months_since_1900": 564,
+            "length_in_months": 72
+        },
+        {
+            "name": "Mary Scanlan",
+            "href": "https://www.whosdatedwho.com/dating/mary-scanlan",
+            "relationship_type": 4,
+            "start_date": "1928",
+            "end_date": "1939",
+            "length": "11 years",
+            "start_months_since_1900": 336,
+            "end_months_since_1900": 468,
+            "length_in_months": 132
+        }
+    ],
+    "details": {
+        "First Name": "William",
+        "Middle Name": "NA",
+        "Last Name": "Spier",
+        "Maiden Name": "NA",
+        "Full Name at Birth": "NA",
+        "Alternative Name": "NA",
+        "Birthday": "1906",
+        "Birthplace": "New York",
+        "Height": "NA",
+        "Weight": "NA",
+        "Zodiac Sign": "6",
+        "Sexuality": "Straight",
+        "Religion": "1",
+        "Ethnicity": "6",
+        "Nationality": "91",
+        "Occupation": "3"
+    }
+}

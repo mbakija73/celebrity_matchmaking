@@ -1,0 +1,44 @@
+{
+    "relationships": [
+        {
+            "name": "Jill Matthews",
+            "href": "https://www.whosdatedwho.com/dating/jill-matthews",
+            "relationship_type": 2,
+            "start_date": "1981",
+            "end_date": "1985",
+            "length": "4 years",
+            "start_months_since_1900": 972,
+            "end_months_since_1900": 1020,
+            "length_in_months": 48
+        },
+        {
+            "name": "Marianne Faithfull",
+            "href": "https://www.whosdatedwho.com/dating/marianne-faithfull",
+            "relationship_type": 4,
+            "start_date": "May 1964",
+            "end_date": "1966",
+            "length": "1 year",
+            "start_months_since_1900": 772,
+            "end_months_since_1900": 792,
+            "length_in_months": 12
+        }
+    ],
+    "details": {
+        "First Name": "John",
+        "Middle Name": "NA",
+        "Last Name": "Dunbar",
+        "Maiden Name": "NA",
+        "Full Name at Birth": "John Dunbar",
+        "Alternative Name": "John Dunbar",
+        "Birthday": "1942",
+        "Birthplace": "Mexico",
+        "Height": "NA",
+        "Weight": "NA",
+        "Zodiac Sign": "2",
+        "Sexuality": "Straight",
+        "Religion": "1",
+        "Ethnicity": "6",
+        "Nationality": "8",
+        "Occupation": "13"
+    }
+}

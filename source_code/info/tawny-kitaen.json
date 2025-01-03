@@ -1,0 +1,143 @@
+{
+    "relationships": [
+        {
+            "name": "Jon Stewart",
+            "href": "https://www.whosdatedwho.com/dating/jon-stewart",
+            "relationship_type": 2,
+            "start_date": "1995",
+            "end_date": "1995",
+            "length": "-",
+            "start_months_since_1900": 1140,
+            "end_months_since_1900": 1140,
+            "length_in_months": -1
+        },
+        {
+            "name": "Chuck Finley",
+            "href": "https://www.whosdatedwho.com/dating/chuck-finley",
+            "relationship_type": 4,
+            "start_date": "1992",
+            "end_date": "4th Apr 2002",
+            "length": "10 years",
+            "start_months_since_1900": 1104,
+            "end_months_since_1900": 1227,
+            "length_in_months": 120
+        },
+        {
+            "name": "Jerry Seinfeld",
+            "href": "https://www.whosdatedwho.com/dating/jerry-seinfeld",
+            "relationship_type": 2,
+            "start_date": "1992",
+            "end_date": "1992",
+            "length": "-",
+            "start_months_since_1900": 1104,
+            "end_months_since_1900": 1104,
+            "length_in_months": -1
+        },
+        {
+            "name": "O.J. Simpson",
+            "href": "https://www.whosdatedwho.com/dating/o-j-simpson",
+            "relationship_type": 2,
+            "start_date": "1989",
+            "end_date": "1991",
+            "length": "2 years",
+            "start_months_since_1900": 1068,
+            "end_months_since_1900": 1092,
+            "length_in_months": 24
+        },
+        {
+            "name": "Tommy Lee",
+            "href": "https://www.whosdatedwho.com/dating/tommy-lee",
+            "relationship_type": 2,
+            "start_date": "May 1985",
+            "end_date": "Jun 1985",
+            "length": "1 month",
+            "start_months_since_1900": 1024,
+            "end_months_since_1900": 1025,
+            "length_in_months": 1
+        },
+        {
+            "name": "David Coverdale",
+            "href": "https://www.whosdatedwho.com/dating/david-coverdale",
+            "relationship_type": 4,
+            "start_date": "1985",
+            "end_date": "1st Apr 1991",
+            "length": "6 years",
+            "start_months_since_1900": 1020,
+            "end_months_since_1900": 1095,
+            "length_in_months": 72
+        },
+        {
+            "name": "Robbin Crosby",
+            "href": "https://www.whosdatedwho.com/dating/robbin-crosby",
+            "relationship_type": 2,
+            "start_date": "1981",
+            "end_date": "1984",
+            "length": "3 years",
+            "start_months_since_1900": 972,
+            "end_months_since_1900": 1008,
+            "length_in_months": 36
+        },
+        {
+            "name": "Amir Derakh",
+            "href": "https://www.whosdatedwho.com/dating/amir-derakh",
+            "relationship_type": 2,
+            "start_date": "",
+            "end_date": "",
+            "length": "-",
+            "start_months_since_1900": -1,
+            "end_months_since_1900": -1,
+            "length_in_months": -1
+        },
+        {
+            "name": "John Taylor",
+            "href": "https://www.whosdatedwho.com/dating/john-taylor",
+            "relationship_type": 3,
+            "start_date": "",
+            "end_date": "",
+            "length": "-",
+            "start_months_since_1900": -1,
+            "end_months_since_1900": -1,
+            "length_in_months": -1
+        },
+        {
+            "name": "Dodi Fayed",
+            "href": "https://www.whosdatedwho.com/dating/dodi-fayed",
+            "relationship_type": 2,
+            "start_date": "",
+            "end_date": "",
+            "length": "-",
+            "start_months_since_1900": -1,
+            "end_months_since_1900": -1,
+            "length_in_months": -1
+        },
+        {
+            "name": "David Lee Roth",
+            "href": "https://www.whosdatedwho.com/dating/david-lee-roth",
+            "relationship_type": 3,
+            "start_date": "",
+            "end_date": "",
+            "length": "-",
+            "start_months_since_1900": -1,
+            "end_months_since_1900": -1,
+            "length_in_months": -1
+        }
+    ],
+    "details": {
+        "First Name": "Tawny",
+        "Middle Name": "NA",
+        "Last Name": "NA",
+        "Maiden Name": "Kitaen",
+        "Full Name at Birth": "Julie Ellen Kitaen",
+        "Alternative Name": "Tawny Kitaen-Finley, Tawny Julie Finley, Tawny Kitaen Coverdale",
+        "Birthday": "1961",
+        "Birthplace": "USA",
+        "Height": "170",
+        "Weight": "NA",
+        "Zodiac Sign": "12",
+        "Sexuality": "Straight",
+        "Religion": "18",
+        "Ethnicity": "6",
+        "Nationality": "91",
+        "Occupation": "8"
+    }
+}

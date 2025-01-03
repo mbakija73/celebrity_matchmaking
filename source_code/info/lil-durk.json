@@ -1,0 +1,88 @@
+{
+    "relationships": [
+        {
+            "name": "India Royale",
+            "href": "https://www.whosdatedwho.com/dating/india-royale",
+            "relationship_type": 2,
+            "start_date": "Sep 2017",
+            "end_date": "present",
+            "length": "7 years",
+            "start_months_since_1900": 1412,
+            "end_months_since_1900": -1,
+            "length_in_months": 84
+        },
+        {
+            "name": "Slim Danger",
+            "href": "https://www.whosdatedwho.com/dating/slim-danger",
+            "relationship_type": 3,
+            "start_date": "May 2017",
+            "end_date": "Jun 2017",
+            "length": "1 month",
+            "start_months_since_1900": 1408,
+            "end_months_since_1900": 1409,
+            "length_in_months": 1
+        },
+        {
+            "name": "Takala W.",
+            "href": "https://www.whosdatedwho.com/dating/takala-w",
+            "relationship_type": 3,
+            "start_date": "Nov 2016",
+            "end_date": "Dec 2016",
+            "length": "1 month",
+            "start_months_since_1900": 1402,
+            "end_months_since_1900": 1403,
+            "length_in_months": 1
+        },
+        {
+            "name": "Dej Loaf",
+            "href": "https://www.whosdatedwho.com/dating/dej-loaf",
+            "relationship_type": 2,
+            "start_date": "Aug 2014",
+            "end_date": "Dec 2016",
+            "length": "2 years",
+            "start_months_since_1900": 1375,
+            "end_months_since_1900": 1403,
+            "length_in_months": 24
+        },
+        {
+            "name": "Nicole Covone",
+            "href": "https://www.whosdatedwho.com/dating/nicole-covone",
+            "relationship_type": 2,
+            "start_date": "May 2008",
+            "end_date": "Nov 2013",
+            "length": "5 years",
+            "start_months_since_1900": 1300,
+            "end_months_since_1900": 1366,
+            "length_in_months": 60
+        },
+        {
+            "name": "Mia Burks",
+            "href": "https://www.whosdatedwho.com/dating/mia-burks",
+            "relationship_type": 1,
+            "start_date": "",
+            "end_date": "",
+            "length": "-",
+            "start_months_since_1900": -1,
+            "end_months_since_1900": -1,
+            "length_in_months": -1
+        }
+    ],
+    "details": {
+        "First Name": "Durk",
+        "Middle Name": "Derrick",
+        "Last Name": "Banks",
+        "Maiden Name": "NA",
+        "Full Name at Birth": "Durk Derrick Banks",
+        "Alternative Name": "Lil Durk",
+        "Birthday": "1992",
+        "Birthplace": "United States",
+        "Height": "175",
+        "Weight": "159lbs (72 kg)",
+        "Zodiac Sign": "10",
+        "Sexuality": "Straight",
+        "Religion": "25",
+        "Ethnicity": "2",
+        "Nationality": "91",
+        "Occupation": "1"
+    }
+}

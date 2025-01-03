@@ -1,0 +1,44 @@
+{
+    "relationships": [
+        {
+            "name": "Sabrina Carpenter",
+            "href": "https://www.whosdatedwho.com/dating/sabrina-carpenter",
+            "relationship_type": 2,
+            "start_date": "Jun 2020",
+            "end_date": "Jan 2021",
+            "length": "7 months",
+            "start_months_since_1900": 1445,
+            "end_months_since_1900": 1452,
+            "length_in_months": 7
+        },
+        {
+            "name": "Olivia Rodrigo",
+            "href": "https://www.whosdatedwho.com/dating/olivia-rodrigo",
+            "relationship_type": 2,
+            "start_date": "Aug 2019",
+            "end_date": "May 2020",
+            "length": "9 months",
+            "start_months_since_1900": 1435,
+            "end_months_since_1900": 1444,
+            "length_in_months": 9
+        }
+    ],
+    "details": {
+        "First Name": "Joshua",
+        "Middle Name": "Taylor",
+        "Last Name": "Bassett",
+        "Maiden Name": "NA",
+        "Full Name at Birth": "Joshua Taylor Bassett",
+        "Alternative Name": "Josh, Joshy, Joshie, Joshi",
+        "Birthday": "2000",
+        "Birthplace": "U.S.",
+        "Height": "180",
+        "Weight": "166lbs (75 kg)",
+        "Zodiac Sign": "13",
+        "Sexuality": "NA",
+        "Religion": "18",
+        "Ethnicity": "6",
+        "Nationality": "91",
+        "Occupation": "8"
+    }
+}

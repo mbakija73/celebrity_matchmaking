@@ -1,0 +1,44 @@
+{
+    "relationships": [
+        {
+            "name": "PnB Rock",
+            "href": "https://www.whosdatedwho.com/dating/pnb-rock-born-1991",
+            "relationship_type": 2,
+            "start_date": "2018",
+            "end_date": "Sep 2022",
+            "length": "4 years",
+            "start_months_since_1900": 1416,
+            "end_months_since_1900": 1472,
+            "length_in_months": 48
+        },
+        {
+            "name": "Ybn Almighty Jay",
+            "href": "https://www.whosdatedwho.com/dating/ybn-almighty-jay",
+            "relationship_type": 2,
+            "start_date": "2022",
+            "end_date": "present",
+            "length": "2 years",
+            "start_months_since_1900": 1464,
+            "end_months_since_1900": -1,
+            "length_in_months": 24
+        }
+    ],
+    "details": {
+        "First Name": "Stephanie",
+        "Middle Name": "NA",
+        "Last Name": "Sibounheuang",
+        "Maiden Name": "NA",
+        "Full Name at Birth": "NA",
+        "Alternative Name": "NA",
+        "Birthday": "1991",
+        "Birthplace": "Illinois",
+        "Height": "168",
+        "Weight": "NA",
+        "Zodiac Sign": "8",
+        "Sexuality": "NA",
+        "Religion": "18",
+        "Ethnicity": "1",
+        "Nationality": "91",
+        "Occupation": "15"
+    }
+}

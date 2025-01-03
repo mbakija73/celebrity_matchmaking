@@ -1,0 +1,55 @@
+{
+    "relationships": [
+        {
+            "name": "T.J. Jones",
+            "href": "https://www.whosdatedwho.com/dating/t-j-jones",
+            "relationship_type": 4,
+            "start_date": "Nov 2014",
+            "end_date": "present",
+            "length": "9 years",
+            "start_months_since_1900": 1378,
+            "end_months_since_1900": -1,
+            "length_in_months": 108
+        },
+        {
+            "name": "Leroy Garrett",
+            "href": "https://www.whosdatedwho.com/dating/leroy-garrett",
+            "relationship_type": 3,
+            "start_date": "2013",
+            "end_date": "2013",
+            "length": "-",
+            "start_months_since_1900": 1356,
+            "end_months_since_1900": 1356,
+            "length_in_months": -1
+        },
+        {
+            "name": "Wes Bergmann",
+            "href": "https://www.whosdatedwho.com/dating/wes-bergmann",
+            "relationship_type": 3,
+            "start_date": "2010",
+            "end_date": "2010",
+            "length": "-",
+            "start_months_since_1900": 1320,
+            "end_months_since_1900": 1320,
+            "length_in_months": -1
+        }
+    ],
+    "details": {
+        "First Name": "Theresa",
+        "Middle Name": "Marie",
+        "Last Name": "Jones",
+        "Maiden Name": "Gonzalez",
+        "Full Name at Birth": "Theresa Marie Gonzalez",
+        "Alternative Name": "Theresa Jones, Theresa Marie Jones, Theresa Marie Gonzalez",
+        "Birthday": "1985",
+        "Birthplace": "USA",
+        "Height": "175",
+        "Weight": "NA",
+        "Zodiac Sign": "12",
+        "Sexuality": "Straight",
+        "Religion": "1",
+        "Ethnicity": "8",
+        "Nationality": "91",
+        "Occupation": "11"
+    }
+}

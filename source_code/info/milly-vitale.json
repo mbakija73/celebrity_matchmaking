@@ -1,0 +1,44 @@
+{
+    "relationships": [
+        {
+            "name": "Vincent Hillye",
+            "href": "https://www.whosdatedwho.com/dating/vincent-hillye",
+            "relationship_type": 4,
+            "start_date": "Jun 1960",
+            "end_date": "Aug 1966",
+            "length": "6 years",
+            "start_months_since_1900": 725,
+            "end_months_since_1900": 799,
+            "length_in_months": 72
+        },
+        {
+            "name": "Dan Dailey",
+            "href": "https://www.whosdatedwho.com/dating/dan-dailey",
+            "relationship_type": 2,
+            "start_date": "Oct 1954",
+            "end_date": "1955",
+            "length": "3 months",
+            "start_months_since_1900": 657,
+            "end_months_since_1900": 660,
+            "length_in_months": 3
+        }
+    ],
+    "details": {
+        "First Name": "Milly",
+        "Middle Name": "NA",
+        "Last Name": "Vitale",
+        "Maiden Name": "NA",
+        "Full Name at Birth": "Camilla Vitale",
+        "Alternative Name": "Camilla Vitale, Milly Vitale",
+        "Birthday": "1933",
+        "Birthplace": "Italy",
+        "Height": "NA",
+        "Weight": "NA",
+        "Zodiac Sign": "8",
+        "Sexuality": "NA",
+        "Religion": "1",
+        "Ethnicity": "6",
+        "Nationality": "139",
+        "Occupation": "8"
+    }
+}

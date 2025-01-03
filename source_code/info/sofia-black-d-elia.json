@@ -1,0 +1,33 @@
+{
+    "relationships": [
+        {
+            "name": "Henry Joost",
+            "href": "https://www.whosdatedwho.com/dating/henry-joost",
+            "relationship_type": 4,
+            "start_date": "Oct 2021",
+            "end_date": "present",
+            "length": "2 years",
+            "start_months_since_1900": 1461,
+            "end_months_since_1900": -1,
+            "length_in_months": 24
+        }
+    ],
+    "details": {
+        "First Name": "Sofia",
+        "Middle Name": "Joelle",
+        "Last Name": "Black-D'Elia",
+        "Maiden Name": "NA",
+        "Full Name at Birth": "Sofia Joelle Black-D'Elia",
+        "Alternative Name": "Sofia Joelle Black-D'Elia, Sofia Black-D'Elia, Sofia",
+        "Birthday": "1991",
+        "Birthplace": "USA",
+        "Height": "170",
+        "Weight": "106lbs (48 kg)",
+        "Zodiac Sign": "13",
+        "Sexuality": "Straight",
+        "Religion": "31",
+        "Ethnicity": "6",
+        "Nationality": "91",
+        "Occupation": "8"
+    }
+}

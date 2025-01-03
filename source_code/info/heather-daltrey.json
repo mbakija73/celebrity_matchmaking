@@ -1,0 +1,88 @@
+{
+    "relationships": [
+        {
+            "name": "Roger Daltrey",
+            "href": "https://www.whosdatedwho.com/dating/roger-daltrey",
+            "relationship_type": 4,
+            "start_date": "Mar 1967",
+            "end_date": "present",
+            "length": "57 years",
+            "start_months_since_1900": 806,
+            "end_months_since_1900": -1,
+            "length_in_months": 684
+        },
+        {
+            "name": "Jimmy Page",
+            "href": "https://www.whosdatedwho.com/dating/jimmy-page",
+            "relationship_type": 2,
+            "start_date": "1967",
+            "end_date": "1967",
+            "length": "-",
+            "start_months_since_1900": 804,
+            "end_months_since_1900": 804,
+            "length_in_months": -1
+        },
+        {
+            "name": "Davy Jones",
+            "href": "https://www.whosdatedwho.com/dating/davy-jones",
+            "relationship_type": 2,
+            "start_date": "1964",
+            "end_date": "1965",
+            "length": "1 year",
+            "start_months_since_1900": 768,
+            "end_months_since_1900": 780,
+            "length_in_months": 12
+        },
+        {
+            "name": "Gordon Waller",
+            "href": "https://www.whosdatedwho.com/dating/gordon-waller",
+            "relationship_type": 3,
+            "start_date": "1964",
+            "end_date": "1964",
+            "length": "-",
+            "start_months_since_1900": 768,
+            "end_months_since_1900": 768,
+            "length_in_months": -1
+        },
+        {
+            "name": "Jeff Beck",
+            "href": "https://www.whosdatedwho.com/dating/jeff-beck",
+            "relationship_type": 3,
+            "start_date": "",
+            "end_date": "",
+            "length": "-",
+            "start_months_since_1900": -1,
+            "end_months_since_1900": -1,
+            "length_in_months": -1
+        },
+        {
+            "name": "Jimi Hendrix",
+            "href": "https://www.whosdatedwho.com/dating/jimi-hendrix",
+            "relationship_type": 3,
+            "start_date": "",
+            "end_date": "",
+            "length": "-",
+            "start_months_since_1900": -1,
+            "end_months_since_1900": -1,
+            "length_in_months": -1
+        }
+    ],
+    "details": {
+        "First Name": "Heather",
+        "Middle Name": "NA",
+        "Last Name": "Daltrey",
+        "Maiden Name": "Taylor",
+        "Full Name at Birth": "Heather Taylor",
+        "Alternative Name": "Heather Daltrey, Heather Taylor",
+        "Birthday": "1947",
+        "Birthplace": "UK",
+        "Height": "NA",
+        "Weight": "NA",
+        "Zodiac Sign": "2",
+        "Sexuality": "Straight",
+        "Religion": "1",
+        "Ethnicity": "6",
+        "Nationality": "91",
+        "Occupation": "15"
+    }
+}

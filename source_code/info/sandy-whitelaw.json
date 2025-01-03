@@ -1,0 +1,77 @@
+{
+    "relationships": [
+        {
+            "name": "Natalie Wood",
+            "href": "https://www.whosdatedwho.com/dating/natalie-wood",
+            "relationship_type": 2,
+            "start_date": "1964",
+            "end_date": "1964",
+            "length": "-",
+            "start_months_since_1900": 768,
+            "end_months_since_1900": 768,
+            "length_in_months": -1
+        },
+        {
+            "name": "Jil Jarmyn",
+            "href": "https://www.whosdatedwho.com/dating/jil-jarmyn",
+            "relationship_type": 2,
+            "start_date": "Jun 1962",
+            "end_date": "Jun 1962",
+            "length": "-",
+            "start_months_since_1900": 749,
+            "end_months_since_1900": 749,
+            "length_in_months": -1
+        },
+        {
+            "name": "Maggie Pierce",
+            "href": "https://www.whosdatedwho.com/dating/maggie-pierce-actress",
+            "relationship_type": 2,
+            "start_date": "Jan 1960",
+            "end_date": "Feb 1960",
+            "length": "1 month",
+            "start_months_since_1900": 720,
+            "end_months_since_1900": 721,
+            "length_in_months": 1
+        },
+        {
+            "name": "Jane Fonda",
+            "href": "https://www.whosdatedwho.com/dating/jane-fonda",
+            "relationship_type": 2,
+            "start_date": "1958",
+            "end_date": "1959",
+            "length": "1 year",
+            "start_months_since_1900": 696,
+            "end_months_since_1900": 708,
+            "length_in_months": 12
+        },
+        {
+            "name": "Afdera Franchetti",
+            "href": "https://www.whosdatedwho.com/dating/afdera-franchetti",
+            "relationship_type": 3,
+            "start_date": "",
+            "end_date": "",
+            "length": "-",
+            "start_months_since_1900": -1,
+            "end_months_since_1900": -1,
+            "length_in_months": -1
+        }
+    ],
+    "details": {
+        "First Name": "Sandy",
+        "Middle Name": "NA",
+        "Last Name": "Whitelaw",
+        "Maiden Name": "NA",
+        "Full Name at Birth": "Alexander Sandy Whitelaw",
+        "Alternative Name": "NA",
+        "Birthday": "1930",
+        "Birthplace": "England",
+        "Height": "NA",
+        "Weight": "NA",
+        "Zodiac Sign": "3",
+        "Sexuality": "NA",
+        "Religion": "1",
+        "Ethnicity": "6",
+        "Nationality": "8",
+        "Occupation": "9"
+    }
+}

@@ -1,0 +1,88 @@
+{
+    "relationships": [
+        {
+            "name": "Peter Sellers",
+            "href": "https://www.whosdatedwho.com/dating/peter-sellers",
+            "relationship_type": 2,
+            "start_date": "1963",
+            "end_date": "1963",
+            "length": "-",
+            "start_months_since_1900": 756,
+            "end_months_since_1900": 756,
+            "length_in_months": -1
+        },
+        {
+            "name": "William Holden",
+            "href": "https://www.whosdatedwho.com/dating/william-holden",
+            "relationship_type": 2,
+            "start_date": "1962",
+            "end_date": "1964",
+            "length": "2 years",
+            "start_months_since_1900": 744,
+            "end_months_since_1900": 768,
+            "length_in_months": 24
+        },
+        {
+            "name": "Charles K. Feldman",
+            "href": "https://www.whosdatedwho.com/dating/charles-feldman",
+            "relationship_type": 2,
+            "start_date": "1951",
+            "end_date": "1951",
+            "length": "-",
+            "start_months_since_1900": 612,
+            "end_months_since_1900": 612,
+            "length_in_months": -1
+        },
+        {
+            "name": "Pierre Trabaud",
+            "href": "https://www.whosdatedwho.com/dating/pierre-trabaud",
+            "relationship_type": 4,
+            "start_date": "1949",
+            "end_date": "1950",
+            "length": "1 year",
+            "start_months_since_1900": 588,
+            "end_months_since_1900": 600,
+            "length_in_months": 12
+        },
+        {
+            "name": "Dirk Bogarde",
+            "href": "https://www.whosdatedwho.com/dating/dirk-bogarde",
+            "relationship_type": 3,
+            "start_date": "",
+            "end_date": "",
+            "length": "-",
+            "start_months_since_1900": -1,
+            "end_months_since_1900": -1,
+            "length_in_months": -1
+        },
+        {
+            "name": "Darryl F. Zanuck",
+            "href": "https://www.whosdatedwho.com/dating/darryl-f-zanuck",
+            "relationship_type": 3,
+            "start_date": "",
+            "end_date": "",
+            "length": "-",
+            "start_months_since_1900": -1,
+            "end_months_since_1900": -1,
+            "length_in_months": -1
+        }
+    ],
+    "details": {
+        "First Name": "Capucine",
+        "Middle Name": "H\u00e9l\u00e8ne Ir\u00e8ne",
+        "Last Name": "Lefebvre",
+        "Maiden Name": "NA",
+        "Full Name at Birth": "Germaine H\u00e9l\u00e8ne Ir\u00e8ne Lefebvre",
+        "Alternative Name": "Cap, Cappy, Capucine, Germaine H\u00e9l\u00e8ne Ir\u00e8ne Lefebvre, Germaine Lefebvre",
+        "Birthday": "1928",
+        "Birthplace": "France",
+        "Height": "170",
+        "Weight": "NA",
+        "Zodiac Sign": "13",
+        "Sexuality": "DISPUTED",
+        "Religion": "1",
+        "Ethnicity": "6",
+        "Nationality": "86",
+        "Occupation": "15"
+    }
+}

@@ -1,0 +1,44 @@
+{
+    "relationships": [
+        {
+            "name": "Lil' Fizz",
+            "href": "https://www.whosdatedwho.com/dating/lil-fizz",
+            "relationship_type": 2,
+            "start_date": "Oct 2017",
+            "end_date": "Jun 2018",
+            "length": "8 months",
+            "start_months_since_1900": 1413,
+            "end_months_since_1900": 1421,
+            "length_in_months": 8
+        },
+        {
+            "name": "A.D. Diggs",
+            "href": "https://www.whosdatedwho.com/dating/a-d-diggs",
+            "relationship_type": 3,
+            "start_date": "",
+            "end_date": "",
+            "length": "-",
+            "start_months_since_1900": -1,
+            "end_months_since_1900": -1,
+            "length_in_months": -1
+        }
+    ],
+    "details": {
+        "First Name": "Tiffany",
+        "Middle Name": "NA",
+        "Last Name": "Campbell",
+        "Maiden Name": "NA",
+        "Full Name at Birth": "NA",
+        "Alternative Name": "NA",
+        "Birthday": "NA",
+        "Birthplace": "NA",
+        "Height": "NA",
+        "Weight": "NA",
+        "Zodiac Sign": "2",
+        "Sexuality": "Bisexual",
+        "Religion": "1",
+        "Ethnicity": "2",
+        "Nationality": "91",
+        "Occupation": "11"
+    }
+}

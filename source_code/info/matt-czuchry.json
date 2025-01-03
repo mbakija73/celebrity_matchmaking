@@ -1,0 +1,55 @@
+{
+    "relationships": [
+        {
+            "name": "Archie Panjabi",
+            "href": "https://www.whosdatedwho.com/dating/archie-panjabi",
+            "relationship_type": 3,
+            "start_date": "Apr 2007",
+            "end_date": "2007",
+            "length": "3 months",
+            "start_months_since_1900": 1287,
+            "end_months_since_1900": 1284,
+            "length_in_months": 3
+        },
+        {
+            "name": "Kate Bosworth",
+            "href": "https://www.whosdatedwho.com/dating/kate-bosworth",
+            "relationship_type": 2,
+            "start_date": "Jul 2000",
+            "end_date": "2002",
+            "length": "1 year",
+            "start_months_since_1900": 1206,
+            "end_months_since_1900": 1224,
+            "length_in_months": 12
+        },
+        {
+            "name": "Julianna Margulies",
+            "href": "https://www.whosdatedwho.com/dating/julianna-margulies",
+            "relationship_type": 2,
+            "start_date": "",
+            "end_date": "",
+            "length": "-",
+            "start_months_since_1900": -1,
+            "end_months_since_1900": -1,
+            "length_in_months": -1
+        }
+    ],
+    "details": {
+        "First Name": "Matt",
+        "Middle Name": "Charles",
+        "Last Name": "Czuchry",
+        "Maiden Name": "NA",
+        "Full Name at Birth": "Matthew Charles Czuchry",
+        "Alternative Name": "NA",
+        "Birthday": "1977",
+        "Birthplace": "USA",
+        "Height": "177",
+        "Weight": "NA",
+        "Zodiac Sign": "3",
+        "Sexuality": "Straight",
+        "Religion": "1",
+        "Ethnicity": "6",
+        "Nationality": "91",
+        "Occupation": "8"
+    }
+}

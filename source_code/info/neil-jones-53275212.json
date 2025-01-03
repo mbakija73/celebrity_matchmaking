@@ -1,0 +1,55 @@
+{
+    "relationships": [
+        {
+            "name": "Chyna Mills",
+            "href": "https://www.whosdatedwho.com/dating/chyna-mills",
+            "relationship_type": 2,
+            "start_date": "Aug 2022",
+            "end_date": "present",
+            "length": "2 years",
+            "start_months_since_1900": 1471,
+            "end_months_since_1900": -1,
+            "length_in_months": 24
+        },
+        {
+            "name": "Luisa Eusse",
+            "href": "https://www.whosdatedwho.com/dating/luisa-eusse",
+            "relationship_type": 2,
+            "start_date": "2020",
+            "end_date": "Dec 2020",
+            "length": "11 months",
+            "start_months_since_1900": 1440,
+            "end_months_since_1900": 1451,
+            "length_in_months": 11
+        },
+        {
+            "name": "Katya Jones",
+            "href": "https://www.whosdatedwho.com/dating/katya-jones",
+            "relationship_type": 4,
+            "start_date": "2008",
+            "end_date": "Aug 2019",
+            "length": "11 years",
+            "start_months_since_1900": 1296,
+            "end_months_since_1900": 1435,
+            "length_in_months": 132
+        }
+    ],
+    "details": {
+        "First Name": "Neil",
+        "Middle Name": "NA",
+        "Last Name": "Jones",
+        "Maiden Name": "NA",
+        "Full Name at Birth": "Neil Jones",
+        "Alternative Name": "Neil Jones",
+        "Birthday": "1983",
+        "Birthplace": "Germany",
+        "Height": "183",
+        "Weight": "NA",
+        "Zodiac Sign": "3",
+        "Sexuality": "Straight",
+        "Religion": "1",
+        "Ethnicity": "6",
+        "Nationality": "8",
+        "Occupation": "14"
+    }
+}

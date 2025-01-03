@@ -1,0 +1,33 @@
+{
+    "relationships": [
+        {
+            "name": "Sam Fox",
+            "href": "https://www.whosdatedwho.com/dating/sam-fox-actor",
+            "relationship_type": 3,
+            "start_date": "Jun 2004",
+            "end_date": "Jun 2004",
+            "length": "-",
+            "start_months_since_1900": 1253,
+            "end_months_since_1900": 1253,
+            "length_in_months": -1
+        }
+    ],
+    "details": {
+        "First Name": "Tamara",
+        "Middle Name": "NA",
+        "Last Name": "Hawk",
+        "Maiden Name": "NA",
+        "Full Name at Birth": "NA",
+        "Alternative Name": "NA",
+        "Birthday": "NA",
+        "Birthplace": "NA",
+        "Height": "NA",
+        "Weight": "NA",
+        "Zodiac Sign": "2",
+        "Sexuality": "NA",
+        "Religion": "1",
+        "Ethnicity": "1",
+        "Nationality": "65",
+        "Occupation": "19"
+    }
+}

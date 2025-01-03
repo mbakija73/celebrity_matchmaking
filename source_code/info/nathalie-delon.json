@@ -1,0 +1,121 @@
+{
+    "relationships": [
+        {
+            "name": "Marc Porel",
+            "href": "https://www.whosdatedwho.com/dating/marc-porel",
+            "relationship_type": 2,
+            "start_date": "1973",
+            "end_date": "1973",
+            "length": "-",
+            "start_months_since_1900": 876,
+            "end_months_since_1900": 876,
+            "length_in_months": -1
+        },
+        {
+            "name": "Richard Burton",
+            "href": "https://www.whosdatedwho.com/dating/richard-burton",
+            "relationship_type": 3,
+            "start_date": "1972",
+            "end_date": "1972",
+            "length": "-",
+            "start_months_since_1900": 864,
+            "end_months_since_1900": 864,
+            "length_in_months": -1
+        },
+        {
+            "name": "Franco Nero",
+            "href": "https://www.whosdatedwho.com/dating/franco-nero",
+            "relationship_type": 2,
+            "start_date": "1971",
+            "end_date": "1972",
+            "length": "1 year",
+            "start_months_since_1900": 852,
+            "end_months_since_1900": 864,
+            "length_in_months": 12
+        },
+        {
+            "name": "Mick Jagger",
+            "href": "https://www.whosdatedwho.com/dating/mick-jagger",
+            "relationship_type": 3,
+            "start_date": "1971",
+            "end_date": "1971",
+            "length": "-",
+            "start_months_since_1900": 852,
+            "end_months_since_1900": 852,
+            "length_in_months": -1
+        },
+        {
+            "name": "Gigi Rizzi",
+            "href": "https://www.whosdatedwho.com/dating/gigi-rizzi",
+            "relationship_type": 2,
+            "start_date": "1964",
+            "end_date": "1968",
+            "length": "4 years",
+            "start_months_since_1900": 768,
+            "end_months_since_1900": 816,
+            "length_in_months": 48
+        },
+        {
+            "name": "Alain Delon",
+            "href": "https://www.whosdatedwho.com/dating/alain-delon",
+            "relationship_type": 4,
+            "start_date": "Dec 1963",
+            "end_date": "14th Feb 1969",
+            "length": "5 years",
+            "start_months_since_1900": 767,
+            "end_months_since_1900": 829,
+            "length_in_months": 60
+        },
+        {
+            "name": "Guy Barthelemy",
+            "href": "https://www.whosdatedwho.com/dating/guy-barthelemy",
+            "relationship_type": 4,
+            "start_date": "1959",
+            "end_date": "1963",
+            "length": "4 years",
+            "start_months_since_1900": 708,
+            "end_months_since_1900": 756,
+            "length_in_months": 48
+        },
+        {
+            "name": "Eddie Fisher",
+            "href": "https://www.whosdatedwho.com/dating/eddie-fisher",
+            "relationship_type": 2,
+            "start_date": "",
+            "end_date": "",
+            "length": "-",
+            "start_months_since_1900": -1,
+            "end_months_since_1900": -1,
+            "length_in_months": -1
+        },
+        {
+            "name": "Helmut Berger",
+            "href": "https://www.whosdatedwho.com/dating/helmut-berger",
+            "relationship_type": 3,
+            "start_date": "",
+            "end_date": "",
+            "length": "-",
+            "start_months_since_1900": -1,
+            "end_months_since_1900": -1,
+            "length_in_months": -1
+        }
+    ],
+    "details": {
+        "First Name": "Nathalie",
+        "Middle Name": "NA",
+        "Last Name": "Delon",
+        "Maiden Name": "Canovas",
+        "Full Name at Birth": "Francine Canovas",
+        "Alternative Name": "Nathalie Sand, Nathalie Barthelemy, Francine Canovas, Nathalie Delon",
+        "Birthday": "1941",
+        "Birthplace": "Morocco",
+        "Height": "165",
+        "Weight": "NA",
+        "Zodiac Sign": "12",
+        "Sexuality": "Straight",
+        "Religion": "1",
+        "Ethnicity": "6",
+        "Nationality": "86",
+        "Occupation": "8"
+    }
+}

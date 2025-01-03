@@ -1,0 +1,33 @@
+{
+    "relationships": [
+        {
+            "name": "Claire Windsor",
+            "href": "https://www.whosdatedwho.com/dating/claire-windsor",
+            "relationship_type": 4,
+            "start_date": "1925",
+            "end_date": "1927",
+            "length": "2 years",
+            "start_months_since_1900": 300,
+            "end_months_since_1900": 324,
+            "length_in_months": 24
+        }
+    ],
+    "details": {
+        "First Name": "Bert",
+        "Middle Name": "NA",
+        "Last Name": "Lytell",
+        "Maiden Name": "NA",
+        "Full Name at Birth": "Bertram Lytell",
+        "Alternative Name": "NA",
+        "Birthday": "1885",
+        "Birthplace": "New York",
+        "Height": "179",
+        "Weight": "NA",
+        "Zodiac Sign": "1",
+        "Sexuality": "Straight",
+        "Religion": "1",
+        "Ethnicity": "6",
+        "Nationality": "91",
+        "Occupation": "8"
+    }
+}

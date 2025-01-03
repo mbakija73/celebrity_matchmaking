@@ -1,0 +1,55 @@
+{
+    "relationships": [
+        {
+            "name": "Tristan Thompson",
+            "href": "https://www.whosdatedwho.com/dating/tristan-thompson",
+            "relationship_type": 2,
+            "start_date": "May 2014",
+            "end_date": "Sep 2016",
+            "length": "2 years",
+            "start_months_since_1900": 1372,
+            "end_months_since_1900": 1400,
+            "length_in_months": 24
+        },
+        {
+            "name": "Baron Davis",
+            "href": "https://www.whosdatedwho.com/dating/baron-davis",
+            "relationship_type": 2,
+            "start_date": "2012",
+            "end_date": "2013",
+            "length": "1 year",
+            "start_months_since_1900": 1344,
+            "end_months_since_1900": 1356,
+            "length_in_months": 12
+        },
+        {
+            "name": "Tyga",
+            "href": "https://www.whosdatedwho.com/dating/tyga",
+            "relationship_type": 4,
+            "start_date": "Feb 2010",
+            "end_date": "Jul 2011",
+            "length": "1 year",
+            "start_months_since_1900": 1321,
+            "end_months_since_1900": 1338,
+            "length_in_months": 12
+        }
+    ],
+    "details": {
+        "First Name": "Jordan",
+        "Middle Name": "NA",
+        "Last Name": "Craig",
+        "Maiden Name": "NA",
+        "Full Name at Birth": "Jordan Craig",
+        "Alternative Name": "Jordy C, Jordan Craig",
+        "Birthday": "1991",
+        "Birthplace": "USA",
+        "Height": "163",
+        "Weight": "136lbs (62 kg)",
+        "Zodiac Sign": "8",
+        "Sexuality": "Straight",
+        "Religion": "18",
+        "Ethnicity": "8",
+        "Nationality": "91",
+        "Occupation": "16"
+    }
+}

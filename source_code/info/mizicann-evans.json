@@ -1,0 +1,33 @@
+{
+    "relationships": [
+        {
+            "name": "Usain Bolt",
+            "href": "https://www.whosdatedwho.com/dating/usain-bolt",
+            "relationship_type": 2,
+            "start_date": "2004",
+            "end_date": "2011",
+            "length": "7 years",
+            "start_months_since_1900": 1248,
+            "end_months_since_1900": 1332,
+            "length_in_months": 84
+        }
+    ],
+    "details": {
+        "First Name": "Mizicann",
+        "Middle Name": "NA",
+        "Last Name": "Evans",
+        "Maiden Name": "NA",
+        "Full Name at Birth": "NA",
+        "Alternative Name": "NA",
+        "Birthday": "1988",
+        "Birthplace": "Jamaica",
+        "Height": "NA",
+        "Weight": "NA",
+        "Zodiac Sign": "6",
+        "Sexuality": "Straight",
+        "Religion": "1",
+        "Ethnicity": "2",
+        "Nationality": "62",
+        "Occupation": "18"
+    }
+}

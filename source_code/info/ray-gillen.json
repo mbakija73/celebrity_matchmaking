@@ -1,0 +1,44 @@
+{
+    "relationships": [
+        {
+            "name": "Daisy (personality)",
+            "href": "https://www.whosdatedwho.com/dating/daisy-personality",
+            "relationship_type": 2,
+            "start_date": "",
+            "end_date": "",
+            "length": "-",
+            "start_months_since_1900": -1,
+            "end_months_since_1900": -1,
+            "length_in_months": -1
+        },
+        {
+            "name": "Susie Owens",
+            "href": "https://www.whosdatedwho.com/dating/susie-owens",
+            "relationship_type": 3,
+            "start_date": "",
+            "end_date": "",
+            "length": "-",
+            "start_months_since_1900": -1,
+            "end_months_since_1900": -1,
+            "length_in_months": -1
+        }
+    ],
+    "details": {
+        "First Name": "Ray",
+        "Middle Name": "NA",
+        "Last Name": "Gillen",
+        "Maiden Name": "NA",
+        "Full Name at Birth": "Raymond A. Gillen",
+        "Alternative Name": "NA",
+        "Birthday": "1959",
+        "Birthplace": "USA",
+        "Height": "NA",
+        "Weight": "NA",
+        "Zodiac Sign": "3",
+        "Sexuality": "NA",
+        "Religion": "1",
+        "Ethnicity": "1",
+        "Nationality": "91",
+        "Occupation": "1"
+    }
+}

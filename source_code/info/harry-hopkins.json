@@ -1,0 +1,55 @@
+{
+    "relationships": [
+        {
+            "name": "Paulette Goddard",
+            "href": "https://www.whosdatedwho.com/dating/paulette-goddard",
+            "relationship_type": 2,
+            "start_date": "1941",
+            "end_date": "Jul 1942",
+            "length": "1 year",
+            "start_months_since_1900": 492,
+            "end_months_since_1900": 510,
+            "length_in_months": 12
+        },
+        {
+            "name": "Louise Macy",
+            "href": "https://www.whosdatedwho.com/dating/louise-macy",
+            "relationship_type": 4,
+            "start_date": "",
+            "end_date": "",
+            "length": "-",
+            "start_months_since_1900": -1,
+            "end_months_since_1900": -1,
+            "length_in_months": -1
+        },
+        {
+            "name": "Dorothy Hale",
+            "href": "https://www.whosdatedwho.com/dating/dorothy-hale",
+            "relationship_type": 2,
+            "start_date": "",
+            "end_date": "",
+            "length": "-",
+            "start_months_since_1900": -1,
+            "end_months_since_1900": -1,
+            "length_in_months": -1
+        }
+    ],
+    "details": {
+        "First Name": "Harry",
+        "Middle Name": "NA",
+        "Last Name": "Hopkins",
+        "Maiden Name": "NA",
+        "Full Name at Birth": "NA",
+        "Alternative Name": "NA",
+        "Birthday": "1890",
+        "Birthplace": "Iowa",
+        "Height": "NA",
+        "Weight": "NA",
+        "Zodiac Sign": "12",
+        "Sexuality": "Straight",
+        "Religion": "1",
+        "Ethnicity": "6",
+        "Nationality": "91",
+        "Occupation": "12"
+    }
+}

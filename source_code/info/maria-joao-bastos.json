@@ -1,0 +1,88 @@
+{
+    "relationships": [
+        {
+            "name": "Pedro Barroso",
+            "href": "https://www.whosdatedwho.com/dating/pedro-barroso",
+            "relationship_type": 2,
+            "start_date": "Apr 2011",
+            "end_date": "Feb 2013",
+            "length": "1 year",
+            "start_months_since_1900": 1335,
+            "end_months_since_1900": 1357,
+            "length_in_months": 12
+        },
+        {
+            "name": "Luis Gomes",
+            "href": "https://www.whosdatedwho.com/dating/luis-gomes-model",
+            "relationship_type": 3,
+            "start_date": "Jul 2010",
+            "end_date": "Sep 2010",
+            "length": "2 months",
+            "start_months_since_1900": 1326,
+            "end_months_since_1900": 1328,
+            "length_in_months": 2
+        },
+        {
+            "name": "Pablo Ceballos",
+            "href": "https://www.whosdatedwho.com/dating/pablo-ceballos",
+            "relationship_type": 2,
+            "start_date": "Aug 2007",
+            "end_date": "Dec 2007",
+            "length": "4 months",
+            "start_months_since_1900": 1291,
+            "end_months_since_1900": 1295,
+            "length_in_months": 4
+        },
+        {
+            "name": "Marco D'Almeida",
+            "href": "https://www.whosdatedwho.com/dating/marco-d-almeida",
+            "relationship_type": 2,
+            "start_date": "Dec 2006",
+            "end_date": "2009",
+            "length": "2 years",
+            "start_months_since_1900": 1283,
+            "end_months_since_1900": 1308,
+            "length_in_months": 24
+        },
+        {
+            "name": "Ant\u00f3nio Pedro Cerdeira",
+            "href": "https://www.whosdatedwho.com/dating/antonio-pedro-cerdeira",
+            "relationship_type": 2,
+            "start_date": "Sep 2005",
+            "end_date": "2006",
+            "length": "4 months",
+            "start_months_since_1900": 1268,
+            "end_months_since_1900": 1272,
+            "length_in_months": 4
+        },
+        {
+            "name": "Let\u00edcia Spiller",
+            "href": "https://www.whosdatedwho.com/dating/leticia-spiller",
+            "relationship_type": 3,
+            "start_date": "2003",
+            "end_date": "2003",
+            "length": "-",
+            "start_months_since_1900": 1236,
+            "end_months_since_1900": 1236,
+            "length_in_months": -1
+        }
+    ],
+    "details": {
+        "First Name": "Maria",
+        "Middle Name": "Jo\u00e3o",
+        "Last Name": "Bastos",
+        "Maiden Name": "Bastos",
+        "Full Name at Birth": "Maria Jo\u00e3o David da Silva Bastos",
+        "Alternative Name": "Maria Jo\u00e3o David da Silva Bastos, Maria Jo\u00e3o Bastos, Maria Jo\u00e3o",
+        "Birthday": "1975",
+        "Birthplace": "Portugal",
+        "Height": "172",
+        "Weight": "116lbs (53 kg)",
+        "Zodiac Sign": "4",
+        "Sexuality": "Straight",
+        "Religion": "13",
+        "Ethnicity": "6",
+        "Nationality": "77",
+        "Occupation": "8"
+    }
+}

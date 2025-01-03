@@ -1,0 +1,33 @@
+{
+    "relationships": [
+        {
+            "name": "Al Pacino",
+            "href": "https://www.whosdatedwho.com/dating/al-pacino",
+            "relationship_type": 2,
+            "start_date": "2018",
+            "end_date": "2020",
+            "length": "2 years",
+            "start_months_since_1900": 1416,
+            "end_months_since_1900": 1440,
+            "length_in_months": 24
+        }
+    ],
+    "details": {
+        "First Name": "Meital",
+        "Middle Name": "NA",
+        "Last Name": "Dohan",
+        "Maiden Name": "NA",
+        "Full Name at Birth": "Meital Dohan",
+        "Alternative Name": "Hebrew: \u05de\u05d9\u05d8\u05dc \u05d3\u05d5\u05d4\u05df\u200e, Meital Dohan",
+        "Birthday": "1979",
+        "Birthplace": "Israel",
+        "Height": "155",
+        "Weight": "121lbs (55 kg)",
+        "Zodiac Sign": "11",
+        "Sexuality": "Straight",
+        "Religion": "31",
+        "Ethnicity": "6",
+        "Nationality": "11",
+        "Occupation": "8"
+    }
+}

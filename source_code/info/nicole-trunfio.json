@@ -1,0 +1,55 @@
+{
+    "relationships": [
+        {
+            "name": "Gary Clark Jr.",
+            "href": "https://www.whosdatedwho.com/dating/gary-clark-jr",
+            "relationship_type": 4,
+            "start_date": "Jun 2012",
+            "end_date": "present",
+            "length": "12 years",
+            "start_months_since_1900": 1349,
+            "end_months_since_1900": -1,
+            "length_in_months": 144
+        },
+        {
+            "name": "Benji Madden",
+            "href": "https://www.whosdatedwho.com/dating/benji-madden",
+            "relationship_type": 3,
+            "start_date": "2011",
+            "end_date": "2011",
+            "length": "-",
+            "start_months_since_1900": 1332,
+            "end_months_since_1900": 1332,
+            "length_in_months": -1
+        },
+        {
+            "name": "Ryan Leslie",
+            "href": "https://www.whosdatedwho.com/dating/ryan-leslie",
+            "relationship_type": 2,
+            "start_date": "2009",
+            "end_date": "Jun 2011",
+            "length": "2 years",
+            "start_months_since_1900": 1308,
+            "end_months_since_1900": 1337,
+            "length_in_months": 24
+        }
+    ],
+    "details": {
+        "First Name": "Nicole",
+        "Middle Name": "NA",
+        "Last Name": "NA",
+        "Maiden Name": "Trunfio",
+        "Full Name at Birth": "Nicole Trunfio",
+        "Alternative Name": "NA",
+        "Birthday": "1986",
+        "Birthplace": "Western Australia",
+        "Height": "178",
+        "Weight": "NA",
+        "Zodiac Sign": "1",
+        "Sexuality": "Straight",
+        "Religion": "1",
+        "Ethnicity": "6",
+        "Nationality": "135",
+        "Occupation": "15"
+    }
+}

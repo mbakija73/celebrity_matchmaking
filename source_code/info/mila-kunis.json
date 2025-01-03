@@ -1,0 +1,44 @@
+{
+    "relationships": [
+        {
+            "name": "Ashton Kutcher",
+            "href": "https://www.whosdatedwho.com/dating/ashton-kutcher",
+            "relationship_type": 4,
+            "start_date": "Apr 2012",
+            "end_date": "present",
+            "length": "12 years",
+            "start_months_since_1900": 1347,
+            "end_months_since_1900": -1,
+            "length_in_months": 144
+        },
+        {
+            "name": "Macaulay Culkin",
+            "href": "https://www.whosdatedwho.com/dating/macaulay-culkin",
+            "relationship_type": 2,
+            "start_date": "Feb 2003",
+            "end_date": "Mar 2012",
+            "length": "9 years",
+            "start_months_since_1900": 1237,
+            "end_months_since_1900": 1346,
+            "length_in_months": 108
+        }
+    ],
+    "details": {
+        "First Name": "Milena",
+        "Middle Name": "Markovna",
+        "Last Name": "Kutcher",
+        "Maiden Name": "Kunis",
+        "Full Name at Birth": "Milena Markovna Kunis",
+        "Alternative Name": "Mila Kutcher, sweet lips (nickname by Natalie Portman), Goldfish",
+        "Birthday": "1983",
+        "Birthplace": "Ukraine",
+        "Height": "163",
+        "Weight": "115lbs (52 kg)",
+        "Zodiac Sign": "12",
+        "Sexuality": "Straight",
+        "Religion": "31",
+        "Ethnicity": "6",
+        "Nationality": "91",
+        "Occupation": "8"
+    }
+}

@@ -1,0 +1,55 @@
+{
+    "relationships": [
+        {
+            "name": "Dorothy Provine",
+            "href": "https://www.whosdatedwho.com/dating/dorothy-provine",
+            "relationship_type": 2,
+            "start_date": "Jul 1959",
+            "end_date": "Jul 1959",
+            "length": "-",
+            "start_months_since_1900": 714,
+            "end_months_since_1900": 714,
+            "length_in_months": -1
+        },
+        {
+            "name": "Lori Nelson",
+            "href": "https://www.whosdatedwho.com/dating/lori-nelson",
+            "relationship_type": 2,
+            "start_date": "Oct 1955",
+            "end_date": "Dec 1955",
+            "length": "2 months",
+            "start_months_since_1900": 669,
+            "end_months_since_1900": 671,
+            "length_in_months": 2
+        },
+        {
+            "name": "Marla English",
+            "href": "https://www.whosdatedwho.com/dating/marla-english",
+            "relationship_type": 2,
+            "start_date": "Jul 1954",
+            "end_date": "Dec 1955",
+            "length": "1 year",
+            "start_months_since_1900": 654,
+            "end_months_since_1900": 671,
+            "length_in_months": 12
+        }
+    ],
+    "details": {
+        "First Name": "Larry",
+        "Middle Name": "NA",
+        "Last Name": "Pennell",
+        "Maiden Name": "NA",
+        "Full Name at Birth": "Lawrence Kenneth Pennell",
+        "Alternative Name": "Bud Pennell",
+        "Birthday": "1928",
+        "Birthplace": "USA",
+        "Height": "187",
+        "Weight": "NA",
+        "Zodiac Sign": "1",
+        "Sexuality": "Straight",
+        "Religion": "1",
+        "Ethnicity": "6",
+        "Nationality": "91",
+        "Occupation": "8"
+    }
+}

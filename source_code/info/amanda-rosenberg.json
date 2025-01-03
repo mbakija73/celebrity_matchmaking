@@ -1,0 +1,33 @@
+{
+    "relationships": [
+        {
+            "name": "Sergey Brin",
+            "href": "https://www.whosdatedwho.com/dating/sergey-brin",
+            "relationship_type": 3,
+            "start_date": "2013",
+            "end_date": "2013",
+            "length": "-",
+            "start_months_since_1900": 1356,
+            "end_months_since_1900": 1356,
+            "length_in_months": -1
+        }
+    ],
+    "details": {
+        "First Name": "Amanda",
+        "Middle Name": "NA",
+        "Last Name": "Rosenberg",
+        "Maiden Name": "NA",
+        "Full Name at Birth": "NA",
+        "Alternative Name": "NA",
+        "Birthday": "1986",
+        "Birthplace": "China",
+        "Height": "NA",
+        "Weight": "NA",
+        "Zodiac Sign": "2",
+        "Sexuality": "Straight",
+        "Religion": "31",
+        "Ethnicity": "6",
+        "Nationality": "8",
+        "Occupation": "3"
+    }
+}

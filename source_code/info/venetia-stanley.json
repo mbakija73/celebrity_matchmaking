@@ -1,0 +1,66 @@
+{
+    "relationships": [
+        {
+            "name": "H.H. Asquith",
+            "href": "https://www.whosdatedwho.com/dating/h-h-asquith",
+            "relationship_type": 2,
+            "start_date": "1912",
+            "end_date": "1915",
+            "length": "3 years",
+            "start_months_since_1900": 144,
+            "end_months_since_1900": 180,
+            "length_in_months": 36
+        },
+        {
+            "name": "Lord Beaverbrook",
+            "href": "https://www.whosdatedwho.com/dating/lord-beaverbrook",
+            "relationship_type": 3,
+            "start_date": "",
+            "end_date": "",
+            "length": "-",
+            "start_months_since_1900": -1,
+            "end_months_since_1900": -1,
+            "length_in_months": -1
+        },
+        {
+            "name": "Edwin Samuel Montagu",
+            "href": "https://www.whosdatedwho.com/dating/edwin-samuel-montagu",
+            "relationship_type": 4,
+            "start_date": "1912",
+            "end_date": "Nov 1924",
+            "length": "12 years",
+            "start_months_since_1900": 144,
+            "end_months_since_1900": 298,
+            "length_in_months": 144
+        },
+        {
+            "name": "William Ward, 3rd Earl of Dudley",
+            "href": "https://www.whosdatedwho.com/dating/william-ward-3rd-earl-of-dudley",
+            "relationship_type": 3,
+            "start_date": "1922",
+            "end_date": "1923",
+            "length": "1 year",
+            "start_months_since_1900": 264,
+            "end_months_since_1900": 276,
+            "length_in_months": 12
+        }
+    ],
+    "details": {
+        "First Name": "Venetia",
+        "Middle Name": "NA",
+        "Last Name": "Montagu",
+        "Maiden Name": "Stanley",
+        "Full Name at Birth": "Beatrice Venetia Stanley",
+        "Alternative Name": "Beatrice Venetia Stanley Montagu",
+        "Birthday": "1887",
+        "Birthplace": "NA",
+        "Height": "NA",
+        "Weight": "NA",
+        "Zodiac Sign": "12",
+        "Sexuality": "Straight",
+        "Religion": "31",
+        "Ethnicity": "6",
+        "Nationality": "8",
+        "Occupation": "11"
+    }
+}

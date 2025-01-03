@@ -1,0 +1,66 @@
+{
+    "relationships": [
+        {
+            "name": "Pleasure P.",
+            "href": "https://www.whosdatedwho.com/dating/pleasure-p",
+            "relationship_type": 2,
+            "start_date": "2018",
+            "end_date": "2019",
+            "length": "1 year",
+            "start_months_since_1900": 1416,
+            "end_months_since_1900": 1428,
+            "length_in_months": 12
+        },
+        {
+            "name": "Lil Scrappy",
+            "href": "https://www.whosdatedwho.com/dating/lil-scrappy",
+            "relationship_type": 2,
+            "start_date": "Jul 2010",
+            "end_date": "Jun 2013",
+            "length": "2 years",
+            "start_months_since_1900": 1326,
+            "end_months_since_1900": 1361,
+            "length_in_months": 24
+        },
+        {
+            "name": "Hurricane Chris",
+            "href": "https://www.whosdatedwho.com/dating/hurricane-chris-born-1989",
+            "relationship_type": 2,
+            "start_date": "2008",
+            "end_date": "2008",
+            "length": "-",
+            "start_months_since_1900": 1296,
+            "end_months_since_1900": 1296,
+            "length_in_months": -1
+        },
+        {
+            "name": "Andr\u00e9 3000",
+            "href": "https://www.whosdatedwho.com/dating/andre-benjamin",
+            "relationship_type": 3,
+            "start_date": "",
+            "end_date": "",
+            "length": "-",
+            "start_months_since_1900": -1,
+            "end_months_since_1900": -1,
+            "length_in_months": -1
+        }
+    ],
+    "details": {
+        "First Name": "Shay",
+        "Middle Name": "NA",
+        "Last Name": "Johnson",
+        "Maiden Name": "NA",
+        "Full Name at Birth": "Shaherah Johnson",
+        "Alternative Name": "Buckeey, Shay",
+        "Birthday": "1983",
+        "Birthplace": "USA",
+        "Height": "163",
+        "Weight": "132lbs (60 kg)",
+        "Zodiac Sign": "10",
+        "Sexuality": "Straight",
+        "Religion": "18",
+        "Ethnicity": "2",
+        "Nationality": "91",
+        "Occupation": "11"
+    }
+}

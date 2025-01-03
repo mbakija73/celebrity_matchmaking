@@ -1,0 +1,77 @@
+{
+    "relationships": [
+        {
+            "name": "Bette Davis",
+            "href": "https://www.whosdatedwho.com/dating/bette-davis",
+            "relationship_type": 2,
+            "start_date": "1937",
+            "end_date": "1938",
+            "length": "1 year",
+            "start_months_since_1900": 444,
+            "end_months_since_1900": 456,
+            "length_in_months": 12
+        },
+        {
+            "name": "Margaret Tallichet",
+            "href": "https://www.whosdatedwho.com/dating/margaret-tallichet",
+            "relationship_type": 4,
+            "start_date": "1937",
+            "end_date": "27th Jul 1981",
+            "length": "44 years",
+            "start_months_since_1900": 444,
+            "end_months_since_1900": 978,
+            "length_in_months": 528
+        },
+        {
+            "name": "Luise Rainer",
+            "href": "https://www.whosdatedwho.com/dating/luise-rainer",
+            "relationship_type": 2,
+            "start_date": "1936",
+            "end_date": "1936",
+            "length": "-",
+            "start_months_since_1900": 432,
+            "end_months_since_1900": 432,
+            "length_in_months": -1
+        },
+        {
+            "name": "Margaret Sullavan",
+            "href": "https://www.whosdatedwho.com/dating/margaret-sullavan",
+            "relationship_type": 4,
+            "start_date": "1934",
+            "end_date": "13th Mar 1936",
+            "length": "2 years",
+            "start_months_since_1900": 408,
+            "end_months_since_1900": 434,
+            "length_in_months": 24
+        },
+        {
+            "name": "Sheila Bromley",
+            "href": "https://www.whosdatedwho.com/dating/sheila-bromley",
+            "relationship_type": 2,
+            "start_date": "",
+            "end_date": "",
+            "length": "-",
+            "start_months_since_1900": -1,
+            "end_months_since_1900": -1,
+            "length_in_months": -1
+        }
+    ],
+    "details": {
+        "First Name": "William",
+        "Middle Name": "NA",
+        "Last Name": "Wyler",
+        "Maiden Name": "NA",
+        "Full Name at Birth": "Wilhelm Weiller",
+        "Alternative Name": "99-Take Willie, Willy, William Wyler, Wilhelm Weiller",
+        "Birthday": "1902",
+        "Birthplace": "France)",
+        "Height": "173",
+        "Weight": "NA",
+        "Zodiac Sign": "8",
+        "Sexuality": "Straight",
+        "Religion": "1",
+        "Ethnicity": "6",
+        "Nationality": "91",
+        "Occupation": "9"
+    }
+}

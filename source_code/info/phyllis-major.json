@@ -1,0 +1,66 @@
+{
+    "relationships": [
+        {
+            "name": "Jackson Browne",
+            "href": "https://www.whosdatedwho.com/dating/jackson-browne",
+            "relationship_type": 4,
+            "start_date": "1972",
+            "end_date": "Mar 1976",
+            "length": "4 years",
+            "start_months_since_1900": 864,
+            "end_months_since_1900": 914,
+            "length_in_months": 48
+        },
+        {
+            "name": "Keith Richards",
+            "href": "https://www.whosdatedwho.com/dating/keith-richards",
+            "relationship_type": 2,
+            "start_date": "",
+            "end_date": "",
+            "length": "-",
+            "start_months_since_1900": -1,
+            "end_months_since_1900": -1,
+            "length_in_months": -1
+        },
+        {
+            "name": "Bob Neuwirth",
+            "href": "https://www.whosdatedwho.com/dating/bob-neuwirth",
+            "relationship_type": 2,
+            "start_date": "",
+            "end_date": "",
+            "length": "-",
+            "start_months_since_1900": -1,
+            "end_months_since_1900": -1,
+            "length_in_months": -1
+        },
+        {
+            "name": "Stash Klossowski",
+            "href": "https://www.whosdatedwho.com/dating/stash-de-rola",
+            "relationship_type": 2,
+            "start_date": "",
+            "end_date": "",
+            "length": "-",
+            "start_months_since_1900": -1,
+            "end_months_since_1900": -1,
+            "length_in_months": -1
+        }
+    ],
+    "details": {
+        "First Name": "Phyllis",
+        "Middle Name": "NA",
+        "Last Name": "Browne",
+        "Maiden Name": "Major",
+        "Full Name at Birth": "Phyllis Major",
+        "Alternative Name": "NA",
+        "Birthday": "1946",
+        "Birthplace": "USA",
+        "Height": "NA",
+        "Weight": "NA",
+        "Zodiac Sign": "13",
+        "Sexuality": "Straight",
+        "Religion": "1",
+        "Ethnicity": "6",
+        "Nationality": "91",
+        "Occupation": "8"
+    }
+}

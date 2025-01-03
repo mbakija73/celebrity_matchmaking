@@ -1,0 +1,55 @@
+{
+    "relationships": [
+        {
+            "name": "Man Ray",
+            "href": "https://www.whosdatedwho.com/dating/man-ray",
+            "relationship_type": 2,
+            "start_date": "",
+            "end_date": "",
+            "length": "-",
+            "start_months_since_1900": -1,
+            "end_months_since_1900": -1,
+            "length_in_months": -1
+        },
+        {
+            "name": "Moise Kisling",
+            "href": "https://www.whosdatedwho.com/dating/moise-kisling",
+            "relationship_type": 1,
+            "start_date": "",
+            "end_date": "",
+            "length": "-",
+            "start_months_since_1900": -1,
+            "end_months_since_1900": -1,
+            "length_in_months": -1
+        },
+        {
+            "name": "Tsuguharu Fujita",
+            "href": "https://www.whosdatedwho.com/dating/tsuguharu-foujita",
+            "relationship_type": 1,
+            "start_date": "",
+            "end_date": "",
+            "length": "-",
+            "start_months_since_1900": -1,
+            "end_months_since_1900": -1,
+            "length_in_months": -1
+        }
+    ],
+    "details": {
+        "First Name": "Kiki",
+        "Middle Name": "De",
+        "Last Name": "Montparnasse",
+        "Maiden Name": "NA",
+        "Full Name at Birth": "Alice Ernestine Prin",
+        "Alternative Name": "Kiki of Montparnasse, Kiki, Alice 'Kiki' Prin, Alice Ernestine Prin, Alice Prin, Kiki de Montparnasse",
+        "Birthday": "1901",
+        "Birthplace": "France",
+        "Height": "NA",
+        "Weight": "NA",
+        "Zodiac Sign": "10",
+        "Sexuality": "Straight",
+        "Religion": "1",
+        "Ethnicity": "6",
+        "Nationality": "86",
+        "Occupation": "15"
+    }
+}

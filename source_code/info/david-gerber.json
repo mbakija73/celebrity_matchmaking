@@ -1,0 +1,55 @@
+{
+    "relationships": [
+        {
+            "name": "Laraine Stephens",
+            "href": "https://www.whosdatedwho.com/dating/laraine-stephens",
+            "relationship_type": 4,
+            "start_date": "12th Jun 1970",
+            "end_date": "2nd Jan 2010",
+            "length": "39 years",
+            "start_months_since_1900": 845,
+            "end_months_since_1900": 1320,
+            "length_in_months": 468
+        },
+        {
+            "name": "Lisa Seagram",
+            "href": "https://www.whosdatedwho.com/dating/lisa-seagram",
+            "relationship_type": 3,
+            "start_date": "Jan 1966",
+            "end_date": "Jan 1966",
+            "length": "-",
+            "start_months_since_1900": 792,
+            "end_months_since_1900": 792,
+            "length_in_months": -1
+        },
+        {
+            "name": "Patricia Blair",
+            "href": "https://www.whosdatedwho.com/dating/patricia-blair",
+            "relationship_type": 2,
+            "start_date": "Aug 1959",
+            "end_date": "Sep 1959",
+            "length": "1 month",
+            "start_months_since_1900": 715,
+            "end_months_since_1900": 716,
+            "length_in_months": 1
+        }
+    ],
+    "details": {
+        "First Name": "David",
+        "Middle Name": "NA",
+        "Last Name": "Gerber",
+        "Maiden Name": "NA",
+        "Full Name at Birth": "David Gerber",
+        "Alternative Name": "David Gerber",
+        "Birthday": "1923",
+        "Birthplace": "USA",
+        "Height": "NA",
+        "Weight": "NA",
+        "Zodiac Sign": "12",
+        "Sexuality": "NA",
+        "Religion": "1",
+        "Ethnicity": "1",
+        "Nationality": "91",
+        "Occupation": "9"
+    }
+}

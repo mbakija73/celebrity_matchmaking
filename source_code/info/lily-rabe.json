@@ -1,0 +1,44 @@
+{
+    "relationships": [
+        {
+            "name": "Hamish Linklater",
+            "href": "https://www.whosdatedwho.com/dating/hamish-linklater",
+            "relationship_type": 2,
+            "start_date": "May 2013",
+            "end_date": "May 2013",
+            "length": "-",
+            "start_months_since_1900": 1360,
+            "end_months_since_1900": 1360,
+            "length_in_months": -1
+        },
+        {
+            "name": "Jesse Plemons",
+            "href": "https://www.whosdatedwho.com/dating/jesse-plemons",
+            "relationship_type": 1,
+            "start_date": "",
+            "end_date": "",
+            "length": "-",
+            "start_months_since_1900": -1,
+            "end_months_since_1900": -1,
+            "length_in_months": -1
+        }
+    ],
+    "details": {
+        "First Name": "Lily",
+        "Middle Name": "NA",
+        "Last Name": "Rabe",
+        "Maiden Name": "NA",
+        "Full Name at Birth": "Lily Rabe",
+        "Alternative Name": "Lily Rabe",
+        "Birthday": "1982",
+        "Birthplace": "USA",
+        "Height": "173",
+        "Weight": "NA",
+        "Zodiac Sign": "8",
+        "Sexuality": "NA",
+        "Religion": "1",
+        "Ethnicity": "6",
+        "Nationality": "91",
+        "Occupation": "8"
+    }
+}

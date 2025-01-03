@@ -1,0 +1,66 @@
+{
+    "relationships": [
+        {
+            "name": "Diego Rivera",
+            "href": "https://www.whosdatedwho.com/dating/diego-rivera",
+            "relationship_type": 2,
+            "start_date": "1926",
+            "end_date": "1927",
+            "length": "1 year",
+            "start_months_since_1900": 312,
+            "end_months_since_1900": 324,
+            "length_in_months": 12
+        },
+        {
+            "name": "Edward Weston",
+            "href": "https://www.whosdatedwho.com/dating/edward-weston",
+            "relationship_type": 2,
+            "start_date": "1920",
+            "end_date": "1926",
+            "length": "6 years",
+            "start_months_since_1900": 240,
+            "end_months_since_1900": 312,
+            "length_in_months": 72
+        },
+        {
+            "name": "Vittorio Vidali",
+            "href": "https://www.whosdatedwho.com/dating/vittorio-vidali",
+            "relationship_type": 1,
+            "start_date": "",
+            "end_date": "",
+            "length": "-",
+            "start_months_since_1900": -1,
+            "end_months_since_1900": -1,
+            "length_in_months": -1
+        },
+        {
+            "name": "Frida Kahlo",
+            "href": "https://www.whosdatedwho.com/dating/frida-kahlo",
+            "relationship_type": 2,
+            "start_date": "",
+            "end_date": "",
+            "length": "-",
+            "start_months_since_1900": -1,
+            "end_months_since_1900": -1,
+            "length_in_months": -1
+        }
+    ],
+    "details": {
+        "First Name": "Tina",
+        "Middle Name": "NA",
+        "Last Name": "Modotti",
+        "Maiden Name": "NA",
+        "Full Name at Birth": "Assunta Adelaide Luigia Modotti Mondini",
+        "Alternative Name": "NA",
+        "Birthday": "1896",
+        "Birthplace": "Italy",
+        "Height": "NA",
+        "Weight": "NA",
+        "Zodiac Sign": "12",
+        "Sexuality": "Bisexual",
+        "Religion": "1",
+        "Ethnicity": "6",
+        "Nationality": "139",
+        "Occupation": "13"
+    }
+}

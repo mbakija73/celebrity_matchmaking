@@ -1,0 +1,33 @@
+{
+    "relationships": [
+        {
+            "name": "Lydia Cornell",
+            "href": "https://www.whosdatedwho.com/dating/lydia-cornell",
+            "relationship_type": 4,
+            "start_date": "11th Nov 2002",
+            "end_date": "20th Jan 2010",
+            "length": "7 years",
+            "start_months_since_1900": 1234,
+            "end_months_since_1900": 1320,
+            "length_in_months": 84
+        }
+    ],
+    "details": {
+        "First Name": "Paul",
+        "Middle Name": "NA",
+        "Last Name": "Hayeland",
+        "Maiden Name": "NA",
+        "Full Name at Birth": "NA",
+        "Alternative Name": "NA",
+        "Birthday": "1965",
+        "Birthplace": "MI",
+        "Height": "183",
+        "Weight": "NA",
+        "Zodiac Sign": "5",
+        "Sexuality": "NA",
+        "Religion": "1",
+        "Ethnicity": "1",
+        "Nationality": "65",
+        "Occupation": "9"
+    }
+}

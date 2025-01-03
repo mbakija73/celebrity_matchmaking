@@ -1,0 +1,33 @@
+{
+    "relationships": [
+        {
+            "name": "Pamela Anderson",
+            "href": "https://www.whosdatedwho.com/dating/pamela-anderson",
+            "relationship_type": 2,
+            "start_date": "Jan 1982",
+            "end_date": "Oct 1986",
+            "length": "4 years",
+            "start_months_since_1900": 984,
+            "end_months_since_1900": 1041,
+            "length_in_months": 48
+        }
+    ],
+    "details": {
+        "First Name": "Tyrone",
+        "Middle Name": "NA",
+        "Last Name": "Anderson",
+        "Maiden Name": "NA",
+        "Full Name at Birth": "NA",
+        "Alternative Name": "Ty",
+        "Birthday": "1966",
+        "Birthplace": "NA",
+        "Height": "NA",
+        "Weight": "NA",
+        "Zodiac Sign": "2",
+        "Sexuality": "NA",
+        "Religion": "1",
+        "Ethnicity": "1",
+        "Nationality": "90",
+        "Occupation": "19"
+    }
+}

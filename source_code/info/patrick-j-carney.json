@@ -1,0 +1,55 @@
+{
+    "relationships": [
+        {
+            "name": "Michelle Branch",
+            "href": "https://www.whosdatedwho.com/dating/michelle-branch",
+            "relationship_type": 4,
+            "start_date": "Feb 2015",
+            "end_date": "Aug 2022",
+            "length": "7 years",
+            "start_months_since_1900": 1381,
+            "end_months_since_1900": 1471,
+            "length_in_months": 84
+        },
+        {
+            "name": "Denise Grollmus",
+            "href": "https://www.whosdatedwho.com/dating/denise-grollmus",
+            "relationship_type": 4,
+            "start_date": "2007",
+            "end_date": "2009",
+            "length": "2 years",
+            "start_months_since_1900": 1284,
+            "end_months_since_1900": 1308,
+            "length_in_months": 24
+        },
+        {
+            "name": "Emily Ward",
+            "href": "https://www.whosdatedwho.com/dating/emily-ward",
+            "relationship_type": 4,
+            "start_date": "2007",
+            "end_date": "Jan 2016",
+            "length": "9 years",
+            "start_months_since_1900": 1284,
+            "end_months_since_1900": 1392,
+            "length_in_months": 108
+        }
+    ],
+    "details": {
+        "First Name": "Patrick",
+        "Middle Name": "NA",
+        "Last Name": "Carney",
+        "Maiden Name": "NA",
+        "Full Name at Birth": "Patrick J. Carney",
+        "Alternative Name": "The Salesman",
+        "Birthday": "1980",
+        "Birthplace": "U.S.",
+        "Height": "191",
+        "Weight": "NA",
+        "Zodiac Sign": "7",
+        "Sexuality": "Straight",
+        "Religion": "1",
+        "Ethnicity": "6",
+        "Nationality": "91",
+        "Occupation": "1"
+    }
+}

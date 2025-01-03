@@ -1,0 +1,121 @@
+{
+    "relationships": [
+        {
+            "name": "Elizabeth Taylor",
+            "href": "https://www.whosdatedwho.com/dating/elizabeth-taylor",
+            "relationship_type": 4,
+            "start_date": "Jun 1956",
+            "end_date": "Mar 1958",
+            "length": "1 year",
+            "start_months_since_1900": 677,
+            "end_months_since_1900": 698,
+            "length_in_months": 12
+        },
+        {
+            "name": "Terry Moore",
+            "href": "https://www.whosdatedwho.com/dating/terry-moore",
+            "relationship_type": 3,
+            "start_date": "May 1955",
+            "end_date": "Jun 1955",
+            "length": "1 month",
+            "start_months_since_1900": 664,
+            "end_months_since_1900": 665,
+            "length_in_months": 1
+        },
+        {
+            "name": "Marlene Dietrich",
+            "href": "https://www.whosdatedwho.com/dating/marlene-dietrich",
+            "relationship_type": 3,
+            "start_date": "1955",
+            "end_date": "1955",
+            "length": "-",
+            "start_months_since_1900": 660,
+            "end_months_since_1900": 660,
+            "length_in_months": -1
+        },
+        {
+            "name": "Evelyn Keyes",
+            "href": "https://www.whosdatedwho.com/dating/evelyn-keyes",
+            "relationship_type": 2,
+            "start_date": "1953",
+            "end_date": "1956",
+            "length": "3 years",
+            "start_months_since_1900": 636,
+            "end_months_since_1900": 672,
+            "length_in_months": 36
+        },
+        {
+            "name": "Nancy Valentine",
+            "href": "https://www.whosdatedwho.com/dating/nancy-valentine",
+            "relationship_type": 2,
+            "start_date": "Jan 1952",
+            "end_date": "Feb 1952",
+            "length": "1 month",
+            "start_months_since_1900": 624,
+            "end_months_since_1900": 625,
+            "length_in_months": 1
+        },
+        {
+            "name": "Joan Blondell",
+            "href": "https://www.whosdatedwho.com/dating/joan-blondell",
+            "relationship_type": 4,
+            "start_date": "1946",
+            "end_date": "5th Jun 1950",
+            "length": "4 years",
+            "start_months_since_1900": 552,
+            "end_months_since_1900": 605,
+            "length_in_months": 48
+        },
+        {
+            "name": "Bertha Freeman",
+            "href": "https://www.whosdatedwho.com/dating/bertha-freeman",
+            "relationship_type": 4,
+            "start_date": "1926",
+            "end_date": "3rd Aug 1946",
+            "length": "20 years",
+            "start_months_since_1900": 312,
+            "end_months_since_1900": 559,
+            "length_in_months": 240
+        },
+        {
+            "name": "Jean Simmons",
+            "href": "https://www.whosdatedwho.com/dating/jean-simmons",
+            "relationship_type": 3,
+            "start_date": "",
+            "end_date": "",
+            "length": "-",
+            "start_months_since_1900": -1,
+            "end_months_since_1900": -1,
+            "length_in_months": -1
+        },
+        {
+            "name": "Gypsy Rose Lee",
+            "href": "https://www.whosdatedwho.com/dating/gypsy-rose-lee",
+            "relationship_type": 3,
+            "start_date": "",
+            "end_date": "",
+            "length": "-",
+            "start_months_since_1900": -1,
+            "end_months_since_1900": -1,
+            "length_in_months": -1
+        }
+    ],
+    "details": {
+        "First Name": "Michael",
+        "Middle Name": "Hirsch",
+        "Last Name": "Todd",
+        "Maiden Name": "NA",
+        "Full Name at Birth": "Avrom Hirsch Goldbogen",
+        "Alternative Name": "Mike Todd",
+        "Birthday": "1909",
+        "Birthplace": "Minnesota",
+        "Height": "NA",
+        "Weight": "NA",
+        "Zodiac Sign": "8",
+        "Sexuality": "Straight",
+        "Religion": "31",
+        "Ethnicity": "6",
+        "Nationality": "91",
+        "Occupation": "9"
+    }
+}

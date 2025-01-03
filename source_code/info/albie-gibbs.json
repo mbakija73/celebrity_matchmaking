@@ -1,0 +1,16 @@
+{
+    "relationships": [
+        {
+            "name": "Ferne McCann",
+            "href": "https://www.whosdatedwho.com/dating/ferne-mccann",
+            "relationship_type": 2,
+            "start_date": "Apr 2020",
+            "end_date": "May 2020",
+            "length": "1 month",
+            "start_months_since_1900": 1443,
+            "end_months_since_1900": 1444,
+            "length_in_months": 1
+        }
+    ],
+    "details": {}
+}

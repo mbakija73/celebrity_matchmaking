@@ -1,0 +1,44 @@
+{
+    "relationships": [
+        {
+            "name": "Anthony Davis",
+            "href": "https://www.whosdatedwho.com/dating/anthony-davis-125354534",
+            "relationship_type": 2,
+            "start_date": "2021",
+            "end_date": "present",
+            "length": "3 years",
+            "start_months_since_1900": 1452,
+            "end_months_since_1900": -1,
+            "length_in_months": 36
+        },
+        {
+            "name": "Zachary Levi",
+            "href": "https://www.whosdatedwho.com/dating/zachary-levi",
+            "relationship_type": 1,
+            "start_date": "",
+            "end_date": "",
+            "length": "-",
+            "start_months_since_1900": -1,
+            "end_months_since_1900": -1,
+            "length_in_months": -1
+        }
+    ],
+    "details": {
+        "First Name": "Yvette",
+        "Middle Name": "Nicole",
+        "Last Name": "Brown",
+        "Maiden Name": "NA",
+        "Full Name at Birth": "Yvette Nicole Brown",
+        "Alternative Name": "Yvette",
+        "Birthday": "1971",
+        "Birthplace": "USA",
+        "Height": "155",
+        "Weight": "128lbs (58 kg)",
+        "Zodiac Sign": "12",
+        "Sexuality": "Straight",
+        "Religion": "18",
+        "Ethnicity": "2",
+        "Nationality": "91",
+        "Occupation": "8"
+    }
+}

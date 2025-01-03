@@ -1,0 +1,66 @@
+{
+    "relationships": [
+        {
+            "name": "Vanessa Williams",
+            "href": "https://www.whosdatedwho.com/dating/vanessa-williams",
+            "relationship_type": 2,
+            "start_date": "1984",
+            "end_date": "1984",
+            "length": "-",
+            "start_months_since_1900": 1008,
+            "end_months_since_1900": 1008,
+            "length_in_months": -1
+        },
+        {
+            "name": "Jenilee Harrison",
+            "href": "https://www.whosdatedwho.com/dating/jenilee-harrison",
+            "relationship_type": 2,
+            "start_date": "Oct 1981",
+            "end_date": "Nov 1981",
+            "length": "1 month",
+            "start_months_since_1900": 981,
+            "end_months_since_1900": 982,
+            "length_in_months": 1
+        },
+        {
+            "name": "Carol Connors",
+            "href": "https://www.whosdatedwho.com/dating/carol-connors-singer",
+            "relationship_type": 3,
+            "start_date": "Jul 1981",
+            "end_date": "Jul 1981",
+            "length": "-",
+            "start_months_since_1900": 978,
+            "end_months_since_1900": 978,
+            "length_in_months": -1
+        },
+        {
+            "name": "BarBara Luna",
+            "href": "https://www.whosdatedwho.com/dating/barbara-luna",
+            "relationship_type": 3,
+            "start_date": "",
+            "end_date": "",
+            "length": "-",
+            "start_months_since_1900": -1,
+            "end_months_since_1900": -1,
+            "length_in_months": -1
+        }
+    ],
+    "details": {
+        "First Name": "Samuel",
+        "Middle Name": "Gerald",
+        "Last Name": "Jones",
+        "Maiden Name": "NA",
+        "Full Name at Birth": "Samuel Gerald Jones",
+        "Alternative Name": "Sam J. Jones, Samuel Gerald Jones, Samuel Jones, Sam Jones",
+        "Birthday": "1954",
+        "Birthplace": "USA",
+        "Height": "193",
+        "Weight": "NA",
+        "Zodiac Sign": "12",
+        "Sexuality": "Straight",
+        "Religion": "1",
+        "Ethnicity": "6",
+        "Nationality": "91",
+        "Occupation": "8"
+    }
+}

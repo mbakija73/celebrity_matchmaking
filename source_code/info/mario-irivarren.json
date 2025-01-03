@@ -1,0 +1,66 @@
+{
+    "relationships": [
+        {
+            "name": "Luciana Fuster",
+            "href": "https://www.whosdatedwho.com/dating/luciana-fuster",
+            "relationship_type": 3,
+            "start_date": "2016",
+            "end_date": "2017",
+            "length": "1 year",
+            "start_months_since_1900": 1392,
+            "end_months_since_1900": 1404,
+            "length_in_months": 12
+        },
+        {
+            "name": "Alondra Garc\u00eda Mir\u00f3",
+            "href": "https://www.whosdatedwho.com/dating/alondra-garcia-miro",
+            "relationship_type": 2,
+            "start_date": "2012",
+            "end_date": "2013",
+            "length": "1 year",
+            "start_months_since_1900": 1344,
+            "end_months_since_1900": 1356,
+            "length_in_months": 12
+        },
+        {
+            "name": "Alejandra Baigorria",
+            "href": "https://www.whosdatedwho.com/dating/alejandra-baigorria",
+            "relationship_type": 3,
+            "start_date": "2011",
+            "end_date": "2011",
+            "length": "-",
+            "start_months_since_1900": 1332,
+            "end_months_since_1900": 1332,
+            "length_in_months": -1
+        },
+        {
+            "name": "Ivana Yturbe",
+            "href": "https://www.whosdatedwho.com/dating/ivana-yturbe",
+            "relationship_type": 1,
+            "start_date": "",
+            "end_date": "",
+            "length": "-",
+            "start_months_since_1900": -1,
+            "end_months_since_1900": -1,
+            "length_in_months": -1
+        }
+    ],
+    "details": {
+        "First Name": "Mario",
+        "Middle Name": "NA",
+        "Last Name": "Irivarren",
+        "Maiden Name": "NA",
+        "Full Name at Birth": "NA",
+        "Alternative Name": "NA",
+        "Birthday": "1991",
+        "Birthplace": "Peru",
+        "Height": "183",
+        "Weight": "NA",
+        "Zodiac Sign": "3",
+        "Sexuality": "Straight",
+        "Religion": "18",
+        "Ethnicity": "8",
+        "Nationality": "124",
+        "Occupation": "11"
+    }
+}

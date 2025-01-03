@@ -1,0 +1,66 @@
+{
+    "relationships": [
+        {
+            "name": "Pressa",
+            "href": "https://www.whosdatedwho.com/dating/pressa-rapper",
+            "relationship_type": 2,
+            "start_date": "Apr 2021",
+            "end_date": "present",
+            "length": "3 years",
+            "start_months_since_1900": 1455,
+            "end_months_since_1900": -1,
+            "length_in_months": 36
+        },
+        {
+            "name": "Blueface",
+            "href": "https://www.whosdatedwho.com/dating/blueface-94970437",
+            "relationship_type": 2,
+            "start_date": "Nov 2020",
+            "end_date": "Jan 2021",
+            "length": "2 months",
+            "start_months_since_1900": 1450,
+            "end_months_since_1900": 1452,
+            "length_in_months": 2
+        },
+        {
+            "name": "Trippie Redd",
+            "href": "https://www.whosdatedwho.com/dating/trippie-redd",
+            "relationship_type": 2,
+            "start_date": "2019",
+            "end_date": "2019",
+            "length": "-",
+            "start_months_since_1900": 1428,
+            "end_months_since_1900": 1428,
+            "length_in_months": -1
+        },
+        {
+            "name": "Gunna",
+            "href": "https://www.whosdatedwho.com/dating/gunna",
+            "relationship_type": 3,
+            "start_date": "2020",
+            "end_date": "2020",
+            "length": "-",
+            "start_months_since_1900": 1440,
+            "end_months_since_1900": 1440,
+            "length_in_months": -1
+        }
+    ],
+    "details": {
+        "First Name": "Coi",
+        "Middle Name": "NA",
+        "Last Name": "Leray",
+        "Maiden Name": "NA",
+        "Full Name at Birth": "Brittany Collins",
+        "Alternative Name": "Coi Leray",
+        "Birthday": "1997",
+        "Birthplace": "USA",
+        "Height": "160",
+        "Weight": "126lbs (57 kg)",
+        "Zodiac Sign": "3",
+        "Sexuality": "Straight",
+        "Religion": "1",
+        "Ethnicity": "8",
+        "Nationality": "91",
+        "Occupation": "1"
+    }
+}

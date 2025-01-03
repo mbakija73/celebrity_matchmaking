@@ -1,0 +1,33 @@
+{
+    "relationships": [
+        {
+            "name": "Billie Holiday",
+            "href": "https://www.whosdatedwho.com/dating/billie-holiday",
+            "relationship_type": 4,
+            "start_date": "Jan 1957",
+            "end_date": "17th Jul 1959",
+            "length": "2 years",
+            "start_months_since_1900": 684,
+            "end_months_since_1900": 714,
+            "length_in_months": 24
+        }
+    ],
+    "details": {
+        "First Name": "Louis",
+        "Middle Name": "NA",
+        "Last Name": "McKay",
+        "Maiden Name": "NA",
+        "Full Name at Birth": "NA",
+        "Alternative Name": "NA",
+        "Birthday": "NA",
+        "Birthplace": "NA",
+        "Height": "NA",
+        "Weight": "NA",
+        "Zodiac Sign": "2",
+        "Sexuality": "NA",
+        "Religion": "1",
+        "Ethnicity": "2",
+        "Nationality": "91",
+        "Occupation": "18"
+    }
+}

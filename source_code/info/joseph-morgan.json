@@ -1,0 +1,55 @@
+{
+    "relationships": [
+        {
+            "name": "Claire Holt",
+            "href": "https://www.whosdatedwho.com/dating/claire-holt",
+            "relationship_type": 3,
+            "start_date": "Oct 2011",
+            "end_date": "Oct 2011",
+            "length": "-",
+            "start_months_since_1900": 1341,
+            "end_months_since_1900": 1341,
+            "length_in_months": -1
+        },
+        {
+            "name": "Persia White",
+            "href": "https://www.whosdatedwho.com/dating/persia-white",
+            "relationship_type": 4,
+            "start_date": "Jun 2011",
+            "end_date": "",
+            "length": "-",
+            "start_months_since_1900": 1337,
+            "end_months_since_1900": -1,
+            "length_in_months": -1
+        },
+        {
+            "name": "Emily VanCamp",
+            "href": "https://www.whosdatedwho.com/dating/emily-vancamp",
+            "relationship_type": 2,
+            "start_date": "Jan 2010",
+            "end_date": "Oct 2011",
+            "length": "1 year",
+            "start_months_since_1900": 1320,
+            "end_months_since_1900": 1341,
+            "length_in_months": 12
+        }
+    ],
+    "details": {
+        "First Name": "Joseph",
+        "Middle Name": "NA",
+        "Last Name": "Morgan",
+        "Maiden Name": "NA",
+        "Full Name at Birth": "Joseph Martin",
+        "Alternative Name": "Jomo, Nik, Klaus, Joseph Martin, Joseph Morgan",
+        "Birthday": "1981",
+        "Birthplace": "UK",
+        "Height": "180",
+        "Weight": "140lbs (64 kg)",
+        "Zodiac Sign": "3",
+        "Sexuality": "Straight",
+        "Religion": "1",
+        "Ethnicity": "6",
+        "Nationality": "8",
+        "Occupation": "8"
+    }
+}

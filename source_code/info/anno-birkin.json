@@ -1,0 +1,44 @@
+{
+    "relationships": [
+        {
+            "name": "Milla Jovovich",
+            "href": "https://www.whosdatedwho.com/dating/milla-jovovich",
+            "relationship_type": 2,
+            "start_date": "Dec 2000",
+            "end_date": "8th Nov 2001",
+            "length": "11 months",
+            "start_months_since_1900": 1211,
+            "end_months_since_1900": 1222,
+            "length_in_months": 11
+        },
+        {
+            "name": "Honeysuckle Weeks",
+            "href": "https://www.whosdatedwho.com/dating/honeysuckle-weeks",
+            "relationship_type": 2,
+            "start_date": "",
+            "end_date": "",
+            "length": "-",
+            "start_months_since_1900": -1,
+            "end_months_since_1900": -1,
+            "length_in_months": -1
+        }
+    ],
+    "details": {
+        "First Name": "Anno",
+        "Middle Name": "NA",
+        "Last Name": "Birkin",
+        "Maiden Name": "NA",
+        "Full Name at Birth": "Alexander Kingdom Nik-o Birkin",
+        "Alternative Name": "Anno Birkin",
+        "Birthday": "1980",
+        "Birthplace": "England",
+        "Height": "NA",
+        "Weight": "NA",
+        "Zodiac Sign": "6",
+        "Sexuality": "Straight",
+        "Religion": "1",
+        "Ethnicity": "6",
+        "Nationality": "98",
+        "Occupation": "1"
+    }
+}

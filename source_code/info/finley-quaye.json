@@ -1,0 +1,66 @@
+{
+    "relationships": [
+        {
+            "name": "Gail Porter",
+            "href": "https://www.whosdatedwho.com/dating/gail-porter",
+            "relationship_type": 3,
+            "start_date": "2000",
+            "end_date": "2000",
+            "length": "-",
+            "start_months_since_1900": 1200,
+            "end_months_since_1900": 1200,
+            "length_in_months": -1
+        },
+        {
+            "name": "Paula Yates",
+            "href": "https://www.whosdatedwho.com/dating/paula-yates",
+            "relationship_type": 2,
+            "start_date": "1999",
+            "end_date": "1999",
+            "length": "-",
+            "start_months_since_1900": 1188,
+            "end_months_since_1900": 1188,
+            "length_in_months": -1
+        },
+        {
+            "name": "Natalie Imbruglia",
+            "href": "https://www.whosdatedwho.com/dating/natalie-imbruglia",
+            "relationship_type": 3,
+            "start_date": "1998",
+            "end_date": "1998",
+            "length": "-",
+            "start_months_since_1900": 1176,
+            "end_months_since_1900": 1176,
+            "length_in_months": -1
+        },
+        {
+            "name": "Annabelle Neilson",
+            "href": "https://www.whosdatedwho.com/dating/annabelle-neilson",
+            "relationship_type": 2,
+            "start_date": "",
+            "end_date": "",
+            "length": "-",
+            "start_months_since_1900": -1,
+            "end_months_since_1900": -1,
+            "length_in_months": -1
+        }
+    ],
+    "details": {
+        "First Name": "Finley",
+        "Middle Name": "NA",
+        "Last Name": "Quaye",
+        "Maiden Name": "NA",
+        "Full Name at Birth": "Finley Quaye",
+        "Alternative Name": "NA",
+        "Birthday": "1974",
+        "Birthplace": "Scotland",
+        "Height": "NA",
+        "Weight": "NA",
+        "Zodiac Sign": "7",
+        "Sexuality": "NA",
+        "Religion": "1",
+        "Ethnicity": "8",
+        "Nationality": "8",
+        "Occupation": "1"
+    }
+}

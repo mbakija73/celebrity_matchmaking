@@ -1,0 +1,44 @@
+{
+    "relationships": [
+        {
+            "name": "Adam Levine",
+            "href": "https://www.whosdatedwho.com/dating/adam-levine",
+            "relationship_type": 3,
+            "start_date": "2008",
+            "end_date": "2008",
+            "length": "-",
+            "start_months_since_1900": 1296,
+            "end_months_since_1900": 1296,
+            "length_in_months": -1
+        },
+        {
+            "name": "Hugh Hefner",
+            "href": "https://www.whosdatedwho.com/dating/hugh-m-hefner",
+            "relationship_type": 3,
+            "start_date": "2006",
+            "end_date": "2006",
+            "length": "-",
+            "start_months_since_1900": 1272,
+            "end_months_since_1900": 1272,
+            "length_in_months": -1
+        }
+    ],
+    "details": {
+        "First Name": "Janine",
+        "Middle Name": "Carmen",
+        "Last Name": "Habeck",
+        "Maiden Name": "NA",
+        "Full Name at Birth": "Janine Carmen Habeck",
+        "Alternative Name": "Miss September 2006, Janine Carmen Habeck, Janine Habeck",
+        "Birthday": "1983",
+        "Birthplace": "Germany",
+        "Height": "168",
+        "Weight": "110lbs (50 kg)",
+        "Zodiac Sign": "4",
+        "Sexuality": "Straight",
+        "Religion": "1",
+        "Ethnicity": "6",
+        "Nationality": "55",
+        "Occupation": "16"
+    }
+}

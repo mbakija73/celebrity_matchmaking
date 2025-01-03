@@ -1,0 +1,77 @@
+{
+    "relationships": [
+        {
+            "name": "Amanda Pays",
+            "href": "https://www.whosdatedwho.com/dating/amanda-pays",
+            "relationship_type": 4,
+            "start_date": "Jun 1987",
+            "end_date": "present",
+            "length": "37 years",
+            "start_months_since_1900": 1049,
+            "end_months_since_1900": -1,
+            "length_in_months": 444
+        },
+        {
+            "name": "Vanna White",
+            "href": "https://www.whosdatedwho.com/dating/vanna-white",
+            "relationship_type": 2,
+            "start_date": "1985",
+            "end_date": "1985",
+            "length": "-",
+            "start_months_since_1900": 1020,
+            "end_months_since_1900": 1020,
+            "length_in_months": -1
+        },
+        {
+            "name": "Brenda Cooper",
+            "href": "https://www.whosdatedwho.com/dating/brenda-cooper",
+            "relationship_type": 4,
+            "start_date": "1980",
+            "end_date": "1987",
+            "length": "7 years",
+            "start_months_since_1900": 960,
+            "end_months_since_1900": 1044,
+            "length_in_months": 84
+        },
+        {
+            "name": "Heather Thomas",
+            "href": "https://www.whosdatedwho.com/dating/heather-thomas",
+            "relationship_type": 2,
+            "start_date": "1976",
+            "end_date": "1976",
+            "length": "-",
+            "start_months_since_1900": 912,
+            "end_months_since_1900": 912,
+            "length_in_months": -1
+        },
+        {
+            "name": "Donna Mills",
+            "href": "https://www.whosdatedwho.com/dating/donna-mills",
+            "relationship_type": 1,
+            "start_date": "",
+            "end_date": "",
+            "length": "-",
+            "start_months_since_1900": -1,
+            "end_months_since_1900": -1,
+            "length_in_months": -1
+        }
+    ],
+    "details": {
+        "First Name": "Corbin",
+        "Middle Name": "Dean",
+        "Last Name": "Bernsen",
+        "Maiden Name": "NA",
+        "Full Name at Birth": "Corbin Dean Bernsen",
+        "Alternative Name": "NA",
+        "Birthday": "1954",
+        "Birthplace": "USA",
+        "Height": "180",
+        "Weight": "NA",
+        "Zodiac Sign": "11",
+        "Sexuality": "Straight",
+        "Religion": "36",
+        "Ethnicity": "6",
+        "Nationality": "91",
+        "Occupation": "8"
+    }
+}

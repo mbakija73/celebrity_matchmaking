@@ -1,0 +1,55 @@
+{
+    "relationships": [
+        {
+            "name": "Arthur Aguiar",
+            "href": "https://www.whosdatedwho.com/dating/arthur-aguiar",
+            "relationship_type": 3,
+            "start_date": "Apr 2011",
+            "end_date": "Jun 2011",
+            "length": "2 months",
+            "start_months_since_1900": 1335,
+            "end_months_since_1900": 1337,
+            "length_in_months": 2
+        },
+        {
+            "name": "Miguel R\u00f4mulo",
+            "href": "https://www.whosdatedwho.com/dating/miguel-romulo",
+            "relationship_type": 2,
+            "start_date": "Nov 2010",
+            "end_date": "Aug 2012",
+            "length": "1 year",
+            "start_months_since_1900": 1330,
+            "end_months_since_1900": 1351,
+            "length_in_months": 12
+        },
+        {
+            "name": "Rafael Almeida",
+            "href": "https://www.whosdatedwho.com/dating/rafael-almeida",
+            "relationship_type": 2,
+            "start_date": "Dec 2006",
+            "end_date": "Nov 2009",
+            "length": "2 years",
+            "start_months_since_1900": 1283,
+            "end_months_since_1900": 1318,
+            "length_in_months": 24
+        }
+    ],
+    "details": {
+        "First Name": "P\u00e9rola",
+        "Middle Name": "Silvestre",
+        "Last Name": "Faria",
+        "Maiden Name": "NA",
+        "Full Name at Birth": "P\u00e9rola Ligeiro Silvestre de Faria",
+        "Alternative Name": "P\u00e9rola Faria",
+        "Birthday": "1991",
+        "Birthplace": "Brazil",
+        "Height": "NA",
+        "Weight": "NA",
+        "Zodiac Sign": "12",
+        "Sexuality": "Straight",
+        "Religion": "1",
+        "Ethnicity": "6",
+        "Nationality": "87",
+        "Occupation": "8"
+    }
+}

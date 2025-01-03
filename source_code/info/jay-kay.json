@@ -1,0 +1,99 @@
+{
+    "relationships": [
+        {
+            "name": "Amy Nuttall",
+            "href": "https://www.whosdatedwho.com/dating/amy-nuttall",
+            "relationship_type": 2,
+            "start_date": "Nov 2006",
+            "end_date": "Jan 2007",
+            "length": "2 months",
+            "start_months_since_1900": 1282,
+            "end_months_since_1900": 1284,
+            "length_in_months": 2
+        },
+        {
+            "name": "Heidi Klum",
+            "href": "https://www.whosdatedwho.com/dating/heidi-klum",
+            "relationship_type": 2,
+            "start_date": "2003",
+            "end_date": "2003",
+            "length": "-",
+            "start_months_since_1900": 1236,
+            "end_months_since_1900": 1236,
+            "length_in_months": -1
+        },
+        {
+            "name": "Kylie Minogue",
+            "href": "https://www.whosdatedwho.com/dating/kylie-minogue",
+            "relationship_type": 2,
+            "start_date": "2003",
+            "end_date": "2003",
+            "length": "-",
+            "start_months_since_1900": 1236,
+            "end_months_since_1900": 1236,
+            "length_in_months": -1
+        },
+        {
+            "name": "Lisa Butcher",
+            "href": "https://www.whosdatedwho.com/dating/lisa-butcher",
+            "relationship_type": 3,
+            "start_date": "2002",
+            "end_date": "2002",
+            "length": "-",
+            "start_months_since_1900": 1224,
+            "end_months_since_1900": 1224,
+            "length_in_months": -1
+        },
+        {
+            "name": "Denise Van Outen",
+            "href": "https://www.whosdatedwho.com/dating/denise-van-outen",
+            "relationship_type": 2,
+            "start_date": "1998",
+            "end_date": "2001",
+            "length": "3 years",
+            "start_months_since_1900": 1176,
+            "end_months_since_1900": 1212,
+            "length_in_months": 36
+        },
+        {
+            "name": "Martine McCutcheon",
+            "href": "https://www.whosdatedwho.com/dating/martine-mccutcheon",
+            "relationship_type": 1,
+            "start_date": "",
+            "end_date": "",
+            "length": "-",
+            "start_months_since_1900": -1,
+            "end_months_since_1900": -1,
+            "length_in_months": -1
+        },
+        {
+            "name": "Catherine McQueen",
+            "href": "https://www.whosdatedwho.com/dating/catherine-mcqueen",
+            "relationship_type": 2,
+            "start_date": "",
+            "end_date": "",
+            "length": "-",
+            "start_months_since_1900": -1,
+            "end_months_since_1900": -1,
+            "length_in_months": -1
+        }
+    ],
+    "details": {
+        "First Name": "Jay",
+        "Middle Name": "NA",
+        "Last Name": "Kay",
+        "Maiden Name": "NA",
+        "Full Name at Birth": "Jason Cheetham",
+        "Alternative Name": "Jason Kay",
+        "Birthday": "1969",
+        "Birthplace": "England",
+        "Height": "175",
+        "Weight": "NA",
+        "Zodiac Sign": "13",
+        "Sexuality": "Straight",
+        "Religion": "1",
+        "Ethnicity": "6",
+        "Nationality": "8",
+        "Occupation": "1"
+    }
+}

@@ -1,0 +1,77 @@
+{
+    "relationships": [
+        {
+            "name": "Tom Sizemore",
+            "href": "https://www.whosdatedwho.com/dating/tom-sizemore",
+            "relationship_type": 2,
+            "start_date": "2006",
+            "end_date": "2006",
+            "length": "-",
+            "start_months_since_1900": 1272,
+            "end_months_since_1900": 1272,
+            "length_in_months": -1
+        },
+        {
+            "name": "John Paul Jones",
+            "href": "https://www.whosdatedwho.com/dating/john-paul-jones",
+            "relationship_type": 3,
+            "start_date": "2006",
+            "end_date": "2006",
+            "length": "-",
+            "start_months_since_1900": 1272,
+            "end_months_since_1900": 1272,
+            "length_in_months": -1
+        },
+        {
+            "name": "Thierry Curial De Brevannes",
+            "href": "https://www.whosdatedwho.com/dating/thierry-curial-de-brevannes",
+            "relationship_type": 3,
+            "start_date": "1993",
+            "end_date": "1993",
+            "length": "-",
+            "start_months_since_1900": 1116,
+            "end_months_since_1900": 1116,
+            "length_in_months": -1
+        },
+        {
+            "name": "John Hurt",
+            "href": "https://www.whosdatedwho.com/dating/john-hurt",
+            "relationship_type": 3,
+            "start_date": "1980",
+            "end_date": "1980",
+            "length": "-",
+            "start_months_since_1900": 960,
+            "end_months_since_1900": 960,
+            "length_in_months": -1
+        },
+        {
+            "name": "John Entwistle",
+            "href": "https://www.whosdatedwho.com/dating/john-entwistle",
+            "relationship_type": 4,
+            "start_date": "1978",
+            "end_date": "1997",
+            "length": "19 years",
+            "start_months_since_1900": 936,
+            "end_months_since_1900": 1164,
+            "length_in_months": 228
+        }
+    ],
+    "details": {
+        "First Name": "Maxine",
+        "Middle Name": "NA",
+        "Last Name": "Entwistle",
+        "Maiden Name": "Harlow",
+        "Full Name at Birth": "Maxene Harlow",
+        "Alternative Name": "NA",
+        "Birthday": "1956",
+        "Birthplace": "NA",
+        "Height": "NA",
+        "Weight": "NA",
+        "Zodiac Sign": "7",
+        "Sexuality": "Straight",
+        "Religion": "1",
+        "Ethnicity": "6",
+        "Nationality": "91",
+        "Occupation": "18"
+    }
+}

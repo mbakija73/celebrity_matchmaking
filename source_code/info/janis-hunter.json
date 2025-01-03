@@ -1,0 +1,66 @@
+{
+    "relationships": [
+        {
+            "name": "Teddy Pendergrass",
+            "href": "https://www.whosdatedwho.com/dating/teddy-pendergrass",
+            "relationship_type": 2,
+            "start_date": "1980",
+            "end_date": "1981",
+            "length": "1 year",
+            "start_months_since_1900": 960,
+            "end_months_since_1900": 972,
+            "length_in_months": 12
+        },
+        {
+            "name": "Marvin Gaye",
+            "href": "https://www.whosdatedwho.com/dating/marvin-gaye",
+            "relationship_type": 4,
+            "start_date": "Mar 1973",
+            "end_date": "Nov 1979",
+            "length": "6 years",
+            "start_months_since_1900": 878,
+            "end_months_since_1900": 958,
+            "length_in_months": 72
+        },
+        {
+            "name": "Rick James",
+            "href": "https://www.whosdatedwho.com/dating/rick-james",
+            "relationship_type": 3,
+            "start_date": "",
+            "end_date": "",
+            "length": "-",
+            "start_months_since_1900": -1,
+            "end_months_since_1900": -1,
+            "length_in_months": -1
+        },
+        {
+            "name": "Frankie Beverly",
+            "href": "https://www.whosdatedwho.com/dating/frankie-beverly",
+            "relationship_type": 2,
+            "start_date": "",
+            "end_date": "",
+            "length": "-",
+            "start_months_since_1900": -1,
+            "end_months_since_1900": -1,
+            "length_in_months": -1
+        }
+    ],
+    "details": {
+        "First Name": "Janis",
+        "Middle Name": "Elizabeth",
+        "Last Name": "Hunter",
+        "Maiden Name": "NA",
+        "Full Name at Birth": "Janis Elizabeth Hunter",
+        "Alternative Name": "Janis Elizabeth Hunter Gaye, Janis Gaye, Jan Gaye, Janis Hunter, Janis Hunter Gaye, Janis Elizabeth Hunter",
+        "Birthday": "1956",
+        "Birthplace": "USA",
+        "Height": "NA",
+        "Weight": "NA",
+        "Zodiac Sign": "13",
+        "Sexuality": "Straight",
+        "Religion": "1",
+        "Ethnicity": "8",
+        "Nationality": "91",
+        "Occupation": "8"
+    }
+}

@@ -1,0 +1,44 @@
+{
+    "relationships": [
+        {
+            "name": "Sue Barlach",
+            "href": "https://www.whosdatedwho.com/dating/sue-barlach",
+            "relationship_type": 4,
+            "start_date": "1959",
+            "end_date": "1976",
+            "length": "17 years",
+            "start_months_since_1900": 708,
+            "end_months_since_1900": 912,
+            "length_in_months": 204
+        },
+        {
+            "name": "Virginia Roberts Giuffre",
+            "href": "https://www.whosdatedwho.com/dating/virginia-roberts-activist",
+            "relationship_type": 3,
+            "start_date": "2001",
+            "end_date": "2001",
+            "length": "-",
+            "start_months_since_1900": 1212,
+            "end_months_since_1900": 1212,
+            "length_in_months": -1
+        }
+    ],
+    "details": {
+        "First Name": "Alan",
+        "Middle Name": "M.",
+        "Last Name": "Dershowitz",
+        "Maiden Name": "NA",
+        "Full Name at Birth": "Alan Morton Dershowitz",
+        "Alternative Name": "Alan Dershowitz, Dr. Alan Dershowitz, Prof Alan Dershowitz, Prof. Alan Dershowitz, Professor Alan Dershowitz",
+        "Birthday": "1938",
+        "Birthplace": "New York",
+        "Height": "NA",
+        "Weight": "NA",
+        "Zodiac Sign": "11",
+        "Sexuality": "Straight",
+        "Religion": "31",
+        "Ethnicity": "6",
+        "Nationality": "91",
+        "Occupation": "5"
+    }
+}

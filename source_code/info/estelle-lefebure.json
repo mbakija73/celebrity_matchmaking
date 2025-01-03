@@ -1,0 +1,66 @@
+{
+    "relationships": [
+        {
+            "name": "Pascal",
+            "href": "https://www.whosdatedwho.com/dating/pascal",
+            "relationship_type": 2,
+            "start_date": "2009",
+            "end_date": "",
+            "length": "-",
+            "start_months_since_1900": 1308,
+            "end_months_since_1900": -1,
+            "length_in_months": -1
+        },
+        {
+            "name": "Pascal Ramette",
+            "href": "https://www.whosdatedwho.com/dating/pascal-ramette",
+            "relationship_type": 2,
+            "start_date": "2009",
+            "end_date": "present",
+            "length": "15 years",
+            "start_months_since_1900": 1308,
+            "end_months_since_1900": -1,
+            "length_in_months": 180
+        },
+        {
+            "name": "Arthur",
+            "href": "https://www.whosdatedwho.com/dating/arthur",
+            "relationship_type": 4,
+            "start_date": "2003",
+            "end_date": "Apr 2008",
+            "length": "5 years",
+            "start_months_since_1900": 1236,
+            "end_months_since_1900": 1299,
+            "length_in_months": 60
+        },
+        {
+            "name": "David Hallyday",
+            "href": "https://www.whosdatedwho.com/dating/david-hallyday",
+            "relationship_type": 4,
+            "start_date": "1989",
+            "end_date": "2001",
+            "length": "12 years",
+            "start_months_since_1900": 1068,
+            "end_months_since_1900": 1212,
+            "length_in_months": 144
+        }
+    ],
+    "details": {
+        "First Name": "Estelle",
+        "Middle Name": "NA",
+        "Last Name": "Lef\u00e9bure",
+        "Maiden Name": "NA",
+        "Full Name at Birth": "Estelle Lef\u00e9bure",
+        "Alternative Name": "Estelle Hallyday, Estelle Essebag",
+        "Birthday": "1966",
+        "Birthplace": "Rouen",
+        "Height": "175",
+        "Weight": "NA",
+        "Zodiac Sign": "3",
+        "Sexuality": "Straight",
+        "Religion": "1",
+        "Ethnicity": "6",
+        "Nationality": "86",
+        "Occupation": "15"
+    }
+}

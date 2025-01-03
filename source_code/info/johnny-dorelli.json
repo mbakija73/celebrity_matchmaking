@@ -1,0 +1,66 @@
+{
+    "relationships": [
+        {
+            "name": "Gloria Guida",
+            "href": "https://www.whosdatedwho.com/dating/gloria-guida",
+            "relationship_type": 4,
+            "start_date": "1981",
+            "end_date": "",
+            "length": "-",
+            "start_months_since_1900": 972,
+            "end_months_since_1900": -1,
+            "length_in_months": -1
+        },
+        {
+            "name": "Ursula Andress",
+            "href": "https://www.whosdatedwho.com/dating/ursula-andress",
+            "relationship_type": 3,
+            "start_date": "Sep 1976",
+            "end_date": "Sep 1976",
+            "length": "-",
+            "start_months_since_1900": 920,
+            "end_months_since_1900": 920,
+            "length_in_months": -1
+        },
+        {
+            "name": "Catherine Spaak",
+            "href": "https://www.whosdatedwho.com/dating/catherine-spaak",
+            "relationship_type": 4,
+            "start_date": "1968",
+            "end_date": "1978",
+            "length": "10 years",
+            "start_months_since_1900": 816,
+            "end_months_since_1900": 936,
+            "length_in_months": 120
+        },
+        {
+            "name": "Lauretta Masiero",
+            "href": "https://www.whosdatedwho.com/dating/lauretta-masiero",
+            "relationship_type": 2,
+            "start_date": "",
+            "end_date": "",
+            "length": "-",
+            "start_months_since_1900": -1,
+            "end_months_since_1900": -1,
+            "length_in_months": -1
+        }
+    ],
+    "details": {
+        "First Name": "Johnny",
+        "Middle Name": "NA",
+        "Last Name": "Dorelli",
+        "Maiden Name": "NA",
+        "Full Name at Birth": "Giorgio Guidi",
+        "Alternative Name": "D.Johnny, Dorellik",
+        "Birthday": "1937",
+        "Birthplace": "Italy",
+        "Height": "NA",
+        "Weight": "NA",
+        "Zodiac Sign": "1",
+        "Sexuality": "Straight",
+        "Religion": "1",
+        "Ethnicity": "6",
+        "Nationality": "139",
+        "Occupation": "8"
+    }
+}

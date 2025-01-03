@@ -1,0 +1,55 @@
+{
+    "relationships": [
+        {
+            "name": "Thomas Helmig",
+            "href": "https://www.whosdatedwho.com/dating/thomas-helmig",
+            "relationship_type": 4,
+            "start_date": "1997",
+            "end_date": "present",
+            "length": "27 years",
+            "start_months_since_1900": 1164,
+            "end_months_since_1900": -1,
+            "length_in_months": 324
+        },
+        {
+            "name": "Kristian Sandvad",
+            "href": "https://www.whosdatedwho.com/dating/kristian-sandvad",
+            "relationship_type": 2,
+            "start_date": "1990",
+            "end_date": "Dec 1995",
+            "length": "5 years",
+            "start_months_since_1900": 1080,
+            "end_months_since_1900": 1151,
+            "length_in_months": 60
+        },
+        {
+            "name": "John Taylor",
+            "href": "https://www.whosdatedwho.com/dating/john-taylor",
+            "relationship_type": 2,
+            "start_date": "1986",
+            "end_date": "1989",
+            "length": "3 years",
+            "start_months_since_1900": 1032,
+            "end_months_since_1900": 1068,
+            "length_in_months": 36
+        }
+    ],
+    "details": {
+        "First Name": "Renee",
+        "Middle Name": "NA",
+        "Last Name": "Simonsen",
+        "Maiden Name": "NA",
+        "Full Name at Birth": "Ren\u00e9e Toft Simonsen",
+        "Alternative Name": "NA",
+        "Birthday": "1965",
+        "Birthplace": "Denmark",
+        "Height": "178",
+        "Weight": "NA",
+        "Zodiac Sign": "3",
+        "Sexuality": "Straight",
+        "Religion": "1",
+        "Ethnicity": "6",
+        "Nationality": "50",
+        "Occupation": "15"
+    }
+}

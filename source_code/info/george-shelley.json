@@ -1,0 +1,66 @@
+{
+    "relationships": [
+        {
+            "name": "Matthew Holehouse",
+            "href": "https://www.whosdatedwho.com/dating/matthew-holehouse",
+            "relationship_type": 2,
+            "start_date": "2017",
+            "end_date": "present",
+            "length": "7 years",
+            "start_months_since_1900": 1404,
+            "end_months_since_1900": -1,
+            "length_in_months": 84
+        },
+        {
+            "name": "Lilah Parsons",
+            "href": "https://www.whosdatedwho.com/dating/lilah-parsons",
+            "relationship_type": 2,
+            "start_date": "3rd Jun 2016",
+            "end_date": "",
+            "length": "-",
+            "start_months_since_1900": 1397,
+            "end_months_since_1900": -1,
+            "length_in_months": -1
+        },
+        {
+            "name": "Jesy Nelson",
+            "href": "https://www.whosdatedwho.com/dating/jesy-nelson",
+            "relationship_type": 3,
+            "start_date": "2013",
+            "end_date": "2013",
+            "length": "-",
+            "start_months_since_1900": 1356,
+            "end_months_since_1900": 1356,
+            "length_in_months": -1
+        },
+        {
+            "name": "Ella Henderson",
+            "href": "https://www.whosdatedwho.com/dating/ella-henderson",
+            "relationship_type": 2,
+            "start_date": "Nov 2012",
+            "end_date": "Mar 2013",
+            "length": "4 months",
+            "start_months_since_1900": 1354,
+            "end_months_since_1900": 1358,
+            "length_in_months": 4
+        }
+    ],
+    "details": {
+        "First Name": "George",
+        "Middle Name": "Paul",
+        "Last Name": "Shelley",
+        "Maiden Name": "NA",
+        "Full Name at Birth": "George Paul Shelley",
+        "Alternative Name": "George",
+        "Birthday": "1993",
+        "Birthplace": "England",
+        "Height": "178",
+        "Weight": "170lbs (77 kg)",
+        "Zodiac Sign": "12",
+        "Sexuality": "Gay",
+        "Religion": "1",
+        "Ethnicity": "6",
+        "Nationality": "8",
+        "Occupation": "1"
+    }
+}

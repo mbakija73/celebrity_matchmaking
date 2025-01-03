@@ -1,0 +1,33 @@
+{
+    "relationships": [
+        {
+            "name": "Grace Jones",
+            "href": "https://www.whosdatedwho.com/dating/grace-jones",
+            "relationship_type": 3,
+            "start_date": "1985",
+            "end_date": "1985",
+            "length": "-",
+            "start_months_since_1900": 1020,
+            "end_months_since_1900": 1020,
+            "length_in_months": -1
+        }
+    ],
+    "details": {
+        "First Name": "Chris",
+        "Middle Name": "NA",
+        "Last Name": "Makepeace",
+        "Maiden Name": "NA",
+        "Full Name at Birth": "NA",
+        "Alternative Name": "NA",
+        "Birthday": "1964",
+        "Birthplace": "Canada",
+        "Height": "175",
+        "Weight": "NA",
+        "Zodiac Sign": "3",
+        "Sexuality": "NA",
+        "Religion": "1",
+        "Ethnicity": "6",
+        "Nationality": "90",
+        "Occupation": "8"
+    }
+}

@@ -1,0 +1,55 @@
+{
+    "relationships": [
+        {
+            "name": "Domino Kirke",
+            "href": "https://www.whosdatedwho.com/dating/domino-kirke",
+            "relationship_type": 4,
+            "start_date": "2014",
+            "end_date": "present",
+            "length": "10 years",
+            "start_months_since_1900": 1368,
+            "end_months_since_1900": -1,
+            "length_in_months": 120
+        },
+        {
+            "name": "Zo\u00eb Kravitz",
+            "href": "https://www.whosdatedwho.com/dating/zoe-kravitz",
+            "relationship_type": 2,
+            "start_date": "Jul 2011",
+            "end_date": "Jun 2013",
+            "length": "1 year",
+            "start_months_since_1900": 1338,
+            "end_months_since_1900": 1361,
+            "length_in_months": 12
+        },
+        {
+            "name": "Blake Lively",
+            "href": "https://www.whosdatedwho.com/dating/blake-lively",
+            "relationship_type": 2,
+            "start_date": "May 2007",
+            "end_date": "Sep 2010",
+            "length": "3 years",
+            "start_months_since_1900": 1288,
+            "end_months_since_1900": 1328,
+            "length_in_months": 36
+        }
+    ],
+    "details": {
+        "First Name": "Penn",
+        "Middle Name": "Dayton",
+        "Last Name": "Badgley",
+        "Maiden Name": "NA",
+        "Full Name at Birth": "Penn Dayton Badgley",
+        "Alternative Name": "NA",
+        "Birthday": "1986",
+        "Birthplace": "Maryland",
+        "Height": "178",
+        "Weight": "NA",
+        "Zodiac Sign": "5",
+        "Sexuality": "Straight",
+        "Religion": "1",
+        "Ethnicity": "6",
+        "Nationality": "91",
+        "Occupation": "8"
+    }
+}

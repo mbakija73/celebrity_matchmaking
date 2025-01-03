@@ -1,0 +1,55 @@
+{
+    "relationships": [
+        {
+            "name": "Anthony Quinn",
+            "href": "https://www.whosdatedwho.com/dating/anthony-quinn",
+            "relationship_type": 4,
+            "start_date": "1936",
+            "end_date": "Jan 1965",
+            "length": "29 years",
+            "start_months_since_1900": 432,
+            "end_months_since_1900": 780,
+            "length_in_months": 348
+        },
+        {
+            "name": "Clark Gable",
+            "href": "https://www.whosdatedwho.com/dating/clark-gable",
+            "relationship_type": 2,
+            "start_date": "Dec 1934",
+            "end_date": "Mar 1935",
+            "length": "3 months",
+            "start_months_since_1900": 419,
+            "end_months_since_1900": 422,
+            "length_in_months": 3
+        },
+        {
+            "name": "Cary Grant",
+            "href": "https://www.whosdatedwho.com/dating/cary-grant",
+            "relationship_type": 3,
+            "start_date": "",
+            "end_date": "",
+            "length": "-",
+            "start_months_since_1900": -1,
+            "end_months_since_1900": -1,
+            "length_in_months": -1
+        }
+    ],
+    "details": {
+        "First Name": "Katherine",
+        "Middle Name": "Paula",
+        "Last Name": "Demille",
+        "Maiden Name": "Lester",
+        "Full Name at Birth": "Katherine Paula Lester",
+        "Alternative Name": "Katherine De Mille",
+        "Birthday": "1911",
+        "Birthplace": "Canada",
+        "Height": "162",
+        "Weight": "NA",
+        "Zodiac Sign": "8",
+        "Sexuality": "Straight",
+        "Religion": "1",
+        "Ethnicity": "6",
+        "Nationality": "91",
+        "Occupation": "8"
+    }
+}

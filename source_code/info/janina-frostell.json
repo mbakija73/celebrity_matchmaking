@@ -1,0 +1,88 @@
+{
+    "relationships": [
+        {
+            "name": "Mark Fry",
+            "href": "https://www.whosdatedwho.com/dating/mark-fry",
+            "relationship_type": 4,
+            "start_date": "2004",
+            "end_date": "",
+            "length": "-",
+            "start_months_since_1900": 1248,
+            "end_months_since_1900": -1,
+            "length_in_months": -1
+        },
+        {
+            "name": "Iiro Sepp\u00e4nen",
+            "href": "https://www.whosdatedwho.com/dating/iiro-seppanen",
+            "relationship_type": 2,
+            "start_date": "2002",
+            "end_date": "2002",
+            "length": "-",
+            "start_months_since_1900": 1224,
+            "end_months_since_1900": 1224,
+            "length_in_months": -1
+        },
+        {
+            "name": "Alberto Tomba",
+            "href": "https://www.whosdatedwho.com/dating/alberto-tomba",
+            "relationship_type": 2,
+            "start_date": "2000",
+            "end_date": "2001",
+            "length": "1 year",
+            "start_months_since_1900": 1200,
+            "end_months_since_1900": 1212,
+            "length_in_months": 12
+        },
+        {
+            "name": "Petri Alanko",
+            "href": "https://www.whosdatedwho.com/dating/petri-alanko",
+            "relationship_type": 2,
+            "start_date": "2000",
+            "end_date": "2000",
+            "length": "-",
+            "start_months_since_1900": 1200,
+            "end_months_since_1900": 1200,
+            "length_in_months": -1
+        },
+        {
+            "name": "Peter Nyg\u00e5rd",
+            "href": "https://www.whosdatedwho.com/dating/peter-nygard",
+            "relationship_type": 2,
+            "start_date": "Mar 1998",
+            "end_date": "Apr 1998",
+            "length": "1 month",
+            "start_months_since_1900": 1178,
+            "end_months_since_1900": 1179,
+            "length_in_months": 1
+        },
+        {
+            "name": "Peter B\u00e4cklund",
+            "href": "https://www.whosdatedwho.com/dating/peter-backlund",
+            "relationship_type": 2,
+            "start_date": "1995",
+            "end_date": "Jan 1998",
+            "length": "3 years",
+            "start_months_since_1900": 1140,
+            "end_months_since_1900": 1176,
+            "length_in_months": 36
+        }
+    ],
+    "details": {
+        "First Name": "Janina",
+        "Middle Name": "P\u00e4iv\u00e4ns\u00e4de",
+        "Last Name": "Fry",
+        "Maiden Name": "Frostell",
+        "Full Name at Birth": "Janina P\u00e4iv\u00e4ns\u00e4de Frostell",
+        "Alternative Name": "Janina Fry, Janina P\u00e4iv\u00e4ns\u00e4de Frostell, Janina Frostell",
+        "Birthday": "1973",
+        "Birthplace": "Finland",
+        "Height": "173",
+        "Weight": "NA",
+        "Zodiac Sign": "5",
+        "Sexuality": "Straight",
+        "Religion": "26",
+        "Ethnicity": "6",
+        "Nationality": "22",
+        "Occupation": "15"
+    }
+}

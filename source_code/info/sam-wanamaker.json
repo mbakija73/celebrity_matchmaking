@@ -1,0 +1,44 @@
+{
+    "relationships": [
+        {
+            "name": "Jan Sterling",
+            "href": "https://www.whosdatedwho.com/dating/jan-sterling",
+            "relationship_type": 2,
+            "start_date": "1972",
+            "end_date": "18th Dec 1993",
+            "length": "21 years",
+            "start_months_since_1900": 864,
+            "end_months_since_1900": 1127,
+            "length_in_months": 252
+        },
+        {
+            "name": "Charlotte Holland",
+            "href": "https://www.whosdatedwho.com/dating/charlotte-holland",
+            "relationship_type": 4,
+            "start_date": "",
+            "end_date": "",
+            "length": "-",
+            "start_months_since_1900": -1,
+            "end_months_since_1900": -1,
+            "length_in_months": -1
+        }
+    ],
+    "details": {
+        "First Name": "Sam",
+        "Middle Name": "NA",
+        "Last Name": "Wanamaker",
+        "Maiden Name": "NA",
+        "Full Name at Birth": "Samuel Watenmaker",
+        "Alternative Name": "Samuel Watenmaker, Sam Wanamaker, Samuel Wanamaker",
+        "Birthday": "1919",
+        "Birthplace": "USA",
+        "Height": "NA",
+        "Weight": "NA",
+        "Zodiac Sign": "4",
+        "Sexuality": "Straight",
+        "Religion": "31",
+        "Ethnicity": "6",
+        "Nationality": "91",
+        "Occupation": "8"
+    }
+}

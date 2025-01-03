@@ -1,0 +1,99 @@
+{
+    "relationships": [
+        {
+            "name": "Scott Rigsby",
+            "href": "https://www.whosdatedwho.com/dating/scott-rigsby",
+            "relationship_type": 2,
+            "start_date": "2019",
+            "end_date": "present",
+            "length": "5 years",
+            "start_months_since_1900": 1428,
+            "end_months_since_1900": -1,
+            "length_in_months": 60
+        },
+        {
+            "name": "Oliver Trevena",
+            "href": "https://www.whosdatedwho.com/dating/oliver-trevena",
+            "relationship_type": 2,
+            "start_date": "Nov 2017",
+            "end_date": "2018",
+            "length": "2 months",
+            "start_months_since_1900": 1414,
+            "end_months_since_1900": 1416,
+            "length_in_months": 2
+        },
+        {
+            "name": "David Charvet",
+            "href": "https://www.whosdatedwho.com/dating/david-charvet",
+            "relationship_type": 4,
+            "start_date": "Aug 2005",
+            "end_date": "6th Apr 2018",
+            "length": "12 years",
+            "start_months_since_1900": 1267,
+            "end_months_since_1900": 1419,
+            "length_in_months": 144
+        },
+        {
+            "name": "Garth Fisher",
+            "href": "https://www.whosdatedwho.com/dating/garth-fisher",
+            "relationship_type": 4,
+            "start_date": "1999",
+            "end_date": "Jul 2005",
+            "length": "6 years",
+            "start_months_since_1900": 1188,
+            "end_months_since_1900": 1266,
+            "length_in_months": 72
+        },
+        {
+            "name": "Shawn Ray",
+            "href": "https://www.whosdatedwho.com/dating/shawn-ray",
+            "relationship_type": 2,
+            "start_date": "Apr 1988",
+            "end_date": "Aug 1992",
+            "length": "4 years",
+            "start_months_since_1900": 1059,
+            "end_months_since_1900": 1111,
+            "length_in_months": 48
+        },
+        {
+            "name": "Dana Gold",
+            "href": "https://www.whosdatedwho.com/dating/dana-gold",
+            "relationship_type": 1,
+            "start_date": "",
+            "end_date": "",
+            "length": "-",
+            "start_months_since_1900": -1,
+            "end_months_since_1900": -1,
+            "length_in_months": -1
+        },
+        {
+            "name": "Jerry Buss",
+            "href": "https://www.whosdatedwho.com/dating/jerry-buss",
+            "relationship_type": 2,
+            "start_date": "",
+            "end_date": "",
+            "length": "-",
+            "start_months_since_1900": -1,
+            "end_months_since_1900": -1,
+            "length_in_months": -1
+        }
+    ],
+    "details": {
+        "First Name": "Brooke",
+        "Middle Name": "Lisa",
+        "Last Name": "Burke",
+        "Maiden Name": "NA",
+        "Full Name at Birth": "Brooke Lisa Burke",
+        "Alternative Name": "Brooke Burke-Charvet, Brooke Burke",
+        "Birthday": "1971",
+        "Birthplace": "United States",
+        "Height": "170",
+        "Weight": "112lbs (51 kg)",
+        "Zodiac Sign": "11",
+        "Sexuality": "Straight",
+        "Religion": "31",
+        "Ethnicity": "6",
+        "Nationality": "91",
+        "Occupation": "11"
+    }
+}

@@ -1,0 +1,55 @@
+{
+    "relationships": [
+        {
+            "name": "Ethel Barrymore",
+            "href": "https://www.whosdatedwho.com/dating/ethel-barrymore",
+            "relationship_type": 1,
+            "start_date": "",
+            "end_date": "",
+            "length": "-",
+            "start_months_since_1900": -1,
+            "end_months_since_1900": -1,
+            "length_in_months": -1
+        },
+        {
+            "name": "Blanche Yurka",
+            "href": "https://www.whosdatedwho.com/dating/blanche-yurka",
+            "relationship_type": 1,
+            "start_date": "",
+            "end_date": "",
+            "length": "-",
+            "start_months_since_1900": -1,
+            "end_months_since_1900": -1,
+            "length_in_months": -1
+        },
+        {
+            "name": "Francesca Bertini",
+            "href": "https://www.whosdatedwho.com/dating/francesca-bertini",
+            "relationship_type": 0,
+            "start_date": "",
+            "end_date": "",
+            "length": "-",
+            "start_months_since_1900": -1,
+            "end_months_since_1900": -1,
+            "length_in_months": -1
+        }
+    ],
+    "details": {
+        "First Name": "Rose",
+        "Middle Name": "NA",
+        "Last Name": "Dione",
+        "Maiden Name": "NA",
+        "Full Name at Birth": "Rose Dione",
+        "Alternative Name": "Madame Rose, Madame Dione",
+        "Birthday": "1875",
+        "Birthplace": "France",
+        "Height": "173",
+        "Weight": "NA",
+        "Zodiac Sign": "10",
+        "Sexuality": "Lesbian",
+        "Religion": "1",
+        "Ethnicity": "6",
+        "Nationality": "86",
+        "Occupation": "8"
+    }
+}

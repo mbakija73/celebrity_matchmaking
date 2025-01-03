@@ -1,0 +1,44 @@
+{
+    "relationships": [
+        {
+            "name": "Ben Price (i)",
+            "href": "https://www.whosdatedwho.com/dating/ben-price-born-1986",
+            "relationship_type": 4,
+            "start_date": "1958",
+            "end_date": "Feb 1986",
+            "length": "28 years",
+            "start_months_since_1900": 696,
+            "end_months_since_1900": 1033,
+            "length_in_months": 336
+        },
+        {
+            "name": "Oliver Hardy",
+            "href": "https://www.whosdatedwho.com/dating/oliver-hardy",
+            "relationship_type": 4,
+            "start_date": "Jul 1939",
+            "end_date": "Aug 1957",
+            "length": "18 years",
+            "start_months_since_1900": 474,
+            "end_months_since_1900": 691,
+            "length_in_months": 216
+        }
+    ],
+    "details": {
+        "First Name": "Virginia",
+        "Middle Name": "Lucille",
+        "Last Name": "Jones",
+        "Maiden Name": "NA",
+        "Full Name at Birth": "Virginia Lucille Jones",
+        "Alternative Name": "NA",
+        "Birthday": "1909",
+        "Birthplace": "USA",
+        "Height": "NA",
+        "Weight": "NA",
+        "Zodiac Sign": "3",
+        "Sexuality": "Straight",
+        "Religion": "1",
+        "Ethnicity": "1",
+        "Nationality": "91",
+        "Occupation": "9"
+    }
+}

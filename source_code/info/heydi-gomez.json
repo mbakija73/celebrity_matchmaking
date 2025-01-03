@@ -1,0 +1,44 @@
+{
+    "relationships": [
+        {
+            "name": "Stephanie Stumph",
+            "href": "https://www.whosdatedwho.com/dating/stephanie-stumph",
+            "relationship_type": 3,
+            "start_date": "May 2008",
+            "end_date": "May 2008",
+            "length": "-",
+            "start_months_since_1900": 1300,
+            "end_months_since_1900": 1300,
+            "length_in_months": -1
+        },
+        {
+            "name": "Boris Becker",
+            "href": "https://www.whosdatedwho.com/dating/boris-becker",
+            "relationship_type": 2,
+            "start_date": "Sep 2001",
+            "end_date": "Oct 2001",
+            "length": "1 month",
+            "start_months_since_1900": 1220,
+            "end_months_since_1900": 1221,
+            "length_in_months": 1
+        }
+    ],
+    "details": {
+        "First Name": "Heydi",
+        "Middle Name": "NA",
+        "Last Name": "Gomez",
+        "Maiden Name": "NA",
+        "Full Name at Birth": "Heydi N\u00fa\u00f1ez G\u00f3mez",
+        "Alternative Name": "NA",
+        "Birthday": "NA",
+        "Birthplace": "Santo Domingo",
+        "Height": "170",
+        "Weight": "NA",
+        "Zodiac Sign": "2",
+        "Sexuality": "Bisexual",
+        "Religion": "13",
+        "Ethnicity": "8",
+        "Nationality": "33",
+        "Occupation": "15"
+    }
+}

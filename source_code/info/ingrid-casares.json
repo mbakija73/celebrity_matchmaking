@@ -1,0 +1,66 @@
+{
+    "relationships": [
+        {
+            "name": "Lauren Holly",
+            "href": "https://www.whosdatedwho.com/dating/lauren-holly",
+            "relationship_type": 1,
+            "start_date": "Sep 1997",
+            "end_date": "Dec 1997",
+            "length": "3 months",
+            "start_months_since_1900": 1172,
+            "end_months_since_1900": 1175,
+            "length_in_months": 3
+        },
+        {
+            "name": "Madonna",
+            "href": "https://www.whosdatedwho.com/dating/madonna",
+            "relationship_type": 2,
+            "start_date": "1992",
+            "end_date": "1994",
+            "length": "2 years",
+            "start_months_since_1900": 1104,
+            "end_months_since_1900": 1128,
+            "length_in_months": 24
+        },
+        {
+            "name": "Chris Paciello",
+            "href": "https://www.whosdatedwho.com/dating/chris-paciello",
+            "relationship_type": 3,
+            "start_date": "",
+            "end_date": "",
+            "length": "-",
+            "start_months_since_1900": -1,
+            "end_months_since_1900": -1,
+            "length_in_months": -1
+        },
+        {
+            "name": "Sandra Bernhard",
+            "href": "https://www.whosdatedwho.com/dating/sandra-bernhard",
+            "relationship_type": 2,
+            "start_date": "",
+            "end_date": "",
+            "length": "-",
+            "start_months_since_1900": -1,
+            "end_months_since_1900": -1,
+            "length_in_months": -1
+        }
+    ],
+    "details": {
+        "First Name": "Ingrid",
+        "Middle Name": "NA",
+        "Last Name": "Casares",
+        "Maiden Name": "NA",
+        "Full Name at Birth": "NA",
+        "Alternative Name": "NA",
+        "Birthday": "NA",
+        "Birthplace": "Miami",
+        "Height": "NA",
+        "Weight": "NA",
+        "Zodiac Sign": "2",
+        "Sexuality": "Lesbian",
+        "Religion": "1",
+        "Ethnicity": "8",
+        "Nationality": "91",
+        "Occupation": "7"
+    }
+}

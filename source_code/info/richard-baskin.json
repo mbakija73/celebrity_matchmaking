@@ -1,0 +1,44 @@
+{
+    "relationships": [
+        {
+            "name": "Isabella Rossellini",
+            "href": "https://www.whosdatedwho.com/dating/isabella-rossellini",
+            "relationship_type": 3,
+            "start_date": "May 1991",
+            "end_date": "May 1991",
+            "length": "-",
+            "start_months_since_1900": 1096,
+            "end_months_since_1900": 1096,
+            "length_in_months": -1
+        },
+        {
+            "name": "Barbra Streisand",
+            "href": "https://www.whosdatedwho.com/dating/barbra-streisand",
+            "relationship_type": 2,
+            "start_date": "1983",
+            "end_date": "1987",
+            "length": "4 years",
+            "start_months_since_1900": 996,
+            "end_months_since_1900": 1044,
+            "length_in_months": 48
+        }
+    ],
+    "details": {
+        "First Name": "Richard",
+        "Middle Name": "NA",
+        "Last Name": "Baskin",
+        "Maiden Name": "NA",
+        "Full Name at Birth": "NA",
+        "Alternative Name": "NA",
+        "Birthday": "1948",
+        "Birthplace": "California",
+        "Height": "NA",
+        "Weight": "NA",
+        "Zodiac Sign": "6",
+        "Sexuality": "NA",
+        "Religion": "31",
+        "Ethnicity": "6",
+        "Nationality": "91",
+        "Occupation": "1"
+    }
+}

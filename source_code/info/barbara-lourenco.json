@@ -1,0 +1,55 @@
+{
+    "relationships": [
+        {
+            "name": "David Carreira",
+            "href": "https://www.whosdatedwho.com/dating/david-carreira",
+            "relationship_type": 3,
+            "start_date": "Sep 2017",
+            "end_date": "Sep 2017",
+            "length": "-",
+            "start_months_since_1900": 1412,
+            "end_months_since_1900": 1412,
+            "length_in_months": -1
+        },
+        {
+            "name": "Diogo Amaral",
+            "href": "https://www.whosdatedwho.com/dating/diogo-amaral",
+            "relationship_type": 2,
+            "start_date": "Apr 2017",
+            "end_date": "Aug 2017",
+            "length": "4 months",
+            "start_months_since_1900": 1407,
+            "end_months_since_1900": 1411,
+            "length_in_months": 4
+        },
+        {
+            "name": "Carlos Sousa",
+            "href": "https://www.whosdatedwho.com/dating/carlos-sousa",
+            "relationship_type": 3,
+            "start_date": "",
+            "end_date": "",
+            "length": "-",
+            "start_months_since_1900": -1,
+            "end_months_since_1900": -1,
+            "length_in_months": -1
+        }
+    ],
+    "details": {
+        "First Name": "B\u00e1rbara",
+        "Middle Name": "NA",
+        "Last Name": "Louren\u00e7o",
+        "Maiden Name": "NA",
+        "Full Name at Birth": "NA",
+        "Alternative Name": "NA",
+        "Birthday": "NA",
+        "Birthplace": "NA",
+        "Height": "167",
+        "Weight": "NA",
+        "Zodiac Sign": "2",
+        "Sexuality": "Straight",
+        "Religion": "13",
+        "Ethnicity": "6",
+        "Nationality": "77",
+        "Occupation": "8"
+    }
+}

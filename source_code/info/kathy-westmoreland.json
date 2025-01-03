@@ -1,0 +1,33 @@
+{
+    "relationships": [
+        {
+            "name": "Elvis Presley",
+            "href": "https://www.whosdatedwho.com/dating/elvis-presley",
+            "relationship_type": 3,
+            "start_date": "Aug 1976",
+            "end_date": "Oct 1976",
+            "length": "2 months",
+            "start_months_since_1900": 919,
+            "end_months_since_1900": 921,
+            "length_in_months": 2
+        }
+    ],
+    "details": {
+        "First Name": "Katherine",
+        "Middle Name": "NA",
+        "Last Name": "Westmoreland",
+        "Maiden Name": "NA",
+        "Full Name at Birth": "Katherine Westmoreland",
+        "Alternative Name": "Kathy Westmoreland, Katherine Westmoreland",
+        "Birthday": "1945",
+        "Birthplace": "USA",
+        "Height": "156",
+        "Weight": "NA",
+        "Zodiac Sign": "12",
+        "Sexuality": "Straight",
+        "Religion": "1",
+        "Ethnicity": "6",
+        "Nationality": "91",
+        "Occupation": "1"
+    }
+}

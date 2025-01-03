@@ -1,0 +1,110 @@
+{
+    "relationships": [
+        {
+            "name": "Elizabeth Taylor",
+            "href": "https://www.whosdatedwho.com/dating/elizabeth-taylor",
+            "relationship_type": 2,
+            "start_date": "1996",
+            "end_date": "9th Jul 2002",
+            "length": "6 years",
+            "start_months_since_1900": 1152,
+            "end_months_since_1900": 1230,
+            "length_in_months": 72
+        },
+        {
+            "name": "Paula Ellis",
+            "href": "https://www.whosdatedwho.com/dating/paula-ellis",
+            "relationship_type": 4,
+            "start_date": "1986",
+            "end_date": "1997",
+            "length": "11 years",
+            "start_months_since_1900": 1032,
+            "end_months_since_1900": 1164,
+            "length_in_months": 132
+        },
+        {
+            "name": "Sherry Nelson",
+            "href": "https://www.whosdatedwho.com/dating/sherry-nelson",
+            "relationship_type": 4,
+            "start_date": "1973",
+            "end_date": "1979",
+            "length": "6 years",
+            "start_months_since_1900": 876,
+            "end_months_since_1900": 948,
+            "length_in_months": 72
+        },
+        {
+            "name": "Joan Benedict Steiger",
+            "href": "https://www.whosdatedwho.com/dating/joan-benedict-steiger",
+            "relationship_type": 4,
+            "start_date": "1959",
+            "end_date": "Jul 2002",
+            "length": "43 years",
+            "start_months_since_1900": 708,
+            "end_months_since_1900": 1230,
+            "length_in_months": 516
+        },
+        {
+            "name": "Claire Bloom",
+            "href": "https://www.whosdatedwho.com/dating/claire-bloom",
+            "relationship_type": 4,
+            "start_date": "1957",
+            "end_date": "10th Jun 1969",
+            "length": "12 years",
+            "start_months_since_1900": 684,
+            "end_months_since_1900": 833,
+            "length_in_months": 144
+        },
+        {
+            "name": "Diana Dors",
+            "href": "https://www.whosdatedwho.com/dating/diana-dors",
+            "relationship_type": 2,
+            "start_date": "Aug 1956",
+            "end_date": "Nov 1957",
+            "length": "1 year",
+            "start_months_since_1900": 679,
+            "end_months_since_1900": 694,
+            "length_in_months": 12
+        },
+        {
+            "name": "Valerie French",
+            "href": "https://www.whosdatedwho.com/dating/valerie-french",
+            "relationship_type": 2,
+            "start_date": "Apr 1956",
+            "end_date": "Aug 1956",
+            "length": "4 months",
+            "start_months_since_1900": 675,
+            "end_months_since_1900": 679,
+            "length_in_months": 4
+        },
+        {
+            "name": "Sally Gracie",
+            "href": "https://www.whosdatedwho.com/dating/sally-gracie",
+            "relationship_type": 4,
+            "start_date": "1952",
+            "end_date": "1958",
+            "length": "6 years",
+            "start_months_since_1900": 624,
+            "end_months_since_1900": 696,
+            "length_in_months": 72
+        }
+    ],
+    "details": {
+        "First Name": "Rod",
+        "Middle Name": "Stephen",
+        "Last Name": "Steiger",
+        "Maiden Name": "NA",
+        "Full Name at Birth": "Rodney Stephen Steiger",
+        "Alternative Name": "NA",
+        "Birthday": "1925",
+        "Birthplace": "USA",
+        "Height": "178",
+        "Weight": "NA",
+        "Zodiac Sign": "7",
+        "Sexuality": "Straight",
+        "Religion": "28",
+        "Ethnicity": "6",
+        "Nationality": "91",
+        "Occupation": "8"
+    }
+}

@@ -1,0 +1,33 @@
+{
+    "relationships": [
+        {
+            "name": "Monica Lewinsky",
+            "href": "https://www.whosdatedwho.com/dating/monica-lewinsky",
+            "relationship_type": 2,
+            "start_date": "1993",
+            "end_date": "1994",
+            "length": "1 year",
+            "start_months_since_1900": 1116,
+            "end_months_since_1900": 1128,
+            "length_in_months": 12
+        }
+    ],
+    "details": {
+        "First Name": "Andrew",
+        "Middle Name": "NA",
+        "Last Name": "Bleiler",
+        "Maiden Name": "NA",
+        "Full Name at Birth": "NA",
+        "Alternative Name": "Andy Bleiler",
+        "Birthday": "NA",
+        "Birthplace": "NA",
+        "Height": "NA",
+        "Weight": "NA",
+        "Zodiac Sign": "2",
+        "Sexuality": "Straight",
+        "Religion": "1",
+        "Ethnicity": "6",
+        "Nationality": "91",
+        "Occupation": "19"
+    }
+}

@@ -1,0 +1,88 @@
+{
+    "relationships": [
+        {
+            "name": "Capa Mooty",
+            "href": "https://www.whosdatedwho.com/dating/capa-mooty",
+            "relationship_type": 4,
+            "start_date": "2016",
+            "end_date": "",
+            "length": "-",
+            "start_months_since_1900": 1392,
+            "end_months_since_1900": -1,
+            "length_in_months": -1
+        },
+        {
+            "name": "Abigail Klein",
+            "href": "https://www.whosdatedwho.com/dating/abigail-klein-actress",
+            "relationship_type": 3,
+            "start_date": "2012",
+            "end_date": "2012",
+            "length": "-",
+            "start_months_since_1900": 1344,
+            "end_months_since_1900": 1344,
+            "length_in_months": -1
+        },
+        {
+            "name": "Rhonda Worthey",
+            "href": "https://www.whosdatedwho.com/dating/rhonda-worthey",
+            "relationship_type": 4,
+            "start_date": "2000",
+            "end_date": "2011",
+            "length": "11 years",
+            "start_months_since_1900": 1200,
+            "end_months_since_1900": 1332,
+            "length_in_months": 132
+        },
+        {
+            "name": "Sandra Bullock",
+            "href": "https://www.whosdatedwho.com/dating/sandra-bullock",
+            "relationship_type": 2,
+            "start_date": "Nov 1995",
+            "end_date": "Feb 2014",
+            "length": "18 years",
+            "start_months_since_1900": 1150,
+            "end_months_since_1900": 1369,
+            "length_in_months": 216
+        },
+        {
+            "name": "Lorrie Morgan",
+            "href": "https://www.whosdatedwho.com/dating/lorrie-morgan",
+            "relationship_type": 2,
+            "start_date": "1989",
+            "end_date": "1991",
+            "length": "2 years",
+            "start_months_since_1900": 1068,
+            "end_months_since_1900": 1092,
+            "length_in_months": 24
+        },
+        {
+            "name": "Janine Turner",
+            "href": "https://www.whosdatedwho.com/dating/janine-turner",
+            "relationship_type": 2,
+            "start_date": "",
+            "end_date": "",
+            "length": "-",
+            "start_months_since_1900": -1,
+            "end_months_since_1900": -1,
+            "length_in_months": -1
+        }
+    ],
+    "details": {
+        "First Name": "Troy",
+        "Middle Name": "Kenneth",
+        "Last Name": "Aikman",
+        "Maiden Name": "NA",
+        "Full Name at Birth": "Troy Kenneth Aikman",
+        "Alternative Name": "The Godfather, Roy",
+        "Birthday": "1966",
+        "Birthplace": "USA",
+        "Height": "193",
+        "Weight": "219lbs (99 kg)",
+        "Zodiac Sign": "5",
+        "Sexuality": "Straight",
+        "Religion": "28",
+        "Ethnicity": "6",
+        "Nationality": "91",
+        "Occupation": "2"
+    }
+}

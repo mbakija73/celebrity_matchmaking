@@ -1,0 +1,66 @@
+{
+    "relationships": [
+        {
+            "name": "Stephen Moyer",
+            "href": "https://www.whosdatedwho.com/dating/stephen-moyer",
+            "relationship_type": 4,
+            "start_date": "Jul 2007",
+            "end_date": "present",
+            "length": "17 years",
+            "start_months_since_1900": 1290,
+            "end_months_since_1900": -1,
+            "length_in_months": 204
+        },
+        {
+            "name": "Kieran Culkin",
+            "href": "https://www.whosdatedwho.com/dating/kieran-culkin",
+            "relationship_type": 2,
+            "start_date": "Feb 2005",
+            "end_date": "Dec 2006",
+            "length": "1 year",
+            "start_months_since_1900": 1261,
+            "end_months_since_1900": 1283,
+            "length_in_months": 12
+        },
+        {
+            "name": "Logan Marshall-Green",
+            "href": "https://www.whosdatedwho.com/dating/logan-marshall-green",
+            "relationship_type": 2,
+            "start_date": "May 2004",
+            "end_date": "May 2005",
+            "length": "1 year",
+            "start_months_since_1900": 1252,
+            "end_months_since_1900": 1264,
+            "length_in_months": 12
+        },
+        {
+            "name": "Joaquin Phoenix",
+            "href": "https://www.whosdatedwho.com/dating/joaquin-phoenix",
+            "relationship_type": 2,
+            "start_date": "Jan 2001",
+            "end_date": "Oct 2001",
+            "length": "9 months",
+            "start_months_since_1900": 1212,
+            "end_months_since_1900": 1221,
+            "length_in_months": 9
+        }
+    ],
+    "details": {
+        "First Name": "Anna",
+        "Middle Name": "Helene",
+        "Last Name": "Moyer",
+        "Maiden Name": "Paquin",
+        "Full Name at Birth": "Anna Helene Paquin",
+        "Alternative Name": "Anna Moyer",
+        "Birthday": "1982",
+        "Birthplace": "Canada",
+        "Height": "163",
+        "Weight": "108lbs (49 kg)",
+        "Zodiac Sign": "12",
+        "Sexuality": "Bisexual",
+        "Religion": "22",
+        "Ethnicity": "6",
+        "Nationality": "90",
+        "Occupation": "8"
+    }
+}

@@ -1,0 +1,88 @@
+{
+    "relationships": [
+        {
+            "name": "Gary Collins",
+            "href": "https://www.whosdatedwho.com/dating/gary-collins",
+            "relationship_type": 4,
+            "start_date": "Nov 1966",
+            "end_date": "Oct 2012",
+            "length": "45 years",
+            "start_months_since_1900": 802,
+            "end_months_since_1900": 1353,
+            "length_in_months": 540
+        },
+        {
+            "name": "Lee Majors",
+            "href": "https://www.whosdatedwho.com/dating/lee-majors",
+            "relationship_type": 2,
+            "start_date": "1966",
+            "end_date": "1966",
+            "length": "-",
+            "start_months_since_1900": 792,
+            "end_months_since_1900": 792,
+            "length_in_months": -1
+        },
+        {
+            "name": "Robert Vaughn",
+            "href": "https://www.whosdatedwho.com/dating/robert-vaughn",
+            "relationship_type": 2,
+            "start_date": "1966",
+            "end_date": "1966",
+            "length": "-",
+            "start_months_since_1900": 792,
+            "end_months_since_1900": 792,
+            "length_in_months": -1
+        },
+        {
+            "name": "Elvis Presley",
+            "href": "https://www.whosdatedwho.com/dating/elvis-presley",
+            "relationship_type": 3,
+            "start_date": "1965",
+            "end_date": "1965",
+            "length": "-",
+            "start_months_since_1900": 780,
+            "end_months_since_1900": 780,
+            "length_in_months": -1
+        },
+        {
+            "name": "James Drury",
+            "href": "https://www.whosdatedwho.com/dating/james-drury",
+            "relationship_type": 2,
+            "start_date": "1964",
+            "end_date": "1965",
+            "length": "1 year",
+            "start_months_since_1900": 768,
+            "end_months_since_1900": 780,
+            "length_in_months": 12
+        },
+        {
+            "name": "James Mitchum",
+            "href": "https://www.whosdatedwho.com/dating/james-mitchum",
+            "relationship_type": 3,
+            "start_date": "Jul 1962",
+            "end_date": "Aug 1962",
+            "length": "1 month",
+            "start_months_since_1900": 750,
+            "end_months_since_1900": 751,
+            "length_in_months": 1
+        }
+    ],
+    "details": {
+        "First Name": "Mary",
+        "Middle Name": "Ann",
+        "Last Name": "Collins",
+        "Maiden Name": "Mobley",
+        "Full Name at Birth": "Mary Ann Mobley",
+        "Alternative Name": "Mary Collins",
+        "Birthday": "1937",
+        "Birthplace": "USA",
+        "Height": "165",
+        "Weight": "114lbs (52 kg)",
+        "Zodiac Sign": "9",
+        "Sexuality": "Straight",
+        "Religion": "1",
+        "Ethnicity": "6",
+        "Nationality": "91",
+        "Occupation": "8"
+    }
+}

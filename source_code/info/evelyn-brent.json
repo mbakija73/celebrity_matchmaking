@@ -1,0 +1,77 @@
+{
+    "relationships": [
+        {
+            "name": "Howard Hughes",
+            "href": "https://www.whosdatedwho.com/dating/howard-hughes",
+            "relationship_type": 3,
+            "start_date": "1928",
+            "end_date": "1928",
+            "length": "-",
+            "start_months_since_1900": 336,
+            "end_months_since_1900": 336,
+            "length_in_months": -1
+        },
+        {
+            "name": "Gary Cooper",
+            "href": "https://www.whosdatedwho.com/dating/gary-cooper",
+            "relationship_type": 2,
+            "start_date": "Jul 1927",
+            "end_date": "Sep 1927",
+            "length": "2 months",
+            "start_months_since_1900": 330,
+            "end_months_since_1900": 332,
+            "length_in_months": 2
+        },
+        {
+            "name": "B.P. Fineman",
+            "href": "https://www.whosdatedwho.com/dating/b-p-fineman",
+            "relationship_type": 4,
+            "start_date": "1921",
+            "end_date": "1921",
+            "length": "-",
+            "start_months_since_1900": 252,
+            "end_months_since_1900": 252,
+            "length_in_months": -1
+        },
+        {
+            "name": "Harry D. Edwards",
+            "href": "https://www.whosdatedwho.com/dating/harry-d-edwards",
+            "relationship_type": 4,
+            "start_date": "",
+            "end_date": "",
+            "length": "-",
+            "start_months_since_1900": -1,
+            "end_months_since_1900": -1,
+            "length_in_months": -1
+        },
+        {
+            "name": "Harry Fox",
+            "href": "https://www.whosdatedwho.com/dating/harry-fox",
+            "relationship_type": 4,
+            "start_date": "",
+            "end_date": "Jul 1959",
+            "length": "-",
+            "start_months_since_1900": -1,
+            "end_months_since_1900": 714,
+            "length_in_months": -1
+        }
+    ],
+    "details": {
+        "First Name": "Evelyn",
+        "Middle Name": "Elizabeth",
+        "Last Name": "Brent",
+        "Maiden Name": "NA",
+        "Full Name at Birth": "Mary Elizabeth Riggs",
+        "Alternative Name": "Evelyn Brent",
+        "Birthday": "1901",
+        "Birthplace": "Florida",
+        "Height": "157",
+        "Weight": "NA",
+        "Zodiac Sign": "10",
+        "Sexuality": "Straight",
+        "Religion": "1",
+        "Ethnicity": "6",
+        "Nationality": "91",
+        "Occupation": "8"
+    }
+}

@@ -1,0 +1,66 @@
+{
+    "relationships": [
+        {
+            "name": "Peggy Maley",
+            "href": "https://www.whosdatedwho.com/dating/peggy-maley",
+            "relationship_type": 2,
+            "start_date": "Sep 1957",
+            "end_date": "Oct 1957",
+            "length": "1 month",
+            "start_months_since_1900": 692,
+            "end_months_since_1900": 693,
+            "length_in_months": 1
+        },
+        {
+            "name": "Nancy Valentine",
+            "href": "https://www.whosdatedwho.com/dating/nancy-valentine",
+            "relationship_type": 4,
+            "start_date": "1955",
+            "end_date": "Jan 1958",
+            "length": "3 years",
+            "start_months_since_1900": 660,
+            "end_months_since_1900": 696,
+            "length_in_months": 36
+        },
+        {
+            "name": "Sharon Lee",
+            "href": "https://www.whosdatedwho.com/dating/sharon-lee",
+            "relationship_type": 4,
+            "start_date": "",
+            "end_date": "",
+            "length": "-",
+            "start_months_since_1900": -1,
+            "end_months_since_1900": -1,
+            "length_in_months": -1
+        },
+        {
+            "name": "Iris Flores",
+            "href": "https://www.whosdatedwho.com/dating/iris-flores",
+            "relationship_type": 4,
+            "start_date": "",
+            "end_date": "",
+            "length": "-",
+            "start_months_since_1900": -1,
+            "end_months_since_1900": -1,
+            "length_in_months": -1
+        }
+    ],
+    "details": {
+        "First Name": "Frederick",
+        "Middle Name": "NA",
+        "Last Name": "Tillinghast",
+        "Maiden Name": "NA",
+        "Full Name at Birth": "Frederick Tillinghast III",
+        "Alternative Name": "Frederick \"Ted\" Tillinghast III",
+        "Birthday": "1920",
+        "Birthplace": "USA",
+        "Height": "NA",
+        "Weight": "NA",
+        "Zodiac Sign": "5",
+        "Sexuality": "NA",
+        "Religion": "1",
+        "Ethnicity": "1",
+        "Nationality": "65",
+        "Occupation": "19"
+    }
+}

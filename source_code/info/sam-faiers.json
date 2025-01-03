@@ -1,0 +1,88 @@
+{
+    "relationships": [
+        {
+            "name": "Paul Knightley",
+            "href": "https://www.whosdatedwho.com/dating/paul-knightley",
+            "relationship_type": 2,
+            "start_date": "Oct 2014",
+            "end_date": "Oct 2014",
+            "length": "-",
+            "start_months_since_1900": 1377,
+            "end_months_since_1900": 1377,
+            "length_in_months": -1
+        },
+        {
+            "name": "Joey Essex",
+            "href": "https://www.whosdatedwho.com/dating/joey-essex",
+            "relationship_type": 2,
+            "start_date": "Nov 2011",
+            "end_date": "Aug 2014",
+            "length": "2 years",
+            "start_months_since_1900": 1342,
+            "end_months_since_1900": 1375,
+            "length_in_months": 24
+        },
+        {
+            "name": "Tj McCarthy",
+            "href": "https://www.whosdatedwho.com/dating/tj-mccarthy",
+            "relationship_type": 2,
+            "start_date": "Sep 2011",
+            "end_date": "Sep 2011",
+            "length": "-",
+            "start_months_since_1900": 1340,
+            "end_months_since_1900": 1340,
+            "length_in_months": -1
+        },
+        {
+            "name": "Mark Wright",
+            "href": "https://www.whosdatedwho.com/dating/mark-wright",
+            "relationship_type": 3,
+            "start_date": "May 2011",
+            "end_date": "Nov 2011",
+            "length": "6 months",
+            "start_months_since_1900": 1336,
+            "end_months_since_1900": 1342,
+            "length_in_months": 6
+        },
+        {
+            "name": "Scott Timlin",
+            "href": "https://www.whosdatedwho.com/dating/scott-timlin",
+            "relationship_type": 1,
+            "start_date": "",
+            "end_date": "",
+            "length": "-",
+            "start_months_since_1900": -1,
+            "end_months_since_1900": -1,
+            "length_in_months": -1
+        },
+        {
+            "name": "Lewis Bloor",
+            "href": "https://www.whosdatedwho.com/dating/lewis-bloor",
+            "relationship_type": 2,
+            "start_date": "",
+            "end_date": "",
+            "length": "-",
+            "start_months_since_1900": -1,
+            "end_months_since_1900": -1,
+            "length_in_months": -1
+        }
+    ],
+    "details": {
+        "First Name": "Samantha",
+        "Middle Name": "Elizabeth",
+        "Last Name": "NA",
+        "Maiden Name": "Faiers",
+        "Full Name at Birth": "Samantha Elizabeth Faiers",
+        "Alternative Name": "Samantha Faiers, Samantha Elizabeth Faiers, Sam Faiers",
+        "Birthday": "1990",
+        "Birthplace": "UK",
+        "Height": "168",
+        "Weight": "126lbs (57 kg)",
+        "Zodiac Sign": "13",
+        "Sexuality": "Straight",
+        "Religion": "1",
+        "Ethnicity": "6",
+        "Nationality": "8",
+        "Occupation": "11"
+    }
+}

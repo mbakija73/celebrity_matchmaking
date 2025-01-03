@@ -1,0 +1,77 @@
+{
+    "relationships": [
+        {
+            "name": "Abbi Jacobson",
+            "href": "https://www.whosdatedwho.com/dating/abbi-jacobson",
+            "relationship_type": 2,
+            "start_date": "Oct 2016",
+            "end_date": "Oct 2016",
+            "length": "-",
+            "start_months_since_1900": 1401,
+            "end_months_since_1900": 1401,
+            "length_in_months": -1
+        },
+        {
+            "name": "Taylor Schilling",
+            "href": "https://www.whosdatedwho.com/dating/taylor-schilling",
+            "relationship_type": 2,
+            "start_date": "Mar 2015",
+            "end_date": "Jul 2016",
+            "length": "1 year",
+            "start_months_since_1900": 1382,
+            "end_months_since_1900": 1398,
+            "length_in_months": 12
+        },
+        {
+            "name": "St. Vincent",
+            "href": "https://www.whosdatedwho.com/dating/st-vincent",
+            "relationship_type": 2,
+            "start_date": "2012",
+            "end_date": "2013",
+            "length": "1 year",
+            "start_months_since_1900": 1344,
+            "end_months_since_1900": 1356,
+            "length_in_months": 12
+        },
+        {
+            "name": "Corin Tucker",
+            "href": "https://www.whosdatedwho.com/dating/corin-tucker",
+            "relationship_type": 2,
+            "start_date": "1995",
+            "end_date": "1997",
+            "length": "2 years",
+            "start_months_since_1900": 1140,
+            "end_months_since_1900": 1164,
+            "length_in_months": 24
+        },
+        {
+            "name": "Fred Armisen",
+            "href": "https://www.whosdatedwho.com/dating/fred-armisen",
+            "relationship_type": 1,
+            "start_date": "",
+            "end_date": "",
+            "length": "-",
+            "start_months_since_1900": -1,
+            "end_months_since_1900": -1,
+            "length_in_months": -1
+        }
+    ],
+    "details": {
+        "First Name": "Carrie",
+        "Middle Name": "Rachel Grace",
+        "Last Name": "Brownstein",
+        "Maiden Name": "NA",
+        "Full Name at Birth": "Carrie Rachel Grace Brownstein",
+        "Alternative Name": "Carrie Kinney, Carrie Rachel Brownstein, Carrie, Carrie Rachel Grace Brownstein, Carrie Brownstein",
+        "Birthday": "1974",
+        "Birthplace": "USA",
+        "Height": "165",
+        "Weight": "121lbs (55 kg)",
+        "Zodiac Sign": "10",
+        "Sexuality": "Bisexual",
+        "Religion": "31",
+        "Ethnicity": "6",
+        "Nationality": "91",
+        "Occupation": "1"
+    }
+}

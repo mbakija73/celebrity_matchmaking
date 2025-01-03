@@ -1,0 +1,44 @@
+{
+    "relationships": [
+        {
+            "name": "Ted Kennedy",
+            "href": "https://www.whosdatedwho.com/dating/ted-kennedy",
+            "relationship_type": 4,
+            "start_date": "18th Jun 1991",
+            "end_date": "25th Aug 2009",
+            "length": "18 years",
+            "start_months_since_1900": 1097,
+            "end_months_since_1900": 1315,
+            "length_in_months": 216
+        },
+        {
+            "name": "Grier Curran Raclin",
+            "href": "https://www.whosdatedwho.com/dating/grier-curran-raclin",
+            "relationship_type": 4,
+            "start_date": "1979",
+            "end_date": "1990",
+            "length": "11 years",
+            "start_months_since_1900": 948,
+            "end_months_since_1900": 1080,
+            "length_in_months": 132
+        }
+    ],
+    "details": {
+        "First Name": "Victoria",
+        "Middle Name": "NA",
+        "Last Name": "Kennedy",
+        "Maiden Name": "NA",
+        "Full Name at Birth": "Victoria Anne Reggie",
+        "Alternative Name": "NA",
+        "Birthday": "1954",
+        "Birthplace": "LouisianA",
+        "Height": "NA",
+        "Weight": "NA",
+        "Zodiac Sign": "1",
+        "Sexuality": "Straight",
+        "Religion": "1",
+        "Ethnicity": "6",
+        "Nationality": "91",
+        "Occupation": "18"
+    }
+}

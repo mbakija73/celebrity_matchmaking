@@ -1,0 +1,44 @@
+{
+    "relationships": [
+        {
+            "name": "Bryan Craig",
+            "href": "https://www.whosdatedwho.com/dating/bryan-craig",
+            "relationship_type": 2,
+            "start_date": "28th Jun 2013",
+            "end_date": "2016",
+            "length": "2 years",
+            "start_months_since_1900": 1361,
+            "end_months_since_1900": 1392,
+            "length_in_months": 24
+        },
+        {
+            "name": "Kellan Lutz",
+            "href": "https://www.whosdatedwho.com/dating/kellan-lutz",
+            "relationship_type": 2,
+            "start_date": "Jan 2011",
+            "end_date": "Apr 2011",
+            "length": "3 months",
+            "start_months_since_1900": 1332,
+            "end_months_since_1900": 1335,
+            "length_in_months": 3
+        }
+    ],
+    "details": {
+        "First Name": "Kelly",
+        "Middle Name": "Hager",
+        "Last Name": "Thiebaud",
+        "Maiden Name": "NA",
+        "Full Name at Birth": "Kelly Hager Thiebaud",
+        "Alternative Name": "NA",
+        "Birthday": "1982",
+        "Birthplace": "USA",
+        "Height": "175",
+        "Weight": "120lbs (54 kg)",
+        "Zodiac Sign": "11",
+        "Sexuality": "Straight",
+        "Religion": "1",
+        "Ethnicity": "6",
+        "Nationality": "91",
+        "Occupation": "8"
+    }
+}

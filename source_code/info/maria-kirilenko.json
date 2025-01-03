@@ -1,0 +1,55 @@
+{
+    "relationships": [
+        {
+            "name": "Alexei Stepanov",
+            "href": "https://www.whosdatedwho.com/dating/alexei-stepanov",
+            "relationship_type": 4,
+            "start_date": "2014",
+            "end_date": "present",
+            "length": "10 years",
+            "start_months_since_1900": 1368,
+            "end_months_since_1900": -1,
+            "length_in_months": 120
+        },
+        {
+            "name": "Alexander Ovechkin",
+            "href": "https://www.whosdatedwho.com/dating/alexander-ovechkin",
+            "relationship_type": 2,
+            "start_date": "Nov 2011",
+            "end_date": "Jul 2014",
+            "length": "2 years",
+            "start_months_since_1900": 1342,
+            "end_months_since_1900": 1374,
+            "length_in_months": 24
+        },
+        {
+            "name": "Igor Andreev",
+            "href": "https://www.whosdatedwho.com/dating/igor-andreev",
+            "relationship_type": 2,
+            "start_date": "2006",
+            "end_date": "2011",
+            "length": "5 years",
+            "start_months_since_1900": 1272,
+            "end_months_since_1900": 1332,
+            "length_in_months": 60
+        }
+    ],
+    "details": {
+        "First Name": "Maria",
+        "Middle Name": "Yuryevna",
+        "Last Name": "Kirilenko",
+        "Maiden Name": "NA",
+        "Full Name at Birth": "Maria Yuryevna Kirilenko",
+        "Alternative Name": "Makiri",
+        "Birthday": "1987",
+        "Birthplace": "Russia",
+        "Height": "173",
+        "Weight": "132lbs (60 kg)",
+        "Zodiac Sign": "9",
+        "Sexuality": "Straight",
+        "Religion": "32",
+        "Ethnicity": "6",
+        "Nationality": "9",
+        "Occupation": "2"
+    }
+}

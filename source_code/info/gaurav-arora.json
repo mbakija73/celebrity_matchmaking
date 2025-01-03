@@ -1,0 +1,44 @@
+{
+    "relationships": [
+        {
+            "name": "Parth Samthaan",
+            "href": "https://www.whosdatedwho.com/dating/parth-samthaan",
+            "relationship_type": 1,
+            "start_date": "2020",
+            "end_date": "2020",
+            "length": "-",
+            "start_months_since_1900": 1440,
+            "end_months_since_1900": 1440,
+            "length_in_months": -1
+        },
+        {
+            "name": "Sayani Gupta",
+            "href": "https://www.whosdatedwho.com/dating/sayani-gupta",
+            "relationship_type": 1,
+            "start_date": "",
+            "end_date": "",
+            "length": "-",
+            "start_months_since_1900": -1,
+            "end_months_since_1900": -1,
+            "length_in_months": -1
+        }
+    ],
+    "details": {
+        "Birthplace": "India",
+        "First Name": "NA",
+        "Middle Name": "NA",
+        "Last Name": "NA",
+        "Maiden Name": "NA",
+        "Full Name at Birth": "NA",
+        "Alternative Name": "NA",
+        "Birthday": "NA",
+        "Height": "185",
+        "Weight": "NA",
+        "Zodiac Sign": "2",
+        "Sexuality": "NA",
+        "Religion": "1",
+        "Ethnicity": "1",
+        "Nationality": "34",
+        "Occupation": "15"
+    }
+}

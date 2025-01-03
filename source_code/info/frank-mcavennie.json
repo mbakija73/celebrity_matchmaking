@@ -1,0 +1,55 @@
+{
+    "relationships": [
+        {
+            "name": "Jenny Blyth",
+            "href": "https://www.whosdatedwho.com/dating/jenny-blyth",
+            "relationship_type": 2,
+            "start_date": "1987",
+            "end_date": "1992",
+            "length": "5 years",
+            "start_months_since_1900": 1044,
+            "end_months_since_1900": 1104,
+            "length_in_months": 60
+        },
+        {
+            "name": "Maria Whittaker",
+            "href": "https://www.whosdatedwho.com/dating/maria-whittaker",
+            "relationship_type": 3,
+            "start_date": "",
+            "end_date": "",
+            "length": "-",
+            "start_months_since_1900": -1,
+            "end_months_since_1900": -1,
+            "length_in_months": -1
+        },
+        {
+            "name": "Samantha Fox",
+            "href": "https://www.whosdatedwho.com/dating/samantha-fox",
+            "relationship_type": 3,
+            "start_date": "",
+            "end_date": "",
+            "length": "-",
+            "start_months_since_1900": -1,
+            "end_months_since_1900": -1,
+            "length_in_months": -1
+        }
+    ],
+    "details": {
+        "First Name": "Frank",
+        "Middle Name": "NA",
+        "Last Name": "McAvennie",
+        "Maiden Name": "NA",
+        "Full Name at Birth": "Francis McAvennie",
+        "Alternative Name": "Macca",
+        "Birthday": "1959",
+        "Birthplace": "Scotland",
+        "Height": "178",
+        "Weight": "NA",
+        "Zodiac Sign": "5",
+        "Sexuality": "NA",
+        "Religion": "1",
+        "Ethnicity": "6",
+        "Nationality": "131",
+        "Occupation": "2"
+    }
+}

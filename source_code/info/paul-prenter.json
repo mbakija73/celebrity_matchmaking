@@ -1,0 +1,33 @@
+{
+    "relationships": [
+        {
+            "name": "Freddie Mercury",
+            "href": "https://www.whosdatedwho.com/dating/freddie-mercury",
+            "relationship_type": 2,
+            "start_date": "1977",
+            "end_date": "1986",
+            "length": "9 years",
+            "start_months_since_1900": 924,
+            "end_months_since_1900": 1032,
+            "length_in_months": 108
+        }
+    ],
+    "details": {
+        "First Name": "Paul",
+        "Middle Name": "NA",
+        "Last Name": "Prenter",
+        "Maiden Name": "NA",
+        "Full Name at Birth": "Paul Prenter",
+        "Alternative Name": "Paul Prenter",
+        "Birthday": "NA",
+        "Birthplace": "Northern Ireland",
+        "Height": "NA",
+        "Weight": "NA",
+        "Zodiac Sign": "2",
+        "Sexuality": "Gay",
+        "Religion": "13",
+        "Ethnicity": "6",
+        "Nationality": "109",
+        "Occupation": "16"
+    }
+}

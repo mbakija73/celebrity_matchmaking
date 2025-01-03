@@ -1,0 +1,44 @@
+{
+    "relationships": [
+        {
+            "name": "Ron Leyser",
+            "href": "https://www.whosdatedwho.com/dating/ron-leyser",
+            "relationship_type": 2,
+            "start_date": "1989",
+            "end_date": "16th Aug 2015",
+            "length": "26 years",
+            "start_months_since_1900": 1068,
+            "end_months_since_1900": 1387,
+            "length_in_months": 312
+        },
+        {
+            "name": "Elvis Presley",
+            "href": "https://www.whosdatedwho.com/dating/elvis-presley",
+            "relationship_type": 2,
+            "start_date": "12th Jul 1976",
+            "end_date": "16th Aug 1977",
+            "length": "1 year",
+            "start_months_since_1900": 918,
+            "end_months_since_1900": 931,
+            "length_in_months": 12
+        }
+    ],
+    "details": {
+        "First Name": "Ginger",
+        "Middle Name": "NA",
+        "Last Name": "Alden",
+        "Maiden Name": "NA",
+        "Full Name at Birth": "Ginger Alden",
+        "Alternative Name": "Ginger Leyser",
+        "Birthday": "1956",
+        "Birthplace": "USA",
+        "Height": "175",
+        "Weight": "NA",
+        "Zodiac Sign": "5",
+        "Sexuality": "Straight",
+        "Religion": "1",
+        "Ethnicity": "6",
+        "Nationality": "91",
+        "Occupation": "8"
+    }
+}

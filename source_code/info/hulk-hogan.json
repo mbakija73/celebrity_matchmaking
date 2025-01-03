@@ -1,0 +1,77 @@
+{
+    "relationships": [
+        {
+            "name": "Sky Daily",
+            "href": "https://www.whosdatedwho.com/dating/sky-daily",
+            "relationship_type": 4,
+            "start_date": "Feb 2022",
+            "end_date": "present",
+            "length": "2 years",
+            "start_months_since_1900": 1465,
+            "end_months_since_1900": -1,
+            "length_in_months": 24
+        },
+        {
+            "name": "Jennifer McDaniel",
+            "href": "https://www.whosdatedwho.com/dating/jennifer-mcdaniel",
+            "relationship_type": 4,
+            "start_date": "Mar 2008",
+            "end_date": "2021",
+            "length": "12 years",
+            "start_months_since_1900": 1298,
+            "end_months_since_1900": 1452,
+            "length_in_months": 144
+        },
+        {
+            "name": "Christiane Plante",
+            "href": "https://www.whosdatedwho.com/dating/christiane-plante",
+            "relationship_type": 2,
+            "start_date": "Jan 2008",
+            "end_date": "Feb 2008",
+            "length": "1 month",
+            "start_months_since_1900": 1296,
+            "end_months_since_1900": 1297,
+            "length_in_months": 1
+        },
+        {
+            "name": "Heather Cole",
+            "href": "https://www.whosdatedwho.com/dating/heather-cole",
+            "relationship_type": 3,
+            "start_date": "2006",
+            "end_date": "2006",
+            "length": "-",
+            "start_months_since_1900": 1272,
+            "end_months_since_1900": 1272,
+            "length_in_months": -1
+        },
+        {
+            "name": "Linda Hogan",
+            "href": "https://www.whosdatedwho.com/dating/linda-hogan",
+            "relationship_type": 4,
+            "start_date": "1981",
+            "end_date": "Nov 2009",
+            "length": "28 years",
+            "start_months_since_1900": 972,
+            "end_months_since_1900": 1318,
+            "length_in_months": 336
+        }
+    ],
+    "details": {
+        "First Name": "Terry",
+        "Middle Name": "Gene",
+        "Last Name": "Bollea",
+        "Maiden Name": "NA",
+        "Full Name at Birth": "Terry Gene Bollea",
+        "Alternative Name": "Hollywood Hogan, Terry Boulder, Hollywood Hulk Hogan, Terry Bollea, Hulkmania, Sterling Golden, Mr. America, Thunder Lips, Terry Gene Bollea",
+        "Birthday": "1953",
+        "Birthplace": "USA",
+        "Height": "201",
+        "Weight": "302lbs (137 kg)",
+        "Zodiac Sign": "12",
+        "Sexuality": "Straight",
+        "Religion": "13",
+        "Ethnicity": "6",
+        "Nationality": "91",
+        "Occupation": "2"
+    }
+}

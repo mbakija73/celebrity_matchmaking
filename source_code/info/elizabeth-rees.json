@@ -1,0 +1,66 @@
+{
+    "relationships": [
+        {
+            "name": "Jonathan Aitken",
+            "href": "https://www.whosdatedwho.com/dating/jonathan-aitken",
+            "relationship_type": 4,
+            "start_date": "2001",
+            "end_date": "",
+            "length": "-",
+            "start_months_since_1900": 1212,
+            "end_months_since_1900": -1,
+            "length_in_months": -1
+        },
+        {
+            "name": "Peter Michael Aitken",
+            "href": "https://www.whosdatedwho.com/dating/peter-michael-aitken",
+            "relationship_type": 4,
+            "start_date": "1978",
+            "end_date": "1985",
+            "length": "7 years",
+            "start_months_since_1900": 936,
+            "end_months_since_1900": 1020,
+            "length_in_months": 84
+        },
+        {
+            "name": "Rex Harrison",
+            "href": "https://www.whosdatedwho.com/dating/rex-harrison",
+            "relationship_type": 4,
+            "start_date": "1969",
+            "end_date": "16th Dec 1975",
+            "length": "6 years",
+            "start_months_since_1900": 828,
+            "end_months_since_1900": 911,
+            "length_in_months": 72
+        },
+        {
+            "name": "Richard Harris",
+            "href": "https://www.whosdatedwho.com/dating/richard-harris",
+            "relationship_type": 4,
+            "start_date": "1956",
+            "end_date": "1969",
+            "length": "13 years",
+            "start_months_since_1900": 672,
+            "end_months_since_1900": 828,
+            "length_in_months": 156
+        }
+    ],
+    "details": {
+        "First Name": "Joan",
+        "Middle Name": "Elizabeth",
+        "Last Name": "Aitken",
+        "Maiden Name": "Rees-Williams",
+        "Full Name at Birth": "Joan Elizabeth Rees-Williams",
+        "Alternative Name": "NA",
+        "Birthday": "1936",
+        "Birthplace": "UK",
+        "Height": "NA",
+        "Weight": "NA",
+        "Zodiac Sign": "3",
+        "Sexuality": "Straight",
+        "Religion": "1",
+        "Ethnicity": "6",
+        "Nationality": "83",
+        "Occupation": "8"
+    }
+}

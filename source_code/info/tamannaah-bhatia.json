@@ -1,0 +1,55 @@
+{
+    "relationships": [
+        {
+            "name": "Vijay Varma",
+            "href": "https://www.whosdatedwho.com/dating/vijay-varma",
+            "relationship_type": 2,
+            "start_date": "2022",
+            "end_date": "present",
+            "length": "2 years",
+            "start_months_since_1900": 1464,
+            "end_months_since_1900": -1,
+            "length_in_months": 24
+        },
+        {
+            "name": "Abdul Razzaq",
+            "href": "https://www.whosdatedwho.com/dating/abdul-razzaq-cricket",
+            "relationship_type": 1,
+            "start_date": "2017",
+            "end_date": "2017",
+            "length": "-",
+            "start_months_since_1900": 1404,
+            "end_months_since_1900": 1404,
+            "length_in_months": -1
+        },
+        {
+            "name": "Virat Kohli",
+            "href": "https://www.whosdatedwho.com/dating/virat-kohli",
+            "relationship_type": 1,
+            "start_date": "2012",
+            "end_date": "2012",
+            "length": "-",
+            "start_months_since_1900": 1344,
+            "end_months_since_1900": 1344,
+            "length_in_months": -1
+        }
+    ],
+    "details": {
+        "First Name": "Tamanna",
+        "Middle Name": "NA",
+        "Last Name": "Bhatia",
+        "Maiden Name": "NA",
+        "Full Name at Birth": "Tamannaah Bhatia",
+        "Alternative Name": "Tamannaah, Tamanna Bhatia, Tamannaah Bhatia, Tamana Bhatia, Tammu",
+        "Birthday": "1989",
+        "Birthplace": "India",
+        "Height": "161",
+        "Weight": "110lbs (50 kg)",
+        "Zodiac Sign": "6",
+        "Sexuality": "Straight",
+        "Religion": "27",
+        "Ethnicity": "7",
+        "Nationality": "34",
+        "Occupation": "8"
+    }
+}

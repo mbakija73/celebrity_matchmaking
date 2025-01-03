@@ -1,0 +1,44 @@
+{
+    "relationships": [
+        {
+            "name": "Cary Grant",
+            "href": "https://www.whosdatedwho.com/dating/cary-grant",
+            "relationship_type": 3,
+            "start_date": "Jan 1957",
+            "end_date": "Sep 1957",
+            "length": "8 months",
+            "start_months_since_1900": 684,
+            "end_months_since_1900": 692,
+            "length_in_months": 8
+        },
+        {
+            "name": "Carlo Ponti",
+            "href": "https://www.whosdatedwho.com/dating/carlo-ponti",
+            "relationship_type": 4,
+            "start_date": "1953",
+            "end_date": "10th Jan 2007",
+            "length": "54 years",
+            "start_months_since_1900": 636,
+            "end_months_since_1900": 1284,
+            "length_in_months": 648
+        }
+    ],
+    "details": {
+        "First Name": "Sophia",
+        "Middle Name": "Costanza Brigida Villani",
+        "Last Name": "Loren",
+        "Maiden Name": "Scicolone",
+        "Full Name at Birth": "Sofia Costanza Brigida Villani Scicolone",
+        "Alternative Name": "Sofia Loren, Sofia Lazzaro, The Italian Marilyn Monroe, Sofia Scicolone, Sophia Loren, Sofia Villani Scicolone, Sofia Costanza Brigida Villani Scicolone, Sofia Ponti, Sofia Scicolone Ponti, Sofia Loren Ponti, Sophia, Sofia, \u0421\u043e\u0444\u0438\u0301\u044f \u0412\u0438\u043b\u043b\u0430\u0301\u043d\u0438 \u0428\u0438\u043a\u043e\u043b\u043e\u0301\u043d\u0435",
+        "Birthday": "1934",
+        "Birthplace": "Italy",
+        "Height": "174",
+        "Weight": "141lbs (64 kg)",
+        "Zodiac Sign": "11",
+        "Sexuality": "Straight",
+        "Religion": "13",
+        "Ethnicity": "6",
+        "Nationality": "139",
+        "Occupation": "8"
+    }
+}

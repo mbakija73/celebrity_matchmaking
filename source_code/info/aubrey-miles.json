@@ -1,0 +1,55 @@
+{
+    "relationships": [
+        {
+            "name": "Jon Hall",
+            "href": "https://www.whosdatedwho.com/dating/jon-hall-actor",
+            "relationship_type": 2,
+            "start_date": "2003",
+            "end_date": "2003",
+            "length": "-",
+            "start_months_since_1900": 1236,
+            "end_months_since_1900": 1236,
+            "length_in_months": -1
+        },
+        {
+            "name": "Troy Montero",
+            "href": "https://www.whosdatedwho.com/dating/troy-montero",
+            "relationship_type": 4,
+            "start_date": "2003",
+            "end_date": "present",
+            "length": "21 years",
+            "start_months_since_1900": 1236,
+            "end_months_since_1900": -1,
+            "length_in_months": 252
+        },
+        {
+            "name": "J.P. Obligacion",
+            "href": "https://www.whosdatedwho.com/dating/j-p-obligacion",
+            "relationship_type": 2,
+            "start_date": "2000",
+            "end_date": "2002",
+            "length": "2 years",
+            "start_months_since_1900": 1200,
+            "end_months_since_1900": 1224,
+            "length_in_months": 24
+        }
+    ],
+    "details": {
+        "First Name": "Aubrey",
+        "Middle Name": "NA",
+        "Last Name": "Miles",
+        "Maiden Name": "NA",
+        "Full Name at Birth": "Aubrey Santos Sandel",
+        "Alternative Name": "Aubrey Santos Sandel, Aubrey Miles",
+        "Birthday": "1980",
+        "Birthplace": "Philippines",
+        "Height": "165",
+        "Weight": "NA",
+        "Zodiac Sign": "1",
+        "Sexuality": "Straight",
+        "Religion": "1",
+        "Ethnicity": "3",
+        "Nationality": "16",
+        "Occupation": "8"
+    }
+}

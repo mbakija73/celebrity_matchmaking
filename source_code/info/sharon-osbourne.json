@@ -1,0 +1,55 @@
+{
+    "relationships": [
+        {
+            "name": "Randy Rhoads",
+            "href": "https://www.whosdatedwho.com/dating/randy-rhoads",
+            "relationship_type": 3,
+            "start_date": "1981",
+            "end_date": "1981",
+            "length": "-",
+            "start_months_since_1900": 972,
+            "end_months_since_1900": 972,
+            "length_in_months": -1
+        },
+        {
+            "name": "Ozzy Osbourne",
+            "href": "https://www.whosdatedwho.com/dating/ozzy-osbourne",
+            "relationship_type": 4,
+            "start_date": "Jul 1979",
+            "end_date": "present",
+            "length": "45 years",
+            "start_months_since_1900": 954,
+            "end_months_since_1900": -1,
+            "length_in_months": 540
+        },
+        {
+            "name": "Jay Leno",
+            "href": "https://www.whosdatedwho.com/dating/jay-leno",
+            "relationship_type": 3,
+            "start_date": "1977",
+            "end_date": "1978",
+            "length": "1 year",
+            "start_months_since_1900": 924,
+            "end_months_since_1900": 936,
+            "length_in_months": 12
+        }
+    ],
+    "details": {
+        "First Name": "Sharon",
+        "Middle Name": "Rachel",
+        "Last Name": "Osbourne",
+        "Maiden Name": "Levy",
+        "Full Name at Birth": "Sharon Rachel Levy",
+        "Alternative Name": "Shaz, Heavy Metal Mom, Sharon Rachel Arden, Sharon Rachel Levy",
+        "Birthday": "1952",
+        "Birthplace": "UK",
+        "Height": "157",
+        "Weight": "121lbs (55 kg)",
+        "Zodiac Sign": "10",
+        "Sexuality": "Straight",
+        "Religion": "31",
+        "Ethnicity": "6",
+        "Nationality": "8",
+        "Occupation": "11"
+    }
+}

@@ -1,0 +1,33 @@
+{
+    "relationships": [
+        {
+            "name": "Shirley Temple",
+            "href": "https://www.whosdatedwho.com/dating/shirley-temple",
+            "relationship_type": 4,
+            "start_date": "Mar 1950",
+            "end_date": "4th Aug 2005",
+            "length": "55 years",
+            "start_months_since_1900": 602,
+            "end_months_since_1900": 1267,
+            "length_in_months": 660
+        }
+    ],
+    "details": {
+        "First Name": "Charles",
+        "Middle Name": "Alden",
+        "Last Name": "Black",
+        "Maiden Name": "NA",
+        "Full Name at Birth": "Charles Alden Black",
+        "Alternative Name": "Charles Alden Black, Charles Black",
+        "Birthday": "1919",
+        "Birthplace": "USA",
+        "Height": "NA",
+        "Weight": "NA",
+        "Zodiac Sign": "1",
+        "Sexuality": "Straight",
+        "Religion": "1",
+        "Ethnicity": "6",
+        "Nationality": "91",
+        "Occupation": "7"
+    }
+}

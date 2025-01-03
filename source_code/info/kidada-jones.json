@@ -1,0 +1,77 @@
+{
+    "relationships": [
+        {
+            "name": "Jeffrey Nash",
+            "href": "https://www.whosdatedwho.com/dating/jeffrey-nash",
+            "relationship_type": 4,
+            "start_date": "2001",
+            "end_date": "2006",
+            "length": "5 years",
+            "start_months_since_1900": 1212,
+            "end_months_since_1900": 1272,
+            "length_in_months": 60
+        },
+        {
+            "name": "Leonardo DiCaprio",
+            "href": "https://www.whosdatedwho.com/dating/leonardo-dicaprio",
+            "relationship_type": 3,
+            "start_date": "1999",
+            "end_date": "1999",
+            "length": "-",
+            "start_months_since_1900": 1188,
+            "end_months_since_1900": 1188,
+            "length_in_months": -1
+        },
+        {
+            "name": "Sean 'Diddy' Combs",
+            "href": "https://www.whosdatedwho.com/dating/sean-combs",
+            "relationship_type": 3,
+            "start_date": "1998",
+            "end_date": "1998",
+            "length": "-",
+            "start_months_since_1900": 1176,
+            "end_months_since_1900": 1176,
+            "length_in_months": -1
+        },
+        {
+            "name": "Tupac Shakur",
+            "href": "https://www.whosdatedwho.com/dating/tupac-shakur",
+            "relationship_type": 2,
+            "start_date": "Mar 1996",
+            "end_date": "Sep 1996",
+            "length": "6 months",
+            "start_months_since_1900": 1154,
+            "end_months_since_1900": 1160,
+            "length_in_months": 6
+        },
+        {
+            "name": "LL Cool J",
+            "href": "https://www.whosdatedwho.com/dating/ll-cool-j",
+            "relationship_type": 2,
+            "start_date": "1992",
+            "end_date": "1994",
+            "length": "2 years",
+            "start_months_since_1900": 1104,
+            "end_months_since_1900": 1128,
+            "length_in_months": 24
+        }
+    ],
+    "details": {
+        "First Name": "Kidada",
+        "Middle Name": "Anne",
+        "Last Name": "Nash",
+        "Maiden Name": "Jones",
+        "Full Name at Birth": "Kidada Anne Jones",
+        "Alternative Name": "Kidada Jones, Kidada Nash, Prada, Pie, Dada, Kida, Kidada Ann Jones",
+        "Birthday": "1974",
+        "Birthplace": "USA",
+        "Height": "170",
+        "Weight": "130lbs (59 kg)",
+        "Zodiac Sign": "7",
+        "Sexuality": "Straight",
+        "Religion": "31",
+        "Ethnicity": "8",
+        "Nationality": "91",
+        "Occupation": "8"
+    }
+}

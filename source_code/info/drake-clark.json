@@ -1,0 +1,33 @@
+{
+    "relationships": [
+        {
+            "name": "Carrie Underwood",
+            "href": "https://www.whosdatedwho.com/dating/carrie-underwood",
+            "relationship_type": 2,
+            "start_date": "2002",
+            "end_date": "2005",
+            "length": "3 years",
+            "start_months_since_1900": 1224,
+            "end_months_since_1900": 1260,
+            "length_in_months": 36
+        }
+    ],
+    "details": {
+        "First Name": "Drake",
+        "Middle Name": "NA",
+        "Last Name": "Clark",
+        "Maiden Name": "NA",
+        "Full Name at Birth": "NA",
+        "Alternative Name": "NA",
+        "Birthday": "1982",
+        "Birthplace": "NA",
+        "Height": "NA",
+        "Weight": "NA",
+        "Zodiac Sign": "8",
+        "Sexuality": "Straight",
+        "Religion": "18",
+        "Ethnicity": "6",
+        "Nationality": "91",
+        "Occupation": "11"
+    }
+}

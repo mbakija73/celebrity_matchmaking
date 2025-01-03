@@ -1,0 +1,66 @@
+{
+    "relationships": [
+        {
+            "name": "Colin Farrell",
+            "href": "https://www.whosdatedwho.com/dating/colin-farrell",
+            "relationship_type": 2,
+            "start_date": "Feb 2002",
+            "end_date": "Mar 2002",
+            "length": "< 1 month",
+            "start_months_since_1900": 1225,
+            "end_months_since_1900": 1226,
+            "length_in_months": 0
+        },
+        {
+            "name": "Matthew Perry",
+            "href": "https://www.whosdatedwho.com/dating/matthew-perry",
+            "relationship_type": 2,
+            "start_date": "2002",
+            "end_date": "2003",
+            "length": "1 year",
+            "start_months_since_1900": 1224,
+            "end_months_since_1900": 1236,
+            "length_in_months": 12
+        },
+        {
+            "name": "Michael Kernan",
+            "href": "https://www.whosdatedwho.com/dating/michael-kernan",
+            "relationship_type": 2,
+            "start_date": "2000",
+            "end_date": "2000",
+            "length": "-",
+            "start_months_since_1900": 1200,
+            "end_months_since_1900": 1200,
+            "length_in_months": -1
+        },
+        {
+            "name": "Tom Sizemore",
+            "href": "https://www.whosdatedwho.com/dating/tom-sizemore",
+            "relationship_type": 4,
+            "start_date": "Sep 1995",
+            "end_date": "Nov 1999",
+            "length": "4 years",
+            "start_months_since_1900": 1148,
+            "end_months_since_1900": 1198,
+            "length_in_months": 48
+        }
+    ],
+    "details": {
+        "First Name": "Maeve",
+        "Middle Name": "Anne",
+        "Last Name": "NA",
+        "Maiden Name": "Quinlan",
+        "Full Name at Birth": "Maeve Anne Quinlan",
+        "Alternative Name": "NA",
+        "Birthday": "1964",
+        "Birthplace": "USA",
+        "Height": "173",
+        "Weight": "128lbs (58 kg)",
+        "Zodiac Sign": "5",
+        "Sexuality": "Straight",
+        "Religion": "13",
+        "Ethnicity": "6",
+        "Nationality": "91",
+        "Occupation": "8"
+    }
+}

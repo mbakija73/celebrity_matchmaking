@@ -1,0 +1,44 @@
+{
+    "relationships": [
+        {
+            "name": "Tracy Richman",
+            "href": "https://www.whosdatedwho.com/dating/tracy-richman",
+            "relationship_type": 2,
+            "start_date": "1987",
+            "end_date": "1987",
+            "length": "-",
+            "start_months_since_1900": 1044,
+            "end_months_since_1900": 1044,
+            "length_in_months": -1
+        },
+        {
+            "name": "Stephanie Bews",
+            "href": "https://www.whosdatedwho.com/dating/stephanie-bews",
+            "relationship_type": 3,
+            "start_date": "",
+            "end_date": "",
+            "length": "-",
+            "start_months_since_1900": -1,
+            "end_months_since_1900": -1,
+            "length_in_months": -1
+        }
+    ],
+    "details": {
+        "First Name": "Frank",
+        "Middle Name": "NA",
+        "Last Name": "Stallone",
+        "Maiden Name": "NA",
+        "Full Name at Birth": "NA",
+        "Alternative Name": "Frank Stallone Jr.",
+        "Birthday": "1950",
+        "Birthplace": "USA",
+        "Height": "179",
+        "Weight": "NA",
+        "Zodiac Sign": "12",
+        "Sexuality": "NA",
+        "Religion": "1",
+        "Ethnicity": "6",
+        "Nationality": "91",
+        "Occupation": "8"
+    }
+}

@@ -1,0 +1,66 @@
+{
+    "relationships": [
+        {
+            "name": "Owen Wilson",
+            "href": "https://www.whosdatedwho.com/dating/owen-wilson",
+            "relationship_type": 3,
+            "start_date": "2005",
+            "end_date": "2005",
+            "length": "-",
+            "start_months_since_1900": 1260,
+            "end_months_since_1900": 1260,
+            "length_in_months": -1
+        },
+        {
+            "name": "Marco Reed",
+            "href": "https://www.whosdatedwho.com/dating/marco-reed",
+            "relationship_type": 4,
+            "start_date": "2003",
+            "end_date": "",
+            "length": "-",
+            "start_months_since_1900": 1236,
+            "end_months_since_1900": -1,
+            "length_in_months": -1
+        },
+        {
+            "name": "Michael Rosenbaum",
+            "href": "https://www.whosdatedwho.com/dating/michael-rosenbaum",
+            "relationship_type": 3,
+            "start_date": "",
+            "end_date": "",
+            "length": "-",
+            "start_months_since_1900": -1,
+            "end_months_since_1900": -1,
+            "length_in_months": -1
+        },
+        {
+            "name": "Grant Show",
+            "href": "https://www.whosdatedwho.com/dating/grant-show",
+            "relationship_type": 2,
+            "start_date": "",
+            "end_date": "",
+            "length": "-",
+            "start_months_since_1900": -1,
+            "end_months_since_1900": -1,
+            "length_in_months": -1
+        }
+    ],
+    "details": {
+        "First Name": "Angel",
+        "Middle Name": "Lynn",
+        "Last Name": "Reed",
+        "Maiden Name": "Crownshaw",
+        "Full Name at Birth": "Angel Lynn Boris",
+        "Alternative Name": "Angel Boris Reed",
+        "Birthday": "1974",
+        "Birthplace": "USA",
+        "Height": "163",
+        "Weight": "110lbs (50 kg)",
+        "Zodiac Sign": "12",
+        "Sexuality": "Bisexual",
+        "Religion": "1",
+        "Ethnicity": "6",
+        "Nationality": "91",
+        "Occupation": "16"
+    }
+}

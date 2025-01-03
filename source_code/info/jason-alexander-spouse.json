@@ -1,0 +1,44 @@
+{
+    "relationships": [
+        {
+            "name": "Shar Jackson",
+            "href": "https://www.whosdatedwho.com/dating/shar-jackson",
+            "relationship_type": 2,
+            "start_date": "Nov 2012",
+            "end_date": "2012",
+            "length": "10 months",
+            "start_months_since_1900": 1354,
+            "end_months_since_1900": 1344,
+            "length_in_months": 10
+        },
+        {
+            "name": "Britney Spears",
+            "href": "https://www.whosdatedwho.com/dating/britney-spears",
+            "relationship_type": 4,
+            "start_date": "3rd Jan 2004",
+            "end_date": "5th Jan 2004",
+            "length": "< 1 month",
+            "start_months_since_1900": 1248,
+            "end_months_since_1900": 1248,
+            "length_in_months": 0
+        }
+    ],
+    "details": {
+        "First Name": "Jason",
+        "Middle Name": "Allen",
+        "Last Name": "Alexander",
+        "Maiden Name": "NA",
+        "Full Name at Birth": "Jason Allen Alexander",
+        "Alternative Name": "NA",
+        "Birthday": "1981",
+        "Birthplace": "Mississippi",
+        "Height": "185",
+        "Weight": "NA",
+        "Zodiac Sign": "10",
+        "Sexuality": "Straight",
+        "Religion": "19",
+        "Ethnicity": "6",
+        "Nationality": "91",
+        "Occupation": "19"
+    }
+}

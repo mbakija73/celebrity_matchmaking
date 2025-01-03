@@ -1,0 +1,66 @@
+{
+    "relationships": [
+        {
+            "name": "Gucci Mane",
+            "href": "https://www.whosdatedwho.com/dating/gucci-mane",
+            "relationship_type": 1,
+            "start_date": "2016",
+            "end_date": "2016",
+            "length": "-",
+            "start_months_since_1900": 1392,
+            "end_months_since_1900": 1392,
+            "length_in_months": -1
+        },
+        {
+            "name": "Joyner Lucas",
+            "href": "https://www.whosdatedwho.com/dating/joyner-lucas",
+            "relationship_type": 1,
+            "start_date": "2015",
+            "end_date": "2015",
+            "length": "-",
+            "start_months_since_1900": 1380,
+            "end_months_since_1900": 1380,
+            "length_in_months": -1
+        },
+        {
+            "name": "Plies",
+            "href": "https://www.whosdatedwho.com/dating/plies",
+            "relationship_type": 1,
+            "start_date": "2015",
+            "end_date": "2015",
+            "length": "-",
+            "start_months_since_1900": 1380,
+            "end_months_since_1900": 1380,
+            "length_in_months": -1
+        },
+        {
+            "name": "Vado",
+            "href": "https://www.whosdatedwho.com/dating/vado",
+            "relationship_type": 2,
+            "start_date": "Aug 2011",
+            "end_date": "Feb 2013",
+            "length": "1 year",
+            "start_months_since_1900": 1339,
+            "end_months_since_1900": 1357,
+            "length_in_months": 12
+        }
+    ],
+    "details": {
+        "First Name": "Angela",
+        "Middle Name": "Mae",
+        "Last Name": "Yee",
+        "Maiden Name": "NA",
+        "Full Name at Birth": "Angela Mae Yee",
+        "Alternative Name": "Angela",
+        "Birthday": "1976",
+        "Birthplace": "USA",
+        "Height": "160",
+        "Weight": "128lbs (58 kg)",
+        "Zodiac Sign": "13",
+        "Sexuality": "Straight",
+        "Religion": "1",
+        "Ethnicity": "8",
+        "Nationality": "91",
+        "Occupation": "16"
+    }
+}

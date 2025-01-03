@@ -1,0 +1,66 @@
+{
+    "relationships": [
+        {
+            "name": "Ginuwine",
+            "href": "https://www.whosdatedwho.com/dating/ginuwine",
+            "relationship_type": 2,
+            "start_date": "Jan 2018",
+            "end_date": "Mar 2018",
+            "length": "1 month",
+            "start_months_since_1900": 1416,
+            "end_months_since_1900": 1418,
+            "length_in_months": 1
+        },
+        {
+            "name": "Ollie Locke",
+            "href": "https://www.whosdatedwho.com/dating/ollie-locke",
+            "relationship_type": 2,
+            "start_date": "2012",
+            "end_date": "2013",
+            "length": "1 year",
+            "start_months_since_1900": 1344,
+            "end_months_since_1900": 1356,
+            "length_in_months": 12
+        },
+        {
+            "name": "Tom Andrews (boyfriend)",
+            "href": "https://www.whosdatedwho.com/dating/tom-andrews-boyfriend",
+            "relationship_type": 2,
+            "start_date": "",
+            "end_date": "present",
+            "length": "-",
+            "start_months_since_1900": -1,
+            "end_months_since_1900": -1,
+            "length_in_months": -1
+        },
+        {
+            "name": "David Walliams",
+            "href": "https://www.whosdatedwho.com/dating/david-walliams",
+            "relationship_type": 1,
+            "start_date": "",
+            "end_date": "",
+            "length": "-",
+            "start_months_since_1900": -1,
+            "end_months_since_1900": -1,
+            "length_in_months": -1
+        }
+    ],
+    "details": {
+        "First Name": "Ashley",
+        "Middle Name": "Louise",
+        "Last Name": "James",
+        "Maiden Name": "NA",
+        "Full Name at Birth": "Ashley Louise James",
+        "Alternative Name": "Ashley Louise James, Ashley James, Ashley L. James",
+        "Birthday": "1987",
+        "Birthplace": "UK",
+        "Height": "173",
+        "Weight": "NA",
+        "Zodiac Sign": "7",
+        "Sexuality": "Straight",
+        "Religion": "1",
+        "Ethnicity": "6",
+        "Nationality": "8",
+        "Occupation": "11"
+    }
+}

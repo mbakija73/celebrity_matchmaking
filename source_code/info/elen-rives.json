@@ -1,0 +1,66 @@
+{
+    "relationships": [
+        {
+            "name": "Peter Andre",
+            "href": "https://www.whosdatedwho.com/dating/peter-andre",
+            "relationship_type": 2,
+            "start_date": "Nov 2010",
+            "end_date": "Nov 2010",
+            "length": "-",
+            "start_months_since_1900": 1330,
+            "end_months_since_1900": 1330,
+            "length_in_months": -1
+        },
+        {
+            "name": "Lawrie Wilson",
+            "href": "https://www.whosdatedwho.com/dating/lawrie-wilson",
+            "relationship_type": 2,
+            "start_date": "2009",
+            "end_date": "2009",
+            "length": "-",
+            "start_months_since_1900": 1308,
+            "end_months_since_1900": 1308,
+            "length_in_months": -1
+        },
+        {
+            "name": "Frank Lampard",
+            "href": "https://www.whosdatedwho.com/dating/frank-lampard",
+            "relationship_type": 2,
+            "start_date": "Dec 2002",
+            "end_date": "Nov 2008",
+            "length": "5 years",
+            "start_months_since_1900": 1235,
+            "end_months_since_1900": 1306,
+            "length_in_months": 60
+        },
+        {
+            "name": "Nael Asad Y Abu-Rmaileh",
+            "href": "https://www.whosdatedwho.com/dating/nael-asad-y-abu-rmaileh",
+            "relationship_type": 4,
+            "start_date": "1997",
+            "end_date": "2002",
+            "length": "5 years",
+            "start_months_since_1900": 1164,
+            "end_months_since_1900": 1224,
+            "length_in_months": 60
+        }
+    ],
+    "details": {
+        "First Name": "Elen",
+        "Middle Name": "NA",
+        "Last Name": "Rivas",
+        "Maiden Name": "NA",
+        "Full Name at Birth": "Elen Rivas",
+        "Alternative Name": "NA",
+        "Birthday": "1975",
+        "Birthplace": "Barcelona",
+        "Height": "NA",
+        "Weight": "NA",
+        "Zodiac Sign": "13",
+        "Sexuality": "NA",
+        "Religion": "1",
+        "Ethnicity": "6",
+        "Nationality": "118",
+        "Occupation": "15"
+    }
+}

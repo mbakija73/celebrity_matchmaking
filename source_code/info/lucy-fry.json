@@ -1,0 +1,44 @@
+{
+    "relationships": [
+        {
+            "name": "Daniel Webber",
+            "href": "https://www.whosdatedwho.com/dating/daniel-webber-4776716",
+            "relationship_type": 1,
+            "start_date": "2018",
+            "end_date": "2018",
+            "length": "-",
+            "start_months_since_1900": 1416,
+            "end_months_since_1900": 1416,
+            "length_in_months": -1
+        },
+        {
+            "name": "Dominic Sherwood",
+            "href": "https://www.whosdatedwho.com/dating/dominic-sherwood",
+            "relationship_type": 2,
+            "start_date": "2017",
+            "end_date": "2017",
+            "length": "-",
+            "start_months_since_1900": 1404,
+            "end_months_since_1900": 1404,
+            "length_in_months": -1
+        }
+    ],
+    "details": {
+        "First Name": "Lucy",
+        "Middle Name": "Elizabeth",
+        "Last Name": "Fry",
+        "Maiden Name": "NA",
+        "Full Name at Birth": "Lucy Elizabeth Fry",
+        "Alternative Name": "Lucy, Lucy Fry, Lucy Elizabeth Fry",
+        "Birthday": "1992",
+        "Birthplace": "Australia",
+        "Height": "175",
+        "Weight": "124lbs (56 kg)",
+        "Zodiac Sign": "1",
+        "Sexuality": "Straight",
+        "Religion": "18",
+        "Ethnicity": "6",
+        "Nationality": "135",
+        "Occupation": "8"
+    }
+}

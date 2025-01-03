@@ -1,0 +1,44 @@
+{
+    "relationships": [
+        {
+            "name": "Tommy Manville",
+            "href": "https://www.whosdatedwho.com/dating/tommy-manville",
+            "relationship_type": 4,
+            "start_date": "Jul 1952",
+            "end_date": "Sep 1955",
+            "length": "3 years",
+            "start_months_since_1900": 630,
+            "end_months_since_1900": 668,
+            "length_in_months": 36
+        },
+        {
+            "name": "John Sutton",
+            "href": "https://www.whosdatedwho.com/dating/john-sutton-rugby-league",
+            "relationship_type": 4,
+            "start_date": "",
+            "end_date": "",
+            "length": "-",
+            "start_months_since_1900": -1,
+            "end_months_since_1900": -1,
+            "length_in_months": -1
+        }
+    ],
+    "details": {
+        "First Name": "Anita",
+        "Middle Name": "Frances",
+        "Last Name": "Roddy-Eden",
+        "Maiden Name": "NA",
+        "Full Name at Birth": "Anita Frances Roddy",
+        "Alternative Name": "Anita Roddy, Anita Manville, Anita Sutton",
+        "Birthday": "1914",
+        "Birthplace": "USA",
+        "Height": "NA",
+        "Weight": "NA",
+        "Zodiac Sign": "5",
+        "Sexuality": "NA",
+        "Religion": "1",
+        "Ethnicity": "6",
+        "Nationality": "91",
+        "Occupation": "3"
+    }
+}

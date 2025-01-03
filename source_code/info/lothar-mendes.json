@@ -1,0 +1,44 @@
+{
+    "relationships": [
+        {
+            "name": "Dorothy Mackaill",
+            "href": "https://www.whosdatedwho.com/dating/dorothy-mackaill",
+            "relationship_type": 4,
+            "start_date": "1926",
+            "end_date": "1926",
+            "length": "-",
+            "start_months_since_1900": 312,
+            "end_months_since_1900": 312,
+            "length_in_months": -1
+        },
+        {
+            "name": "Eva May",
+            "href": "https://www.whosdatedwho.com/dating/eva-may",
+            "relationship_type": 4,
+            "start_date": "",
+            "end_date": "",
+            "length": "-",
+            "start_months_since_1900": -1,
+            "end_months_since_1900": -1,
+            "length_in_months": -1
+        }
+    ],
+    "details": {
+        "First Name": "Lothar",
+        "Middle Name": "NA",
+        "Last Name": "Mendes",
+        "Maiden Name": "NA",
+        "Full Name at Birth": "Lothar Mendes",
+        "Alternative Name": "NA",
+        "Birthday": "1894",
+        "Birthplace": "Germany",
+        "Height": "170",
+        "Weight": "NA",
+        "Zodiac Sign": "3",
+        "Sexuality": "Straight",
+        "Religion": "31",
+        "Ethnicity": "6",
+        "Nationality": "55",
+        "Occupation": "9"
+    }
+}

@@ -1,0 +1,33 @@
+{
+    "relationships": [
+        {
+            "name": "Fetty Wap",
+            "href": "https://www.whosdatedwho.com/dating/fetty-wap",
+            "relationship_type": 2,
+            "start_date": "Jan 2018",
+            "end_date": "Apr 2018",
+            "length": "3 months",
+            "start_months_since_1900": 1416,
+            "end_months_since_1900": 1419,
+            "length_in_months": 3
+        }
+    ],
+    "details": {
+        "First Name": "Shacorri",
+        "Middle Name": "Shaquira",
+        "Last Name": "Moore",
+        "Maiden Name": "NA",
+        "Full Name at Birth": "Shacorri Shaquira Moore",
+        "Alternative Name": "Corri",
+        "Birthday": "1994",
+        "Birthplace": "Georgia",
+        "Height": "155",
+        "Weight": "125lbs (57 kg)",
+        "Zodiac Sign": "11",
+        "Sexuality": "Straight",
+        "Religion": "18",
+        "Ethnicity": "2",
+        "Nationality": "91",
+        "Occupation": "16"
+    }
+}

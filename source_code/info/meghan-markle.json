@@ -1,0 +1,143 @@
+{
+    "relationships": [
+        {
+            "name": "Prince Harry",
+            "href": "https://www.whosdatedwho.com/dating/prince-harry-windsor",
+            "relationship_type": 4,
+            "start_date": "Jul 2016",
+            "end_date": "present",
+            "length": "8 years",
+            "start_months_since_1900": 1398,
+            "end_months_since_1900": -1,
+            "length_in_months": 96
+        },
+        {
+            "name": "Cory Vitiello",
+            "href": "https://www.whosdatedwho.com/dating/cory-vitiello",
+            "relationship_type": 2,
+            "start_date": "Jan 2015",
+            "end_date": "Apr 2016",
+            "length": "1 year",
+            "start_months_since_1900": 1380,
+            "end_months_since_1900": 1395,
+            "length_in_months": 12
+        },
+        {
+            "name": "Rory McIlroy",
+            "href": "https://www.whosdatedwho.com/dating/rory-mcilroy",
+            "relationship_type": 2,
+            "start_date": "Mar 2014",
+            "end_date": "Nov 2014",
+            "length": "8 months",
+            "start_months_since_1900": 1370,
+            "end_months_since_1900": 1378,
+            "length_in_months": 8
+        },
+        {
+            "name": "Michael Del Zotto",
+            "href": "https://www.whosdatedwho.com/dating/michael-del-zotto",
+            "relationship_type": 3,
+            "start_date": "2013",
+            "end_date": "2013",
+            "length": "-",
+            "start_months_since_1900": 1356,
+            "end_months_since_1900": 1356,
+            "length_in_months": -1
+        },
+        {
+            "name": "Trevor Engelson",
+            "href": "https://www.whosdatedwho.com/dating/trevor-engelson",
+            "relationship_type": 4,
+            "start_date": "Oct 2004",
+            "end_date": "Feb 2014",
+            "length": "9 years",
+            "start_months_since_1900": 1257,
+            "end_months_since_1900": 1369,
+            "length_in_months": 108
+        },
+        {
+            "name": "Simon Rex",
+            "href": "https://www.whosdatedwho.com/dating/simon-rex",
+            "relationship_type": 2,
+            "start_date": "May 2004",
+            "end_date": "Oct 2004",
+            "length": "5 months",
+            "start_months_since_1900": 1252,
+            "end_months_since_1900": 1257,
+            "length_in_months": 5
+        },
+        {
+            "name": "Brett Ryland",
+            "href": "https://www.whosdatedwho.com/dating/brett-ryland",
+            "relationship_type": 2,
+            "start_date": "Oct 2003",
+            "end_date": "May 2004",
+            "length": "7 months",
+            "start_months_since_1900": 1245,
+            "end_months_since_1900": 1252,
+            "length_in_months": 7
+        },
+        {
+            "name": "Shaun Zaken",
+            "href": "https://www.whosdatedwho.com/dating/shaun-zaken",
+            "relationship_type": 2,
+            "start_date": "Feb 2003",
+            "end_date": "Nov 2003",
+            "length": "9 months",
+            "start_months_since_1900": 1237,
+            "end_months_since_1900": 1246,
+            "length_in_months": 9
+        },
+        {
+            "name": "Steve Lepore",
+            "href": "https://www.whosdatedwho.com/dating/steve-lepore",
+            "relationship_type": 2,
+            "start_date": "2001",
+            "end_date": "2002",
+            "length": "1 year",
+            "start_months_since_1900": 1212,
+            "end_months_since_1900": 1224,
+            "length_in_months": 12
+        },
+        {
+            "name": "Luis Segura (high school)",
+            "href": "https://www.whosdatedwho.com/dating/luis-segura-high-school",
+            "relationship_type": 2,
+            "start_date": "1997",
+            "end_date": "2000",
+            "length": "3 years",
+            "start_months_since_1900": 1164,
+            "end_months_since_1900": 1200,
+            "length_in_months": 36
+        },
+        {
+            "name": "Joshua Silverstein",
+            "href": "https://www.whosdatedwho.com/dating/joshua-silverstein",
+            "relationship_type": 2,
+            "start_date": "1994",
+            "end_date": "1994",
+            "length": "-",
+            "start_months_since_1900": 1128,
+            "end_months_since_1900": 1128,
+            "length_in_months": -1
+        }
+    ],
+    "details": {
+        "First Name": "Rachel",
+        "Middle Name": "Meghan",
+        "Last Name": "Markle",
+        "Maiden Name": "NA",
+        "Full Name at Birth": "Rachel Meghan Markle",
+        "Alternative Name": "Meghan Markle, Meghan, Duchess of Sussex, Duchess of Sussex, Rachel Meghan Markle, Meghan  Duchess of Sussex",
+        "Birthday": "1981",
+        "Birthplace": "USA",
+        "Height": "168",
+        "Weight": "123lbs (56 kg)",
+        "Zodiac Sign": "12",
+        "Sexuality": "Straight",
+        "Religion": "37",
+        "Ethnicity": "8",
+        "Nationality": "91",
+        "Occupation": "8"
+    }
+}

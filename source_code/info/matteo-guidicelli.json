@@ -1,0 +1,66 @@
+{
+    "relationships": [
+        {
+            "name": "Sarah Geronimo",
+            "href": "https://www.whosdatedwho.com/dating/sarah-geronimo",
+            "relationship_type": 4,
+            "start_date": "Jun 2013",
+            "end_date": "present",
+            "length": "11 years",
+            "start_months_since_1900": 1361,
+            "end_months_since_1900": -1,
+            "length_in_months": 132
+        },
+        {
+            "name": "Jessy Mendiola",
+            "href": "https://www.whosdatedwho.com/dating/jessy-mendiola",
+            "relationship_type": 3,
+            "start_date": "Apr 2013",
+            "end_date": "Jul 2013",
+            "length": "3 months",
+            "start_months_since_1900": 1359,
+            "end_months_since_1900": 1362,
+            "length_in_months": 3
+        },
+        {
+            "name": "Maja Salvador",
+            "href": "https://www.whosdatedwho.com/dating/maja-salvador",
+            "relationship_type": 2,
+            "start_date": "2010",
+            "end_date": "Aug 2012",
+            "length": "2 years",
+            "start_months_since_1900": 1320,
+            "end_months_since_1900": 1351,
+            "length_in_months": 24
+        },
+        {
+            "name": "KC del Rosario",
+            "href": "https://www.whosdatedwho.com/dating/kc-del-rosario",
+            "relationship_type": 2,
+            "start_date": "",
+            "end_date": "",
+            "length": "-",
+            "start_months_since_1900": -1,
+            "end_months_since_1900": -1,
+            "length_in_months": -1
+        }
+    ],
+    "details": {
+        "First Name": "Gianmatteo",
+        "Middle Name": "Fernan",
+        "Last Name": "Guidicelli",
+        "Maiden Name": "NA",
+        "Full Name at Birth": "Gianmatteo Vittorio Fernan Guidicelli",
+        "Alternative Name": "Matteo Guidicelli",
+        "Birthday": "1990",
+        "Birthplace": "Cebu",
+        "Height": "175",
+        "Weight": "NA",
+        "Zodiac Sign": "7",
+        "Sexuality": "Straight",
+        "Religion": "13",
+        "Ethnicity": "8",
+        "Nationality": "16",
+        "Occupation": "8"
+    }
+}

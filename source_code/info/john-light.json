@@ -1,0 +1,55 @@
+{
+    "relationships": [
+        {
+            "name": "Neve Campbell",
+            "href": "https://www.whosdatedwho.com/dating/neve-campbell",
+            "relationship_type": 4,
+            "start_date": "Nov 2005",
+            "end_date": "May 2011",
+            "length": "5 years",
+            "start_months_since_1900": 1270,
+            "end_months_since_1900": 1336,
+            "length_in_months": 60
+        },
+        {
+            "name": "Felicitas Woll",
+            "href": "https://www.whosdatedwho.com/dating/felicitas-woll",
+            "relationship_type": 2,
+            "start_date": "2005",
+            "end_date": "2005",
+            "length": "-",
+            "start_months_since_1900": 1260,
+            "end_months_since_1900": 1260,
+            "length_in_months": -1
+        },
+        {
+            "name": "Sarah Goldberg",
+            "href": "https://www.whosdatedwho.com/dating/sarah-goldberg",
+            "relationship_type": 2,
+            "start_date": "",
+            "end_date": "",
+            "length": "-",
+            "start_months_since_1900": -1,
+            "end_months_since_1900": -1,
+            "length_in_months": -1
+        }
+    ],
+    "details": {
+        "First Name": "John",
+        "Middle Name": "NA",
+        "Last Name": "Light",
+        "Maiden Name": "NA",
+        "Full Name at Birth": "NA",
+        "Alternative Name": "NA",
+        "Birthday": "1972",
+        "Birthplace": "England",
+        "Height": "NA",
+        "Weight": "NA",
+        "Zodiac Sign": "10",
+        "Sexuality": "Bisexual",
+        "Religion": "5",
+        "Ethnicity": "6",
+        "Nationality": "8",
+        "Occupation": "8"
+    }
+}

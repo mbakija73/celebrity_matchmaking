@@ -1,0 +1,77 @@
+{
+    "relationships": [
+        {
+            "name": "Jessica Canyon",
+            "href": "https://www.whosdatedwho.com/dating/jessica-canyon",
+            "relationship_type": 4,
+            "start_date": "2014",
+            "end_date": "present",
+            "length": "10 years",
+            "start_months_since_1900": 1368,
+            "end_months_since_1900": -1,
+            "length_in_months": 120
+        },
+        {
+            "name": "Rebecca Budig",
+            "href": "https://www.whosdatedwho.com/dating/rebecca-budig",
+            "relationship_type": 4,
+            "start_date": "Jan 2004",
+            "end_date": "Jul 2010",
+            "length": "6 years",
+            "start_months_since_1900": 1248,
+            "end_months_since_1900": 1326,
+            "length_in_months": 72
+        },
+        {
+            "name": "Meredith Phillips",
+            "href": "https://www.whosdatedwho.com/dating/meredith-phillips-309686",
+            "relationship_type": 1,
+            "start_date": "2004",
+            "end_date": "2004",
+            "length": "-",
+            "start_months_since_1900": 1248,
+            "end_months_since_1900": 1248,
+            "length_in_months": -1
+        },
+        {
+            "name": "Estella Gardinier",
+            "href": "https://www.whosdatedwho.com/dating/estella-gardinier",
+            "relationship_type": 2,
+            "start_date": "Jul 2003",
+            "end_date": "Nov 2003",
+            "length": "4 months",
+            "start_months_since_1900": 1242,
+            "end_months_since_1900": 1246,
+            "length_in_months": 4
+        },
+        {
+            "name": "Jennifer Lantz (i)",
+            "href": "https://www.whosdatedwho.com/dating/jennifer-lantz",
+            "relationship_type": 4,
+            "start_date": "1998",
+            "end_date": "2000",
+            "length": "2 years",
+            "start_months_since_1900": 1176,
+            "end_months_since_1900": 1200,
+            "length_in_months": 24
+        }
+    ],
+    "details": {
+        "First Name": "Bob",
+        "Middle Name": "NA",
+        "Last Name": "Guiney",
+        "Maiden Name": "NA",
+        "Full Name at Birth": "Robert Guiney",
+        "Alternative Name": "NA",
+        "Birthday": "1971",
+        "Birthplace": "Michigan",
+        "Height": "NA",
+        "Weight": "NA",
+        "Zodiac Sign": "3",
+        "Sexuality": "Straight",
+        "Religion": "1",
+        "Ethnicity": "6",
+        "Nationality": "91",
+        "Occupation": "11"
+    }
+}

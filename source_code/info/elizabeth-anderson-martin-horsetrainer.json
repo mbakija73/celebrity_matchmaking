@@ -1,0 +1,44 @@
+{
+    "relationships": [
+        {
+            "name": "William Shatner",
+            "href": "https://www.whosdatedwho.com/dating/william-shatner",
+            "relationship_type": 4,
+            "start_date": "2000",
+            "end_date": "Dec 2019",
+            "length": "19 years",
+            "start_months_since_1900": 1200,
+            "end_months_since_1900": 1439,
+            "length_in_months": 228
+        },
+        {
+            "name": "Michael Glenn Martin",
+            "href": "https://www.whosdatedwho.com/dating/michael-glenn-martin",
+            "relationship_type": 4,
+            "start_date": "1982",
+            "end_date": "3rd Aug 1997",
+            "length": "15 years",
+            "start_months_since_1900": 984,
+            "end_months_since_1900": 1171,
+            "length_in_months": 180
+        }
+    ],
+    "details": {
+        "First Name": "Elizabeth",
+        "Middle Name": "Joyce",
+        "Last Name": "Shatner",
+        "Maiden Name": "NA",
+        "Full Name at Birth": "Elizabeth Joyce Anderson",
+        "Alternative Name": "Elizabeth Anderson-Shatner",
+        "Birthday": "1958",
+        "Birthplace": "NA",
+        "Height": "NA",
+        "Weight": "NA",
+        "Zodiac Sign": "13",
+        "Sexuality": "Straight",
+        "Religion": "1",
+        "Ethnicity": "6",
+        "Nationality": "91",
+        "Occupation": "18"
+    }
+}

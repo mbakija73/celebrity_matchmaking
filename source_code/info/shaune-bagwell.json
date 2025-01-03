@@ -1,0 +1,66 @@
+{
+    "relationships": [
+        {
+            "name": "Travis Knight",
+            "href": "https://www.whosdatedwho.com/dating/travis-knight-basketball",
+            "relationship_type": 2,
+            "start_date": "2003",
+            "end_date": "2003",
+            "length": "-",
+            "start_months_since_1900": 1236,
+            "end_months_since_1900": 1236,
+            "length_in_months": -1
+        },
+        {
+            "name": "Eddie McClintock",
+            "href": "https://www.whosdatedwho.com/dating/eddie-mcclintock",
+            "relationship_type": 2,
+            "start_date": "2002",
+            "end_date": "2002",
+            "length": "-",
+            "start_months_since_1900": 1224,
+            "end_months_since_1900": 1224,
+            "length_in_months": -1
+        },
+        {
+            "name": "Johnny Rzeznik",
+            "href": "https://www.whosdatedwho.com/dating/johnny-rzeznik",
+            "relationship_type": 2,
+            "start_date": "",
+            "end_date": "",
+            "length": "-",
+            "start_months_since_1900": -1,
+            "end_months_since_1900": -1,
+            "length_in_months": -1
+        },
+        {
+            "name": "Jeff Bagwell",
+            "href": "https://www.whosdatedwho.com/dating/jeff-bagwell",
+            "relationship_type": 4,
+            "start_date": "",
+            "end_date": "",
+            "length": "-",
+            "start_months_since_1900": -1,
+            "end_months_since_1900": -1,
+            "length_in_months": -1
+        }
+    ],
+    "details": {
+        "First Name": "Shaune",
+        "Middle Name": "NA",
+        "Last Name": "Bagwell",
+        "Maiden Name": "Stauffer",
+        "Full Name at Birth": "Shaune Stauffer",
+        "Alternative Name": "Shaune Stauffer Bagwell",
+        "Birthday": "1975",
+        "Birthplace": "USA",
+        "Height": "173",
+        "Weight": "NA",
+        "Zodiac Sign": "5",
+        "Sexuality": "Straight",
+        "Religion": "1",
+        "Ethnicity": "6",
+        "Nationality": "91",
+        "Occupation": "15"
+    }
+}

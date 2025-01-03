@@ -1,0 +1,154 @@
+{
+    "relationships": [
+        {
+            "name": "Diana Ross",
+            "href": "https://www.whosdatedwho.com/dating/diana-ross",
+            "relationship_type": 2,
+            "start_date": "Sep 2005",
+            "end_date": "Mar 2006",
+            "length": "6 months",
+            "start_months_since_1900": 1268,
+            "end_months_since_1900": 1274,
+            "length_in_months": 6
+        },
+        {
+            "name": "Nastassja Kinski",
+            "href": "https://www.whosdatedwho.com/dating/nastassja-kinski",
+            "relationship_type": 2,
+            "start_date": "Feb 2002",
+            "end_date": "May 2002",
+            "length": "2 months",
+            "start_months_since_1900": 1225,
+            "end_months_since_1900": 1228,
+            "length_in_months": 2
+        },
+        {
+            "name": "Barbra Streisand",
+            "href": "https://www.whosdatedwho.com/dating/barbra-streisand",
+            "relationship_type": 2,
+            "start_date": "1994",
+            "end_date": "1995",
+            "length": "1 year",
+            "start_months_since_1900": 1128,
+            "end_months_since_1900": 1140,
+            "length_in_months": 12
+        },
+        {
+            "name": "Eileen Davidson",
+            "href": "https://www.whosdatedwho.com/dating/eileen-davidson",
+            "relationship_type": 2,
+            "start_date": "Feb 1989",
+            "end_date": "Feb 1991",
+            "length": "2 years",
+            "start_months_since_1900": 1069,
+            "end_months_since_1900": 1093,
+            "length_in_months": 24
+        },
+        {
+            "name": "Rebecca De Mornay",
+            "href": "https://www.whosdatedwho.com/dating/rebecca-de-mornay",
+            "relationship_type": 3,
+            "start_date": "Dec 1984",
+            "end_date": "Jan 1985",
+            "length": "1 month",
+            "start_months_since_1900": 1019,
+            "end_months_since_1900": 1020,
+            "length_in_months": 1
+        },
+        {
+            "name": "Stacey Pickren",
+            "href": "https://www.whosdatedwho.com/dating/stacey-pickren",
+            "relationship_type": 2,
+            "start_date": "Jan 1979",
+            "end_date": "Jan 1986",
+            "length": "7 years",
+            "start_months_since_1900": 948,
+            "end_months_since_1900": 1032,
+            "length_in_months": 84
+        },
+        {
+            "name": "Linda Morand",
+            "href": "https://www.whosdatedwho.com/dating/linda-morand",
+            "relationship_type": 3,
+            "start_date": "Jan 1969",
+            "end_date": "Aug 1969",
+            "length": "7 months",
+            "start_months_since_1900": 828,
+            "end_months_since_1900": 835,
+            "length_in_months": 7
+        },
+        {
+            "name": "Marcheline Bertrand",
+            "href": "https://www.whosdatedwho.com/dating/marcheline-bertrand",
+            "relationship_type": 4,
+            "start_date": "1969",
+            "end_date": "1978",
+            "length": "9 years",
+            "start_months_since_1900": 828,
+            "end_months_since_1900": 936,
+            "length_in_months": 108
+        },
+        {
+            "name": "Jennifer Salt",
+            "href": "https://www.whosdatedwho.com/dating/jennifer-salt",
+            "relationship_type": 2,
+            "start_date": "1968",
+            "end_date": "1970",
+            "length": "2 years",
+            "start_months_since_1900": 816,
+            "end_months_since_1900": 840,
+            "length_in_months": 24
+        },
+        {
+            "name": "Lauri Peters",
+            "href": "https://www.whosdatedwho.com/dating/lauri-peters",
+            "relationship_type": 4,
+            "start_date": "1959",
+            "end_date": "1967",
+            "length": "8 years",
+            "start_months_since_1900": 708,
+            "end_months_since_1900": 804,
+            "length_in_months": 96
+        },
+        {
+            "name": "Barbara Carrera",
+            "href": "https://www.whosdatedwho.com/dating/barbara-carrera",
+            "relationship_type": 3,
+            "start_date": "",
+            "end_date": "",
+            "length": "-",
+            "start_months_since_1900": -1,
+            "end_months_since_1900": -1,
+            "length_in_months": -1
+        },
+        {
+            "name": "Cassandra Peterson",
+            "href": "https://www.whosdatedwho.com/dating/cassandra-peterson",
+            "relationship_type": 3,
+            "start_date": "",
+            "end_date": "",
+            "length": "-",
+            "start_months_since_1900": -1,
+            "end_months_since_1900": -1,
+            "length_in_months": -1
+        }
+    ],
+    "details": {
+        "First Name": "Jonathan",
+        "Middle Name": "Vincent",
+        "Last Name": "Voight",
+        "Maiden Name": "NA",
+        "Full Name at Birth": "Jonathan Vincent Voight",
+        "Alternative Name": "Jon Voight",
+        "Birthday": "1938",
+        "Birthplace": "United States",
+        "Height": "189",
+        "Weight": "NA",
+        "Zodiac Sign": "13",
+        "Sexuality": "Straight",
+        "Religion": "13",
+        "Ethnicity": "6",
+        "Nationality": "91",
+        "Occupation": "8"
+    }
+}

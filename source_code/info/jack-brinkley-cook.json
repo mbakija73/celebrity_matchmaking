@@ -1,0 +1,44 @@
+{
+    "relationships": [
+        {
+            "name": "Genie Bouchard",
+            "href": "https://www.whosdatedwho.com/dating/eugenie-bouchard",
+            "relationship_type": 2,
+            "start_date": "Jul 2022",
+            "end_date": "present",
+            "length": "2 years",
+            "start_months_since_1900": 1470,
+            "end_months_since_1900": -1,
+            "length_in_months": 24
+        },
+        {
+            "name": "Nina Agdal",
+            "href": "https://www.whosdatedwho.com/dating/nina-agdal",
+            "relationship_type": 2,
+            "start_date": "Jul 2017",
+            "end_date": "2021",
+            "length": "3 years",
+            "start_months_since_1900": 1410,
+            "end_months_since_1900": 1452,
+            "length_in_months": 36
+        }
+    ],
+    "details": {
+        "First Name": "Jack",
+        "Middle Name": "Brinkley",
+        "Last Name": "Cook",
+        "Maiden Name": "NA",
+        "Full Name at Birth": "Jack Paris Brinkley-Cook",
+        "Alternative Name": "NA",
+        "Birthday": "1995",
+        "Birthplace": "New York",
+        "Height": "178",
+        "Weight": "NA",
+        "Zodiac Sign": "4",
+        "Sexuality": "Straight",
+        "Religion": "1",
+        "Ethnicity": "6",
+        "Nationality": "91",
+        "Occupation": "8"
+    }
+}

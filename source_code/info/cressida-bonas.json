@@ -1,0 +1,44 @@
+{
+    "relationships": [
+        {
+            "name": "Prince Harry",
+            "href": "https://www.whosdatedwho.com/dating/prince-harry-windsor",
+            "relationship_type": 2,
+            "start_date": "May 2012",
+            "end_date": "Oct 2014",
+            "length": "2 years",
+            "start_months_since_1900": 1348,
+            "end_months_since_1900": 1377,
+            "length_in_months": 24
+        },
+        {
+            "name": "Harry Wentworth-Stanley",
+            "href": "https://www.whosdatedwho.com/dating/harry-wentworth-stanley",
+            "relationship_type": 4,
+            "start_date": "2009",
+            "end_date": "present",
+            "length": "15 years",
+            "start_months_since_1900": 1308,
+            "end_months_since_1900": -1,
+            "length_in_months": 180
+        }
+    ],
+    "details": {
+        "First Name": "Cressida",
+        "Middle Name": "Curzon",
+        "Last Name": "Bonas",
+        "Maiden Name": "NA",
+        "Full Name at Birth": "Cressida Curzon Bonas",
+        "Alternative Name": "Cressy",
+        "Birthday": "1989",
+        "Birthplace": "United Kingdom",
+        "Height": "173",
+        "Weight": "121lbs (55 kg)",
+        "Zodiac Sign": "9",
+        "Sexuality": "Straight",
+        "Religion": "11",
+        "Ethnicity": "6",
+        "Nationality": "8",
+        "Occupation": "8"
+    }
+}

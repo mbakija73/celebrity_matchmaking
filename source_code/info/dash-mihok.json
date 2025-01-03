@@ -1,0 +1,33 @@
+{
+    "relationships": [
+        {
+            "name": "Alanis Morissette",
+            "href": "https://www.whosdatedwho.com/dating/alanis-morissette",
+            "relationship_type": 2,
+            "start_date": "1998",
+            "end_date": "2001",
+            "length": "3 years",
+            "start_months_since_1900": 1176,
+            "end_months_since_1900": 1212,
+            "length_in_months": 36
+        }
+    ],
+    "details": {
+        "First Name": "Dash",
+        "Middle Name": "NA",
+        "Last Name": "Mihok",
+        "Maiden Name": "NA",
+        "Full Name at Birth": "Dashiell Mihok",
+        "Alternative Name": "NA",
+        "Birthday": "1974",
+        "Birthplace": "New York",
+        "Height": "191",
+        "Weight": "NA",
+        "Zodiac Sign": "4",
+        "Sexuality": "Straight",
+        "Religion": "13",
+        "Ethnicity": "6",
+        "Nationality": "91",
+        "Occupation": "8"
+    }
+}

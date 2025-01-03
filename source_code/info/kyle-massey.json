@@ -1,0 +1,66 @@
+{
+    "relationships": [
+        {
+            "name": "Hana Giraldo",
+            "href": "https://www.whosdatedwho.com/dating/hana-giraldo",
+            "relationship_type": 2,
+            "start_date": "Oct 2017",
+            "end_date": "2020",
+            "length": "2 years",
+            "start_months_since_1900": 1413,
+            "end_months_since_1900": 1440,
+            "length_in_months": 24
+        },
+        {
+            "name": "Bristol Palin",
+            "href": "https://www.whosdatedwho.com/dating/bristol-palin",
+            "relationship_type": 2,
+            "start_date": "Apr 2011",
+            "end_date": "Apr 2011",
+            "length": "-",
+            "start_months_since_1900": 1335,
+            "end_months_since_1900": 1335,
+            "length_in_months": -1
+        },
+        {
+            "name": "Maiara Walsh",
+            "href": "https://www.whosdatedwho.com/dating/maiara-walsh",
+            "relationship_type": 2,
+            "start_date": "2007",
+            "end_date": "2010",
+            "length": "3 years",
+            "start_months_since_1900": 1284,
+            "end_months_since_1900": 1320,
+            "length_in_months": 36
+        },
+        {
+            "name": "Taylor Dooley",
+            "href": "https://www.whosdatedwho.com/dating/taylor-dooley",
+            "relationship_type": 1,
+            "start_date": "",
+            "end_date": "",
+            "length": "-",
+            "start_months_since_1900": -1,
+            "end_months_since_1900": -1,
+            "length_in_months": -1
+        }
+    ],
+    "details": {
+        "First Name": "Kyle",
+        "Middle Name": "Orlando",
+        "Last Name": "Massey",
+        "Maiden Name": "NA",
+        "Full Name at Birth": "Kyle Orlando Massey",
+        "Alternative Name": "Kyle Massey",
+        "Birthday": "1991",
+        "Birthplace": "Georgia",
+        "Height": "168",
+        "Weight": "NA",
+        "Zodiac Sign": "11",
+        "Sexuality": "Straight",
+        "Religion": "1",
+        "Ethnicity": "2",
+        "Nationality": "91",
+        "Occupation": "8"
+    }
+}

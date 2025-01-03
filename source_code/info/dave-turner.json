@@ -1,0 +1,33 @@
+{
+    "relationships": [
+        {
+            "name": "Dinah Washington",
+            "href": "https://www.whosdatedwho.com/dating/dinah-washington",
+            "relationship_type": 2,
+            "start_date": "1962",
+            "end_date": "1962",
+            "length": "-",
+            "start_months_since_1900": 744,
+            "end_months_since_1900": 744,
+            "length_in_months": -1
+        }
+    ],
+    "details": {
+        "First Name": "Dave",
+        "Middle Name": "NA",
+        "Last Name": "Turner",
+        "Maiden Name": "NA",
+        "Full Name at Birth": "Dave Turner",
+        "Alternative Name": "Dave Turner, Dave M. Turner",
+        "Birthday": "NA",
+        "Birthplace": "IL",
+        "Height": "NA",
+        "Weight": "NA",
+        "Zodiac Sign": "2",
+        "Sexuality": "NA",
+        "Religion": "1",
+        "Ethnicity": "2",
+        "Nationality": "91",
+        "Occupation": "16"
+    }
+}

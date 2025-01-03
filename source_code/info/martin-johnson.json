@@ -1,0 +1,66 @@
+{
+    "relationships": [
+        {
+            "name": "Naomi Cooke",
+            "href": "https://www.whosdatedwho.com/dating/naomi-cooke",
+            "relationship_type": 4,
+            "start_date": "2018",
+            "end_date": "present",
+            "length": "6 years",
+            "start_months_since_1900": 1416,
+            "end_months_since_1900": -1,
+            "length_in_months": 72
+        },
+        {
+            "name": "Ashley Tisdale",
+            "href": "https://www.whosdatedwho.com/dating/ashley-tisdale",
+            "relationship_type": 2,
+            "start_date": "Dec 2011",
+            "end_date": "Mar 2012",
+            "length": "3 months",
+            "start_months_since_1900": 1343,
+            "end_months_since_1900": 1346,
+            "length_in_months": 3
+        },
+        {
+            "name": "Hanna Beth Merjos",
+            "href": "https://www.whosdatedwho.com/dating/hanna-beth-merjos",
+            "relationship_type": 2,
+            "start_date": "2007",
+            "end_date": "Nov 2007",
+            "length": "10 months",
+            "start_months_since_1900": 1284,
+            "end_months_since_1900": 1294,
+            "length_in_months": 10
+        },
+        {
+            "name": "Christina Perri",
+            "href": "https://www.whosdatedwho.com/dating/christina-perri",
+            "relationship_type": 1,
+            "start_date": "",
+            "end_date": "",
+            "length": "-",
+            "start_months_since_1900": -1,
+            "end_months_since_1900": -1,
+            "length_in_months": -1
+        }
+    ],
+    "details": {
+        "First Name": "Martin",
+        "Middle Name": "Bennett",
+        "Last Name": "Johnson",
+        "Maiden Name": "NA",
+        "Full Name at Birth": "Martin Bennett Johnson",
+        "Alternative Name": "Party Marty, Mj, Jack Daniel, Martin Bennett Johnson, Martin Johnson",
+        "Birthday": "1985",
+        "Birthplace": "MA",
+        "Height": "188",
+        "Weight": "NA",
+        "Zodiac Sign": "11",
+        "Sexuality": "Straight",
+        "Religion": "1",
+        "Ethnicity": "6",
+        "Nationality": "91",
+        "Occupation": "1"
+    }
+}

@@ -1,0 +1,55 @@
+{
+    "relationships": [
+        {
+            "name": "John McEnroe",
+            "href": "https://www.whosdatedwho.com/dating/john-mcenroe",
+            "relationship_type": 4,
+            "start_date": "Dec 1993",
+            "end_date": "present",
+            "length": "30 years",
+            "start_months_since_1900": 1127,
+            "end_months_since_1900": -1,
+            "length_in_months": 360
+        },
+        {
+            "name": "Don Henley",
+            "href": "https://www.whosdatedwho.com/dating/don-henley",
+            "relationship_type": 2,
+            "start_date": "1991",
+            "end_date": "1992",
+            "length": "1 year",
+            "start_months_since_1900": 1092,
+            "end_months_since_1900": 1104,
+            "length_in_months": 12
+        },
+        {
+            "name": "Richard Hell",
+            "href": "https://www.whosdatedwho.com/dating/richard-hell",
+            "relationship_type": 4,
+            "start_date": "1985",
+            "end_date": "1987",
+            "length": "2 years",
+            "start_months_since_1900": 1020,
+            "end_months_since_1900": 1044,
+            "length_in_months": 24
+        }
+    ],
+    "details": {
+        "First Name": "Patty",
+        "Middle Name": "NA",
+        "Last Name": "Smyth",
+        "Maiden Name": "NA",
+        "Full Name at Birth": "Patty Smyth",
+        "Alternative Name": "Patty Smyth, P. Smyth, P.Smith, Patricia Smyth, Patti Smyth, Patty Smith, Patty Smythe, Smyth, \u30d1\u30c6\u30a3\u30fb\u30b9\u30de\u30a4\u30b9, \u4f69\u8482\u53f2\u9ea5\u7d72",
+        "Birthday": "1957",
+        "Birthplace": "USA",
+        "Height": "NA",
+        "Weight": "NA",
+        "Zodiac Sign": "8",
+        "Sexuality": "Straight",
+        "Religion": "1",
+        "Ethnicity": "6",
+        "Nationality": "91",
+        "Occupation": "1"
+    }
+}

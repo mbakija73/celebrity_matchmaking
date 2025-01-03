@@ -1,0 +1,55 @@
+{
+    "relationships": [
+        {
+            "name": "Kevin Ryder",
+            "href": "https://www.whosdatedwho.com/dating/kevin-ryder",
+            "relationship_type": 2,
+            "start_date": "2021",
+            "end_date": "present",
+            "length": "3 years",
+            "start_months_since_1900": 1452,
+            "end_months_since_1900": -1,
+            "length_in_months": 36
+        },
+        {
+            "name": "Matthew Drake (I)",
+            "href": "https://www.whosdatedwho.com/dating/matthew-drake-i",
+            "relationship_type": 4,
+            "start_date": "2006",
+            "end_date": "2021",
+            "length": "15 years",
+            "start_months_since_1900": 1272,
+            "end_months_since_1900": 1452,
+            "length_in_months": 180
+        },
+        {
+            "name": "Travis Fimmel",
+            "href": "https://www.whosdatedwho.com/dating/travis-fimmel",
+            "relationship_type": 2,
+            "start_date": "2002",
+            "end_date": "Nov 2003",
+            "length": "1 year",
+            "start_months_since_1900": 1224,
+            "end_months_since_1900": 1246,
+            "length_in_months": 12
+        }
+    ],
+    "details": {
+        "First Name": "Merrin",
+        "Middle Name": "Melissa",
+        "Last Name": "Drake",
+        "Maiden Name": "Dungey",
+        "Full Name at Birth": "Merrin Melissa Dungey",
+        "Alternative Name": "Merrin",
+        "Birthday": "1971",
+        "Birthplace": "USA",
+        "Height": "175",
+        "Weight": "144lbs (65 kg)",
+        "Zodiac Sign": "12",
+        "Sexuality": "Straight",
+        "Religion": "1",
+        "Ethnicity": "2",
+        "Nationality": "91",
+        "Occupation": "8"
+    }
+}

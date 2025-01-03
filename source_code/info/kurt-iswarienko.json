@@ -1,0 +1,44 @@
+{
+    "relationships": [
+        {
+            "name": "Shannen Doherty",
+            "href": "https://www.whosdatedwho.com/dating/shannen-doherty",
+            "relationship_type": 4,
+            "start_date": "Nov 2008",
+            "end_date": "Apr 2023",
+            "length": "14 years",
+            "start_months_since_1900": 1306,
+            "end_months_since_1900": 1479,
+            "length_in_months": 168
+        },
+        {
+            "name": "Taryn Band",
+            "href": "https://www.whosdatedwho.com/dating/taryn-band",
+            "relationship_type": 4,
+            "start_date": "",
+            "end_date": "Nov 2008",
+            "length": "-",
+            "start_months_since_1900": -1,
+            "end_months_since_1900": 1306,
+            "length_in_months": -1
+        }
+    ],
+    "details": {
+        "First Name": "Kurt",
+        "Middle Name": "NA",
+        "Last Name": "Iswarienko",
+        "Maiden Name": "NA",
+        "Full Name at Birth": "Kurt Iswarienko",
+        "Alternative Name": "NA",
+        "Birthday": "1974",
+        "Birthplace": "USA",
+        "Height": "NA",
+        "Weight": "NA",
+        "Zodiac Sign": "8",
+        "Sexuality": "Straight",
+        "Religion": "1",
+        "Ethnicity": "6",
+        "Nationality": "91",
+        "Occupation": "13"
+    }
+}

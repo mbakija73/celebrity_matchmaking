@@ -1,0 +1,44 @@
+{
+    "relationships": [
+        {
+            "name": "Al Pacino",
+            "href": "https://www.whosdatedwho.com/dating/al-pacino",
+            "relationship_type": 2,
+            "start_date": "Nov 1976",
+            "end_date": "Nov 1978",
+            "length": "2 years",
+            "start_months_since_1900": 922,
+            "end_months_since_1900": 946,
+            "length_in_months": 24
+        },
+        {
+            "name": "Philippe de Broca",
+            "href": "https://www.whosdatedwho.com/dating/philippe-de-broca",
+            "relationship_type": 2,
+            "start_date": "1970",
+            "end_date": "1975",
+            "length": "5 years",
+            "start_months_since_1900": 840,
+            "end_months_since_1900": 900,
+            "length_in_months": 60
+        }
+    ],
+    "details": {
+        "First Name": "Marthe",
+        "Middle Name": "NA",
+        "Last Name": "Keller",
+        "Maiden Name": "NA",
+        "Full Name at Birth": "Marthe Keller",
+        "Alternative Name": "Martha Keller",
+        "Birthday": "1945",
+        "Birthplace": "Switzerland",
+        "Height": "173",
+        "Weight": "NA",
+        "Zodiac Sign": "9",
+        "Sexuality": "Straight",
+        "Religion": "1",
+        "Ethnicity": "6",
+        "Nationality": "64",
+        "Occupation": "8"
+    }
+}

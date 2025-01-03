@@ -1,0 +1,66 @@
+{
+    "relationships": [
+        {
+            "name": "Dorothy Dalton",
+            "href": "https://www.whosdatedwho.com/dating/dorothy-dalton",
+            "relationship_type": 4,
+            "start_date": "1923",
+            "end_date": "Oct 1955",
+            "length": "32 years",
+            "start_months_since_1900": 276,
+            "end_months_since_1900": 669,
+            "length_in_months": 384
+        },
+        {
+            "name": "Clair Nagle",
+            "href": "https://www.whosdatedwho.com/dating/clair-nagle",
+            "relationship_type": 4,
+            "start_date": "1918",
+            "end_date": "1921",
+            "length": "3 years",
+            "start_months_since_1900": 216,
+            "end_months_since_1900": 252,
+            "length_in_months": 36
+        },
+        {
+            "name": "Grace Weir Hoagland",
+            "href": "https://www.whosdatedwho.com/dating/grace-weir-hoagland",
+            "relationship_type": 4,
+            "start_date": "1909",
+            "end_date": "1915",
+            "length": "6 years",
+            "start_months_since_1900": 108,
+            "end_months_since_1900": 180,
+            "length_in_months": 72
+        },
+        {
+            "name": "Jean Allison Hammerstein",
+            "href": "https://www.whosdatedwho.com/dating/jean-allison-hammerstein",
+            "relationship_type": 4,
+            "start_date": "1892",
+            "end_date": "1910",
+            "length": "18 years",
+            "start_months_since_1900": -96,
+            "end_months_since_1900": 120,
+            "length_in_months": 216
+        }
+    ],
+    "details": {
+        "First Name": "Arthur",
+        "Middle Name": "NA",
+        "Last Name": "Hammerstein",
+        "Maiden Name": "NA",
+        "Full Name at Birth": "Arthur Hammerstein",
+        "Alternative Name": "NA",
+        "Birthday": "1872",
+        "Birthplace": "USA",
+        "Height": "NA",
+        "Weight": "NA",
+        "Zodiac Sign": "6",
+        "Sexuality": "Straight",
+        "Religion": "31",
+        "Ethnicity": "6",
+        "Nationality": "91",
+        "Occupation": "3"
+    }
+}

@@ -1,0 +1,33 @@
+{
+    "relationships": [
+        {
+            "name": "Paris Hilton",
+            "href": "https://www.whosdatedwho.com/dating/paris-hilton",
+            "relationship_type": 2,
+            "start_date": "Jul 2014",
+            "end_date": "Oct 2014",
+            "length": "3 months",
+            "start_months_since_1900": 1374,
+            "end_months_since_1900": 1377,
+            "length_in_months": 3
+        }
+    ],
+    "details": {
+        "First Name": "Josh",
+        "Middle Name": "NA",
+        "Last Name": "Upshaw",
+        "Maiden Name": "NA",
+        "Full Name at Birth": "Joshua M. Upshaw",
+        "Alternative Name": "NA",
+        "Birthday": "1985",
+        "Birthplace": "NA",
+        "Height": "180",
+        "Weight": "NA",
+        "Zodiac Sign": "13",
+        "Sexuality": "Straight",
+        "Religion": "1",
+        "Ethnicity": "6",
+        "Nationality": "91",
+        "Occupation": "15"
+    }
+}

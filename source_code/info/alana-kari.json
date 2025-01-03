@@ -1,0 +1,44 @@
+{
+    "relationships": [
+        {
+            "name": "Mark Sanchez",
+            "href": "https://www.whosdatedwho.com/dating/mark-sanchez",
+            "relationship_type": 2,
+            "start_date": "Jun 2013",
+            "end_date": "",
+            "length": "-",
+            "start_months_since_1900": 1361,
+            "end_months_since_1900": -1,
+            "length_in_months": -1
+        },
+        {
+            "name": "Dan Bilzerian",
+            "href": "https://www.whosdatedwho.com/dating/dan-bilzerian",
+            "relationship_type": 2,
+            "start_date": "Nov 2012",
+            "end_date": "Apr 2013",
+            "length": "5 months",
+            "start_months_since_1900": 1354,
+            "end_months_since_1900": 1359,
+            "length_in_months": 5
+        }
+    ],
+    "details": {
+        "First Name": "Alana",
+        "Middle Name": "NA",
+        "Last Name": "NA",
+        "Maiden Name": "Kari",
+        "Full Name at Birth": "Alana Kari",
+        "Alternative Name": "NA",
+        "Birthday": "1989",
+        "Birthplace": "NA",
+        "Height": "NA",
+        "Weight": "NA",
+        "Zodiac Sign": "9",
+        "Sexuality": "Straight",
+        "Religion": "1",
+        "Ethnicity": "8",
+        "Nationality": "91",
+        "Occupation": "11"
+    }
+}

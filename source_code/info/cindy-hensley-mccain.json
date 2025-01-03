@@ -1,0 +1,33 @@
+{
+    "relationships": [
+        {
+            "name": "John McCain",
+            "href": "https://www.whosdatedwho.com/dating/john-mccain",
+            "relationship_type": 4,
+            "start_date": "1978",
+            "end_date": "25th Aug 2018",
+            "length": "40 years",
+            "start_months_since_1900": 936,
+            "end_months_since_1900": 1423,
+            "length_in_months": 480
+        }
+    ],
+    "details": {
+        "First Name": "Cindy",
+        "Middle Name": "Lou",
+        "Last Name": "McCain",
+        "Maiden Name": "Hensley",
+        "Full Name at Birth": "Cindy Lou Hensley",
+        "Alternative Name": "Cindy Hensley McCain, Cindy McCain, Cindy",
+        "Birthday": "1954",
+        "Birthplace": "USA",
+        "Height": "167",
+        "Weight": "139lbs (63 kg)",
+        "Zodiac Sign": "3",
+        "Sexuality": "Straight",
+        "Religion": "19",
+        "Ethnicity": "6",
+        "Nationality": "91",
+        "Occupation": "7"
+    }
+}

@@ -1,0 +1,55 @@
+{
+    "relationships": [
+        {
+            "name": "Genie Francis",
+            "href": "https://www.whosdatedwho.com/dating/genie-francis",
+            "relationship_type": 4,
+            "start_date": "May 1985",
+            "end_date": "present",
+            "length": "39 years",
+            "start_months_since_1900": 1024,
+            "end_months_since_1900": -1,
+            "length_in_months": 468
+        },
+        {
+            "name": "Debralee Scott",
+            "href": "https://www.whosdatedwho.com/dating/debralee-scott",
+            "relationship_type": 2,
+            "start_date": "1980",
+            "end_date": "1985",
+            "length": "5 years",
+            "start_months_since_1900": 960,
+            "end_months_since_1900": 1020,
+            "length_in_months": 60
+        },
+        {
+            "name": "Jayni Chase",
+            "href": "https://www.whosdatedwho.com/dating/jayni-chase",
+            "relationship_type": 2,
+            "start_date": "1977",
+            "end_date": "1977",
+            "length": "-",
+            "start_months_since_1900": 924,
+            "end_months_since_1900": 924,
+            "length_in_months": -1
+        }
+    ],
+    "details": {
+        "First Name": "Jonathan",
+        "Middle Name": "Scott",
+        "Last Name": "Frakes",
+        "Maiden Name": "NA",
+        "Full Name at Birth": "Jonathan Scott Frakes",
+        "Alternative Name": "Two-Takes Frakes",
+        "Birthday": "1952",
+        "Birthplace": "Pennsylvania",
+        "Height": "193",
+        "Weight": "NA",
+        "Zodiac Sign": "12",
+        "Sexuality": "Straight",
+        "Religion": "37",
+        "Ethnicity": "6",
+        "Nationality": "91",
+        "Occupation": "8"
+    }
+}

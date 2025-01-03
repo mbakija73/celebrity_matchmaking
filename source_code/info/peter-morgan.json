@@ -1,0 +1,44 @@
+{
+    "relationships": [
+        {
+            "name": "Jemima Khan",
+            "href": "https://www.whosdatedwho.com/dating/jemima-khan",
+            "relationship_type": 2,
+            "start_date": "Jan 2021",
+            "end_date": "Feb 2021",
+            "length": "1 month",
+            "start_months_since_1900": 1452,
+            "end_months_since_1900": 1453,
+            "length_in_months": 1
+        },
+        {
+            "name": "Gillian Anderson",
+            "href": "https://www.whosdatedwho.com/dating/gillian-anderson",
+            "relationship_type": 2,
+            "start_date": "2016",
+            "end_date": "Dec 2020",
+            "length": "4 years",
+            "start_months_since_1900": 1392,
+            "end_months_since_1900": 1451,
+            "length_in_months": 48
+        }
+    ],
+    "details": {
+        "First Name": "Peter",
+        "Middle Name": "Julian",
+        "Last Name": "Morgan",
+        "Maiden Name": "NA",
+        "Full Name at Birth": "Peter Julian Robin Morgan",
+        "Alternative Name": "NA",
+        "Birthday": "1963",
+        "Birthplace": "UK",
+        "Height": "187",
+        "Weight": "NA",
+        "Zodiac Sign": "7",
+        "Sexuality": "Straight",
+        "Religion": "1",
+        "Ethnicity": "6",
+        "Nationality": "8",
+        "Occupation": "3"
+    }
+}

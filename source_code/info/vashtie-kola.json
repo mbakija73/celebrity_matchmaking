@@ -1,0 +1,66 @@
+{
+    "relationships": [
+        {
+            "name": "Joey Bada$$",
+            "href": "https://www.whosdatedwho.com/dating/joey-badass",
+            "relationship_type": 1,
+            "start_date": "Sep 2015",
+            "end_date": "Sep 2015",
+            "length": "-",
+            "start_months_since_1900": 1388,
+            "end_months_since_1900": 1388,
+            "length_in_months": -1
+        },
+        {
+            "name": "Pharrell Williams",
+            "href": "https://www.whosdatedwho.com/dating/pharrell-williams",
+            "relationship_type": 2,
+            "start_date": "Sep 2004",
+            "end_date": "2006",
+            "length": "1 year",
+            "start_months_since_1900": 1256,
+            "end_months_since_1900": 1272,
+            "length_in_months": 12
+        },
+        {
+            "name": "Andr\u00e9 3000",
+            "href": "https://www.whosdatedwho.com/dating/andre-benjamin",
+            "relationship_type": 1,
+            "start_date": "",
+            "end_date": "",
+            "length": "-",
+            "start_months_since_1900": -1,
+            "end_months_since_1900": -1,
+            "length_in_months": -1
+        },
+        {
+            "name": "Emil Boye",
+            "href": "https://www.whosdatedwho.com/dating/emil-boye",
+            "relationship_type": 4,
+            "start_date": "",
+            "end_date": "present",
+            "length": "-",
+            "start_months_since_1900": -1,
+            "end_months_since_1900": -1,
+            "length_in_months": -1
+        }
+    ],
+    "details": {
+        "First Name": "Vashtie",
+        "Middle Name": "NA",
+        "Last Name": "Kola",
+        "Maiden Name": "Kola",
+        "Full Name at Birth": "Vashtie Kola",
+        "Alternative Name": "Va$htie, Vashti",
+        "Birthday": "1981",
+        "Birthplace": "USA",
+        "Height": "165",
+        "Weight": "117lbs (53 kg)",
+        "Zodiac Sign": "3",
+        "Sexuality": "Straight",
+        "Religion": "1",
+        "Ethnicity": "8",
+        "Nationality": "91",
+        "Occupation": "9"
+    }
+}

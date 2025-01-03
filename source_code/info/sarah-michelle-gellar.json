@@ -1,0 +1,55 @@
+{
+    "relationships": [
+        {
+            "name": "Freddie Prinze Jr.",
+            "href": "https://www.whosdatedwho.com/dating/freddie-prinze-jr",
+            "relationship_type": 4,
+            "start_date": "Jan 2000",
+            "end_date": "present",
+            "length": "24 years",
+            "start_months_since_1900": 1200,
+            "end_months_since_1900": -1,
+            "length_in_months": 288
+        },
+        {
+            "name": "Jerry O'Connell",
+            "href": "https://www.whosdatedwho.com/dating/jerry-o-connell",
+            "relationship_type": 3,
+            "start_date": "1999",
+            "end_date": "1999",
+            "length": "-",
+            "start_months_since_1900": 1188,
+            "end_months_since_1900": 1188,
+            "length_in_months": -1
+        },
+        {
+            "name": "David Boreanaz",
+            "href": "https://www.whosdatedwho.com/dating/david-boreanaz",
+            "relationship_type": 2,
+            "start_date": "1998",
+            "end_date": "1999",
+            "length": "1 year",
+            "start_months_since_1900": 1176,
+            "end_months_since_1900": 1188,
+            "length_in_months": 12
+        }
+    ],
+    "details": {
+        "First Name": "Sarah",
+        "Middle Name": "Michelle",
+        "Last Name": "Prinze",
+        "Maiden Name": "Gellar",
+        "Full Name at Birth": "Sarah Michelle Gellar",
+        "Alternative Name": "Sarah Michelle Gellar Prinze, Sassy, Smg",
+        "Birthday": "1977",
+        "Birthplace": "USA",
+        "Height": "163",
+        "Weight": "117lbs (53 kg)",
+        "Zodiac Sign": "7",
+        "Sexuality": "Straight",
+        "Religion": "31",
+        "Ethnicity": "6",
+        "Nationality": "91",
+        "Occupation": "8"
+    }
+}

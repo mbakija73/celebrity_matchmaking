@@ -1,0 +1,33 @@
+{
+    "relationships": [
+        {
+            "name": "Stella Stevens",
+            "href": "https://www.whosdatedwho.com/dating/stella-stevens",
+            "relationship_type": 2,
+            "start_date": "1983",
+            "end_date": "May 2020",
+            "length": "37 years",
+            "start_months_since_1900": 996,
+            "end_months_since_1900": 1444,
+            "length_in_months": 444
+        }
+    ],
+    "details": {
+        "First Name": "Bob",
+        "Middle Name": "NA",
+        "Last Name": "Kulick",
+        "Maiden Name": "NA",
+        "Full Name at Birth": "Robert Joel Kulick",
+        "Alternative Name": "Bob Kulich, Bob Kulick",
+        "Birthday": "1950",
+        "Birthplace": "USA",
+        "Height": "188",
+        "Weight": "NA",
+        "Zodiac Sign": "13",
+        "Sexuality": "Straight",
+        "Religion": "31",
+        "Ethnicity": "1",
+        "Nationality": "91",
+        "Occupation": "1"
+    }
+}

@@ -1,0 +1,44 @@
+{
+    "relationships": [
+        {
+            "name": "Keremcem",
+            "href": "https://www.whosdatedwho.com/dating/keremcem",
+            "relationship_type": 2,
+            "start_date": "Oct 2015",
+            "end_date": "Aug 2016",
+            "length": "10 months",
+            "start_months_since_1900": 1389,
+            "end_months_since_1900": 1399,
+            "length_in_months": 10
+        },
+        {
+            "name": "Ushan \u00c7akir",
+            "href": "https://www.whosdatedwho.com/dating/ushan-cakir",
+            "relationship_type": 1,
+            "start_date": "2011",
+            "end_date": "2011",
+            "length": "-",
+            "start_months_since_1900": 1332,
+            "end_months_since_1900": 1332,
+            "length_in_months": -1
+        }
+    ],
+    "details": {
+        "First Name": "Ezgi",
+        "Middle Name": "NA",
+        "Last Name": "Asaroglu",
+        "Maiden Name": "NA",
+        "Full Name at Birth": "Ezgi Asaro\u011flu",
+        "Alternative Name": "Ezgi Asaro\u011flu",
+        "Birthday": "1987",
+        "Birthplace": "Turkey",
+        "Height": "165",
+        "Weight": "99lbs (45 kg)",
+        "Zodiac Sign": "4",
+        "Sexuality": "Straight",
+        "Religion": "1",
+        "Ethnicity": "6",
+        "Nationality": "75",
+        "Occupation": "8"
+    }
+}

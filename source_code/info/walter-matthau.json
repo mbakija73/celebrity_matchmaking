@@ -1,0 +1,66 @@
+{
+    "relationships": [
+        {
+            "name": "Carol Grace",
+            "href": "https://www.whosdatedwho.com/dating/carol-grace",
+            "relationship_type": 4,
+            "start_date": "1959",
+            "end_date": "1st Jul 2000",
+            "length": "41 years",
+            "start_months_since_1900": 708,
+            "end_months_since_1900": 1206,
+            "length_in_months": 492
+        },
+        {
+            "name": "Grace Geraldine Johnson",
+            "href": "https://www.whosdatedwho.com/dating/grace-geraldine-johnson",
+            "relationship_type": 4,
+            "start_date": "1948",
+            "end_date": "1958",
+            "length": "10 years",
+            "start_months_since_1900": 576,
+            "end_months_since_1900": 696,
+            "length_in_months": 120
+        },
+        {
+            "name": "Yvonne De Carlo",
+            "href": "https://www.whosdatedwho.com/dating/yvonne-de-carlo",
+            "relationship_type": 3,
+            "start_date": "",
+            "end_date": "",
+            "length": "-",
+            "start_months_since_1900": -1,
+            "end_months_since_1900": -1,
+            "length_in_months": -1
+        },
+        {
+            "name": "Glenda Jackson",
+            "href": "https://www.whosdatedwho.com/dating/glenda-jackson",
+            "relationship_type": 1,
+            "start_date": "",
+            "end_date": "",
+            "length": "-",
+            "start_months_since_1900": -1,
+            "end_months_since_1900": -1,
+            "length_in_months": -1
+        }
+    ],
+    "details": {
+        "First Name": "Walter",
+        "Middle Name": "John",
+        "Last Name": "Matthau",
+        "Maiden Name": "NA",
+        "Full Name at Birth": "Walter John Matthow",
+        "Alternative Name": "Jake",
+        "Birthday": "1920",
+        "Birthplace": "USA",
+        "Height": "191",
+        "Weight": "NA",
+        "Zodiac Sign": "10",
+        "Sexuality": "Straight",
+        "Religion": "31",
+        "Ethnicity": "6",
+        "Nationality": "91",
+        "Occupation": "8"
+    }
+}

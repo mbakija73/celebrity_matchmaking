@@ -1,0 +1,44 @@
+{
+    "relationships": [
+        {
+            "name": "Ciara Hanna",
+            "href": "https://www.whosdatedwho.com/dating/ciara-hanna",
+            "relationship_type": 2,
+            "start_date": "Mar 2013",
+            "end_date": "Jul 2013",
+            "length": "4 months",
+            "start_months_since_1900": 1358,
+            "end_months_since_1900": 1362,
+            "length_in_months": 4
+        },
+        {
+            "name": "Anna Hutchison",
+            "href": "https://www.whosdatedwho.com/dating/anna-hutchison",
+            "relationship_type": 2,
+            "start_date": "2008",
+            "end_date": "present",
+            "length": "16 years",
+            "start_months_since_1900": 1296,
+            "end_months_since_1900": -1,
+            "length_in_months": 192
+        }
+    ],
+    "details": {
+        "First Name": "Jason",
+        "Middle Name": "NA",
+        "Last Name": "Smith",
+        "Maiden Name": "NA",
+        "Full Name at Birth": "Jason Smith",
+        "Alternative Name": "NA",
+        "Birthday": "1984",
+        "Birthplace": "New South Wales",
+        "Height": "175",
+        "Weight": "NA",
+        "Zodiac Sign": "4",
+        "Sexuality": "Straight",
+        "Religion": "1",
+        "Ethnicity": "6",
+        "Nationality": "135",
+        "Occupation": "8"
+    }
+}

@@ -1,0 +1,55 @@
+{
+    "relationships": [
+        {
+            "name": "Drake",
+            "href": "https://www.whosdatedwho.com/dating/aubrey-graham",
+            "relationship_type": 3,
+            "start_date": "Nov 2014",
+            "end_date": "Nov 2014",
+            "length": "-",
+            "start_months_since_1900": 1378,
+            "end_months_since_1900": 1378,
+            "length_in_months": -1
+        },
+        {
+            "name": "Meek Mill",
+            "href": "https://www.whosdatedwho.com/dating/meek-mill",
+            "relationship_type": 3,
+            "start_date": "2014",
+            "end_date": "2014",
+            "length": "-",
+            "start_months_since_1900": 1368,
+            "end_months_since_1900": 1368,
+            "length_in_months": -1
+        },
+        {
+            "name": "Trey Songz",
+            "href": "https://www.whosdatedwho.com/dating/trey-songz",
+            "relationship_type": 3,
+            "start_date": "Aug 2012",
+            "end_date": "Jan 2014",
+            "length": "1 year",
+            "start_months_since_1900": 1351,
+            "end_months_since_1900": 1368,
+            "length_in_months": 12
+        }
+    ],
+    "details": {
+        "First Name": "Iesha",
+        "Middle Name": "Marie",
+        "Last Name": "Crespo",
+        "Maiden Name": "NA",
+        "Full Name at Birth": "Iesha Marie Crespo",
+        "Alternative Name": "NA",
+        "Birthday": "1991",
+        "Birthplace": "USA",
+        "Height": "170",
+        "Weight": "116lbs (53 kg)",
+        "Zodiac Sign": "9",
+        "Sexuality": "Straight",
+        "Religion": "18",
+        "Ethnicity": "8",
+        "Nationality": "91",
+        "Occupation": "16"
+    }
+}

@@ -1,0 +1,44 @@
+{
+    "relationships": [
+        {
+            "name": "Seth MacFarlane",
+            "href": "https://www.whosdatedwho.com/dating/seth-macfarlane",
+            "relationship_type": 2,
+            "start_date": "2007",
+            "end_date": "Jan 2008",
+            "length": "1 year",
+            "start_months_since_1900": 1284,
+            "end_months_since_1900": 1296,
+            "length_in_months": 12
+        },
+        {
+            "name": "Jim Hustead (restaurateur)",
+            "href": "https://www.whosdatedwho.com/dating/jim-hustead-restaurateur",
+            "relationship_type": 2,
+            "start_date": "",
+            "end_date": "present",
+            "length": "-",
+            "start_months_since_1900": -1,
+            "end_months_since_1900": -1,
+            "length_in_months": -1
+        }
+    ],
+    "details": {
+        "First Name": "Kat",
+        "Middle Name": "Davidametja",
+        "Last Name": "Foster",
+        "Maiden Name": "NA",
+        "Full Name at Birth": "Kathryn Davidametja Foster",
+        "Alternative Name": "Kat Foster, Kitty Kat",
+        "Birthday": "1978",
+        "Birthplace": "USA",
+        "Height": "170",
+        "Weight": "132lbs (60 kg)",
+        "Zodiac Sign": "3",
+        "Sexuality": "Straight",
+        "Religion": "1",
+        "Ethnicity": "6",
+        "Nationality": "91",
+        "Occupation": "8"
+    }
+}

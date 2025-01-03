@@ -1,0 +1,55 @@
+{
+    "relationships": [
+        {
+            "name": "Bence Istenes",
+            "href": "https://www.whosdatedwho.com/dating/bence-istenes",
+            "relationship_type": 2,
+            "start_date": "Dec 2012",
+            "end_date": "Dec 2012",
+            "length": "-",
+            "start_months_since_1900": 1355,
+            "end_months_since_1900": 1355,
+            "length_in_months": -1
+        },
+        {
+            "name": "Szil\u00e1rd Nagy",
+            "href": "https://www.whosdatedwho.com/dating/szilard-nagy",
+            "relationship_type": 3,
+            "start_date": "",
+            "end_date": "",
+            "length": "-",
+            "start_months_since_1900": -1,
+            "end_months_since_1900": -1,
+            "length_in_months": -1
+        },
+        {
+            "name": "Attila Sz\u00e9ki",
+            "href": "https://www.whosdatedwho.com/dating/attila-szeki",
+            "relationship_type": 3,
+            "start_date": "",
+            "end_date": "",
+            "length": "-",
+            "start_months_since_1900": -1,
+            "end_months_since_1900": -1,
+            "length_in_months": -1
+        }
+    ],
+    "details": {
+        "First Name": "Ad\u00e9l",
+        "Middle Name": "NA",
+        "Last Name": "Csobot",
+        "Maiden Name": "NA",
+        "Full Name at Birth": "NA",
+        "Alternative Name": "Csobot Ad\u00e9l, Ad\u00e9l Csobot",
+        "Birthday": "1994",
+        "Birthplace": "Romania",
+        "Height": "165",
+        "Weight": "NA",
+        "Zodiac Sign": "3",
+        "Sexuality": "Straight",
+        "Religion": "1",
+        "Ethnicity": "6",
+        "Nationality": "31",
+        "Occupation": "1"
+    }
+}

@@ -1,0 +1,66 @@
+{
+    "relationships": [
+        {
+            "name": "Saweetie",
+            "href": "https://www.whosdatedwho.com/dating/saweetie",
+            "relationship_type": 2,
+            "start_date": "Mar 2023",
+            "end_date": "Jan 2024",
+            "length": "10 months",
+            "start_months_since_1900": 1478,
+            "end_months_since_1900": 1488,
+            "length_in_months": 10
+        },
+        {
+            "name": "Kehlani",
+            "href": "https://www.whosdatedwho.com/dating/kehlani",
+            "relationship_type": 2,
+            "start_date": "Apr 2019",
+            "end_date": "Feb 2020",
+            "length": "10 months",
+            "start_months_since_1900": 1431,
+            "end_months_since_1900": 1441,
+            "length_in_months": 10
+        },
+        {
+            "name": "Keke Palmer",
+            "href": "https://www.whosdatedwho.com/dating/keke-palmer",
+            "relationship_type": 2,
+            "start_date": "Oct 2014",
+            "end_date": "Jan 2015",
+            "length": "3 months",
+            "start_months_since_1900": 1377,
+            "end_months_since_1900": 1380,
+            "length_in_months": 3
+        },
+        {
+            "name": "Catelyn Sparks",
+            "href": "https://www.whosdatedwho.com/dating/catelyn-sparks",
+            "relationship_type": 2,
+            "start_date": "Sep 2012",
+            "end_date": "Apr 2023",
+            "length": "10 years",
+            "start_months_since_1900": 1352,
+            "end_months_since_1900": 1479,
+            "length_in_months": 120
+        }
+    ],
+    "details": {
+        "First Name": "YG",
+        "Middle Name": "NA",
+        "Last Name": "NA",
+        "Maiden Name": "NA",
+        "Full Name at Birth": "Keenon Daequan Ray Jackson",
+        "Alternative Name": "YG, Young Gangsta, Keenon Daequan Ray Jackson",
+        "Birthday": "1990",
+        "Birthplace": "USA",
+        "Height": "183",
+        "Weight": "150lbs (68 kg)",
+        "Zodiac Sign": "1",
+        "Sexuality": "Straight",
+        "Religion": "1",
+        "Ethnicity": "2",
+        "Nationality": "91",
+        "Occupation": "1"
+    }
+}

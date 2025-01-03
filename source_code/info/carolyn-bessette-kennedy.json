@@ -1,0 +1,55 @@
+{
+    "relationships": [
+        {
+            "name": "John Kennedy Jr.",
+            "href": "https://www.whosdatedwho.com/dating/john-kennedy-jr",
+            "relationship_type": 4,
+            "start_date": "1994",
+            "end_date": "16th Jul 1999",
+            "length": "5 years",
+            "start_months_since_1900": 1128,
+            "end_months_since_1900": 1194,
+            "length_in_months": 60
+        },
+        {
+            "name": "Michael Bergin",
+            "href": "https://www.whosdatedwho.com/dating/michael-bergin",
+            "relationship_type": 2,
+            "start_date": "1990",
+            "end_date": "1995",
+            "length": "5 years",
+            "start_months_since_1900": 1080,
+            "end_months_since_1900": 1140,
+            "length_in_months": 60
+        },
+        {
+            "name": "John Cullen",
+            "href": "https://www.whosdatedwho.com/dating/john-cullen",
+            "relationship_type": 2,
+            "start_date": "",
+            "end_date": "",
+            "length": "-",
+            "start_months_since_1900": -1,
+            "end_months_since_1900": -1,
+            "length_in_months": -1
+        }
+    ],
+    "details": {
+        "First Name": "Carolyn",
+        "Middle Name": "Jeanne",
+        "Last Name": "Kennedy",
+        "Maiden Name": "Bessette",
+        "Full Name at Birth": "Carolyn Jeanne Bessette",
+        "Alternative Name": "Carol, Caroline, Carolyn, Carolyn Jeanne Bessette-Kennedy, Carolyn Jeanne Bessette",
+        "Birthday": "1966",
+        "Birthplace": "USA",
+        "Height": "175",
+        "Weight": "NA",
+        "Zodiac Sign": "13",
+        "Sexuality": "Straight",
+        "Religion": "13",
+        "Ethnicity": "6",
+        "Nationality": "91",
+        "Occupation": "15"
+    }
+}

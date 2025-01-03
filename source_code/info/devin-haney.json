@@ -1,0 +1,66 @@
+{
+    "relationships": [
+        {
+            "name": "India Love",
+            "href": "https://www.whosdatedwho.com/dating/india-westbrook",
+            "relationship_type": 2,
+            "start_date": "Jul 2021",
+            "end_date": "",
+            "length": "-",
+            "start_months_since_1900": 1458,
+            "end_months_since_1900": -1,
+            "length_in_months": -1
+        },
+        {
+            "name": "Jania Jackson",
+            "href": "https://www.whosdatedwho.com/dating/jania-jackson",
+            "relationship_type": 2,
+            "start_date": "Jan 2021",
+            "end_date": "Jul 2021",
+            "length": "6 months",
+            "start_months_since_1900": 1452,
+            "end_months_since_1900": 1458,
+            "length_in_months": 6
+        },
+        {
+            "name": "Aileen Gisselle",
+            "href": "https://www.whosdatedwho.com/dating/aileen-gisselle",
+            "relationship_type": 2,
+            "start_date": "Oct 2019",
+            "end_date": "Jan 2021",
+            "length": "1 year",
+            "start_months_since_1900": 1437,
+            "end_months_since_1900": 1452,
+            "length_in_months": 12
+        },
+        {
+            "name": "Kris Summers (Model)",
+            "href": "https://www.whosdatedwho.com/dating/kris-summers-model",
+            "relationship_type": 1,
+            "start_date": "",
+            "end_date": "",
+            "length": "-",
+            "start_months_since_1900": -1,
+            "end_months_since_1900": -1,
+            "length_in_months": -1
+        }
+    ],
+    "details": {
+        "First Name": "Devin",
+        "Middle Name": "Miles",
+        "Last Name": "Haney",
+        "Maiden Name": "NA",
+        "Full Name at Birth": "Devin Miles Haney",
+        "Alternative Name": "The Dream",
+        "Birthday": "1998",
+        "Birthplace": "Cali",
+        "Height": "175",
+        "Weight": "NA",
+        "Zodiac Sign": "5",
+        "Sexuality": "Straight",
+        "Religion": "18",
+        "Ethnicity": "2",
+        "Nationality": "91",
+        "Occupation": "2"
+    }
+}

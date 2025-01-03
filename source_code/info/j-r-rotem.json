@@ -1,0 +1,66 @@
+{
+    "relationships": [
+        {
+            "name": "Avril Lavigne",
+            "href": "https://www.whosdatedwho.com/dating/avril-lavigne",
+            "relationship_type": 2,
+            "start_date": "Aug 2017",
+            "end_date": "May 2018",
+            "length": "9 months",
+            "start_months_since_1900": 1411,
+            "end_months_since_1900": 1420,
+            "length_in_months": 9
+        },
+        {
+            "name": "Kiely Williams",
+            "href": "https://www.whosdatedwho.com/dating/kiely-williams",
+            "relationship_type": 2,
+            "start_date": "Apr 2007",
+            "end_date": "Aug 2007",
+            "length": "4 months",
+            "start_months_since_1900": 1287,
+            "end_months_since_1900": 1291,
+            "length_in_months": 4
+        },
+        {
+            "name": "Britney Spears",
+            "href": "https://www.whosdatedwho.com/dating/britney-spears",
+            "relationship_type": 3,
+            "start_date": "Dec 2006",
+            "end_date": "Feb 2007",
+            "length": "2 months",
+            "start_months_since_1900": 1283,
+            "end_months_since_1900": 1285,
+            "length_in_months": 2
+        },
+        {
+            "name": "Bai Ling",
+            "href": "https://www.whosdatedwho.com/dating/bai-ling",
+            "relationship_type": 3,
+            "start_date": "Dec 2006",
+            "end_date": "Dec 2006",
+            "length": "-",
+            "start_months_since_1900": 1283,
+            "end_months_since_1900": 1283,
+            "length_in_months": -1
+        }
+    ],
+    "details": {
+        "First Name": "Jonathan",
+        "Middle Name": "R.",
+        "Last Name": "Rotem",
+        "Maiden Name": "NA",
+        "Full Name at Birth": "Jonathan Reuven Rotem",
+        "Alternative Name": "J. R., The White Dr. Dre, JR Rotem, Jonathan Rotem",
+        "Birthday": "1975",
+        "Birthplace": "South Africa",
+        "Height": "NA",
+        "Weight": "NA",
+        "Zodiac Sign": "11",
+        "Sexuality": "Straight",
+        "Religion": "31",
+        "Ethnicity": "6",
+        "Nationality": "91",
+        "Occupation": "1"
+    }
+}

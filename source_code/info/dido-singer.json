@@ -1,0 +1,66 @@
+{
+    "relationships": [
+        {
+            "name": "Rohan Gavin",
+            "href": "https://www.whosdatedwho.com/dating/rohan-gavin",
+            "relationship_type": 4,
+            "start_date": "2008",
+            "end_date": "present",
+            "length": "16 years",
+            "start_months_since_1900": 1296,
+            "end_months_since_1900": -1,
+            "length_in_months": 192
+        },
+        {
+            "name": "Sol Campbell",
+            "href": "https://www.whosdatedwho.com/dating/sol-campbell",
+            "relationship_type": 2,
+            "start_date": "Sep 2004",
+            "end_date": "Dec 2004",
+            "length": "3 months",
+            "start_months_since_1900": 1256,
+            "end_months_since_1900": 1259,
+            "length_in_months": 3
+        },
+        {
+            "name": "Alan Smith",
+            "href": "https://www.whosdatedwho.com/dating/alan-smith",
+            "relationship_type": 3,
+            "start_date": "Apr 2004",
+            "end_date": "May 2004",
+            "length": "1 month",
+            "start_months_since_1900": 1251,
+            "end_months_since_1900": 1252,
+            "length_in_months": 1
+        },
+        {
+            "name": "Bob Page",
+            "href": "https://www.whosdatedwho.com/dating/bob-page",
+            "relationship_type": 2,
+            "start_date": "Aug 1991",
+            "end_date": "Aug 1999",
+            "length": "8 years",
+            "start_months_since_1900": 1099,
+            "end_months_since_1900": 1195,
+            "length_in_months": 96
+        }
+    ],
+    "details": {
+        "First Name": "Dido",
+        "Middle Name": "Cloud de Bounevialle",
+        "Last Name": "Armstrong",
+        "Maiden Name": "Armstrong",
+        "Full Name at Birth": "Florian Cloud de Bounevialle Armstrong",
+        "Alternative Name": "Dido Armstrong",
+        "Birthday": "1971",
+        "Birthplace": "England",
+        "Height": "168",
+        "Weight": "NA",
+        "Zodiac Sign": "13",
+        "Sexuality": "Straight",
+        "Religion": "1",
+        "Ethnicity": "6",
+        "Nationality": "8",
+        "Occupation": "1"
+    }
+}

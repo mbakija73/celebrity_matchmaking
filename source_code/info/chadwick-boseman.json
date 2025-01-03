@@ -1,0 +1,44 @@
+{
+    "relationships": [
+        {
+            "name": "Regina Hall",
+            "href": "https://www.whosdatedwho.com/dating/regina-hall",
+            "relationship_type": 3,
+            "start_date": "Mar 2018",
+            "end_date": "Mar 2018",
+            "length": "-",
+            "start_months_since_1900": 1418,
+            "end_months_since_1900": 1418,
+            "length_in_months": -1
+        },
+        {
+            "name": "Taylor Simone Ledward",
+            "href": "https://www.whosdatedwho.com/dating/taylor-simone-ledward",
+            "relationship_type": 4,
+            "start_date": "Dec 2015",
+            "end_date": "Aug 2020",
+            "length": "4 years",
+            "start_months_since_1900": 1391,
+            "end_months_since_1900": 1447,
+            "length_in_months": 48
+        }
+    ],
+    "details": {
+        "First Name": "Chadwick",
+        "Middle Name": "Aaron",
+        "Last Name": "Boseman",
+        "Maiden Name": "NA",
+        "Full Name at Birth": "Chadwick Aaron Boseman",
+        "Alternative Name": "Chad, @chadwickboseman (twitter), @chadwickboseman (facebook)",
+        "Birthday": "1976",
+        "Birthplace": "USA",
+        "Height": "183",
+        "Weight": "190lbs (86 kg)",
+        "Zodiac Sign": "6",
+        "Sexuality": "Straight",
+        "Religion": "18",
+        "Ethnicity": "2",
+        "Nationality": "91",
+        "Occupation": "8"
+    }
+}

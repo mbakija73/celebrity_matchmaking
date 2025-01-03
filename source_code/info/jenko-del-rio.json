@@ -1,0 +1,27 @@
+{
+    "relationships": [
+        {
+            "name": "Alexandra Mendez",
+            "href": "https://www.whosdatedwho.com/dating/alexandra-mendez",
+            "relationship_type": 2,
+            "start_date": "2016",
+            "end_date": "2016",
+            "length": "-",
+            "start_months_since_1900": 1392,
+            "end_months_since_1900": 1392,
+            "length_in_months": -1
+        },
+        {
+            "name": "Paloma Fiuza",
+            "href": "https://www.whosdatedwho.com/dating/paloma-fiuza",
+            "relationship_type": 4,
+            "start_date": "2012",
+            "end_date": "2015",
+            "length": "3 years",
+            "start_months_since_1900": 1344,
+            "end_months_since_1900": 1380,
+            "length_in_months": 36
+        }
+    ],
+    "details": {}
+}

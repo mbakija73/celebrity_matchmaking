@@ -1,0 +1,55 @@
+{
+    "relationships": [
+        {
+            "name": "Berthold Viertel",
+            "href": "https://www.whosdatedwho.com/dating/berthold-viertel",
+            "relationship_type": 4,
+            "start_date": "1917",
+            "end_date": "Dec 1947",
+            "length": "30 years",
+            "start_months_since_1900": 204,
+            "end_months_since_1900": 575,
+            "length_in_months": 360
+        },
+        {
+            "name": "Greta Garbo",
+            "href": "https://www.whosdatedwho.com/dating/greta-garbo",
+            "relationship_type": 2,
+            "start_date": "",
+            "end_date": "",
+            "length": "-",
+            "start_months_since_1900": -1,
+            "end_months_since_1900": -1,
+            "length_in_months": -1
+        },
+        {
+            "name": "Mercedes de Acosta",
+            "href": "https://www.whosdatedwho.com/dating/mercedes-de-acosta",
+            "relationship_type": 2,
+            "start_date": "",
+            "end_date": "",
+            "length": "-",
+            "start_months_since_1900": -1,
+            "end_months_since_1900": -1,
+            "length_in_months": -1
+        }
+    ],
+    "details": {
+        "First Name": "Salka",
+        "Middle Name": "NA",
+        "Last Name": "Viertel",
+        "Maiden Name": "Steuermann",
+        "Full Name at Birth": "Salomea Steuermann",
+        "Alternative Name": "NA",
+        "Birthday": "1889",
+        "Birthplace": "Austria-Hungary",
+        "Height": "NA",
+        "Weight": "NA",
+        "Zodiac Sign": "4",
+        "Sexuality": "Bisexual",
+        "Religion": "31",
+        "Ethnicity": "6",
+        "Nationality": "44",
+        "Occupation": "3"
+    }
+}

@@ -1,0 +1,44 @@
+{
+    "relationships": [
+        {
+            "name": "Willow Smith",
+            "href": "https://www.whosdatedwho.com/dating/willow-smith",
+            "relationship_type": 1,
+            "start_date": "May 2014",
+            "end_date": "May 2014",
+            "length": "-",
+            "start_months_since_1900": 1372,
+            "end_months_since_1900": 1372,
+            "length_in_months": -1
+        },
+        {
+            "name": "Cassidy Sawchuk",
+            "href": "https://www.whosdatedwho.com/dating/cassidy-sawchuk",
+            "relationship_type": 2,
+            "start_date": "2011",
+            "end_date": "2011",
+            "length": "-",
+            "start_months_since_1900": 1332,
+            "end_months_since_1900": 1332,
+            "length_in_months": -1
+        }
+    ],
+    "details": {
+        "First Name": "Moises",
+        "Middle Name": "Garcia",
+        "Last Name": "Arias",
+        "Maiden Name": "NA",
+        "Full Name at Birth": "Moises Garcia  Arias",
+        "Alternative Name": "NA",
+        "Birthday": "1994",
+        "Birthplace": "USA",
+        "Height": "157",
+        "Weight": "NA",
+        "Zodiac Sign": "7",
+        "Sexuality": "Straight",
+        "Religion": "1",
+        "Ethnicity": "8",
+        "Nationality": "91",
+        "Occupation": "8"
+    }
+}

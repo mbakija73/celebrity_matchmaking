@@ -1,0 +1,44 @@
+{
+    "relationships": [
+        {
+            "name": "Dimitri Rassam",
+            "href": "https://www.whosdatedwho.com/dating/dimitri-rassam",
+            "relationship_type": 4,
+            "start_date": "24th Jul 2010",
+            "end_date": "2016",
+            "length": "5 years",
+            "start_months_since_1900": 1326,
+            "end_months_since_1900": 1392,
+            "length_in_months": 60
+        },
+        {
+            "name": "Fred Durst",
+            "href": "https://www.whosdatedwho.com/dating/fred-durst",
+            "relationship_type": 2,
+            "start_date": "2004",
+            "end_date": "2004",
+            "length": "-",
+            "start_months_since_1900": 1248,
+            "end_months_since_1900": 1248,
+            "length_in_months": -1
+        }
+    ],
+    "details": {
+        "First Name": "Masha",
+        "Middle Name": "NA",
+        "Last Name": "Novoselova",
+        "Maiden Name": "NA",
+        "Full Name at Birth": "Masha Novoselova",
+        "Alternative Name": "\u041c\u0430\u0448\u0430 \u041d\u043e\u0432\u043e\u0441\u0435\u043b\u043e\u0432\u0430, Masha Novoselova",
+        "Birthday": "1985",
+        "Birthplace": "Russia",
+        "Height": "175",
+        "Weight": "NA",
+        "Zodiac Sign": "9",
+        "Sexuality": "Straight",
+        "Religion": "32",
+        "Ethnicity": "6",
+        "Nationality": "9",
+        "Occupation": "15"
+    }
+}

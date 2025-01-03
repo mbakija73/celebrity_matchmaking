@@ -1,0 +1,55 @@
+{
+    "relationships": [
+        {
+            "name": "Fred Friedlob",
+            "href": "https://www.whosdatedwho.com/dating/fred-friedlob",
+            "relationship_type": 4,
+            "start_date": "1940",
+            "end_date": "1940",
+            "length": "-",
+            "start_months_since_1900": 480,
+            "end_months_since_1900": 480,
+            "length_in_months": -1
+        },
+        {
+            "name": "Jack Kirkland",
+            "href": "https://www.whosdatedwho.com/dating/jack-kirkland",
+            "relationship_type": 2,
+            "start_date": "1935",
+            "end_date": "1935",
+            "length": "-",
+            "start_months_since_1900": 420,
+            "end_months_since_1900": 420,
+            "length_in_months": -1
+        },
+        {
+            "name": "Dick Purcell",
+            "href": "https://www.whosdatedwho.com/dating/dick-purcell",
+            "relationship_type": 2,
+            "start_date": "",
+            "end_date": "",
+            "length": "-",
+            "start_months_since_1900": -1,
+            "end_months_since_1900": -1,
+            "length_in_months": -1
+        }
+    ],
+    "details": {
+        "First Name": "June",
+        "Middle Name": "NA",
+        "Last Name": "Travis",
+        "Maiden Name": "NA",
+        "Full Name at Birth": "Dorothea Grabiner",
+        "Alternative Name": "June Dorothea Grabiner",
+        "Birthday": "1914",
+        "Birthplace": "Illinois",
+        "Height": "NA",
+        "Weight": "NA",
+        "Zodiac Sign": "12",
+        "Sexuality": "Straight",
+        "Religion": "1",
+        "Ethnicity": "6",
+        "Nationality": "91",
+        "Occupation": "8"
+    }
+}

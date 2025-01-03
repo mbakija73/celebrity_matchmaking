@@ -1,0 +1,44 @@
+{
+    "relationships": [
+        {
+            "name": "Jonathan Denmark",
+            "href": "https://www.whosdatedwho.com/dating/jonathan-denmark",
+            "relationship_type": 2,
+            "start_date": "2016",
+            "end_date": "present",
+            "length": "8 years",
+            "start_months_since_1900": 1392,
+            "end_months_since_1900": -1,
+            "length_in_months": 96
+        },
+        {
+            "name": "Ryan Potter",
+            "href": "https://www.whosdatedwho.com/dating/ryan-potter",
+            "relationship_type": 2,
+            "start_date": "May 2011",
+            "end_date": "Feb 2013",
+            "length": "1 year",
+            "start_months_since_1900": 1336,
+            "end_months_since_1900": 1357,
+            "length_in_months": 12
+        }
+    ],
+    "details": {
+        "First Name": "Gracie",
+        "Middle Name": "Isabella",
+        "Last Name": "Dzienny",
+        "Maiden Name": "NA",
+        "Full Name at Birth": "Grace Isabella Dzienny",
+        "Alternative Name": "Lil Ninja, Lil G, Blondie, Gra, Gracie Dzienny, Gracie Isabella Dzienny",
+        "Birthday": "1995",
+        "Birthplace": "Ohio",
+        "Height": "169",
+        "Weight": "109lbs (49 kg)",
+        "Zodiac Sign": "11",
+        "Sexuality": "Straight",
+        "Religion": "18",
+        "Ethnicity": "6",
+        "Nationality": "91",
+        "Occupation": "8"
+    }
+}

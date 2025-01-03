@@ -1,0 +1,55 @@
+{
+    "relationships": [
+        {
+            "name": "Charlie Simpson",
+            "href": "https://www.whosdatedwho.com/dating/charlie-simpson",
+            "relationship_type": 3,
+            "start_date": "Aug 2006",
+            "end_date": "Aug 2006",
+            "length": "-",
+            "start_months_since_1900": 1279,
+            "end_months_since_1900": 1279,
+            "length_in_months": -1
+        },
+        {
+            "name": "Matt Willis",
+            "href": "https://www.whosdatedwho.com/dating/matt-willis",
+            "relationship_type": 4,
+            "start_date": "Jul 2005",
+            "end_date": "present",
+            "length": "19 years",
+            "start_months_since_1900": 1266,
+            "end_months_since_1900": -1,
+            "length_in_months": 228
+        },
+        {
+            "name": "Alex Zane",
+            "href": "https://www.whosdatedwho.com/dating/alex-zane",
+            "relationship_type": 2,
+            "start_date": "Aug 2004",
+            "end_date": "Nov 2004",
+            "length": "3 months",
+            "start_months_since_1900": 1255,
+            "end_months_since_1900": 1258,
+            "length_in_months": 3
+        }
+    ],
+    "details": {
+        "First Name": "Emma",
+        "Middle Name": "Louise",
+        "Last Name": "Willis",
+        "Maiden Name": "Griffiths",
+        "Full Name at Birth": "Emma Louise Griffiths",
+        "Alternative Name": "Emma Willis, Emma Louise Willis, Emma Louise Griffiths, Emma Louise Griffiths Willis",
+        "Birthday": "1976",
+        "Birthplace": "UK",
+        "Height": "168",
+        "Weight": "NA",
+        "Zodiac Sign": "1",
+        "Sexuality": "Straight",
+        "Religion": "1",
+        "Ethnicity": "6",
+        "Nationality": "8",
+        "Occupation": "11"
+    }
+}

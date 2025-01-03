@@ -1,0 +1,44 @@
+{
+    "relationships": [
+        {
+            "name": "Sandra Lee",
+            "href": "https://www.whosdatedwho.com/dating/sandra-lee",
+            "relationship_type": 2,
+            "start_date": "2006",
+            "end_date": "25th Sep 2019",
+            "length": "13 years",
+            "start_months_since_1900": 1272,
+            "end_months_since_1900": 1436,
+            "length_in_months": 156
+        },
+        {
+            "name": "Kerry Kennedy",
+            "href": "https://www.whosdatedwho.com/dating/kerry-kennedy",
+            "relationship_type": 2,
+            "start_date": "1989",
+            "end_date": "2003",
+            "length": "14 years",
+            "start_months_since_1900": 1068,
+            "end_months_since_1900": 1236,
+            "length_in_months": 168
+        }
+    ],
+    "details": {
+        "First Name": "Andrew",
+        "Middle Name": "NA",
+        "Last Name": "Cuomo",
+        "Maiden Name": "NA",
+        "Full Name at Birth": "Andrew Mark Cuomo",
+        "Alternative Name": "NA",
+        "Birthday": "1957",
+        "Birthplace": "USA",
+        "Height": "NA",
+        "Weight": "NA",
+        "Zodiac Sign": "6",
+        "Sexuality": "Straight",
+        "Religion": "13",
+        "Ethnicity": "6",
+        "Nationality": "91",
+        "Occupation": "12"
+    }
+}

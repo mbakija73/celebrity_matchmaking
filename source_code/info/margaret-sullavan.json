@@ -1,0 +1,99 @@
+{
+    "relationships": [
+        {
+            "name": "Kenneth Wagg",
+            "href": "https://www.whosdatedwho.com/dating/kenneth-wagg",
+            "relationship_type": 4,
+            "start_date": "1950",
+            "end_date": "Jan 1960",
+            "length": "10 years",
+            "start_months_since_1900": 600,
+            "end_months_since_1900": 720,
+            "length_in_months": 120
+        },
+        {
+            "name": "Leland Hayward",
+            "href": "https://www.whosdatedwho.com/dating/leland-hayward",
+            "relationship_type": 4,
+            "start_date": "Nov 1935",
+            "end_date": "Apr 1949",
+            "length": "13 years",
+            "start_months_since_1900": 430,
+            "end_months_since_1900": 591,
+            "length_in_months": 156
+        },
+        {
+            "name": "William Wyler",
+            "href": "https://www.whosdatedwho.com/dating/william-wyler",
+            "relationship_type": 4,
+            "start_date": "1934",
+            "end_date": "13th Mar 1936",
+            "length": "2 years",
+            "start_months_since_1900": 408,
+            "end_months_since_1900": 434,
+            "length_in_months": 24
+        },
+        {
+            "name": "James Stewart",
+            "href": "https://www.whosdatedwho.com/dating/james-stewart",
+            "relationship_type": 2,
+            "start_date": "1932",
+            "end_date": "1933",
+            "length": "1 year",
+            "start_months_since_1900": 384,
+            "end_months_since_1900": 396,
+            "length_in_months": 12
+        },
+        {
+            "name": "Jed Harris",
+            "href": "https://www.whosdatedwho.com/dating/jed-harris",
+            "relationship_type": 2,
+            "start_date": "1932",
+            "end_date": "1932",
+            "length": "-",
+            "start_months_since_1900": 384,
+            "end_months_since_1900": 384,
+            "length_in_months": -1
+        },
+        {
+            "name": "Henry Fonda",
+            "href": "https://www.whosdatedwho.com/dating/henry-fonda",
+            "relationship_type": 4,
+            "start_date": "1931",
+            "end_date": "Mar 1932",
+            "length": "1 year",
+            "start_months_since_1900": 372,
+            "end_months_since_1900": 386,
+            "length_in_months": 12
+        },
+        {
+            "name": "Humphrey Bogart",
+            "href": "https://www.whosdatedwho.com/dating/humphrey-bogart",
+            "relationship_type": 2,
+            "start_date": "",
+            "end_date": "",
+            "length": "-",
+            "start_months_since_1900": -1,
+            "end_months_since_1900": -1,
+            "length_in_months": -1
+        }
+    ],
+    "details": {
+        "First Name": "Margaret",
+        "Middle Name": "Brooke",
+        "Last Name": "NA",
+        "Maiden Name": "Sullavan",
+        "Full Name at Birth": "Margaret Brooke Sullavan",
+        "Alternative Name": "Margaret Brooke Sullavan",
+        "Birthday": "1909",
+        "Birthplace": "USA",
+        "Height": "159",
+        "Weight": "NA",
+        "Zodiac Sign": "3",
+        "Sexuality": "Straight",
+        "Religion": "37",
+        "Ethnicity": "6",
+        "Nationality": "91",
+        "Occupation": "8"
+    }
+}

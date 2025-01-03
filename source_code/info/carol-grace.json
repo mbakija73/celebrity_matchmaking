@@ -1,0 +1,44 @@
+{
+    "relationships": [
+        {
+            "name": "Walter Matthau",
+            "href": "https://www.whosdatedwho.com/dating/walter-matthau",
+            "relationship_type": 4,
+            "start_date": "1959",
+            "end_date": "1st Jul 2000",
+            "length": "41 years",
+            "start_months_since_1900": 708,
+            "end_months_since_1900": 1206,
+            "length_in_months": 492
+        },
+        {
+            "name": "William Saroyan",
+            "href": "https://www.whosdatedwho.com/dating/william-saroyan",
+            "relationship_type": 4,
+            "start_date": "1943",
+            "end_date": "1952",
+            "length": "9 years",
+            "start_months_since_1900": 516,
+            "end_months_since_1900": 624,
+            "length_in_months": 108
+        }
+    ],
+    "details": {
+        "First Name": "Carol",
+        "Middle Name": "Grace",
+        "Last Name": "Saroyan",
+        "Maiden Name": "Marcus",
+        "Full Name at Birth": "Carol Grace Marcus",
+        "Alternative Name": "Carol Marcus, Carol Marcus Saroyan, Carol Matthau, Carol Grace Marcus",
+        "Birthday": "1925",
+        "Birthplace": "USA",
+        "Height": "NA",
+        "Weight": "NA",
+        "Zodiac Sign": "11",
+        "Sexuality": "Straight",
+        "Religion": "31",
+        "Ethnicity": "6",
+        "Nationality": "91",
+        "Occupation": "8"
+    }
+}

@@ -1,0 +1,55 @@
+{
+    "relationships": [
+        {
+            "name": "Thomas Jane",
+            "href": "https://www.whosdatedwho.com/dating/thomas-jane",
+            "relationship_type": 3,
+            "start_date": "2009",
+            "end_date": "2009",
+            "length": "-",
+            "start_months_since_1900": 1308,
+            "end_months_since_1900": 1308,
+            "length_in_months": -1
+        },
+        {
+            "name": "Peter Krause",
+            "href": "https://www.whosdatedwho.com/dating/peter-krause",
+            "relationship_type": 3,
+            "start_date": "2007",
+            "end_date": "2007",
+            "length": "-",
+            "start_months_since_1900": 1284,
+            "end_months_since_1900": 1284,
+            "length_in_months": -1
+        },
+        {
+            "name": "Travis Schuldt",
+            "href": "https://www.whosdatedwho.com/dating/travis-schuldt",
+            "relationship_type": 4,
+            "start_date": "Jun 2003",
+            "end_date": "present",
+            "length": "21 years",
+            "start_months_since_1900": 1241,
+            "end_months_since_1900": -1,
+            "length_in_months": 252
+        }
+    ],
+    "details": {
+        "First Name": "Natalie",
+        "Middle Name": "NA",
+        "Last Name": "NA",
+        "Maiden Name": "Zea",
+        "Full Name at Birth": "Natalie Zea",
+        "Alternative Name": "NA",
+        "Birthday": "1975",
+        "Birthplace": "USA",
+        "Height": "170",
+        "Weight": "110lbs (50 kg)",
+        "Zodiac Sign": "1",
+        "Sexuality": "Straight",
+        "Religion": "1",
+        "Ethnicity": "6",
+        "Nationality": "91",
+        "Occupation": "8"
+    }
+}

@@ -1,0 +1,66 @@
+{
+    "relationships": [
+        {
+            "name": "Kendall Jenner",
+            "href": "https://www.whosdatedwho.com/dating/kendall-jenner",
+            "relationship_type": 2,
+            "start_date": "Feb 2023",
+            "end_date": "Dec 2023",
+            "length": "10 months",
+            "start_months_since_1900": 1477,
+            "end_months_since_1900": 1487,
+            "length_in_months": 10
+        },
+        {
+            "name": "Manelyk Gonz\u00e1lez",
+            "href": "https://www.whosdatedwho.com/dating/manelyk-gonzalez",
+            "relationship_type": 1,
+            "start_date": "Apr 2018",
+            "end_date": "Apr 2018",
+            "length": "-",
+            "start_months_since_1900": 1419,
+            "end_months_since_1900": 1419,
+            "length_in_months": -1
+        },
+        {
+            "name": "Gabriela Berlingeri",
+            "href": "https://www.whosdatedwho.com/dating/gabriela-berlingeri",
+            "relationship_type": 2,
+            "start_date": "Apr 2017",
+            "end_date": "",
+            "length": "-",
+            "start_months_since_1900": 1407,
+            "end_months_since_1900": -1,
+            "length_in_months": -1
+        },
+        {
+            "name": "Carliz de la Cruz",
+            "href": "https://www.whosdatedwho.com/dating/carliz-de-la-cruz",
+            "relationship_type": 2,
+            "start_date": "2012",
+            "end_date": "2017",
+            "length": "5 years",
+            "start_months_since_1900": 1344,
+            "end_months_since_1900": 1404,
+            "length_in_months": 60
+        }
+    ],
+    "details": {
+        "First Name": "Bad",
+        "Middle Name": "NA",
+        "Last Name": "Bunny",
+        "Maiden Name": "NA",
+        "Full Name at Birth": "Benito Antonio Mart\u00ednez Ocasio",
+        "Alternative Name": "Bad Bunny, Antonio Mart\u00ednez Ocasio, Benito Antonio Mart\u00ednez Ocasio",
+        "Birthday": "1994",
+        "Birthplace": "Puerto Rico",
+        "Height": "183",
+        "Weight": "165lbs (75 kg)",
+        "Zodiac Sign": "1",
+        "Sexuality": "Straight",
+        "Religion": "18",
+        "Ethnicity": "6",
+        "Nationality": "132",
+        "Occupation": "1"
+    }
+}

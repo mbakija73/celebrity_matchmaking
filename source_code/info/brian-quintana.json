@@ -1,0 +1,77 @@
+{
+    "relationships": [
+        {
+            "name": "Blanca Blanco",
+            "href": "https://www.whosdatedwho.com/dating/blanca-blanco",
+            "relationship_type": 2,
+            "start_date": "Mar 2010",
+            "end_date": "Jul 2010",
+            "length": "4 months",
+            "start_months_since_1900": 1322,
+            "end_months_since_1900": 1326,
+            "length_in_months": 4
+        },
+        {
+            "name": "Antonia Bennett",
+            "href": "https://www.whosdatedwho.com/dating/antonia-bennett",
+            "relationship_type": 1,
+            "start_date": "2008",
+            "end_date": "2008",
+            "length": "-",
+            "start_months_since_1900": 1296,
+            "end_months_since_1900": 1296,
+            "length_in_months": -1
+        },
+        {
+            "name": "Zeta Graff",
+            "href": "https://www.whosdatedwho.com/dating/zeta-graff",
+            "relationship_type": 1,
+            "start_date": "2007",
+            "end_date": "2007",
+            "length": "-",
+            "start_months_since_1900": 1284,
+            "end_months_since_1900": 1284,
+            "length_in_months": -1
+        },
+        {
+            "name": "Suzan Hughes",
+            "href": "https://www.whosdatedwho.com/dating/suzan-hughes",
+            "relationship_type": 1,
+            "start_date": "2006",
+            "end_date": "2006",
+            "length": "-",
+            "start_months_since_1900": 1272,
+            "end_months_since_1900": 1272,
+            "length_in_months": -1
+        },
+        {
+            "name": "Laura Harring",
+            "href": "https://www.whosdatedwho.com/dating/laura-harring",
+            "relationship_type": 2,
+            "start_date": "1996",
+            "end_date": "1998",
+            "length": "2 years",
+            "start_months_since_1900": 1152,
+            "end_months_since_1900": 1176,
+            "length_in_months": 24
+        }
+    ],
+    "details": {
+        "First Name": "Brian",
+        "Middle Name": "NA",
+        "Last Name": "Quintana",
+        "Maiden Name": "NA",
+        "Full Name at Birth": "Brian Quintana",
+        "Alternative Name": "NA",
+        "Birthday": "1968",
+        "Birthplace": "CA",
+        "Height": "NA",
+        "Weight": "NA",
+        "Zodiac Sign": "2",
+        "Sexuality": "Straight",
+        "Religion": "13",
+        "Ethnicity": "6",
+        "Nationality": "91",
+        "Occupation": "9"
+    }
+}

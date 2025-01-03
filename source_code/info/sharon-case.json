@@ -1,0 +1,55 @@
+{
+    "relationships": [
+        {
+            "name": "Mark Grossman",
+            "href": "https://www.whosdatedwho.com/dating/mark-grossman-actor",
+            "relationship_type": 2,
+            "start_date": "Sep 2019",
+            "end_date": "2022",
+            "length": "2 years",
+            "start_months_since_1900": 1436,
+            "end_months_since_1900": 1464,
+            "length_in_months": 24
+        },
+        {
+            "name": "Jimmy Wayne",
+            "href": "https://www.whosdatedwho.com/dating/jimmy-wayne",
+            "relationship_type": 2,
+            "start_date": "Oct 2009",
+            "end_date": "2018",
+            "length": "8 years",
+            "start_months_since_1900": 1317,
+            "end_months_since_1900": 1416,
+            "length_in_months": 96
+        },
+        {
+            "name": "Sandy Corzine",
+            "href": "https://www.whosdatedwho.com/dating/sandy-corzine",
+            "relationship_type": 4,
+            "start_date": "2006",
+            "end_date": "Nov 2009",
+            "length": "3 years",
+            "start_months_since_1900": 1272,
+            "end_months_since_1900": 1318,
+            "length_in_months": 36
+        }
+    ],
+    "details": {
+        "First Name": "Sharon",
+        "Middle Name": "NA",
+        "Last Name": "Case",
+        "Maiden Name": "NA",
+        "Full Name at Birth": "Sharon Case",
+        "Alternative Name": "Sharon",
+        "Birthday": "1971",
+        "Birthplace": "USA",
+        "Height": "170",
+        "Weight": "128lbs (58 kg)",
+        "Zodiac Sign": "9",
+        "Sexuality": "Straight",
+        "Religion": "5",
+        "Ethnicity": "6",
+        "Nationality": "91",
+        "Occupation": "8"
+    }
+}

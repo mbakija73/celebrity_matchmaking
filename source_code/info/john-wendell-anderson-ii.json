@@ -1,0 +1,44 @@
+{
+    "relationships": [
+        {
+            "name": "Lisa Ferraday",
+            "href": "https://www.whosdatedwho.com/dating/lisa-ferraday",
+            "relationship_type": 4,
+            "start_date": "1958",
+            "end_date": "1958",
+            "length": "-",
+            "start_months_since_1900": 696,
+            "end_months_since_1900": 696,
+            "length_in_months": -1
+        },
+        {
+            "name": "Selene Mahri",
+            "href": "https://www.whosdatedwho.com/dating/selene-mahri",
+            "relationship_type": 4,
+            "start_date": "1949",
+            "end_date": "1957",
+            "length": "8 years",
+            "start_months_since_1900": 588,
+            "end_months_since_1900": 684,
+            "length_in_months": 96
+        }
+    ],
+    "details": {
+        "First Name": "John",
+        "Middle Name": "Wendell",
+        "Last Name": "Anderson II",
+        "Maiden Name": "NA",
+        "Full Name at Birth": "John Wendell Anderson II",
+        "Alternative Name": "NA",
+        "Birthday": "1923",
+        "Birthplace": "PA",
+        "Height": "NA",
+        "Weight": "NA",
+        "Zodiac Sign": "11",
+        "Sexuality": "NA",
+        "Religion": "1",
+        "Ethnicity": "1",
+        "Nationality": "91",
+        "Occupation": "11"
+    }
+}

@@ -1,0 +1,66 @@
+{
+    "relationships": [
+        {
+            "name": "Amanda Rodriguez",
+            "href": "https://www.whosdatedwho.com/dating/amanda-rodriguez",
+            "relationship_type": 4,
+            "start_date": "Aug 2003",
+            "end_date": "present",
+            "length": "21 years",
+            "start_months_since_1900": 1243,
+            "end_months_since_1900": -1,
+            "length_in_months": 252
+        },
+        {
+            "name": "Britney Spears",
+            "href": "https://www.whosdatedwho.com/dating/britney-spears",
+            "relationship_type": 2,
+            "start_date": "Sep 2001",
+            "end_date": "May 2002",
+            "length": "8 months",
+            "start_months_since_1900": 1220,
+            "end_months_since_1900": 1228,
+            "length_in_months": 8
+        },
+        {
+            "name": "Mayte Garcia",
+            "href": "https://www.whosdatedwho.com/dating/mayte-garcia",
+            "relationship_type": 2,
+            "start_date": "2001",
+            "end_date": "2001",
+            "length": "-",
+            "start_months_since_1900": 1212,
+            "end_months_since_1900": 1212,
+            "length_in_months": -1
+        },
+        {
+            "name": "Brandii Jackson",
+            "href": "https://www.whosdatedwho.com/dating/brandii-jackson",
+            "relationship_type": 2,
+            "start_date": "1993",
+            "end_date": "2001",
+            "length": "8 years",
+            "start_months_since_1900": 1116,
+            "end_months_since_1900": 1212,
+            "length_in_months": 96
+        }
+    ],
+    "details": {
+        "First Name": "Wade",
+        "Middle Name": "Jeremy William",
+        "Last Name": "Robson",
+        "Maiden Name": "NA",
+        "Full Name at Birth": "Wade Jeremy William Robson",
+        "Alternative Name": "Wade Jeremy William Robson, Wade Robson, Wade J. Robson",
+        "Birthday": "1982",
+        "Birthplace": "Australia",
+        "Height": "193",
+        "Weight": "NA",
+        "Zodiac Sign": "11",
+        "Sexuality": "NA",
+        "Religion": "1",
+        "Ethnicity": "6",
+        "Nationality": "135",
+        "Occupation": "14"
+    }
+}

@@ -1,0 +1,44 @@
+{
+    "relationships": [
+        {
+            "name": "Padma Lakshmi",
+            "href": "https://www.whosdatedwho.com/dating/padma-lakshmi",
+            "relationship_type": 3,
+            "start_date": "2021",
+            "end_date": "Oct 2021",
+            "length": "9 months",
+            "start_months_since_1900": 1452,
+            "end_months_since_1900": 1461,
+            "length_in_months": 9
+        },
+        {
+            "name": "Yona Harvey",
+            "href": "https://www.whosdatedwho.com/dating/yona-harvey",
+            "relationship_type": 4,
+            "start_date": "",
+            "end_date": "",
+            "length": "-",
+            "start_months_since_1900": -1,
+            "end_months_since_1900": -1,
+            "length_in_months": -1
+        }
+    ],
+    "details": {
+        "First Name": "Terrance",
+        "Middle Name": "NA",
+        "Last Name": "Hayes",
+        "Maiden Name": "NA",
+        "Full Name at Birth": "NA",
+        "Alternative Name": "NA",
+        "Birthday": "1971",
+        "Birthplace": "South Carolina",
+        "Height": "187",
+        "Weight": "NA",
+        "Zodiac Sign": "5",
+        "Sexuality": "NA",
+        "Religion": "1",
+        "Ethnicity": "2",
+        "Nationality": "91",
+        "Occupation": "3"
+    }
+}

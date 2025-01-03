@@ -1,0 +1,44 @@
+{
+    "relationships": [
+        {
+            "name": "John D. W. Morrill",
+            "href": "https://www.whosdatedwho.com/dating/john-d-w-morrill",
+            "relationship_type": 4,
+            "start_date": "Apr 1943",
+            "end_date": "7th Jan 1994",
+            "length": "50 years",
+            "start_months_since_1900": 519,
+            "end_months_since_1900": 1128,
+            "length_in_months": 600
+        },
+        {
+            "name": "Charles Belden",
+            "href": "https://www.whosdatedwho.com/dating/charles-belden",
+            "relationship_type": 4,
+            "start_date": "Oct 1937",
+            "end_date": "22nd Oct 1943",
+            "length": "6 years",
+            "start_months_since_1900": 453,
+            "end_months_since_1900": 525,
+            "length_in_months": 72
+        }
+    ],
+    "details": {
+        "First Name": "Joan",
+        "Middle Name": "Ann",
+        "Last Name": "Marsh",
+        "Maiden Name": "NA",
+        "Full Name at Birth": "Nancy Ann Rosher",
+        "Alternative Name": "NA",
+        "Birthday": "1913",
+        "Birthplace": "California",
+        "Height": "157",
+        "Weight": "118lbs (54 kg)",
+        "Zodiac Sign": "8",
+        "Sexuality": "Straight",
+        "Religion": "1",
+        "Ethnicity": "6",
+        "Nationality": "91",
+        "Occupation": "8"
+    }
+}

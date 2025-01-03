@@ -1,0 +1,44 @@
+{
+    "relationships": [
+        {
+            "name": "Bryce Hirschberg",
+            "href": "https://www.whosdatedwho.com/dating/bryce-hirschberg",
+            "relationship_type": 2,
+            "start_date": "Sep 2019",
+            "end_date": "2020",
+            "length": "4 months",
+            "start_months_since_1900": 1436,
+            "end_months_since_1900": 1440,
+            "length_in_months": 4
+        },
+        {
+            "name": "David Birtwistle",
+            "href": "https://www.whosdatedwho.com/dating/david-birtwistle",
+            "relationship_type": 2,
+            "start_date": "",
+            "end_date": "present",
+            "length": "-",
+            "start_months_since_1900": -1,
+            "end_months_since_1900": -1,
+            "length_in_months": -1
+        }
+    ],
+    "details": {
+        "First Name": "Nicole",
+        "Middle Name": "NA",
+        "Last Name": "O'Brien",
+        "Maiden Name": "NA",
+        "Full Name at Birth": "Nicole O'Brien",
+        "Alternative Name": "Nicole O'Brien",
+        "Birthday": "1995",
+        "Birthplace": "United Kingdom",
+        "Height": "175",
+        "Weight": "NA",
+        "Zodiac Sign": "10",
+        "Sexuality": "Straight",
+        "Religion": "1",
+        "Ethnicity": "6",
+        "Nationality": "117",
+        "Occupation": "11"
+    }
+}

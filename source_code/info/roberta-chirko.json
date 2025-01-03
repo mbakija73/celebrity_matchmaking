@@ -1,0 +1,44 @@
+{
+    "relationships": [
+        {
+            "name": "Toby Myers",
+            "href": "https://www.whosdatedwho.com/dating/toby-myers",
+            "relationship_type": 4,
+            "start_date": "1992",
+            "end_date": "present",
+            "length": "32 years",
+            "start_months_since_1900": 1104,
+            "end_months_since_1900": -1,
+            "length_in_months": 384
+        },
+        {
+            "name": "Jean-Luc Brunel",
+            "href": "https://www.whosdatedwho.com/dating/jean-luc-brunel",
+            "relationship_type": 4,
+            "start_date": "1988",
+            "end_date": "1990",
+            "length": "2 years",
+            "start_months_since_1900": 1056,
+            "end_months_since_1900": 1080,
+            "length_in_months": 24
+        }
+    ],
+    "details": {
+        "First Name": "Roberta",
+        "Middle Name": "NA",
+        "Last Name": "Chirko",
+        "Maiden Name": "NA",
+        "Full Name at Birth": "NA",
+        "Alternative Name": "NA",
+        "Birthday": "1966",
+        "Birthplace": "IL",
+        "Height": "175",
+        "Weight": "NA",
+        "Zodiac Sign": "2",
+        "Sexuality": "Straight",
+        "Religion": "1",
+        "Ethnicity": "6",
+        "Nationality": "91",
+        "Occupation": "15"
+    }
+}

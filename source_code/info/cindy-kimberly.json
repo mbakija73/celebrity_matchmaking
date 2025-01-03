@@ -1,0 +1,88 @@
+{
+    "relationships": [
+        {
+            "name": "Dele Alli",
+            "href": "https://www.whosdatedwho.com/dating/dele-alli",
+            "relationship_type": 2,
+            "start_date": "Jun 2022",
+            "end_date": "present",
+            "length": "2 years",
+            "start_months_since_1900": 1469,
+            "end_months_since_1900": -1,
+            "length_in_months": 24
+        },
+        {
+            "name": "Tyga",
+            "href": "https://www.whosdatedwho.com/dating/tyga",
+            "relationship_type": 3,
+            "start_date": "May 2019",
+            "end_date": "Jun 2019",
+            "length": "1 month",
+            "start_months_since_1900": 1432,
+            "end_months_since_1900": 1433,
+            "length_in_months": 1
+        },
+        {
+            "name": "Lewis Hamilton",
+            "href": "https://www.whosdatedwho.com/dating/lewis-hamilton",
+            "relationship_type": 2,
+            "start_date": "Feb 2019",
+            "end_date": "",
+            "length": "-",
+            "start_months_since_1900": 1429,
+            "end_months_since_1900": -1,
+            "length_in_months": -1
+        },
+        {
+            "name": "Neels Visser",
+            "href": "https://www.whosdatedwho.com/dating/neels-visser",
+            "relationship_type": 2,
+            "start_date": "Oct 2016",
+            "end_date": "Aug 2018",
+            "length": "1 year",
+            "start_months_since_1900": 1401,
+            "end_months_since_1900": 1423,
+            "length_in_months": 12
+        },
+        {
+            "name": "Xavier Serrano",
+            "href": "https://www.whosdatedwho.com/dating/xavier-serrano",
+            "relationship_type": 2,
+            "start_date": "May 2016",
+            "end_date": "Aug 2016",
+            "length": "3 months",
+            "start_months_since_1900": 1396,
+            "end_months_since_1900": 1399,
+            "length_in_months": 3
+        },
+        {
+            "name": "Justin Bieber",
+            "href": "https://www.whosdatedwho.com/dating/justin-bieber",
+            "relationship_type": 3,
+            "start_date": "Aug 2015",
+            "end_date": "Aug 2015",
+            "length": "-",
+            "start_months_since_1900": 1387,
+            "end_months_since_1900": 1387,
+            "length_in_months": -1
+        }
+    ],
+    "details": {
+        "First Name": "Cindy",
+        "Middle Name": "NA",
+        "Last Name": "Kimberly",
+        "Maiden Name": "NA",
+        "Full Name at Birth": "Cindy Kimberly",
+        "Alternative Name": "Cindy Kimberly",
+        "Birthday": "1998",
+        "Birthplace": "Netherlands",
+        "Height": "170",
+        "Weight": "NA",
+        "Zodiac Sign": "5",
+        "Sexuality": "Straight",
+        "Religion": "1",
+        "Ethnicity": "6",
+        "Nationality": "118",
+        "Occupation": "15"
+    }
+}

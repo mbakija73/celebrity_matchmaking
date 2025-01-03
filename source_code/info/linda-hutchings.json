@@ -1,0 +1,44 @@
+{
+    "relationships": [
+        {
+            "name": "Richard Gully",
+            "href": "https://www.whosdatedwho.com/dating/richard-gully",
+            "relationship_type": 3,
+            "start_date": "Sep 1960",
+            "end_date": "Nov 1960",
+            "length": "2 months",
+            "start_months_since_1900": 728,
+            "end_months_since_1900": 730,
+            "length_in_months": 2
+        },
+        {
+            "name": "Ray Anthony",
+            "href": "https://www.whosdatedwho.com/dating/ray-anthony",
+            "relationship_type": 3,
+            "start_date": "Dec 1959",
+            "end_date": "Jan 1960",
+            "length": "1 month",
+            "start_months_since_1900": 719,
+            "end_months_since_1900": 720,
+            "length_in_months": 1
+        }
+    ],
+    "details": {
+        "First Name": "Linda",
+        "Middle Name": "NA",
+        "Last Name": "Hutchings",
+        "Maiden Name": "NA",
+        "Full Name at Birth": "Linda Larkin Williams",
+        "Alternative Name": "NA",
+        "Birthday": "1932",
+        "Birthplace": "California",
+        "Height": "NA",
+        "Weight": "NA",
+        "Zodiac Sign": "6",
+        "Sexuality": "NA",
+        "Religion": "1",
+        "Ethnicity": "6",
+        "Nationality": "91",
+        "Occupation": "8"
+    }
+}

@@ -1,0 +1,55 @@
+{
+    "relationships": [
+        {
+            "name": "Robert Vaughn",
+            "href": "https://www.whosdatedwho.com/dating/robert-vaughn",
+            "relationship_type": 2,
+            "start_date": "Jul 1966",
+            "end_date": "Aug 1966",
+            "length": "1 month",
+            "start_months_since_1900": 798,
+            "end_months_since_1900": 799,
+            "length_in_months": 1
+        },
+        {
+            "name": "Porfirio Rubirosa",
+            "href": "https://www.whosdatedwho.com/dating/porfirio-rubirosa",
+            "relationship_type": 2,
+            "start_date": "1965",
+            "end_date": "1965",
+            "length": "-",
+            "start_months_since_1900": 780,
+            "end_months_since_1900": 780,
+            "length_in_months": -1
+        },
+        {
+            "name": "Peter Lawford",
+            "href": "https://www.whosdatedwho.com/dating/peter-lawford",
+            "relationship_type": 4,
+            "start_date": "Apr 1953",
+            "end_date": "1st Feb 1966",
+            "length": "12 years",
+            "start_months_since_1900": 639,
+            "end_months_since_1900": 793,
+            "length_in_months": 144
+        }
+    ],
+    "details": {
+        "First Name": "Patricia",
+        "Middle Name": "Helen",
+        "Last Name": "Kennedy",
+        "Maiden Name": "NA",
+        "Full Name at Birth": "Patricia Helen Kennedy",
+        "Alternative Name": "Patricia Kennedy Lawford, Pat, Patricia Helen Kennedy, Patricia Kennedy",
+        "Birthday": "1924",
+        "Birthplace": "Massachusetts USA",
+        "Height": "NA",
+        "Weight": "NA",
+        "Zodiac Sign": "3",
+        "Sexuality": "Straight",
+        "Religion": "13",
+        "Ethnicity": "6",
+        "Nationality": "91",
+        "Occupation": "11"
+    }
+}

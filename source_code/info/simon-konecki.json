@@ -1,0 +1,44 @@
+{
+    "relationships": [
+        {
+            "name": "Adele",
+            "href": "https://www.whosdatedwho.com/dating/adele",
+            "relationship_type": 4,
+            "start_date": "Jan 2012",
+            "end_date": "Apr 2019",
+            "length": "7 years",
+            "start_months_since_1900": 1344,
+            "end_months_since_1900": 1431,
+            "length_in_months": 84
+        },
+        {
+            "name": "Clary Fisher",
+            "href": "https://www.whosdatedwho.com/dating/clary-fisher",
+            "relationship_type": 4,
+            "start_date": "",
+            "end_date": "",
+            "length": "-",
+            "start_months_since_1900": -1,
+            "end_months_since_1900": -1,
+            "length_in_months": -1
+        }
+    ],
+    "details": {
+        "First Name": "Simon",
+        "Middle Name": "NA",
+        "Last Name": "Konecki",
+        "Maiden Name": "NA",
+        "Full Name at Birth": "NA",
+        "Alternative Name": "NA",
+        "Birthday": "1974",
+        "Birthplace": "NA",
+        "Height": "NA",
+        "Weight": "NA",
+        "Zodiac Sign": "7",
+        "Sexuality": "Straight",
+        "Religion": "1",
+        "Ethnicity": "6",
+        "Nationality": "8",
+        "Occupation": "7"
+    }
+}

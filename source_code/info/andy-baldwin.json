@@ -1,0 +1,44 @@
+{
+    "relationships": [
+        {
+            "name": "Marla Maples",
+            "href": "https://www.whosdatedwho.com/dating/marla-maples",
+            "relationship_type": 2,
+            "start_date": "Dec 2007",
+            "end_date": "May 2008",
+            "length": "5 months",
+            "start_months_since_1900": 1295,
+            "end_months_since_1900": 1300,
+            "length_in_months": 5
+        },
+        {
+            "name": "Tessa Horst",
+            "href": "https://www.whosdatedwho.com/dating/tessa-horst",
+            "relationship_type": 2,
+            "start_date": "2007",
+            "end_date": "Sep 2007",
+            "length": "8 months",
+            "start_months_since_1900": 1284,
+            "end_months_since_1900": 1292,
+            "length_in_months": 8
+        }
+    ],
+    "details": {
+        "First Name": "Andrew",
+        "Middle Name": "James",
+        "Last Name": "Baldwin",
+        "Maiden Name": "NA",
+        "Full Name at Birth": "Andrew James Baldwin",
+        "Alternative Name": "Andrew Baldwin, Andy Baldwin, Andrew James Baldwin, Dr. Andrew James Baldwin, Dr. Andrew Baldwin",
+        "Birthday": "1977",
+        "Birthplace": "USA",
+        "Height": "183",
+        "Weight": "NA",
+        "Zodiac Sign": "9",
+        "Sexuality": "Straight",
+        "Religion": "1",
+        "Ethnicity": "6",
+        "Nationality": "91",
+        "Occupation": "2"
+    }
+}

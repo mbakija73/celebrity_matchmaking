@@ -1,0 +1,77 @@
+{
+    "relationships": [
+        {
+            "name": "Ben Affleck",
+            "href": "https://www.whosdatedwho.com/dating/ben-affleck",
+            "relationship_type": 2,
+            "start_date": "Nov 2019",
+            "end_date": "Jan 2021",
+            "length": "1 year",
+            "start_months_since_1900": 1438,
+            "end_months_since_1900": 1452,
+            "length_in_months": 12
+        },
+        {
+            "name": "Edgar Ram\u00edrez",
+            "href": "https://www.whosdatedwho.com/dating/edgar-ramirez",
+            "relationship_type": 2,
+            "start_date": "2016",
+            "end_date": "2016",
+            "length": "-",
+            "start_months_since_1900": 1392,
+            "end_months_since_1900": 1392,
+            "length_in_months": -1
+        },
+        {
+            "name": "Marc Clotet",
+            "href": "https://www.whosdatedwho.com/dating/marc-clotet",
+            "relationship_type": 4,
+            "start_date": "Jun 2010",
+            "end_date": "Feb 2013",
+            "length": "2 years",
+            "start_months_since_1900": 1325,
+            "end_months_since_1900": 1357,
+            "length_in_months": 24
+        },
+        {
+            "name": "Paul Boukadakis",
+            "href": "https://www.whosdatedwho.com/dating/paul-boukadakis",
+            "relationship_type": 2,
+            "start_date": "",
+            "end_date": "present",
+            "length": "-",
+            "start_months_since_1900": -1,
+            "end_months_since_1900": -1,
+            "length_in_months": -1
+        },
+        {
+            "name": "Adrien Brody",
+            "href": "https://www.whosdatedwho.com/dating/adrien-brody",
+            "relationship_type": 1,
+            "start_date": "",
+            "end_date": "",
+            "length": "-",
+            "start_months_since_1900": -1,
+            "end_months_since_1900": -1,
+            "length_in_months": -1
+        }
+    ],
+    "details": {
+        "First Name": "Ana",
+        "Middle Name": "De",
+        "Last Name": "de Armas",
+        "Maiden Name": "NA",
+        "Full Name at Birth": "Ana Celia de Armas Caso",
+        "Alternative Name": "Ana Celia de Armas Caso, Ana de Armas, Ana Armas",
+        "Birthday": "1988",
+        "Birthplace": "Cuba",
+        "Height": "168",
+        "Weight": "NA",
+        "Zodiac Sign": "3",
+        "Sexuality": "Straight",
+        "Religion": "1",
+        "Ethnicity": "6",
+        "Nationality": "12",
+        "Occupation": "8"
+    }
+}

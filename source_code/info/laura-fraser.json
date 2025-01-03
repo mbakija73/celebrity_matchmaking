@@ -1,0 +1,44 @@
+{
+    "relationships": [
+        {
+            "name": "Karl Geary",
+            "href": "https://www.whosdatedwho.com/dating/karl-geary",
+            "relationship_type": 4,
+            "start_date": "2003",
+            "end_date": "present",
+            "length": "21 years",
+            "start_months_since_1900": 1236,
+            "end_months_since_1900": -1,
+            "length_in_months": 252
+        },
+        {
+            "name": "Paul Bettany",
+            "href": "https://www.whosdatedwho.com/dating/paul-bettany",
+            "relationship_type": 2,
+            "start_date": "Jan 2000",
+            "end_date": "Mar 2002",
+            "length": "2 years",
+            "start_months_since_1900": 1200,
+            "end_months_since_1900": 1226,
+            "length_in_months": 24
+        }
+    ],
+    "details": {
+        "First Name": "Laura",
+        "Middle Name": "NA",
+        "Last Name": "Fraser",
+        "Maiden Name": "NA",
+        "Full Name at Birth": "NA",
+        "Alternative Name": "NA",
+        "Birthday": "1976",
+        "Birthplace": "United Kingdom",
+        "Height": "160",
+        "Weight": "NA",
+        "Zodiac Sign": "12",
+        "Sexuality": "Straight",
+        "Religion": "1",
+        "Ethnicity": "6",
+        "Nationality": "8",
+        "Occupation": "8"
+    }
+}

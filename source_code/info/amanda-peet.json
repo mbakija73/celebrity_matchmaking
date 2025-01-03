@@ -1,0 +1,77 @@
+{
+    "relationships": [
+        {
+            "name": "David Benioff",
+            "href": "https://www.whosdatedwho.com/dating/david-benioff",
+            "relationship_type": 4,
+            "start_date": "Mar 2005",
+            "end_date": "present",
+            "length": "19 years",
+            "start_months_since_1900": 1262,
+            "end_months_since_1900": -1,
+            "length_in_months": 228
+        },
+        {
+            "name": "Brian Van Holt",
+            "href": "https://www.whosdatedwho.com/dating/brian-van-holt",
+            "relationship_type": 2,
+            "start_date": "Aug 1999",
+            "end_date": "2003",
+            "length": "3 years",
+            "start_months_since_1900": 1195,
+            "end_months_since_1900": 1236,
+            "length_in_months": 36
+        },
+        {
+            "name": "Ben Stiller",
+            "href": "https://www.whosdatedwho.com/dating/ben-stiller",
+            "relationship_type": 2,
+            "start_date": "1998",
+            "end_date": "1998",
+            "length": "-",
+            "start_months_since_1900": 1176,
+            "end_months_since_1900": 1176,
+            "length_in_months": -1
+        },
+        {
+            "name": "John Kennedy Jr.",
+            "href": "https://www.whosdatedwho.com/dating/john-kennedy-jr",
+            "relationship_type": 3,
+            "start_date": "1994",
+            "end_date": "1994",
+            "length": "-",
+            "start_months_since_1900": 1128,
+            "end_months_since_1900": 1128,
+            "length_in_months": -1
+        },
+        {
+            "name": "Sarah Paulson",
+            "href": "https://www.whosdatedwho.com/dating/sarah-paulson",
+            "relationship_type": 1,
+            "start_date": "",
+            "end_date": "",
+            "length": "-",
+            "start_months_since_1900": -1,
+            "end_months_since_1900": -1,
+            "length_in_months": -1
+        }
+    ],
+    "details": {
+        "First Name": "Amanda",
+        "Middle Name": "NA",
+        "Last Name": "Benioff",
+        "Maiden Name": "Peet",
+        "Full Name at Birth": "Amanda Peet",
+        "Alternative Name": "NA",
+        "Birthday": "1972",
+        "Birthplace": "New York",
+        "Height": "170",
+        "Weight": "120lbs (54 kg)",
+        "Zodiac Sign": "13",
+        "Sexuality": "Straight",
+        "Religion": "31",
+        "Ethnicity": "6",
+        "Nationality": "91",
+        "Occupation": "8"
+    }
+}

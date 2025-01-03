@@ -1,0 +1,55 @@
+{
+    "relationships": [
+        {
+            "name": "Robert Walker",
+            "href": "https://www.whosdatedwho.com/dating/robert-walker",
+            "relationship_type": 4,
+            "start_date": "1948",
+            "end_date": "28th Aug 1951",
+            "length": "3 years",
+            "start_months_since_1900": 576,
+            "end_months_since_1900": 619,
+            "length_in_months": 36
+        },
+        {
+            "name": "Ernest Valentine Polutnik",
+            "href": "https://www.whosdatedwho.com/dating/ernest-valentine-polutnik",
+            "relationship_type": 4,
+            "start_date": "12th Dec 1947",
+            "end_date": "7th May 1949",
+            "length": "1 year",
+            "start_months_since_1900": 575,
+            "end_months_since_1900": 592,
+            "length_in_months": 12
+        },
+        {
+            "name": "Istvan Hertelendy",
+            "href": "https://www.whosdatedwho.com/dating/istvan-hertelendy",
+            "relationship_type": 4,
+            "start_date": "1940",
+            "end_date": "1945",
+            "length": "5 years",
+            "start_months_since_1900": 480,
+            "end_months_since_1900": 540,
+            "length_in_months": 60
+        }
+    ],
+    "details": {
+        "First Name": "Hanna",
+        "Middle Name": "NA",
+        "Last Name": "Landy",
+        "Maiden Name": "NA",
+        "Full Name at Birth": "Ilona Zimka",
+        "Alternative Name": "Hanna Hertelendy, Hanna Landy, Ilona Zimka, Ilona Hanna Landy Zimka",
+        "Birthday": "1919",
+        "Birthplace": "Hungary",
+        "Height": "161",
+        "Weight": "NA",
+        "Zodiac Sign": "10",
+        "Sexuality": "Straight",
+        "Religion": "1",
+        "Ethnicity": "6",
+        "Nationality": "31",
+        "Occupation": "8"
+    }
+}

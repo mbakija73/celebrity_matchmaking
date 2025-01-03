@@ -1,0 +1,66 @@
+{
+    "relationships": [
+        {
+            "name": "Henry Brandon",
+            "href": "https://www.whosdatedwho.com/dating/henry-brandon",
+            "relationship_type": 2,
+            "start_date": "1969",
+            "end_date": "1990",
+            "length": "21 years",
+            "start_months_since_1900": 828,
+            "end_months_since_1900": 1080,
+            "length_in_months": 252
+        },
+        {
+            "name": "Judy Garland",
+            "href": "https://www.whosdatedwho.com/dating/judy-garland",
+            "relationship_type": 4,
+            "start_date": "May 1965",
+            "end_date": "9th Jan 1969",
+            "length": "3 years",
+            "start_months_since_1900": 784,
+            "end_months_since_1900": 828,
+            "length_in_months": 36
+        },
+        {
+            "name": "Raymond Burr",
+            "href": "https://www.whosdatedwho.com/dating/raymond-burr",
+            "relationship_type": 2,
+            "start_date": "Jun 1952",
+            "end_date": "Jan 1953",
+            "length": "7 months",
+            "start_months_since_1900": 629,
+            "end_months_since_1900": 636,
+            "length_in_months": 7
+        },
+        {
+            "name": "Tyrone Power",
+            "href": "https://www.whosdatedwho.com/dating/tyrone-power",
+            "relationship_type": 3,
+            "start_date": "",
+            "end_date": "",
+            "length": "-",
+            "start_months_since_1900": -1,
+            "end_months_since_1900": -1,
+            "length_in_months": -1
+        }
+    ],
+    "details": {
+        "First Name": "Mark",
+        "Middle Name": "NA",
+        "Last Name": "Herron",
+        "Maiden Name": "NA",
+        "Full Name at Birth": "Truman Herron",
+        "Alternative Name": "Mark",
+        "Birthday": "1910",
+        "Birthplace": "USA",
+        "Height": "165",
+        "Weight": "NA",
+        "Zodiac Sign": "4",
+        "Sexuality": "Gay",
+        "Religion": "22",
+        "Ethnicity": "6",
+        "Nationality": "91",
+        "Occupation": "8"
+    }
+}

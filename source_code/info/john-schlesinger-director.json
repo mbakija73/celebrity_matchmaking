@@ -1,0 +1,44 @@
+{
+    "relationships": [
+        {
+            "name": "Michael Childers",
+            "href": "https://www.whosdatedwho.com/dating/michael-childers",
+            "relationship_type": 2,
+            "start_date": "1966",
+            "end_date": "1966",
+            "length": "-",
+            "start_months_since_1900": 792,
+            "end_months_since_1900": 792,
+            "length_in_months": -1
+        },
+        {
+            "name": "Dirk Bogarde",
+            "href": "https://www.whosdatedwho.com/dating/dirk-bogarde",
+            "relationship_type": 2,
+            "start_date": "1964",
+            "end_date": "1964",
+            "length": "-",
+            "start_months_since_1900": 768,
+            "end_months_since_1900": 768,
+            "length_in_months": -1
+        }
+    ],
+    "details": {
+        "First Name": "John",
+        "Middle Name": "NA",
+        "Last Name": "Schlesinger",
+        "Maiden Name": "NA",
+        "Full Name at Birth": "NA",
+        "Alternative Name": "NA",
+        "Birthday": "1926",
+        "Birthplace": "U.K.",
+        "Height": "NA",
+        "Weight": "NA",
+        "Zodiac Sign": "9",
+        "Sexuality": "Gay",
+        "Religion": "1",
+        "Ethnicity": "1",
+        "Nationality": "98",
+        "Occupation": "9"
+    }
+}

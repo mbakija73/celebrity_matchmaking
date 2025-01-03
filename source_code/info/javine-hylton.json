@@ -1,0 +1,44 @@
+{
+    "relationships": [
+        {
+            "name": "MC Harvey",
+            "href": "https://www.whosdatedwho.com/dating/mc-harvey",
+            "relationship_type": 2,
+            "start_date": "Oct 2006",
+            "end_date": "Oct 2009",
+            "length": "3 years",
+            "start_months_since_1900": 1281,
+            "end_months_since_1900": 1317,
+            "length_in_months": 36
+        },
+        {
+            "name": "Nick Carter",
+            "href": "https://www.whosdatedwho.com/dating/nick-carter",
+            "relationship_type": 3,
+            "start_date": "Jul 2005",
+            "end_date": "Jul 2005",
+            "length": "-",
+            "start_months_since_1900": 1266,
+            "end_months_since_1900": 1266,
+            "length_in_months": -1
+        }
+    ],
+    "details": {
+        "First Name": "Javine",
+        "Middle Name": "Dionne",
+        "Last Name": "Hylton",
+        "Maiden Name": "NA",
+        "Full Name at Birth": "Javine Dionne Hylton",
+        "Alternative Name": "Javine, Javine Hylton",
+        "Birthday": "1981",
+        "Birthplace": "England",
+        "Height": "175",
+        "Weight": "NA",
+        "Zodiac Sign": "13",
+        "Sexuality": "Straight",
+        "Religion": "1",
+        "Ethnicity": "8",
+        "Nationality": "8",
+        "Occupation": "1"
+    }
+}

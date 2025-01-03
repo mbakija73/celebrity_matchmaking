@@ -1,0 +1,44 @@
+{
+    "relationships": [
+        {
+            "name": "Teresa Palmer",
+            "href": "https://www.whosdatedwho.com/dating/teresa-palmer",
+            "relationship_type": 4,
+            "start_date": "Nov 2012",
+            "end_date": "present",
+            "length": "11 years",
+            "start_months_since_1900": 1354,
+            "end_months_since_1900": -1,
+            "length_in_months": 132
+        },
+        {
+            "name": "Frankie Shaw",
+            "href": "https://www.whosdatedwho.com/dating/frankie-shaw",
+            "relationship_type": 2,
+            "start_date": "2007",
+            "end_date": "2011",
+            "length": "4 years",
+            "start_months_since_1900": 1284,
+            "end_months_since_1900": 1332,
+            "length_in_months": 48
+        }
+    ],
+    "details": {
+        "First Name": "Mark",
+        "Middle Name": "NA",
+        "Last Name": "Webber",
+        "Maiden Name": "NA",
+        "Full Name at Birth": "Mark Allen Webber",
+        "Alternative Name": "NA",
+        "Birthday": "1980",
+        "Birthplace": "USA",
+        "Height": "182",
+        "Weight": "NA",
+        "Zodiac Sign": "8",
+        "Sexuality": "Straight",
+        "Religion": "1",
+        "Ethnicity": "6",
+        "Nationality": "91",
+        "Occupation": "8"
+    }
+}

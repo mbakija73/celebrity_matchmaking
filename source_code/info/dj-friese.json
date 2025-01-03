@@ -1,0 +1,49 @@
+{
+    "relationships": [
+        {
+            "name": "Lizzie Cundy",
+            "href": "https://www.whosdatedwho.com/dating/lizzie-cundy",
+            "relationship_type": 2,
+            "start_date": "Nov 2019",
+            "end_date": "present",
+            "length": "4 years",
+            "start_months_since_1900": 1438,
+            "end_months_since_1900": -1,
+            "length_in_months": 48
+        },
+        {
+            "name": "Kendra Wilkinson",
+            "href": "https://www.whosdatedwho.com/dating/kendra-wilkinson",
+            "relationship_type": 2,
+            "start_date": "Aug 2019",
+            "end_date": "Aug 2019",
+            "length": "-",
+            "start_months_since_1900": 1435,
+            "end_months_since_1900": 1435,
+            "length_in_months": -1
+        },
+        {
+            "name": "Melissa Meeks",
+            "href": "https://www.whosdatedwho.com/dating/melissa-meeks",
+            "relationship_type": 2,
+            "start_date": "Mar 2018",
+            "end_date": "Apr 2018",
+            "length": "1 month",
+            "start_months_since_1900": 1418,
+            "end_months_since_1900": 1419,
+            "length_in_months": 1
+        },
+        {
+            "name": "Donna D'Errico",
+            "href": "https://www.whosdatedwho.com/dating/donna-d-errico",
+            "relationship_type": 2,
+            "start_date": "2018",
+            "end_date": "2018",
+            "length": "-",
+            "start_months_since_1900": 1416,
+            "end_months_since_1900": 1416,
+            "length_in_months": -1
+        }
+    ],
+    "details": {}
+}

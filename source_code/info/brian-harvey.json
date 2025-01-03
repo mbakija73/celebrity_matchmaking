@@ -1,0 +1,55 @@
+{
+    "relationships": [
+        {
+            "name": "Emma Blocksage",
+            "href": "https://www.whosdatedwho.com/dating/emma-blocksage",
+            "relationship_type": 2,
+            "start_date": "2001",
+            "end_date": "2005",
+            "length": "4 years",
+            "start_months_since_1900": 1212,
+            "end_months_since_1900": 1260,
+            "length_in_months": 48
+        },
+        {
+            "name": "Danniella Westbrook",
+            "href": "https://www.whosdatedwho.com/dating/danniella-westbrook",
+            "relationship_type": 2,
+            "start_date": "1991",
+            "end_date": "1995",
+            "length": "4 years",
+            "start_months_since_1900": 1092,
+            "end_months_since_1900": 1140,
+            "length_in_months": 48
+        },
+        {
+            "name": "Naima Belkhiati",
+            "href": "https://www.whosdatedwho.com/dating/naima-belkhiati",
+            "relationship_type": 2,
+            "start_date": "",
+            "end_date": "",
+            "length": "-",
+            "start_months_since_1900": -1,
+            "end_months_since_1900": -1,
+            "length_in_months": -1
+        }
+    ],
+    "details": {
+        "First Name": "Brian",
+        "Middle Name": "Lee",
+        "Last Name": "Harvey",
+        "Maiden Name": "NA",
+        "Full Name at Birth": "Brian Lee Harvey",
+        "Alternative Name": "NA",
+        "Birthday": "1974",
+        "Birthplace": "United Kingdom",
+        "Height": "163",
+        "Weight": "NA",
+        "Zodiac Sign": "12",
+        "Sexuality": "Straight",
+        "Religion": "1",
+        "Ethnicity": "6",
+        "Nationality": "8",
+        "Occupation": "1"
+    }
+}

@@ -1,0 +1,88 @@
+{
+    "relationships": [
+        {
+            "name": "Jamie Foxx",
+            "href": "https://www.whosdatedwho.com/dating/jamie-foxx",
+            "relationship_type": 3,
+            "start_date": "2009",
+            "end_date": "2009",
+            "length": "-",
+            "start_months_since_1900": 1308,
+            "end_months_since_1900": 1308,
+            "length_in_months": -1
+        },
+        {
+            "name": "Tyson Beckford",
+            "href": "https://www.whosdatedwho.com/dating/tyson-beckford",
+            "relationship_type": 3,
+            "start_date": "2001",
+            "end_date": "2002",
+            "length": "1 year",
+            "start_months_since_1900": 1212,
+            "end_months_since_1900": 1224,
+            "length_in_months": 12
+        },
+        {
+            "name": "Shawn Kemp",
+            "href": "https://www.whosdatedwho.com/dating/shawn-kemp",
+            "relationship_type": 2,
+            "start_date": "1998",
+            "end_date": "1998",
+            "length": "-",
+            "start_months_since_1900": 1176,
+            "end_months_since_1900": 1176,
+            "length_in_months": -1
+        },
+        {
+            "name": "Bobby Cutts Jr.",
+            "href": "https://www.whosdatedwho.com/dating/bobby-cutts-jr",
+            "relationship_type": 3,
+            "start_date": "1989",
+            "end_date": "1989",
+            "length": "-",
+            "start_months_since_1900": 1068,
+            "end_months_since_1900": 1068,
+            "length_in_months": -1
+        },
+        {
+            "name": "Dane Cook",
+            "href": "https://www.whosdatedwho.com/dating/dane-cook",
+            "relationship_type": 3,
+            "start_date": "",
+            "end_date": "",
+            "length": "-",
+            "start_months_since_1900": -1,
+            "end_months_since_1900": -1,
+            "length_in_months": -1
+        },
+        {
+            "name": "Richard Branson",
+            "href": "https://www.whosdatedwho.com/dating/richard-branson",
+            "relationship_type": 3,
+            "start_date": "",
+            "end_date": "",
+            "length": "-",
+            "start_months_since_1900": -1,
+            "end_months_since_1900": -1,
+            "length_in_months": -1
+        }
+    ],
+    "details": {
+        "First Name": "Nikki",
+        "Middle Name": "Georgette",
+        "Last Name": "Giavasis",
+        "Maiden Name": "NA",
+        "Full Name at Birth": "Nikki Georgette Giavasis",
+        "Alternative Name": "Nikki G",
+        "Birthday": "1977",
+        "Birthplace": "USA",
+        "Height": "178",
+        "Weight": "144lbs (65 kg)",
+        "Zodiac Sign": "1",
+        "Sexuality": "Straight",
+        "Religion": "1",
+        "Ethnicity": "6",
+        "Nationality": "91",
+        "Occupation": "3"
+    }
+}

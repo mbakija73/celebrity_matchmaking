@@ -1,0 +1,77 @@
+{
+    "relationships": [
+        {
+            "name": "Kehlani",
+            "href": "https://www.whosdatedwho.com/dating/kehlani",
+            "relationship_type": 1,
+            "start_date": "2021",
+            "end_date": "2021",
+            "length": "-",
+            "start_months_since_1900": 1452,
+            "end_months_since_1900": 1452,
+            "length_in_months": -1
+        },
+        {
+            "name": "Drake",
+            "href": "https://www.whosdatedwho.com/dating/aubrey-graham",
+            "relationship_type": 2,
+            "start_date": "Sep 2008",
+            "end_date": "Dec 2008",
+            "length": "3 months",
+            "start_months_since_1900": 1304,
+            "end_months_since_1900": 1307,
+            "length_in_months": 3
+        },
+        {
+            "name": "Kendrick Lamar",
+            "href": "https://www.whosdatedwho.com/dating/kendrick-lamar",
+            "relationship_type": 1,
+            "start_date": "",
+            "end_date": "",
+            "length": "-",
+            "start_months_since_1900": -1,
+            "end_months_since_1900": -1,
+            "length_in_months": -1
+        },
+        {
+            "name": "Scott Sasso (streetwear owner)",
+            "href": "https://www.whosdatedwho.com/dating/scott-sasso-streetwear-owner",
+            "relationship_type": 2,
+            "start_date": "",
+            "end_date": "",
+            "length": "-",
+            "start_months_since_1900": -1,
+            "end_months_since_1900": -1,
+            "length_in_months": -1
+        },
+        {
+            "name": "Jack Harlow",
+            "href": "https://www.whosdatedwho.com/dating/jack-harlow",
+            "relationship_type": 1,
+            "start_date": "",
+            "end_date": "",
+            "length": "-",
+            "start_months_since_1900": -1,
+            "end_months_since_1900": -1,
+            "length_in_months": -1
+        }
+    ],
+    "details": {
+        "First Name": "Sol\u00e1na",
+        "Middle Name": "Imani",
+        "Last Name": "Rowe",
+        "Maiden Name": "NA",
+        "Full Name at Birth": "Sol\u00e1na Imani Rowe",
+        "Alternative Name": "Lana, Sosa, SZA",
+        "Birthday": "1989",
+        "Birthplace": "USA",
+        "Height": "162",
+        "Weight": "132lbs (60 kg)",
+        "Zodiac Sign": "5",
+        "Sexuality": "Straight",
+        "Religion": "25",
+        "Ethnicity": "2",
+        "Nationality": "91",
+        "Occupation": "1"
+    }
+}

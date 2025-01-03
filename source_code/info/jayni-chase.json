@@ -1,0 +1,44 @@
+{
+    "relationships": [
+        {
+            "name": "Chevy Chase",
+            "href": "https://www.whosdatedwho.com/dating/chevy-chase",
+            "relationship_type": 4,
+            "start_date": "Jun 1980",
+            "end_date": "present",
+            "length": "44 years",
+            "start_months_since_1900": 965,
+            "end_months_since_1900": -1,
+            "length_in_months": 528
+        },
+        {
+            "name": "Jonathan Frakes",
+            "href": "https://www.whosdatedwho.com/dating/jonathan-frakes",
+            "relationship_type": 2,
+            "start_date": "1977",
+            "end_date": "1977",
+            "length": "-",
+            "start_months_since_1900": 924,
+            "end_months_since_1900": 924,
+            "length_in_months": -1
+        }
+    ],
+    "details": {
+        "First Name": "Jaynie",
+        "Middle Name": "NA",
+        "Last Name": "Chase",
+        "Maiden Name": "Luke",
+        "Full Name at Birth": "Jayni Luke",
+        "Alternative Name": "Jayni Chase, Jayni Luke",
+        "Birthday": "1957",
+        "Birthplace": "USA",
+        "Height": "NA",
+        "Weight": "NA",
+        "Zodiac Sign": "11",
+        "Sexuality": "Straight",
+        "Religion": "1",
+        "Ethnicity": "6",
+        "Nationality": "91",
+        "Occupation": "9"
+    }
+}

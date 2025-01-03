@@ -1,0 +1,44 @@
+{
+    "relationships": [
+        {
+            "name": "Kristina Schulman",
+            "href": "https://www.whosdatedwho.com/dating/kristina-schulman",
+            "relationship_type": 1,
+            "start_date": "Oct 2020",
+            "end_date": "Oct 2020",
+            "length": "-",
+            "start_months_since_1900": 1449,
+            "end_months_since_1900": 1449,
+            "length_in_months": -1
+        },
+        {
+            "name": "Becca Tilley",
+            "href": "https://www.whosdatedwho.com/dating/becca-tilley",
+            "relationship_type": 2,
+            "start_date": "2016",
+            "end_date": "May 2017",
+            "length": "1 year",
+            "start_months_since_1900": 1392,
+            "end_months_since_1900": 1408,
+            "length_in_months": 12
+        }
+    ],
+    "details": {
+        "First Name": "Robert",
+        "Middle Name": "NA",
+        "Last Name": "Graham",
+        "Maiden Name": "NA",
+        "Full Name at Birth": "Robert Graham",
+        "Alternative Name": "Robert Graham, Robert",
+        "Birthday": "NA",
+        "Birthplace": "NA",
+        "Height": "188",
+        "Weight": "NA",
+        "Zodiac Sign": "2",
+        "Sexuality": "NA",
+        "Religion": "1",
+        "Ethnicity": "6",
+        "Nationality": "65",
+        "Occupation": "11"
+    }
+}

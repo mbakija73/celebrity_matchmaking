@@ -1,0 +1,55 @@
+{
+    "relationships": [
+        {
+            "name": "Steve Schaeffer",
+            "href": "https://www.whosdatedwho.com/dating/steve-schaeffer",
+            "relationship_type": 4,
+            "start_date": "1970",
+            "end_date": "Aug 1973",
+            "length": "3 years",
+            "start_months_since_1900": 840,
+            "end_months_since_1900": 883,
+            "length_in_months": 36
+        },
+        {
+            "name": "Richard Quine",
+            "href": "https://www.whosdatedwho.com/dating/richard-quine",
+            "relationship_type": 4,
+            "start_date": "Nov 1964",
+            "end_date": "Dec 1970",
+            "length": "6 years",
+            "start_months_since_1900": 778,
+            "end_months_since_1900": 851,
+            "length_in_months": 72
+        },
+        {
+            "name": "Dick Haymes",
+            "href": "https://www.whosdatedwho.com/dating/dick-haymes",
+            "relationship_type": 4,
+            "start_date": "Jan 1958",
+            "end_date": "Jan 1965",
+            "length": "7 years",
+            "start_months_since_1900": 696,
+            "end_months_since_1900": 780,
+            "length_in_months": 84
+        }
+    ],
+    "details": {
+        "First Name": "Frances",
+        "Middle Name": "Ann",
+        "Last Name": "Jeffries",
+        "Maiden Name": "Makris",
+        "Full Name at Birth": "Frances Ann Makris",
+        "Alternative Name": "NA",
+        "Birthday": "1937",
+        "Birthplace": "USA",
+        "Height": "NA",
+        "Weight": "NA",
+        "Zodiac Sign": "3",
+        "Sexuality": "Straight",
+        "Religion": "1",
+        "Ethnicity": "6",
+        "Nationality": "91",
+        "Occupation": "8"
+    }
+}

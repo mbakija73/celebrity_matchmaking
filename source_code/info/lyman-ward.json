@@ -1,0 +1,55 @@
+{
+    "relationships": [
+        {
+            "name": "Cindy Pickett",
+            "href": "https://www.whosdatedwho.com/dating/cindy-pickett",
+            "relationship_type": 4,
+            "start_date": "Sep 1985",
+            "end_date": "1992",
+            "length": "6 years",
+            "start_months_since_1900": 1028,
+            "end_months_since_1900": 1104,
+            "length_in_months": 72
+        },
+        {
+            "name": "Leigh Heine",
+            "href": "https://www.whosdatedwho.com/dating/leigh-heine",
+            "relationship_type": 4,
+            "start_date": "1978",
+            "end_date": "1985",
+            "length": "7 years",
+            "start_months_since_1900": 936,
+            "end_months_since_1900": 1020,
+            "length_in_months": 84
+        },
+        {
+            "name": "Cathy Gelbart",
+            "href": "https://www.whosdatedwho.com/dating/cathy-gelbart",
+            "relationship_type": 4,
+            "start_date": "1974",
+            "end_date": "1976",
+            "length": "2 years",
+            "start_months_since_1900": 888,
+            "end_months_since_1900": 912,
+            "length_in_months": 24
+        }
+    ],
+    "details": {
+        "First Name": "Lyman",
+        "Middle Name": "NA",
+        "Last Name": "Ward",
+        "Maiden Name": "NA",
+        "Full Name at Birth": "Lyman Ward",
+        "Alternative Name": "Lyman Ward",
+        "Birthday": "1941",
+        "Birthplace": "Canada",
+        "Height": "NA",
+        "Weight": "NA",
+        "Zodiac Sign": "4",
+        "Sexuality": "Straight",
+        "Religion": "1",
+        "Ethnicity": "6",
+        "Nationality": "90",
+        "Occupation": "8"
+    }
+}

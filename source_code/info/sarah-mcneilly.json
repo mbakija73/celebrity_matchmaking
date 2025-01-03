@@ -1,0 +1,66 @@
+{
+    "relationships": [
+        {
+            "name": "Devin Clark",
+            "href": "https://www.whosdatedwho.com/dating/devin-clark",
+            "relationship_type": 2,
+            "start_date": "2016",
+            "end_date": "present",
+            "length": "8 years",
+            "start_months_since_1900": 1392,
+            "end_months_since_1900": -1,
+            "length_in_months": 96
+        },
+        {
+            "name": "Marc Forster",
+            "href": "https://www.whosdatedwho.com/dating/marc-forster",
+            "relationship_type": 2,
+            "start_date": "2012",
+            "end_date": "2013",
+            "length": "1 year",
+            "start_months_since_1900": 1344,
+            "end_months_since_1900": 1356,
+            "length_in_months": 12
+        },
+        {
+            "name": "Dave Foley",
+            "href": "https://www.whosdatedwho.com/dating/dave-foley",
+            "relationship_type": 3,
+            "start_date": "Sep 2011",
+            "end_date": "Sep 2011",
+            "length": "-",
+            "start_months_since_1900": 1340,
+            "end_months_since_1900": 1340,
+            "length_in_months": -1
+        },
+        {
+            "name": "Jack Osbourne",
+            "href": "https://www.whosdatedwho.com/dating/jack-osbourne",
+            "relationship_type": 2,
+            "start_date": "Nov 2010",
+            "end_date": "Nov 2010",
+            "length": "-",
+            "start_months_since_1900": 1330,
+            "end_months_since_1900": 1330,
+            "length_in_months": -1
+        }
+    ],
+    "details": {
+        "First Name": "Sarah",
+        "Middle Name": "Ruth",
+        "Last Name": "McNeilly",
+        "Maiden Name": "NA",
+        "Full Name at Birth": "Sarah McNeilly",
+        "Alternative Name": "NA",
+        "Birthday": "1983",
+        "Birthplace": "Michigan",
+        "Height": "175",
+        "Weight": "NA",
+        "Zodiac Sign": "7",
+        "Sexuality": "Straight",
+        "Religion": "1",
+        "Ethnicity": "6",
+        "Nationality": "91",
+        "Occupation": "15"
+    }
+}

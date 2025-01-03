@@ -1,0 +1,44 @@
+{
+    "relationships": [
+        {
+            "name": "Marian Marsh",
+            "href": "https://www.whosdatedwho.com/dating/marian-marsh",
+            "relationship_type": 4,
+            "start_date": "1937",
+            "end_date": "1959",
+            "length": "22 years",
+            "start_months_since_1900": 444,
+            "end_months_since_1900": 708,
+            "length_in_months": 264
+        },
+        {
+            "name": "Colleen Moore",
+            "href": "https://www.whosdatedwho.com/dating/colleen-moore",
+            "relationship_type": 4,
+            "start_date": "1931",
+            "end_date": "1934",
+            "length": "3 years",
+            "start_months_since_1900": 372,
+            "end_months_since_1900": 408,
+            "length_in_months": 36
+        }
+    ],
+    "details": {
+        "First Name": "Albert",
+        "Middle Name": "NA",
+        "Last Name": "Scott",
+        "Maiden Name": "NA",
+        "Full Name at Birth": "Albert Parker Scott",
+        "Alternative Name": "Albert P. Scott, Al P. Scott, Al Scott",
+        "Birthday": "NA",
+        "Birthplace": "NA",
+        "Height": "NA",
+        "Weight": "NA",
+        "Zodiac Sign": "2",
+        "Sexuality": "Straight",
+        "Religion": "1",
+        "Ethnicity": "6",
+        "Nationality": "91",
+        "Occupation": "7"
+    }
+}

@@ -1,0 +1,33 @@
+{
+    "relationships": [
+        {
+            "name": "Jack Norworth",
+            "href": "https://www.whosdatedwho.com/dating/jack-norworth",
+            "relationship_type": 4,
+            "start_date": "1925",
+            "end_date": "1950",
+            "length": "25 years",
+            "start_months_since_1900": 300,
+            "end_months_since_1900": 600,
+            "length_in_months": 300
+        }
+    ],
+    "details": {
+        "First Name": "Dorothy",
+        "Middle Name": "NA",
+        "Last Name": "Adelphi",
+        "Maiden Name": "NA",
+        "Full Name at Birth": "NA",
+        "Alternative Name": "NA",
+        "Birthday": "1895",
+        "Birthplace": "USA",
+        "Height": "157",
+        "Weight": "NA",
+        "Zodiac Sign": "1",
+        "Sexuality": "Straight",
+        "Religion": "1",
+        "Ethnicity": "6",
+        "Nationality": "91",
+        "Occupation": "8"
+    }
+}

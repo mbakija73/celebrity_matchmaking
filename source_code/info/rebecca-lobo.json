@@ -1,0 +1,44 @@
+{
+    "relationships": [
+        {
+            "name": "Steve Rushin",
+            "href": "https://www.whosdatedwho.com/dating/steve-rushin",
+            "relationship_type": 4,
+            "start_date": "2003",
+            "end_date": "present",
+            "length": "21 years",
+            "start_months_since_1900": 1236,
+            "end_months_since_1900": -1,
+            "length_in_months": 252
+        },
+        {
+            "name": "Keith Olbermann",
+            "href": "https://www.whosdatedwho.com/dating/keith-olbermann",
+            "relationship_type": 2,
+            "start_date": "1995",
+            "end_date": "1995",
+            "length": "-",
+            "start_months_since_1900": 1140,
+            "end_months_since_1900": 1140,
+            "length_in_months": -1
+        }
+    ],
+    "details": {
+        "First Name": "Rebecca",
+        "Middle Name": "Rose",
+        "Last Name": "Lobo",
+        "Maiden Name": "NA",
+        "Full Name at Birth": "Rebecca Rose Lobo",
+        "Alternative Name": "Rebecca Rose Lobo-Rushin",
+        "Birthday": "1973",
+        "Birthplace": "USA",
+        "Height": "193",
+        "Weight": "185lbs (84 kg)",
+        "Zodiac Sign": "10",
+        "Sexuality": "Straight",
+        "Religion": "1",
+        "Ethnicity": "8",
+        "Nationality": "91",
+        "Occupation": "2"
+    }
+}

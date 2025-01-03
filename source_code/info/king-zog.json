@@ -1,0 +1,33 @@
+{
+    "relationships": [
+        {
+            "name": "Queen Geraldine",
+            "href": "https://www.whosdatedwho.com/dating/queen-geraldine",
+            "relationship_type": 4,
+            "start_date": "1938",
+            "end_date": "1961",
+            "length": "23 years",
+            "start_months_since_1900": 456,
+            "end_months_since_1900": 732,
+            "length_in_months": 276
+        }
+    ],
+    "details": {
+        "First Name": "King",
+        "Middle Name": "NA",
+        "Last Name": "Zog",
+        "Maiden Name": "NA",
+        "Full Name at Birth": "Ahmet Muhtar Zogolli",
+        "Alternative Name": "Zog of Albania",
+        "Birthday": "1895",
+        "Birthplace": "Albania",
+        "Height": "183",
+        "Weight": "NA",
+        "Zodiac Sign": "10",
+        "Sexuality": "Straight",
+        "Religion": "1",
+        "Ethnicity": "6",
+        "Nationality": "54",
+        "Occupation": "18"
+    }
+}

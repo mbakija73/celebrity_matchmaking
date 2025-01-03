@@ -1,0 +1,44 @@
+{
+    "relationships": [
+        {
+            "name": "Wayne Rogers",
+            "href": "https://www.whosdatedwho.com/dating/wayne-rogers",
+            "relationship_type": 2,
+            "start_date": "1985",
+            "end_date": "1987",
+            "length": "2 years",
+            "start_months_since_1900": 1020,
+            "end_months_since_1900": 1044,
+            "length_in_months": 24
+        },
+        {
+            "name": "John Schneider",
+            "href": "https://www.whosdatedwho.com/dating/john-schneider",
+            "relationship_type": 2,
+            "start_date": "Jun 1979",
+            "end_date": "Jul 1983",
+            "length": "4 years",
+            "start_months_since_1900": 953,
+            "end_months_since_1900": 1002,
+            "length_in_months": 48
+        }
+    ],
+    "details": {
+        "First Name": "Melinda",
+        "Middle Name": "NA",
+        "Last Name": "Naud",
+        "Maiden Name": "NA",
+        "Full Name at Birth": "Melinda Claire Naud",
+        "Alternative Name": "Mindy Naud, Melinda Claire Naud, Melinda Naud",
+        "Birthday": "1955",
+        "Birthplace": "New York USA",
+        "Height": "175",
+        "Weight": "132lbs (60 kg)",
+        "Zodiac Sign": "1",
+        "Sexuality": "NA",
+        "Religion": "1",
+        "Ethnicity": "6",
+        "Nationality": "91",
+        "Occupation": "8"
+    }
+}

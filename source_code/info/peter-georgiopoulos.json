@@ -1,0 +1,33 @@
+{
+    "relationships": [
+        {
+            "name": "Mary Young",
+            "href": "https://www.whosdatedwho.com/dating/kara-young",
+            "relationship_type": 4,
+            "start_date": "2002",
+            "end_date": "present",
+            "length": "22 years",
+            "start_months_since_1900": 1224,
+            "end_months_since_1900": -1,
+            "length_in_months": 264
+        }
+    ],
+    "details": {
+        "First Name": "Peter",
+        "Middle Name": "NA",
+        "Last Name": "Georgiopoulos",
+        "Maiden Name": "NA",
+        "Full Name at Birth": "Peter C. Georgiopoulos",
+        "Alternative Name": "NA",
+        "Birthday": "1961",
+        "Birthplace": "Greece",
+        "Height": "190",
+        "Weight": "NA",
+        "Zodiac Sign": "13",
+        "Sexuality": "Straight",
+        "Religion": "1",
+        "Ethnicity": "6",
+        "Nationality": "85",
+        "Occupation": "18"
+    }
+}

@@ -1,0 +1,44 @@
+{
+    "relationships": [
+        {
+            "name": "Tippi Hedren",
+            "href": "https://www.whosdatedwho.com/dating/tippi-hedren",
+            "relationship_type": 4,
+            "start_date": "1952",
+            "end_date": "1961",
+            "length": "9 years",
+            "start_months_since_1900": 624,
+            "end_months_since_1900": 732,
+            "length_in_months": 108
+        },
+        {
+            "name": "Nanita Greene",
+            "href": "https://www.whosdatedwho.com/dating/nanita-greene",
+            "relationship_type": 4,
+            "start_date": "",
+            "end_date": "",
+            "length": "-",
+            "start_months_since_1900": -1,
+            "end_months_since_1900": -1,
+            "length_in_months": -1
+        }
+    ],
+    "details": {
+        "First Name": "Peter",
+        "Middle Name": "Atwill",
+        "Last Name": "Griffith",
+        "Maiden Name": "NA",
+        "Full Name at Birth": "Peter Atwill Griffith",
+        "Alternative Name": "Peter Griffith, Peter Atwill Griffith",
+        "Birthday": "1933",
+        "Birthplace": "USA",
+        "Height": "NA",
+        "Weight": "NA",
+        "Zodiac Sign": "5",
+        "Sexuality": "NA",
+        "Religion": "1",
+        "Ethnicity": "1",
+        "Nationality": "91",
+        "Occupation": "8"
+    }
+}

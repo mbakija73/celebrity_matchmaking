@@ -1,0 +1,77 @@
+{
+    "relationships": [
+        {
+            "name": "Tom Beck",
+            "href": "https://www.whosdatedwho.com/dating/tom-beck",
+            "relationship_type": 2,
+            "start_date": "Jan 2011",
+            "end_date": "",
+            "length": "-",
+            "start_months_since_1900": 1332,
+            "end_months_since_1900": -1,
+            "length_in_months": -1
+        },
+        {
+            "name": "Marcell Jansen",
+            "href": "https://www.whosdatedwho.com/dating/marcell-jansen",
+            "relationship_type": 2,
+            "start_date": "2011",
+            "end_date": "",
+            "length": "-",
+            "start_months_since_1900": 1332,
+            "end_months_since_1900": -1,
+            "length_in_months": -1
+        },
+        {
+            "name": "Oliver Pocher",
+            "href": "https://www.whosdatedwho.com/dating/oliver-pocher",
+            "relationship_type": 2,
+            "start_date": "2005",
+            "end_date": "Nov 2008",
+            "length": "3 years",
+            "start_months_since_1900": 1260,
+            "end_months_since_1900": 1306,
+            "length_in_months": 36
+        },
+        {
+            "name": "Oliver Picher",
+            "href": "https://www.whosdatedwho.com/dating/oliver-picher",
+            "relationship_type": 1,
+            "start_date": "",
+            "end_date": "",
+            "length": "-",
+            "start_months_since_1900": -1,
+            "end_months_since_1900": -1,
+            "length_in_months": -1
+        },
+        {
+            "name": "Oliver Berben",
+            "href": "https://www.whosdatedwho.com/dating/oliver-berben",
+            "relationship_type": 3,
+            "start_date": "",
+            "end_date": "",
+            "length": "-",
+            "start_months_since_1900": -1,
+            "end_months_since_1900": -1,
+            "length_in_months": -1
+        }
+    ],
+    "details": {
+        "First Name": "Monica",
+        "Middle Name": "Jasminka",
+        "Last Name": "Ivancan",
+        "Maiden Name": "NA",
+        "Full Name at Birth": "Monica Jasminka Ivancan",
+        "Alternative Name": "Monika Ivancan, Monica Meier-Ivancan, Monica Jasminka Ivancan, Monica Jasminka Meier-Ivancan",
+        "Birthday": "1977",
+        "Birthplace": "Germany",
+        "Height": "178",
+        "Weight": "NA",
+        "Zodiac Sign": "8",
+        "Sexuality": "Straight",
+        "Religion": "1",
+        "Ethnicity": "6",
+        "Nationality": "55",
+        "Occupation": "15"
+    }
+}

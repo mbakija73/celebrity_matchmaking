@@ -1,0 +1,77 @@
+{
+    "relationships": [
+        {
+            "name": "Marco Toto",
+            "href": "https://www.whosdatedwho.com/dating/marco-toto",
+            "relationship_type": 4,
+            "start_date": "",
+            "end_date": "",
+            "length": "-",
+            "start_months_since_1900": -1,
+            "end_months_since_1900": -1,
+            "length_in_months": -1
+        },
+        {
+            "name": "Luana Borgia",
+            "href": "https://www.whosdatedwho.com/dating/luana-borgia",
+            "relationship_type": 1,
+            "start_date": "",
+            "end_date": "",
+            "length": "-",
+            "start_months_since_1900": -1,
+            "end_months_since_1900": -1,
+            "length_in_months": -1
+        },
+        {
+            "name": "Christoph Clark",
+            "href": "https://www.whosdatedwho.com/dating/christoph-clark",
+            "relationship_type": 3,
+            "start_date": "",
+            "end_date": "",
+            "length": "-",
+            "start_months_since_1900": -1,
+            "end_months_since_1900": -1,
+            "length_in_months": -1
+        },
+        {
+            "name": "Roberto Malone",
+            "href": "https://www.whosdatedwho.com/dating/roberto-malone",
+            "relationship_type": 3,
+            "start_date": "",
+            "end_date": "",
+            "length": "-",
+            "start_months_since_1900": -1,
+            "end_months_since_1900": -1,
+            "length_in_months": -1
+        },
+        {
+            "name": "Rocco Siffredi",
+            "href": "https://www.whosdatedwho.com/dating/rocco-siffredi",
+            "relationship_type": 3,
+            "start_date": "",
+            "end_date": "",
+            "length": "-",
+            "start_months_since_1900": -1,
+            "end_months_since_1900": -1,
+            "length_in_months": -1
+        }
+    ],
+    "details": {
+        "First Name": "Jessica",
+        "Middle Name": "NA",
+        "Last Name": "Rizzo",
+        "Maiden Name": "NA",
+        "Full Name at Birth": "Eugenia Valentini",
+        "Alternative Name": "Jessica, Sonia Attanasio, Eugenia Valentini, Jessica Rizzo",
+        "Birthday": "1964",
+        "Birthplace": "Italy",
+        "Height": "170",
+        "Weight": "NA",
+        "Zodiac Sign": "3",
+        "Sexuality": "Straight",
+        "Religion": "1",
+        "Ethnicity": "6",
+        "Nationality": "139",
+        "Occupation": "16"
+    }
+}

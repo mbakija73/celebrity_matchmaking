@@ -1,0 +1,66 @@
+{
+    "relationships": [
+        {
+            "name": "Garson Kanin",
+            "href": "https://www.whosdatedwho.com/dating/garson-kanin",
+            "relationship_type": 4,
+            "start_date": "1941",
+            "end_date": "28th Aug 1985",
+            "length": "44 years",
+            "start_months_since_1900": 492,
+            "end_months_since_1900": 1027,
+            "length_in_months": 528
+        },
+        {
+            "name": "Jed Harris",
+            "href": "https://www.whosdatedwho.com/dating/jed-harris",
+            "relationship_type": 2,
+            "start_date": "1928",
+            "end_date": "1940",
+            "length": "12 years",
+            "start_months_since_1900": 336,
+            "end_months_since_1900": 480,
+            "length_in_months": 144
+        },
+        {
+            "name": "Gregory Kelly",
+            "href": "https://www.whosdatedwho.com/dating/gregory-kelly",
+            "relationship_type": 4,
+            "start_date": "1917",
+            "end_date": "9th Jul 1927",
+            "length": "10 years",
+            "start_months_since_1900": 204,
+            "end_months_since_1900": 330,
+            "length_in_months": 120
+        },
+        {
+            "name": "Clifford Odets",
+            "href": "https://www.whosdatedwho.com/dating/clifford-odets",
+            "relationship_type": 2,
+            "start_date": "",
+            "end_date": "",
+            "length": "-",
+            "start_months_since_1900": -1,
+            "end_months_since_1900": -1,
+            "length_in_months": -1
+        }
+    ],
+    "details": {
+        "First Name": "Ruth",
+        "Middle Name": "NA",
+        "Last Name": "Gordon",
+        "Maiden Name": "Jones",
+        "Full Name at Birth": "Ruth Gordon Jones",
+        "Alternative Name": "Ruth Gordon Jones, Ruth Gordon",
+        "Birthday": "1896",
+        "Birthplace": "Massachusetts USA",
+        "Height": "155",
+        "Weight": "NA",
+        "Zodiac Sign": "5",
+        "Sexuality": "Straight",
+        "Religion": "1",
+        "Ethnicity": "6",
+        "Nationality": "91",
+        "Occupation": "8"
+    }
+}

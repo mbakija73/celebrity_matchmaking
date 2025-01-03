@@ -1,0 +1,55 @@
+{
+    "relationships": [
+        {
+            "name": "Chad Johnson",
+            "href": "https://www.whosdatedwho.com/dating/chad-johnson-51226132",
+            "relationship_type": 3,
+            "start_date": "Sep 2020",
+            "end_date": "Oct 2020",
+            "length": "1 month",
+            "start_months_since_1900": 1448,
+            "end_months_since_1900": 1449,
+            "length_in_months": 1
+        },
+        {
+            "name": "Ronnie Magro",
+            "href": "https://www.whosdatedwho.com/dating/ronnie-magro",
+            "relationship_type": 2,
+            "start_date": "May 2017",
+            "end_date": "Oct 2019",
+            "length": "2 years",
+            "start_months_since_1900": 1408,
+            "end_months_since_1900": 1437,
+            "length_in_months": 24
+        },
+        {
+            "name": "Joe Ambrosole",
+            "href": "https://www.whosdatedwho.com/dating/joe-ambrosole",
+            "relationship_type": 2,
+            "start_date": "",
+            "end_date": "present",
+            "length": "-",
+            "start_months_since_1900": -1,
+            "end_months_since_1900": -1,
+            "length_in_months": -1
+        }
+    ],
+    "details": {
+        "First Name": "Jennifer",
+        "Middle Name": "Annette",
+        "Last Name": "Harley",
+        "Maiden Name": "NA",
+        "Full Name at Birth": "Jennifer Annette Harley",
+        "Alternative Name": "Jen Harley, Jennifer Harley, Jenn Harley",
+        "Birthday": "1987",
+        "Birthplace": "USA",
+        "Height": "157",
+        "Weight": "126lbs (57 kg)",
+        "Zodiac Sign": "5",
+        "Sexuality": "Straight",
+        "Religion": "18",
+        "Ethnicity": "8",
+        "Nationality": "91",
+        "Occupation": "11"
+    }
+}

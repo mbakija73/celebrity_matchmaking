@@ -1,0 +1,55 @@
+{
+    "relationships": [
+        {
+            "name": "Doris Nolan",
+            "href": "https://www.whosdatedwho.com/dating/doris-nolan",
+            "relationship_type": 2,
+            "start_date": "1937",
+            "end_date": "1937",
+            "length": "-",
+            "start_months_since_1900": 444,
+            "end_months_since_1900": 444,
+            "length_in_months": -1
+        },
+        {
+            "name": "Claire Trevor",
+            "href": "https://www.whosdatedwho.com/dating/claire-trevor",
+            "relationship_type": 2,
+            "start_date": "1935",
+            "end_date": "1935",
+            "length": "-",
+            "start_months_since_1900": 420,
+            "end_months_since_1900": 420,
+            "length_in_months": -1
+        },
+        {
+            "name": "Ruth Weston",
+            "href": "https://www.whosdatedwho.com/dating/ruth-weston",
+            "relationship_type": 1,
+            "start_date": "",
+            "end_date": "",
+            "length": "-",
+            "start_months_since_1900": -1,
+            "end_months_since_1900": -1,
+            "length_in_months": -1
+        }
+    ],
+    "details": {
+        "First Name": "Gregory",
+        "Middle Name": "La",
+        "Last Name": "Cava",
+        "Maiden Name": "NA",
+        "Full Name at Birth": "Gregory La Cava",
+        "Alternative Name": "Gregory La Cava, George Gregory La Cava",
+        "Birthday": "1892",
+        "Birthplace": "Pennsylvania USA",
+        "Height": "NA",
+        "Weight": "NA",
+        "Zodiac Sign": "1",
+        "Sexuality": "Straight",
+        "Religion": "1",
+        "Ethnicity": "1",
+        "Nationality": "91",
+        "Occupation": "9"
+    }
+}

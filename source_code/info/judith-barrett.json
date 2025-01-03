@@ -1,0 +1,44 @@
+{
+    "relationships": [
+        {
+            "name": "Jack Randall",
+            "href": "https://www.whosdatedwho.com/dating/addison-randall",
+            "relationship_type": 2,
+            "start_date": "1938",
+            "end_date": "1938",
+            "length": "-",
+            "start_months_since_1900": 456,
+            "end_months_since_1900": 456,
+            "length_in_months": -1
+        },
+        {
+            "name": "Cliff Edwards",
+            "href": "https://www.whosdatedwho.com/dating/cliff-edwards",
+            "relationship_type": 4,
+            "start_date": "1931",
+            "end_date": "1936",
+            "length": "5 years",
+            "start_months_since_1900": 372,
+            "end_months_since_1900": 432,
+            "length_in_months": 60
+        }
+    ],
+    "details": {
+        "First Name": "Judith",
+        "Middle Name": "NA",
+        "Last Name": "Barrett",
+        "Maiden Name": "NA",
+        "Full Name at Birth": "Lucille Kelley",
+        "Alternative Name": "Nancy Dover",
+        "Birthday": "1909",
+        "Birthplace": "USA",
+        "Height": "NA",
+        "Weight": "NA",
+        "Zodiac Sign": "9",
+        "Sexuality": "Straight",
+        "Religion": "1",
+        "Ethnicity": "6",
+        "Nationality": "91",
+        "Occupation": "8"
+    }
+}

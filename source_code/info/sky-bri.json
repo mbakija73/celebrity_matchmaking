@@ -1,0 +1,33 @@
+{
+    "relationships": [
+        {
+            "name": "Jake Paul",
+            "href": "https://www.whosdatedwho.com/dating/jake-paul",
+            "relationship_type": 2,
+            "start_date": "Mar 2022",
+            "end_date": "",
+            "length": "-",
+            "start_months_since_1900": 1466,
+            "end_months_since_1900": -1,
+            "length_in_months": -1
+        }
+    ],
+    "details": {
+        "First Name": "Sky",
+        "Middle Name": "NA",
+        "Last Name": "Bri",
+        "Maiden Name": "NA",
+        "Full Name at Birth": "Skylar Bri",
+        "Alternative Name": "Sky, Sky Bri, Realskybri, Sky-Bri",
+        "Birthday": "1999",
+        "Birthplace": "USA",
+        "Height": "170",
+        "Weight": "128lbs (58 kg)",
+        "Zodiac Sign": "7",
+        "Sexuality": "Straight",
+        "Religion": "1",
+        "Ethnicity": "6",
+        "Nationality": "91",
+        "Occupation": "11"
+    }
+}

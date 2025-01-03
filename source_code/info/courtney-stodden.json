@@ -1,0 +1,88 @@
+{
+    "relationships": [
+        {
+            "name": "Chris Sheng",
+            "href": "https://www.whosdatedwho.com/dating/chris-sheng",
+            "relationship_type": 2,
+            "start_date": "2020",
+            "end_date": "Jul 2023",
+            "length": "3 years",
+            "start_months_since_1900": 1440,
+            "end_months_since_1900": 1482,
+            "length_in_months": 36
+        },
+        {
+            "name": "Marc Mani",
+            "href": "https://www.whosdatedwho.com/dating/marc-mani",
+            "relationship_type": 2,
+            "start_date": "14th Feb 2017",
+            "end_date": "",
+            "length": "-",
+            "start_months_since_1900": 1405,
+            "end_months_since_1900": -1,
+            "length_in_months": -1
+        },
+        {
+            "name": "Edward Lozzi",
+            "href": "https://www.whosdatedwho.com/dating/edward-lozzi",
+            "relationship_type": 3,
+            "start_date": "Nov 2013",
+            "end_date": "Nov 2013",
+            "length": "-",
+            "start_months_since_1900": 1366,
+            "end_months_since_1900": 1366,
+            "length_in_months": -1
+        },
+        {
+            "name": "Doug Hutchison",
+            "href": "https://www.whosdatedwho.com/dating/doug-hutchison",
+            "relationship_type": 4,
+            "start_date": "Feb 2011",
+            "end_date": "Oct 2017",
+            "length": "6 years",
+            "start_months_since_1900": 1333,
+            "end_months_since_1900": 1413,
+            "length_in_months": 72
+        },
+        {
+            "name": "Brian Austin Green",
+            "href": "https://www.whosdatedwho.com/dating/brian-austin-green",
+            "relationship_type": 1,
+            "start_date": "",
+            "end_date": "",
+            "length": "-",
+            "start_months_since_1900": -1,
+            "end_months_since_1900": -1,
+            "length_in_months": -1
+        },
+        {
+            "name": "Chris Winters",
+            "href": "https://www.whosdatedwho.com/dating/chris-winters",
+            "relationship_type": 2,
+            "start_date": "",
+            "end_date": "",
+            "length": "-",
+            "start_months_since_1900": -1,
+            "end_months_since_1900": -1,
+            "length_in_months": -1
+        }
+    ],
+    "details": {
+        "First Name": "Courtney",
+        "Middle Name": "Alexis",
+        "Last Name": "Hutchinson",
+        "Maiden Name": "Stodden",
+        "Full Name at Birth": "Courtney Alexis Stodden",
+        "Alternative Name": "Courtney Hutchison",
+        "Birthday": "1994",
+        "Birthplace": "United States",
+        "Height": "160",
+        "Weight": "106lbs (48 kg)",
+        "Zodiac Sign": "11",
+        "Sexuality": "Straight",
+        "Religion": "18",
+        "Ethnicity": "6",
+        "Nationality": "91",
+        "Occupation": "11"
+    }
+}

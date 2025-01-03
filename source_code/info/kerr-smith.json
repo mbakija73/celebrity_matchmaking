@@ -1,0 +1,66 @@
+{
+    "relationships": [
+        {
+            "name": "Lisa Smith (Spouse)",
+            "href": "https://www.whosdatedwho.com/dating/lisa-smith-spouse",
+            "relationship_type": 4,
+            "start_date": "2013",
+            "end_date": "present",
+            "length": "11 years",
+            "start_months_since_1900": 1356,
+            "end_months_since_1900": -1,
+            "length_in_months": 132
+        },
+        {
+            "name": "Alexis Thorpe",
+            "href": "https://www.whosdatedwho.com/dating/alexis-thorpe",
+            "relationship_type": 2,
+            "start_date": "2001",
+            "end_date": "2001",
+            "length": "-",
+            "start_months_since_1900": 1212,
+            "end_months_since_1900": 1212,
+            "length_in_months": -1
+        },
+        {
+            "name": "Harmoni Everett",
+            "href": "https://www.whosdatedwho.com/dating/harmoni-everett",
+            "relationship_type": 4,
+            "start_date": "2001",
+            "end_date": "Mar 2009",
+            "length": "8 years",
+            "start_months_since_1900": 1212,
+            "end_months_since_1900": 1310,
+            "length_in_months": 96
+        },
+        {
+            "name": "Ali Hillis",
+            "href": "https://www.whosdatedwho.com/dating/ali-hillis",
+            "relationship_type": 2,
+            "start_date": "1998",
+            "end_date": "2000",
+            "length": "2 years",
+            "start_months_since_1900": 1176,
+            "end_months_since_1900": 1200,
+            "length_in_months": 24
+        }
+    ],
+    "details": {
+        "First Name": "Kerr",
+        "Middle Name": "Van Cleve",
+        "Last Name": "Smith",
+        "Maiden Name": "NA",
+        "Full Name at Birth": "Kerr Van Cleve Smith",
+        "Alternative Name": "NA",
+        "Birthday": "1972",
+        "Birthplace": "USA",
+        "Height": "184",
+        "Weight": "NA",
+        "Zodiac Sign": "1",
+        "Sexuality": "Straight",
+        "Religion": "1",
+        "Ethnicity": "6",
+        "Nationality": "91",
+        "Occupation": "8"
+    }
+}

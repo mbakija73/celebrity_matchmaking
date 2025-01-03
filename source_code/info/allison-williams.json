@@ -1,0 +1,44 @@
+{
+    "relationships": [
+        {
+            "name": "Alexander Dreymon",
+            "href": "https://www.whosdatedwho.com/dating/alexander-dreymon",
+            "relationship_type": 2,
+            "start_date": "2019",
+            "end_date": "present",
+            "length": "5 years",
+            "start_months_since_1900": 1428,
+            "end_months_since_1900": -1,
+            "length_in_months": 60
+        },
+        {
+            "name": "Ricky Van Veen",
+            "href": "https://www.whosdatedwho.com/dating/ricky-van-veen",
+            "relationship_type": 4,
+            "start_date": "2011",
+            "end_date": "Jun 2019",
+            "length": "8 years",
+            "start_months_since_1900": 1332,
+            "end_months_since_1900": 1433,
+            "length_in_months": 96
+        }
+    ],
+    "details": {
+        "First Name": "Allison",
+        "Middle Name": "Howell",
+        "Last Name": "Williams",
+        "Maiden Name": "NA",
+        "Full Name at Birth": "Allison Howell Williams",
+        "Alternative Name": "Ali, Allison Williams, Allison Howell Williams",
+        "Birthday": "1988",
+        "Birthplace": "USA",
+        "Height": "167",
+        "Weight": "119lbs (54 kg)",
+        "Zodiac Sign": "7",
+        "Sexuality": "Straight",
+        "Religion": "1",
+        "Ethnicity": "6",
+        "Nationality": "91",
+        "Occupation": "8"
+    }
+}

@@ -1,0 +1,55 @@
+{
+    "relationships": [
+        {
+            "name": "London Goheen",
+            "href": "https://www.whosdatedwho.com/dating/london-goheen",
+            "relationship_type": 2,
+            "start_date": "Oct 2017",
+            "end_date": "Mar 2018",
+            "length": "5 months",
+            "start_months_since_1900": 1413,
+            "end_months_since_1900": 1418,
+            "length_in_months": 5
+        },
+        {
+            "name": "Hannah Stocking",
+            "href": "https://www.whosdatedwho.com/dating/hannah-stocking",
+            "relationship_type": 2,
+            "start_date": "2016",
+            "end_date": "2017",
+            "length": "1 year",
+            "start_months_since_1900": 1392,
+            "end_months_since_1900": 1404,
+            "length_in_months": 12
+        },
+        {
+            "name": "Lele Pons",
+            "href": "https://www.whosdatedwho.com/dating/lele-pons",
+            "relationship_type": 1,
+            "start_date": "Jan 2015",
+            "end_date": "Apr 2015",
+            "length": "3 months",
+            "start_months_since_1900": 1380,
+            "end_months_since_1900": 1383,
+            "length_in_months": 3
+        }
+    ],
+    "details": {
+        "First Name": "Twan",
+        "Middle Name": "NA",
+        "Last Name": "Kuyper",
+        "Maiden Name": "NA",
+        "Full Name at Birth": "Twan Kuyper",
+        "Alternative Name": "NA",
+        "Birthday": "1996",
+        "Birthplace": "Netherlands",
+        "Height": "188",
+        "Weight": "178lbs (81 kg)",
+        "Zodiac Sign": "9",
+        "Sexuality": "Straight",
+        "Religion": "1",
+        "Ethnicity": "6",
+        "Nationality": "45",
+        "Occupation": "11"
+    }
+}

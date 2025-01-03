@@ -1,0 +1,66 @@
+{
+    "relationships": [
+        {
+            "name": "Lil Peep",
+            "href": "https://www.whosdatedwho.com/dating/lil-peep",
+            "relationship_type": 2,
+            "start_date": "Oct 2017",
+            "end_date": "Nov 2017",
+            "length": "1 month",
+            "start_months_since_1900": 1413,
+            "end_months_since_1900": 1414,
+            "length_in_months": 1
+        },
+        {
+            "name": "Luke Hemmings",
+            "href": "https://www.whosdatedwho.com/dating/luke-hemmings",
+            "relationship_type": 2,
+            "start_date": "Apr 2016",
+            "end_date": "Jul 2017",
+            "length": "1 year",
+            "start_months_since_1900": 1395,
+            "end_months_since_1900": 1410,
+            "length_in_months": 12
+        },
+        {
+            "name": "Papi Flaco",
+            "href": "https://www.whosdatedwho.com/dating/papi-flaco",
+            "relationship_type": 2,
+            "start_date": "2014",
+            "end_date": "2015",
+            "length": "1 year",
+            "start_months_since_1900": 1368,
+            "end_months_since_1900": 1380,
+            "length_in_months": 12
+        },
+        {
+            "name": "Austin Carlile",
+            "href": "https://www.whosdatedwho.com/dating/austin-carlile",
+            "relationship_type": 2,
+            "start_date": "2013",
+            "end_date": "2014",
+            "length": "1 year",
+            "start_months_since_1900": 1356,
+            "end_months_since_1900": 1368,
+            "length_in_months": 12
+        }
+    ],
+    "details": {
+        "First Name": "Arzaylea",
+        "Middle Name": "NA",
+        "Last Name": "Rodriguez",
+        "Maiden Name": "NA",
+        "Full Name at Birth": "Arzaylea Rodriguez",
+        "Alternative Name": "Arzaylea, Arzaylea Rodriguez",
+        "Birthday": "1994",
+        "Birthplace": "USA",
+        "Height": "170",
+        "Weight": "126lbs (57 kg)",
+        "Zodiac Sign": "10",
+        "Sexuality": "Straight",
+        "Religion": "1",
+        "Ethnicity": "8",
+        "Nationality": "91",
+        "Occupation": "11"
+    }
+}

@@ -1,0 +1,66 @@
+{
+    "relationships": [
+        {
+            "name": "Dale DaBone",
+            "href": "https://www.whosdatedwho.com/dating/dale-dabone",
+            "relationship_type": 2,
+            "start_date": "2003",
+            "end_date": "2009",
+            "length": "6 years",
+            "start_months_since_1900": 1236,
+            "end_months_since_1900": 1308,
+            "length_in_months": 72
+        },
+        {
+            "name": "Livan Hernandez",
+            "href": "https://www.whosdatedwho.com/dating/livan-hernandez",
+            "relationship_type": 3,
+            "start_date": "2002",
+            "end_date": "2002",
+            "length": "-",
+            "start_months_since_1900": 1224,
+            "end_months_since_1900": 1224,
+            "length_in_months": -1
+        },
+        {
+            "name": "Xavier Malisse",
+            "href": "https://www.whosdatedwho.com/dating/xavier-malisse",
+            "relationship_type": 2,
+            "start_date": "",
+            "end_date": "",
+            "length": "-",
+            "start_months_since_1900": -1,
+            "end_months_since_1900": -1,
+            "length_in_months": -1
+        },
+        {
+            "name": "York Alec Shackleton",
+            "href": "https://www.whosdatedwho.com/dating/york-alec-shackleton",
+            "relationship_type": 2,
+            "start_date": "",
+            "end_date": "",
+            "length": "-",
+            "start_months_since_1900": -1,
+            "end_months_since_1900": -1,
+            "length_in_months": -1
+        }
+    ],
+    "details": {
+        "First Name": "Jennifer",
+        "Middle Name": "NA",
+        "Last Name": "Capriati",
+        "Maiden Name": "NA",
+        "Full Name at Birth": "Jennifer Maria Capriati",
+        "Alternative Name": "NA",
+        "Birthday": "1976",
+        "Birthplace": "USA",
+        "Height": "170",
+        "Weight": "160lbs (73 kg)",
+        "Zodiac Sign": "7",
+        "Sexuality": "Straight",
+        "Religion": "1",
+        "Ethnicity": "6",
+        "Nationality": "91",
+        "Occupation": "2"
+    }
+}

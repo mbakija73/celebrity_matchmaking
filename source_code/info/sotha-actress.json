@@ -1,0 +1,44 @@
+{
+    "relationships": [
+        {
+            "name": "Patrick Dewaere",
+            "href": "https://www.whosdatedwho.com/dating/patrick-dewaere",
+            "relationship_type": 4,
+            "start_date": "26th Jul 1968",
+            "end_date": "12th Nov 1979",
+            "length": "11 years",
+            "start_months_since_1900": 822,
+            "end_months_since_1900": 958,
+            "length_in_months": 132
+        },
+        {
+            "name": "Romain Bouteille",
+            "href": "https://www.whosdatedwho.com/dating/romain-bouteille",
+            "relationship_type": 4,
+            "start_date": "",
+            "end_date": "",
+            "length": "-",
+            "start_months_since_1900": -1,
+            "end_months_since_1900": -1,
+            "length_in_months": -1
+        }
+    ],
+    "details": {
+        "First Name": "Sotha",
+        "Middle Name": "NA",
+        "Last Name": "NA",
+        "Maiden Name": "NA",
+        "Full Name at Birth": "Catherine Signaux",
+        "Alternative Name": "Sotha, Catherine Signaux, Catherine Sotha",
+        "Birthday": "1943",
+        "Birthplace": "Seine-et-Marne",
+        "Height": "NA",
+        "Weight": "NA",
+        "Zodiac Sign": "2",
+        "Sexuality": "NA",
+        "Religion": "1",
+        "Ethnicity": "1",
+        "Nationality": "86",
+        "Occupation": "9"
+    }
+}

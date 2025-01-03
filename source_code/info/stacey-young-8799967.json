@@ -1,0 +1,44 @@
+{
+    "relationships": [
+        {
+            "name": "Eddie Kidd",
+            "href": "https://www.whosdatedwho.com/dating/eddie-kidd",
+            "relationship_type": 2,
+            "start_date": "1986",
+            "end_date": "1986",
+            "length": "-",
+            "start_months_since_1900": 1032,
+            "end_months_since_1900": 1032,
+            "length_in_months": -1
+        },
+        {
+            "name": "Paul Young",
+            "href": "https://www.whosdatedwho.com/dating/paul-young",
+            "relationship_type": 4,
+            "start_date": "Mar 1983",
+            "end_date": "Mar 1983",
+            "length": "-",
+            "start_months_since_1900": 998,
+            "end_months_since_1900": 998,
+            "length_in_months": -1
+        }
+    ],
+    "details": {
+        "First Name": "Stacey",
+        "Middle Name": "NA",
+        "Last Name": "Young",
+        "Maiden Name": "NA",
+        "Full Name at Birth": "Stacey Smith",
+        "Alternative Name": "NA",
+        "Birthday": "1964",
+        "Birthplace": "NA",
+        "Height": "NA",
+        "Weight": "NA",
+        "Zodiac Sign": "2",
+        "Sexuality": "Straight",
+        "Religion": "1",
+        "Ethnicity": "6",
+        "Nationality": "8",
+        "Occupation": "15"
+    }
+}

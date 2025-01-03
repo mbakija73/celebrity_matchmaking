@@ -1,0 +1,55 @@
+{
+    "relationships": [
+        {
+            "name": "Jason Statham",
+            "href": "https://www.whosdatedwho.com/dating/jason-statham",
+            "relationship_type": 2,
+            "start_date": "Apr 2010",
+            "end_date": "Apr 2010",
+            "length": "-",
+            "start_months_since_1900": 1323,
+            "end_months_since_1900": 1323,
+            "length_in_months": -1
+        },
+        {
+            "name": "Olivier Martinez",
+            "href": "https://www.whosdatedwho.com/dating/olivier-martinez",
+            "relationship_type": 2,
+            "start_date": "Nov 2009",
+            "end_date": "Feb 2010",
+            "length": "3 months",
+            "start_months_since_1900": 1318,
+            "end_months_since_1900": 1321,
+            "length_in_months": 3
+        },
+        {
+            "name": "Ty Wood",
+            "href": "https://www.whosdatedwho.com/dating/ty-wood",
+            "relationship_type": 2,
+            "start_date": "Aug 2006",
+            "end_date": "Oct 2008",
+            "length": "2 years",
+            "start_months_since_1900": 1279,
+            "end_months_since_1900": 1305,
+            "length_in_months": 24
+        }
+    ],
+    "details": {
+        "First Name": "Rosie",
+        "Middle Name": "Alice",
+        "Last Name": "Huntington-Whiteley",
+        "Maiden Name": "NA",
+        "Full Name at Birth": "Rosie Alice Huntington-Whiteley",
+        "Alternative Name": "Rose, Rosie Huntington-Whiteley",
+        "Birthday": "1987",
+        "Birthplace": "UK",
+        "Height": "178",
+        "Weight": "119lbs (54 kg)",
+        "Zodiac Sign": "7",
+        "Sexuality": "Straight",
+        "Religion": "3",
+        "Ethnicity": "6",
+        "Nationality": "8",
+        "Occupation": "15"
+    }
+}

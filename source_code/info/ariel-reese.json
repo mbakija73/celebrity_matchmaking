@@ -1,0 +1,33 @@
+{
+    "relationships": [
+        {
+            "name": "Fetty Wap",
+            "href": "https://www.whosdatedwho.com/dating/fetty-wap",
+            "relationship_type": 2,
+            "start_date": "Feb 2005",
+            "end_date": "Dec 2013",
+            "length": "8 years",
+            "start_months_since_1900": 1261,
+            "end_months_since_1900": 1367,
+            "length_in_months": 96
+        }
+    ],
+    "details": {
+        "First Name": "Ariel",
+        "Middle Name": "NA",
+        "Last Name": "Reese",
+        "Maiden Name": "NA",
+        "Full Name at Birth": "Ariel Reese",
+        "Alternative Name": "NA",
+        "Birthday": "1990",
+        "Birthplace": "Nicaragua",
+        "Height": "168",
+        "Weight": "NA",
+        "Zodiac Sign": "11",
+        "Sexuality": "Straight",
+        "Religion": "18",
+        "Ethnicity": "8",
+        "Nationality": "101",
+        "Occupation": "18"
+    }
+}

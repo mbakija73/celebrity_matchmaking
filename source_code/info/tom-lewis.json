@@ -1,0 +1,44 @@
+{
+    "relationships": [
+        {
+            "name": "Loretta Young",
+            "href": "https://www.whosdatedwho.com/dating/loretta-young",
+            "relationship_type": 4,
+            "start_date": "1939",
+            "end_date": "1969",
+            "length": "30 years",
+            "start_months_since_1900": 468,
+            "end_months_since_1900": 828,
+            "length_in_months": 360
+        },
+        {
+            "name": "Glenda Farrell",
+            "href": "https://www.whosdatedwho.com/dating/glenda-farrell",
+            "relationship_type": 2,
+            "start_date": "1935",
+            "end_date": "1935",
+            "length": "-",
+            "start_months_since_1900": 420,
+            "end_months_since_1900": 420,
+            "length_in_months": -1
+        }
+    ],
+    "details": {
+        "First Name": "Tom",
+        "Middle Name": "Howard",
+        "Last Name": "Lewis",
+        "Maiden Name": "NA",
+        "Full Name at Birth": "Thomas Howard Lewis",
+        "Alternative Name": "NA",
+        "Birthday": "1901",
+        "Birthplace": "New York",
+        "Height": "NA",
+        "Weight": "NA",
+        "Zodiac Sign": "8",
+        "Sexuality": "Straight",
+        "Religion": "1",
+        "Ethnicity": "6",
+        "Nationality": "65",
+        "Occupation": "9"
+    }
+}

@@ -1,0 +1,33 @@
+{
+    "relationships": [
+        {
+            "name": "Bar Refaeli",
+            "href": "https://www.whosdatedwho.com/dating/bar-refaeli",
+            "relationship_type": 2,
+            "start_date": "Jun 2011",
+            "end_date": "Jul 2011",
+            "length": "1 month",
+            "start_months_since_1900": 1337,
+            "end_months_since_1900": 1338,
+            "length_in_months": 1
+        }
+    ],
+    "details": {
+        "First Name": "David",
+        "Middle Name": "NA",
+        "Last Name": "Fisher",
+        "Maiden Name": "NA",
+        "Full Name at Birth": "David Fisher",
+        "Alternative Name": "David Fisher, Dave Fisher",
+        "Birthday": "NA",
+        "Birthplace": "NA",
+        "Height": "NA",
+        "Weight": "NA",
+        "Zodiac Sign": "2",
+        "Sexuality": "Straight",
+        "Religion": "1",
+        "Ethnicity": "6",
+        "Nationality": "65",
+        "Occupation": "3"
+    }
+}

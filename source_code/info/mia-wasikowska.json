@@ -1,0 +1,44 @@
+{
+    "relationships": [
+        {
+            "name": "Robert Pattinson",
+            "href": "https://www.whosdatedwho.com/dating/robert-pattinson",
+            "relationship_type": 2,
+            "start_date": "Sep 2017",
+            "end_date": "Jul 2018",
+            "length": "10 months",
+            "start_months_since_1900": 1412,
+            "end_months_since_1900": 1422,
+            "length_in_months": 10
+        },
+        {
+            "name": "Jesse Eisenberg",
+            "href": "https://www.whosdatedwho.com/dating/jesse-eisenberg",
+            "relationship_type": 2,
+            "start_date": "Jun 2013",
+            "end_date": "Dec 2015",
+            "length": "2 years",
+            "start_months_since_1900": 1361,
+            "end_months_since_1900": 1391,
+            "length_in_months": 24
+        }
+    ],
+    "details": {
+        "First Name": "Mia",
+        "Middle Name": "Lily",
+        "Last Name": "Wasikowska",
+        "Maiden Name": "Wasikowska",
+        "Full Name at Birth": "Mia Lily Wasikowska",
+        "Alternative Name": "Mia",
+        "Birthday": "1989",
+        "Birthplace": "Australia",
+        "Height": "163",
+        "Weight": "106lbs (48 kg)",
+        "Zodiac Sign": "5",
+        "Sexuality": "Straight",
+        "Religion": "3",
+        "Ethnicity": "6",
+        "Nationality": "135",
+        "Occupation": "8"
+    }
+}

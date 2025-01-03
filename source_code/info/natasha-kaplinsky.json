@@ -1,0 +1,44 @@
+{
+    "relationships": [
+        {
+            "name": "Justin Bower",
+            "href": "https://www.whosdatedwho.com/dating/justin-bower",
+            "relationship_type": 4,
+            "start_date": "2005",
+            "end_date": "present",
+            "length": "19 years",
+            "start_months_since_1900": 1260,
+            "end_months_since_1900": -1,
+            "length_in_months": 228
+        },
+        {
+            "name": "Brendan Cole",
+            "href": "https://www.whosdatedwho.com/dating/brendan-cole",
+            "relationship_type": 2,
+            "start_date": "2004",
+            "end_date": "2004",
+            "length": "-",
+            "start_months_since_1900": 1248,
+            "end_months_since_1900": 1248,
+            "length_in_months": -1
+        }
+    ],
+    "details": {
+        "First Name": "Natasha",
+        "Middle Name": "Margaret",
+        "Last Name": "NA",
+        "Maiden Name": "Kaplinsky",
+        "Full Name at Birth": "Natasha Margaret Kaplinsky",
+        "Alternative Name": "Natasha Margaret Kaplinsky, Natasha Kaplinsky",
+        "Birthday": "1972",
+        "Birthplace": "UK",
+        "Height": "163",
+        "Weight": "NA",
+        "Zodiac Sign": "11",
+        "Sexuality": "Straight",
+        "Religion": "1",
+        "Ethnicity": "6",
+        "Nationality": "8",
+        "Occupation": "9"
+    }
+}

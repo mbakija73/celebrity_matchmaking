@@ -1,0 +1,55 @@
+{
+    "relationships": [
+        {
+            "name": "Rohan Marley",
+            "href": "https://www.whosdatedwho.com/dating/rohan-marley",
+            "relationship_type": 2,
+            "start_date": "Mar 1996",
+            "end_date": "Nov 2008",
+            "length": "12 years",
+            "start_months_since_1900": 1154,
+            "end_months_since_1900": 1306,
+            "length_in_months": 144
+        },
+        {
+            "name": "Kendu Isaacs",
+            "href": "https://www.whosdatedwho.com/dating/kendu-isaacs",
+            "relationship_type": 3,
+            "start_date": "1994",
+            "end_date": "1994",
+            "length": "-",
+            "start_months_since_1900": 1128,
+            "end_months_since_1900": 1128,
+            "length_in_months": -1
+        },
+        {
+            "name": "Wyclef Jean",
+            "href": "https://www.whosdatedwho.com/dating/wyclef-jean",
+            "relationship_type": 2,
+            "start_date": "Jul 1991",
+            "end_date": "Nov 1996",
+            "length": "5 years",
+            "start_months_since_1900": 1098,
+            "end_months_since_1900": 1162,
+            "length_in_months": 60
+        }
+    ],
+    "details": {
+        "First Name": "Lauryn",
+        "Middle Name": "Noelle",
+        "Last Name": "Hill",
+        "Maiden Name": "NA",
+        "Full Name at Birth": "Lauryn Noelle Hill",
+        "Alternative Name": "L-Boogie, Ms. Hill, L. Boogie, Ms. Lauryn Hill",
+        "Birthday": "1975",
+        "Birthplace": "USA",
+        "Height": "161",
+        "Weight": "122lbs (55 kg)",
+        "Zodiac Sign": "4",
+        "Sexuality": "Straight",
+        "Religion": "19",
+        "Ethnicity": "2",
+        "Nationality": "91",
+        "Occupation": "1"
+    }
+}

@@ -1,0 +1,66 @@
+{
+    "relationships": [
+        {
+            "name": "Dr. Stanley William Vogel",
+            "href": "https://www.whosdatedwho.com/dating/dr-stanley-william-vogel",
+            "relationship_type": 4,
+            "start_date": "1953",
+            "end_date": "Nov 1962",
+            "length": "9 years",
+            "start_months_since_1900": 636,
+            "end_months_since_1900": 754,
+            "length_in_months": 108
+        },
+        {
+            "name": "Dr. Harvey R. Cummins",
+            "href": "https://www.whosdatedwho.com/dating/dr-harvey-r-cummins",
+            "relationship_type": 4,
+            "start_date": "1946",
+            "end_date": "18th Sep 1951",
+            "length": "5 years",
+            "start_months_since_1900": 552,
+            "end_months_since_1900": 620,
+            "length_in_months": 60
+        },
+        {
+            "name": "Allan Hersholt",
+            "href": "https://www.whosdatedwho.com/dating/allan-hersholt",
+            "relationship_type": 4,
+            "start_date": "1937",
+            "end_date": "Aug 1945",
+            "length": "8 years",
+            "start_months_since_1900": 444,
+            "end_months_since_1900": 547,
+            "length_in_months": 96
+        },
+        {
+            "name": "John Wayne",
+            "href": "https://www.whosdatedwho.com/dating/john-wayne",
+            "relationship_type": 2,
+            "start_date": "",
+            "end_date": "",
+            "length": "-",
+            "start_months_since_1900": -1,
+            "end_months_since_1900": -1,
+            "length_in_months": -1
+        }
+    ],
+    "details": {
+        "First Name": "Osa",
+        "Middle Name": "Iversen",
+        "Last Name": "Massen",
+        "Maiden Name": "NA",
+        "Full Name at Birth": "Aase Iversen Madsen",
+        "Alternative Name": "Aase Iversen Madsen, Osa Massen",
+        "Birthday": "1914",
+        "Birthplace": "Denmark",
+        "Height": "168",
+        "Weight": "NA",
+        "Zodiac Sign": "13",
+        "Sexuality": "Straight",
+        "Religion": "1",
+        "Ethnicity": "6",
+        "Nationality": "50",
+        "Occupation": "8"
+    }
+}

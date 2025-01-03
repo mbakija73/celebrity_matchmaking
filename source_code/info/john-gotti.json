@@ -1,0 +1,44 @@
+{
+    "relationships": [
+        {
+            "name": "Lisa Gastineau",
+            "href": "https://www.whosdatedwho.com/dating/lisa-gastineau",
+            "relationship_type": 2,
+            "start_date": "1980",
+            "end_date": "1986",
+            "length": "6 years",
+            "start_months_since_1900": 960,
+            "end_months_since_1900": 1032,
+            "length_in_months": 72
+        },
+        {
+            "name": "Victoria DiGiorgio",
+            "href": "https://www.whosdatedwho.com/dating/victoria-digiorgio",
+            "relationship_type": 4,
+            "start_date": "1962",
+            "end_date": "2002",
+            "length": "40 years",
+            "start_months_since_1900": 744,
+            "end_months_since_1900": 1224,
+            "length_in_months": 480
+        }
+    ],
+    "details": {
+        "First Name": "John",
+        "Middle Name": "Joseph",
+        "Last Name": "Gotti Jr",
+        "Maiden Name": "NA",
+        "Full Name at Birth": "John Joseph Gotti Jr",
+        "Alternative Name": "The Dapper Don, The Teflon Don, Johnny Boy, John Joseph Gotti Jr.",
+        "Birthday": "1940",
+        "Birthplace": "New York",
+        "Height": "178",
+        "Weight": "NA",
+        "Zodiac Sign": "5",
+        "Sexuality": "Straight",
+        "Religion": "13",
+        "Ethnicity": "6",
+        "Nationality": "91",
+        "Occupation": "18"
+    }
+}

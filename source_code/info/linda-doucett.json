@@ -1,0 +1,44 @@
+{
+    "relationships": [
+        {
+            "name": "Ron Zimmerman",
+            "href": "https://www.whosdatedwho.com/dating/ron-zimmerman",
+            "relationship_type": 3,
+            "start_date": "1995",
+            "end_date": "1995",
+            "length": "-",
+            "start_months_since_1900": 1140,
+            "end_months_since_1900": 1140,
+            "length_in_months": -1
+        },
+        {
+            "name": "Garry Shandling",
+            "href": "https://www.whosdatedwho.com/dating/garry-shandling",
+            "relationship_type": 2,
+            "start_date": "1987",
+            "end_date": "1994",
+            "length": "7 years",
+            "start_months_since_1900": 1044,
+            "end_months_since_1900": 1128,
+            "length_in_months": 84
+        }
+    ],
+    "details": {
+        "First Name": "Linda",
+        "Middle Name": "NA",
+        "Last Name": "Doucett",
+        "Maiden Name": "NA",
+        "Full Name at Birth": "Linda Doucett",
+        "Alternative Name": "Linda Durst",
+        "Birthday": "1954",
+        "Birthplace": "USA",
+        "Height": "173",
+        "Weight": "NA",
+        "Zodiac Sign": "8",
+        "Sexuality": "Straight",
+        "Religion": "1",
+        "Ethnicity": "6",
+        "Nationality": "91",
+        "Occupation": "16"
+    }
+}

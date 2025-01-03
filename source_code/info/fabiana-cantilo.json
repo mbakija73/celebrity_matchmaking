@@ -1,0 +1,44 @@
+{
+    "relationships": [
+        {
+            "name": "Fito P\u00e1ez",
+            "href": "https://www.whosdatedwho.com/dating/fito-paez",
+            "relationship_type": 2,
+            "start_date": "1983",
+            "end_date": "1990",
+            "length": "7 years",
+            "start_months_since_1900": 996,
+            "end_months_since_1900": 1080,
+            "length_in_months": 84
+        },
+        {
+            "name": "Charly Garc\u00eda",
+            "href": "https://www.whosdatedwho.com/dating/charly-garcia",
+            "relationship_type": 2,
+            "start_date": "1983",
+            "end_date": "1983",
+            "length": "-",
+            "start_months_since_1900": 996,
+            "end_months_since_1900": 996,
+            "length_in_months": -1
+        }
+    ],
+    "details": {
+        "First Name": "Fabiana",
+        "Middle Name": "NA",
+        "Last Name": "Cantilo",
+        "Maiden Name": "NA",
+        "Full Name at Birth": "NA",
+        "Alternative Name": "NA",
+        "Birthday": "1959",
+        "Birthplace": "Argentina",
+        "Height": "NA",
+        "Weight": "NA",
+        "Zodiac Sign": "1",
+        "Sexuality": "NA",
+        "Religion": "1",
+        "Ethnicity": "1",
+        "Nationality": "28",
+        "Occupation": "1"
+    }
+}

@@ -1,0 +1,77 @@
+{
+    "relationships": [
+        {
+            "name": "Matt Torvik",
+            "href": "https://www.whosdatedwho.com/dating/matt-torvik",
+            "relationship_type": 2,
+            "start_date": "Aug 2022",
+            "end_date": "present",
+            "length": "2 years",
+            "start_months_since_1900": 1471,
+            "end_months_since_1900": -1,
+            "length_in_months": 24
+        },
+        {
+            "name": "Ty Greenberg",
+            "href": "https://www.whosdatedwho.com/dating/ty-greenberg",
+            "relationship_type": 2,
+            "start_date": "2021",
+            "end_date": "2022",
+            "length": "1 year",
+            "start_months_since_1900": 1452,
+            "end_months_since_1900": 1464,
+            "length_in_months": 12
+        },
+        {
+            "name": "Cameron Fuller",
+            "href": "https://www.whosdatedwho.com/dating/cameron-fuller",
+            "relationship_type": 2,
+            "start_date": "2017",
+            "end_date": "2020",
+            "length": "3 years",
+            "start_months_since_1900": 1404,
+            "end_months_since_1900": 1440,
+            "length_in_months": 36
+        },
+        {
+            "name": "Denis Shepherd",
+            "href": "https://www.whosdatedwho.com/dating/denis-shepherd",
+            "relationship_type": 3,
+            "start_date": "2015",
+            "end_date": "2015",
+            "length": "-",
+            "start_months_since_1900": 1380,
+            "end_months_since_1900": 1380,
+            "length_in_months": -1
+        },
+        {
+            "name": "Caspar Lee",
+            "href": "https://www.whosdatedwho.com/dating/caspar-lee",
+            "relationship_type": 2,
+            "start_date": "Jun 2013",
+            "end_date": "2013",
+            "length": "5 months",
+            "start_months_since_1900": 1361,
+            "end_months_since_1900": 1356,
+            "length_in_months": 5
+        }
+    ],
+    "details": {
+        "First Name": "Lauren",
+        "Middle Name": "Elizabeth",
+        "Last Name": "Luthringshausen",
+        "Maiden Name": "NA",
+        "Full Name at Birth": "Lauren Elizabeth Luthringshausen",
+        "Alternative Name": "NA",
+        "Birthday": "1994",
+        "Birthplace": "United States",
+        "Height": "173",
+        "Weight": "140lbs (64 kg)",
+        "Zodiac Sign": "8",
+        "Sexuality": "Straight",
+        "Religion": "1",
+        "Ethnicity": "6",
+        "Nationality": "91",
+        "Occupation": "11"
+    }
+}

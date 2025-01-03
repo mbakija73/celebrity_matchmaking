@@ -1,0 +1,33 @@
+{
+    "relationships": [
+        {
+            "name": "Miriama Smith",
+            "href": "https://www.whosdatedwho.com/dating/miriama-smith",
+            "relationship_type": 1,
+            "start_date": "",
+            "end_date": "",
+            "length": "-",
+            "start_months_since_1900": -1,
+            "end_months_since_1900": -1,
+            "length_in_months": -1
+        }
+    ],
+    "details": {
+        "First Name": "Frank",
+        "Middle Name": "Eneri",
+        "Last Name": "Bunce",
+        "Maiden Name": "NA",
+        "Full Name at Birth": "Frank Eneri Bunce",
+        "Alternative Name": "NA",
+        "Birthday": "1962",
+        "Birthplace": "New Zealand",
+        "Height": "180",
+        "Weight": "187lbs (85 kg)",
+        "Zodiac Sign": "9",
+        "Sexuality": "Straight",
+        "Religion": "1",
+        "Ethnicity": "8",
+        "Nationality": "72",
+        "Occupation": "2"
+    }
+}

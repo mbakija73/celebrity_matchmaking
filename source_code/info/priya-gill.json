@@ -1,0 +1,55 @@
+{
+    "relationships": [
+        {
+            "name": "Fardeen Khan",
+            "href": "https://www.whosdatedwho.com/dating/fardeen-khan",
+            "relationship_type": 1,
+            "start_date": "2000",
+            "end_date": "2000",
+            "length": "-",
+            "start_months_since_1900": 1200,
+            "end_months_since_1900": 1200,
+            "length_in_months": -1
+        },
+        {
+            "name": "Bobby Deol",
+            "href": "https://www.whosdatedwho.com/dating/bobby-deol",
+            "relationship_type": 1,
+            "start_date": "1998",
+            "end_date": "1998",
+            "length": "-",
+            "start_months_since_1900": 1176,
+            "end_months_since_1900": 1176,
+            "length_in_months": -1
+        },
+        {
+            "name": "Yuvraj Singh",
+            "href": "https://www.whosdatedwho.com/dating/yuvraj-singh",
+            "relationship_type": 1,
+            "start_date": "",
+            "end_date": "",
+            "length": "-",
+            "start_months_since_1900": -1,
+            "end_months_since_1900": -1,
+            "length_in_months": -1
+        }
+    ],
+    "details": {
+        "First Name": "Priya",
+        "Middle Name": "NA",
+        "Last Name": "Gill",
+        "Maiden Name": "NA",
+        "Full Name at Birth": "NA",
+        "Alternative Name": "NA",
+        "Birthday": "1975",
+        "Birthplace": "India",
+        "Height": "165",
+        "Weight": "132lbs (60 kg)",
+        "Zodiac Sign": "6",
+        "Sexuality": "Straight",
+        "Religion": "27",
+        "Ethnicity": "7",
+        "Nationality": "34",
+        "Occupation": "8"
+    }
+}

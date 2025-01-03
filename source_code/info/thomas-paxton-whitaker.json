@@ -1,0 +1,33 @@
+{
+    "relationships": [
+        {
+            "name": "Tila Tequila",
+            "href": "https://www.whosdatedwho.com/dating/tila-tequila",
+            "relationship_type": 2,
+            "start_date": "2013",
+            "end_date": "2014",
+            "length": "1 year",
+            "start_months_since_1900": 1356,
+            "end_months_since_1900": 1368,
+            "length_in_months": 12
+        }
+    ],
+    "details": {
+        "First Name": "Thomas",
+        "Middle Name": "NA",
+        "Last Name": "Whitaker",
+        "Maiden Name": "NA",
+        "Full Name at Birth": "NA",
+        "Alternative Name": "NA",
+        "Birthday": "NA",
+        "Birthplace": "NA",
+        "Height": "NA",
+        "Weight": "NA",
+        "Zodiac Sign": "2",
+        "Sexuality": "NA",
+        "Religion": "1",
+        "Ethnicity": "1",
+        "Nationality": "91",
+        "Occupation": "13"
+    }
+}

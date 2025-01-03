@@ -1,0 +1,55 @@
+{
+    "relationships": [
+        {
+            "name": "Susan Brown",
+            "href": "https://www.whosdatedwho.com/dating/susan-brown",
+            "relationship_type": 4,
+            "start_date": "1992",
+            "end_date": "2005",
+            "length": "13 years",
+            "start_months_since_1900": 1104,
+            "end_months_since_1900": 1260,
+            "length_in_months": 156
+        },
+        {
+            "name": "Khrystyne Haje",
+            "href": "https://www.whosdatedwho.com/dating/khrystyne-haje",
+            "relationship_type": 2,
+            "start_date": "1992",
+            "end_date": "1992",
+            "length": "-",
+            "start_months_since_1900": 1104,
+            "end_months_since_1900": 1104,
+            "length_in_months": -1
+        },
+        {
+            "name": "Laura Class",
+            "href": "https://www.whosdatedwho.com/dating/laura-class",
+            "relationship_type": 4,
+            "start_date": "1987",
+            "end_date": "1992",
+            "length": "5 years",
+            "start_months_since_1900": 1044,
+            "end_months_since_1900": 1104,
+            "length_in_months": 60
+        }
+    ],
+    "details": {
+        "First Name": "Richard",
+        "Middle Name": "NA",
+        "Last Name": "Moll",
+        "Maiden Name": "NA",
+        "Full Name at Birth": "Charles Richard Moll",
+        "Alternative Name": "NA",
+        "Birthday": "1943",
+        "Birthplace": "USA",
+        "Height": "203",
+        "Weight": "250lbs (113 kg)",
+        "Zodiac Sign": "13",
+        "Sexuality": "Straight",
+        "Religion": "1",
+        "Ethnicity": "6",
+        "Nationality": "91",
+        "Occupation": "8"
+    }
+}

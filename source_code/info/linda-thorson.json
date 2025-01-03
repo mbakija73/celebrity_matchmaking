@@ -1,0 +1,66 @@
+{
+    "relationships": [
+        {
+            "name": "Gavin Mitchell",
+            "href": "https://www.whosdatedwho.com/dating/gavin-mitchell",
+            "relationship_type": 4,
+            "start_date": "2004",
+            "end_date": "present",
+            "length": "20 years",
+            "start_months_since_1900": 1248,
+            "end_months_since_1900": -1,
+            "length_in_months": 240
+        },
+        {
+            "name": "Bill Boggs",
+            "href": "https://www.whosdatedwho.com/dating/bill-boggs",
+            "relationship_type": 4,
+            "start_date": "1983",
+            "end_date": "2003",
+            "length": "20 years",
+            "start_months_since_1900": 996,
+            "end_months_since_1900": 1236,
+            "length_in_months": 240
+        },
+        {
+            "name": "Barry Bergthorson",
+            "href": "https://www.whosdatedwho.com/dating/barry-bergthorson",
+            "relationship_type": 4,
+            "start_date": "1963",
+            "end_date": "1965",
+            "length": "2 years",
+            "start_months_since_1900": 756,
+            "end_months_since_1900": 780,
+            "length_in_months": 24
+        },
+        {
+            "name": "Harry Guardino",
+            "href": "https://www.whosdatedwho.com/dating/harry-guardino",
+            "relationship_type": 2,
+            "start_date": "",
+            "end_date": "",
+            "length": "-",
+            "start_months_since_1900": -1,
+            "end_months_since_1900": -1,
+            "length_in_months": -1
+        }
+    ],
+    "details": {
+        "First Name": "Linda",
+        "Middle Name": "NA",
+        "Last Name": "Thorson",
+        "Maiden Name": "Robinson",
+        "Full Name at Birth": "Linda Robinson",
+        "Alternative Name": "Linda Thorson, Linda Robinson",
+        "Birthday": "1947",
+        "Birthplace": "Canada",
+        "Height": "173",
+        "Weight": "136lbs (62 kg)",
+        "Zodiac Sign": "4",
+        "Sexuality": "Straight",
+        "Religion": "1",
+        "Ethnicity": "6",
+        "Nationality": "90",
+        "Occupation": "8"
+    }
+}

@@ -1,0 +1,66 @@
+{
+    "relationships": [
+        {
+            "name": "Gethin Jones",
+            "href": "https://www.whosdatedwho.com/dating/gethin-jones",
+            "relationship_type": 2,
+            "start_date": "2012",
+            "end_date": "",
+            "length": "-",
+            "start_months_since_1900": 1344,
+            "end_months_since_1900": -1,
+            "length_in_months": -1
+        },
+        {
+            "name": "Rob Kearney",
+            "href": "https://www.whosdatedwho.com/dating/rob-kearney",
+            "relationship_type": 2,
+            "start_date": "Jan 2008",
+            "end_date": "2012",
+            "length": "4 years",
+            "start_months_since_1900": 1296,
+            "end_months_since_1900": 1344,
+            "length_in_months": 48
+        },
+        {
+            "name": "Max Beesley",
+            "href": "https://www.whosdatedwho.com/dating/max-beesley",
+            "relationship_type": 2,
+            "start_date": "2004",
+            "end_date": "Mar 2007",
+            "length": "3 years",
+            "start_months_since_1900": 1248,
+            "end_months_since_1900": 1286,
+            "length_in_months": 36
+        },
+        {
+            "name": "Steve Webster",
+            "href": "https://www.whosdatedwho.com/dating/steve-webster",
+            "relationship_type": 2,
+            "start_date": "1999",
+            "end_date": "2004",
+            "length": "5 years",
+            "start_months_since_1900": 1188,
+            "end_months_since_1900": 1248,
+            "length_in_months": 60
+        }
+    ],
+    "details": {
+        "First Name": "Susie",
+        "Middle Name": "Elizabeth",
+        "Last Name": "NA",
+        "Maiden Name": "Amy",
+        "Full Name at Birth": "Susan Elizabeth Amy",
+        "Alternative Name": "Susie Elizabeth Amy, Susie Amy, Susan Elizabeth Amy",
+        "Birthday": "1981",
+        "Birthplace": "UK",
+        "Height": "170",
+        "Weight": "133lbs (60 kg)",
+        "Zodiac Sign": "7",
+        "Sexuality": "Straight",
+        "Religion": "1",
+        "Ethnicity": "6",
+        "Nationality": "8",
+        "Occupation": "8"
+    }
+}

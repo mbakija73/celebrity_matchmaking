@@ -1,0 +1,66 @@
+{
+    "relationships": [
+        {
+            "name": "Brooke Burke",
+            "href": "https://www.whosdatedwho.com/dating/brooke-burke-charvet",
+            "relationship_type": 2,
+            "start_date": "Nov 2017",
+            "end_date": "2018",
+            "length": "2 months",
+            "start_months_since_1900": 1414,
+            "end_months_since_1900": 1416,
+            "length_in_months": 2
+        },
+        {
+            "name": "Laura Vandervoort",
+            "href": "https://www.whosdatedwho.com/dating/laura-vandervoort",
+            "relationship_type": 2,
+            "start_date": "2013",
+            "end_date": "Mar 2015",
+            "length": "2 years",
+            "start_months_since_1900": 1356,
+            "end_months_since_1900": 1382,
+            "length_in_months": 24
+        },
+        {
+            "name": "Crystal Reed",
+            "href": "https://www.whosdatedwho.com/dating/crystal-reed",
+            "relationship_type": 2,
+            "start_date": "Jun 2011",
+            "end_date": "Nov 2011",
+            "length": "5 months",
+            "start_months_since_1900": 1337,
+            "end_months_since_1900": 1342,
+            "length_in_months": 5
+        },
+        {
+            "name": "Rachel Stevens",
+            "href": "https://www.whosdatedwho.com/dating/rachel-stevens",
+            "relationship_type": 2,
+            "start_date": "Oct 2006",
+            "end_date": "Jan 2007",
+            "length": "3 months",
+            "start_months_since_1900": 1281,
+            "end_months_since_1900": 1284,
+            "length_in_months": 3
+        }
+    ],
+    "details": {
+        "First Name": "Oliver",
+        "Middle Name": "NA",
+        "Last Name": "Trevena",
+        "Maiden Name": "NA",
+        "Full Name at Birth": "NA",
+        "Alternative Name": "NA",
+        "Birthday": "1981",
+        "Birthplace": "England",
+        "Height": "180",
+        "Weight": "NA",
+        "Zodiac Sign": "3",
+        "Sexuality": "Straight",
+        "Religion": "1",
+        "Ethnicity": "6",
+        "Nationality": "91",
+        "Occupation": "19"
+    }
+}

@@ -1,0 +1,88 @@
+{
+    "relationships": [
+        {
+            "name": "John O'Neil",
+            "href": "https://www.whosdatedwho.com/dating/john-o-neil",
+            "relationship_type": 4,
+            "start_date": "Nov 1993",
+            "end_date": "1996",
+            "length": "2 years",
+            "start_months_since_1900": 1126,
+            "end_months_since_1900": 1152,
+            "length_in_months": 24
+        },
+        {
+            "name": "David Letterman",
+            "href": "https://www.whosdatedwho.com/dating/david-letterman",
+            "relationship_type": 2,
+            "start_date": "1990",
+            "end_date": "1990",
+            "length": "-",
+            "start_months_since_1900": 1080,
+            "end_months_since_1900": 1080,
+            "length_in_months": -1
+        },
+        {
+            "name": "David Kipper",
+            "href": "https://www.whosdatedwho.com/dating/david-kipper",
+            "relationship_type": 2,
+            "start_date": "1983",
+            "end_date": "1990",
+            "length": "7 years",
+            "start_months_since_1900": 996,
+            "end_months_since_1900": 1080,
+            "length_in_months": 84
+        },
+        {
+            "name": "Roger Birnbaum",
+            "href": "https://www.whosdatedwho.com/dating/roger-birnbaum",
+            "relationship_type": 2,
+            "start_date": "1979",
+            "end_date": "1983",
+            "length": "4 years",
+            "start_months_since_1900": 948,
+            "end_months_since_1900": 996,
+            "length_in_months": 48
+        },
+        {
+            "name": "Fran\u00e7ois Truffaut",
+            "href": "https://www.whosdatedwho.com/dating/francois-truffaut",
+            "relationship_type": 2,
+            "start_date": "Aug 1976",
+            "end_date": "Aug 1976",
+            "length": "-",
+            "start_months_since_1900": 919,
+            "end_months_since_1900": 919,
+            "length_in_months": -1
+        },
+        {
+            "name": "Gene Wilder",
+            "href": "https://www.whosdatedwho.com/dating/gene-wilder",
+            "relationship_type": 2,
+            "start_date": "Feb 1974",
+            "end_date": "May 1974",
+            "length": "2 months",
+            "start_months_since_1900": 889,
+            "end_months_since_1900": 892,
+            "length_in_months": 2
+        }
+    ],
+    "details": {
+        "First Name": "Terry",
+        "Middle Name": "Ann",
+        "Last Name": "Garr",
+        "Maiden Name": "Garr",
+        "Full Name at Birth": "Terry Ann Garr",
+        "Alternative Name": "Teri Garr, Teri Hope, Teri O'Neil, Terry AnnGarr",
+        "Birthday": "1947",
+        "Birthplace": "USA",
+        "Height": "170",
+        "Weight": "130lbs (59 kg)",
+        "Zodiac Sign": "6",
+        "Sexuality": "Straight",
+        "Religion": "1",
+        "Ethnicity": "6",
+        "Nationality": "91",
+        "Occupation": "8"
+    }
+}

@@ -1,0 +1,77 @@
+{
+    "relationships": [
+        {
+            "name": "Marilyn Monroe",
+            "href": "https://www.whosdatedwho.com/dating/marilyn-monroe",
+            "relationship_type": 3,
+            "start_date": "Jul 1962",
+            "end_date": "Jul 1962",
+            "length": "-",
+            "start_months_since_1900": 750,
+            "end_months_since_1900": 750,
+            "length_in_months": -1
+        },
+        {
+            "name": "Phyllis McGuire",
+            "href": "https://www.whosdatedwho.com/dating/phyllis-mcguire",
+            "relationship_type": 2,
+            "start_date": "1960",
+            "end_date": "1960",
+            "length": "-",
+            "start_months_since_1900": 720,
+            "end_months_since_1900": 720,
+            "length_in_months": -1
+        },
+        {
+            "name": "Angeline De Tolve",
+            "href": "https://www.whosdatedwho.com/dating/angeline-de-tolve",
+            "relationship_type": 4,
+            "start_date": "1932",
+            "end_date": "23rd Apr 1954",
+            "length": "22 years",
+            "start_months_since_1900": 384,
+            "end_months_since_1900": 651,
+            "length_in_months": 264
+        },
+        {
+            "name": "Vicki LaMotta",
+            "href": "https://www.whosdatedwho.com/dating/vicki-lamotta",
+            "relationship_type": 2,
+            "start_date": "",
+            "end_date": "",
+            "length": "-",
+            "start_months_since_1900": -1,
+            "end_months_since_1900": -1,
+            "length_in_months": -1
+        },
+        {
+            "name": "Judith Campbell Exner",
+            "href": "https://www.whosdatedwho.com/dating/judith-exner",
+            "relationship_type": 2,
+            "start_date": "",
+            "end_date": "",
+            "length": "-",
+            "start_months_since_1900": -1,
+            "end_months_since_1900": -1,
+            "length_in_months": -1
+        }
+    ],
+    "details": {
+        "First Name": "Sam",
+        "Middle Name": "Salvatore",
+        "Last Name": "Giancana",
+        "Maiden Name": "NA",
+        "Full Name at Birth": "Gilorma Salvatore Giancana",
+        "Alternative Name": "Mooney, Momo",
+        "Birthday": "1908",
+        "Birthplace": "Illinois",
+        "Height": "NA",
+        "Weight": "NA",
+        "Zodiac Sign": "4",
+        "Sexuality": "Straight",
+        "Religion": "13",
+        "Ethnicity": "6",
+        "Nationality": "91",
+        "Occupation": "18"
+    }
+}

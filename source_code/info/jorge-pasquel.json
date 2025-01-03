@@ -1,0 +1,44 @@
+{
+    "relationships": [
+        {
+            "name": "Miroslava",
+            "href": "https://www.whosdatedwho.com/dating/miroslava",
+            "relationship_type": 2,
+            "start_date": "Oct 1954",
+            "end_date": "Mar 1955",
+            "length": "5 months",
+            "start_months_since_1900": 657,
+            "end_months_since_1900": 662,
+            "length_in_months": 5
+        },
+        {
+            "name": "Mar\u00eda F\u00e9lix",
+            "href": "https://www.whosdatedwho.com/dating/maria-felix",
+            "relationship_type": 2,
+            "start_date": "1954",
+            "end_date": "1955",
+            "length": "1 year",
+            "start_months_since_1900": 648,
+            "end_months_since_1900": 660,
+            "length_in_months": 12
+        }
+    ],
+    "details": {
+        "First Name": "Jorge",
+        "Middle Name": "NA",
+        "Last Name": "Pasquel",
+        "Maiden Name": "NA",
+        "Full Name at Birth": "Jorge Pasquel Casanueva",
+        "Alternative Name": "NA",
+        "Birthday": "1907",
+        "Birthplace": "Mexico",
+        "Height": "NA",
+        "Weight": "NA",
+        "Zodiac Sign": "3",
+        "Sexuality": "Straight",
+        "Religion": "1",
+        "Ethnicity": "6",
+        "Nationality": "7",
+        "Occupation": "11"
+    }
+}

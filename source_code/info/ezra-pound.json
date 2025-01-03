@@ -1,0 +1,66 @@
+{
+    "relationships": [
+        {
+            "name": "Olga Rudge",
+            "href": "https://www.whosdatedwho.com/dating/olga-rudge",
+            "relationship_type": 2,
+            "start_date": "1924",
+            "end_date": "1972",
+            "length": "48 years",
+            "start_months_since_1900": 288,
+            "end_months_since_1900": 864,
+            "length_in_months": 576
+        },
+        {
+            "name": "Dorothy Shakespear",
+            "href": "https://www.whosdatedwho.com/dating/dorothy-shakespear",
+            "relationship_type": 4,
+            "start_date": "1914",
+            "end_date": "1972",
+            "length": "58 years",
+            "start_months_since_1900": 168,
+            "end_months_since_1900": 864,
+            "length_in_months": 696
+        },
+        {
+            "name": "Frances Gregg",
+            "href": "https://www.whosdatedwho.com/dating/frances-gregg",
+            "relationship_type": 1,
+            "start_date": "",
+            "end_date": "",
+            "length": "-",
+            "start_months_since_1900": -1,
+            "end_months_since_1900": -1,
+            "length_in_months": -1
+        },
+        {
+            "name": "Mary Butts",
+            "href": "https://www.whosdatedwho.com/dating/mary-butts",
+            "relationship_type": 3,
+            "start_date": "",
+            "end_date": "",
+            "length": "-",
+            "start_months_since_1900": -1,
+            "end_months_since_1900": -1,
+            "length_in_months": -1
+        }
+    ],
+    "details": {
+        "First Name": "Ezra",
+        "Middle Name": "NA",
+        "Last Name": "Pound",
+        "Maiden Name": "NA",
+        "Full Name at Birth": "NA",
+        "Alternative Name": "NA",
+        "Birthday": "1885",
+        "Birthplace": "United States",
+        "Height": "NA",
+        "Weight": "NA",
+        "Zodiac Sign": "5",
+        "Sexuality": "Straight",
+        "Religion": "1",
+        "Ethnicity": "6",
+        "Nationality": "91",
+        "Occupation": "3"
+    }
+}

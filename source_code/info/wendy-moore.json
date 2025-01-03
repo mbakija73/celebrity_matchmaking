@@ -1,0 +1,66 @@
+{
+    "relationships": [
+        {
+            "name": "Ace Frehley",
+            "href": "https://www.whosdatedwho.com/dating/ace-frehley",
+            "relationship_type": 2,
+            "start_date": "1998",
+            "end_date": "2000",
+            "length": "2 years",
+            "start_months_since_1900": 1176,
+            "end_months_since_1900": 1200,
+            "length_in_months": 24
+        },
+        {
+            "name": "Marilyn Manson",
+            "href": "https://www.whosdatedwho.com/dating/marilyn-manson",
+            "relationship_type": 3,
+            "start_date": "",
+            "end_date": "",
+            "length": "-",
+            "start_months_since_1900": -1,
+            "end_months_since_1900": -1,
+            "length_in_months": -1
+        },
+        {
+            "name": "Jeff Beck",
+            "href": "https://www.whosdatedwho.com/dating/jeff-beck",
+            "relationship_type": 3,
+            "start_date": "",
+            "end_date": "",
+            "length": "-",
+            "start_months_since_1900": -1,
+            "end_months_since_1900": -1,
+            "length_in_months": -1
+        },
+        {
+            "name": "Scott Weiland",
+            "href": "https://www.whosdatedwho.com/dating/scott-weiland",
+            "relationship_type": 3,
+            "start_date": "",
+            "end_date": "",
+            "length": "-",
+            "start_months_since_1900": -1,
+            "end_months_since_1900": -1,
+            "length_in_months": -1
+        }
+    ],
+    "details": {
+        "First Name": "Wendy",
+        "Middle Name": "Georgette",
+        "Last Name": "Moore",
+        "Maiden Name": "NA",
+        "Full Name at Birth": "Wendy Georgette Moore",
+        "Alternative Name": "NA",
+        "Birthday": "1970",
+        "Birthplace": "CA",
+        "Height": "183",
+        "Weight": "NA",
+        "Zodiac Sign": "6",
+        "Sexuality": "Straight",
+        "Religion": "1",
+        "Ethnicity": "6",
+        "Nationality": "91",
+        "Occupation": "19"
+    }
+}

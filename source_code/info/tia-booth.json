@@ -1,0 +1,44 @@
+{
+    "relationships": [
+        {
+            "name": "Taylor Mock",
+            "href": "https://www.whosdatedwho.com/dating/taylor-mock",
+            "relationship_type": 4,
+            "start_date": "2021",
+            "end_date": "present",
+            "length": "3 years",
+            "start_months_since_1900": 1452,
+            "end_months_since_1900": -1,
+            "length_in_months": 36
+        },
+        {
+            "name": "Colton Underwood",
+            "href": "https://www.whosdatedwho.com/dating/colton-underwood",
+            "relationship_type": 2,
+            "start_date": "2017",
+            "end_date": "Sep 2018",
+            "length": "1 year",
+            "start_months_since_1900": 1404,
+            "end_months_since_1900": 1424,
+            "length_in_months": 12
+        }
+    ],
+    "details": {
+        "First Name": "Tia",
+        "Middle Name": "NA",
+        "Last Name": "Booth",
+        "Maiden Name": "NA",
+        "Full Name at Birth": "Tia Booth",
+        "Alternative Name": "Tia Booth",
+        "Birthday": "1991",
+        "Birthplace": "USA",
+        "Height": "168",
+        "Weight": "110lbs (50 kg)",
+        "Zodiac Sign": "12",
+        "Sexuality": "Straight",
+        "Religion": "18",
+        "Ethnicity": "6",
+        "Nationality": "91",
+        "Occupation": "11"
+    }
+}

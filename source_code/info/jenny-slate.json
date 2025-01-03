@@ -1,0 +1,66 @@
+{
+    "relationships": [
+        {
+            "name": "Ben Shattuck",
+            "href": "https://www.whosdatedwho.com/dating/ben-shattuck",
+            "relationship_type": 4,
+            "start_date": "Jan 2019",
+            "end_date": "present",
+            "length": "5 years",
+            "start_months_since_1900": 1428,
+            "end_months_since_1900": -1,
+            "length_in_months": 60
+        },
+        {
+            "name": "Jon Hamm",
+            "href": "https://www.whosdatedwho.com/dating/jon-hamm",
+            "relationship_type": 3,
+            "start_date": "2017",
+            "end_date": "2017",
+            "length": "-",
+            "start_months_since_1900": 1404,
+            "end_months_since_1900": 1404,
+            "length_in_months": -1
+        },
+        {
+            "name": "Chris Evans",
+            "href": "https://www.whosdatedwho.com/dating/chris-evans",
+            "relationship_type": 2,
+            "start_date": "Apr 2016",
+            "end_date": "Mar 2018",
+            "length": "1 year",
+            "start_months_since_1900": 1395,
+            "end_months_since_1900": 1418,
+            "length_in_months": 12
+        },
+        {
+            "name": "Dean Fleischer Camp",
+            "href": "https://www.whosdatedwho.com/dating/dean-fleischer-camp",
+            "relationship_type": 4,
+            "start_date": "2012",
+            "end_date": "2016",
+            "length": "4 years",
+            "start_months_since_1900": 1344,
+            "end_months_since_1900": 1392,
+            "length_in_months": 48
+        }
+    ],
+    "details": {
+        "First Name": "Jenny",
+        "Middle Name": "NA",
+        "Last Name": "Slate",
+        "Maiden Name": "NA",
+        "Full Name at Birth": "Jenny Sarah Slate",
+        "Alternative Name": "Jar",
+        "Birthday": "1982",
+        "Birthplace": "USA",
+        "Height": "163",
+        "Weight": "121lbs (55 kg)",
+        "Zodiac Sign": "7",
+        "Sexuality": "Straight",
+        "Religion": "31",
+        "Ethnicity": "6",
+        "Nationality": "91",
+        "Occupation": "8"
+    }
+}

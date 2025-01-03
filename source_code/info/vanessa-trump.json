@@ -1,0 +1,44 @@
+{
+    "relationships": [
+        {
+            "name": "Donald Trump Jr.",
+            "href": "https://www.whosdatedwho.com/dating/donald-trump-jr",
+            "relationship_type": 4,
+            "start_date": "2003",
+            "end_date": "Mar 2018",
+            "length": "15 years",
+            "start_months_since_1900": 1236,
+            "end_months_since_1900": 1418,
+            "length_in_months": 180
+        },
+        {
+            "name": "Leonardo DiCaprio",
+            "href": "https://www.whosdatedwho.com/dating/leonardo-dicaprio",
+            "relationship_type": 3,
+            "start_date": "May 1998",
+            "end_date": "Jul 1998",
+            "length": "2 months",
+            "start_months_since_1900": 1180,
+            "end_months_since_1900": 1182,
+            "length_in_months": 2
+        }
+    ],
+    "details": {
+        "First Name": "Vanessa",
+        "Middle Name": "Kay",
+        "Last Name": "Trump",
+        "Maiden Name": "Haydon",
+        "Full Name at Birth": "Vanessa Kay Haydon",
+        "Alternative Name": "NA",
+        "Birthday": "1977",
+        "Birthplace": "New York",
+        "Height": "NA",
+        "Weight": "NA",
+        "Zodiac Sign": "6",
+        "Sexuality": "Straight",
+        "Religion": "1",
+        "Ethnicity": "6",
+        "Nationality": "91",
+        "Occupation": "8"
+    }
+}

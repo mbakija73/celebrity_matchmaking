@@ -1,0 +1,55 @@
+{
+    "relationships": [
+        {
+            "name": "Oli London",
+            "href": "https://www.whosdatedwho.com/dating/oli-london",
+            "relationship_type": 2,
+            "start_date": "2018",
+            "end_date": "2020",
+            "length": "2 years",
+            "start_months_since_1900": 1416,
+            "end_months_since_1900": 1440,
+            "length_in_months": 24
+        },
+        {
+            "name": "Bret Michaels",
+            "href": "https://www.whosdatedwho.com/dating/bret-michaels",
+            "relationship_type": 3,
+            "start_date": "2008",
+            "end_date": "2008",
+            "length": "-",
+            "start_months_since_1900": 1296,
+            "end_months_since_1900": 1296,
+            "length_in_months": -1
+        },
+        {
+            "name": "Gary Busey",
+            "href": "https://www.whosdatedwho.com/dating/gary-busey",
+            "relationship_type": 2,
+            "start_date": "2008",
+            "end_date": "2008",
+            "length": "-",
+            "start_months_since_1900": 1296,
+            "end_months_since_1900": 1296,
+            "length_in_months": -1
+        }
+    ],
+    "details": {
+        "First Name": "Angelique",
+        "Middle Name": "Frenchy",
+        "Last Name": "Morgan",
+        "Maiden Name": "NA",
+        "Full Name at Birth": "Angelique Morgan",
+        "Alternative Name": "Frenchy, Frenchie, Angelique Jorgan, Angelique Slorqan, Angelique Frenchy Morgan, Angelique Morgan, Aline Louc, Frenchy Morgan, Angelique \u2018Frenchy\u2019 Morgan",
+        "Birthday": "1975",
+        "Birthplace": "France",
+        "Height": "160",
+        "Weight": "117lbs (53 kg)",
+        "Zodiac Sign": "11",
+        "Sexuality": "Straight",
+        "Religion": "1",
+        "Ethnicity": "6",
+        "Nationality": "86",
+        "Occupation": "11"
+    }
+}

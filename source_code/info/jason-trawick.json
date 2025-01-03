@@ -1,0 +1,55 @@
+{
+    "relationships": [
+        {
+            "name": "Leven Rambin",
+            "href": "https://www.whosdatedwho.com/dating/leven-rambin",
+            "relationship_type": 2,
+            "start_date": "Oct 2013",
+            "end_date": "2014",
+            "length": "3 months",
+            "start_months_since_1900": 1365,
+            "end_months_since_1900": 1368,
+            "length_in_months": 3
+        },
+        {
+            "name": "Britney Spears",
+            "href": "https://www.whosdatedwho.com/dating/britney-spears",
+            "relationship_type": 2,
+            "start_date": "Jun 2009",
+            "end_date": "Jan 2013",
+            "length": "3 years",
+            "start_months_since_1900": 1313,
+            "end_months_since_1900": 1356,
+            "length_in_months": 36
+        },
+        {
+            "name": "Rachael Taylor",
+            "href": "https://www.whosdatedwho.com/dating/rachael-taylor",
+            "relationship_type": 2,
+            "start_date": "2008",
+            "end_date": "2008",
+            "length": "-",
+            "start_months_since_1900": 1296,
+            "end_months_since_1900": 1296,
+            "length_in_months": -1
+        }
+    ],
+    "details": {
+        "First Name": "Jason",
+        "Middle Name": "NA",
+        "Last Name": "Trawick",
+        "Maiden Name": "NA",
+        "Full Name at Birth": "Jason Trawick",
+        "Alternative Name": "NA",
+        "Birthday": "1971",
+        "Birthplace": "USA",
+        "Height": "183",
+        "Weight": "NA",
+        "Zodiac Sign": "6",
+        "Sexuality": "Straight",
+        "Religion": "31",
+        "Ethnicity": "6",
+        "Nationality": "91",
+        "Occupation": "7"
+    }
+}

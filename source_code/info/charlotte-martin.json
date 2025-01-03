@@ -1,0 +1,66 @@
+{
+    "relationships": [
+        {
+            "name": "Ernest D. Riall",
+            "href": "https://www.whosdatedwho.com/dating/ernest-d-riall",
+            "relationship_type": 4,
+            "start_date": "2005",
+            "end_date": "",
+            "length": "-",
+            "start_months_since_1900": 1260,
+            "end_months_since_1900": -1,
+            "length_in_months": -1
+        },
+        {
+            "name": "Jimmy Page",
+            "href": "https://www.whosdatedwho.com/dating/jimmy-page",
+            "relationship_type": 2,
+            "start_date": "Jan 1970",
+            "end_date": "Oct 1983",
+            "length": "13 years",
+            "start_months_since_1900": 840,
+            "end_months_since_1900": 1005,
+            "length_in_months": 156
+        },
+        {
+            "name": "George Harrison",
+            "href": "https://www.whosdatedwho.com/dating/george-harrison",
+            "relationship_type": 2,
+            "start_date": "Dec 1968",
+            "end_date": "Jan 1969",
+            "length": "1 month",
+            "start_months_since_1900": 827,
+            "end_months_since_1900": 828,
+            "length_in_months": 1
+        },
+        {
+            "name": "Eric Clapton",
+            "href": "https://www.whosdatedwho.com/dating/eric-clapton",
+            "relationship_type": 2,
+            "start_date": "Jan 1965",
+            "end_date": "Jan 1968",
+            "length": "3 years",
+            "start_months_since_1900": 780,
+            "end_months_since_1900": 816,
+            "length_in_months": 36
+        }
+    ],
+    "details": {
+        "First Name": "Charlotte",
+        "Middle Name": "NA",
+        "Last Name": "Martin",
+        "Maiden Name": "NA",
+        "Full Name at Birth": "Catherine Martin",
+        "Alternative Name": "My Lady (given by Jimmy Page), Charlotte Martin Riall, Catherine Martin",
+        "Birthday": "1948",
+        "Birthplace": "Ile-De-France",
+        "Height": "173",
+        "Weight": "NA",
+        "Zodiac Sign": "11",
+        "Sexuality": "Straight",
+        "Religion": "1",
+        "Ethnicity": "6",
+        "Nationality": "86",
+        "Occupation": "13"
+    }
+}

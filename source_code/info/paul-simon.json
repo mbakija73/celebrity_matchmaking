@@ -1,0 +1,99 @@
+{
+    "relationships": [
+        {
+            "name": "Edie Brickell",
+            "href": "https://www.whosdatedwho.com/dating/edie-brickell",
+            "relationship_type": 4,
+            "start_date": "1988",
+            "end_date": "",
+            "length": "-",
+            "start_months_since_1900": 1056,
+            "end_months_since_1900": -1,
+            "length_in_months": -1
+        },
+        {
+            "name": "Carrie Fisher",
+            "href": "https://www.whosdatedwho.com/dating/carrie-fisher",
+            "relationship_type": 4,
+            "start_date": "Apr 1978",
+            "end_date": "1st Jul 1984",
+            "length": "6 years",
+            "start_months_since_1900": 939,
+            "end_months_since_1900": 1014,
+            "length_in_months": 72
+        },
+        {
+            "name": "Shelley Duvall",
+            "href": "https://www.whosdatedwho.com/dating/shelley-duvall",
+            "relationship_type": 2,
+            "start_date": "1976",
+            "end_date": "1979",
+            "length": "3 years",
+            "start_months_since_1900": 912,
+            "end_months_since_1900": 948,
+            "length_in_months": 36
+        },
+        {
+            "name": "Edie Baskin",
+            "href": "https://www.whosdatedwho.com/dating/edie-baskin",
+            "relationship_type": 2,
+            "start_date": "1975",
+            "end_date": "1975",
+            "length": "-",
+            "start_months_since_1900": 900,
+            "end_months_since_1900": 900,
+            "length_in_months": -1
+        },
+        {
+            "name": "Peggy Harper",
+            "href": "https://www.whosdatedwho.com/dating/peggy-harper",
+            "relationship_type": 4,
+            "start_date": "1969",
+            "end_date": "1975",
+            "length": "6 years",
+            "start_months_since_1900": 828,
+            "end_months_since_1900": 900,
+            "length_in_months": 72
+        },
+        {
+            "name": "Kathleen Chitty",
+            "href": "https://www.whosdatedwho.com/dating/kathleen-chitty",
+            "relationship_type": 2,
+            "start_date": "1963",
+            "end_date": "1963",
+            "length": "-",
+            "start_months_since_1900": 756,
+            "end_months_since_1900": 756,
+            "length_in_months": -1
+        },
+        {
+            "name": "Miriam Makeba",
+            "href": "https://www.whosdatedwho.com/dating/miriam-makeba",
+            "relationship_type": 3,
+            "start_date": "",
+            "end_date": "",
+            "length": "-",
+            "start_months_since_1900": -1,
+            "end_months_since_1900": -1,
+            "length_in_months": -1
+        }
+    ],
+    "details": {
+        "First Name": "Paul",
+        "Middle Name": "NA",
+        "Last Name": "Simon",
+        "Maiden Name": "NA",
+        "Full Name at Birth": "Paul Frederic Simon",
+        "Alternative Name": "NA",
+        "Birthday": "1941",
+        "Birthplace": "United States",
+        "Height": "160",
+        "Weight": "NA",
+        "Zodiac Sign": "10",
+        "Sexuality": "Straight",
+        "Religion": "31",
+        "Ethnicity": "6",
+        "Nationality": "91",
+        "Occupation": "1"
+    }
+}

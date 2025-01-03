@@ -1,0 +1,99 @@
+{
+    "relationships": [
+        {
+            "name": "Alex Trebek",
+            "href": "https://www.whosdatedwho.com/dating/alex-trebek",
+            "relationship_type": 2,
+            "start_date": "1985",
+            "end_date": "1988",
+            "length": "3 years",
+            "start_months_since_1900": 1020,
+            "end_months_since_1900": 1056,
+            "length_in_months": 36
+        },
+        {
+            "name": "Antonio L. Migoni",
+            "href": "https://www.whosdatedwho.com/dating/antonio-l-migoni",
+            "relationship_type": 4,
+            "start_date": "1983",
+            "end_date": "present",
+            "length": "41 years",
+            "start_months_since_1900": 996,
+            "end_months_since_1900": -1,
+            "length_in_months": 492
+        },
+        {
+            "name": "Erik Estrada",
+            "href": "https://www.whosdatedwho.com/dating/erik-estrada",
+            "relationship_type": 2,
+            "start_date": "Jun 1980",
+            "end_date": "Mar 1982",
+            "length": "1 year",
+            "start_months_since_1900": 965,
+            "end_months_since_1900": 986,
+            "length_in_months": 12
+        },
+        {
+            "name": "Vidal Sassoon",
+            "href": "https://www.whosdatedwho.com/dating/vidal-sassoon",
+            "relationship_type": 4,
+            "start_date": "1966",
+            "end_date": "1980",
+            "length": "14 years",
+            "start_months_since_1900": 792,
+            "end_months_since_1900": 960,
+            "length_in_months": 168
+        },
+        {
+            "name": "James Mitchum",
+            "href": "https://www.whosdatedwho.com/dating/james-mitchum",
+            "relationship_type": 3,
+            "start_date": "Jun 1965",
+            "end_date": "Jul 1965",
+            "length": "1 month",
+            "start_months_since_1900": 785,
+            "end_months_since_1900": 786,
+            "length_in_months": 1
+        },
+        {
+            "name": "George Montgomery",
+            "href": "https://www.whosdatedwho.com/dating/george-montgomery",
+            "relationship_type": 3,
+            "start_date": "Dec 1964",
+            "end_date": "1965",
+            "length": "1 month",
+            "start_months_since_1900": 779,
+            "end_months_since_1900": 780,
+            "length_in_months": 1
+        },
+        {
+            "name": "Sandy Koufax",
+            "href": "https://www.whosdatedwho.com/dating/sandy-koufax",
+            "relationship_type": 2,
+            "start_date": "Dec 1964",
+            "end_date": "Dec 1964",
+            "length": "-",
+            "start_months_since_1900": 779,
+            "end_months_since_1900": 779,
+            "length_in_months": -1
+        }
+    ],
+    "details": {
+        "First Name": "Beverly",
+        "Middle Name": "NA",
+        "Last Name": "Sassoon",
+        "Maiden Name": "Adams",
+        "Full Name at Birth": "NA",
+        "Alternative Name": "Beverly Sassoon",
+        "Birthday": "1940",
+        "Birthplace": "Canada",
+        "Height": "NA",
+        "Weight": "NA",
+        "Zodiac Sign": "5",
+        "Sexuality": "Straight",
+        "Religion": "13",
+        "Ethnicity": "6",
+        "Nationality": "90",
+        "Occupation": "8"
+    }
+}

@@ -1,0 +1,55 @@
+{
+    "relationships": [
+        {
+            "name": "Rachel Williams",
+            "href": "https://www.whosdatedwho.com/dating/rachel-williams",
+            "relationship_type": 2,
+            "start_date": "1990",
+            "end_date": "1993",
+            "length": "3 years",
+            "start_months_since_1900": 1080,
+            "end_months_since_1900": 1116,
+            "length_in_months": 36
+        },
+        {
+            "name": "Cornelia Guest",
+            "href": "https://www.whosdatedwho.com/dating/cornelia-guest",
+            "relationship_type": 1,
+            "start_date": "1985",
+            "end_date": "1985",
+            "length": "-",
+            "start_months_since_1900": 1020,
+            "end_months_since_1900": 1020,
+            "length_in_months": -1
+        },
+        {
+            "name": "Elizabeth Saltzman",
+            "href": "https://www.whosdatedwho.com/dating/elizabeth-saltzman",
+            "relationship_type": 1,
+            "start_date": "1984",
+            "end_date": "1985",
+            "length": "1 year",
+            "start_months_since_1900": 1008,
+            "end_months_since_1900": 1020,
+            "length_in_months": 12
+        }
+    ],
+    "details": {
+        "Birthday": "1956",
+        "First Name": "NA",
+        "Middle Name": "NA",
+        "Last Name": "NA",
+        "Maiden Name": "NA",
+        "Full Name at Birth": "NA",
+        "Alternative Name": "NA",
+        "Birthplace": "Rhode Island",
+        "Height": "NA",
+        "Weight": "NA",
+        "Zodiac Sign": "2",
+        "Sexuality": "NA",
+        "Religion": "1",
+        "Ethnicity": "1",
+        "Nationality": "65",
+        "Occupation": "19"
+    }
+}

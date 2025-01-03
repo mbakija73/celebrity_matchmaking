@@ -1,0 +1,55 @@
+{
+    "relationships": [
+        {
+            "name": "Peggy Crosby",
+            "href": "https://www.whosdatedwho.com/dating/peggy-crosby",
+            "relationship_type": 4,
+            "start_date": "Feb 1988",
+            "end_date": "Dec 2012",
+            "length": "24 years",
+            "start_months_since_1900": 1057,
+            "end_months_since_1900": 1355,
+            "length_in_months": 288
+        },
+        {
+            "name": "Barbara Neugass",
+            "href": "https://www.whosdatedwho.com/dating/barbara-neugass",
+            "relationship_type": 2,
+            "start_date": "1978",
+            "end_date": "1992",
+            "length": "14 years",
+            "start_months_since_1900": 936,
+            "end_months_since_1900": 1104,
+            "length_in_months": 168
+        },
+        {
+            "name": "Brett Somers",
+            "href": "https://www.whosdatedwho.com/dating/brett-somers",
+            "relationship_type": 4,
+            "start_date": "1952",
+            "end_date": "1974",
+            "length": "22 years",
+            "start_months_since_1900": 624,
+            "end_months_since_1900": 888,
+            "length_in_months": 264
+        }
+    ],
+    "details": {
+        "First Name": "Jack",
+        "Middle Name": "Joachim",
+        "Last Name": "Klugman",
+        "Maiden Name": "NA",
+        "Full Name at Birth": "Jacob Joachim Klugman",
+        "Alternative Name": "Jack",
+        "Birthday": "1922",
+        "Birthplace": "USA",
+        "Height": "174",
+        "Weight": "NA",
+        "Zodiac Sign": "3",
+        "Sexuality": "Straight",
+        "Religion": "31",
+        "Ethnicity": "6",
+        "Nationality": "91",
+        "Occupation": "8"
+    }
+}

@@ -1,0 +1,44 @@
+{
+    "relationships": [
+        {
+            "name": "Jennifer Ashton",
+            "href": "https://www.whosdatedwho.com/dating/jennifer-ashton",
+            "relationship_type": 2,
+            "start_date": "2021",
+            "end_date": "present",
+            "length": "3 years",
+            "start_months_since_1900": 1452,
+            "end_months_since_1900": -1,
+            "length_in_months": 36
+        },
+        {
+            "name": "Katie Couric",
+            "href": "https://www.whosdatedwho.com/dating/katie-couric",
+            "relationship_type": 2,
+            "start_date": "Jul 2000",
+            "end_date": "Oct 2004",
+            "length": "4 years",
+            "start_months_since_1900": 1206,
+            "end_months_since_1900": 1257,
+            "length_in_months": 48
+        }
+    ],
+    "details": {
+        "First Name": "Tom",
+        "Middle Name": "Charles",
+        "Last Name": "Werner",
+        "Maiden Name": "NA",
+        "Full Name at Birth": "Thomas Charles Werner",
+        "Alternative Name": "Thomas Charles Werner, Tom Werner",
+        "Birthday": "1950",
+        "Birthplace": "USA",
+        "Height": "NA",
+        "Weight": "NA",
+        "Zodiac Sign": "7",
+        "Sexuality": "Straight",
+        "Religion": "31",
+        "Ethnicity": "6",
+        "Nationality": "91",
+        "Occupation": "7"
+    }
+}

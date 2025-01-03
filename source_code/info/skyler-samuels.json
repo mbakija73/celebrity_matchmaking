@@ -1,0 +1,44 @@
+{
+    "relationships": [
+        {
+            "name": "Lucas Till",
+            "href": "https://www.whosdatedwho.com/dating/lucas-till",
+            "relationship_type": 4,
+            "start_date": "2017",
+            "end_date": "present",
+            "length": "7 years",
+            "start_months_since_1900": 1404,
+            "end_months_since_1900": -1,
+            "length_in_months": 84
+        },
+        {
+            "name": "Keegan Allen",
+            "href": "https://www.whosdatedwho.com/dating/keegan-allen",
+            "relationship_type": 2,
+            "start_date": "2011",
+            "end_date": "2012",
+            "length": "1 year",
+            "start_months_since_1900": 1332,
+            "end_months_since_1900": 1344,
+            "length_in_months": 12
+        }
+    ],
+    "details": {
+        "First Name": "Skyler",
+        "Middle Name": "Rose",
+        "Last Name": "NA",
+        "Maiden Name": "Samuels",
+        "Full Name at Birth": "Skyler Rose Samuels",
+        "Alternative Name": "Sky, Skye, Skyler Rose Samuels, Skyler Samuels",
+        "Birthday": "1994",
+        "Birthplace": "USA",
+        "Height": "168",
+        "Weight": "117lbs (53 kg)",
+        "Zodiac Sign": "7",
+        "Sexuality": "Straight",
+        "Religion": "1",
+        "Ethnicity": "6",
+        "Nationality": "91",
+        "Occupation": "8"
+    }
+}

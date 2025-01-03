@@ -1,0 +1,55 @@
+{
+    "relationships": [
+        {
+            "name": "Charles Beahan",
+            "href": "https://www.whosdatedwho.com/dating/charles-beahan",
+            "relationship_type": 4,
+            "start_date": "Dec 1932",
+            "end_date": "Dec 1932",
+            "length": "-",
+            "start_months_since_1900": 395,
+            "end_months_since_1900": 395,
+            "length_in_months": -1
+        },
+        {
+            "name": "Jean Negulesco",
+            "href": "https://www.whosdatedwho.com/dating/jean-negulesco",
+            "relationship_type": 2,
+            "start_date": "1932",
+            "end_date": "1933",
+            "length": "1 year",
+            "start_months_since_1900": 384,
+            "end_months_since_1900": 396,
+            "length_in_months": 12
+        },
+        {
+            "name": "Carl Laemmle Jr.",
+            "href": "https://www.whosdatedwho.com/dating/carl-laemmle-jr",
+            "relationship_type": 2,
+            "start_date": "",
+            "end_date": "",
+            "length": "-",
+            "start_months_since_1900": -1,
+            "end_months_since_1900": -1,
+            "length_in_months": -1
+        }
+    ],
+    "details": {
+        "First Name": "Sidney",
+        "Middle Name": "NA",
+        "Last Name": "Fox",
+        "Maiden Name": "Leiffer",
+        "Full Name at Birth": "Sarah Liefer",
+        "Alternative Name": "Sarah Liefer, Sidney Leiffer, Sidney Fox, S. Leifer",
+        "Birthday": "1907",
+        "Birthplace": "USA",
+        "Height": "150",
+        "Weight": "95lbs (43 kg)",
+        "Zodiac Sign": "6",
+        "Sexuality": "Straight",
+        "Religion": "31",
+        "Ethnicity": "6",
+        "Nationality": "91",
+        "Occupation": "8"
+    }
+}

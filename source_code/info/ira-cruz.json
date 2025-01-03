@@ -1,0 +1,44 @@
+{
+    "relationships": [
+        {
+            "name": "Mylene Dizon",
+            "href": "https://www.whosdatedwho.com/dating/mylene-dizon",
+            "relationship_type": 2,
+            "start_date": "Jan 2010",
+            "end_date": "2012",
+            "length": "2 years",
+            "start_months_since_1900": 1320,
+            "end_months_since_1900": 1344,
+            "length_in_months": 24
+        },
+        {
+            "name": "Phoemela Baranda",
+            "href": "https://www.whosdatedwho.com/dating/phoemela-baranda",
+            "relationship_type": 2,
+            "start_date": "2005",
+            "end_date": "2009",
+            "length": "4 years",
+            "start_months_since_1900": 1260,
+            "end_months_since_1900": 1308,
+            "length_in_months": 48
+        }
+    ],
+    "details": {
+        "First Name": "Ira",
+        "Middle Name": "NA",
+        "Last Name": "Cruz",
+        "Maiden Name": "NA",
+        "Full Name at Birth": "NA",
+        "Alternative Name": "NA",
+        "Birthday": "NA",
+        "Birthplace": "Philippines",
+        "Height": "NA",
+        "Weight": "NA",
+        "Zodiac Sign": "2",
+        "Sexuality": "NA",
+        "Religion": "1",
+        "Ethnicity": "1",
+        "Nationality": "16",
+        "Occupation": "1"
+    }
+}

@@ -1,0 +1,55 @@
+{
+    "relationships": [
+        {
+            "name": "Daria Zhemkova",
+            "href": "https://www.whosdatedwho.com/dating/daria-zhemkova",
+            "relationship_type": 4,
+            "start_date": "2019",
+            "end_date": "present",
+            "length": "5 years",
+            "start_months_since_1900": 1428,
+            "end_months_since_1900": -1,
+            "length_in_months": 60
+        },
+        {
+            "name": "Lynn Collins",
+            "href": "https://www.whosdatedwho.com/dating/lynn-collins",
+            "relationship_type": 4,
+            "start_date": "2003",
+            "end_date": "Dec 2013",
+            "length": "10 years",
+            "start_months_since_1900": 1236,
+            "end_months_since_1900": 1367,
+            "length_in_months": 120
+        },
+        {
+            "name": "Gretchen Tune",
+            "href": "https://www.whosdatedwho.com/dating/gretchen-tune",
+            "relationship_type": 2,
+            "start_date": "2002",
+            "end_date": "2003",
+            "length": "1 year",
+            "start_months_since_1900": 1224,
+            "end_months_since_1900": 1236,
+            "length_in_months": 12
+        }
+    ],
+    "details": {
+        "First Name": "Steven",
+        "Middle Name": "NA",
+        "Last Name": "Strait",
+        "Maiden Name": "NA",
+        "Full Name at Birth": "Steven Strait",
+        "Alternative Name": "Steven Strait",
+        "Birthday": "1986",
+        "Birthplace": "USA",
+        "Height": "188",
+        "Weight": "NA",
+        "Zodiac Sign": "7",
+        "Sexuality": "Straight",
+        "Religion": "1",
+        "Ethnicity": "6",
+        "Nationality": "91",
+        "Occupation": "8"
+    }
+}

@@ -1,0 +1,44 @@
+{
+    "relationships": [
+        {
+            "name": "Jane Powell",
+            "href": "https://www.whosdatedwho.com/dating/jane-powell",
+            "relationship_type": 4,
+            "start_date": "1952",
+            "end_date": "9th May 1964",
+            "length": "12 years",
+            "start_months_since_1900": 624,
+            "end_months_since_1900": 772,
+            "length_in_months": 144
+        },
+        {
+            "name": "Mona Freeman",
+            "href": "https://www.whosdatedwho.com/dating/mona-freeman",
+            "relationship_type": 4,
+            "start_date": "1943",
+            "end_date": "25th Sep 1952",
+            "length": "9 years",
+            "start_months_since_1900": 516,
+            "end_months_since_1900": 632,
+            "length_in_months": 108
+        }
+    ],
+    "details": {
+        "First Name": "Patrick",
+        "Middle Name": "NA",
+        "Last Name": "Nerney",
+        "Maiden Name": "NA",
+        "Full Name at Birth": "NA",
+        "Alternative Name": "NA",
+        "Birthday": "1919",
+        "Birthplace": "NA",
+        "Height": "NA",
+        "Weight": "NA",
+        "Zodiac Sign": "2",
+        "Sexuality": "Straight",
+        "Religion": "1",
+        "Ethnicity": "6",
+        "Nationality": "65",
+        "Occupation": "18"
+    }
+}

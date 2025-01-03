@@ -1,0 +1,110 @@
+{
+    "relationships": [
+        {
+            "name": "Rebecca De Mornay",
+            "href": "https://www.whosdatedwho.com/dating/rebecca-de-mornay",
+            "relationship_type": 2,
+            "start_date": "1990",
+            "end_date": "1993",
+            "length": "3 years",
+            "start_months_since_1900": 1080,
+            "end_months_since_1900": 1116,
+            "length_in_months": 36
+        },
+        {
+            "name": "Suzanne Elrod",
+            "href": "https://www.whosdatedwho.com/dating/suzanne-elrod",
+            "relationship_type": 2,
+            "start_date": "1970",
+            "end_date": "1979",
+            "length": "9 years",
+            "start_months_since_1900": 840,
+            "end_months_since_1900": 948,
+            "length_in_months": 108
+        },
+        {
+            "name": "Julie Felix",
+            "href": "https://www.whosdatedwho.com/dating/julie-felix",
+            "relationship_type": 2,
+            "start_date": "1968",
+            "end_date": "1968",
+            "length": "-",
+            "start_months_since_1900": 816,
+            "end_months_since_1900": 816,
+            "length_in_months": -1
+        },
+        {
+            "name": "Janis Joplin",
+            "href": "https://www.whosdatedwho.com/dating/janis-joplin",
+            "relationship_type": 3,
+            "start_date": "1968",
+            "end_date": "1968",
+            "length": "-",
+            "start_months_since_1900": 816,
+            "end_months_since_1900": 816,
+            "length_in_months": -1
+        },
+        {
+            "name": "Joni Mitchell",
+            "href": "https://www.whosdatedwho.com/dating/joni-mitchell",
+            "relationship_type": 2,
+            "start_date": "1967",
+            "end_date": "1968",
+            "length": "1 year",
+            "start_months_since_1900": 804,
+            "end_months_since_1900": 816,
+            "length_in_months": 12
+        },
+        {
+            "name": "Nico",
+            "href": "https://www.whosdatedwho.com/dating/nico",
+            "relationship_type": 3,
+            "start_date": "1966",
+            "end_date": "1966",
+            "length": "-",
+            "start_months_since_1900": 792,
+            "end_months_since_1900": 792,
+            "length_in_months": -1
+        },
+        {
+            "name": "Marianne Ihlen",
+            "href": "https://www.whosdatedwho.com/dating/marianne-ihlen",
+            "relationship_type": 2,
+            "start_date": "1960",
+            "end_date": "1972",
+            "length": "12 years",
+            "start_months_since_1900": 720,
+            "end_months_since_1900": 864,
+            "length_in_months": 144
+        },
+        {
+            "name": "Georgianna Orsini",
+            "href": "https://www.whosdatedwho.com/dating/georgianna-orsini",
+            "relationship_type": 2,
+            "start_date": "1956",
+            "end_date": "1958",
+            "length": "2 years",
+            "start_months_since_1900": 672,
+            "end_months_since_1900": 696,
+            "length_in_months": 24
+        }
+    ],
+    "details": {
+        "First Name": "Leonard",
+        "Middle Name": "Norman",
+        "Last Name": "Cohen",
+        "Maiden Name": "NA",
+        "Full Name at Birth": "Leonard Norman Cohen",
+        "Alternative Name": "Leonard Norman Cohen, Leonard Cohen",
+        "Birthday": "1934",
+        "Birthplace": "Canada",
+        "Height": "175",
+        "Weight": "NA",
+        "Zodiac Sign": "11",
+        "Sexuality": "Straight",
+        "Religion": "16",
+        "Ethnicity": "6",
+        "Nationality": "90",
+        "Occupation": "1"
+    }
+}

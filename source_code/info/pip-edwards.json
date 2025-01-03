@@ -1,0 +1,44 @@
+{
+    "relationships": [
+        {
+            "name": "Michael Clarke",
+            "href": "https://www.whosdatedwho.com/dating/michael-clarke",
+            "relationship_type": 2,
+            "start_date": "2020",
+            "end_date": "2021",
+            "length": "1 year",
+            "start_months_since_1900": 1440,
+            "end_months_since_1900": 1452,
+            "length_in_months": 12
+        },
+        {
+            "name": "Dan Single",
+            "href": "https://www.whosdatedwho.com/dating/dan-single",
+            "relationship_type": 2,
+            "start_date": "2005",
+            "end_date": "2008",
+            "length": "3 years",
+            "start_months_since_1900": 1260,
+            "end_months_since_1900": 1296,
+            "length_in_months": 36
+        }
+    ],
+    "details": {
+        "First Name": "Pip",
+        "Middle Name": "NA",
+        "Last Name": "Edwards",
+        "Maiden Name": "NA",
+        "Full Name at Birth": "Pip Edwards",
+        "Alternative Name": "Pip Edwards",
+        "Birthday": "1980",
+        "Birthplace": "Australia",
+        "Height": "173",
+        "Weight": "136lbs (62 kg)",
+        "Zodiac Sign": "3",
+        "Sexuality": "Straight",
+        "Religion": "1",
+        "Ethnicity": "6",
+        "Nationality": "135",
+        "Occupation": "15"
+    }
+}

@@ -1,0 +1,55 @@
+{
+    "relationships": [
+        {
+            "name": "Joakim Noah",
+            "href": "https://www.whosdatedwho.com/dating/joakim-noah",
+            "relationship_type": 4,
+            "start_date": "2018",
+            "end_date": "present",
+            "length": "6 years",
+            "start_months_since_1900": 1416,
+            "end_months_since_1900": -1,
+            "length_in_months": 72
+        },
+        {
+            "name": "Jared Homan",
+            "href": "https://www.whosdatedwho.com/dating/jared-homan",
+            "relationship_type": 2,
+            "start_date": "2015",
+            "end_date": "2017",
+            "length": "2 years",
+            "start_months_since_1900": 1380,
+            "end_months_since_1900": 1404,
+            "length_in_months": 24
+        },
+        {
+            "name": "Adrian Cardoso",
+            "href": "https://www.whosdatedwho.com/dating/adrian-cardoso",
+            "relationship_type": 2,
+            "start_date": "Jun 2012",
+            "end_date": "2013",
+            "length": "7 months",
+            "start_months_since_1900": 1349,
+            "end_months_since_1900": 1356,
+            "length_in_months": 7
+        }
+    ],
+    "details": {
+        "First Name": "Lais",
+        "Middle Name": "NA",
+        "Last Name": "Ribeiro",
+        "Maiden Name": "NA",
+        "Full Name at Birth": "Lais Ribeiro",
+        "Alternative Name": "NA",
+        "Birthday": "1990",
+        "Birthplace": "Piaui",
+        "Height": "183",
+        "Weight": "126lbs (57 kg)",
+        "Zodiac Sign": "10",
+        "Sexuality": "Straight",
+        "Religion": "13",
+        "Ethnicity": "8",
+        "Nationality": "87",
+        "Occupation": "15"
+    }
+}

@@ -1,0 +1,77 @@
+{
+    "relationships": [
+        {
+            "name": "Wanda Miller",
+            "href": "https://www.whosdatedwho.com/dating/wanda-miller",
+            "relationship_type": 4,
+            "start_date": "1996",
+            "end_date": "Mar 2020",
+            "length": "24 years",
+            "start_months_since_1900": 1152,
+            "end_months_since_1900": 1442,
+            "length_in_months": 288
+        },
+        {
+            "name": "Marianne Gordon",
+            "href": "https://www.whosdatedwho.com/dating/marianne-gordon",
+            "relationship_type": 4,
+            "start_date": "1977",
+            "end_date": "1993",
+            "length": "16 years",
+            "start_months_since_1900": 924,
+            "end_months_since_1900": 1116,
+            "length_in_months": 192
+        },
+        {
+            "name": "Margo Anderson",
+            "href": "https://www.whosdatedwho.com/dating/margo-anderson",
+            "relationship_type": 4,
+            "start_date": "Jul 1963",
+            "end_date": "1976",
+            "length": "12 years",
+            "start_months_since_1900": 762,
+            "end_months_since_1900": 912,
+            "length_in_months": 144
+        },
+        {
+            "name": "Jean Massey",
+            "href": "https://www.whosdatedwho.com/dating/jean-massey",
+            "relationship_type": 4,
+            "start_date": "1959",
+            "end_date": "1963",
+            "length": "4 years",
+            "start_months_since_1900": 708,
+            "end_months_since_1900": 756,
+            "length_in_months": 48
+        },
+        {
+            "name": "Janice Gordon",
+            "href": "https://www.whosdatedwho.com/dating/janice-gordon",
+            "relationship_type": 4,
+            "start_date": "1957",
+            "end_date": "Apr 1960",
+            "length": "3 years",
+            "start_months_since_1900": 684,
+            "end_months_since_1900": 723,
+            "length_in_months": 36
+        }
+    ],
+    "details": {
+        "First Name": "Kenny",
+        "Middle Name": "NA",
+        "Last Name": "Rogers",
+        "Maiden Name": "NA",
+        "Full Name at Birth": "Kenneth Ray Rogers",
+        "Alternative Name": "NA",
+        "Birthday": "1938",
+        "Birthplace": "USA",
+        "Height": "183",
+        "Weight": "173lbs (78 kg)",
+        "Zodiac Sign": "12",
+        "Sexuality": "Straight",
+        "Religion": "18",
+        "Ethnicity": "6",
+        "Nationality": "91",
+        "Occupation": "1"
+    }
+}

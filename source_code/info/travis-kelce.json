@@ -1,0 +1,77 @@
+{
+    "relationships": [
+        {
+            "name": "Taylor Swift",
+            "href": "https://www.whosdatedwho.com/dating/taylor-swift",
+            "relationship_type": 2,
+            "start_date": "Aug 2023",
+            "end_date": "present",
+            "length": "1 year",
+            "start_months_since_1900": 1483,
+            "end_months_since_1900": -1,
+            "length_in_months": 12
+        },
+        {
+            "name": "Zuri Hall",
+            "href": "https://www.whosdatedwho.com/dating/zuri-hall",
+            "relationship_type": 2,
+            "start_date": "2022",
+            "end_date": "2022",
+            "length": "-",
+            "start_months_since_1900": 1464,
+            "end_months_since_1900": 1464,
+            "length_in_months": -1
+        },
+        {
+            "name": "Kayla Nicole Brown",
+            "href": "https://www.whosdatedwho.com/dating/kayla-nicole-brown",
+            "relationship_type": 2,
+            "start_date": "2017",
+            "end_date": "2022",
+            "length": "5 years",
+            "start_months_since_1900": 1404,
+            "end_months_since_1900": 1464,
+            "length_in_months": 60
+        },
+        {
+            "name": "Kayla Nicole",
+            "href": "https://www.whosdatedwho.com/dating/kayla-nicole",
+            "relationship_type": 2,
+            "start_date": "Dec 2016",
+            "end_date": "2020",
+            "length": "3 years",
+            "start_months_since_1900": 1403,
+            "end_months_since_1900": 1440,
+            "length_in_months": 36
+        },
+        {
+            "name": "Maya Benberry",
+            "href": "https://www.whosdatedwho.com/dating/maya-benberry",
+            "relationship_type": 2,
+            "start_date": "2016",
+            "end_date": "Dec 2016",
+            "length": "11 months",
+            "start_months_since_1900": 1392,
+            "end_months_since_1900": 1403,
+            "length_in_months": 11
+        }
+    ],
+    "details": {
+        "First Name": "Travis",
+        "Middle Name": "Michael",
+        "Last Name": "Kelce",
+        "Maiden Name": "NA",
+        "Full Name at Birth": "Travis Michael Kelce",
+        "Alternative Name": "Travis Michael Kelce, Travis Kelce",
+        "Birthday": "1989",
+        "Birthplace": "USA",
+        "Height": "196",
+        "Weight": "255lbs (116 kg)",
+        "Zodiac Sign": "10",
+        "Sexuality": "Straight",
+        "Religion": "1",
+        "Ethnicity": "6",
+        "Nationality": "91",
+        "Occupation": "2"
+    }
+}

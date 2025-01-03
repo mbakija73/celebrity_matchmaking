@@ -1,0 +1,77 @@
+{
+    "relationships": [
+        {
+            "name": "Pe Lanza",
+            "href": "https://www.whosdatedwho.com/dating/pe-lanza",
+            "relationship_type": 3,
+            "start_date": "Nov 2011",
+            "end_date": "Nov 2011",
+            "length": "-",
+            "start_months_since_1900": 1342,
+            "end_months_since_1900": 1342,
+            "length_in_months": -1
+        },
+        {
+            "name": "Rodrigo Santoro",
+            "href": "https://www.whosdatedwho.com/dating/rodrigo-santoro",
+            "relationship_type": 2,
+            "start_date": "Sep 2003",
+            "end_date": "Mar 2008",
+            "length": "4 years",
+            "start_months_since_1900": 1244,
+            "end_months_since_1900": 1298,
+            "length_in_months": 48
+        },
+        {
+            "name": "Tato Malzoni",
+            "href": "https://www.whosdatedwho.com/dating/tato-malzoni",
+            "relationship_type": 1,
+            "start_date": "",
+            "end_date": "",
+            "length": "-",
+            "start_months_since_1900": -1,
+            "end_months_since_1900": -1,
+            "length_in_months": -1
+        },
+        {
+            "name": "Scott Weinger",
+            "href": "https://www.whosdatedwho.com/dating/scott-weinger",
+            "relationship_type": 1,
+            "start_date": "",
+            "end_date": "",
+            "length": "-",
+            "start_months_since_1900": -1,
+            "end_months_since_1900": -1,
+            "length_in_months": -1
+        },
+        {
+            "name": "Axl Rose",
+            "href": "https://www.whosdatedwho.com/dating/axl-rose",
+            "relationship_type": 3,
+            "start_date": "",
+            "end_date": "",
+            "length": "-",
+            "start_months_since_1900": -1,
+            "end_months_since_1900": -1,
+            "length_in_months": -1
+        }
+    ],
+    "details": {
+        "First Name": "Ellen",
+        "Middle Name": "NA",
+        "Last Name": "Jabour",
+        "Maiden Name": "NA",
+        "Full Name at Birth": "Ellen de Sousa Jabour Alvarenga",
+        "Alternative Name": "NA",
+        "Birthday": "1978",
+        "Birthplace": "Brazil",
+        "Height": "178",
+        "Weight": "NA",
+        "Zodiac Sign": "6",
+        "Sexuality": "Straight",
+        "Religion": "13",
+        "Ethnicity": "8",
+        "Nationality": "87",
+        "Occupation": "15"
+    }
+}

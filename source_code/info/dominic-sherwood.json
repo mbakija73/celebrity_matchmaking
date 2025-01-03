@@ -1,0 +1,55 @@
+{
+    "relationships": [
+        {
+            "name": "Lucy Fry",
+            "href": "https://www.whosdatedwho.com/dating/lucy-fry",
+            "relationship_type": 2,
+            "start_date": "2017",
+            "end_date": "2017",
+            "length": "-",
+            "start_months_since_1900": 1404,
+            "end_months_since_1900": 1404,
+            "length_in_months": -1
+        },
+        {
+            "name": "Sarah Hyland",
+            "href": "https://www.whosdatedwho.com/dating/sarah-hyland",
+            "relationship_type": 2,
+            "start_date": "14th Oct 2014",
+            "end_date": "Jul 2017",
+            "length": "2 years",
+            "start_months_since_1900": 1377,
+            "end_months_since_1900": 1410,
+            "length_in_months": 24
+        },
+        {
+            "name": "Niamh Adkins",
+            "href": "https://www.whosdatedwho.com/dating/niamh-adkins",
+            "relationship_type": 2,
+            "start_date": "",
+            "end_date": "",
+            "length": "-",
+            "start_months_since_1900": -1,
+            "end_months_since_1900": -1,
+            "length_in_months": -1
+        }
+    ],
+    "details": {
+        "First Name": "Dominic",
+        "Middle Name": "Anthony",
+        "Last Name": "Sherwood",
+        "Maiden Name": "NA",
+        "Full Name at Birth": "Dominic Anthony Sherwood",
+        "Alternative Name": "Dom",
+        "Birthday": "1990",
+        "Birthplace": "UK",
+        "Height": "180",
+        "Weight": "NA",
+        "Zodiac Sign": "9",
+        "Sexuality": "Straight",
+        "Religion": "1",
+        "Ethnicity": "6",
+        "Nationality": "8",
+        "Occupation": "8"
+    }
+}

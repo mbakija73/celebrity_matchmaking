@@ -1,0 +1,33 @@
+{
+    "relationships": [
+        {
+            "name": "Elinor Donahue",
+            "href": "https://www.whosdatedwho.com/dating/elinor-donahue",
+            "relationship_type": 4,
+            "start_date": "1954",
+            "end_date": "Aug 1961",
+            "length": "7 years",
+            "start_months_since_1900": 648,
+            "end_months_since_1900": 739,
+            "length_in_months": 84
+        }
+    ],
+    "details": {
+        "First Name": "Richard",
+        "Middle Name": "NA",
+        "Last Name": "Smith",
+        "Maiden Name": "NA",
+        "Full Name at Birth": "NA",
+        "Alternative Name": "NA",
+        "Birthday": "NA",
+        "Birthplace": "NA",
+        "Height": "NA",
+        "Weight": "NA",
+        "Zodiac Sign": "2",
+        "Sexuality": "NA",
+        "Religion": "1",
+        "Ethnicity": "1",
+        "Nationality": "65",
+        "Occupation": "19"
+    }
+}

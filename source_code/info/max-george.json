@@ -1,0 +1,132 @@
+{
+    "relationships": [
+        {
+            "name": "Maisie Smith",
+            "href": "https://www.whosdatedwho.com/dating/maisie-smith",
+            "relationship_type": 2,
+            "start_date": "Aug 2022",
+            "end_date": "present",
+            "length": "2 years",
+            "start_months_since_1900": 1471,
+            "end_months_since_1900": -1,
+            "length_in_months": 24
+        },
+        {
+            "name": "Stacey Cooke",
+            "href": "https://www.whosdatedwho.com/dating/stacey-cooke",
+            "relationship_type": 2,
+            "start_date": "Apr 2019",
+            "end_date": "Aug 2022",
+            "length": "3 years",
+            "start_months_since_1900": 1431,
+            "end_months_since_1900": 1471,
+            "length_in_months": 36
+        },
+        {
+            "name": "Carrie Baker (I)",
+            "href": "https://www.whosdatedwho.com/dating/carrie-baker-i",
+            "relationship_type": 2,
+            "start_date": "Oct 2014",
+            "end_date": "2018",
+            "length": "3 years",
+            "start_months_since_1900": 1377,
+            "end_months_since_1900": 1416,
+            "length_in_months": 36
+        },
+        {
+            "name": "Jasmine Lennard",
+            "href": "https://www.whosdatedwho.com/dating/jasmine-lennard",
+            "relationship_type": 3,
+            "start_date": "Aug 2013",
+            "end_date": "Oct 2013",
+            "length": "2 months",
+            "start_months_since_1900": 1363,
+            "end_months_since_1900": 1365,
+            "length_in_months": 2
+        },
+        {
+            "name": "Lucy Mecklenburgh",
+            "href": "https://www.whosdatedwho.com/dating/lucy-mecklenburgh",
+            "relationship_type": 3,
+            "start_date": "Jul 2013",
+            "end_date": "Sep 2013",
+            "length": "2 months",
+            "start_months_since_1900": 1362,
+            "end_months_since_1900": 1364,
+            "length_in_months": 2
+        },
+        {
+            "name": "Nina Agdal",
+            "href": "https://www.whosdatedwho.com/dating/nina-agdal",
+            "relationship_type": 2,
+            "start_date": "Jun 2013",
+            "end_date": "Feb 2014",
+            "length": "8 months",
+            "start_months_since_1900": 1361,
+            "end_months_since_1900": 1369,
+            "length_in_months": 8
+        },
+        {
+            "name": "Tulisa",
+            "href": "https://www.whosdatedwho.com/dating/tulisa-contostavlos",
+            "relationship_type": 2,
+            "start_date": "Apr 2013",
+            "end_date": "Jun 2013",
+            "length": "2 months",
+            "start_months_since_1900": 1359,
+            "end_months_since_1900": 1361,
+            "length_in_months": 2
+        },
+        {
+            "name": "Carmen Electra",
+            "href": "https://www.whosdatedwho.com/dating/carmen-electra",
+            "relationship_type": 3,
+            "start_date": "2013",
+            "end_date": "2013",
+            "length": "-",
+            "start_months_since_1900": 1356,
+            "end_months_since_1900": 1356,
+            "length_in_months": -1
+        },
+        {
+            "name": "Lindsay Lohan",
+            "href": "https://www.whosdatedwho.com/dating/lindsay-lohan",
+            "relationship_type": 3,
+            "start_date": "Dec 2012",
+            "end_date": "Dec 2012",
+            "length": "-",
+            "start_months_since_1900": 1355,
+            "end_months_since_1900": 1355,
+            "length_in_months": -1
+        },
+        {
+            "name": "Michelle Keegan",
+            "href": "https://www.whosdatedwho.com/dating/michelle-keegan",
+            "relationship_type": 2,
+            "start_date": "Dec 2010",
+            "end_date": "Jul 2012",
+            "length": "1 year",
+            "start_months_since_1900": 1331,
+            "end_months_since_1900": 1350,
+            "length_in_months": 12
+        }
+    ],
+    "details": {
+        "First Name": "Maximillian",
+        "Middle Name": "Alberto",
+        "Last Name": "George",
+        "Maiden Name": "NA",
+        "Full Name at Birth": "Maximillian Alberto George",
+        "Alternative Name": "NA",
+        "Birthday": "1988",
+        "Birthplace": "UK",
+        "Height": "173",
+        "Weight": "NA",
+        "Zodiac Sign": "11",
+        "Sexuality": "Straight",
+        "Religion": "1",
+        "Ethnicity": "6",
+        "Nationality": "8",
+        "Occupation": "1"
+    }
+}

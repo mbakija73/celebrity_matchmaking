@@ -1,0 +1,38 @@
+{
+    "relationships": [
+        {
+            "name": "Lace Morris",
+            "href": "https://www.whosdatedwho.com/dating/lace-morris",
+            "relationship_type": 2,
+            "start_date": "Sep 2016",
+            "end_date": "Nov 2016",
+            "length": "2 months",
+            "start_months_since_1900": 1400,
+            "end_months_since_1900": 1402,
+            "length_in_months": 2
+        },
+        {
+            "name": "Kelsi Hemstreet",
+            "href": "https://www.whosdatedwho.com/dating/kelsi-hemstreet",
+            "relationship_type": 2,
+            "start_date": "",
+            "end_date": "present",
+            "length": "-",
+            "start_months_since_1900": -1,
+            "end_months_since_1900": -1,
+            "length_in_months": -1
+        },
+        {
+            "name": "Alison Oetjen",
+            "href": "https://www.whosdatedwho.com/dating/alison-oetjen",
+            "relationship_type": 1,
+            "start_date": "",
+            "end_date": "",
+            "length": "-",
+            "start_months_since_1900": -1,
+            "end_months_since_1900": -1,
+            "length_in_months": -1
+        }
+    ],
+    "details": {}
+}

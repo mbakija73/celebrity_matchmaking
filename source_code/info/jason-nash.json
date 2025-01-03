@@ -1,0 +1,55 @@
+{
+    "relationships": [
+        {
+            "name": "Nivine Jay",
+            "href": "https://www.whosdatedwho.com/dating/nivine-jay",
+            "relationship_type": 4,
+            "start_date": "2020",
+            "end_date": "present",
+            "length": "4 years",
+            "start_months_since_1900": 1440,
+            "end_months_since_1900": -1,
+            "length_in_months": 48
+        },
+        {
+            "name": "Trisha Paytas",
+            "href": "https://www.whosdatedwho.com/dating/trisha-paytas",
+            "relationship_type": 2,
+            "start_date": "Dec 2017",
+            "end_date": "Feb 2019",
+            "length": "1 year",
+            "start_months_since_1900": 1415,
+            "end_months_since_1900": 1429,
+            "length_in_months": 12
+        },
+        {
+            "name": "Marney Hochman",
+            "href": "https://www.whosdatedwho.com/dating/marney-hochman",
+            "relationship_type": 4,
+            "start_date": "2007",
+            "end_date": "2017",
+            "length": "10 years",
+            "start_months_since_1900": 1284,
+            "end_months_since_1900": 1404,
+            "length_in_months": 120
+        }
+    ],
+    "details": {
+        "First Name": "Jason",
+        "Middle Name": "Eric",
+        "Last Name": "Nash",
+        "Maiden Name": "NA",
+        "Full Name at Birth": "Jason Eric Nash",
+        "Alternative Name": "NA",
+        "Birthday": "1973",
+        "Birthplace": "USA",
+        "Height": "188",
+        "Weight": "176lbs (80 kg)",
+        "Zodiac Sign": "4",
+        "Sexuality": "Straight",
+        "Religion": "1",
+        "Ethnicity": "6",
+        "Nationality": "91",
+        "Occupation": "11"
+    }
+}

@@ -1,0 +1,44 @@
+{
+    "relationships": [
+        {
+            "name": "Ryan Reynolds",
+            "href": "https://www.whosdatedwho.com/dating/ryan-reynolds",
+            "relationship_type": 3,
+            "start_date": "Feb 2011",
+            "end_date": "Mar 2011",
+            "length": "< 1 month",
+            "start_months_since_1900": 1333,
+            "end_months_since_1900": 1334,
+            "length_in_months": 0
+        },
+        {
+            "name": "Shannon Leto",
+            "href": "https://www.whosdatedwho.com/dating/shannon-leto",
+            "relationship_type": 2,
+            "start_date": "Jan 2010",
+            "end_date": "Jun 2010",
+            "length": "5 months",
+            "start_months_since_1900": 1320,
+            "end_months_since_1900": 1325,
+            "length_in_months": 5
+        }
+    ],
+    "details": {
+        "First Name": "Agnes",
+        "Middle Name": "Christine",
+        "Last Name": "Fischer",
+        "Maiden Name": "NA",
+        "Full Name at Birth": "Agnes Christine Fischer",
+        "Alternative Name": "Agi Fischer",
+        "Birthday": "1986",
+        "Birthplace": "Germany",
+        "Height": "173",
+        "Weight": "NA",
+        "Zodiac Sign": "1",
+        "Sexuality": "Straight",
+        "Religion": "1",
+        "Ethnicity": "6",
+        "Nationality": "55",
+        "Occupation": "15"
+    }
+}

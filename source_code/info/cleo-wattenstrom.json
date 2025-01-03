@@ -1,0 +1,66 @@
+{
+    "relationships": [
+        {
+            "name": "Amber's Closet",
+            "href": "https://www.whosdatedwho.com/dating/ambers-closet",
+            "relationship_type": 2,
+            "start_date": "Feb 2019",
+            "end_date": "present",
+            "length": "5 years",
+            "start_months_since_1900": 1429,
+            "end_months_since_1900": -1,
+            "length_in_months": 60
+        },
+        {
+            "name": "Lauren Parissa Abedini",
+            "href": "https://www.whosdatedwho.com/dating/lauren-abedini",
+            "relationship_type": 2,
+            "start_date": "Jan 2019",
+            "end_date": "Feb 2019",
+            "length": "1 month",
+            "start_months_since_1900": 1428,
+            "end_months_since_1900": 1429,
+            "length_in_months": 1
+        },
+        {
+            "name": "Joel Kinnaman",
+            "href": "https://www.whosdatedwho.com/dating/joel-kinnaman",
+            "relationship_type": 2,
+            "start_date": "Aug 2014",
+            "end_date": "Aug 2018",
+            "length": "4 years",
+            "start_months_since_1900": 1375,
+            "end_months_since_1900": 1423,
+            "length_in_months": 48
+        },
+        {
+            "name": "Kim Gidlund",
+            "href": "https://www.whosdatedwho.com/dating/kim-gidlund",
+            "relationship_type": 2,
+            "start_date": "2012",
+            "end_date": "2014",
+            "length": "2 years",
+            "start_months_since_1900": 1344,
+            "end_months_since_1900": 1368,
+            "length_in_months": 24
+        }
+    ],
+    "details": {
+        "First Name": "Cleo",
+        "Middle Name": "NA",
+        "Last Name": "Kinnaman",
+        "Maiden Name": "Cleo Wattenstr\u00f6m",
+        "Full Name at Birth": "Cleo Desir\u00e9e Wattenstr\u00f6m",
+        "Alternative Name": "Cleo Wattenstr\u00f6m, Cleo Wattenstrom",
+        "Birthday": "1992",
+        "Birthplace": "Belgium",
+        "Height": "173",
+        "Weight": "125lbs (57 kg)",
+        "Zodiac Sign": "4",
+        "Sexuality": "Lesbian",
+        "Religion": "1",
+        "Ethnicity": "8",
+        "Nationality": "30",
+        "Occupation": "13"
+    }
+}

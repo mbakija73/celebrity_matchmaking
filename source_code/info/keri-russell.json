@@ -1,0 +1,77 @@
+{
+    "relationships": [
+        {
+            "name": "Matthew Rhys",
+            "href": "https://www.whosdatedwho.com/dating/matthew-rhys",
+            "relationship_type": 2,
+            "start_date": "2014",
+            "end_date": "2014",
+            "length": "-",
+            "start_months_since_1900": 1368,
+            "end_months_since_1900": 1368,
+            "length_in_months": -1
+        },
+        {
+            "name": "Shane Deary",
+            "href": "https://www.whosdatedwho.com/dating/shane-deary",
+            "relationship_type": 4,
+            "start_date": "2005",
+            "end_date": "2014",
+            "length": "9 years",
+            "start_months_since_1900": 1260,
+            "end_months_since_1900": 1368,
+            "length_in_months": 108
+        },
+        {
+            "name": "Scott Speedman",
+            "href": "https://www.whosdatedwho.com/dating/scott-speedman",
+            "relationship_type": 2,
+            "start_date": "1999",
+            "end_date": "2001",
+            "length": "2 years",
+            "start_months_since_1900": 1188,
+            "end_months_since_1900": 1212,
+            "length_in_months": 24
+        },
+        {
+            "name": "Joey Lawrence",
+            "href": "https://www.whosdatedwho.com/dating/joey-lawrence",
+            "relationship_type": 2,
+            "start_date": "Aug 1994",
+            "end_date": "Dec 1994",
+            "length": "4 months",
+            "start_months_since_1900": 1135,
+            "end_months_since_1900": 1139,
+            "length_in_months": 4
+        },
+        {
+            "name": "Tony Lucca",
+            "href": "https://www.whosdatedwho.com/dating/tony-lucca",
+            "relationship_type": 2,
+            "start_date": "1991",
+            "end_date": "1999",
+            "length": "8 years",
+            "start_months_since_1900": 1092,
+            "end_months_since_1900": 1188,
+            "length_in_months": 96
+        }
+    ],
+    "details": {
+        "First Name": "Keri",
+        "Middle Name": "Lynn",
+        "Last Name": "Russell",
+        "Maiden Name": "NA",
+        "Full Name at Birth": "Keri Lynn Russell",
+        "Alternative Name": "Care Bear",
+        "Birthday": "1976",
+        "Birthplace": "CA",
+        "Height": "163",
+        "Weight": "112lbs (51 kg)",
+        "Zodiac Sign": "7",
+        "Sexuality": "Straight",
+        "Religion": "1",
+        "Ethnicity": "6",
+        "Nationality": "91",
+        "Occupation": "8"
+    }
+}

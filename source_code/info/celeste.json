@@ -1,0 +1,77 @@
+{
+    "relationships": [
+        {
+            "name": "Paul Norman",
+            "href": "https://www.whosdatedwho.com/dating/paul-norman",
+            "relationship_type": 2,
+            "start_date": "1995",
+            "end_date": "1996",
+            "length": "1 year",
+            "start_months_since_1900": 1140,
+            "end_months_since_1900": 1152,
+            "length_in_months": 12
+        },
+        {
+            "name": "Woody Long",
+            "href": "https://www.whosdatedwho.com/dating/woody-long",
+            "relationship_type": 4,
+            "start_date": "1993",
+            "end_date": "1993",
+            "length": "-",
+            "start_months_since_1900": 1116,
+            "end_months_since_1900": 1116,
+            "length_in_months": -1
+        },
+        {
+            "name": "Rocco Siffredi",
+            "href": "https://www.whosdatedwho.com/dating/rocco-siffredi",
+            "relationship_type": 3,
+            "start_date": "",
+            "end_date": "",
+            "length": "-",
+            "start_months_since_1900": -1,
+            "end_months_since_1900": -1,
+            "length_in_months": -1
+        },
+        {
+            "name": "Sean Michaels",
+            "href": "https://www.whosdatedwho.com/dating/sean-michaels",
+            "relationship_type": 2,
+            "start_date": "",
+            "end_date": "",
+            "length": "-",
+            "start_months_since_1900": -1,
+            "end_months_since_1900": -1,
+            "length_in_months": -1
+        },
+        {
+            "name": "Mark Davis",
+            "href": "https://www.whosdatedwho.com/dating/mark-davis",
+            "relationship_type": 3,
+            "start_date": "",
+            "end_date": "",
+            "length": "-",
+            "start_months_since_1900": -1,
+            "end_months_since_1900": -1,
+            "length_in_months": -1
+        }
+    ],
+    "details": {
+        "First Name": "Celeste",
+        "Middle Name": "NA",
+        "Last Name": "Long",
+        "Maiden Name": "NA",
+        "Full Name at Birth": "NA",
+        "Alternative Name": "Celeste, Celeste Long",
+        "Birthday": "1972",
+        "Birthplace": "USA",
+        "Height": "171",
+        "Weight": "115lbs (52 kg)",
+        "Zodiac Sign": "3",
+        "Sexuality": "NA",
+        "Religion": "1",
+        "Ethnicity": "6",
+        "Nationality": "91",
+        "Occupation": "16"
+    }
+}

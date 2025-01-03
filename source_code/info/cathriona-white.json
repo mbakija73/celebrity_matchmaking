@@ -1,0 +1,33 @@
+{
+    "relationships": [
+        {
+            "name": "Jim Carrey",
+            "href": "https://www.whosdatedwho.com/dating/jim-carrey",
+            "relationship_type": 2,
+            "start_date": "2012",
+            "end_date": "Sep 2015",
+            "length": "3 years",
+            "start_months_since_1900": 1344,
+            "end_months_since_1900": 1388,
+            "length_in_months": 36
+        }
+    ],
+    "details": {
+        "First Name": "Cathriona",
+        "Middle Name": "Anne",
+        "Last Name": "White",
+        "Maiden Name": "NA",
+        "Full Name at Birth": "Cathriona Anne White",
+        "Alternative Name": "Catherine White, Cat White",
+        "Birthday": "1987",
+        "Birthplace": "Ireland",
+        "Height": "NA",
+        "Weight": "NA",
+        "Zodiac Sign": "11",
+        "Sexuality": "Straight",
+        "Religion": "1",
+        "Ethnicity": "6",
+        "Nationality": "117",
+        "Occupation": "9"
+    }
+}

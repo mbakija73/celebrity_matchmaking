@@ -1,0 +1,44 @@
+{
+    "relationships": [
+        {
+            "name": "Sean 'Diddy' Combs",
+            "href": "https://www.whosdatedwho.com/dating/sean-combs",
+            "relationship_type": 3,
+            "start_date": "2008",
+            "end_date": "2008",
+            "length": "-",
+            "start_months_since_1900": 1296,
+            "end_months_since_1900": 1296,
+            "length_in_months": -1
+        },
+        {
+            "name": "Peter Cook",
+            "href": "https://www.whosdatedwho.com/dating/peter-cook",
+            "relationship_type": 2,
+            "start_date": "2004",
+            "end_date": "2006",
+            "length": "2 years",
+            "start_months_since_1900": 1248,
+            "end_months_since_1900": 1272,
+            "length_in_months": 24
+        }
+    ],
+    "details": {
+        "First Name": "Diana",
+        "Middle Name": "NA",
+        "Last Name": "Bianchi",
+        "Maiden Name": "NA",
+        "Full Name at Birth": "NA",
+        "Alternative Name": "NA",
+        "Birthday": "1987",
+        "Birthplace": "New York",
+        "Height": "NA",
+        "Weight": "NA",
+        "Zodiac Sign": "9",
+        "Sexuality": "NA",
+        "Religion": "1",
+        "Ethnicity": "8",
+        "Nationality": "91",
+        "Occupation": "18"
+    }
+}

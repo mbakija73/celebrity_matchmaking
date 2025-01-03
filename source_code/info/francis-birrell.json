@@ -1,0 +1,55 @@
+{
+    "relationships": [
+        {
+            "name": "John Maynard Keynes",
+            "href": "https://www.whosdatedwho.com/dating/john-maynard-keynes",
+            "relationship_type": 2,
+            "start_date": "1910",
+            "end_date": "1910",
+            "length": "-",
+            "start_months_since_1900": 120,
+            "end_months_since_1900": 120,
+            "length_in_months": -1
+        },
+        {
+            "name": "David Garnett",
+            "href": "https://www.whosdatedwho.com/dating/david-garnett",
+            "relationship_type": 2,
+            "start_date": "",
+            "end_date": "",
+            "length": "-",
+            "start_months_since_1900": -1,
+            "end_months_since_1900": -1,
+            "length_in_months": -1
+        },
+        {
+            "name": "Raymond Mortimer",
+            "href": "https://www.whosdatedwho.com/dating/raymond-mortimer",
+            "relationship_type": 2,
+            "start_date": "",
+            "end_date": "",
+            "length": "-",
+            "start_months_since_1900": -1,
+            "end_months_since_1900": -1,
+            "length_in_months": -1
+        }
+    ],
+    "details": {
+        "First Name": "Francis",
+        "Middle Name": "NA",
+        "Last Name": "Birrell",
+        "Maiden Name": "NA",
+        "Full Name at Birth": "Francis Frederick Locker Birrell",
+        "Alternative Name": "NA",
+        "Birthday": "1889",
+        "Birthplace": "UK",
+        "Height": "NA",
+        "Weight": "NA",
+        "Zodiac Sign": "9",
+        "Sexuality": "Gay",
+        "Religion": "1",
+        "Ethnicity": "6",
+        "Nationality": "98",
+        "Occupation": "3"
+    }
+}

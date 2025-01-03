@@ -1,0 +1,44 @@
+{
+    "relationships": [
+        {
+            "name": "Princess Soraya",
+            "href": "https://www.whosdatedwho.com/dating/princess-soraya",
+            "relationship_type": 3,
+            "start_date": "1959",
+            "end_date": "1960",
+            "length": "1 year",
+            "start_months_since_1900": 708,
+            "end_months_since_1900": 720,
+            "length_in_months": 12
+        },
+        {
+            "name": "Belinda Lee",
+            "href": "https://www.whosdatedwho.com/dating/belinda-lee",
+            "relationship_type": 2,
+            "start_date": "Sep 1957",
+            "end_date": "Mar 1961",
+            "length": "3 years",
+            "start_months_since_1900": 692,
+            "end_months_since_1900": 734,
+            "length_in_months": 36
+        }
+    ],
+    "details": {
+        "First Name": "Filippo",
+        "Middle Name": "NA",
+        "Last Name": "Orsini",
+        "Maiden Name": "NA",
+        "Full Name at Birth": "Prince Filippo Orsini",
+        "Alternative Name": "NA",
+        "Birthday": "NA",
+        "Birthplace": "NA",
+        "Height": "NA",
+        "Weight": "NA",
+        "Zodiac Sign": "2",
+        "Sexuality": "NA",
+        "Religion": "1",
+        "Ethnicity": "1",
+        "Nationality": "65",
+        "Occupation": "19"
+    }
+}

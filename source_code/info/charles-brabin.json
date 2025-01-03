@@ -1,0 +1,44 @@
+{
+    "relationships": [
+        {
+            "name": "Theda Bara",
+            "href": "https://www.whosdatedwho.com/dating/theda-bara",
+            "relationship_type": 4,
+            "start_date": "1920",
+            "end_date": "7th Apr 1955",
+            "length": "35 years",
+            "start_months_since_1900": 240,
+            "end_months_since_1900": 663,
+            "length_in_months": 420
+        },
+        {
+            "name": "Susette Mosher",
+            "href": "https://www.whosdatedwho.com/dating/susette-mosher",
+            "relationship_type": 4,
+            "start_date": "1912",
+            "end_date": "1920",
+            "length": "8 years",
+            "start_months_since_1900": 144,
+            "end_months_since_1900": 240,
+            "length_in_months": 96
+        }
+    ],
+    "details": {
+        "First Name": "Charles",
+        "Middle Name": "NA",
+        "Last Name": "Brabin",
+        "Maiden Name": "NA",
+        "Full Name at Birth": "NA",
+        "Alternative Name": "NA",
+        "Birthday": "1882",
+        "Birthplace": "England",
+        "Height": "173",
+        "Weight": "NA",
+        "Zodiac Sign": "7",
+        "Sexuality": "Straight",
+        "Religion": "1",
+        "Ethnicity": "6",
+        "Nationality": "8",
+        "Occupation": "9"
+    }
+}

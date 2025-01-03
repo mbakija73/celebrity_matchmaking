@@ -1,0 +1,55 @@
+{
+    "relationships": [
+        {
+            "name": "Sarah Hyland",
+            "href": "https://www.whosdatedwho.com/dating/sarah-hyland",
+            "relationship_type": 4,
+            "start_date": "Sep 2017",
+            "end_date": "present",
+            "length": "7 years",
+            "start_months_since_1900": 1412,
+            "end_months_since_1900": -1,
+            "length_in_months": 84
+        },
+        {
+            "name": "Danielle Maltby",
+            "href": "https://www.whosdatedwho.com/dating/danielle-maltby",
+            "relationship_type": 2,
+            "start_date": "Aug 2017",
+            "end_date": "Sep 2017",
+            "length": "1 month",
+            "start_months_since_1900": 1411,
+            "end_months_since_1900": 1412,
+            "length_in_months": 1
+        },
+        {
+            "name": "Ashley Iaconetti",
+            "href": "https://www.whosdatedwho.com/dating/ashley-iaconetti",
+            "relationship_type": 2,
+            "start_date": "29th Aug 2016",
+            "end_date": "Sep 2016",
+            "length": "< 1 month",
+            "start_months_since_1900": 1399,
+            "end_months_since_1900": 1400,
+            "length_in_months": 0
+        }
+    ],
+    "details": {
+        "First Name": "Wells",
+        "Middle Name": "NA",
+        "Last Name": "Adams",
+        "Maiden Name": "NA",
+        "Full Name at Birth": "Wells Adams",
+        "Alternative Name": "Wells Adams",
+        "Birthday": "1984",
+        "Birthplace": "California  USA",
+        "Height": "183",
+        "Weight": "NA",
+        "Zodiac Sign": "3",
+        "Sexuality": "Straight",
+        "Religion": "1",
+        "Ethnicity": "6",
+        "Nationality": "91",
+        "Occupation": "11"
+    }
+}

@@ -1,0 +1,33 @@
+{
+    "relationships": [
+        {
+            "name": "Boris Becker",
+            "href": "https://www.whosdatedwho.com/dating/boris-becker",
+            "relationship_type": 4,
+            "start_date": "Nov 2008",
+            "end_date": "May 2018",
+            "length": "9 years",
+            "start_months_since_1900": 1306,
+            "end_months_since_1900": 1420,
+            "length_in_months": 108
+        }
+    ],
+    "details": {
+        "First Name": "Lilly",
+        "Middle Name": "NA",
+        "Last Name": "Kerssenberg",
+        "Maiden Name": "NA",
+        "Full Name at Birth": "Sharlely Kerssenberg",
+        "Alternative Name": "Sharley Kerssenberg, Lilly Kerssenberg, Lilly Becker, Sharlely Kerssenberg, Sharley Becker-Kerssenberg, Sharlely Becker-Kerssenberg, Lily Becker",
+        "Birthday": "1976",
+        "Birthplace": "Netherlands",
+        "Height": "175",
+        "Weight": "128lbs (58 kg)",
+        "Zodiac Sign": "8",
+        "Sexuality": "Straight",
+        "Religion": "1",
+        "Ethnicity": "6",
+        "Nationality": "45",
+        "Occupation": "11"
+    }
+}

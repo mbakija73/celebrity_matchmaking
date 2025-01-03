@@ -1,0 +1,66 @@
+{
+    "relationships": [
+        {
+            "name": "Gloribel",
+            "href": "https://www.whosdatedwho.com/dating/gloribel",
+            "relationship_type": 2,
+            "start_date": "May 2013",
+            "end_date": "Oct 2013",
+            "length": "5 months",
+            "start_months_since_1900": 1360,
+            "end_months_since_1900": 1365,
+            "length_in_months": 5
+        },
+        {
+            "name": "Alexandra Cheron",
+            "href": "https://www.whosdatedwho.com/dating/alexandra-cheron",
+            "relationship_type": 2,
+            "start_date": "2007",
+            "end_date": "2008",
+            "length": "1 year",
+            "start_months_since_1900": 1284,
+            "end_months_since_1900": 1296,
+            "length_in_months": 12
+        },
+        {
+            "name": "Amelia Vega",
+            "href": "https://www.whosdatedwho.com/dating/amelia-vega",
+            "relationship_type": 2,
+            "start_date": "2006",
+            "end_date": "2007",
+            "length": "1 year",
+            "start_months_since_1900": 1272,
+            "end_months_since_1900": 1284,
+            "length_in_months": 12
+        },
+        {
+            "name": "Victoria Xipolitakis",
+            "href": "https://www.whosdatedwho.com/dating/vicky-xipolitakis",
+            "relationship_type": 1,
+            "start_date": "",
+            "end_date": "",
+            "length": "-",
+            "start_months_since_1900": -1,
+            "end_months_since_1900": -1,
+            "length_in_months": -1
+        }
+    ],
+    "details": {
+        "First Name": "Romeo",
+        "Middle Name": "NA",
+        "Last Name": "Santos",
+        "Maiden Name": "NA",
+        "Full Name at Birth": "Anthony Santos",
+        "Alternative Name": "Romeo, Tony, Anthony Santos, Romeo Santos",
+        "Birthday": "1981",
+        "Birthplace": "USA",
+        "Height": "185",
+        "Weight": "NA",
+        "Zodiac Sign": "8",
+        "Sexuality": "Straight",
+        "Religion": "18",
+        "Ethnicity": "8",
+        "Nationality": "91",
+        "Occupation": "1"
+    }
+}

@@ -1,0 +1,44 @@
+{
+    "relationships": [
+        {
+            "name": "Aaron Sorkin",
+            "href": "https://www.whosdatedwho.com/dating/aaron-sorkin",
+            "relationship_type": 2,
+            "start_date": "2005",
+            "end_date": "2005",
+            "length": "-",
+            "start_months_since_1900": 1260,
+            "end_months_since_1900": 1260,
+            "length_in_months": -1
+        },
+        {
+            "name": "Michael Douglas",
+            "href": "https://www.whosdatedwho.com/dating/michael-douglas",
+            "relationship_type": 2,
+            "start_date": "1998",
+            "end_date": "1998",
+            "length": "-",
+            "start_months_since_1900": 1176,
+            "end_months_since_1900": 1176,
+            "length_in_months": -1
+        }
+    ],
+    "details": {
+        "First Name": "Maureen",
+        "Middle Name": "Bridgid",
+        "Last Name": "Dowd",
+        "Maiden Name": "NA",
+        "Full Name at Birth": "Maureen Bridgid Dowd",
+        "Alternative Name": "NA",
+        "Birthday": "1952",
+        "Birthplace": "USA",
+        "Height": "NA",
+        "Weight": "NA",
+        "Zodiac Sign": "13",
+        "Sexuality": "Straight",
+        "Religion": "13",
+        "Ethnicity": "6",
+        "Nationality": "91",
+        "Occupation": "3"
+    }
+}

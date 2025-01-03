@@ -1,0 +1,55 @@
+{
+    "relationships": [
+        {
+            "name": "Linda Christian",
+            "href": "https://www.whosdatedwho.com/dating/linda-christian",
+            "relationship_type": 2,
+            "start_date": "1957",
+            "end_date": "1957",
+            "length": "-",
+            "start_months_since_1900": 684,
+            "end_months_since_1900": 684,
+            "length_in_months": -1
+        },
+        {
+            "name": "Dorian Leigh Parker",
+            "href": "https://www.whosdatedwho.com/dating/dorian-leigh-parker",
+            "relationship_type": 2,
+            "start_date": "1952",
+            "end_date": "1957",
+            "length": "5 years",
+            "start_months_since_1900": 624,
+            "end_months_since_1900": 684,
+            "length_in_months": 60
+        },
+        {
+            "name": "Carroll Mcdaniel",
+            "href": "https://www.whosdatedwho.com/dating/carroll-mcdaniel",
+            "relationship_type": 4,
+            "start_date": "1949",
+            "end_date": "1957",
+            "length": "8 years",
+            "start_months_since_1900": 588,
+            "end_months_since_1900": 684,
+            "length_in_months": 96
+        }
+    ],
+    "details": {
+        "First Name": "Alfonso",
+        "Middle Name": "Alfonso",
+        "Last Name": "De Portago",
+        "Maiden Name": "NA",
+        "Full Name at Birth": "Alfonso Antonio Vicente Eduardo Angel Blas Francisco de Borja Cabeza de Vaca y Leighton",
+        "Alternative Name": "Fon de Portago, Marquis de Portago, Alfondo de Portago, Alfonso De Portago, Alfonso Antonio Vicente Eduardo Angel Blas Francisco de Borja Cabeza de Vaca y Leighton, Alfonso Antonio Vicente Blas \u00c1ngel Francisco \"Fon\"\u2022de Borja Cabeza de Vaca y Leighton, Carvajal y Are, Fon, Marquis\u2022de Portago",
+        "Birthday": "1928",
+        "Birthplace": "London",
+        "Height": "183",
+        "Weight": "200lbs (91 kg)",
+        "Zodiac Sign": "10",
+        "Sexuality": "Straight",
+        "Religion": "13",
+        "Ethnicity": "6",
+        "Nationality": "118",
+        "Occupation": "2"
+    }
+}

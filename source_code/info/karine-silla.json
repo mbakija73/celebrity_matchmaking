@@ -1,0 +1,44 @@
+{
+    "relationships": [
+        {
+            "name": "Vincent Perez",
+            "href": "https://www.whosdatedwho.com/dating/vincent-perez",
+            "relationship_type": 4,
+            "start_date": "Dec 1998",
+            "end_date": "present",
+            "length": "25 years",
+            "start_months_since_1900": 1187,
+            "end_months_since_1900": -1,
+            "length_in_months": 300
+        },
+        {
+            "name": "G\u00e9rard Depardieu",
+            "href": "https://www.whosdatedwho.com/dating/gerard-depardieu",
+            "relationship_type": 2,
+            "start_date": "1991",
+            "end_date": "1991",
+            "length": "-",
+            "start_months_since_1900": 1092,
+            "end_months_since_1900": 1092,
+            "length_in_months": -1
+        }
+    ],
+    "details": {
+        "First Name": "Karine",
+        "Middle Name": "NA",
+        "Last Name": "NA",
+        "Maiden Name": "Silla",
+        "Full Name at Birth": "Karine Silla",
+        "Alternative Name": "NA",
+        "Birthday": "1965",
+        "Birthplace": "Dakar. Senegal .Africa",
+        "Height": "NA",
+        "Weight": "NA",
+        "Zodiac Sign": "8",
+        "Sexuality": "Straight",
+        "Religion": "1",
+        "Ethnicity": "8",
+        "Nationality": "86",
+        "Occupation": "8"
+    }
+}

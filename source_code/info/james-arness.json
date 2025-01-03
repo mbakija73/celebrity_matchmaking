@@ -1,0 +1,55 @@
+{
+    "relationships": [
+        {
+            "name": "Thordis Brandt",
+            "href": "https://www.whosdatedwho.com/dating/thordis-brandt",
+            "relationship_type": 2,
+            "start_date": "1965",
+            "end_date": "Jan 1972",
+            "length": "7 years",
+            "start_months_since_1900": 780,
+            "end_months_since_1900": 864,
+            "length_in_months": 84
+        },
+        {
+            "name": "Virginia Chapman",
+            "href": "https://www.whosdatedwho.com/dating/virginia-chapman",
+            "relationship_type": 4,
+            "start_date": "Feb 1946",
+            "end_date": "Apr 1960",
+            "length": "14 years",
+            "start_months_since_1900": 553,
+            "end_months_since_1900": 723,
+            "length_in_months": 168
+        },
+        {
+            "name": "Tura Satana",
+            "href": "https://www.whosdatedwho.com/dating/tura-satana",
+            "relationship_type": 3,
+            "start_date": "",
+            "end_date": "",
+            "length": "-",
+            "start_months_since_1900": -1,
+            "end_months_since_1900": -1,
+            "length_in_months": -1
+        }
+    ],
+    "details": {
+        "First Name": "James",
+        "Middle Name": "NA",
+        "Last Name": "Arness",
+        "Maiden Name": "NA",
+        "Full Name at Birth": "James King Aurness",
+        "Alternative Name": "Jim, Jimmy, James King Aurness, James Arness",
+        "Birthday": "1923",
+        "Birthplace": "USA",
+        "Height": "201",
+        "Weight": "NA",
+        "Zodiac Sign": "4",
+        "Sexuality": "Straight",
+        "Religion": "29",
+        "Ethnicity": "6",
+        "Nationality": "91",
+        "Occupation": "8"
+    }
+}

@@ -1,0 +1,55 @@
+{
+    "relationships": [
+        {
+            "name": "Pedro Castro",
+            "href": "https://www.whosdatedwho.com/dating/pedro-castro",
+            "relationship_type": 4,
+            "start_date": "Jan 2012",
+            "end_date": "present",
+            "length": "12 years",
+            "start_months_since_1900": 1344,
+            "end_months_since_1900": -1,
+            "length_in_months": 144
+        },
+        {
+            "name": "Fernando Alonso",
+            "href": "https://www.whosdatedwho.com/dating/fernando-alonso",
+            "relationship_type": 4,
+            "start_date": "2005",
+            "end_date": "Dec 2011",
+            "length": "6 years",
+            "start_months_since_1900": 1260,
+            "end_months_since_1900": 1343,
+            "length_in_months": 72
+        },
+        {
+            "name": "David Feito",
+            "href": "https://www.whosdatedwho.com/dating/david-feito",
+            "relationship_type": 2,
+            "start_date": "2004",
+            "end_date": "2004",
+            "length": "-",
+            "start_months_since_1900": 1248,
+            "end_months_since_1900": 1248,
+            "length_in_months": -1
+        }
+    ],
+    "details": {
+        "First Name": "Raquel",
+        "Middle Name": "NA",
+        "Last Name": "del Rosario",
+        "Maiden Name": "NA",
+        "Full Name at Birth": "Raquel del Rosario Mac\u00edas",
+        "Alternative Name": "Raquel del Rosario Mac\u00edas, Raquel del Rosario",
+        "Birthday": "1982",
+        "Birthplace": "Spain",
+        "Height": "163",
+        "Weight": "NA",
+        "Zodiac Sign": "5",
+        "Sexuality": "Straight",
+        "Religion": "13",
+        "Ethnicity": "6",
+        "Nationality": "118",
+        "Occupation": "1"
+    }
+}

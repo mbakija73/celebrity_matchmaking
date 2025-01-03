@@ -1,0 +1,55 @@
+{
+    "relationships": [
+        {
+            "name": "Martine McCutcheon",
+            "href": "https://www.whosdatedwho.com/dating/martine-mccutcheon",
+            "relationship_type": 3,
+            "start_date": "2006",
+            "end_date": "2007",
+            "length": "1 year",
+            "start_months_since_1900": 1272,
+            "end_months_since_1900": 1284,
+            "length_in_months": 12
+        },
+        {
+            "name": "Jon Moss",
+            "href": "https://www.whosdatedwho.com/dating/jon-moss",
+            "relationship_type": 2,
+            "start_date": "",
+            "end_date": "1986",
+            "length": "-",
+            "start_months_since_1900": -1,
+            "end_months_since_1900": 1032,
+            "length_in_months": -1
+        },
+        {
+            "name": "Kirk Brandon",
+            "href": "https://www.whosdatedwho.com/dating/kirk-brandon",
+            "relationship_type": 2,
+            "start_date": "",
+            "end_date": "",
+            "length": "-",
+            "start_months_since_1900": -1,
+            "end_months_since_1900": -1,
+            "length_in_months": -1
+        }
+    ],
+    "details": {
+        "First Name": "George",
+        "Middle Name": "Alan",
+        "Last Name": "O'Dowd",
+        "Maiden Name": "NA",
+        "Full Name at Birth": "George Alan O`Dowd",
+        "Alternative Name": "NA",
+        "Birthday": "1961",
+        "Birthplace": "UK",
+        "Height": "183",
+        "Weight": "NA",
+        "Zodiac Sign": "4",
+        "Sexuality": "Gay",
+        "Religion": "16",
+        "Ethnicity": "6",
+        "Nationality": "8",
+        "Occupation": "1"
+    }
+}

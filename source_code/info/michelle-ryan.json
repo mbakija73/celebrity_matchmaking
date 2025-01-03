@@ -1,0 +1,44 @@
+{
+    "relationships": [
+        {
+            "name": "Jason Segel",
+            "href": "https://www.whosdatedwho.com/dating/jason-segel",
+            "relationship_type": 2,
+            "start_date": "Jun 2009",
+            "end_date": "Jul 2009",
+            "length": "1 month",
+            "start_months_since_1900": 1313,
+            "end_months_since_1900": 1314,
+            "length_in_months": 1
+        },
+        {
+            "name": "Gary Lucy",
+            "href": "https://www.whosdatedwho.com/dating/gary-lucy",
+            "relationship_type": 3,
+            "start_date": "2002",
+            "end_date": "2002",
+            "length": "-",
+            "start_months_since_1900": 1224,
+            "end_months_since_1900": 1224,
+            "length_in_months": -1
+        }
+    ],
+    "details": {
+        "First Name": "Michelle",
+        "Middle Name": "Claire",
+        "Last Name": "Ryan",
+        "Maiden Name": "NA",
+        "Full Name at Birth": "Michelle Claire Ryan",
+        "Alternative Name": "Mish Mash, Michelle Claire Ryan, Michelle Ryan, Michelle",
+        "Birthday": "1984",
+        "Birthplace": "UK",
+        "Height": "170",
+        "Weight": "144lbs (65 kg)",
+        "Zodiac Sign": "3",
+        "Sexuality": "Straight",
+        "Religion": "18",
+        "Ethnicity": "6",
+        "Nationality": "8",
+        "Occupation": "8"
+    }
+}

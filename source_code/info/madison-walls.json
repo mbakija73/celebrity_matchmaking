@@ -1,0 +1,44 @@
+{
+    "relationships": [
+        {
+            "name": "Tony Raines",
+            "href": "https://www.whosdatedwho.com/dating/tony-raines",
+            "relationship_type": 2,
+            "start_date": "Aug 2014",
+            "end_date": "Sep 2015",
+            "length": "1 year",
+            "start_months_since_1900": 1375,
+            "end_months_since_1900": 1388,
+            "length_in_months": 12
+        },
+        {
+            "name": "Javi Marroquin",
+            "href": "https://www.whosdatedwho.com/dating/javi-marroquin",
+            "relationship_type": 2,
+            "start_date": "Mar 2017",
+            "end_date": "3rd Apr 2017",
+            "length": "1 month",
+            "start_months_since_1900": 1406,
+            "end_months_since_1900": 1407,
+            "length_in_months": 1
+        }
+    ],
+    "details": {
+        "First Name": "Madison",
+        "Middle Name": "Channing",
+        "Last Name": "Walls",
+        "Maiden Name": "NA",
+        "Full Name at Birth": "Madison Walls",
+        "Alternative Name": "Madison Walls",
+        "Birthday": "1990",
+        "Birthplace": "USA",
+        "Height": "170",
+        "Weight": "115lbs (52 kg)",
+        "Zodiac Sign": "10",
+        "Sexuality": "Straight",
+        "Religion": "1",
+        "Ethnicity": "6",
+        "Nationality": "91",
+        "Occupation": "11"
+    }
+}

@@ -1,0 +1,33 @@
+{
+    "relationships": [
+        {
+            "name": "Jean Marais",
+            "href": "https://www.whosdatedwho.com/dating/jean-marais",
+            "relationship_type": 2,
+            "start_date": "1948",
+            "end_date": "1959",
+            "length": "11 years",
+            "start_months_since_1900": 576,
+            "end_months_since_1900": 708,
+            "length_in_months": 132
+        }
+    ],
+    "details": {
+        "First Name": "George",
+        "Middle Name": "NA",
+        "Last Name": "Reich",
+        "Maiden Name": "NA",
+        "Full Name at Birth": "George Reich",
+        "Alternative Name": "George Reich, Georges Reich",
+        "Birthday": "1926",
+        "Birthplace": "USA",
+        "Height": "NA",
+        "Weight": "NA",
+        "Zodiac Sign": "6",
+        "Sexuality": "NA",
+        "Religion": "1",
+        "Ethnicity": "1",
+        "Nationality": "91",
+        "Occupation": "8"
+    }
+}

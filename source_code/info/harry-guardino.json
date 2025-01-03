@@ -1,0 +1,66 @@
+{
+    "relationships": [
+        {
+            "name": "Elyssa Paternoster",
+            "href": "https://www.whosdatedwho.com/dating/elyssa-paternoster",
+            "relationship_type": 4,
+            "start_date": "1985",
+            "end_date": "1995",
+            "length": "10 years",
+            "start_months_since_1900": 1020,
+            "end_months_since_1900": 1140,
+            "length_in_months": 120
+        },
+        {
+            "name": "Carroll Baker",
+            "href": "https://www.whosdatedwho.com/dating/carroll-baker",
+            "relationship_type": 2,
+            "start_date": "Oct 1969",
+            "end_date": "Nov 1969",
+            "length": "1 month",
+            "start_months_since_1900": 837,
+            "end_months_since_1900": 838,
+            "length_in_months": 1
+        },
+        {
+            "name": "Lauren Bacall",
+            "href": "https://www.whosdatedwho.com/dating/lauren-bacall",
+            "relationship_type": 2,
+            "start_date": "",
+            "end_date": "",
+            "length": "-",
+            "start_months_since_1900": -1,
+            "end_months_since_1900": -1,
+            "length_in_months": -1
+        },
+        {
+            "name": "Linda Thorson",
+            "href": "https://www.whosdatedwho.com/dating/linda-thorson",
+            "relationship_type": 2,
+            "start_date": "",
+            "end_date": "",
+            "length": "-",
+            "start_months_since_1900": -1,
+            "end_months_since_1900": -1,
+            "length_in_months": -1
+        }
+    ],
+    "details": {
+        "First Name": "Harry",
+        "Middle Name": "NA",
+        "Last Name": "Guardino",
+        "Maiden Name": "NA",
+        "Full Name at Birth": "Harry Vincent Guardino",
+        "Alternative Name": "NA",
+        "Birthday": "1925",
+        "Birthplace": "USA",
+        "Height": "178",
+        "Weight": "NA",
+        "Zodiac Sign": "13",
+        "Sexuality": "Straight",
+        "Religion": "1",
+        "Ethnicity": "6",
+        "Nationality": "91",
+        "Occupation": "8"
+    }
+}

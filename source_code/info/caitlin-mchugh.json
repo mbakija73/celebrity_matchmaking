@@ -1,0 +1,33 @@
+{
+    "relationships": [
+        {
+            "name": "John Stamos",
+            "href": "https://www.whosdatedwho.com/dating/john-stamos",
+            "relationship_type": 4,
+            "start_date": "Mar 2016",
+            "end_date": "present",
+            "length": "8 years",
+            "start_months_since_1900": 1394,
+            "end_months_since_1900": -1,
+            "length_in_months": 96
+        }
+    ],
+    "details": {
+        "First Name": "Caitlin",
+        "Middle Name": "NA",
+        "Last Name": "Stamos",
+        "Maiden Name": "McHugh",
+        "Full Name at Birth": "Caitlin Maureen McHugh",
+        "Alternative Name": "NA",
+        "Birthday": "1986",
+        "Birthplace": "CA",
+        "Height": "173",
+        "Weight": "120lbs (54 kg)",
+        "Zodiac Sign": "3",
+        "Sexuality": "Straight",
+        "Religion": "1",
+        "Ethnicity": "8",
+        "Nationality": "91",
+        "Occupation": "8"
+    }
+}

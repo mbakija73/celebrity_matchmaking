@@ -1,0 +1,55 @@
+{
+    "relationships": [
+        {
+            "name": "Anthony",
+            "href": "https://www.whosdatedwho.com/dating/anthony",
+            "relationship_type": 4,
+            "start_date": "2000",
+            "end_date": "present",
+            "length": "24 years",
+            "start_months_since_1900": 1200,
+            "end_months_since_1900": -1,
+            "length_in_months": 288
+        },
+        {
+            "name": "David Spade",
+            "href": "https://www.whosdatedwho.com/dating/david-spade",
+            "relationship_type": 2,
+            "start_date": "Feb 1996",
+            "end_date": "May 1996",
+            "length": "3 months",
+            "start_months_since_1900": 1153,
+            "end_months_since_1900": 1156,
+            "length_in_months": 3
+        },
+        {
+            "name": "Shemar Moore",
+            "href": "https://www.whosdatedwho.com/dating/shemar-moore",
+            "relationship_type": 3,
+            "start_date": "1993",
+            "end_date": "1994",
+            "length": "1 year",
+            "start_months_since_1900": 1116,
+            "end_months_since_1900": 1128,
+            "length_in_months": 12
+        }
+    ],
+    "details": {
+        "First Name": "Bobbie",
+        "Middle Name": "J",
+        "Last Name": "NA",
+        "Maiden Name": "Phillips",
+        "Full Name at Birth": "Bobbie J. Phillips",
+        "Alternative Name": "Chameleon",
+        "Birthday": "1972",
+        "Birthplace": "South Carolina",
+        "Height": "163",
+        "Weight": "119lbs (54 kg)",
+        "Zodiac Sign": "9",
+        "Sexuality": "Straight",
+        "Religion": "1",
+        "Ethnicity": "6",
+        "Nationality": "91",
+        "Occupation": "8"
+    }
+}

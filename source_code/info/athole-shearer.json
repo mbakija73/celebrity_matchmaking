@@ -1,0 +1,44 @@
+{
+    "relationships": [
+        {
+            "name": "Howard Hawks",
+            "href": "https://www.whosdatedwho.com/dating/howard-hawks",
+            "relationship_type": 4,
+            "start_date": "Nov 1927",
+            "end_date": "4th Dec 1940",
+            "length": "13 years",
+            "start_months_since_1900": 334,
+            "end_months_since_1900": 491,
+            "length_in_months": 156
+        },
+        {
+            "name": "John Ward",
+            "href": "https://www.whosdatedwho.com/dating/john-ward-144805",
+            "relationship_type": 4,
+            "start_date": "1922",
+            "end_date": "Apr 1928",
+            "length": "6 years",
+            "start_months_since_1900": 264,
+            "end_months_since_1900": 339,
+            "length_in_months": 72
+        }
+    ],
+    "details": {
+        "First Name": "Athole",
+        "Middle Name": "Dane",
+        "Last Name": "Shearer",
+        "Maiden Name": "NA",
+        "Full Name at Birth": "Athole Dane Shearer",
+        "Alternative Name": "NA",
+        "Birthday": "1900",
+        "Birthplace": "Canada",
+        "Height": "NA",
+        "Weight": "NA",
+        "Zodiac Sign": "5",
+        "Sexuality": "Straight",
+        "Religion": "1",
+        "Ethnicity": "6",
+        "Nationality": "90",
+        "Occupation": "8"
+    }
+}

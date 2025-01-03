@@ -1,0 +1,44 @@
+{
+    "relationships": [
+        {
+            "name": "Dana Silver (I)",
+            "href": "https://www.whosdatedwho.com/dating/dana-silver-i",
+            "relationship_type": 4,
+            "start_date": "2010",
+            "end_date": "present",
+            "length": "14 years",
+            "start_months_since_1900": 1320,
+            "end_months_since_1900": -1,
+            "length_in_months": 168
+        },
+        {
+            "name": "Woody Allen",
+            "href": "https://www.whosdatedwho.com/dating/woody-allen",
+            "relationship_type": 3,
+            "start_date": "1987",
+            "end_date": "1988",
+            "length": "1 year",
+            "start_months_since_1900": 1044,
+            "end_months_since_1900": 1056,
+            "length_in_months": 12
+        }
+    ],
+    "details": {
+        "First Name": "Dylan",
+        "Middle Name": "O'Sullivan",
+        "Last Name": "Farrow",
+        "Maiden Name": "NA",
+        "Full Name at Birth": "Dylan O'Sullivan Farrow",
+        "Alternative Name": "Dylan Farrow, Eliza Farrow, Malone Farrow",
+        "Birthday": "1985",
+        "Birthplace": "USA",
+        "Height": "NA",
+        "Weight": "NA",
+        "Zodiac Sign": "8",
+        "Sexuality": "Straight",
+        "Religion": "1",
+        "Ethnicity": "6",
+        "Nationality": "91",
+        "Occupation": "12"
+    }
+}

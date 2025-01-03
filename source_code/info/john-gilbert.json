@@ -1,0 +1,253 @@
+{
+    "relationships": [
+        {
+            "name": "Sally Blane",
+            "href": "https://www.whosdatedwho.com/dating/sally-blane",
+            "relationship_type": 3,
+            "start_date": "1934",
+            "end_date": "1934",
+            "length": "-",
+            "start_months_since_1900": 408,
+            "end_months_since_1900": 408,
+            "length_in_months": -1
+        },
+        {
+            "name": "Marlene Dietrich",
+            "href": "https://www.whosdatedwho.com/dating/marlene-dietrich",
+            "relationship_type": 2,
+            "start_date": "1934",
+            "end_date": "9th Jan 1936",
+            "length": "2 years",
+            "start_months_since_1900": 408,
+            "end_months_since_1900": 432,
+            "length_in_months": 24
+        },
+        {
+            "name": "Renee Torres",
+            "href": "https://www.whosdatedwho.com/dating/renee-torres",
+            "relationship_type": 2,
+            "start_date": "1933",
+            "end_date": "1935",
+            "length": "2 years",
+            "start_months_since_1900": 396,
+            "end_months_since_1900": 420,
+            "length_in_months": 24
+        },
+        {
+            "name": "Virginia Bruce",
+            "href": "https://www.whosdatedwho.com/dating/virginia-bruce",
+            "relationship_type": 4,
+            "start_date": "1931",
+            "end_date": "May 1934",
+            "length": "3 years",
+            "start_months_since_1900": 372,
+            "end_months_since_1900": 412,
+            "length_in_months": 36
+        },
+        {
+            "name": "Lupe Velez",
+            "href": "https://www.whosdatedwho.com/dating/lupe-velez",
+            "relationship_type": 2,
+            "start_date": "1931",
+            "end_date": "1931",
+            "length": "-",
+            "start_months_since_1900": 372,
+            "end_months_since_1900": 372,
+            "length_in_months": -1
+        },
+        {
+            "name": "Ina Claire",
+            "href": "https://www.whosdatedwho.com/dating/ina-claire",
+            "relationship_type": 4,
+            "start_date": "Mar 1929",
+            "end_date": "Aug 1931",
+            "length": "2 years",
+            "start_months_since_1900": 350,
+            "end_months_since_1900": 379,
+            "length_in_months": 24
+        },
+        {
+            "name": "Ren\u00e9e Ador\u00e9e",
+            "href": "https://www.whosdatedwho.com/dating/renee-adoree",
+            "relationship_type": 2,
+            "start_date": "1928",
+            "end_date": "1928",
+            "length": "-",
+            "start_months_since_1900": 336,
+            "end_months_since_1900": 336,
+            "length_in_months": -1
+        },
+        {
+            "name": "Jeanne Eagels",
+            "href": "https://www.whosdatedwho.com/dating/jeanne-eagels",
+            "relationship_type": 3,
+            "start_date": "Aug 1927",
+            "end_date": "Sep 1927",
+            "length": "1 month",
+            "start_months_since_1900": 331,
+            "end_months_since_1900": 332,
+            "length_in_months": 1
+        },
+        {
+            "name": "Greta Garbo",
+            "href": "https://www.whosdatedwho.com/dating/greta-garbo",
+            "relationship_type": 2,
+            "start_date": "1926",
+            "end_date": "1927",
+            "length": "1 year",
+            "start_months_since_1900": 312,
+            "end_months_since_1900": 324,
+            "length_in_months": 12
+        },
+        {
+            "name": "Laurette Taylor",
+            "href": "https://www.whosdatedwho.com/dating/laurette-taylor",
+            "relationship_type": 2,
+            "start_date": "1924",
+            "end_date": "1924",
+            "length": "-",
+            "start_months_since_1900": 288,
+            "end_months_since_1900": 288,
+            "length_in_months": -1
+        },
+        {
+            "name": "Norma Shearer",
+            "href": "https://www.whosdatedwho.com/dating/norma-shearer",
+            "relationship_type": 3,
+            "start_date": "1924",
+            "end_date": "1924",
+            "length": "-",
+            "start_months_since_1900": 288,
+            "end_months_since_1900": 288,
+            "length_in_months": -1
+        },
+        {
+            "name": "Barbara La Marr",
+            "href": "https://www.whosdatedwho.com/dating/barbara-la-marr",
+            "relationship_type": 3,
+            "start_date": "1923",
+            "end_date": "1923",
+            "length": "-",
+            "start_months_since_1900": 276,
+            "end_months_since_1900": 276,
+            "length_in_months": -1
+        },
+        {
+            "name": "Leatrice Joy",
+            "href": "https://www.whosdatedwho.com/dating/leatrice-joy",
+            "relationship_type": 4,
+            "start_date": "Feb 1920",
+            "end_date": "May 1925",
+            "length": "5 years",
+            "start_months_since_1900": 241,
+            "end_months_since_1900": 304,
+            "length_in_months": 60
+        },
+        {
+            "name": "Olivia Burwell",
+            "href": "https://www.whosdatedwho.com/dating/olivia-burwell",
+            "relationship_type": 4,
+            "start_date": "1917",
+            "end_date": "30th Dec 1922",
+            "length": "5 years",
+            "start_months_since_1900": 204,
+            "end_months_since_1900": 275,
+            "length_in_months": 60
+        },
+        {
+            "name": "Clara Bow",
+            "href": "https://www.whosdatedwho.com/dating/clara-bow",
+            "relationship_type": 2,
+            "start_date": "",
+            "end_date": "",
+            "length": "-",
+            "start_months_since_1900": -1,
+            "end_months_since_1900": -1,
+            "length_in_months": -1
+        },
+        {
+            "name": "Lilyan Tashman",
+            "href": "https://www.whosdatedwho.com/dating/lilyan-tashman",
+            "relationship_type": 2,
+            "start_date": "",
+            "end_date": "",
+            "length": "-",
+            "start_months_since_1900": -1,
+            "end_months_since_1900": -1,
+            "length_in_months": -1
+        },
+        {
+            "name": "Miriam Hopkins",
+            "href": "https://www.whosdatedwho.com/dating/miriam-hopkins",
+            "relationship_type": 3,
+            "start_date": "",
+            "end_date": "",
+            "length": "-",
+            "start_months_since_1900": -1,
+            "end_months_since_1900": -1,
+            "length_in_months": -1
+        },
+        {
+            "name": "Marjorie King",
+            "href": "https://www.whosdatedwho.com/dating/marjorie-king",
+            "relationship_type": 2,
+            "start_date": "",
+            "end_date": "",
+            "length": "-",
+            "start_months_since_1900": -1,
+            "end_months_since_1900": -1,
+            "length_in_months": -1
+        },
+        {
+            "name": "Anna May Wong",
+            "href": "https://www.whosdatedwho.com/dating/anna-may-wong",
+            "relationship_type": 2,
+            "start_date": "",
+            "end_date": "",
+            "length": "-",
+            "start_months_since_1900": -1,
+            "end_months_since_1900": -1,
+            "length_in_months": -1
+        },
+        {
+            "name": "Bebe Daniels",
+            "href": "https://www.whosdatedwho.com/dating/bebe-daniels",
+            "relationship_type": 3,
+            "start_date": "",
+            "end_date": "",
+            "length": "-",
+            "start_months_since_1900": -1,
+            "end_months_since_1900": -1,
+            "length_in_months": -1
+        },
+        {
+            "name": "Carole Lombard",
+            "href": "https://www.whosdatedwho.com/dating/carole-lombard",
+            "relationship_type": 2,
+            "start_date": "",
+            "end_date": "",
+            "length": "-",
+            "start_months_since_1900": -1,
+            "end_months_since_1900": -1,
+            "length_in_months": -1
+        }
+    ],
+    "details": {
+        "First Name": "John",
+        "Middle Name": "Cecil",
+        "Last Name": "Gilbert",
+        "Maiden Name": "NA",
+        "Full Name at Birth": "John Cecil Pringle",
+        "Alternative Name": "John Cecil Pringle",
+        "Birthday": "1897",
+        "Birthplace": "Utah",
+        "Height": "180",
+        "Weight": "NA",
+        "Zodiac Sign": "8",
+        "Sexuality": "Straight",
+        "Religion": "1",
+        "Ethnicity": "6",
+        "Nationality": "91",
+        "Occupation": "8"
+    }
+}

@@ -1,0 +1,33 @@
+{
+    "relationships": [
+        {
+            "name": "Larry King",
+            "href": "https://www.whosdatedwho.com/dating/larry-king",
+            "relationship_type": 4,
+            "start_date": "1950",
+            "end_date": "1953",
+            "length": "3 years",
+            "start_months_since_1900": 600,
+            "end_months_since_1900": 636,
+            "length_in_months": 36
+        }
+    ],
+    "details": {
+        "First Name": "Freda",
+        "Middle Name": "NA",
+        "Last Name": "Miller",
+        "Maiden Name": "NA",
+        "Full Name at Birth": "NA",
+        "Alternative Name": "NA",
+        "Birthday": "NA",
+        "Birthplace": "NA",
+        "Height": "NA",
+        "Weight": "NA",
+        "Zodiac Sign": "2",
+        "Sexuality": "NA",
+        "Religion": "1",
+        "Ethnicity": "1",
+        "Nationality": "65",
+        "Occupation": "19"
+    }
+}

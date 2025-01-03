@@ -1,0 +1,44 @@
+{
+    "relationships": [
+        {
+            "name": "Sarah Joy Brown",
+            "href": "https://www.whosdatedwho.com/dating/sarah-brown",
+            "relationship_type": 2,
+            "start_date": "1997",
+            "end_date": "2000",
+            "length": "3 years",
+            "start_months_since_1900": 1164,
+            "end_months_since_1900": 1200,
+            "length_in_months": 36
+        },
+        {
+            "name": "Deborah Shelton",
+            "href": "https://www.whosdatedwho.com/dating/deborah-shelton",
+            "relationship_type": 4,
+            "start_date": "Dec 1976",
+            "end_date": "Dec 1976",
+            "length": "-",
+            "start_months_since_1900": 923,
+            "end_months_since_1900": 923,
+            "length_in_months": -1
+        }
+    ],
+    "details": {
+        "First Name": "Shuki",
+        "Middle Name": "NA",
+        "Last Name": "Levy",
+        "Maiden Name": "NA",
+        "Full Name at Birth": "NA",
+        "Alternative Name": "NA",
+        "Birthday": "1947",
+        "Birthplace": "Israel",
+        "Height": "NA",
+        "Weight": "NA",
+        "Zodiac Sign": "4",
+        "Sexuality": "Straight",
+        "Religion": "31",
+        "Ethnicity": "6",
+        "Nationality": "11",
+        "Occupation": "1"
+    }
+}

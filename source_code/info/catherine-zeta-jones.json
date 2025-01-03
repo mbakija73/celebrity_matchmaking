@@ -1,0 +1,88 @@
+{
+    "relationships": [
+        {
+            "name": "Michael Douglas",
+            "href": "https://www.whosdatedwho.com/dating/michael-douglas",
+            "relationship_type": 4,
+            "start_date": "Mar 1999",
+            "end_date": "present",
+            "length": "25 years",
+            "start_months_since_1900": 1190,
+            "end_months_since_1900": -1,
+            "length_in_months": 300
+        },
+        {
+            "name": "Mick Hucknall",
+            "href": "https://www.whosdatedwho.com/dating/mick-hucknall",
+            "relationship_type": 2,
+            "start_date": "1998",
+            "end_date": "1998",
+            "length": "-",
+            "start_months_since_1900": 1176,
+            "end_months_since_1900": 1176,
+            "length_in_months": -1
+        },
+        {
+            "name": "Jon Peters",
+            "href": "https://www.whosdatedwho.com/dating/jon-peters",
+            "relationship_type": 2,
+            "start_date": "1996",
+            "end_date": "1996",
+            "length": "-",
+            "start_months_since_1900": 1152,
+            "end_months_since_1900": 1152,
+            "length_in_months": -1
+        },
+        {
+            "name": "Angus Macfadyen",
+            "href": "https://www.whosdatedwho.com/dating/angus-macfadyen",
+            "relationship_type": 2,
+            "start_date": "Mar 1995",
+            "end_date": "1996",
+            "length": "10 months",
+            "start_months_since_1900": 1142,
+            "end_months_since_1900": 1152,
+            "length_in_months": 10
+        },
+        {
+            "name": "Paul McGann",
+            "href": "https://www.whosdatedwho.com/dating/paul-mcgann",
+            "relationship_type": 2,
+            "start_date": "1995",
+            "end_date": "1995",
+            "length": "-",
+            "start_months_since_1900": 1140,
+            "end_months_since_1900": 1140,
+            "length_in_months": -1
+        },
+        {
+            "name": "John Leslie",
+            "href": "https://www.whosdatedwho.com/dating/john-leslie-tv-personality",
+            "relationship_type": 2,
+            "start_date": "1991",
+            "end_date": "Aug 1993",
+            "length": "2 years",
+            "start_months_since_1900": 1092,
+            "end_months_since_1900": 1123,
+            "length_in_months": 24
+        }
+    ],
+    "details": {
+        "First Name": "Catherine",
+        "Middle Name": "NA",
+        "Last Name": "Zet",
+        "Maiden Name": "Zeta-Jones",
+        "Full Name at Birth": "Catherine Jones",
+        "Alternative Name": "Catherine Zeta-Jones Douglas, Catherine Zeta-Jones, Catherine Jones",
+        "Birthday": "1969",
+        "Birthplace": "UK",
+        "Height": "171",
+        "Weight": "125lbs (57 kg)",
+        "Zodiac Sign": "10",
+        "Sexuality": "Straight",
+        "Religion": "13",
+        "Ethnicity": "6",
+        "Nationality": "83",
+        "Occupation": "8"
+    }
+}

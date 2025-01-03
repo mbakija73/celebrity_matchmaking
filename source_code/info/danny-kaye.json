@@ -1,0 +1,132 @@
+{
+    "relationships": [
+        {
+            "name": "Princess Margaret",
+            "href": "https://www.whosdatedwho.com/dating/princess-margaret",
+            "relationship_type": 3,
+            "start_date": "1957",
+            "end_date": "1957",
+            "length": "-",
+            "start_months_since_1900": 684,
+            "end_months_since_1900": 684,
+            "length_in_months": -1
+        },
+        {
+            "name": "Martha Hyer",
+            "href": "https://www.whosdatedwho.com/dating/martha-hyer",
+            "relationship_type": 3,
+            "start_date": "Sep 1954",
+            "end_date": "Oct 1954",
+            "length": "1 month",
+            "start_months_since_1900": 656,
+            "end_months_since_1900": 657,
+            "length_in_months": 1
+        },
+        {
+            "name": "Laurence Olivier",
+            "href": "https://www.whosdatedwho.com/dating/laurence-olivier",
+            "relationship_type": 2,
+            "start_date": "1949",
+            "end_date": "1950",
+            "length": "1 year",
+            "start_months_since_1900": 588,
+            "end_months_since_1900": 600,
+            "length_in_months": 12
+        },
+        {
+            "name": "Eve Arden",
+            "href": "https://www.whosdatedwho.com/dating/eve-arden",
+            "relationship_type": 2,
+            "start_date": "1946",
+            "end_date": "1949",
+            "length": "3 years",
+            "start_months_since_1900": 552,
+            "end_months_since_1900": 588,
+            "length_in_months": 36
+        },
+        {
+            "name": "Sylvia Fine",
+            "href": "https://www.whosdatedwho.com/dating/sylvia-fine",
+            "relationship_type": 4,
+            "start_date": "Jan 1939",
+            "end_date": "3rd Mar 1987",
+            "length": "48 years",
+            "start_months_since_1900": 468,
+            "end_months_since_1900": 1046,
+            "length_in_months": 576
+        },
+        {
+            "name": "James Starbuck",
+            "href": "https://www.whosdatedwho.com/dating/james-starbuck",
+            "relationship_type": 3,
+            "start_date": "",
+            "end_date": "",
+            "length": "-",
+            "start_months_since_1900": -1,
+            "end_months_since_1900": -1,
+            "length_in_months": -1
+        },
+        {
+            "name": "Tab Hunter",
+            "href": "https://www.whosdatedwho.com/dating/tab-hunter",
+            "relationship_type": 3,
+            "start_date": "",
+            "end_date": "",
+            "length": "-",
+            "start_months_since_1900": -1,
+            "end_months_since_1900": -1,
+            "length_in_months": -1
+        },
+        {
+            "name": "Shirley MacLaine",
+            "href": "https://www.whosdatedwho.com/dating/shirley-maclaine",
+            "relationship_type": 2,
+            "start_date": "",
+            "end_date": "",
+            "length": "-",
+            "start_months_since_1900": -1,
+            "end_months_since_1900": -1,
+            "length_in_months": -1
+        },
+        {
+            "name": "Jessie Matthews",
+            "href": "https://www.whosdatedwho.com/dating/jessie-matthews",
+            "relationship_type": 3,
+            "start_date": "",
+            "end_date": "",
+            "length": "-",
+            "start_months_since_1900": -1,
+            "end_months_since_1900": -1,
+            "length_in_months": -1
+        },
+        {
+            "name": "Pat Kirkwood",
+            "href": "https://www.whosdatedwho.com/dating/pat-kirkwood",
+            "relationship_type": 2,
+            "start_date": "",
+            "end_date": "",
+            "length": "-",
+            "start_months_since_1900": -1,
+            "end_months_since_1900": -1,
+            "length_in_months": -1
+        }
+    ],
+    "details": {
+        "First Name": "Danny",
+        "Middle Name": "NA",
+        "Last Name": "Kaye",
+        "Maiden Name": "NA",
+        "Full Name at Birth": "Daniel David Kaminsky",
+        "Alternative Name": "NA",
+        "Birthday": "1911",
+        "Birthplace": "USA",
+        "Height": "180",
+        "Weight": "NA",
+        "Zodiac Sign": "13",
+        "Sexuality": "Bisexual",
+        "Religion": "31",
+        "Ethnicity": "6",
+        "Nationality": "91",
+        "Occupation": "8"
+    }
+}

@@ -1,0 +1,44 @@
+{
+    "relationships": [
+        {
+            "name": "Houston",
+            "href": "https://www.whosdatedwho.com/dating/houston-actress",
+            "relationship_type": 3,
+            "start_date": "1999",
+            "end_date": "1999",
+            "length": "-",
+            "start_months_since_1900": 1188,
+            "end_months_since_1900": 1188,
+            "length_in_months": -1
+        },
+        {
+            "name": "Chad Thomas",
+            "href": "https://www.whosdatedwho.com/dating/chad-thomas",
+            "relationship_type": 2,
+            "start_date": "1992",
+            "end_date": "1992",
+            "length": "-",
+            "start_months_since_1900": 1104,
+            "end_months_since_1900": 1104,
+            "length_in_months": -1
+        }
+    ],
+    "details": {
+        "First Name": "Misty",
+        "Middle Name": "NA",
+        "Last Name": "Rain",
+        "Maiden Name": "NA",
+        "Full Name at Birth": "NA",
+        "Alternative Name": "NA",
+        "Birthday": "1969",
+        "Birthplace": "California",
+        "Height": "170",
+        "Weight": "NA",
+        "Zodiac Sign": "12",
+        "Sexuality": "Bisexual",
+        "Religion": "1",
+        "Ethnicity": "6",
+        "Nationality": "91",
+        "Occupation": "16"
+    }
+}

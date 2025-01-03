@@ -1,0 +1,44 @@
+{
+    "relationships": [
+        {
+            "name": "Dan Gilroy",
+            "href": "https://www.whosdatedwho.com/dating/dan-gilroy",
+            "relationship_type": 4,
+            "start_date": "1992",
+            "end_date": "present",
+            "length": "32 years",
+            "start_months_since_1900": 1104,
+            "end_months_since_1900": -1,
+            "length_in_months": 384
+        },
+        {
+            "name": "Todd Fisher",
+            "href": "https://www.whosdatedwho.com/dating/todd-fisher",
+            "relationship_type": 2,
+            "start_date": "1987",
+            "end_date": "1987",
+            "length": "-",
+            "start_months_since_1900": 1044,
+            "end_months_since_1900": 1044,
+            "length_in_months": -1
+        }
+    ],
+    "details": {
+        "First Name": "Rene",
+        "Middle Name": "NA",
+        "Last Name": "Russo",
+        "Maiden Name": "NA",
+        "Full Name at Birth": "Rene Marie Russo",
+        "Alternative Name": "Renee Russo",
+        "Birthday": "1954",
+        "Birthplace": "United States",
+        "Height": "173",
+        "Weight": "NA",
+        "Zodiac Sign": "9",
+        "Sexuality": "Straight",
+        "Religion": "1",
+        "Ethnicity": "6",
+        "Nationality": "91",
+        "Occupation": "8"
+    }
+}

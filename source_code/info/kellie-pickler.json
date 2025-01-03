@@ -1,0 +1,55 @@
+{
+    "relationships": [
+        {
+            "name": "Kyle Jacobs",
+            "href": "https://www.whosdatedwho.com/dating/kyle-jacobs",
+            "relationship_type": 4,
+            "start_date": "Jun 2008",
+            "end_date": "Feb 2023",
+            "length": "14 years",
+            "start_months_since_1900": 1301,
+            "end_months_since_1900": 1477,
+            "length_in_months": 168
+        },
+        {
+            "name": "Kid Rock",
+            "href": "https://www.whosdatedwho.com/dating/kid-rock",
+            "relationship_type": 2,
+            "start_date": "May 2007",
+            "end_date": "May 2008",
+            "length": "1 year",
+            "start_months_since_1900": 1288,
+            "end_months_since_1900": 1300,
+            "length_in_months": 12
+        },
+        {
+            "name": "Jordin Tootoo",
+            "href": "https://www.whosdatedwho.com/dating/jordin-tootoo",
+            "relationship_type": 2,
+            "start_date": "2007",
+            "end_date": "2007",
+            "length": "-",
+            "start_months_since_1900": 1284,
+            "end_months_since_1900": 1284,
+            "length_in_months": -1
+        }
+    ],
+    "details": {
+        "First Name": "Kellie",
+        "Middle Name": "Dawn",
+        "Last Name": "Jacobs",
+        "Maiden Name": "Pickler",
+        "Full Name at Birth": "Kellie Dawn Pickler",
+        "Alternative Name": "Kelsie, Pickles, Kellie Dawn Pickler Jacobs, Kelli Pickler",
+        "Birthday": "1986",
+        "Birthplace": "USA",
+        "Height": "155",
+        "Weight": "100lbs (45 kg)",
+        "Zodiac Sign": "8",
+        "Sexuality": "Straight",
+        "Religion": "1",
+        "Ethnicity": "6",
+        "Nationality": "91",
+        "Occupation": "1"
+    }
+}

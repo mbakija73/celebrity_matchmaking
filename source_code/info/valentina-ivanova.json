@@ -1,0 +1,33 @@
+{
+    "relationships": [
+        {
+            "name": "Cantinflas",
+            "href": "https://www.whosdatedwho.com/dating/cantinflas",
+            "relationship_type": 4,
+            "start_date": "1930",
+            "end_date": "1966",
+            "length": "36 years",
+            "start_months_since_1900": 360,
+            "end_months_since_1900": 792,
+            "length_in_months": 432
+        }
+    ],
+    "details": {
+        "First Name": "Valentina",
+        "Middle Name": "NA",
+        "Last Name": "Ivanova",
+        "Maiden Name": "NA",
+        "Full Name at Birth": "Valentina Ivanova Zubareff",
+        "Alternative Name": "Valita, Valentina Ivanova Zubareff, \u0412\u0430\u043b\u0435\u043d\u0442\u0438\u0301\u043d\u0430 \u0418\u0432\u0430\u0301\u043d\u043e\u0432\u0430 \u0417\u0443\u0301\u0431\u0430\u0440\u0435\u0432\u0430, Valentina Ivanova",
+        "Birthday": "1915",
+        "Birthplace": "Russia",
+        "Height": "NA",
+        "Weight": "NA",
+        "Zodiac Sign": "5",
+        "Sexuality": "Straight",
+        "Religion": "1",
+        "Ethnicity": "6",
+        "Nationality": "7",
+        "Occupation": "14"
+    }
+}

@@ -1,0 +1,66 @@
+{
+    "relationships": [
+        {
+            "name": "Ryan Anderson",
+            "href": "https://www.whosdatedwho.com/dating/ryan-anderson",
+            "relationship_type": 2,
+            "start_date": "Feb 2011",
+            "end_date": "Aug 2013",
+            "length": "2 years",
+            "start_months_since_1900": 1333,
+            "end_months_since_1900": 1363,
+            "length_in_months": 24
+        },
+        {
+            "name": "Wes Hayden",
+            "href": "https://www.whosdatedwho.com/dating/wes-hayden",
+            "relationship_type": 2,
+            "start_date": "Sep 2010",
+            "end_date": "2011",
+            "length": "4 months",
+            "start_months_since_1900": 1328,
+            "end_months_since_1900": 1332,
+            "length_in_months": 4
+        },
+        {
+            "name": "Chris Campoli",
+            "href": "https://www.whosdatedwho.com/dating/chris-campoli",
+            "relationship_type": 2,
+            "start_date": "2006",
+            "end_date": "Sep 2010",
+            "length": "4 years",
+            "start_months_since_1900": 1272,
+            "end_months_since_1900": 1328,
+            "length_in_months": 48
+        },
+        {
+            "name": "Carl Pavano",
+            "href": "https://www.whosdatedwho.com/dating/carl-pavano",
+            "relationship_type": 2,
+            "start_date": "2005",
+            "end_date": "2006",
+            "length": "1 year",
+            "start_months_since_1900": 1260,
+            "end_months_since_1900": 1272,
+            "length_in_months": 12
+        }
+    ],
+    "details": {
+        "First Name": "Gia",
+        "Middle Name": "Mara",
+        "Last Name": "Allemand",
+        "Maiden Name": "NA",
+        "Full Name at Birth": "Gia Marie Allemand",
+        "Alternative Name": "Gia Marie Allemand, Gia Mara Allemand, Gia Allemand",
+        "Birthday": "1983",
+        "Birthplace": "USA",
+        "Height": "165",
+        "Weight": "119lbs (54 kg)",
+        "Zodiac Sign": "6",
+        "Sexuality": "Straight",
+        "Religion": "13",
+        "Ethnicity": "6",
+        "Nationality": "91",
+        "Occupation": "15"
+    }
+}

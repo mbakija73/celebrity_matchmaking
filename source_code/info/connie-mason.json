@@ -1,0 +1,66 @@
+{
+    "relationships": [
+        {
+            "name": "William Kerwin",
+            "href": "https://www.whosdatedwho.com/dating/william-kerwin",
+            "relationship_type": 4,
+            "start_date": "1963",
+            "end_date": "21st Oct 1989",
+            "length": "26 years",
+            "start_months_since_1900": 756,
+            "end_months_since_1900": 1077,
+            "length_in_months": 312
+        },
+        {
+            "name": "Oleg Cassini",
+            "href": "https://www.whosdatedwho.com/dating/oleg-cassini",
+            "relationship_type": 2,
+            "start_date": "1963",
+            "end_date": "1963",
+            "length": "-",
+            "start_months_since_1900": 756,
+            "end_months_since_1900": 756,
+            "length_in_months": -1
+        },
+        {
+            "name": "Tony Young",
+            "href": "https://www.whosdatedwho.com/dating/tony-young",
+            "relationship_type": 4,
+            "start_date": "1958",
+            "end_date": "1962",
+            "length": "4 years",
+            "start_months_since_1900": 696,
+            "end_months_since_1900": 744,
+            "length_in_months": 48
+        },
+        {
+            "name": "Walter Mason (1)",
+            "href": "https://www.whosdatedwho.com/dating/walter-mason",
+            "relationship_type": 4,
+            "start_date": "1954",
+            "end_date": "1958",
+            "length": "4 years",
+            "start_months_since_1900": 648,
+            "end_months_since_1900": 696,
+            "length_in_months": 48
+        }
+    ],
+    "details": {
+        "First Name": "Connie",
+        "Middle Name": "NA",
+        "Last Name": "Mason",
+        "Maiden Name": "Cusick",
+        "Full Name at Birth": "Connie Cusick",
+        "Alternative Name": "Connie Mason, Miss June 1963",
+        "Birthday": "1937",
+        "Birthplace": "DC",
+        "Height": "168",
+        "Weight": "115lbs (52 kg)",
+        "Zodiac Sign": "11",
+        "Sexuality": "Straight",
+        "Religion": "13",
+        "Ethnicity": "6",
+        "Nationality": "91",
+        "Occupation": "16"
+    }
+}

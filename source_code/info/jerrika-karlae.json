@@ -1,0 +1,44 @@
+{
+    "relationships": [
+        {
+            "name": "Young Thug",
+            "href": "https://www.whosdatedwho.com/dating/young-thug",
+            "relationship_type": 2,
+            "start_date": "May 2014",
+            "end_date": "3rd Oct 2017",
+            "length": "3 years",
+            "start_months_since_1900": 1372,
+            "end_months_since_1900": 1413,
+            "length_in_months": 36
+        },
+        {
+            "name": "Future",
+            "href": "https://www.whosdatedwho.com/dating/future-rapper",
+            "relationship_type": 1,
+            "start_date": "",
+            "end_date": "",
+            "length": "-",
+            "start_months_since_1900": -1,
+            "end_months_since_1900": -1,
+            "length_in_months": -1
+        }
+    ],
+    "details": {
+        "First Name": "Jerrika",
+        "Middle Name": "NA",
+        "Last Name": "Karlae",
+        "Maiden Name": "NA",
+        "Full Name at Birth": "Jerrika Karlae",
+        "Alternative Name": "Jerrika Karlae, Karlae",
+        "Birthday": "1993",
+        "Birthplace": "NA",
+        "Height": "165",
+        "Weight": "NA",
+        "Zodiac Sign": "11",
+        "Sexuality": "Straight",
+        "Religion": "18",
+        "Ethnicity": "2",
+        "Nationality": "91",
+        "Occupation": "18"
+    }
+}

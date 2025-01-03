@@ -1,0 +1,44 @@
+{
+    "relationships": [
+        {
+            "name": "Lisa Mesloh",
+            "href": "https://www.whosdatedwho.com/dating/lisa-mesloh",
+            "relationship_type": 4,
+            "start_date": "2003",
+            "end_date": "present",
+            "length": "21 years",
+            "start_months_since_1900": 1236,
+            "end_months_since_1900": -1,
+            "length_in_months": 252
+        },
+        {
+            "name": "Eva LaRue",
+            "href": "https://www.whosdatedwho.com/dating/eva-larue",
+            "relationship_type": 4,
+            "start_date": "1991",
+            "end_date": "1994",
+            "length": "3 years",
+            "start_months_since_1900": 1092,
+            "end_months_since_1900": 1128,
+            "length_in_months": 36
+        }
+    ],
+    "details": {
+        "First Name": "John",
+        "Middle Name": "Gerald",
+        "Last Name": "O'Hurley",
+        "Maiden Name": "NA",
+        "Full Name at Birth": "John Gerald O`Hurley",
+        "Alternative Name": "NA",
+        "Birthday": "1954",
+        "Birthplace": "USA",
+        "Height": "193",
+        "Weight": "NA",
+        "Zodiac Sign": "10",
+        "Sexuality": "Straight",
+        "Religion": "1",
+        "Ethnicity": "6",
+        "Nationality": "91",
+        "Occupation": "8"
+    }
+}

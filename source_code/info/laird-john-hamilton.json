@@ -1,0 +1,44 @@
+{
+    "relationships": [
+        {
+            "name": "Gabrielle Reece",
+            "href": "https://www.whosdatedwho.com/dating/gabrielle-reece",
+            "relationship_type": 4,
+            "start_date": "1997",
+            "end_date": "present",
+            "length": "27 years",
+            "start_months_since_1900": 1164,
+            "end_months_since_1900": -1,
+            "length_in_months": 324
+        },
+        {
+            "name": "Maria Hamilton",
+            "href": "https://www.whosdatedwho.com/dating/maria-hamilton",
+            "relationship_type": 4,
+            "start_date": "",
+            "end_date": "1997",
+            "length": "-",
+            "start_months_since_1900": -1,
+            "end_months_since_1900": 1164,
+            "length_in_months": -1
+        }
+    ],
+    "details": {
+        "First Name": "Laird",
+        "Middle Name": "John",
+        "Last Name": "Hamilton",
+        "Maiden Name": "NA",
+        "Full Name at Birth": "John Laird Hamilton",
+        "Alternative Name": "Laird John Zerfas",
+        "Birthday": "1964",
+        "Birthplace": "USA",
+        "Height": "193",
+        "Weight": "215lbs (98 kg)",
+        "Zodiac Sign": "1",
+        "Sexuality": "Straight",
+        "Religion": "1",
+        "Ethnicity": "6",
+        "Nationality": "91",
+        "Occupation": "2"
+    }
+}

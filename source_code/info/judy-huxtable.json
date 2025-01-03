@@ -1,0 +1,66 @@
+{
+    "relationships": [
+        {
+            "name": "Dudley Moore",
+            "href": "https://www.whosdatedwho.com/dating/dudley-moore",
+            "relationship_type": 3,
+            "start_date": "1972",
+            "end_date": "1972",
+            "length": "-",
+            "start_months_since_1900": 864,
+            "end_months_since_1900": 864,
+            "length_in_months": -1
+        },
+        {
+            "name": "Peter Cook",
+            "href": "https://www.whosdatedwho.com/dating/peter-cook-comic",
+            "relationship_type": 4,
+            "start_date": "1967",
+            "end_date": "1989",
+            "length": "22 years",
+            "start_months_since_1900": 804,
+            "end_months_since_1900": 1068,
+            "length_in_months": 264
+        },
+        {
+            "name": "Sean Kenny",
+            "href": "https://www.whosdatedwho.com/dating/sean-kenny",
+            "relationship_type": 4,
+            "start_date": "1962",
+            "end_date": "1969",
+            "length": "7 years",
+            "start_months_since_1900": 744,
+            "end_months_since_1900": 828,
+            "length_in_months": 84
+        },
+        {
+            "name": "Richard Branson",
+            "href": "https://www.whosdatedwho.com/dating/richard-branson",
+            "relationship_type": 3,
+            "start_date": "",
+            "end_date": "",
+            "length": "-",
+            "start_months_since_1900": -1,
+            "end_months_since_1900": -1,
+            "length_in_months": -1
+        }
+    ],
+    "details": {
+        "First Name": "Judy",
+        "Middle Name": "NA",
+        "Last Name": "Huxtable",
+        "Maiden Name": "NA",
+        "Full Name at Birth": "NA",
+        "Alternative Name": "Judy Cook",
+        "Birthday": "1943",
+        "Birthplace": "UK",
+        "Height": "NA",
+        "Weight": "NA",
+        "Zodiac Sign": "2",
+        "Sexuality": "NA",
+        "Religion": "1",
+        "Ethnicity": "6",
+        "Nationality": "8",
+        "Occupation": "8"
+    }
+}

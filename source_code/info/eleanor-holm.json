@@ -1,0 +1,55 @@
+{
+    "relationships": [
+        {
+            "name": "Thomas Whalen",
+            "href": "https://www.whosdatedwho.com/dating/thomas-whalen",
+            "relationship_type": 4,
+            "start_date": "1974",
+            "end_date": "1984",
+            "length": "10 years",
+            "start_months_since_1900": 888,
+            "end_months_since_1900": 1008,
+            "length_in_months": 120
+        },
+        {
+            "name": "Billy Rose",
+            "href": "https://www.whosdatedwho.com/dating/billy-rose",
+            "relationship_type": 4,
+            "start_date": "Apr 1939",
+            "end_date": "27th Feb 1954",
+            "length": "14 years",
+            "start_months_since_1900": 471,
+            "end_months_since_1900": 649,
+            "length_in_months": 168
+        },
+        {
+            "name": "Arthur Jarrett",
+            "href": "https://www.whosdatedwho.com/dating/arthur-jarrett",
+            "relationship_type": 4,
+            "start_date": "1932",
+            "end_date": "9th Jun 1938",
+            "length": "6 years",
+            "start_months_since_1900": 384,
+            "end_months_since_1900": 461,
+            "length_in_months": 72
+        }
+    ],
+    "details": {
+        "First Name": "Eleanor",
+        "Middle Name": "NA",
+        "Last Name": "Holm",
+        "Maiden Name": "NA",
+        "Full Name at Birth": "Eleanor G. Holm",
+        "Alternative Name": "NA",
+        "Birthday": "1913",
+        "Birthplace": "New York",
+        "Height": "NA",
+        "Weight": "NA",
+        "Zodiac Sign": "6",
+        "Sexuality": "Straight",
+        "Religion": "1",
+        "Ethnicity": "6",
+        "Nationality": "91",
+        "Occupation": "2"
+    }
+}

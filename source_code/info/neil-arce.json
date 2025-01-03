@@ -1,0 +1,55 @@
+{
+    "relationships": [
+        {
+            "name": "Angel Locsin",
+            "href": "https://www.whosdatedwho.com/dating/angel-locsin",
+            "relationship_type": 4,
+            "start_date": "2017",
+            "end_date": "present",
+            "length": "7 years",
+            "start_months_since_1900": 1404,
+            "end_months_since_1900": -1,
+            "length_in_months": 84
+        },
+        {
+            "name": "Bela Padilla",
+            "href": "https://www.whosdatedwho.com/dating/bela-padilla",
+            "relationship_type": 2,
+            "start_date": "Jul 2012",
+            "end_date": "2016",
+            "length": "3 years",
+            "start_months_since_1900": 1350,
+            "end_months_since_1900": 1392,
+            "length_in_months": 36
+        },
+        {
+            "name": "Maxene Magalona",
+            "href": "https://www.whosdatedwho.com/dating/maxene-magalona",
+            "relationship_type": 2,
+            "start_date": "Oct 2010",
+            "end_date": "2012",
+            "length": "1 year",
+            "start_months_since_1900": 1329,
+            "end_months_since_1900": 1344,
+            "length_in_months": 12
+        }
+    ],
+    "details": {
+        "First Name": "Neil",
+        "Middle Name": "NA",
+        "Last Name": "Arce",
+        "Maiden Name": "NA",
+        "Full Name at Birth": "NA",
+        "Alternative Name": "Dirty Ice Cream",
+        "Birthday": "NA",
+        "Birthplace": "Philippines",
+        "Height": "NA",
+        "Weight": "NA",
+        "Zodiac Sign": "2",
+        "Sexuality": "Straight",
+        "Religion": "1",
+        "Ethnicity": "3",
+        "Nationality": "16",
+        "Occupation": "18"
+    }
+}

@@ -1,0 +1,77 @@
+{
+    "relationships": [
+        {
+            "name": "Erika Dates",
+            "href": "https://www.whosdatedwho.com/dating/erika-dates",
+            "relationship_type": 4,
+            "start_date": "Jul 2007",
+            "end_date": "present",
+            "length": "17 years",
+            "start_months_since_1900": 1290,
+            "end_months_since_1900": -1,
+            "length_in_months": 204
+        },
+        {
+            "name": "Tracee Ellis Ross",
+            "href": "https://www.whosdatedwho.com/dating/tracee-ellis-ross",
+            "relationship_type": 2,
+            "start_date": "2007",
+            "end_date": "2007",
+            "length": "-",
+            "start_months_since_1900": 1284,
+            "end_months_since_1900": 1284,
+            "length_in_months": -1
+        },
+        {
+            "name": "Tyra Banks",
+            "href": "https://www.whosdatedwho.com/dating/tyra-banks",
+            "relationship_type": 2,
+            "start_date": "Dec 2001",
+            "end_date": "Sep 2004",
+            "length": "2 years",
+            "start_months_since_1900": 1223,
+            "end_months_since_1900": 1256,
+            "length_in_months": 24
+        },
+        {
+            "name": "Nia Long",
+            "href": "https://www.whosdatedwho.com/dating/nia-long",
+            "relationship_type": 2,
+            "start_date": "Jan 1993",
+            "end_date": "Dec 1995",
+            "length": "2 years",
+            "start_months_since_1900": 1116,
+            "end_months_since_1900": 1151,
+            "length_in_months": 24
+        },
+        {
+            "name": "Ananda Lewis",
+            "href": "https://www.whosdatedwho.com/dating/ananda-lewis",
+            "relationship_type": 2,
+            "start_date": "",
+            "end_date": "",
+            "length": "-",
+            "start_months_since_1900": -1,
+            "end_months_since_1900": -1,
+            "length_in_months": -1
+        }
+    ],
+    "details": {
+        "First Name": "Mayce",
+        "Middle Name": "Edward Christopher Webber",
+        "Last Name": "II",
+        "Maiden Name": "NA",
+        "Full Name at Birth": "Mayce Edward Christopher Webber III",
+        "Alternative Name": "Chris",
+        "Birthday": "1973",
+        "Birthplace": "Michigan",
+        "Height": "208",
+        "Weight": "245lbs (111 kg)",
+        "Zodiac Sign": "1",
+        "Sexuality": "Straight",
+        "Religion": "1",
+        "Ethnicity": "2",
+        "Nationality": "91",
+        "Occupation": "2"
+    }
+}

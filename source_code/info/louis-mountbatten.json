@@ -1,0 +1,44 @@
+{
+    "relationships": [
+        {
+            "name": "Edwina Mountbatten",
+            "href": "https://www.whosdatedwho.com/dating/edwina-mountbatten",
+            "relationship_type": 4,
+            "start_date": "Apr 1920",
+            "end_date": "Feb 1960",
+            "length": "39 years",
+            "start_months_since_1900": 243,
+            "end_months_since_1900": 721,
+            "length_in_months": 468
+        },
+        {
+            "name": "Frances Day",
+            "href": "https://www.whosdatedwho.com/dating/frances-day",
+            "relationship_type": 2,
+            "start_date": "",
+            "end_date": "",
+            "length": "-",
+            "start_months_since_1900": -1,
+            "end_months_since_1900": -1,
+            "length_in_months": -1
+        }
+    ],
+    "details": {
+        "First Name": "Louis",
+        "Middle Name": "Francis Albert Victor Nicholas",
+        "Last Name": "Battenberg",
+        "Maiden Name": "NA",
+        "Full Name at Birth": "Louis Francis Albert Victor Nicholas Battenberg",
+        "Alternative Name": "Louis Mountbatten, Louis Mountbatten, 1st Earl Mountbatten of Burma",
+        "Birthday": "1900",
+        "Birthplace": "UK",
+        "Height": "180",
+        "Weight": "NA",
+        "Zodiac Sign": "8",
+        "Sexuality": "Straight",
+        "Religion": "37",
+        "Ethnicity": "6",
+        "Nationality": "8",
+        "Occupation": "10"
+    }
+}

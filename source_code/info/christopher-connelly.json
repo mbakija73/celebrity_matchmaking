@@ -1,0 +1,55 @@
+{
+    "relationships": [
+        {
+            "name": "Cindy Carol",
+            "href": "https://www.whosdatedwho.com/dating/cindy-carol",
+            "relationship_type": 4,
+            "start_date": "Dec 1968",
+            "end_date": "7th Dec 1988",
+            "length": "20 years",
+            "start_months_since_1900": 827,
+            "end_months_since_1900": 1067,
+            "length_in_months": 240
+        },
+        {
+            "name": "Carol Lynley",
+            "href": "https://www.whosdatedwho.com/dating/carol-lynley",
+            "relationship_type": 2,
+            "start_date": "Nov 1968",
+            "end_date": "Nov 1968",
+            "length": "-",
+            "start_months_since_1900": 826,
+            "end_months_since_1900": 826,
+            "length_in_months": -1
+        },
+        {
+            "name": "Patricia Morrow",
+            "href": "https://www.whosdatedwho.com/dating/patricia-morrow",
+            "relationship_type": 2,
+            "start_date": "1965",
+            "end_date": "1967",
+            "length": "2 years",
+            "start_months_since_1900": 780,
+            "end_months_since_1900": 804,
+            "length_in_months": 24
+        }
+    ],
+    "details": {
+        "First Name": "Christopher",
+        "Middle Name": "NA",
+        "Last Name": "Connelly",
+        "Maiden Name": "NA",
+        "Full Name at Birth": "Christopher  Connelly",
+        "Alternative Name": "NA",
+        "Birthday": "1941",
+        "Birthplace": "USA",
+        "Height": "170",
+        "Weight": "NA",
+        "Zodiac Sign": "11",
+        "Sexuality": "Straight",
+        "Religion": "1",
+        "Ethnicity": "6",
+        "Nationality": "91",
+        "Occupation": "8"
+    }
+}

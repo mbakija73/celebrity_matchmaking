@@ -1,0 +1,88 @@
+{
+    "relationships": [
+        {
+            "name": "Rita Kaufman",
+            "href": "https://www.whosdatedwho.com/dating/rita-kaufman",
+            "relationship_type": 4,
+            "start_date": "1936",
+            "end_date": "1950",
+            "length": "14 years",
+            "start_months_since_1900": 432,
+            "end_months_since_1900": 600,
+            "length_in_months": 168
+        },
+        {
+            "name": "Marian Marsh",
+            "href": "https://www.whosdatedwho.com/dating/marian-marsh",
+            "relationship_type": 2,
+            "start_date": "1935",
+            "end_date": "1935",
+            "length": "-",
+            "start_months_since_1900": 420,
+            "end_months_since_1900": 420,
+            "length_in_months": -1
+        },
+        {
+            "name": "June Marlowe",
+            "href": "https://www.whosdatedwho.com/dating/june-marlowe",
+            "relationship_type": 3,
+            "start_date": "1931",
+            "end_date": "1931",
+            "length": "-",
+            "start_months_since_1900": 372,
+            "end_months_since_1900": 372,
+            "length_in_months": -1
+        },
+        {
+            "name": "Lilyan Tashman",
+            "href": "https://www.whosdatedwho.com/dating/lilyan-tashman",
+            "relationship_type": 4,
+            "start_date": "1925",
+            "end_date": "1934",
+            "length": "9 years",
+            "start_months_since_1900": 300,
+            "end_months_since_1900": 408,
+            "length_in_months": 108
+        },
+        {
+            "name": "William Haines",
+            "href": "https://www.whosdatedwho.com/dating/william-haines",
+            "relationship_type": 3,
+            "start_date": "",
+            "end_date": "",
+            "length": "-",
+            "start_months_since_1900": -1,
+            "end_months_since_1900": -1,
+            "length_in_months": -1
+        },
+        {
+            "name": "Ramon Novarro",
+            "href": "https://www.whosdatedwho.com/dating/ramon-novarro",
+            "relationship_type": 3,
+            "start_date": "",
+            "end_date": "",
+            "length": "-",
+            "start_months_since_1900": -1,
+            "end_months_since_1900": -1,
+            "length_in_months": -1
+        }
+    ],
+    "details": {
+        "First Name": "Edmund",
+        "Middle Name": "NA",
+        "Last Name": "Lowe",
+        "Maiden Name": "NA",
+        "Full Name at Birth": "Edmund Dantes Lowe",
+        "Alternative Name": "NA",
+        "Birthday": "1890",
+        "Birthplace": "California",
+        "Height": "183",
+        "Weight": "NA",
+        "Zodiac Sign": "1",
+        "Sexuality": "Bisexual",
+        "Religion": "1",
+        "Ethnicity": "6",
+        "Nationality": "91",
+        "Occupation": "8"
+    }
+}

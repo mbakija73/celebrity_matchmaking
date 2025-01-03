@@ -1,0 +1,88 @@
+{
+    "relationships": [
+        {
+            "name": "Phoebe Tonkin",
+            "href": "https://www.whosdatedwho.com/dating/phoebe-tonkin",
+            "relationship_type": 2,
+            "start_date": "Mar 2020",
+            "end_date": "present",
+            "length": "4 years",
+            "start_months_since_1900": 1442,
+            "end_months_since_1900": -1,
+            "length_in_months": 48
+        },
+        {
+            "name": "Brie Larson",
+            "href": "https://www.whosdatedwho.com/dating/brie-larson",
+            "relationship_type": 2,
+            "start_date": "Jan 2013",
+            "end_date": "Jan 2019",
+            "length": "6 years",
+            "start_months_since_1900": 1356,
+            "end_months_since_1900": 1428,
+            "length_in_months": 72
+        },
+        {
+            "name": "Agyness Deyn",
+            "href": "https://www.whosdatedwho.com/dating/agyness-deyn",
+            "relationship_type": 2,
+            "start_date": "Apr 2009",
+            "end_date": "2009",
+            "length": "3 months",
+            "start_months_since_1900": 1311,
+            "end_months_since_1900": 1308,
+            "length_in_months": 3
+        },
+        {
+            "name": "Taylor Hanson",
+            "href": "https://www.whosdatedwho.com/dating/taylor-hanson",
+            "relationship_type": 3,
+            "start_date": "2003",
+            "end_date": "2003",
+            "length": "-",
+            "start_months_since_1900": 1236,
+            "end_months_since_1900": 1236,
+            "length_in_months": -1
+        },
+        {
+            "name": "Kelly McKee",
+            "href": "https://www.whosdatedwho.com/dating/kelly-mckee",
+            "relationship_type": 2,
+            "start_date": "Feb 2001",
+            "end_date": "2002",
+            "length": "11 months",
+            "start_months_since_1900": 1213,
+            "end_months_since_1900": 1224,
+            "length_in_months": 11
+        },
+        {
+            "name": "Diva Dompe",
+            "href": "https://www.whosdatedwho.com/dating/diva-dompe",
+            "relationship_type": 3,
+            "start_date": "",
+            "end_date": "",
+            "length": "-",
+            "start_months_since_1900": -1,
+            "end_months_since_1900": -1,
+            "length_in_months": -1
+        }
+    ],
+    "details": {
+        "First Name": "Alex",
+        "Middle Name": "NA",
+        "Last Name": "Greenwald",
+        "Maiden Name": "NA",
+        "Full Name at Birth": "Alex Greenwald",
+        "Alternative Name": "Clark Sch\u00e4delkopf",
+        "Birthday": "1979",
+        "Birthplace": "United States",
+        "Height": "180",
+        "Weight": "NA",
+        "Zodiac Sign": "10",
+        "Sexuality": "Straight",
+        "Religion": "3",
+        "Ethnicity": "6",
+        "Nationality": "91",
+        "Occupation": "1"
+    }
+}

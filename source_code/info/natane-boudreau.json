@@ -1,0 +1,66 @@
+{
+    "relationships": [
+        {
+            "name": "Liev Schreiber",
+            "href": "https://www.whosdatedwho.com/dating/liev-schreiber",
+            "relationship_type": 2,
+            "start_date": "2003",
+            "end_date": "2005",
+            "length": "2 years",
+            "start_months_since_1900": 1236,
+            "end_months_since_1900": 1260,
+            "length_in_months": 24
+        },
+        {
+            "name": "Reggie Miller",
+            "href": "https://www.whosdatedwho.com/dating/reggie-miller",
+            "relationship_type": 2,
+            "start_date": "May 2001",
+            "end_date": "May 2001",
+            "length": "-",
+            "start_months_since_1900": 1216,
+            "end_months_since_1900": 1216,
+            "length_in_months": -1
+        },
+        {
+            "name": "Damon Dash",
+            "href": "https://www.whosdatedwho.com/dating/damon-dash",
+            "relationship_type": 2,
+            "start_date": "1999",
+            "end_date": "2000",
+            "length": "1 year",
+            "start_months_since_1900": 1188,
+            "end_months_since_1900": 1200,
+            "length_in_months": 12
+        },
+        {
+            "name": "Donovan Leitch Jr.",
+            "href": "https://www.whosdatedwho.com/dating/donovan-leitch-jr",
+            "relationship_type": 3,
+            "start_date": "",
+            "end_date": "",
+            "length": "-",
+            "start_months_since_1900": -1,
+            "end_months_since_1900": -1,
+            "length_in_months": -1
+        }
+    ],
+    "details": {
+        "First Name": "Natane",
+        "Middle Name": "NA",
+        "Last Name": "NA",
+        "Maiden Name": "Adcock",
+        "Full Name at Birth": "Natane Adcock Boudreau",
+        "Alternative Name": "Natane Boudreau",
+        "Birthday": "1976",
+        "Birthplace": "USA",
+        "Height": "175",
+        "Weight": "NA",
+        "Zodiac Sign": "3",
+        "Sexuality": "Straight",
+        "Religion": "1",
+        "Ethnicity": "6",
+        "Nationality": "91",
+        "Occupation": "15"
+    }
+}

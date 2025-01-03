@@ -1,0 +1,44 @@
+{
+    "relationships": [
+        {
+            "name": "Elly Fairman",
+            "href": "https://www.whosdatedwho.com/dating/elly-fairman",
+            "relationship_type": 4,
+            "start_date": "2008",
+            "end_date": "2008",
+            "length": "-",
+            "start_months_since_1900": 1296,
+            "end_months_since_1900": 1296,
+            "length_in_months": -1
+        },
+        {
+            "name": "Lena Headey",
+            "href": "https://www.whosdatedwho.com/dating/lena-headey",
+            "relationship_type": 2,
+            "start_date": "1994",
+            "end_date": "2003",
+            "length": "9 years",
+            "start_months_since_1900": 1128,
+            "end_months_since_1900": 1236,
+            "length_in_months": 108
+        }
+    ],
+    "details": {
+        "First Name": "Jason",
+        "Middle Name": "NA",
+        "Last Name": "Flemyng",
+        "Maiden Name": "NA",
+        "Full Name at Birth": "Jason Flemyng",
+        "Alternative Name": "Jason Flemyng",
+        "Birthday": "1966",
+        "Birthplace": "England",
+        "Height": "185",
+        "Weight": "NA",
+        "Zodiac Sign": "10",
+        "Sexuality": "Straight",
+        "Religion": "1",
+        "Ethnicity": "6",
+        "Nationality": "8",
+        "Occupation": "8"
+    }
+}

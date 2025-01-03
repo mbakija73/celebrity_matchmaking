@@ -1,0 +1,99 @@
+{
+    "relationships": [
+        {
+            "name": "Stan Hough",
+            "href": "https://www.whosdatedwho.com/dating/stanley-hough",
+            "relationship_type": 4,
+            "start_date": "Jan 1970",
+            "end_date": "23rd Feb 1990",
+            "length": "20 years",
+            "start_months_since_1900": 840,
+            "end_months_since_1900": 1081,
+            "length_in_months": 240
+        },
+        {
+            "name": "Robert Wagner",
+            "href": "https://www.whosdatedwho.com/dating/robert-wagner",
+            "relationship_type": 2,
+            "start_date": "Oct 1953",
+            "end_date": "Apr 1954",
+            "length": "6 months",
+            "start_months_since_1900": 645,
+            "end_months_since_1900": 651,
+            "length_in_months": 6
+        },
+        {
+            "name": "Richard Widmark",
+            "href": "https://www.whosdatedwho.com/dating/richard-widmark",
+            "relationship_type": 3,
+            "start_date": "1953",
+            "end_date": "1953",
+            "length": "-",
+            "start_months_since_1900": 636,
+            "end_months_since_1900": 636,
+            "length_in_months": -1
+        },
+        {
+            "name": "Stuart Cramer",
+            "href": "https://www.whosdatedwho.com/dating/stuart-cramer",
+            "relationship_type": 4,
+            "start_date": "1953",
+            "end_date": "Dec 1955",
+            "length": "2 years",
+            "start_months_since_1900": 636,
+            "end_months_since_1900": 671,
+            "length_in_months": 24
+        },
+        {
+            "name": "Elia Kazan",
+            "href": "https://www.whosdatedwho.com/dating/elia-kazan",
+            "relationship_type": 3,
+            "start_date": "May 1951",
+            "end_date": "Jun 1951",
+            "length": "1 month",
+            "start_months_since_1900": 616,
+            "end_months_since_1900": 617,
+            "length_in_months": 1
+        },
+        {
+            "name": "Howard Hughes",
+            "href": "https://www.whosdatedwho.com/dating/howard-hughes",
+            "relationship_type": 4,
+            "start_date": "May 1946",
+            "end_date": "Jun 1971",
+            "length": "25 years",
+            "start_months_since_1900": 556,
+            "end_months_since_1900": 857,
+            "length_in_months": 300
+        },
+        {
+            "name": "Audie Murphy",
+            "href": "https://www.whosdatedwho.com/dating/audie-murphy",
+            "relationship_type": 2,
+            "start_date": "1945",
+            "end_date": "1947",
+            "length": "2 years",
+            "start_months_since_1900": 540,
+            "end_months_since_1900": 564,
+            "length_in_months": 24
+        }
+    ],
+    "details": {
+        "First Name": "Jean",
+        "Middle Name": "NA",
+        "Last Name": "NA",
+        "Maiden Name": "Peters",
+        "Full Name at Birth": "Elizabeth Jean Peters",
+        "Alternative Name": "Jean Peters, Elizabeth Jean Peters",
+        "Birthday": "1926",
+        "Birthplace": "USA",
+        "Height": "166",
+        "Weight": "124lbs (56 kg)",
+        "Zodiac Sign": "10",
+        "Sexuality": "Straight",
+        "Religion": "29",
+        "Ethnicity": "6",
+        "Nationality": "91",
+        "Occupation": "8"
+    }
+}

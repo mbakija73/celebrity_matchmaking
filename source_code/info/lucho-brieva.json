@@ -1,0 +1,55 @@
+{
+    "relationships": [
+        {
+            "name": "Gina Bellman",
+            "href": "https://www.whosdatedwho.com/dating/gina-bellman",
+            "relationship_type": 4,
+            "start_date": "2005",
+            "end_date": "2007",
+            "length": "2 years",
+            "start_months_since_1900": 1260,
+            "end_months_since_1900": 1284,
+            "length_in_months": 24
+        },
+        {
+            "name": "Cecilia Chancellor",
+            "href": "https://www.whosdatedwho.com/dating/cecilia-chancellor",
+            "relationship_type": 2,
+            "start_date": "2001",
+            "end_date": "2001",
+            "length": "-",
+            "start_months_since_1900": 1212,
+            "end_months_since_1900": 1212,
+            "length_in_months": -1
+        },
+        {
+            "name": "Chrissie Hynde",
+            "href": "https://www.whosdatedwho.com/dating/chrissie-hynde",
+            "relationship_type": 4,
+            "start_date": "1996",
+            "end_date": "2003",
+            "length": "7 years",
+            "start_months_since_1900": 1152,
+            "end_months_since_1900": 1236,
+            "length_in_months": 84
+        }
+    ],
+    "details": {
+        "First Name": "Lucho",
+        "Middle Name": "NA",
+        "Last Name": "Brieva",
+        "Maiden Name": "NA",
+        "Full Name at Birth": "NA",
+        "Alternative Name": "NA",
+        "Birthday": "NA",
+        "Birthplace": "Colombia",
+        "Height": "NA",
+        "Weight": "NA",
+        "Zodiac Sign": "2",
+        "Sexuality": "NA",
+        "Religion": "1",
+        "Ethnicity": "8",
+        "Nationality": "133",
+        "Occupation": "1"
+    }
+}

@@ -1,0 +1,77 @@
+{
+    "relationships": [
+        {
+            "name": "Stephen Kay",
+            "href": "https://www.whosdatedwho.com/dating/stephen-kay",
+            "relationship_type": 4,
+            "start_date": "2010",
+            "end_date": "present",
+            "length": "14 years",
+            "start_months_since_1900": 1320,
+            "end_months_since_1900": -1,
+            "length_in_months": 168
+        },
+        {
+            "name": "Sam Rockwell",
+            "href": "https://www.whosdatedwho.com/dating/sam-rockwell",
+            "relationship_type": 2,
+            "start_date": "2009",
+            "end_date": "2009",
+            "length": "-",
+            "start_months_since_1900": 1308,
+            "end_months_since_1900": 1308,
+            "length_in_months": -1
+        },
+        {
+            "name": "Matthew Perry",
+            "href": "https://www.whosdatedwho.com/dating/matthew-perry",
+            "relationship_type": 3,
+            "start_date": "2006",
+            "end_date": "2007",
+            "length": "1 year",
+            "start_months_since_1900": 1272,
+            "end_months_since_1900": 1284,
+            "length_in_months": 12
+        },
+        {
+            "name": "Eddie Cibrian",
+            "href": "https://www.whosdatedwho.com/dating/eddie-cibrian",
+            "relationship_type": 3,
+            "start_date": "2005",
+            "end_date": "2005",
+            "length": "-",
+            "start_months_since_1900": 1260,
+            "end_months_since_1900": 1260,
+            "length_in_months": -1
+        },
+        {
+            "name": "Andrew Keegan",
+            "href": "https://www.whosdatedwho.com/dating/andrew-keegan",
+            "relationship_type": 2,
+            "start_date": "2001",
+            "end_date": "2001",
+            "length": "-",
+            "start_months_since_1900": 1212,
+            "end_months_since_1900": 1212,
+            "length_in_months": -1
+        }
+    ],
+    "details": {
+        "First Name": "Piper",
+        "Middle Name": "Lisa",
+        "Last Name": "Perabo",
+        "Maiden Name": "NA",
+        "Full Name at Birth": "Piper Lisa Perabo",
+        "Alternative Name": "Piper Perabo",
+        "Birthday": "1976",
+        "Birthplace": "USA",
+        "Height": "170",
+        "Weight": "NA",
+        "Zodiac Sign": "5",
+        "Sexuality": "Straight",
+        "Religion": "18",
+        "Ethnicity": "6",
+        "Nationality": "91",
+        "Occupation": "8"
+    }
+}

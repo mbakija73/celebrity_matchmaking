@@ -1,0 +1,77 @@
+{
+    "relationships": [
+        {
+            "name": "Gary Oldman",
+            "href": "https://www.whosdatedwho.com/dating/gary-oldman",
+            "relationship_type": 4,
+            "start_date": "1996",
+            "end_date": "13th Apr 2001",
+            "length": "5 years",
+            "start_months_since_1900": 1152,
+            "end_months_since_1900": 1215,
+            "length_in_months": 60
+        },
+        {
+            "name": "David Fincher",
+            "href": "https://www.whosdatedwho.com/dating/david-fincher",
+            "relationship_type": 4,
+            "start_date": "1990",
+            "end_date": "1995",
+            "length": "5 years",
+            "start_months_since_1900": 1080,
+            "end_months_since_1900": 1140,
+            "length_in_months": 60
+        },
+        {
+            "name": "Scott Baio",
+            "href": "https://www.whosdatedwho.com/dating/scott-baio",
+            "relationship_type": 2,
+            "start_date": "Jun 1989",
+            "end_date": "Mar 1990",
+            "length": "9 months",
+            "start_months_since_1900": 1073,
+            "end_months_since_1900": 1082,
+            "length_in_months": 9
+        },
+        {
+            "name": "Andrew Ridgeley",
+            "href": "https://www.whosdatedwho.com/dating/andrew-ridgeley",
+            "relationship_type": 2,
+            "start_date": "1986",
+            "end_date": "1986",
+            "length": "-",
+            "start_months_since_1900": 1032,
+            "end_months_since_1900": 1032,
+            "length_in_months": -1
+        },
+        {
+            "name": "Don Johnson",
+            "href": "https://www.whosdatedwho.com/dating/don-johnson",
+            "relationship_type": 3,
+            "start_date": "1983",
+            "end_date": "1983",
+            "length": "-",
+            "start_months_since_1900": 996,
+            "end_months_since_1900": 996,
+            "length_in_months": -1
+        }
+    ],
+    "details": {
+        "First Name": "Donya",
+        "Middle Name": "Marlette",
+        "Last Name": "Fiorentino",
+        "Maiden Name": "NA",
+        "Full Name at Birth": "Donya Marlette Fiorentino",
+        "Alternative Name": "NA",
+        "Birthday": "1967",
+        "Birthplace": "USA",
+        "Height": "173",
+        "Weight": "NA",
+        "Zodiac Sign": "5",
+        "Sexuality": "Straight",
+        "Religion": "1",
+        "Ethnicity": "6",
+        "Nationality": "91",
+        "Occupation": "15"
+    }
+}

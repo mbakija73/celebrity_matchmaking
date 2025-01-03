@@ -1,0 +1,55 @@
+{
+    "relationships": [
+        {
+            "name": "Sacha Baron Cohen",
+            "href": "https://www.whosdatedwho.com/dating/sacha-baron-cohen",
+            "relationship_type": 4,
+            "start_date": "2002",
+            "end_date": "2023",
+            "length": "21 years",
+            "start_months_since_1900": 1224,
+            "end_months_since_1900": 1476,
+            "length_in_months": 252
+        },
+        {
+            "name": "Darren Day",
+            "href": "https://www.whosdatedwho.com/dating/darren-day",
+            "relationship_type": 2,
+            "start_date": "1998",
+            "end_date": "2000",
+            "length": "2 years",
+            "start_months_since_1900": 1176,
+            "end_months_since_1900": 1200,
+            "length_in_months": 24
+        },
+        {
+            "name": "Shane Ammann",
+            "href": "https://www.whosdatedwho.com/dating/shane-ammann",
+            "relationship_type": 2,
+            "start_date": "1994",
+            "end_date": "1995",
+            "length": "1 year",
+            "start_months_since_1900": 1128,
+            "end_months_since_1900": 1140,
+            "length_in_months": 12
+        }
+    ],
+    "details": {
+        "First Name": "Isla",
+        "Middle Name": "Lang",
+        "Last Name": "Fisher",
+        "Maiden Name": "NA",
+        "Full Name at Birth": "Isla Lang Fisher",
+        "Alternative Name": "Isla Lang Fisher, Isla Fisher, Isla",
+        "Birthday": "1976",
+        "Birthplace": "Oman",
+        "Height": "160",
+        "Weight": "126lbs (57 kg)",
+        "Zodiac Sign": "9",
+        "Sexuality": "Straight",
+        "Religion": "31",
+        "Ethnicity": "6",
+        "Nationality": "135",
+        "Occupation": "8"
+    }
+}

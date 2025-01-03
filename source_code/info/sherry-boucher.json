@@ -1,0 +1,33 @@
+{
+    "relationships": [
+        {
+            "name": "George Peppard",
+            "href": "https://www.whosdatedwho.com/dating/george-peppard",
+            "relationship_type": 4,
+            "start_date": "1974",
+            "end_date": "Oct 1979",
+            "length": "5 years",
+            "start_months_since_1900": 888,
+            "end_months_since_1900": 957,
+            "length_in_months": 60
+        }
+    ],
+    "details": {
+        "First Name": "Sherry",
+        "Middle Name": "NA",
+        "Last Name": "Boucher",
+        "Maiden Name": "NA",
+        "Full Name at Birth": "NA",
+        "Alternative Name": "NA",
+        "Birthday": "1945",
+        "Birthplace": "United States",
+        "Height": "NA",
+        "Weight": "NA",
+        "Zodiac Sign": "12",
+        "Sexuality": "NA",
+        "Religion": "1",
+        "Ethnicity": "1",
+        "Nationality": "91",
+        "Occupation": "7"
+    }
+}

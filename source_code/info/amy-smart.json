@@ -1,0 +1,55 @@
+{
+    "relationships": [
+        {
+            "name": "Carter Oosterhouse",
+            "href": "https://www.whosdatedwho.com/dating/carter-oosterhouse",
+            "relationship_type": 4,
+            "start_date": "Nov 2010",
+            "end_date": "present",
+            "length": "13 years",
+            "start_months_since_1900": 1330,
+            "end_months_since_1900": -1,
+            "length_in_months": 156
+        },
+        {
+            "name": "Ashton Kutcher",
+            "href": "https://www.whosdatedwho.com/dating/ashton-kutcher",
+            "relationship_type": 3,
+            "start_date": "2003",
+            "end_date": "2003",
+            "length": "-",
+            "start_months_since_1900": 1236,
+            "end_months_since_1900": 1236,
+            "length_in_months": -1
+        },
+        {
+            "name": "Branden Williams",
+            "href": "https://www.whosdatedwho.com/dating/branden-williams",
+            "relationship_type": 2,
+            "start_date": "1994",
+            "end_date": "2010",
+            "length": "16 years",
+            "start_months_since_1900": 1128,
+            "end_months_since_1900": 1320,
+            "length_in_months": 192
+        }
+    ],
+    "details": {
+        "First Name": "Amy",
+        "Middle Name": "Lysle",
+        "Last Name": "Oosterhouse",
+        "Maiden Name": "Smart",
+        "Full Name at Birth": "Amy Lysle Smart",
+        "Alternative Name": "A. Smart, Amy Lysle Smart, Amy Smart",
+        "Birthday": "1976",
+        "Birthplace": "USA",
+        "Height": "168",
+        "Weight": "125lbs (57 kg)",
+        "Zodiac Sign": "7",
+        "Sexuality": "Straight",
+        "Religion": "1",
+        "Ethnicity": "6",
+        "Nationality": "91",
+        "Occupation": "8"
+    }
+}

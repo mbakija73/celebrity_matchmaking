@@ -1,0 +1,88 @@
+{
+    "relationships": [
+        {
+            "name": "Elaine Anderson",
+            "href": "https://www.whosdatedwho.com/dating/elaine-anderson",
+            "relationship_type": 4,
+            "start_date": "Jun 1949",
+            "end_date": "20th Dec 1968",
+            "length": "19 years",
+            "start_months_since_1900": 593,
+            "end_months_since_1900": 827,
+            "length_in_months": 228
+        },
+        {
+            "name": "Paulette Goddard",
+            "href": "https://www.whosdatedwho.com/dating/paulette-goddard",
+            "relationship_type": 2,
+            "start_date": "1949",
+            "end_date": "1949",
+            "length": "-",
+            "start_months_since_1900": 588,
+            "end_months_since_1900": 588,
+            "length_in_months": -1
+        },
+        {
+            "name": "Gwyndolyn Conger",
+            "href": "https://www.whosdatedwho.com/dating/gwyndolyn-conger",
+            "relationship_type": 4,
+            "start_date": "Sep 1942",
+            "end_date": "Aug 1948",
+            "length": "5 years",
+            "start_months_since_1900": 512,
+            "end_months_since_1900": 583,
+            "length_in_months": 60
+        },
+        {
+            "name": "Carol Henning",
+            "href": "https://www.whosdatedwho.com/dating/carol-henning",
+            "relationship_type": 4,
+            "start_date": "1928",
+            "end_date": "18th Mar 1943",
+            "length": "15 years",
+            "start_months_since_1900": 336,
+            "end_months_since_1900": 518,
+            "length_in_months": 180
+        },
+        {
+            "name": "Ann Sothern",
+            "href": "https://www.whosdatedwho.com/dating/ann-sothern",
+            "relationship_type": 2,
+            "start_date": "",
+            "end_date": "",
+            "length": "-",
+            "start_months_since_1900": -1,
+            "end_months_since_1900": -1,
+            "length_in_months": -1
+        },
+        {
+            "name": "Ingrid Bergman",
+            "href": "https://www.whosdatedwho.com/dating/ingrid-bergman",
+            "relationship_type": 2,
+            "start_date": "",
+            "end_date": "",
+            "length": "-",
+            "start_months_since_1900": -1,
+            "end_months_since_1900": -1,
+            "length_in_months": -1
+        }
+    ],
+    "details": {
+        "First Name": "John",
+        "Middle Name": "Ernst",
+        "Last Name": "Steinbeck, Jr.",
+        "Maiden Name": "NA",
+        "Full Name at Birth": "John Ernst Steinbeck, Jr.",
+        "Alternative Name": "John Ernst Steinbeck, Jr., John Steinbeck",
+        "Birthday": "1902",
+        "Birthplace": "USA",
+        "Height": "183",
+        "Weight": "NA",
+        "Zodiac Sign": "1",
+        "Sexuality": "NA",
+        "Religion": "1",
+        "Ethnicity": "6",
+        "Nationality": "91",
+        "Occupation": "3"
+    }
+}

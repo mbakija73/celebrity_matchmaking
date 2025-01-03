@@ -1,0 +1,44 @@
+{
+    "relationships": [
+        {
+            "name": "Justin Edwards",
+            "href": "https://www.whosdatedwho.com/dating/justin-edwards",
+            "relationship_type": 4,
+            "start_date": "2009",
+            "end_date": "",
+            "length": "-",
+            "start_months_since_1900": 1308,
+            "end_months_since_1900": -1,
+            "length_in_months": -1
+        },
+        {
+            "name": "David Tennant",
+            "href": "https://www.whosdatedwho.com/dating/david-tennant",
+            "relationship_type": 3,
+            "start_date": "Oct 2005",
+            "end_date": "Oct 2005",
+            "length": "-",
+            "start_months_since_1900": 1269,
+            "end_months_since_1900": 1269,
+            "length_in_months": -1
+        }
+    ],
+    "details": {
+        "First Name": "Lucy",
+        "Middle Name": "NA",
+        "Last Name": "NA",
+        "Maiden Name": "Porter",
+        "Full Name at Birth": "Lucy Porter",
+        "Alternative Name": "NA",
+        "Birthday": "1973",
+        "Birthplace": "UK",
+        "Height": "150",
+        "Weight": "NA",
+        "Zodiac Sign": "9",
+        "Sexuality": "Straight",
+        "Religion": "1",
+        "Ethnicity": "6",
+        "Nationality": "8",
+        "Occupation": "8"
+    }
+}

@@ -1,0 +1,88 @@
+{
+    "relationships": [
+        {
+            "name": "Edward Lozzi",
+            "href": "https://www.whosdatedwho.com/dating/edward-lozzi",
+            "relationship_type": 2,
+            "start_date": "Aug 1986",
+            "end_date": "Sep 1993",
+            "length": "7 years",
+            "start_months_since_1900": 1039,
+            "end_months_since_1900": 1124,
+            "length_in_months": 84
+        },
+        {
+            "name": "Ted Kennedy",
+            "href": "https://www.whosdatedwho.com/dating/ted-kennedy",
+            "relationship_type": 2,
+            "start_date": "1983",
+            "end_date": "1984",
+            "length": "1 year",
+            "start_months_since_1900": 996,
+            "end_months_since_1900": 1008,
+            "length_in_months": 12
+        },
+        {
+            "name": "Rutger Hauer",
+            "href": "https://www.whosdatedwho.com/dating/rutger-hauer",
+            "relationship_type": 3,
+            "start_date": "Jan 1980",
+            "end_date": "Feb 1980",
+            "length": "1 month",
+            "start_months_since_1900": 960,
+            "end_months_since_1900": 961,
+            "length_in_months": 1
+        },
+        {
+            "name": "Adi Irani",
+            "href": "https://www.whosdatedwho.com/dating/adi-irani",
+            "relationship_type": 1,
+            "start_date": "",
+            "end_date": "",
+            "length": "-",
+            "start_months_since_1900": -1,
+            "end_months_since_1900": -1,
+            "length_in_months": -1
+        },
+        {
+            "name": "Salman Khan",
+            "href": "https://www.whosdatedwho.com/dating/salman-khan",
+            "relationship_type": 1,
+            "start_date": "",
+            "end_date": "",
+            "length": "-",
+            "start_months_since_1900": -1,
+            "end_months_since_1900": -1,
+            "length_in_months": -1
+        },
+        {
+            "name": "Henry Kissinger",
+            "href": "https://www.whosdatedwho.com/dating/henry-kissinger",
+            "relationship_type": 3,
+            "start_date": "",
+            "end_date": "",
+            "length": "-",
+            "start_months_since_1900": -1,
+            "end_months_since_1900": -1,
+            "length_in_months": -1
+        }
+    ],
+    "details": {
+        "First Name": "Persis",
+        "Middle Name": "NA",
+        "Last Name": "NA",
+        "Maiden Name": "Khambatta",
+        "Full Name at Birth": "Persis Khambatta",
+        "Alternative Name": "Persis Khambatta",
+        "Birthday": "1948",
+        "Birthplace": "Dominion of India",
+        "Height": "173",
+        "Weight": "NA",
+        "Zodiac Sign": "10",
+        "Sexuality": "Straight",
+        "Religion": "27",
+        "Ethnicity": "7",
+        "Nationality": "34",
+        "Occupation": "8"
+    }
+}

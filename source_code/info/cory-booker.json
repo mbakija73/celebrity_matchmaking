@@ -1,0 +1,66 @@
+{
+    "relationships": [
+        {
+            "name": "Rosario Dawson",
+            "href": "https://www.whosdatedwho.com/dating/rosario-dawson",
+            "relationship_type": 2,
+            "start_date": "Dec 2018",
+            "end_date": "Feb 2022",
+            "length": "3 years",
+            "start_months_since_1900": 1427,
+            "end_months_since_1900": 1465,
+            "length_in_months": 36
+        },
+        {
+            "name": "Veronica Webb",
+            "href": "https://www.whosdatedwho.com/dating/veronica-webb",
+            "relationship_type": 2,
+            "start_date": "2009",
+            "end_date": "2010",
+            "length": "1 year",
+            "start_months_since_1900": 1308,
+            "end_months_since_1900": 1320,
+            "length_in_months": 12
+        },
+        {
+            "name": "Arianna Huffington",
+            "href": "https://www.whosdatedwho.com/dating/arianna-huffington",
+            "relationship_type": 2,
+            "start_date": "2007",
+            "end_date": "",
+            "length": "-",
+            "start_months_since_1900": 1284,
+            "end_months_since_1900": -1,
+            "length_in_months": -1
+        },
+        {
+            "name": "Gayle King",
+            "href": "https://www.whosdatedwho.com/dating/gayle-king",
+            "relationship_type": 2,
+            "start_date": "2006",
+            "end_date": "",
+            "length": "-",
+            "start_months_since_1900": 1272,
+            "end_months_since_1900": -1,
+            "length_in_months": -1
+        }
+    ],
+    "details": {
+        "First Name": "Cory",
+        "Middle Name": "Anthony",
+        "Last Name": "Booker",
+        "Maiden Name": "NA",
+        "Full Name at Birth": "Cory Anthony Booker",
+        "Alternative Name": "NA",
+        "Birthday": "1969",
+        "Birthplace": "D.C.",
+        "Height": "189",
+        "Weight": "220lbs (100 kg)",
+        "Zodiac Sign": "3",
+        "Sexuality": "Straight",
+        "Religion": "19",
+        "Ethnicity": "8",
+        "Nationality": "91",
+        "Occupation": "12"
+    }
+}

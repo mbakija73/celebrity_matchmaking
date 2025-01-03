@@ -1,0 +1,55 @@
+{
+    "relationships": [
+        {
+            "name": "Josephine Skriver",
+            "href": "https://www.whosdatedwho.com/dating/josephine-skriver",
+            "relationship_type": 4,
+            "start_date": "Dec 2013",
+            "end_date": "present",
+            "length": "10 years",
+            "start_months_since_1900": 1367,
+            "end_months_since_1900": -1,
+            "length_in_months": 120
+        },
+        {
+            "name": "Sara Sampaio",
+            "href": "https://www.whosdatedwho.com/dating/sara-sampaio",
+            "relationship_type": 2,
+            "start_date": "2013",
+            "end_date": "2013",
+            "length": "-",
+            "start_months_since_1900": 1356,
+            "end_months_since_1900": 1356,
+            "length_in_months": -1
+        },
+        {
+            "name": "Demi Lovato",
+            "href": "https://www.whosdatedwho.com/dating/demi-lovato",
+            "relationship_type": 2,
+            "start_date": "Sep 2008",
+            "end_date": "Jan 2009",
+            "length": "4 months",
+            "start_months_since_1900": 1304,
+            "end_months_since_1900": 1308,
+            "length_in_months": 4
+        }
+    ],
+    "details": {
+        "First Name": "Alexander",
+        "Middle Name": "Michael",
+        "Last Name": "DeLeon",
+        "Maiden Name": "NA",
+        "Full Name at Birth": "Alexander Michael DeLeon",
+        "Alternative Name": "Alex, Alexander DeLeon",
+        "Birthday": "1989",
+        "Birthplace": "NV",
+        "Height": "170",
+        "Weight": "NA",
+        "Zodiac Sign": "7",
+        "Sexuality": "Straight",
+        "Religion": "1",
+        "Ethnicity": "6",
+        "Nationality": "91",
+        "Occupation": "1"
+    }
+}

@@ -1,0 +1,66 @@
+{
+    "relationships": [
+        {
+            "name": "Vincent Price",
+            "href": "https://www.whosdatedwho.com/dating/vincent-price",
+            "relationship_type": 4,
+            "start_date": "Oct 1973",
+            "end_date": "29th May 1991",
+            "length": "17 years",
+            "start_months_since_1900": 885,
+            "end_months_since_1900": 1096,
+            "length_in_months": 204
+        },
+        {
+            "name": "Philip Pearman",
+            "href": "https://www.whosdatedwho.com/dating/philip-pearman",
+            "relationship_type": 4,
+            "start_date": "1949",
+            "end_date": "1964",
+            "length": "15 years",
+            "start_months_since_1900": 588,
+            "end_months_since_1900": 768,
+            "length_in_months": 180
+        },
+        {
+            "name": "Jack Buchanan",
+            "href": "https://www.whosdatedwho.com/dating/jack-buchanan",
+            "relationship_type": 1,
+            "start_date": "",
+            "end_date": "",
+            "length": "-",
+            "start_months_since_1900": -1,
+            "end_months_since_1900": -1,
+            "length_in_months": -1
+        },
+        {
+            "name": "Cecil Beaton",
+            "href": "https://www.whosdatedwho.com/dating/cecil-beaton",
+            "relationship_type": 2,
+            "start_date": "",
+            "end_date": "",
+            "length": "-",
+            "start_months_since_1900": -1,
+            "end_months_since_1900": -1,
+            "length_in_months": -1
+        }
+    ],
+    "details": {
+        "First Name": "Coral",
+        "Middle Name": "Edith",
+        "Last Name": "Browne",
+        "Maiden Name": "Brown",
+        "Full Name at Birth": "Coral Edith Brown",
+        "Alternative Name": "NA",
+        "Birthday": "1913",
+        "Birthplace": "Austrailia",
+        "Height": "NA",
+        "Weight": "NA",
+        "Zodiac Sign": "8",
+        "Sexuality": "Straight",
+        "Religion": "13",
+        "Ethnicity": "6",
+        "Nationality": "135",
+        "Occupation": "8"
+    }
+}

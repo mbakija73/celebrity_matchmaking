@@ -1,0 +1,33 @@
+{
+    "relationships": [
+        {
+            "name": "Olivia de Havilland",
+            "href": "https://www.whosdatedwho.com/dating/olivia-de-havilland",
+            "relationship_type": 4,
+            "start_date": "Apr 1954",
+            "end_date": "Apr 1979",
+            "length": "25 years",
+            "start_months_since_1900": 651,
+            "end_months_since_1900": 951,
+            "length_in_months": 300
+        }
+    ],
+    "details": {
+        "First Name": "Pierre",
+        "Middle Name": "NA",
+        "Last Name": "Galante",
+        "Maiden Name": "NA",
+        "Full Name at Birth": "NA",
+        "Alternative Name": "NA",
+        "Birthday": "1909",
+        "Birthplace": "NA",
+        "Height": "NA",
+        "Weight": "NA",
+        "Zodiac Sign": "5",
+        "Sexuality": "NA",
+        "Religion": "1",
+        "Ethnicity": "1",
+        "Nationality": "65",
+        "Occupation": "3"
+    }
+}

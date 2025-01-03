@@ -1,0 +1,66 @@
+{
+    "relationships": [
+        {
+            "name": "Cleo Moore",
+            "href": "https://www.whosdatedwho.com/dating/cleo-moore",
+            "relationship_type": 2,
+            "start_date": "Feb 1955",
+            "end_date": "Apr 1960",
+            "length": "5 years",
+            "start_months_since_1900": 661,
+            "end_months_since_1900": 723,
+            "length_in_months": 60
+        },
+        {
+            "name": "Piper Laurie",
+            "href": "https://www.whosdatedwho.com/dating/piper-laurie",
+            "relationship_type": 2,
+            "start_date": "Nov 1954",
+            "end_date": "Jun 1955",
+            "length": "7 months",
+            "start_months_since_1900": 658,
+            "end_months_since_1900": 665,
+            "length_in_months": 7
+        },
+        {
+            "name": "Julie Adams",
+            "href": "https://www.whosdatedwho.com/dating/julie-adams",
+            "relationship_type": 2,
+            "start_date": "Feb 1954",
+            "end_date": "Apr 1954",
+            "length": "1 month",
+            "start_months_since_1900": 649,
+            "end_months_since_1900": 651,
+            "length_in_months": 1
+        },
+        {
+            "name": "Myrna Hansen",
+            "href": "https://www.whosdatedwho.com/dating/myrna-hansen",
+            "relationship_type": 3,
+            "start_date": "Sep 1953",
+            "end_date": "Oct 1953",
+            "length": "1 month",
+            "start_months_since_1900": 644,
+            "end_months_since_1900": 645,
+            "length_in_months": 1
+        }
+    ],
+    "details": {
+        "First Name": "Charles",
+        "Middle Name": "NA",
+        "Last Name": "Simonelli",
+        "Maiden Name": "NA",
+        "Full Name at Birth": "NA",
+        "Alternative Name": "NA",
+        "Birthday": "NA",
+        "Birthplace": "NA",
+        "Height": "NA",
+        "Weight": "NA",
+        "Zodiac Sign": "2",
+        "Sexuality": "NA",
+        "Religion": "1",
+        "Ethnicity": "1",
+        "Nationality": "65",
+        "Occupation": "19"
+    }
+}

@@ -1,0 +1,33 @@
+{
+    "relationships": [
+        {
+            "name": "Paul Walker",
+            "href": "https://www.whosdatedwho.com/dating/paul-walker",
+            "relationship_type": 2,
+            "start_date": "Jan 1998",
+            "end_date": "Jan 1999",
+            "length": "1 year",
+            "start_months_since_1900": 1176,
+            "end_months_since_1900": 1188,
+            "length_in_months": 12
+        }
+    ],
+    "details": {
+        "First Name": "Rebecca",
+        "Middle Name": "Jo",
+        "Last Name": "Soteros",
+        "Maiden Name": "NA",
+        "Full Name at Birth": "Rebecca Jo Soteros",
+        "Alternative Name": "Rebecca Soteros, Rebecca McBrain, Rebecca McBrain Soteros",
+        "Birthday": "1974",
+        "Birthplace": "USA",
+        "Height": "168",
+        "Weight": "132lbs (60 kg)",
+        "Zodiac Sign": "1",
+        "Sexuality": "Straight",
+        "Religion": "18",
+        "Ethnicity": "6",
+        "Nationality": "91",
+        "Occupation": "5"
+    }
+}

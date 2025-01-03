@@ -1,0 +1,55 @@
+{
+    "relationships": [
+        {
+            "name": "Susannah Harker",
+            "href": "https://www.whosdatedwho.com/dating/susannah-harker",
+            "relationship_type": 2,
+            "start_date": "2006",
+            "end_date": "2008",
+            "length": "2 years",
+            "start_months_since_1900": 1272,
+            "end_months_since_1900": 1296,
+            "length_in_months": 24
+        },
+        {
+            "name": "Catherine Zeta-Jones",
+            "href": "https://www.whosdatedwho.com/dating/catherine-zeta-jones",
+            "relationship_type": 2,
+            "start_date": "1995",
+            "end_date": "1995",
+            "length": "-",
+            "start_months_since_1900": 1140,
+            "end_months_since_1900": 1140,
+            "length_in_months": -1
+        },
+        {
+            "name": "Annie Milner",
+            "href": "https://www.whosdatedwho.com/dating/annie-milner",
+            "relationship_type": 4,
+            "start_date": "1992",
+            "end_date": "2006",
+            "length": "14 years",
+            "start_months_since_1900": 1104,
+            "end_months_since_1900": 1272,
+            "length_in_months": 168
+        }
+    ],
+    "details": {
+        "First Name": "Paul",
+        "Middle Name": "NA",
+        "Last Name": "McGann",
+        "Maiden Name": "NA",
+        "Full Name at Birth": "Paul McGann",
+        "Alternative Name": "NA",
+        "Birthday": "1959",
+        "Birthplace": "England",
+        "Height": "178",
+        "Weight": "NA",
+        "Zodiac Sign": "5",
+        "Sexuality": "Straight",
+        "Religion": "13",
+        "Ethnicity": "6",
+        "Nationality": "8",
+        "Occupation": "8"
+    }
+}

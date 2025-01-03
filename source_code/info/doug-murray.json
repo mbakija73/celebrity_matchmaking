@@ -1,0 +1,44 @@
+{
+    "relationships": [
+        {
+            "name": "Elin Nordegren",
+            "href": "https://www.whosdatedwho.com/dating/elin-nordegren",
+            "relationship_type": 2,
+            "start_date": "Jul 2012",
+            "end_date": "Dec 2012",
+            "length": "5 months",
+            "start_months_since_1900": 1350,
+            "end_months_since_1900": 1355,
+            "length_in_months": 5
+        },
+        {
+            "name": "Katie Blair",
+            "href": "https://www.whosdatedwho.com/dating/katie-blair",
+            "relationship_type": 2,
+            "start_date": "2008",
+            "end_date": "2010",
+            "length": "2 years",
+            "start_months_since_1900": 1296,
+            "end_months_since_1900": 1320,
+            "length_in_months": 24
+        }
+    ],
+    "details": {
+        "First Name": "Douglas",
+        "Middle Name": "NA",
+        "Last Name": "Murray",
+        "Maiden Name": "NA",
+        "Full Name at Birth": "NA",
+        "Alternative Name": "NA",
+        "Birthday": "1980",
+        "Birthplace": "Sweden",
+        "Height": "191",
+        "Weight": "240lbs (109 kg)",
+        "Zodiac Sign": "1",
+        "Sexuality": "Straight",
+        "Religion": "1",
+        "Ethnicity": "6",
+        "Nationality": "30",
+        "Occupation": "2"
+    }
+}

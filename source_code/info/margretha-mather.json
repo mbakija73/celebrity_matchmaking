@@ -1,0 +1,16 @@
+{
+    "relationships": [
+        {
+            "name": "Edward Weston",
+            "href": "https://www.whosdatedwho.com/dating/edward-weston",
+            "relationship_type": 2,
+            "start_date": "1913",
+            "end_date": "1923",
+            "length": "10 years",
+            "start_months_since_1900": 156,
+            "end_months_since_1900": 276,
+            "length_in_months": 120
+        }
+    ],
+    "details": {}
+}

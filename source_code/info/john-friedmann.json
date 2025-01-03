@@ -1,0 +1,44 @@
+{
+    "relationships": [
+        {
+            "name": "Bettina Zimmermann",
+            "href": "https://www.whosdatedwho.com/dating/bettina-zimmermann",
+            "relationship_type": 2,
+            "start_date": "2002",
+            "end_date": "2005",
+            "length": "3 years",
+            "start_months_since_1900": 1224,
+            "end_months_since_1900": 1260,
+            "length_in_months": 36
+        },
+        {
+            "name": "Sarah Valentina Winkhaus",
+            "href": "https://www.whosdatedwho.com/dating/sarah-winkhaus",
+            "relationship_type": 2,
+            "start_date": "",
+            "end_date": "present",
+            "length": "-",
+            "start_months_since_1900": -1,
+            "end_months_since_1900": -1,
+            "length_in_months": -1
+        }
+    ],
+    "details": {
+        "First Name": "John",
+        "Middle Name": "NA",
+        "Last Name": "Friedmann",
+        "Maiden Name": "NA",
+        "Full Name at Birth": "NA",
+        "Alternative Name": "Erkan Maria Moosleitner",
+        "Birthday": "1971",
+        "Birthplace": "Germany",
+        "Height": "175",
+        "Weight": "NA",
+        "Zodiac Sign": "12",
+        "Sexuality": "Straight",
+        "Religion": "1",
+        "Ethnicity": "6",
+        "Nationality": "55",
+        "Occupation": "8"
+    }
+}

@@ -1,0 +1,77 @@
+{
+    "relationships": [
+        {
+            "name": "Amber Rose",
+            "href": "https://www.whosdatedwho.com/dating/amber-rose",
+            "relationship_type": 2,
+            "start_date": "Nov 2022",
+            "end_date": "present",
+            "length": "1 year",
+            "start_months_since_1900": 1474,
+            "end_months_since_1900": -1,
+            "length_in_months": 12
+        },
+        {
+            "name": "Teyana Taylor",
+            "href": "https://www.whosdatedwho.com/dating/teyana-taylor",
+            "relationship_type": 4,
+            "start_date": "Jul 2013",
+            "end_date": "May 2023",
+            "length": "9 years",
+            "start_months_since_1900": 1362,
+            "end_months_since_1900": 1480,
+            "length_in_months": 108
+        },
+        {
+            "name": "Elle Varner",
+            "href": "https://www.whosdatedwho.com/dating/elle-varner",
+            "relationship_type": 2,
+            "start_date": "Mar 2012",
+            "end_date": "Sep 2013",
+            "length": "1 year",
+            "start_months_since_1900": 1346,
+            "end_months_since_1900": 1364,
+            "length_in_months": 12
+        },
+        {
+            "name": "Sophie Brussaux",
+            "href": "https://www.whosdatedwho.com/dating/rosee-divine",
+            "relationship_type": 3,
+            "start_date": "2011",
+            "end_date": "2011",
+            "length": "-",
+            "start_months_since_1900": 1332,
+            "end_months_since_1900": 1332,
+            "length_in_months": -1
+        },
+        {
+            "name": "Stephanie Woods (mistress)",
+            "href": "https://www.whosdatedwho.com/dating/stephanie-woods-mistress",
+            "relationship_type": 3,
+            "start_date": "",
+            "end_date": "",
+            "length": "-",
+            "start_months_since_1900": -1,
+            "end_months_since_1900": -1,
+            "length_in_months": -1
+        }
+    ],
+    "details": {
+        "First Name": "Iman",
+        "Middle Name": "Asante",
+        "Last Name": "Shumpert",
+        "Maiden Name": "NA",
+        "Full Name at Birth": "Iman Asante Shumpert",
+        "Alternative Name": "Shump, Iman Shumpert, Iman Asante Shumpert",
+        "Birthday": "1990",
+        "Birthplace": "USA",
+        "Height": "196",
+        "Weight": "212lbs (96 kg)",
+        "Zodiac Sign": "8",
+        "Sexuality": "Straight",
+        "Religion": "1",
+        "Ethnicity": "2",
+        "Nationality": "91",
+        "Occupation": "2"
+    }
+}

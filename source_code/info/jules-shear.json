@@ -1,0 +1,44 @@
+{
+    "relationships": [
+        {
+            "name": "Pal Shazar",
+            "href": "https://www.whosdatedwho.com/dating/pal-shazar",
+            "relationship_type": 4,
+            "start_date": "1988",
+            "end_date": "",
+            "length": "-",
+            "start_months_since_1900": 1056,
+            "end_months_since_1900": -1,
+            "length_in_months": -1
+        },
+        {
+            "name": "Aimee Mann",
+            "href": "https://www.whosdatedwho.com/dating/aimee-mann",
+            "relationship_type": 2,
+            "start_date": "1985",
+            "end_date": "1987",
+            "length": "2 years",
+            "start_months_since_1900": 1020,
+            "end_months_since_1900": 1044,
+            "length_in_months": 24
+        }
+    ],
+    "details": {
+        "First Name": "Jules",
+        "Middle Name": "NA",
+        "Last Name": "Shear",
+        "Maiden Name": "NA",
+        "Full Name at Birth": "NA",
+        "Alternative Name": "NA",
+        "Birthday": "1951",
+        "Birthplace": "Pennsylvania",
+        "Height": "NA",
+        "Weight": "NA",
+        "Zodiac Sign": "2",
+        "Sexuality": "NA",
+        "Religion": "1",
+        "Ethnicity": "1",
+        "Nationality": "91",
+        "Occupation": "3"
+    }
+}

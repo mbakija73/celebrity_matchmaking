@@ -1,0 +1,55 @@
+{
+    "relationships": [
+        {
+            "name": "Toni Garrn",
+            "href": "https://www.whosdatedwho.com/dating/toni-garrn",
+            "relationship_type": 2,
+            "start_date": "Jun 2018",
+            "end_date": "Jan 2019",
+            "length": "7 months",
+            "start_months_since_1900": 1421,
+            "end_months_since_1900": 1428,
+            "length_in_months": 7
+        },
+        {
+            "name": "Lily Cole",
+            "href": "https://www.whosdatedwho.com/dating/lily-cole",
+            "relationship_type": 2,
+            "start_date": "Aug 2008",
+            "end_date": "Feb 2011",
+            "length": "2 years",
+            "start_months_since_1900": 1303,
+            "end_months_since_1900": 1333,
+            "length_in_months": 24
+        },
+        {
+            "name": "Molly Sims",
+            "href": "https://www.whosdatedwho.com/dating/molly-sims",
+            "relationship_type": 2,
+            "start_date": "2002",
+            "end_date": "2003",
+            "length": "1 year",
+            "start_months_since_1900": 1224,
+            "end_months_since_1900": 1236,
+            "length_in_months": 12
+        }
+    ],
+    "details": {
+        "First Name": "Enrique",
+        "Middle Name": "Ricardo",
+        "Last Name": "Murciano",
+        "Maiden Name": "NA",
+        "Full Name at Birth": "Enrique Ricardo Murciano",
+        "Alternative Name": "Enrique Murciano Jr.",
+        "Birthday": "1973",
+        "Birthplace": "USA",
+        "Height": "185",
+        "Weight": "NA",
+        "Zodiac Sign": "8",
+        "Sexuality": "Straight",
+        "Religion": "1",
+        "Ethnicity": "6",
+        "Nationality": "91",
+        "Occupation": "8"
+    }
+}

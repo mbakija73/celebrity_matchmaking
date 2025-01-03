@@ -1,0 +1,27 @@
+{
+    "relationships": [
+        {
+            "name": "Yamila Reyna",
+            "href": "https://www.whosdatedwho.com/dating/yamila-reyna",
+            "relationship_type": 2,
+            "start_date": "2016",
+            "end_date": "2018",
+            "length": "2 years",
+            "start_months_since_1900": 1392,
+            "end_months_since_1900": 1416,
+            "length_in_months": 24
+        },
+        {
+            "name": "Camila Andrade",
+            "href": "https://www.whosdatedwho.com/dating/camila-andrade",
+            "relationship_type": 2,
+            "start_date": "2014",
+            "end_date": "Dec 2015",
+            "length": "1 year",
+            "start_months_since_1900": 1368,
+            "end_months_since_1900": 1391,
+            "length_in_months": 12
+        }
+    ],
+    "details": {}
+}

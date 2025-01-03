@@ -1,0 +1,77 @@
+{
+    "relationships": [
+        {
+            "name": "Zubin Mehta",
+            "href": "https://www.whosdatedwho.com/dating/zubin-mehta",
+            "relationship_type": 4,
+            "start_date": "Jul 1969",
+            "end_date": "present",
+            "length": "55 years",
+            "start_months_since_1900": 834,
+            "end_months_since_1900": -1,
+            "length_in_months": 660
+        },
+        {
+            "name": "William Shatner",
+            "href": "https://www.whosdatedwho.com/dating/william-shatner",
+            "relationship_type": 2,
+            "start_date": "Oct 1968",
+            "end_date": "Mar 1969",
+            "length": "5 months",
+            "start_months_since_1900": 825,
+            "end_months_since_1900": 830,
+            "length_in_months": 5
+        },
+        {
+            "name": "Brad Dexter",
+            "href": "https://www.whosdatedwho.com/dating/brad-dexter",
+            "relationship_type": 3,
+            "start_date": "Jun 1968",
+            "end_date": "Aug 1968",
+            "length": "2 months",
+            "start_months_since_1900": 821,
+            "end_months_since_1900": 823,
+            "length_in_months": 2
+        },
+        {
+            "name": "Peter Romano",
+            "href": "https://www.whosdatedwho.com/dating/peter-romano",
+            "relationship_type": 2,
+            "start_date": "Feb 1961",
+            "end_date": "Nov 1961",
+            "length": "9 months",
+            "start_months_since_1900": 733,
+            "end_months_since_1900": 742,
+            "length_in_months": 9
+        },
+        {
+            "name": "Cary Grant",
+            "href": "https://www.whosdatedwho.com/dating/cary-grant",
+            "relationship_type": 2,
+            "start_date": "Sep 1960",
+            "end_date": "Oct 1960",
+            "length": "1 month",
+            "start_months_since_1900": 728,
+            "end_months_since_1900": 729,
+            "length_in_months": 1
+        }
+    ],
+    "details": {
+        "First Name": "Nancy",
+        "Middle Name": "NA",
+        "Last Name": "Kovack",
+        "Maiden Name": "Kovach",
+        "Full Name at Birth": "Nancy Kovach",
+        "Alternative Name": "Nancy Kovach Mehta, Nancy Kovack Mehta, Nancy Mehta, Nancy Kovach",
+        "Birthday": "1935",
+        "Birthplace": "USA",
+        "Height": "174",
+        "Weight": "NA",
+        "Zodiac Sign": "1",
+        "Sexuality": "Straight",
+        "Religion": "29",
+        "Ethnicity": "6",
+        "Nationality": "91",
+        "Occupation": "8"
+    }
+}

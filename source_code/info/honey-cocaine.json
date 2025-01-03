@@ -1,0 +1,44 @@
+{
+    "relationships": [
+        {
+            "name": "Tyga",
+            "href": "https://www.whosdatedwho.com/dating/tyga",
+            "relationship_type": 3,
+            "start_date": "Jul 2011",
+            "end_date": "Nov 2011",
+            "length": "4 months",
+            "start_months_since_1900": 1338,
+            "end_months_since_1900": 1342,
+            "length_in_months": 4
+        },
+        {
+            "name": "Freddy E (rapper)",
+            "href": "https://www.whosdatedwho.com/dating/freddy-e-rapper",
+            "relationship_type": 2,
+            "start_date": "",
+            "end_date": "",
+            "length": "-",
+            "start_months_since_1900": -1,
+            "end_months_since_1900": -1,
+            "length_in_months": -1
+        }
+    ],
+    "details": {
+        "First Name": "Honey",
+        "Middle Name": "NA",
+        "Last Name": "Cocaine",
+        "Maiden Name": "NA",
+        "Full Name at Birth": "Sochitta Sal",
+        "Alternative Name": "Honey Cocaine, Honey C, The Gangsta Hello Kitty, Sochitta Sal",
+        "Birthday": "1992",
+        "Birthplace": "Canada",
+        "Height": "157",
+        "Weight": "121lbs (55 kg)",
+        "Zodiac Sign": "10",
+        "Sexuality": "Straight",
+        "Religion": "1",
+        "Ethnicity": "3",
+        "Nationality": "90",
+        "Occupation": "1"
+    }
+}

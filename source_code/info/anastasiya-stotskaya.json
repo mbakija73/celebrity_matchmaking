@@ -1,0 +1,55 @@
+{
+    "relationships": [
+        {
+            "name": "Sergei",
+            "href": "https://www.whosdatedwho.com/dating/sergei",
+            "relationship_type": 4,
+            "start_date": "2010",
+            "end_date": "2019",
+            "length": "9 years",
+            "start_months_since_1900": 1320,
+            "end_months_since_1900": 1428,
+            "length_in_months": 108
+        },
+        {
+            "name": "Philipp Kirkorov",
+            "href": "https://www.whosdatedwho.com/dating/filipp-kirkorov",
+            "relationship_type": 2,
+            "start_date": "2004",
+            "end_date": "2009",
+            "length": "5 years",
+            "start_months_since_1900": 1248,
+            "end_months_since_1900": 1308,
+            "length_in_months": 60
+        },
+        {
+            "name": "Aleksey Sekirin",
+            "href": "https://www.whosdatedwho.com/dating/aleksei-sekirin",
+            "relationship_type": 4,
+            "start_date": "2003",
+            "end_date": "2008",
+            "length": "5 years",
+            "start_months_since_1900": 1236,
+            "end_months_since_1900": 1296,
+            "length_in_months": 60
+        }
+    ],
+    "details": {
+        "First Name": "Anastasia",
+        "Middle Name": "Aleksandrovna",
+        "Last Name": "NA",
+        "Maiden Name": "Stotskaya",
+        "Full Name at Birth": "Anastasia Aleksandrovna Stotskaya",
+        "Alternative Name": "\u00c0\u00ed\u00e0\u00f1\u00f2\u00e0\u00f1\u00e8\u00ff \u00c0\u00eb\u00e5\u00ea\u00f1\u00e0\u00ed\u00e4\u00f0\u00ee\u00e2\u00ed\u00e0 \u00d1\u00f2\u00ee\u00f6\u00ea\u00e0\u00ff, \u00c0\u00ed\u00e0\u00f1\u00f2\u00e0\u00f1\u00e8\u00ff \u00d1\u00f2\u00ee\u00f6\u00ea\u00e0\u00ff, Anastasiya Stotskaya, Anastasia Aleksandrovna Stotskaya, Anastasia Stotskaya",
+        "Birthday": "1982",
+        "Birthplace": "Ukraine",
+        "Height": "NA",
+        "Weight": "NA",
+        "Zodiac Sign": "10",
+        "Sexuality": "NA",
+        "Religion": "1",
+        "Ethnicity": "6",
+        "Nationality": "29",
+        "Occupation": "1"
+    }
+}

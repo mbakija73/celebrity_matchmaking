@@ -1,0 +1,33 @@
+{
+    "relationships": [
+        {
+            "name": "Billy Ray Cyrus",
+            "href": "https://www.whosdatedwho.com/dating/billy-ray-cyrus",
+            "relationship_type": 4,
+            "start_date": "1985",
+            "end_date": "1991",
+            "length": "6 years",
+            "start_months_since_1900": 1020,
+            "end_months_since_1900": 1092,
+            "length_in_months": 72
+        }
+    ],
+    "details": {
+        "First Name": "Cindy",
+        "Middle Name": "NA",
+        "Last Name": "Smith",
+        "Maiden Name": "NA",
+        "Full Name at Birth": "Cindy Smith",
+        "Alternative Name": "NA",
+        "Birthday": "NA",
+        "Birthplace": "NA",
+        "Height": "NA",
+        "Weight": "NA",
+        "Zodiac Sign": "2",
+        "Sexuality": "Straight",
+        "Religion": "1",
+        "Ethnicity": "6",
+        "Nationality": "91",
+        "Occupation": "18"
+    }
+}

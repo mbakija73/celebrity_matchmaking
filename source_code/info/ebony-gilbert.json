@@ -1,0 +1,55 @@
+{
+    "relationships": [
+        {
+            "name": "Joe Cole",
+            "href": "https://www.whosdatedwho.com/dating/joe-cole",
+            "relationship_type": 2,
+            "start_date": "22nd Mar 2002",
+            "end_date": "23rd Mar 2002",
+            "length": "< 1 month",
+            "start_months_since_1900": 1226,
+            "end_months_since_1900": 1226,
+            "length_in_months": 0
+        },
+        {
+            "name": "Jamie Morrison",
+            "href": "https://www.whosdatedwho.com/dating/jamie-morrison",
+            "relationship_type": 2,
+            "start_date": "2001",
+            "end_date": "2001",
+            "length": "-",
+            "start_months_since_1900": 1212,
+            "end_months_since_1900": 1212,
+            "length_in_months": -1
+        },
+        {
+            "name": "Mark Feehily",
+            "href": "https://www.whosdatedwho.com/dating/mark-feehily",
+            "relationship_type": 2,
+            "start_date": "2000",
+            "end_date": "2001",
+            "length": "1 year",
+            "start_months_since_1900": 1200,
+            "end_months_since_1900": 1212,
+            "length_in_months": 12
+        }
+    ],
+    "details": {
+        "First Name": "Ebony",
+        "Middle Name": "NA",
+        "Last Name": "NA",
+        "Maiden Name": "Gilbert",
+        "Full Name at Birth": "Ebony Gilbert",
+        "Alternative Name": "NA",
+        "Birthday": "NA",
+        "Birthplace": "UK",
+        "Height": "160",
+        "Weight": "NA",
+        "Zodiac Sign": "2",
+        "Sexuality": "Straight",
+        "Religion": "1",
+        "Ethnicity": "6",
+        "Nationality": "8",
+        "Occupation": "15"
+    }
+}

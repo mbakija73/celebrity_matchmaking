@@ -1,0 +1,55 @@
+{
+    "relationships": [
+        {
+            "name": "John MacColl",
+            "href": "https://www.whosdatedwho.com/dating/john-maccoll",
+            "relationship_type": 4,
+            "start_date": "Nov 2009",
+            "end_date": "present",
+            "length": "14 years",
+            "start_months_since_1900": 1318,
+            "end_months_since_1900": -1,
+            "length_in_months": 168
+        },
+        {
+            "name": "Dr. Kenneth Forsythe",
+            "href": "https://www.whosdatedwho.com/dating/dr-kenneth-forsythe",
+            "relationship_type": 4,
+            "start_date": "1987",
+            "end_date": "1987",
+            "length": "-",
+            "start_months_since_1900": 1044,
+            "end_months_since_1900": 1044,
+            "length_in_months": -1
+        },
+        {
+            "name": "Dean Paul Martin",
+            "href": "https://www.whosdatedwho.com/dating/dean-paul-martin",
+            "relationship_type": 4,
+            "start_date": "1976",
+            "end_date": "1984",
+            "length": "8 years",
+            "start_months_since_1900": 912,
+            "end_months_since_1900": 1008,
+            "length_in_months": 96
+        }
+    ],
+    "details": {
+        "First Name": "Dorothy",
+        "Middle Name": "NA",
+        "Last Name": "Hamill",
+        "Maiden Name": "NA",
+        "Full Name at Birth": "Dorothy Stuart Hamill",
+        "Alternative Name": "NA",
+        "Birthday": "1956",
+        "Birthplace": "USA",
+        "Height": "165",
+        "Weight": "NA",
+        "Zodiac Sign": "12",
+        "Sexuality": "Straight",
+        "Religion": "1",
+        "Ethnicity": "6",
+        "Nationality": "91",
+        "Occupation": "2"
+    }
+}

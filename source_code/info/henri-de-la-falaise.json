@@ -1,0 +1,55 @@
+{
+    "relationships": [
+        {
+            "name": "Thelma Morgan",
+            "href": "https://www.whosdatedwho.com/dating/thelma-morgan",
+            "relationship_type": 2,
+            "start_date": "1935",
+            "end_date": "1938",
+            "length": "3 years",
+            "start_months_since_1900": 420,
+            "end_months_since_1900": 456,
+            "length_in_months": 36
+        },
+        {
+            "name": "Constance Bennett",
+            "href": "https://www.whosdatedwho.com/dating/constance-bennett",
+            "relationship_type": 4,
+            "start_date": "Nov 1930",
+            "end_date": "14th Nov 1940",
+            "length": "10 years",
+            "start_months_since_1900": 370,
+            "end_months_since_1900": 490,
+            "length_in_months": 120
+        },
+        {
+            "name": "Gloria Swanson",
+            "href": "https://www.whosdatedwho.com/dating/gloria-swanson",
+            "relationship_type": 4,
+            "start_date": "Aug 1924",
+            "end_date": "29th Nov 1930",
+            "length": "6 years",
+            "start_months_since_1900": 295,
+            "end_months_since_1900": 370,
+            "length_in_months": 72
+        }
+    ],
+    "details": {
+        "First Name": "Henri",
+        "Middle Name": "De La",
+        "Last Name": "Falaise",
+        "Maiden Name": "NA",
+        "Full Name at Birth": "NA",
+        "Alternative Name": "Henry de La Falaise",
+        "Birthday": "1898",
+        "Birthplace": "France",
+        "Height": "179",
+        "Weight": "NA",
+        "Zodiac Sign": "9",
+        "Sexuality": "Straight",
+        "Religion": "1",
+        "Ethnicity": "6",
+        "Nationality": "86",
+        "Occupation": "9"
+    }
+}

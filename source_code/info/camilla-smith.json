@@ -1,0 +1,33 @@
+{
+    "relationships": [
+        {
+            "name": "Charlie Simpson",
+            "href": "https://www.whosdatedwho.com/dating/charlie-simpson",
+            "relationship_type": 2,
+            "start_date": "2003",
+            "end_date": "2008",
+            "length": "5 years",
+            "start_months_since_1900": 1236,
+            "end_months_since_1900": 1296,
+            "length_in_months": 60
+        }
+    ],
+    "details": {
+        "First Name": "Camilla",
+        "Middle Name": "NA",
+        "Last Name": "Smith",
+        "Maiden Name": "NA",
+        "Full Name at Birth": "Camila Smith",
+        "Alternative Name": "Cammeylou",
+        "Birthday": "1982",
+        "Birthplace": "Woodbridge",
+        "Height": "171",
+        "Weight": "NA",
+        "Zodiac Sign": "4",
+        "Sexuality": "Straight",
+        "Religion": "1",
+        "Ethnicity": "6",
+        "Nationality": "8",
+        "Occupation": "18"
+    }
+}

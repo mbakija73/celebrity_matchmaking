@@ -1,0 +1,77 @@
+{
+    "relationships": [
+        {
+            "name": "Rupert Pole",
+            "href": "https://www.whosdatedwho.com/dating/rupert-pole",
+            "relationship_type": 4,
+            "start_date": "1947",
+            "end_date": "1966",
+            "length": "19 years",
+            "start_months_since_1900": 564,
+            "end_months_since_1900": 792,
+            "length_in_months": 228
+        },
+        {
+            "name": "Gore Vidal",
+            "href": "https://www.whosdatedwho.com/dating/gore-vidal",
+            "relationship_type": 2,
+            "start_date": "1946",
+            "end_date": "1946",
+            "length": "-",
+            "start_months_since_1900": 552,
+            "end_months_since_1900": 552,
+            "length_in_months": -1
+        },
+        {
+            "name": "June Mansfield Miller",
+            "href": "https://www.whosdatedwho.com/dating/june-mansfield-miller",
+            "relationship_type": 2,
+            "start_date": "1931",
+            "end_date": "1934",
+            "length": "3 years",
+            "start_months_since_1900": 372,
+            "end_months_since_1900": 408,
+            "length_in_months": 36
+        },
+        {
+            "name": "Ian Hugo",
+            "href": "https://www.whosdatedwho.com/dating/ian-hugo",
+            "relationship_type": 4,
+            "start_date": "1920",
+            "end_date": "Jan 1977",
+            "length": "57 years",
+            "start_months_since_1900": 240,
+            "end_months_since_1900": 924,
+            "length_in_months": 684
+        },
+        {
+            "name": "Henry Miller",
+            "href": "https://www.whosdatedwho.com/dating/henry-miller",
+            "relationship_type": 2,
+            "start_date": "",
+            "end_date": "",
+            "length": "-",
+            "start_months_since_1900": -1,
+            "end_months_since_1900": -1,
+            "length_in_months": -1
+        }
+    ],
+    "details": {
+        "First Name": "Anais",
+        "Middle Name": "NA",
+        "Last Name": "Nin",
+        "Maiden Name": "NA",
+        "Full Name at Birth": "Angela Ana\u00efs Juana Antolina Rosa Edelmira Nin y Culmell",
+        "Alternative Name": "Angela Ana\u00efs Juana Antolina Rosa Edelmira Nin y Culmell, Ana\u00efs Nin, Ana\u00efs Nin Culmell",
+        "Birthday": "1903",
+        "Birthplace": "France",
+        "Height": "NA",
+        "Weight": "NA",
+        "Zodiac Sign": "1",
+        "Sexuality": "Bisexual",
+        "Religion": "1",
+        "Ethnicity": "6",
+        "Nationality": "86",
+        "Occupation": "3"
+    }
+}

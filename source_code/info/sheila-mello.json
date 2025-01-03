@@ -1,0 +1,66 @@
+{
+    "relationships": [
+        {
+            "name": "Denny",
+            "href": "https://www.whosdatedwho.com/dating/denny",
+            "relationship_type": 2,
+            "start_date": "May 2024",
+            "end_date": "present",
+            "length": "4 months",
+            "start_months_since_1900": 1492,
+            "end_months_since_1900": -1,
+            "length_in_months": 4
+        },
+        {
+            "name": "Feij\u00e3o (tennis player)",
+            "href": "https://www.whosdatedwho.com/dating/feijao-tennis-player",
+            "relationship_type": 2,
+            "start_date": "Jan 2020",
+            "end_date": "",
+            "length": "-",
+            "start_months_since_1900": 1440,
+            "end_months_since_1900": -1,
+            "length_in_months": -1
+        },
+        {
+            "name": "Fernando Scherer",
+            "href": "https://www.whosdatedwho.com/dating/fernando-scherer",
+            "relationship_type": 4,
+            "start_date": "2009",
+            "end_date": "1st Aug 2018",
+            "length": "9 years",
+            "start_months_since_1900": 1308,
+            "end_months_since_1900": 1423,
+            "length_in_months": 108
+        },
+        {
+            "name": "Alexandre Pires",
+            "href": "https://www.whosdatedwho.com/dating/alexandre-pires",
+            "relationship_type": 2,
+            "start_date": "2000",
+            "end_date": "2007",
+            "length": "7 years",
+            "start_months_since_1900": 1200,
+            "end_months_since_1900": 1284,
+            "length_in_months": 84
+        }
+    ],
+    "details": {
+        "First Name": "Sheila",
+        "Middle Name": "NA",
+        "Last Name": "Mello",
+        "Maiden Name": "NA",
+        "Full Name at Birth": "Sheila Chesed de Almeida Mello",
+        "Alternative Name": "Sheila Mello",
+        "Birthday": "1978",
+        "Birthplace": "Brazil",
+        "Height": "170",
+        "Weight": "139lbs (63 kg)",
+        "Zodiac Sign": "8",
+        "Sexuality": "Straight",
+        "Religion": "1",
+        "Ethnicity": "6",
+        "Nationality": "87",
+        "Occupation": "16"
+    }
+}

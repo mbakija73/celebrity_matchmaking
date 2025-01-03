@@ -1,0 +1,88 @@
+{
+    "relationships": [
+        {
+            "name": "Glenn Ford",
+            "href": "https://www.whosdatedwho.com/dating/glenn-ford",
+            "relationship_type": 4,
+            "start_date": "1942",
+            "end_date": "Nov 1959",
+            "length": "17 years",
+            "start_months_since_1900": 504,
+            "end_months_since_1900": 718,
+            "length_in_months": 204
+        },
+        {
+            "name": "James Stewart",
+            "href": "https://www.whosdatedwho.com/dating/james-stewart",
+            "relationship_type": 2,
+            "start_date": "Jul 1936",
+            "end_date": "Nov 1936",
+            "length": "4 months",
+            "start_months_since_1900": 438,
+            "end_months_since_1900": 442,
+            "length_in_months": 4
+        },
+        {
+            "name": "Wayne Morris",
+            "href": "https://www.whosdatedwho.com/dating/wayne-morris",
+            "relationship_type": 2,
+            "start_date": "",
+            "end_date": "",
+            "length": "-",
+            "start_months_since_1900": -1,
+            "end_months_since_1900": -1,
+            "length_in_months": -1
+        },
+        {
+            "name": "John Carroll",
+            "href": "https://www.whosdatedwho.com/dating/john-carroll",
+            "relationship_type": 3,
+            "start_date": "",
+            "end_date": "",
+            "length": "-",
+            "start_months_since_1900": -1,
+            "end_months_since_1900": -1,
+            "length_in_months": -1
+        },
+        {
+            "name": "Abe Lyman",
+            "href": "https://www.whosdatedwho.com/dating/abe-lyman",
+            "relationship_type": 3,
+            "start_date": "",
+            "end_date": "",
+            "length": "-",
+            "start_months_since_1900": -1,
+            "end_months_since_1900": -1,
+            "length_in_months": -1
+        },
+        {
+            "name": "Clark Gable",
+            "href": "https://www.whosdatedwho.com/dating/clark-gable",
+            "relationship_type": 3,
+            "start_date": "",
+            "end_date": "",
+            "length": "-",
+            "start_months_since_1900": -1,
+            "end_months_since_1900": -1,
+            "length_in_months": -1
+        }
+    ],
+    "details": {
+        "First Name": "Eleanor",
+        "Middle Name": "Torrey",
+        "Last Name": "Powell",
+        "Maiden Name": "NA",
+        "Full Name at Birth": "Eleanor Torrey Powell",
+        "Alternative Name": "The Queen of Tap, Ellie",
+        "Birthday": "1912",
+        "Birthplace": "USA",
+        "Height": "169",
+        "Weight": "NA",
+        "Zodiac Sign": "5",
+        "Sexuality": "Straight",
+        "Religion": "36",
+        "Ethnicity": "6",
+        "Nationality": "91",
+        "Occupation": "8"
+    }
+}

@@ -1,0 +1,88 @@
+{
+    "relationships": [
+        {
+            "name": "John Mayer",
+            "href": "https://www.whosdatedwho.com/dating/john-mayer",
+            "relationship_type": 3,
+            "start_date": "May 2010",
+            "end_date": "May 2010",
+            "length": "-",
+            "start_months_since_1900": 1324,
+            "end_months_since_1900": 1324,
+            "length_in_months": -1
+        },
+        {
+            "name": "Jonathan Rhys Meyers",
+            "href": "https://www.whosdatedwho.com/dating/jonathan-rhys-meyers",
+            "relationship_type": 2,
+            "start_date": "Sep 2004",
+            "end_date": "Jan 2012",
+            "length": "7 years",
+            "start_months_since_1900": 1256,
+            "end_months_since_1900": 1344,
+            "length_in_months": 84
+        },
+        {
+            "name": "Hayden Christensen",
+            "href": "https://www.whosdatedwho.com/dating/hayden-christensen",
+            "relationship_type": 2,
+            "start_date": "2001",
+            "end_date": "2002",
+            "length": "1 year",
+            "start_months_since_1900": 1212,
+            "end_months_since_1900": 1224,
+            "length_in_months": 12
+        },
+        {
+            "name": "Josh Duhamel",
+            "href": "https://www.whosdatedwho.com/dating/josh-duhamel",
+            "relationship_type": 1,
+            "start_date": "",
+            "end_date": "",
+            "length": "-",
+            "start_months_since_1900": -1,
+            "end_months_since_1900": -1,
+            "length_in_months": -1
+        },
+        {
+            "name": "Bruce Springsteen",
+            "href": "https://www.whosdatedwho.com/dating/bruce-springsteen",
+            "relationship_type": 1,
+            "start_date": "",
+            "end_date": "",
+            "length": "-",
+            "start_months_since_1900": -1,
+            "end_months_since_1900": -1,
+            "length_in_months": -1
+        },
+        {
+            "name": "Daniel Br\u00fchl",
+            "href": "https://www.whosdatedwho.com/dating/daniel-bruhl",
+            "relationship_type": 1,
+            "start_date": "",
+            "end_date": "",
+            "length": "-",
+            "start_months_since_1900": -1,
+            "end_months_since_1900": -1,
+            "length_in_months": -1
+        }
+    ],
+    "details": {
+        "First Name": "Reena",
+        "Middle Name": "NA",
+        "Last Name": "NA",
+        "Maiden Name": "Hammer",
+        "Full Name at Birth": "Reena Hammer",
+        "Alternative Name": "NA",
+        "Birthday": "1984",
+        "Birthplace": "UK",
+        "Height": "160",
+        "Weight": "100lbs (45 kg)",
+        "Zodiac Sign": "5",
+        "Sexuality": "Straight",
+        "Religion": "26",
+        "Ethnicity": "8",
+        "Nationality": "8",
+        "Occupation": "7"
+    }
+}

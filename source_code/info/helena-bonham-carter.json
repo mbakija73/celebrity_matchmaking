@@ -1,0 +1,66 @@
+{
+    "relationships": [
+        {
+            "name": "Rye Dag Holmbo",
+            "href": "https://www.whosdatedwho.com/dating/rye-dag-holmbo",
+            "relationship_type": 2,
+            "start_date": "2018",
+            "end_date": "present",
+            "length": "6 years",
+            "start_months_since_1900": 1416,
+            "end_months_since_1900": -1,
+            "length_in_months": 72
+        },
+        {
+            "name": "Tim Burton",
+            "href": "https://www.whosdatedwho.com/dating/tim-burton",
+            "relationship_type": 2,
+            "start_date": "Jul 2001",
+            "end_date": "2014",
+            "length": "12 years",
+            "start_months_since_1900": 1218,
+            "end_months_since_1900": 1368,
+            "length_in_months": 144
+        },
+        {
+            "name": "Rufus Sewell",
+            "href": "https://www.whosdatedwho.com/dating/rufus-sewell",
+            "relationship_type": 2,
+            "start_date": "1999",
+            "end_date": "1999",
+            "length": "-",
+            "start_months_since_1900": 1188,
+            "end_months_since_1900": 1188,
+            "length_in_months": -1
+        },
+        {
+            "name": "Kenneth Branagh",
+            "href": "https://www.whosdatedwho.com/dating/kenneth-branagh",
+            "relationship_type": 2,
+            "start_date": "Oct 1993",
+            "end_date": "Jan 1999",
+            "length": "5 years",
+            "start_months_since_1900": 1125,
+            "end_months_since_1900": 1188,
+            "length_in_months": 60
+        }
+    ],
+    "details": {
+        "First Name": "Helena",
+        "Middle Name": "NA",
+        "Last Name": "Bonham Carter",
+        "Maiden Name": "NA",
+        "Full Name at Birth": "Helena Bonham Carter",
+        "Alternative Name": "NA",
+        "Birthday": "1966",
+        "Birthplace": "UK",
+        "Height": "163",
+        "Weight": "NA",
+        "Zodiac Sign": "4",
+        "Sexuality": "Straight",
+        "Religion": "31",
+        "Ethnicity": "6",
+        "Nationality": "8",
+        "Occupation": "8"
+    }
+}

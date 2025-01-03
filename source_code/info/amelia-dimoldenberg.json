@@ -1,0 +1,55 @@
+{
+    "relationships": [
+        {
+            "name": "Ed Sheeran",
+            "href": "https://www.whosdatedwho.com/dating/ed-sheeran",
+            "relationship_type": 3,
+            "start_date": "Nov 2021",
+            "end_date": "Nov 2021",
+            "length": "-",
+            "start_months_since_1900": 1462,
+            "end_months_since_1900": 1462,
+            "length_in_months": -1
+        },
+        {
+            "name": "Aitch",
+            "href": "https://www.whosdatedwho.com/dating/aitch-rapper",
+            "relationship_type": 2,
+            "start_date": "2019",
+            "end_date": "Jan 2023",
+            "length": "4 years",
+            "start_months_since_1900": 1428,
+            "end_months_since_1900": 1476,
+            "length_in_months": 48
+        },
+        {
+            "name": "Sean Paul",
+            "href": "https://www.whosdatedwho.com/dating/sean-paul",
+            "relationship_type": 3,
+            "start_date": "Oct 2018",
+            "end_date": "Oct 2018",
+            "length": "-",
+            "start_months_since_1900": 1425,
+            "end_months_since_1900": 1425,
+            "length_in_months": -1
+        }
+    ],
+    "details": {
+        "First Name": "Amelia",
+        "Middle Name": "Beth",
+        "Last Name": "Dimoldenberg",
+        "Maiden Name": "NA",
+        "Full Name at Birth": "Amelia Beth Dimoldenberg",
+        "Alternative Name": "Amelia, Amelia Beth Dimoldenberg, Amelia Dimoldenberg",
+        "Birthday": "1994",
+        "Birthplace": "UK",
+        "Height": "170",
+        "Weight": "141lbs (64 kg)",
+        "Zodiac Sign": "9",
+        "Sexuality": "Straight",
+        "Religion": "1",
+        "Ethnicity": "6",
+        "Nationality": "8",
+        "Occupation": "11"
+    }
+}

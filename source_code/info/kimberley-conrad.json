@@ -1,0 +1,55 @@
+{
+    "relationships": [
+        {
+            "name": "Quincy Jones",
+            "href": "https://www.whosdatedwho.com/dating/quincy-jones",
+            "relationship_type": 2,
+            "start_date": "Nov 2004",
+            "end_date": "Dec 2005",
+            "length": "1 year",
+            "start_months_since_1900": 1258,
+            "end_months_since_1900": 1271,
+            "length_in_months": 12
+        },
+        {
+            "name": "Rod Stewart",
+            "href": "https://www.whosdatedwho.com/dating/rod-stewart",
+            "relationship_type": 3,
+            "start_date": "1999",
+            "end_date": "1999",
+            "length": "-",
+            "start_months_since_1900": 1188,
+            "end_months_since_1900": 1188,
+            "length_in_months": -1
+        },
+        {
+            "name": "Hugh Hefner",
+            "href": "https://www.whosdatedwho.com/dating/hugh-m-hefner",
+            "relationship_type": 4,
+            "start_date": "Feb 1988",
+            "end_date": "Mar 2010",
+            "length": "22 years",
+            "start_months_since_1900": 1057,
+            "end_months_since_1900": 1322,
+            "length_in_months": 264
+        }
+    ],
+    "details": {
+        "First Name": "Kimberley",
+        "Middle Name": "NA",
+        "Last Name": "NA",
+        "Maiden Name": "Conrad",
+        "Full Name at Birth": "Kimberley Conradt",
+        "Alternative Name": "Hef's \"Playmate of a Lifetime\" Magazine Cover, Kim Conrad, Kimberley Conrad Hefner, Miss January 1988, Playmate of the Year 1989, Kimberley",
+        "Birthday": "1962",
+        "Birthplace": "USA",
+        "Height": "175",
+        "Weight": "128lbs (58 kg)",
+        "Zodiac Sign": "12",
+        "Sexuality": "Straight",
+        "Religion": "1",
+        "Ethnicity": "6",
+        "Nationality": "91",
+        "Occupation": "16"
+    }
+}

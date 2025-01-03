@@ -1,0 +1,44 @@
+{
+    "relationships": [
+        {
+            "name": "Eva Sikes",
+            "href": "https://www.whosdatedwho.com/dating/eva-sikes",
+            "relationship_type": 2,
+            "start_date": "2016",
+            "end_date": "present",
+            "length": "8 years",
+            "start_months_since_1900": 1392,
+            "end_months_since_1900": -1,
+            "length_in_months": 96
+        },
+        {
+            "name": "Beth Liebling",
+            "href": "https://www.whosdatedwho.com/dating/beth-liebling",
+            "relationship_type": 2,
+            "start_date": "2000",
+            "end_date": "2014",
+            "length": "14 years",
+            "start_months_since_1900": 1200,
+            "end_months_since_1900": 1368,
+            "length_in_months": 168
+        }
+    ],
+    "details": {
+        "First Name": "Mike",
+        "Middle Name": "NA",
+        "Last Name": "Ranquet",
+        "Maiden Name": "NA",
+        "Full Name at Birth": "NA",
+        "Alternative Name": "NA",
+        "Birthday": "1970",
+        "Birthplace": "WA",
+        "Height": "NA",
+        "Weight": "NA",
+        "Zodiac Sign": "12",
+        "Sexuality": "Straight",
+        "Religion": "1",
+        "Ethnicity": "6",
+        "Nationality": "91",
+        "Occupation": "2"
+    }
+}

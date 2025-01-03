@@ -1,0 +1,88 @@
+{
+    "relationships": [
+        {
+            "name": "Lee Trundle",
+            "href": "https://www.whosdatedwho.com/dating/lee-trundle",
+            "relationship_type": 2,
+            "start_date": "Mar 2007",
+            "end_date": "Mar 2007",
+            "length": "-",
+            "start_months_since_1900": 1286,
+            "end_months_since_1900": 1286,
+            "length_in_months": -1
+        },
+        {
+            "name": "Lee Ryan",
+            "href": "https://www.whosdatedwho.com/dating/lee-ryan",
+            "relationship_type": 2,
+            "start_date": "2003",
+            "end_date": "2004",
+            "length": "1 year",
+            "start_months_since_1900": 1236,
+            "end_months_since_1900": 1248,
+            "length_in_months": 12
+        },
+        {
+            "name": "Kian Egan",
+            "href": "https://www.whosdatedwho.com/dating/kian-egan",
+            "relationship_type": 2,
+            "start_date": "2003",
+            "end_date": "2003",
+            "length": "-",
+            "start_months_since_1900": 1236,
+            "end_months_since_1900": 1236,
+            "length_in_months": -1
+        },
+        {
+            "name": "Frank Lampard",
+            "href": "https://www.whosdatedwho.com/dating/frank-lampard",
+            "relationship_type": 2,
+            "start_date": "Mar 2002",
+            "end_date": "Dec 2002",
+            "length": "9 months",
+            "start_months_since_1900": 1226,
+            "end_months_since_1900": 1235,
+            "length_in_months": 9
+        },
+        {
+            "name": "Tommy Hibbs",
+            "href": "https://www.whosdatedwho.com/dating/tommy-hibbs",
+            "relationship_type": 2,
+            "start_date": "1995",
+            "end_date": "2001",
+            "length": "6 years",
+            "start_months_since_1900": 1140,
+            "end_months_since_1900": 1212,
+            "length_in_months": 72
+        },
+        {
+            "name": "Calum Best",
+            "href": "https://www.whosdatedwho.com/dating/calum-best",
+            "relationship_type": 3,
+            "start_date": "",
+            "end_date": "",
+            "length": "-",
+            "start_months_since_1900": -1,
+            "end_months_since_1900": -1,
+            "length_in_months": -1
+        }
+    ],
+    "details": {
+        "First Name": "Liz",
+        "Middle Name": "Margaret",
+        "Last Name": "McLarnon",
+        "Maiden Name": "McClarnon",
+        "Full Name at Birth": "Elizabeth Margaret McClarnon",
+        "Alternative Name": "Elizabeth McClarnon, Liz McLarnon, Lil, Liz",
+        "Birthday": "1981",
+        "Birthplace": "UK",
+        "Height": "168",
+        "Weight": "137lbs (62 kg)",
+        "Zodiac Sign": "7",
+        "Sexuality": "Straight",
+        "Religion": "1",
+        "Ethnicity": "6",
+        "Nationality": "8",
+        "Occupation": "1"
+    }
+}

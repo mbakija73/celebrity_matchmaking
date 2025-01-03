@@ -1,0 +1,44 @@
+{
+    "relationships": [
+        {
+            "name": "Barbara Pepper",
+            "href": "https://www.whosdatedwho.com/dating/barbara-pepper",
+            "relationship_type": 2,
+            "start_date": "Dec 1937",
+            "end_date": "Dec 1937",
+            "length": "-",
+            "start_months_since_1900": 455,
+            "end_months_since_1900": 455,
+            "length_in_months": -1
+        },
+        {
+            "name": "Toby Wing",
+            "href": "https://www.whosdatedwho.com/dating/toby-wing",
+            "relationship_type": 2,
+            "start_date": "",
+            "end_date": "",
+            "length": "-",
+            "start_months_since_1900": -1,
+            "end_months_since_1900": -1,
+            "length_in_months": -1
+        }
+    ],
+    "details": {
+        "First Name": "Pinky",
+        "Middle Name": "NA",
+        "Last Name": "Tomlin",
+        "Maiden Name": "NA",
+        "Full Name at Birth": "Truman Tomlin",
+        "Alternative Name": "NA",
+        "Birthday": "1907",
+        "Birthplace": "Arkansas",
+        "Height": "183",
+        "Weight": "NA",
+        "Zodiac Sign": "11",
+        "Sexuality": "Straight",
+        "Religion": "1",
+        "Ethnicity": "1",
+        "Nationality": "91",
+        "Occupation": "8"
+    }
+}

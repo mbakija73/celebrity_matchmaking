@@ -1,0 +1,77 @@
+{
+    "relationships": [
+        {
+            "name": "Clint Black",
+            "href": "https://www.whosdatedwho.com/dating/clint-black",
+            "relationship_type": 4,
+            "start_date": "1990",
+            "end_date": "",
+            "length": "-",
+            "start_months_since_1900": 1080,
+            "end_months_since_1900": -1,
+            "length_in_months": -1
+        },
+        {
+            "name": "Nikki Sixx",
+            "href": "https://www.whosdatedwho.com/dating/nikki-sixx",
+            "relationship_type": 3,
+            "start_date": "Sep 1988",
+            "end_date": "Sep 1988",
+            "length": "-",
+            "start_months_since_1900": 1064,
+            "end_months_since_1900": 1064,
+            "length_in_months": -1
+        },
+        {
+            "name": "Paul Stanley",
+            "href": "https://www.whosdatedwho.com/dating/paul-stanley",
+            "relationship_type": 2,
+            "start_date": "1984",
+            "end_date": "1985",
+            "length": "1 year",
+            "start_months_since_1900": 1008,
+            "end_months_since_1900": 1020,
+            "length_in_months": 12
+        },
+        {
+            "name": "Barry Bostwick",
+            "href": "https://www.whosdatedwho.com/dating/barry-bostwick",
+            "relationship_type": 2,
+            "start_date": "1980",
+            "end_date": "1984",
+            "length": "4 years",
+            "start_months_since_1900": 960,
+            "end_months_since_1900": 1008,
+            "length_in_months": 48
+        },
+        {
+            "name": "Ricci Martin",
+            "href": "https://www.whosdatedwho.com/dating/ricci-martin",
+            "relationship_type": 2,
+            "start_date": "1979",
+            "end_date": "1979",
+            "length": "-",
+            "start_months_since_1900": 948,
+            "end_months_since_1900": 948,
+            "length_in_months": -1
+        }
+    ],
+    "details": {
+        "First Name": "Lisa",
+        "Middle Name": "NA",
+        "Last Name": "Black",
+        "Maiden Name": "Hartman",
+        "Full Name at Birth": "Lisa Hartman",
+        "Alternative Name": "Lisa Hartman Black, Lisa Black",
+        "Birthday": "1956",
+        "Birthplace": "Texas",
+        "Height": "163",
+        "Weight": "NA",
+        "Zodiac Sign": "4",
+        "Sexuality": "Straight",
+        "Religion": "18",
+        "Ethnicity": "6",
+        "Nationality": "91",
+        "Occupation": "8"
+    }
+}

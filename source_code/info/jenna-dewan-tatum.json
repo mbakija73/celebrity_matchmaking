@@ -1,0 +1,66 @@
+{
+    "relationships": [
+        {
+            "name": "Steve Kazee",
+            "href": "https://www.whosdatedwho.com/dating/steve-kazee",
+            "relationship_type": 2,
+            "start_date": "Oct 2018",
+            "end_date": "present",
+            "length": "5 years",
+            "start_months_since_1900": 1425,
+            "end_months_since_1900": -1,
+            "length_in_months": 60
+        },
+        {
+            "name": "Channing Tatum",
+            "href": "https://www.whosdatedwho.com/dating/channing-tatum",
+            "relationship_type": 4,
+            "start_date": "Sep 2005",
+            "end_date": "Nov 2019",
+            "length": "14 years",
+            "start_months_since_1900": 1268,
+            "end_months_since_1900": 1438,
+            "length_in_months": 168
+        },
+        {
+            "name": "Shane West",
+            "href": "https://www.whosdatedwho.com/dating/shane-west",
+            "relationship_type": 2,
+            "start_date": "Jun 2003",
+            "end_date": "Feb 2005",
+            "length": "1 year",
+            "start_months_since_1900": 1241,
+            "end_months_since_1900": 1261,
+            "length_in_months": 12
+        },
+        {
+            "name": "Justin Timberlake",
+            "href": "https://www.whosdatedwho.com/dating/justin-timberlake",
+            "relationship_type": 2,
+            "start_date": "Mar 2002",
+            "end_date": "Aug 2002",
+            "length": "5 months",
+            "start_months_since_1900": 1226,
+            "end_months_since_1900": 1231,
+            "length_in_months": 5
+        }
+    ],
+    "details": {
+        "First Name": "Jenna",
+        "Middle Name": "Lee",
+        "Last Name": "Dewan",
+        "Maiden Name": "NA",
+        "Full Name at Birth": "Jenna Lee Dewan",
+        "Alternative Name": "Jenna Dewan, Jenna Dewan-Tatum, Jenna Lee Dewan, Jenna Dewan Tatum",
+        "Birthday": "1980",
+        "Birthplace": "USA",
+        "Height": "160",
+        "Weight": "115lbs (52 kg)",
+        "Zodiac Sign": "6",
+        "Sexuality": "Straight",
+        "Religion": "18",
+        "Ethnicity": "6",
+        "Nationality": "91",
+        "Occupation": "8"
+    }
+}

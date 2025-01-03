@@ -1,0 +1,77 @@
+{
+    "relationships": [
+        {
+            "name": "Jodi Gordon",
+            "href": "https://www.whosdatedwho.com/dating/jodi-gordon",
+            "relationship_type": 4,
+            "start_date": "Nov 2009",
+            "end_date": "11th Dec 2015",
+            "length": "6 years",
+            "start_months_since_1900": 1318,
+            "end_months_since_1900": 1391,
+            "length_in_months": 72
+        },
+        {
+            "name": "Erin McNaught",
+            "href": "https://www.whosdatedwho.com/dating/erin-mcnaught",
+            "relationship_type": 2,
+            "start_date": "Sep 2007",
+            "end_date": "Aug 2009",
+            "length": "1 year",
+            "start_months_since_1900": 1292,
+            "end_months_since_1900": 1315,
+            "length_in_months": 12
+        },
+        {
+            "name": "Sara Bray",
+            "href": "https://www.whosdatedwho.com/dating/sara-bray",
+            "relationship_type": 2,
+            "start_date": "2005",
+            "end_date": "2005",
+            "length": "-",
+            "start_months_since_1900": 1260,
+            "end_months_since_1900": 1260,
+            "length_in_months": -1
+        },
+        {
+            "name": "Candice Warner",
+            "href": "https://www.whosdatedwho.com/dating/candice-falzon",
+            "relationship_type": 2,
+            "start_date": "2002",
+            "end_date": "2005",
+            "length": "3 years",
+            "start_months_since_1900": 1224,
+            "end_months_since_1900": 1260,
+            "length_in_months": 36
+        },
+        {
+            "name": "Rachael Lee",
+            "href": "https://www.whosdatedwho.com/dating/rachael-lee",
+            "relationship_type": 1,
+            "start_date": "",
+            "end_date": "",
+            "length": "-",
+            "start_months_since_1900": -1,
+            "end_months_since_1900": -1,
+            "length_in_months": -1
+        }
+    ],
+    "details": {
+        "First Name": "Braith",
+        "Middle Name": "NA",
+        "Last Name": "Anasta",
+        "Maiden Name": "NA",
+        "Full Name at Birth": "Braith Anastasakis",
+        "Alternative Name": "NA",
+        "Birthday": "1982",
+        "Birthplace": "New South Wales",
+        "Height": "188",
+        "Weight": "4lbs (2 kg)",
+        "Zodiac Sign": "13",
+        "Sexuality": "Straight",
+        "Religion": "1",
+        "Ethnicity": "6",
+        "Nationality": "85",
+        "Occupation": "2"
+    }
+}

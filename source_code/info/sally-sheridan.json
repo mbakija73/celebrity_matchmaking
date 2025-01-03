@@ -1,0 +1,44 @@
+{
+    "relationships": [
+        {
+            "name": "Don Johnson",
+            "href": "https://www.whosdatedwho.com/dating/don-johnson",
+            "relationship_type": 2,
+            "start_date": "1980",
+            "end_date": "1980",
+            "length": "-",
+            "start_months_since_1900": 960,
+            "end_months_since_1900": 960,
+            "length_in_months": -1
+        },
+        {
+            "name": "Telly Savalas",
+            "href": "https://www.whosdatedwho.com/dating/telly-savalas",
+            "relationship_type": 2,
+            "start_date": "1969",
+            "end_date": "1977",
+            "length": "8 years",
+            "start_months_since_1900": 828,
+            "end_months_since_1900": 924,
+            "length_in_months": 96
+        }
+    ],
+    "details": {
+        "First Name": "Sally",
+        "Middle Name": "NA",
+        "Last Name": "Sheridan",
+        "Maiden Name": "NA",
+        "Full Name at Birth": "NA",
+        "Alternative Name": "Sally Adams, Dani Sheridan",
+        "Birthday": "1946",
+        "Birthplace": "UK",
+        "Height": "160",
+        "Weight": "NA",
+        "Zodiac Sign": "2",
+        "Sexuality": "Straight",
+        "Religion": "1",
+        "Ethnicity": "6",
+        "Nationality": "8",
+        "Occupation": "8"
+    }
+}

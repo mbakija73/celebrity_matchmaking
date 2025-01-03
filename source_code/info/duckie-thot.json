@@ -1,0 +1,66 @@
+{
+    "relationships": [
+        {
+            "name": "Black Coffee",
+            "href": "https://www.whosdatedwho.com/dating/black-coffee-disc-jockey",
+            "relationship_type": 3,
+            "start_date": "Jul 2021",
+            "end_date": "Nov 2021",
+            "length": "4 months",
+            "start_months_since_1900": 1458,
+            "end_months_since_1900": 1462,
+            "length_in_months": 4
+        },
+        {
+            "name": "Scarface",
+            "href": "https://www.whosdatedwho.com/dating/scarface-108923149",
+            "relationship_type": 2,
+            "start_date": "2020",
+            "end_date": "2020",
+            "length": "-",
+            "start_months_since_1900": 1440,
+            "end_months_since_1900": 1440,
+            "length_in_months": -1
+        },
+        {
+            "name": "Liam Payne",
+            "href": "https://www.whosdatedwho.com/dating/liam-payne",
+            "relationship_type": 2,
+            "start_date": "Jun 2019",
+            "end_date": "Jun 2019",
+            "length": "-",
+            "start_months_since_1900": 1433,
+            "end_months_since_1900": 1433,
+            "length_in_months": -1
+        },
+        {
+            "name": "Kofi Siriboe",
+            "href": "https://www.whosdatedwho.com/dating/kofi-siriboe",
+            "relationship_type": 2,
+            "start_date": "Mar 2018",
+            "end_date": "Jan 2019",
+            "length": "10 months",
+            "start_months_since_1900": 1418,
+            "end_months_since_1900": 1428,
+            "length_in_months": 10
+        }
+    ],
+    "details": {
+        "First Name": "Duckie",
+        "Middle Name": "NA",
+        "Last Name": "Thot",
+        "Maiden Name": "NA",
+        "Full Name at Birth": "Nyadak Thot",
+        "Alternative Name": "Black Barbie, Duckie",
+        "Birthday": "1995",
+        "Birthplace": "Australia",
+        "Height": "179",
+        "Weight": "124lbs (56 kg)",
+        "Zodiac Sign": "5",
+        "Sexuality": "Straight",
+        "Religion": "1",
+        "Ethnicity": "2",
+        "Nationality": "135",
+        "Occupation": "15"
+    }
+}

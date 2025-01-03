@@ -1,0 +1,66 @@
+{
+    "relationships": [
+        {
+            "name": "Laura Brown",
+            "href": "https://www.whosdatedwho.com/dating/laura-brown-53312303",
+            "relationship_type": 3,
+            "start_date": "Sep 2018",
+            "end_date": "Sep 2018",
+            "length": "-",
+            "start_months_since_1900": 1424,
+            "end_months_since_1900": 1424,
+            "length_in_months": -1
+        },
+        {
+            "name": "Carla Howe",
+            "href": "https://www.whosdatedwho.com/dating/carla-howe",
+            "relationship_type": 3,
+            "start_date": "May 2016",
+            "end_date": "May 2016",
+            "length": "-",
+            "start_months_since_1900": 1396,
+            "end_months_since_1900": 1396,
+            "length_in_months": -1
+        },
+        {
+            "name": "Annie Kilner",
+            "href": "https://www.whosdatedwho.com/dating/annie-kilner",
+            "relationship_type": 4,
+            "start_date": "2009",
+            "end_date": "Jan 2024",
+            "length": "15 years",
+            "start_months_since_1900": 1308,
+            "end_months_since_1900": 1488,
+            "length_in_months": 180
+        },
+        {
+            "name": "Lauryn Goodman",
+            "href": "https://www.whosdatedwho.com/dating/lauryn-goodman",
+            "relationship_type": 1,
+            "start_date": "",
+            "end_date": "",
+            "length": "-",
+            "start_months_since_1900": -1,
+            "end_months_since_1900": -1,
+            "length_in_months": -1
+        }
+    ],
+    "details": {
+        "First Name": "Kyle",
+        "Middle Name": "Andrew",
+        "Last Name": "Walker",
+        "Maiden Name": "NA",
+        "Full Name at Birth": "Kyle Andrew Walker",
+        "Alternative Name": "Kyle Andrew Walker, Kyle Walker",
+        "Birthday": "1990",
+        "Birthplace": "UK",
+        "Height": "178",
+        "Weight": "NA",
+        "Zodiac Sign": "4",
+        "Sexuality": "Straight",
+        "Religion": "1",
+        "Ethnicity": "8",
+        "Nationality": "8",
+        "Occupation": "2"
+    }
+}

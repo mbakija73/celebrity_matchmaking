@@ -1,0 +1,143 @@
+{
+    "relationships": [
+        {
+            "name": "Tom Brady",
+            "href": "https://www.whosdatedwho.com/dating/tom-brady",
+            "relationship_type": 2,
+            "start_date": "Jul 2023",
+            "end_date": "Oct 2023",
+            "length": "3 months",
+            "start_months_since_1900": 1482,
+            "end_months_since_1900": 1485,
+            "length_in_months": 3
+        },
+        {
+            "name": "Ye",
+            "href": "https://www.whosdatedwho.com/dating/kanye-west",
+            "relationship_type": 2,
+            "start_date": "Mar 2021",
+            "end_date": "Aug 2021",
+            "length": "5 months",
+            "start_months_since_1900": 1454,
+            "end_months_since_1900": 1459,
+            "length_in_months": 5
+        },
+        {
+            "name": "Bradley Cooper",
+            "href": "https://www.whosdatedwho.com/dating/bradley-cooper",
+            "relationship_type": 2,
+            "start_date": "Apr 2015",
+            "end_date": "Jun 2019",
+            "length": "4 years",
+            "start_months_since_1900": 1383,
+            "end_months_since_1900": 1433,
+            "length_in_months": 48
+        },
+        {
+            "name": "Dwayne Johnson",
+            "href": "https://www.whosdatedwho.com/dating/dwayne-johnson",
+            "relationship_type": 3,
+            "start_date": "Jan 2015",
+            "end_date": "Feb 2015",
+            "length": "1 month",
+            "start_months_since_1900": 1380,
+            "end_months_since_1900": 1381,
+            "length_in_months": 1
+        },
+        {
+            "name": "Cristiano Ronaldo",
+            "href": "https://www.whosdatedwho.com/dating/cristiano-ronaldo",
+            "relationship_type": 2,
+            "start_date": "May 2010",
+            "end_date": "Jan 2015",
+            "length": "4 years",
+            "start_months_since_1900": 1324,
+            "end_months_since_1900": 1380,
+            "length_in_months": 48
+        },
+        {
+            "name": "Arthur Sales",
+            "href": "https://www.whosdatedwho.com/dating/arthur-sales",
+            "relationship_type": 3,
+            "start_date": "Feb 2009",
+            "end_date": "Nov 2009",
+            "length": "9 months",
+            "start_months_since_1900": 1309,
+            "end_months_since_1900": 1318,
+            "length_in_months": 9
+        },
+        {
+            "name": "Sepp Blatter",
+            "href": "https://www.whosdatedwho.com/dating/sepp-blatter",
+            "relationship_type": 3,
+            "start_date": "2009",
+            "end_date": "2009",
+            "length": "-",
+            "start_months_since_1900": 1308,
+            "end_months_since_1900": 1308,
+            "length_in_months": -1
+        },
+        {
+            "name": "Ryan Leslie",
+            "href": "https://www.whosdatedwho.com/dating/ryan-leslie",
+            "relationship_type": 2,
+            "start_date": "2009",
+            "end_date": "2009",
+            "length": "-",
+            "start_months_since_1900": 1308,
+            "end_months_since_1900": 1308,
+            "length_in_months": -1
+        },
+        {
+            "name": "Rob Bourdon",
+            "href": "https://www.whosdatedwho.com/dating/rob-bourdon",
+            "relationship_type": 2,
+            "start_date": "2007",
+            "end_date": "2009",
+            "length": "2 years",
+            "start_months_since_1900": 1284,
+            "end_months_since_1900": 1308,
+            "length_in_months": 24
+        },
+        {
+            "name": "Leonardo DiCaprio",
+            "href": "https://www.whosdatedwho.com/dating/leonardo-dicaprio",
+            "relationship_type": 1,
+            "start_date": "",
+            "end_date": "",
+            "length": "-",
+            "start_months_since_1900": -1,
+            "end_months_since_1900": -1,
+            "length_in_months": -1
+        },
+        {
+            "name": "Valerio Morabito",
+            "href": "https://www.whosdatedwho.com/dating/valerio-morabito",
+            "relationship_type": 2,
+            "start_date": "",
+            "end_date": "2009",
+            "length": "-",
+            "start_months_since_1900": -1,
+            "end_months_since_1900": 1308,
+            "length_in_months": -1
+        }
+    ],
+    "details": {
+        "First Name": "Irina",
+        "Middle Name": "Valeryevna",
+        "Last Name": "Shayk",
+        "Maiden Name": "Shaykhlislamova",
+        "Full Name at Birth": "Irina Valeryevna Shaykhlislamova",
+        "Alternative Name": "Irina Sheik, Irina Sejk, Irina, Irina Valeryevna Shaykhlislamova, \u0418\u0440\u0438\u0301\u043d\u0430 \u0412\u0430\u043b\u0435\u0301\u0440\u044c\u0435\u0432\u043d\u0430 \u0428\u0430\u0439\u0445\u043b\u0438\u0441\u043b\u0430\u0301\u043c\u043e\u0432\u0430",
+        "Birthday": "1986",
+        "Birthplace": "Soviet Union",
+        "Height": "178",
+        "Weight": "125lbs (57 kg)",
+        "Zodiac Sign": "13",
+        "Sexuality": "Straight",
+        "Religion": "32",
+        "Ethnicity": "6",
+        "Nationality": "9",
+        "Occupation": "15"
+    }
+}

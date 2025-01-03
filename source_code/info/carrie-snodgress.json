@@ -1,0 +1,55 @@
+{
+    "relationships": [
+        {
+            "name": "Robert Jones (ex Husband)",
+            "href": "https://www.whosdatedwho.com/dating/robert-jones-ex-husband",
+            "relationship_type": 4,
+            "start_date": "1980",
+            "end_date": "1985",
+            "length": "5 years",
+            "start_months_since_1900": 960,
+            "end_months_since_1900": 1020,
+            "length_in_months": 60
+        },
+        {
+            "name": "Jack Nitzsche",
+            "href": "https://www.whosdatedwho.com/dating/jack-nitzsche",
+            "relationship_type": 2,
+            "start_date": "1979",
+            "end_date": "1981",
+            "length": "2 years",
+            "start_months_since_1900": 948,
+            "end_months_since_1900": 972,
+            "length_in_months": 24
+        },
+        {
+            "name": "Neil Young",
+            "href": "https://www.whosdatedwho.com/dating/neil-young",
+            "relationship_type": 2,
+            "start_date": "1971",
+            "end_date": "1975",
+            "length": "4 years",
+            "start_months_since_1900": 852,
+            "end_months_since_1900": 900,
+            "length_in_months": 48
+        }
+    ],
+    "details": {
+        "First Name": "Carrie",
+        "Middle Name": "Louise",
+        "Last Name": "NA",
+        "Maiden Name": "Snodgress",
+        "Full Name at Birth": "Caroline Louise Snodgress",
+        "Alternative Name": "Caroline Snodgress, Caroline Louise Snodgress",
+        "Birthday": "1945",
+        "Birthplace": "USA",
+        "Height": "154",
+        "Weight": "NA",
+        "Zodiac Sign": "5",
+        "Sexuality": "Straight",
+        "Religion": "1",
+        "Ethnicity": "6",
+        "Nationality": "91",
+        "Occupation": "8"
+    }
+}

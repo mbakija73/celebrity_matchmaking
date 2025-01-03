@@ -1,0 +1,55 @@
+{
+    "relationships": [
+        {
+            "name": "Lani Hall",
+            "href": "https://www.whosdatedwho.com/dating/lani-hall",
+            "relationship_type": 4,
+            "start_date": "Dec 1974",
+            "end_date": "present",
+            "length": "49 years",
+            "start_months_since_1900": 899,
+            "end_months_since_1900": -1,
+            "length_in_months": 588
+        },
+        {
+            "name": "Sharon Mae Lubin",
+            "href": "https://www.whosdatedwho.com/dating/sharon-mae-lubin",
+            "relationship_type": 4,
+            "start_date": "Aug 1956",
+            "end_date": "1971",
+            "length": "14 years",
+            "start_months_since_1900": 679,
+            "end_months_since_1900": 852,
+            "length_in_months": 168
+        },
+        {
+            "name": "Brenda Russell",
+            "href": "https://www.whosdatedwho.com/dating/brenda-russell",
+            "relationship_type": 3,
+            "start_date": "",
+            "end_date": "",
+            "length": "-",
+            "start_months_since_1900": -1,
+            "end_months_since_1900": -1,
+            "length_in_months": -1
+        }
+    ],
+    "details": {
+        "First Name": "Herb",
+        "Middle Name": "NA",
+        "Last Name": "Alpert",
+        "Maiden Name": "NA",
+        "Full Name at Birth": "Herbert Alpert",
+        "Alternative Name": "Herb Alpert, Dore Alpert, Tito Alpert",
+        "Birthday": "1935",
+        "Birthplace": "USA",
+        "Height": "183",
+        "Weight": "NA",
+        "Zodiac Sign": "7",
+        "Sexuality": "Straight",
+        "Religion": "31",
+        "Ethnicity": "6",
+        "Nationality": "91",
+        "Occupation": "1"
+    }
+}

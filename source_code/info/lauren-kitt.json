@@ -1,0 +1,44 @@
+{
+    "relationships": [
+        {
+            "name": "Nick Carter",
+            "href": "https://www.whosdatedwho.com/dating/nick-carter",
+            "relationship_type": 4,
+            "start_date": "Oct 2008",
+            "end_date": "present",
+            "length": "16 years",
+            "start_months_since_1900": 1305,
+            "end_months_since_1900": -1,
+            "length_in_months": 192
+        },
+        {
+            "name": "Tommy Vext",
+            "href": "https://www.whosdatedwho.com/dating/tommy-vext",
+            "relationship_type": 2,
+            "start_date": "Jan 2005",
+            "end_date": "Oct 2008",
+            "length": "3 years",
+            "start_months_since_1900": 1260,
+            "end_months_since_1900": 1305,
+            "length_in_months": 36
+        }
+    ],
+    "details": {
+        "First Name": "Lauren",
+        "Middle Name": "Michelle",
+        "Last Name": "Carter",
+        "Maiden Name": "Kitt",
+        "Full Name at Birth": "Lauren Michelle Kitt",
+        "Alternative Name": "Lauren Michelle Carter, Lauren Carter, Lauren Kitt, Lauren Michelle Kitt-Carter",
+        "Birthday": "1983",
+        "Birthplace": "USA",
+        "Height": "180",
+        "Weight": "NA",
+        "Zodiac Sign": "4",
+        "Sexuality": "Straight",
+        "Religion": "18",
+        "Ethnicity": "8",
+        "Nationality": "91",
+        "Occupation": "18"
+    }
+}

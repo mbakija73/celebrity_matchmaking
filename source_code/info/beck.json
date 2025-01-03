@@ -1,0 +1,66 @@
+{
+    "relationships": [
+        {
+            "name": "Marissa Ribisi",
+            "href": "https://www.whosdatedwho.com/dating/marissa-ribisi",
+            "relationship_type": 4,
+            "start_date": "2000",
+            "end_date": "Sep 2021",
+            "length": "21 years",
+            "start_months_since_1900": 1200,
+            "end_months_since_1900": 1460,
+            "length_in_months": 252
+        },
+        {
+            "name": "Winona Ryder",
+            "href": "https://www.whosdatedwho.com/dating/winona-ryder",
+            "relationship_type": 3,
+            "start_date": "2000",
+            "end_date": "2000",
+            "length": "-",
+            "start_months_since_1900": 1200,
+            "end_months_since_1900": 1200,
+            "length_in_months": -1
+        },
+        {
+            "name": "Leigh Limon",
+            "href": "https://www.whosdatedwho.com/dating/leigh-limon",
+            "relationship_type": 2,
+            "start_date": "1991",
+            "end_date": "2000",
+            "length": "9 years",
+            "start_months_since_1900": 1092,
+            "end_months_since_1900": 1200,
+            "length_in_months": 108
+        },
+        {
+            "name": "Gina Gershon",
+            "href": "https://www.whosdatedwho.com/dating/gina-gershon",
+            "relationship_type": 2,
+            "start_date": "",
+            "end_date": "",
+            "length": "-",
+            "start_months_since_1900": -1,
+            "end_months_since_1900": -1,
+            "length_in_months": -1
+        }
+    ],
+    "details": {
+        "First Name": "Bek",
+        "Middle Name": "David",
+        "Last Name": "Campbell",
+        "Maiden Name": "NA",
+        "Full Name at Birth": "Bek David Campbell",
+        "Alternative Name": "Beck Hansen, Bek David Campbell, Beck David Hansen, Beck",
+        "Birthday": "1970",
+        "Birthplace": "California USA",
+        "Height": "176",
+        "Weight": "NA",
+        "Zodiac Sign": "8",
+        "Sexuality": "Straight",
+        "Religion": "5",
+        "Ethnicity": "6",
+        "Nationality": "91",
+        "Occupation": "1"
+    }
+}

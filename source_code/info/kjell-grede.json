@@ -1,0 +1,33 @@
+{
+    "relationships": [
+        {
+            "name": "Bibi Andersson",
+            "href": "https://www.whosdatedwho.com/dating/bibi-andersson",
+            "relationship_type": 4,
+            "start_date": "1959",
+            "end_date": "1973",
+            "length": "14 years",
+            "start_months_since_1900": 708,
+            "end_months_since_1900": 876,
+            "length_in_months": 168
+        }
+    ],
+    "details": {
+        "First Name": "Kjell",
+        "Middle Name": "NA",
+        "Last Name": "Grede",
+        "Maiden Name": "NA",
+        "Full Name at Birth": "NA",
+        "Alternative Name": "NA",
+        "Birthday": "1936",
+        "Birthplace": "Sweden",
+        "Height": "NA",
+        "Weight": "NA",
+        "Zodiac Sign": "12",
+        "Sexuality": "NA",
+        "Religion": "1",
+        "Ethnicity": "1",
+        "Nationality": "30",
+        "Occupation": "9"
+    }
+}

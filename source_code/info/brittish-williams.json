@@ -1,0 +1,44 @@
+{
+    "relationships": [
+        {
+            "name": "Soulja Boy",
+            "href": "https://www.whosdatedwho.com/dating/soulja-boy",
+            "relationship_type": 3,
+            "start_date": "Oct 2016",
+            "end_date": "Oct 2016",
+            "length": "-",
+            "start_months_since_1900": 1401,
+            "end_months_since_1900": 1401,
+            "length_in_months": -1
+        },
+        {
+            "name": "Lorenzo Gordon",
+            "href": "https://www.whosdatedwho.com/dating/lorenzo-gordon",
+            "relationship_type": 2,
+            "start_date": "Jun 2011",
+            "end_date": "",
+            "length": "-",
+            "start_months_since_1900": 1337,
+            "end_months_since_1900": -1,
+            "length_in_months": -1
+        }
+    ],
+    "details": {
+        "First Name": "Brittish",
+        "Middle Name": "NA",
+        "Last Name": "Williams",
+        "Maiden Name": "NA",
+        "Full Name at Birth": "Brittish Williams",
+        "Alternative Name": "NA",
+        "Birthday": "1990",
+        "Birthplace": "Missouri",
+        "Height": "165",
+        "Weight": "NA",
+        "Zodiac Sign": "13",
+        "Sexuality": "Straight",
+        "Religion": "18",
+        "Ethnicity": "2",
+        "Nationality": "91",
+        "Occupation": "11"
+    }
+}

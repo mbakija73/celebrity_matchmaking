@@ -1,0 +1,44 @@
+{
+    "relationships": [
+        {
+            "name": "Aimee Mullins",
+            "href": "https://www.whosdatedwho.com/dating/aimee-mullins",
+            "relationship_type": 4,
+            "start_date": "2013",
+            "end_date": "present",
+            "length": "11 years",
+            "start_months_since_1900": 1356,
+            "end_months_since_1900": -1,
+            "length_in_months": 132
+        },
+        {
+            "name": "Keira Knightley",
+            "href": "https://www.whosdatedwho.com/dating/keira-knightley",
+            "relationship_type": 2,
+            "start_date": "Oct 2005",
+            "end_date": "Nov 2010",
+            "length": "5 years",
+            "start_months_since_1900": 1269,
+            "end_months_since_1900": 1330,
+            "length_in_months": 60
+        }
+    ],
+    "details": {
+        "First Name": "Rupert",
+        "Middle Name": "NA",
+        "Last Name": "Friend",
+        "Maiden Name": "NA",
+        "Full Name at Birth": "Rupert Friend",
+        "Alternative Name": "NA",
+        "Birthday": "1981",
+        "Birthplace": "United Kingdom",
+        "Height": "185",
+        "Weight": "NA",
+        "Zodiac Sign": "10",
+        "Sexuality": "Straight",
+        "Religion": "1",
+        "Ethnicity": "6",
+        "Nationality": "8",
+        "Occupation": "8"
+    }
+}

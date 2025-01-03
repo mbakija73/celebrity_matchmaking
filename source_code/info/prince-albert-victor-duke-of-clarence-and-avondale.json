@@ -1,0 +1,55 @@
+{
+    "relationships": [
+        {
+            "name": "Queen Mary",
+            "href": "https://www.whosdatedwho.com/dating/queen-mary",
+            "relationship_type": 2,
+            "start_date": "Dec 1891",
+            "end_date": "Jan 1892",
+            "length": "1 month",
+            "start_months_since_1900": -97,
+            "end_months_since_1900": -96,
+            "length_in_months": 1
+        },
+        {
+            "name": "Princess H\u00e9l\u00e8ne of Orl\u00e9ans",
+            "href": "https://www.whosdatedwho.com/dating/princess-helene-of-orleans",
+            "relationship_type": 2,
+            "start_date": "1890",
+            "end_date": "1890",
+            "length": "-",
+            "start_months_since_1900": -120,
+            "end_months_since_1900": -120,
+            "length_in_months": -1
+        },
+        {
+            "name": "Annie Elizabeth Crook",
+            "href": "https://www.whosdatedwho.com/dating/annie-elizabeth-crook",
+            "relationship_type": 4,
+            "start_date": "1883",
+            "end_date": "1889",
+            "length": "6 years",
+            "start_months_since_1900": -204,
+            "end_months_since_1900": -132,
+            "length_in_months": 72
+        }
+    ],
+    "details": {
+        "First Name": "Albert",
+        "Middle Name": "Victor",
+        "Last Name": "NA",
+        "Maiden Name": "NA",
+        "Full Name at Birth": "Albert Victor Christian Edward von Sachsen-Coburg und Gotha Wettin",
+        "Alternative Name": "Prince Albert Victor Duke of Clarence and Avondale, Duke of Clarence, Duke of Clarence and Avondale, Eddy, Eddie, Prince Albert Victor, Albert Victor Wettin",
+        "Birthday": "1864",
+        "Birthplace": "Berkshire England",
+        "Height": "168",
+        "Weight": "NA",
+        "Zodiac Sign": "13",
+        "Sexuality": "DISPUTED",
+        "Religion": "1",
+        "Ethnicity": "6",
+        "Nationality": "8",
+        "Occupation": "18"
+    }
+}

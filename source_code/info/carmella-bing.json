@@ -1,0 +1,66 @@
+{
+    "relationships": [
+        {
+            "name": "Ben English",
+            "href": "https://www.whosdatedwho.com/dating/ben-english",
+            "relationship_type": 2,
+            "start_date": "May 2007",
+            "end_date": "2007",
+            "length": "4 months",
+            "start_months_since_1900": 1288,
+            "end_months_since_1900": 1284,
+            "length_in_months": 4
+        },
+        {
+            "name": "Rocco Siffredi",
+            "href": "https://www.whosdatedwho.com/dating/rocco-siffredi",
+            "relationship_type": 2,
+            "start_date": "",
+            "end_date": "",
+            "length": "-",
+            "start_months_since_1900": -1,
+            "end_months_since_1900": -1,
+            "length_in_months": -1
+        },
+        {
+            "name": "Christian XXX",
+            "href": "https://www.whosdatedwho.com/dating/christian-xxx",
+            "relationship_type": 3,
+            "start_date": "",
+            "end_date": "",
+            "length": "-",
+            "start_months_since_1900": -1,
+            "end_months_since_1900": -1,
+            "length_in_months": -1
+        },
+        {
+            "name": "Julian",
+            "href": "https://www.whosdatedwho.com/dating/julian",
+            "relationship_type": 3,
+            "start_date": "",
+            "end_date": "",
+            "length": "-",
+            "start_months_since_1900": -1,
+            "end_months_since_1900": -1,
+            "length_in_months": -1
+        }
+    ],
+    "details": {
+        "First Name": "Carmella",
+        "Middle Name": "NA",
+        "Last Name": "Bing",
+        "Maiden Name": "NA",
+        "Full Name at Birth": "Sarah Marie Fabbriciano",
+        "Alternative Name": "Car, Carmella Bing, Sarah Jane Fabbriciano, Sarah Marie Fabbriciano, Sara Richards, Sarah Marie Faas",
+        "Birthday": "1981",
+        "Birthplace": "USA",
+        "Height": "178",
+        "Weight": "134lbs (61 kg)",
+        "Zodiac Sign": "10",
+        "Sexuality": "Bisexual",
+        "Religion": "26",
+        "Ethnicity": "6",
+        "Nationality": "91",
+        "Occupation": "16"
+    }
+}

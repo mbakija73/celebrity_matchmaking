@@ -1,0 +1,33 @@
+{
+    "relationships": [
+        {
+            "name": "Jack Dempsey",
+            "href": "https://www.whosdatedwho.com/dating/jack-dempsey",
+            "relationship_type": 4,
+            "start_date": "1963",
+            "end_date": "31st May 1983",
+            "length": "20 years",
+            "start_months_since_1900": 756,
+            "end_months_since_1900": 1000,
+            "length_in_months": 240
+        }
+    ],
+    "details": {
+        "First Name": "Deanna",
+        "Middle Name": "NA",
+        "Last Name": "Piatelli",
+        "Maiden Name": "NA",
+        "Full Name at Birth": "NA",
+        "Alternative Name": "NA",
+        "Birthday": "1911",
+        "Birthplace": "Italy",
+        "Height": "NA",
+        "Weight": "NA",
+        "Zodiac Sign": "8",
+        "Sexuality": "Straight",
+        "Religion": "1",
+        "Ethnicity": "6",
+        "Nationality": "139",
+        "Occupation": "18"
+    }
+}

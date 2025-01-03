@@ -1,0 +1,66 @@
+{
+    "relationships": [
+        {
+            "name": "Ursula Andress",
+            "href": "https://www.whosdatedwho.com/dating/ursula-andress",
+            "relationship_type": 2,
+            "start_date": "1983",
+            "end_date": "1983",
+            "length": "-",
+            "start_months_since_1900": 996,
+            "end_months_since_1900": 996,
+            "length_in_months": -1
+        },
+        {
+            "name": "Linda Evans",
+            "href": "https://www.whosdatedwho.com/dating/linda-evans",
+            "relationship_type": 4,
+            "start_date": "1974",
+            "end_date": "1979",
+            "length": "5 years",
+            "start_months_since_1900": 888,
+            "end_months_since_1900": 948,
+            "length_in_months": 60
+        },
+        {
+            "name": "Denise Vanderberg",
+            "href": "https://www.whosdatedwho.com/dating/denise-vanderberg",
+            "relationship_type": 4,
+            "start_date": "",
+            "end_date": "1986",
+            "length": "-",
+            "start_months_since_1900": -1,
+            "end_months_since_1900": 1032,
+            "length_in_months": -1
+        },
+        {
+            "name": "Claudia Jennings",
+            "href": "https://www.whosdatedwho.com/dating/claudia-jennings",
+            "relationship_type": 2,
+            "start_date": "",
+            "end_date": "",
+            "length": "-",
+            "start_months_since_1900": -1,
+            "end_months_since_1900": -1,
+            "length_in_months": -1
+        }
+    ],
+    "details": {
+        "First Name": "Stan",
+        "Middle Name": "NA",
+        "Last Name": "Herman",
+        "Maiden Name": "NA",
+        "Full Name at Birth": "NA",
+        "Alternative Name": "NA",
+        "Birthday": "NA",
+        "Birthplace": "Los Angeles",
+        "Height": "NA",
+        "Weight": "NA",
+        "Zodiac Sign": "2",
+        "Sexuality": "NA",
+        "Religion": "1",
+        "Ethnicity": "1",
+        "Nationality": "91",
+        "Occupation": "7"
+    }
+}

@@ -1,0 +1,110 @@
+{
+    "relationships": [
+        {
+            "name": "Lisa Bonder",
+            "href": "https://www.whosdatedwho.com/dating/lisa-bonder",
+            "relationship_type": 4,
+            "start_date": "1997",
+            "end_date": "1998",
+            "length": "1 year",
+            "start_months_since_1900": 1164,
+            "end_months_since_1900": 1176,
+            "length_in_months": 12
+        },
+        {
+            "name": "Barbara Harris",
+            "href": "https://www.whosdatedwho.com/dating/barbara-harris-relative",
+            "relationship_type": 2,
+            "start_date": "1988",
+            "end_date": "1988",
+            "length": "-",
+            "start_months_since_1900": 1056,
+            "end_months_since_1900": 1056,
+            "length_in_months": -1
+        },
+        {
+            "name": "Priscilla Presley",
+            "href": "https://www.whosdatedwho.com/dating/priscilla-presley",
+            "relationship_type": 3,
+            "start_date": "1977",
+            "end_date": "1977",
+            "length": "-",
+            "start_months_since_1900": 924,
+            "end_months_since_1900": 924,
+            "length_in_months": -1
+        },
+        {
+            "name": "Jean Maree Hardy",
+            "href": "https://www.whosdatedwho.com/dating/jean-maree-hardy",
+            "relationship_type": 4,
+            "start_date": "1954",
+            "end_date": "1984",
+            "length": "30 years",
+            "start_months_since_1900": 648,
+            "end_months_since_1900": 1008,
+            "length_in_months": 360
+        },
+        {
+            "name": "Hilda Schmidt",
+            "href": "https://www.whosdatedwho.com/dating/hilda-schmidt",
+            "relationship_type": 4,
+            "start_date": "1942",
+            "end_date": "1952",
+            "length": "10 years",
+            "start_months_since_1900": 504,
+            "end_months_since_1900": 624,
+            "length_in_months": 120
+        },
+        {
+            "name": "Yvette Mimieux",
+            "href": "https://www.whosdatedwho.com/dating/yvette-mimieux",
+            "relationship_type": 2,
+            "start_date": "",
+            "end_date": "",
+            "length": "-",
+            "start_months_since_1900": -1,
+            "end_months_since_1900": -1,
+            "length_in_months": -1
+        },
+        {
+            "name": "Jacqueline Bisset",
+            "href": "https://www.whosdatedwho.com/dating/jacqueline-bisset",
+            "relationship_type": 2,
+            "start_date": "",
+            "end_date": "",
+            "length": "-",
+            "start_months_since_1900": -1,
+            "end_months_since_1900": -1,
+            "length_in_months": -1
+        },
+        {
+            "name": "Claudine Longet",
+            "href": "https://www.whosdatedwho.com/dating/claudine-longet",
+            "relationship_type": 2,
+            "start_date": "",
+            "end_date": "",
+            "length": "-",
+            "start_months_since_1900": -1,
+            "end_months_since_1900": -1,
+            "length_in_months": -1
+        }
+    ],
+    "details": {
+        "First Name": "Kirk",
+        "Middle Name": "NA",
+        "Last Name": "Kerkorian",
+        "Maiden Name": "NA",
+        "Full Name at Birth": "Kerkor Kerkorian",
+        "Alternative Name": "NA",
+        "Birthday": "1917",
+        "Birthplace": "United States",
+        "Height": "180",
+        "Weight": "NA",
+        "Zodiac Sign": "4",
+        "Sexuality": "Straight",
+        "Religion": "1",
+        "Ethnicity": "5",
+        "Nationality": "91",
+        "Occupation": "7"
+    }
+}

@@ -1,0 +1,55 @@
+{
+    "relationships": [
+        {
+            "name": "Sarah Rice",
+            "href": "https://www.whosdatedwho.com/dating/sarah-rice",
+            "relationship_type": 3,
+            "start_date": "2012",
+            "end_date": "2012",
+            "length": "-",
+            "start_months_since_1900": 1344,
+            "end_months_since_1900": 1344,
+            "length_in_months": -1
+        },
+        {
+            "name": "Jodi Weatherton",
+            "href": "https://www.whosdatedwho.com/dating/jodi-weatherton",
+            "relationship_type": 3,
+            "start_date": "2005",
+            "end_date": "2005",
+            "length": "-",
+            "start_months_since_1900": 1260,
+            "end_months_since_1900": 1260,
+            "length_in_months": -1
+        },
+        {
+            "name": "Irulan Wilson",
+            "href": "https://www.whosdatedwho.com/dating/irulan-wilson",
+            "relationship_type": 2,
+            "start_date": "2002",
+            "end_date": "2002",
+            "length": "-",
+            "start_months_since_1900": 1224,
+            "end_months_since_1900": 1224,
+            "length_in_months": -1
+        }
+    ],
+    "details": {
+        "First Name": "Alton",
+        "Middle Name": "NA",
+        "Last Name": "Williams II",
+        "Maiden Name": "NA",
+        "Full Name at Birth": "Alton Lewis Williams",
+        "Alternative Name": "Alton Williams, Alton Williams II, Alton Lewis Williams, Alton Lewis Williams II",
+        "Birthday": "1979",
+        "Birthplace": "USA",
+        "Height": "180",
+        "Weight": "NA",
+        "Zodiac Sign": "11",
+        "Sexuality": "NA",
+        "Religion": "1",
+        "Ethnicity": "2",
+        "Nationality": "91",
+        "Occupation": "11"
+    }
+}

@@ -1,0 +1,55 @@
+{
+    "relationships": [
+        {
+            "name": "Kangana Ranaut",
+            "href": "https://www.whosdatedwho.com/dating/kangana-ranaut",
+            "relationship_type": 1,
+            "start_date": "2010",
+            "end_date": "2010",
+            "length": "-",
+            "start_months_since_1900": 1320,
+            "end_months_since_1900": 1320,
+            "length_in_months": -1
+        },
+        {
+            "name": "Kajol",
+            "href": "https://www.whosdatedwho.com/dating/kajol",
+            "relationship_type": 4,
+            "start_date": "1995",
+            "end_date": "present",
+            "length": "29 years",
+            "start_months_since_1900": 1140,
+            "end_months_since_1900": -1,
+            "length_in_months": 348
+        },
+        {
+            "name": "Karisma Kapoor",
+            "href": "https://www.whosdatedwho.com/dating/karisma-kapoor",
+            "relationship_type": 2,
+            "start_date": "1992",
+            "end_date": "1995",
+            "length": "3 years",
+            "start_months_since_1900": 1104,
+            "end_months_since_1900": 1140,
+            "length_in_months": 36
+        }
+    ],
+    "details": {
+        "First Name": "Ajay",
+        "Middle Name": "NA",
+        "Last Name": "Devgan",
+        "Maiden Name": "NA",
+        "Full Name at Birth": "Vishal Veeru Devgan",
+        "Alternative Name": "Ajay, Ajay Devgan",
+        "Birthday": "1969",
+        "Birthplace": "Delhi",
+        "Height": "175",
+        "Weight": "NA",
+        "Zodiac Sign": "7",
+        "Sexuality": "Straight",
+        "Religion": "27",
+        "Ethnicity": "7",
+        "Nationality": "34",
+        "Occupation": "8"
+    }
+}

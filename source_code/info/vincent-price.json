@@ -1,0 +1,77 @@
+{
+    "relationships": [
+        {
+            "name": "Coral Browne",
+            "href": "https://www.whosdatedwho.com/dating/coral-browne",
+            "relationship_type": 4,
+            "start_date": "Oct 1973",
+            "end_date": "29th May 1991",
+            "length": "17 years",
+            "start_months_since_1900": 885,
+            "end_months_since_1900": 1096,
+            "length_in_months": 204
+        },
+        {
+            "name": "Mary Grant",
+            "href": "https://www.whosdatedwho.com/dating/mary-grant",
+            "relationship_type": 4,
+            "start_date": "Aug 1948",
+            "end_date": "Aug 1973",
+            "length": "25 years",
+            "start_months_since_1900": 583,
+            "end_months_since_1900": 883,
+            "length_in_months": 300
+        },
+        {
+            "name": "Deanna Durbin",
+            "href": "https://www.whosdatedwho.com/dating/deanna-durbin",
+            "relationship_type": 3,
+            "start_date": "Mar 1948",
+            "end_date": "Apr 1948",
+            "length": "1 month",
+            "start_months_since_1900": 578,
+            "end_months_since_1900": 579,
+            "length_in_months": 1
+        },
+        {
+            "name": "Edith Barrett",
+            "href": "https://www.whosdatedwho.com/dating/edith-barrett",
+            "relationship_type": 4,
+            "start_date": "Apr 1937",
+            "end_date": "Jun 1948",
+            "length": "11 years",
+            "start_months_since_1900": 447,
+            "end_months_since_1900": 581,
+            "length_in_months": 132
+        },
+        {
+            "name": "Anna May Wong",
+            "href": "https://www.whosdatedwho.com/dating/anna-may-wong",
+            "relationship_type": 3,
+            "start_date": "1937",
+            "end_date": "1937",
+            "length": "-",
+            "start_months_since_1900": 444,
+            "end_months_since_1900": 444,
+            "length_in_months": -1
+        }
+    ],
+    "details": {
+        "First Name": "Vincent",
+        "Middle Name": "Leonard",
+        "Last Name": "Price",
+        "Maiden Name": "NA",
+        "Full Name at Birth": "Vincent Leonard Price Jr.",
+        "Alternative Name": "Bink, Merchant of Menace, Renaissance Man, Master of the Macabre, Vincent II",
+        "Birthday": "1911",
+        "Birthplace": "USA",
+        "Height": "193",
+        "Weight": "NA",
+        "Zodiac Sign": "4",
+        "Sexuality": "Bisexual",
+        "Religion": "13",
+        "Ethnicity": "6",
+        "Nationality": "91",
+        "Occupation": "8"
+    }
+}

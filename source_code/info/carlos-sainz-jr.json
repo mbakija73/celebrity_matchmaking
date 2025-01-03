@@ -1,0 +1,44 @@
+{
+    "relationships": [
+        {
+            "name": "Rebecca Donaldson",
+            "href": "https://www.whosdatedwho.com/dating/rebecca-donaldson",
+            "relationship_type": 2,
+            "start_date": "Aug 2023",
+            "end_date": "present",
+            "length": "1 year",
+            "start_months_since_1900": 1483,
+            "end_months_since_1900": -1,
+            "length_in_months": 12
+        },
+        {
+            "name": "Isabel Hernaez",
+            "href": "https://www.whosdatedwho.com/dating/isabel-hernaez",
+            "relationship_type": 2,
+            "start_date": "Jun 2017",
+            "end_date": "Jun 2023",
+            "length": "6 years",
+            "start_months_since_1900": 1409,
+            "end_months_since_1900": 1481,
+            "length_in_months": 72
+        }
+    ],
+    "details": {
+        "First Name": "Carlos",
+        "Middle Name": "NA",
+        "Last Name": "Sainz",
+        "Maiden Name": "NA",
+        "Full Name at Birth": "Carlos Sainz Vazquez de Castro",
+        "Alternative Name": "Carlos Sainz Jr., Carletes, Carlitos, Junior",
+        "Birthday": "1994",
+        "Birthplace": "Spain",
+        "Height": "178",
+        "Weight": "143lbs (65 kg)",
+        "Zodiac Sign": "11",
+        "Sexuality": "Straight",
+        "Religion": "13",
+        "Ethnicity": "6",
+        "Nationality": "118",
+        "Occupation": "2"
+    }
+}

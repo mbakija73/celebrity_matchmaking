@@ -1,0 +1,44 @@
+{
+    "relationships": [
+        {
+            "name": "Walter Ralphs",
+            "href": "https://www.whosdatedwho.com/dating/walter-ralphs",
+            "relationship_type": 4,
+            "start_date": "Feb 1975",
+            "end_date": "6th Jul 2010",
+            "length": "35 years",
+            "start_months_since_1900": 901,
+            "end_months_since_1900": 1326,
+            "length_in_months": 420
+        },
+        {
+            "name": "Ted Briskin",
+            "href": "https://www.whosdatedwho.com/dating/ted-briskin",
+            "relationship_type": 4,
+            "start_date": "Aug 1954",
+            "end_date": "Jul 1975",
+            "length": "20 years",
+            "start_months_since_1900": 655,
+            "end_months_since_1900": 906,
+            "length_in_months": 240
+        }
+    ],
+    "details": {
+        "First Name": "Colleen",
+        "Middle Name": "NA",
+        "Last Name": "Miller",
+        "Maiden Name": "NA",
+        "Full Name at Birth": "Colleen Joy Miller",
+        "Alternative Name": "NA",
+        "Birthday": "1929",
+        "Birthplace": "USA",
+        "Height": "170",
+        "Weight": "121lbs (55 kg)",
+        "Zodiac Sign": "5",
+        "Sexuality": "NA",
+        "Religion": "1",
+        "Ethnicity": "6",
+        "Nationality": "91",
+        "Occupation": "8"
+    }
+}

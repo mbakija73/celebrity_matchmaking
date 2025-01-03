@@ -1,0 +1,44 @@
+{
+    "relationships": [
+        {
+            "name": "Lauren Conrad",
+            "href": "https://www.whosdatedwho.com/dating/lauren-conrad",
+            "relationship_type": 2,
+            "start_date": "Jan 2008",
+            "end_date": "Apr 2008",
+            "length": "3 months",
+            "start_months_since_1900": 1296,
+            "end_months_since_1900": 1299,
+            "length_in_months": 3
+        },
+        {
+            "name": "Andrea Norris",
+            "href": "https://www.whosdatedwho.com/dating/andrea-norris",
+            "relationship_type": 2,
+            "start_date": "",
+            "end_date": "",
+            "length": "-",
+            "start_months_since_1900": -1,
+            "end_months_since_1900": -1,
+            "length_in_months": -1
+        }
+    ],
+    "details": {
+        "First Name": "Lee",
+        "Middle Name": "Michael",
+        "Last Name": "Norris",
+        "Maiden Name": "NA",
+        "Full Name at Birth": "Lee Michael Norris",
+        "Alternative Name": "Lee Norris",
+        "Birthday": "1981",
+        "Birthplace": "North Carolina",
+        "Height": "179",
+        "Weight": "NA",
+        "Zodiac Sign": "10",
+        "Sexuality": "NA",
+        "Religion": "1",
+        "Ethnicity": "6",
+        "Nationality": "91",
+        "Occupation": "8"
+    }
+}

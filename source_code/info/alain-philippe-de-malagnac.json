@@ -1,0 +1,44 @@
+{
+    "relationships": [
+        {
+            "name": "Amanda Lear",
+            "href": "https://www.whosdatedwho.com/dating/amanda-lear",
+            "relationship_type": 4,
+            "start_date": "1978",
+            "end_date": "Dec 2000",
+            "length": "22 years",
+            "start_months_since_1900": 936,
+            "end_months_since_1900": 1211,
+            "length_in_months": 264
+        },
+        {
+            "name": "Roger Peyrefitte",
+            "href": "https://www.whosdatedwho.com/dating/roger-peyrefitte",
+            "relationship_type": 2,
+            "start_date": "",
+            "end_date": "",
+            "length": "-",
+            "start_months_since_1900": -1,
+            "end_months_since_1900": -1,
+            "length_in_months": -1
+        }
+    ],
+    "details": {
+        "First Name": "Alain-Philippe",
+        "Middle Name": "Malagnac D'Argens De",
+        "Last Name": "De Malagnac",
+        "Maiden Name": "NA",
+        "Full Name at Birth": "Alain-Phillipe Malagnac",
+        "Alternative Name": "Alain-Philippe Malagnac d'Argens de Vill\u00e8le",
+        "Birthday": "1951",
+        "Birthplace": "France",
+        "Height": "NA",
+        "Weight": "NA",
+        "Zodiac Sign": "8",
+        "Sexuality": "Bisexual",
+        "Religion": "1",
+        "Ethnicity": "6",
+        "Nationality": "86",
+        "Occupation": "13"
+    }
+}

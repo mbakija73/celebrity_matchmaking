@@ -1,0 +1,55 @@
+{
+    "relationships": [
+        {
+            "name": "Tut Mace",
+            "href": "https://www.whosdatedwho.com/dating/tut-mace",
+            "relationship_type": 4,
+            "start_date": "1935",
+            "end_date": "1935",
+            "length": "-",
+            "start_months_since_1900": 420,
+            "end_months_since_1900": 420,
+            "length_in_months": -1
+        },
+        {
+            "name": "Marion Mitchell",
+            "href": "https://www.whosdatedwho.com/dating/marion-mitchell",
+            "relationship_type": 4,
+            "start_date": "1933",
+            "end_date": "1933",
+            "length": "-",
+            "start_months_since_1900": 396,
+            "end_months_since_1900": 396,
+            "length_in_months": -1
+        },
+        {
+            "name": "Fay Webb",
+            "href": "https://www.whosdatedwho.com/dating/fay-webb",
+            "relationship_type": 2,
+            "start_date": "",
+            "end_date": "",
+            "length": "-",
+            "start_months_since_1900": -1,
+            "end_months_since_1900": -1,
+            "length_in_months": -1
+        }
+    ],
+    "details": {
+        "First Name": "Gary",
+        "Middle Name": "NA",
+        "Last Name": "Leon",
+        "Maiden Name": "NA",
+        "Full Name at Birth": "NA",
+        "Alternative Name": "NA",
+        "Birthday": "1906",
+        "Birthplace": "NA",
+        "Height": "NA",
+        "Weight": "NA",
+        "Zodiac Sign": "9",
+        "Sexuality": "Straight",
+        "Religion": "1",
+        "Ethnicity": "6",
+        "Nationality": "65",
+        "Occupation": "8"
+    }
+}

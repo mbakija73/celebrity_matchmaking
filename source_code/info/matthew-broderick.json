@@ -1,0 +1,77 @@
+{
+    "relationships": [
+        {
+            "name": "Sarah Jessica Parker",
+            "href": "https://www.whosdatedwho.com/dating/sarah-jessica-parker",
+            "relationship_type": 4,
+            "start_date": "1992",
+            "end_date": "present",
+            "length": "32 years",
+            "start_months_since_1900": 1104,
+            "end_months_since_1900": -1,
+            "length_in_months": 384
+        },
+        {
+            "name": "Jennifer Grey",
+            "href": "https://www.whosdatedwho.com/dating/jennifer-grey",
+            "relationship_type": 2,
+            "start_date": "May 1987",
+            "end_date": "Oct 1988",
+            "length": "1 year",
+            "start_months_since_1900": 1048,
+            "end_months_since_1900": 1065,
+            "length_in_months": 12
+        },
+        {
+            "name": "Helen Hunt",
+            "href": "https://www.whosdatedwho.com/dating/helen-hunt",
+            "relationship_type": 2,
+            "start_date": "Jan 1986",
+            "end_date": "Mar 1986",
+            "length": "1 month",
+            "start_months_since_1900": 1032,
+            "end_months_since_1900": 1034,
+            "length_in_months": 1
+        },
+        {
+            "name": "Daisy Foote",
+            "href": "https://www.whosdatedwho.com/dating/daisy-foote",
+            "relationship_type": 2,
+            "start_date": "Apr 1985",
+            "end_date": "Dec 1986",
+            "length": "1 year",
+            "start_months_since_1900": 1023,
+            "end_months_since_1900": 1043,
+            "length_in_months": 12
+        },
+        {
+            "name": "Kyra Sedgwick",
+            "href": "https://www.whosdatedwho.com/dating/kyra-sedgwick",
+            "relationship_type": 2,
+            "start_date": "",
+            "end_date": "",
+            "length": "-",
+            "start_months_since_1900": -1,
+            "end_months_since_1900": -1,
+            "length_in_months": -1
+        }
+    ],
+    "details": {
+        "First Name": "Matthew",
+        "Middle Name": "NA",
+        "Last Name": "Broderick",
+        "Maiden Name": "NA",
+        "Full Name at Birth": "Matthew Broderick",
+        "Alternative Name": "NA",
+        "Birthday": "1962",
+        "Birthplace": "USA",
+        "Height": "173",
+        "Weight": "NA",
+        "Zodiac Sign": "7",
+        "Sexuality": "Straight",
+        "Religion": "31",
+        "Ethnicity": "6",
+        "Nationality": "91",
+        "Occupation": "8"
+    }
+}

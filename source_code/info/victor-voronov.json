@@ -1,0 +1,44 @@
+{
+    "relationships": [
+        {
+            "name": "Panagiotis Polizoakis",
+            "href": "https://www.whosdatedwho.com/dating/panagiotis-polizoakis",
+            "relationship_type": 2,
+            "start_date": "Dec 2014",
+            "end_date": "Aug 2016",
+            "length": "1 year",
+            "start_months_since_1900": 1379,
+            "end_months_since_1900": 1399,
+            "length_in_months": 12
+        },
+        {
+            "name": "Johnny Weir",
+            "href": "https://www.whosdatedwho.com/dating/johnny-weir",
+            "relationship_type": 4,
+            "start_date": "2010",
+            "end_date": "2015",
+            "length": "5 years",
+            "start_months_since_1900": 1320,
+            "end_months_since_1900": 1380,
+            "length_in_months": 60
+        }
+    ],
+    "details": {
+        "First Name": "Victor",
+        "Middle Name": "NA",
+        "Last Name": "Voronov",
+        "Maiden Name": "NA",
+        "Full Name at Birth": "NA",
+        "Alternative Name": "Victor Voronov",
+        "Birthday": "1984",
+        "Birthplace": "USA",
+        "Height": "NA",
+        "Weight": "NA",
+        "Zodiac Sign": "8",
+        "Sexuality": "Gay",
+        "Religion": "1",
+        "Ethnicity": "6",
+        "Nationality": "91",
+        "Occupation": "17"
+    }
+}

@@ -1,0 +1,33 @@
+{
+    "relationships": [
+        {
+            "name": "Joss Stone",
+            "href": "https://www.whosdatedwho.com/dating/joss-stone",
+            "relationship_type": 2,
+            "start_date": "2007",
+            "end_date": "2008",
+            "length": "1 year",
+            "start_months_since_1900": 1284,
+            "end_months_since_1900": 1296,
+            "length_in_months": 12
+        }
+    ],
+    "details": {
+        "First Name": "Raphael",
+        "Middle Name": "NA",
+        "Last Name": "Saadiq",
+        "Maiden Name": "NA",
+        "Full Name at Birth": "Charles Ray Wiggins",
+        "Alternative Name": "Ray Ray, Charlie Ray Wiggins, Raphael Saadiq, Charles Ray Wiggins",
+        "Birthday": "1966",
+        "Birthplace": "USA",
+        "Height": "173",
+        "Weight": "NA",
+        "Zodiac Sign": "3",
+        "Sexuality": "Straight",
+        "Religion": "1",
+        "Ethnicity": "2",
+        "Nationality": "91",
+        "Occupation": "1"
+    }
+}

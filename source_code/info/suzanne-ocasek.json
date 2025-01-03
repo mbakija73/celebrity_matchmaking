@@ -1,0 +1,33 @@
+{
+    "relationships": [
+        {
+            "name": "Ric Ocasek",
+            "href": "https://www.whosdatedwho.com/dating/ric-ocasek",
+            "relationship_type": 4,
+            "start_date": "1972",
+            "end_date": "1988",
+            "length": "16 years",
+            "start_months_since_1900": 864,
+            "end_months_since_1900": 1056,
+            "length_in_months": 192
+        }
+    ],
+    "details": {
+        "First Name": "Suzanne",
+        "Middle Name": "NA",
+        "Last Name": "NA",
+        "Maiden Name": "NA",
+        "Full Name at Birth": "NA",
+        "Alternative Name": "Suzanne Ocasek",
+        "Birthday": "NA",
+        "Birthplace": "NA",
+        "Height": "NA",
+        "Weight": "NA",
+        "Zodiac Sign": "2",
+        "Sexuality": "NA",
+        "Religion": "1",
+        "Ethnicity": "1",
+        "Nationality": "65",
+        "Occupation": "19"
+    }
+}

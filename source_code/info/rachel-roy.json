@@ -1,0 +1,55 @@
+{
+    "relationships": [
+        {
+            "name": "Dwight Freeney",
+            "href": "https://www.whosdatedwho.com/dating/dwight-freeney",
+            "relationship_type": 2,
+            "start_date": "Jan 2011",
+            "end_date": "Jan 2011",
+            "length": "-",
+            "start_months_since_1900": 1332,
+            "end_months_since_1900": 1332,
+            "length_in_months": -1
+        },
+        {
+            "name": "Damon Dash",
+            "href": "https://www.whosdatedwho.com/dating/damon-dash",
+            "relationship_type": 4,
+            "start_date": "Aug 1996",
+            "end_date": "2009",
+            "length": "12 years",
+            "start_months_since_1900": 1159,
+            "end_months_since_1900": 1308,
+            "length_in_months": 144
+        },
+        {
+            "name": "Jay-Z",
+            "href": "https://www.whosdatedwho.com/dating/jay-z",
+            "relationship_type": 3,
+            "start_date": "",
+            "end_date": "",
+            "length": "-",
+            "start_months_since_1900": -1,
+            "end_months_since_1900": -1,
+            "length_in_months": -1
+        }
+    ],
+    "details": {
+        "First Name": "Rachel",
+        "Middle Name": "Irene",
+        "Last Name": "Roy",
+        "Maiden Name": "NA",
+        "Full Name at Birth": "Rachel Irene Roy",
+        "Alternative Name": "Rachel Irene Roy, Rachel Roy",
+        "Birthday": "1974",
+        "Birthplace": "USA",
+        "Height": "178",
+        "Weight": "139lbs (63 kg)",
+        "Zodiac Sign": "13",
+        "Sexuality": "Straight",
+        "Religion": "18",
+        "Ethnicity": "8",
+        "Nationality": "91",
+        "Occupation": "15"
+    }
+}

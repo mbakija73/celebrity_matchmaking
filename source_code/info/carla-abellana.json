@@ -1,0 +1,55 @@
+{
+    "relationships": [
+        {
+            "name": "Tom Rodriguez",
+            "href": "https://www.whosdatedwho.com/dating/tom-rodriguez",
+            "relationship_type": 4,
+            "start_date": "Aug 2014",
+            "end_date": "Jan 2022",
+            "length": "7 years",
+            "start_months_since_1900": 1375,
+            "end_months_since_1900": 1464,
+            "length_in_months": 84
+        },
+        {
+            "name": "Geoff Eigenmann",
+            "href": "https://www.whosdatedwho.com/dating/geoff-eigenmann",
+            "relationship_type": 2,
+            "start_date": "Nov 2010",
+            "end_date": "Apr 2014",
+            "length": "3 years",
+            "start_months_since_1900": 1330,
+            "end_months_since_1900": 1371,
+            "length_in_months": 36
+        },
+        {
+            "name": "JC Intal",
+            "href": "https://www.whosdatedwho.com/dating/jc-intal",
+            "relationship_type": 2,
+            "start_date": "2005",
+            "end_date": "2009",
+            "length": "4 years",
+            "start_months_since_1900": 1260,
+            "end_months_since_1900": 1308,
+            "length_in_months": 48
+        }
+    ],
+    "details": {
+        "First Name": "Carla",
+        "Middle Name": "Reyes",
+        "Last Name": "Abellana",
+        "Maiden Name": "NA",
+        "Full Name at Birth": "Carla Angeline Reyes Abellana",
+        "Alternative Name": "Primetime Goddess",
+        "Birthday": "1986",
+        "Birthplace": "Philippines",
+        "Height": "163",
+        "Weight": "NA",
+        "Zodiac Sign": "4",
+        "Sexuality": "Straight",
+        "Religion": "13",
+        "Ethnicity": "8",
+        "Nationality": "16",
+        "Occupation": "8"
+    }
+}

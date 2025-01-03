@@ -1,0 +1,44 @@
+{
+    "relationships": [
+        {
+            "name": "Kimmy Maxx",
+            "href": "https://www.whosdatedwho.com/dating/kimmy-maxx",
+            "relationship_type": 2,
+            "start_date": "Sep 2017",
+            "end_date": "present",
+            "length": "7 years",
+            "start_months_since_1900": 1412,
+            "end_months_since_1900": -1,
+            "length_in_months": 84
+        },
+        {
+            "name": "Christina Milian",
+            "href": "https://www.whosdatedwho.com/dating/christina-milian",
+            "relationship_type": 2,
+            "start_date": "Sep 2010",
+            "end_date": "Jun 2014",
+            "length": "3 years",
+            "start_months_since_1900": 1328,
+            "end_months_since_1900": 1373,
+            "length_in_months": 36
+        }
+    ],
+    "details": {
+        "First Name": "Jas",
+        "Middle Name": "NA",
+        "Last Name": "Prince",
+        "Maiden Name": "NA",
+        "Full Name at Birth": "NA",
+        "Alternative Name": "NA",
+        "Birthday": "NA",
+        "Birthplace": "NA",
+        "Height": "NA",
+        "Weight": "NA",
+        "Zodiac Sign": "2",
+        "Sexuality": "NA",
+        "Religion": "1",
+        "Ethnicity": "2",
+        "Nationality": "91",
+        "Occupation": "19"
+    }
+}

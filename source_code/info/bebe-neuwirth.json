@@ -1,0 +1,77 @@
+{
+    "relationships": [
+        {
+            "name": "Chris Calkins",
+            "href": "https://www.whosdatedwho.com/dating/chris-calkins",
+            "relationship_type": 4,
+            "start_date": "2007",
+            "end_date": "present",
+            "length": "17 years",
+            "start_months_since_1900": 1284,
+            "end_months_since_1900": -1,
+            "length_in_months": 204
+        },
+        {
+            "name": "George Stephanopoulos",
+            "href": "https://www.whosdatedwho.com/dating/george-stephanopoulos",
+            "relationship_type": 2,
+            "start_date": "2000",
+            "end_date": "2000",
+            "length": "-",
+            "start_months_since_1900": 1200,
+            "end_months_since_1900": 1200,
+            "length_in_months": -1
+        },
+        {
+            "name": "Michael Danek",
+            "href": "https://www.whosdatedwho.com/dating/michael-danek",
+            "relationship_type": 2,
+            "start_date": "1992",
+            "end_date": "Jun 1999",
+            "length": "7 years",
+            "start_months_since_1900": 1104,
+            "end_months_since_1900": 1193,
+            "length_in_months": 84
+        },
+        {
+            "name": "Paul Dorman",
+            "href": "https://www.whosdatedwho.com/dating/paul-dorman",
+            "relationship_type": 4,
+            "start_date": "1984",
+            "end_date": "1991",
+            "length": "7 years",
+            "start_months_since_1900": 1008,
+            "end_months_since_1900": 1092,
+            "length_in_months": 84
+        },
+        {
+            "name": "C.J. Wilson",
+            "href": "https://www.whosdatedwho.com/dating/c-j-wilson-actor",
+            "relationship_type": 2,
+            "start_date": "",
+            "end_date": "",
+            "length": "-",
+            "start_months_since_1900": -1,
+            "end_months_since_1900": -1,
+            "length_in_months": -1
+        }
+    ],
+    "details": {
+        "First Name": "Bebe",
+        "Middle Name": "NA",
+        "Last Name": "Calkins",
+        "Maiden Name": "Neuwirth",
+        "Full Name at Birth": "Beatrice Neuwirth",
+        "Alternative Name": "Beatrice Neuwirth, Bebe Neuwirth",
+        "Birthday": "1958",
+        "Birthplace": "USA",
+        "Height": "163",
+        "Weight": "110lbs (50 kg)",
+        "Zodiac Sign": "13",
+        "Sexuality": "Straight",
+        "Religion": "31",
+        "Ethnicity": "6",
+        "Nationality": "91",
+        "Occupation": "8"
+    }
+}

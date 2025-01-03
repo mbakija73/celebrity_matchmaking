@@ -1,0 +1,77 @@
+{
+    "relationships": [
+        {
+            "name": "Mara Corday",
+            "href": "https://www.whosdatedwho.com/dating/mara-corday",
+            "relationship_type": 4,
+            "start_date": "Aug 1956",
+            "end_date": "Dec 1974",
+            "length": "18 years",
+            "start_months_since_1900": 679,
+            "end_months_since_1900": 899,
+            "length_in_months": 216
+        },
+        {
+            "name": "Lori Nelson",
+            "href": "https://www.whosdatedwho.com/dating/lori-nelson",
+            "relationship_type": 2,
+            "start_date": "Jun 1953",
+            "end_date": "Aug 1953",
+            "length": "2 months",
+            "start_months_since_1900": 641,
+            "end_months_since_1900": 643,
+            "length_in_months": 2
+        },
+        {
+            "name": "Suzan Ball",
+            "href": "https://www.whosdatedwho.com/dating/suzan-ball",
+            "relationship_type": 4,
+            "start_date": "Apr 1953",
+            "end_date": "Aug 1955",
+            "length": "2 years",
+            "start_months_since_1900": 639,
+            "end_months_since_1900": 667,
+            "length_in_months": 24
+        },
+        {
+            "name": "Ann Blyth",
+            "href": "https://www.whosdatedwho.com/dating/ann-blyth",
+            "relationship_type": 2,
+            "start_date": "Sep 1950",
+            "end_date": "Oct 1950",
+            "length": "1 month",
+            "start_months_since_1900": 608,
+            "end_months_since_1900": 609,
+            "length_in_months": 1
+        },
+        {
+            "name": "Elizabeth Taylor",
+            "href": "https://www.whosdatedwho.com/dating/elizabeth-taylor",
+            "relationship_type": 2,
+            "start_date": "May 1948",
+            "end_date": "Aug 1948",
+            "length": "3 months",
+            "start_months_since_1900": 580,
+            "end_months_since_1900": 583,
+            "length_in_months": 3
+        }
+    ],
+    "details": {
+        "First Name": "Richard",
+        "Middle Name": "NA",
+        "Last Name": "Long",
+        "Maiden Name": "NA",
+        "Full Name at Birth": "Richard Long",
+        "Alternative Name": "Richard Long",
+        "Birthday": "1927",
+        "Birthplace": "USA",
+        "Height": "183",
+        "Weight": "160lbs (73 kg)",
+        "Zodiac Sign": "6",
+        "Sexuality": "Straight",
+        "Religion": "1",
+        "Ethnicity": "6",
+        "Nationality": "91",
+        "Occupation": "8"
+    }
+}

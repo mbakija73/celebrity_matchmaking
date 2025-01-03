@@ -1,0 +1,27 @@
+{
+    "relationships": [
+        {
+            "name": "Jennifer Sebnem Schaefer",
+            "href": "https://www.whosdatedwho.com/dating/sebnem-schaffer",
+            "relationship_type": 2,
+            "start_date": "2013",
+            "end_date": "",
+            "length": "-",
+            "start_months_since_1900": 1356,
+            "end_months_since_1900": -1,
+            "length_in_months": -1
+        },
+        {
+            "name": "Simge Tertemiz",
+            "href": "https://www.whosdatedwho.com/dating/simge-tertemiz",
+            "relationship_type": 4,
+            "start_date": "2010",
+            "end_date": "Oct 2013",
+            "length": "3 years",
+            "start_months_since_1900": 1320,
+            "end_months_since_1900": 1365,
+            "length_in_months": 36
+        }
+    ],
+    "details": {}
+}

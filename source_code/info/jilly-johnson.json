@@ -1,0 +1,88 @@
+{
+    "relationships": [
+        {
+            "name": "Toby Foxcroft",
+            "href": "https://www.whosdatedwho.com/dating/toby-foxcroft",
+            "relationship_type": 2,
+            "start_date": "2000",
+            "end_date": "2000",
+            "length": "-",
+            "start_months_since_1900": 1200,
+            "end_months_since_1900": 1200,
+            "length_in_months": -1
+        },
+        {
+            "name": "Brian Johnson (Businessman)",
+            "href": "https://www.whosdatedwho.com/dating/brian-johnson-businessman",
+            "relationship_type": 4,
+            "start_date": "1972",
+            "end_date": "1975",
+            "length": "3 years",
+            "start_months_since_1900": 864,
+            "end_months_since_1900": 900,
+            "length_in_months": 36
+        },
+        {
+            "name": "Chris Sheasby",
+            "href": "https://www.whosdatedwho.com/dating/chris-sheasby",
+            "relationship_type": 2,
+            "start_date": "",
+            "end_date": "",
+            "length": "-",
+            "start_months_since_1900": -1,
+            "end_months_since_1900": -1,
+            "length_in_months": -1
+        },
+        {
+            "name": "Ashley Brodin",
+            "href": "https://www.whosdatedwho.com/dating/ashley-brodin",
+            "relationship_type": 4,
+            "start_date": "",
+            "end_date": "present",
+            "length": "-",
+            "start_months_since_1900": -1,
+            "end_months_since_1900": -1,
+            "length_in_months": -1
+        },
+        {
+            "name": "Eric Clapton",
+            "href": "https://www.whosdatedwho.com/dating/eric-clapton",
+            "relationship_type": 3,
+            "start_date": "",
+            "end_date": "",
+            "length": "-",
+            "start_months_since_1900": -1,
+            "end_months_since_1900": -1,
+            "length_in_months": -1
+        },
+        {
+            "name": "Rod Stewart",
+            "href": "https://www.whosdatedwho.com/dating/rod-stewart",
+            "relationship_type": 3,
+            "start_date": "",
+            "end_date": "",
+            "length": "-",
+            "start_months_since_1900": -1,
+            "end_months_since_1900": -1,
+            "length_in_months": -1
+        }
+    ],
+    "details": {
+        "First Name": "Jilly",
+        "Middle Name": "NA",
+        "Last Name": "Johnson",
+        "Maiden Name": "Gosden",
+        "Full Name at Birth": "Jilly Gosden",
+        "Alternative Name": "Blonde on Blonde, Jilly Johnson, Jilly Gosden",
+        "Birthday": "1953",
+        "Birthplace": "Australia",
+        "Height": "173",
+        "Weight": "NA",
+        "Zodiac Sign": "5",
+        "Sexuality": "Straight",
+        "Religion": "1",
+        "Ethnicity": "6",
+        "Nationality": "8",
+        "Occupation": "8"
+    }
+}

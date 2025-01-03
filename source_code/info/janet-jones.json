@@ -1,0 +1,55 @@
+{
+    "relationships": [
+        {
+            "name": "Wayne Gretzky",
+            "href": "https://www.whosdatedwho.com/dating/wayne-gretzky",
+            "relationship_type": 4,
+            "start_date": "1987",
+            "end_date": "present",
+            "length": "37 years",
+            "start_months_since_1900": 1044,
+            "end_months_since_1900": -1,
+            "length_in_months": 444
+        },
+        {
+            "name": "Vitas Gerulaitis",
+            "href": "https://www.whosdatedwho.com/dating/vitas-gerulaitis",
+            "relationship_type": 2,
+            "start_date": "1984",
+            "end_date": "1987",
+            "length": "3 years",
+            "start_months_since_1900": 1008,
+            "end_months_since_1900": 1044,
+            "length_in_months": 36
+        },
+        {
+            "name": "Nels Van Patten",
+            "href": "https://www.whosdatedwho.com/dating/nels-van-patten",
+            "relationship_type": 2,
+            "start_date": "1982",
+            "end_date": "1982",
+            "length": "-",
+            "start_months_since_1900": 984,
+            "end_months_since_1900": 984,
+            "length_in_months": -1
+        }
+    ],
+    "details": {
+        "First Name": "Janet",
+        "Middle Name": "Marie",
+        "Last Name": "Gretzky",
+        "Maiden Name": "Jones",
+        "Full Name at Birth": "Janet Marie Jones",
+        "Alternative Name": "Janet Jones-Gretzky, Janet Gretzky",
+        "Birthday": "1961",
+        "Birthplace": "USA",
+        "Height": "175",
+        "Weight": "128lbs (58 kg)",
+        "Zodiac Sign": "13",
+        "Sexuality": "Straight",
+        "Religion": "1",
+        "Ethnicity": "6",
+        "Nationality": "91",
+        "Occupation": "8"
+    }
+}

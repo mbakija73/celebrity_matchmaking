@@ -1,0 +1,66 @@
+{
+    "relationships": [
+        {
+            "name": "Heidi Klum",
+            "href": "https://www.whosdatedwho.com/dating/heidi-klum",
+            "relationship_type": 4,
+            "start_date": "Mar 2018",
+            "end_date": "",
+            "length": "-",
+            "start_months_since_1900": 1418,
+            "end_months_since_1900": -1,
+            "length_in_months": -1
+        },
+        {
+            "name": "Ria Sommerfeld",
+            "href": "https://www.whosdatedwho.com/dating/ria-sommerfeld",
+            "relationship_type": 4,
+            "start_date": "9th Jul 2011",
+            "end_date": "Apr 2016",
+            "length": "4 years",
+            "start_months_since_1900": 1338,
+            "end_months_since_1900": 1395,
+            "length_in_months": 48
+        },
+        {
+            "name": "Chantelle Paige",
+            "href": "https://www.whosdatedwho.com/dating/chantelle-paige",
+            "relationship_type": 2,
+            "start_date": "Jun 2009",
+            "end_date": "Jun 2009",
+            "length": "-",
+            "start_months_since_1900": 1313,
+            "end_months_since_1900": 1313,
+            "length_in_months": -1
+        },
+        {
+            "name": "Ann-Kathrin Br\u00f6mmel",
+            "href": "https://www.whosdatedwho.com/dating/ann-brommel",
+            "relationship_type": 2,
+            "start_date": "2006",
+            "end_date": "2006",
+            "length": "-",
+            "start_months_since_1900": 1272,
+            "end_months_since_1900": 1272,
+            "length_in_months": -1
+        }
+    ],
+    "details": {
+        "First Name": "Tom",
+        "Middle Name": "NA",
+        "Last Name": "Kaulitz",
+        "Maiden Name": "NA",
+        "Full Name at Birth": "Tom Kaulitz-Tr\u00fcmper",
+        "Alternative Name": "Sex Gott",
+        "Birthday": "1989",
+        "Birthplace": "Germany",
+        "Height": "191",
+        "Weight": "NA",
+        "Zodiac Sign": "11",
+        "Sexuality": "Straight",
+        "Religion": "26",
+        "Ethnicity": "6",
+        "Nationality": "55",
+        "Occupation": "1"
+    }
+}

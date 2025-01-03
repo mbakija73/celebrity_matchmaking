@@ -1,0 +1,44 @@
+{
+    "relationships": [
+        {
+            "name": "Ben McKenzie",
+            "href": "https://www.whosdatedwho.com/dating/ben-mckenzie",
+            "relationship_type": 2,
+            "start_date": "Jul 2006",
+            "end_date": "Feb 2007",
+            "length": "7 months",
+            "start_months_since_1900": 1278,
+            "end_months_since_1900": 1285,
+            "length_in_months": 7
+        },
+        {
+            "name": "Gavin DeGraw",
+            "href": "https://www.whosdatedwho.com/dating/gavin-degraw",
+            "relationship_type": 2,
+            "start_date": "2004",
+            "end_date": "2004",
+            "length": "-",
+            "start_months_since_1900": 1248,
+            "end_months_since_1900": 1248,
+            "length_in_months": -1
+        }
+    ],
+    "details": {
+        "First Name": "Amanda",
+        "Middle Name": "Jean",
+        "Last Name": "NA",
+        "Maiden Name": "Loncar",
+        "Full Name at Birth": "Amanda Jean Loncar",
+        "Alternative Name": "Mandy",
+        "Birthday": "1982",
+        "Birthplace": "USA",
+        "Height": "163",
+        "Weight": "110lbs (50 kg)",
+        "Zodiac Sign": "1",
+        "Sexuality": "Straight",
+        "Religion": "1",
+        "Ethnicity": "6",
+        "Nationality": "91",
+        "Occupation": "8"
+    }
+}

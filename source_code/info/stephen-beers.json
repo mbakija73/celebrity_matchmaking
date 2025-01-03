@@ -1,0 +1,33 @@
+{
+    "relationships": [
+        {
+            "name": "Glenn Close",
+            "href": "https://www.whosdatedwho.com/dating/glenn-close",
+            "relationship_type": 2,
+            "start_date": "Jun 1995",
+            "end_date": "1999",
+            "length": "3 years",
+            "start_months_since_1900": 1145,
+            "end_months_since_1900": 1188,
+            "length_in_months": 36
+        }
+    ],
+    "details": {
+        "First Name": "Stephen",
+        "Middle Name": "NA",
+        "Last Name": "Beers",
+        "Maiden Name": "NA",
+        "Full Name at Birth": "NA",
+        "Alternative Name": "NA",
+        "Birthday": "NA",
+        "Birthplace": "NA",
+        "Height": "NA",
+        "Weight": "NA",
+        "Zodiac Sign": "2",
+        "Sexuality": "NA",
+        "Religion": "1",
+        "Ethnicity": "1",
+        "Nationality": "65",
+        "Occupation": "19"
+    }
+}

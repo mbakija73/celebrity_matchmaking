@@ -1,0 +1,187 @@
+{
+    "relationships": [
+        {
+            "name": "Donald F. Taylor",
+            "href": "https://www.whosdatedwho.com/dating/donald-f-taylor",
+            "relationship_type": 4,
+            "start_date": "Jan 1963",
+            "end_date": "Oct 1965",
+            "length": "2 years",
+            "start_months_since_1900": 756,
+            "end_months_since_1900": 789,
+            "length_in_months": 24
+        },
+        {
+            "name": "Edward Callahan",
+            "href": "https://www.whosdatedwho.com/dating/edward-callahan",
+            "relationship_type": 4,
+            "start_date": "1961",
+            "end_date": "Sep 1963",
+            "length": "2 years",
+            "start_months_since_1900": 732,
+            "end_months_since_1900": 764,
+            "length_in_months": 24
+        },
+        {
+            "name": "Louis Bass",
+            "href": "https://www.whosdatedwho.com/dating/louis-bass",
+            "relationship_type": 4,
+            "start_date": "1958",
+            "end_date": "Apr 1960",
+            "length": "2 years",
+            "start_months_since_1900": 696,
+            "end_months_since_1900": 723,
+            "length_in_months": 24
+        },
+        {
+            "name": "Michael Wilding",
+            "href": "https://www.whosdatedwho.com/dating/michael-wilding",
+            "relationship_type": 2,
+            "start_date": "May 1957",
+            "end_date": "1958",
+            "length": "8 months",
+            "start_months_since_1900": 688,
+            "end_months_since_1900": 696,
+            "length_in_months": 8
+        },
+        {
+            "name": "Bugsy Siegel",
+            "href": "https://www.whosdatedwho.com/dating/bugsy-siegel",
+            "relationship_type": 2,
+            "start_date": "Apr 1947",
+            "end_date": "Jun 1947",
+            "length": "2 months",
+            "start_months_since_1900": 567,
+            "end_months_since_1900": 569,
+            "length_in_months": 2
+        },
+        {
+            "name": "Harry Karl",
+            "href": "https://www.whosdatedwho.com/dating/harry-karl",
+            "relationship_type": 4,
+            "start_date": "Jan 1947",
+            "end_date": "Apr 1958",
+            "length": "11 years",
+            "start_months_since_1900": 564,
+            "end_months_since_1900": 699,
+            "length_in_months": 132
+        },
+        {
+            "name": "Orson Welles",
+            "href": "https://www.whosdatedwho.com/dating/orson-welles",
+            "relationship_type": 3,
+            "start_date": "1946",
+            "end_date": "1947",
+            "length": "1 year",
+            "start_months_since_1900": 552,
+            "end_months_since_1900": 564,
+            "length_in_months": 12
+        },
+        {
+            "name": "Victor M. Orsatti",
+            "href": "https://www.whosdatedwho.com/dating/victor-m-orsatti",
+            "relationship_type": 4,
+            "start_date": "Dec 1942",
+            "end_date": "May 1947",
+            "length": "4 years",
+            "start_months_since_1900": 515,
+            "end_months_since_1900": 568,
+            "length_in_months": 48
+        },
+        {
+            "name": "Bruce Cabot",
+            "href": "https://www.whosdatedwho.com/dating/bruce-cabot",
+            "relationship_type": 2,
+            "start_date": "1942",
+            "end_date": "1942",
+            "length": "-",
+            "start_months_since_1900": 504,
+            "end_months_since_1900": 504,
+            "length_in_months": -1
+        },
+        {
+            "name": "Forrest Tucker",
+            "href": "https://www.whosdatedwho.com/dating/forrest-tucker",
+            "relationship_type": 2,
+            "start_date": "1942",
+            "end_date": "1942",
+            "length": "-",
+            "start_months_since_1900": 504,
+            "end_months_since_1900": 504,
+            "length_in_months": -1
+        },
+        {
+            "name": "Richard Allord",
+            "href": "https://www.whosdatedwho.com/dating/richard-allord",
+            "relationship_type": 4,
+            "start_date": "1939",
+            "end_date": "1940",
+            "length": "1 year",
+            "start_months_since_1900": 468,
+            "end_months_since_1900": 480,
+            "length_in_months": 12
+        },
+        {
+            "name": "Eddie Fisher",
+            "href": "https://www.whosdatedwho.com/dating/eddie-fisher",
+            "relationship_type": 3,
+            "start_date": "",
+            "end_date": "",
+            "length": "-",
+            "start_months_since_1900": -1,
+            "end_months_since_1900": -1,
+            "length_in_months": -1
+        },
+        {
+            "name": "Paul Kelly",
+            "href": "https://www.whosdatedwho.com/dating/paul-kelly",
+            "relationship_type": 2,
+            "start_date": "",
+            "end_date": "",
+            "length": "-",
+            "start_months_since_1900": -1,
+            "end_months_since_1900": -1,
+            "length_in_months": -1
+        },
+        {
+            "name": "Jerry Herzfeld",
+            "href": "https://www.whosdatedwho.com/dating/jerry-herzfeld",
+            "relationship_type": 2,
+            "start_date": "",
+            "end_date": "",
+            "length": "-",
+            "start_months_since_1900": -1,
+            "end_months_since_1900": -1,
+            "length_in_months": -1
+        },
+        {
+            "name": "Jose Noval",
+            "href": "https://www.whosdatedwho.com/dating/jose-noval",
+            "relationship_type": 2,
+            "start_date": "",
+            "end_date": "",
+            "length": "-",
+            "start_months_since_1900": -1,
+            "end_months_since_1900": -1,
+            "length_in_months": -1
+        }
+    ],
+    "details": {
+        "First Name": "Marie",
+        "Middle Name": "NA",
+        "Last Name": "McDonald",
+        "Maiden Name": "NA",
+        "Full Name at Birth": "Cora Marie Frye",
+        "Alternative Name": "Cora Marie Frye Taylor, `The Body`, Marie Frye, Marie McDonald, Cora Marie Frye",
+        "Birthday": "1923",
+        "Birthplace": "USA",
+        "Height": "168",
+        "Weight": "NA",
+        "Zodiac Sign": "8",
+        "Sexuality": "Straight",
+        "Religion": "13",
+        "Ethnicity": "6",
+        "Nationality": "91",
+        "Occupation": "8"
+    }
+}

@@ -1,0 +1,44 @@
+{
+    "relationships": [
+        {
+            "name": "George Baker",
+            "href": "https://www.whosdatedwho.com/dating/george-baker",
+            "relationship_type": 4,
+            "start_date": "1993",
+            "end_date": "2011",
+            "length": "18 years",
+            "start_months_since_1900": 1116,
+            "end_months_since_1900": 1332,
+            "length_in_months": 216
+        },
+        {
+            "name": "Ronan O'Casey",
+            "href": "https://www.whosdatedwho.com/dating/ronan-o-casey",
+            "relationship_type": 4,
+            "start_date": "",
+            "end_date": "1971",
+            "length": "-",
+            "start_months_since_1900": -1,
+            "end_months_since_1900": 852,
+            "length_in_months": -1
+        }
+    ],
+    "details": {
+        "First Name": "Louie",
+        "Middle Name": "NA",
+        "Last Name": "Ramsay",
+        "Maiden Name": "NA",
+        "Full Name at Birth": "Kathleen Louie Ramsay",
+        "Alternative Name": "NA",
+        "Birthday": "1929",
+        "Birthplace": "South Africa",
+        "Height": "NA",
+        "Weight": "NA",
+        "Zodiac Sign": "6",
+        "Sexuality": "NA",
+        "Religion": "1",
+        "Ethnicity": "1",
+        "Nationality": "131",
+        "Occupation": "8"
+    }
+}

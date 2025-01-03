@@ -1,0 +1,33 @@
+{
+    "relationships": [
+        {
+            "name": "Jonah Hill",
+            "href": "https://www.whosdatedwho.com/dating/jonah-hill",
+            "relationship_type": 2,
+            "start_date": "May 2014",
+            "end_date": "Jan 2015",
+            "length": "8 months",
+            "start_months_since_1900": 1372,
+            "end_months_since_1900": 1380,
+            "length_in_months": 8
+        }
+    ],
+    "details": {
+        "First Name": "Brooke",
+        "Middle Name": "NA",
+        "Last Name": "Glazer",
+        "Maiden Name": "NA",
+        "Full Name at Birth": "NA",
+        "Alternative Name": "NA",
+        "Birthday": "NA",
+        "Birthplace": "NA",
+        "Height": "NA",
+        "Weight": "NA",
+        "Zodiac Sign": "2",
+        "Sexuality": "NA",
+        "Religion": "1",
+        "Ethnicity": "1",
+        "Nationality": "91",
+        "Occupation": "19"
+    }
+}

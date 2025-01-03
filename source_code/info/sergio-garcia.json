@@ -1,0 +1,66 @@
+{
+    "relationships": [
+        {
+            "name": "Angela Akins",
+            "href": "https://www.whosdatedwho.com/dating/angela-akins",
+            "relationship_type": 2,
+            "start_date": "2016",
+            "end_date": "present",
+            "length": "8 years",
+            "start_months_since_1900": 1392,
+            "end_months_since_1900": -1,
+            "length_in_months": 96
+        },
+        {
+            "name": "Martina Hingis",
+            "href": "https://www.whosdatedwho.com/dating/martina-hingis",
+            "relationship_type": 2,
+            "start_date": "Oct 2001",
+            "end_date": "Oct 2002",
+            "length": "1 year",
+            "start_months_since_1900": 1221,
+            "end_months_since_1900": 1233,
+            "length_in_months": 12
+        },
+        {
+            "name": "Katharina Boehm",
+            "href": "https://www.whosdatedwho.com/dating/katharina-boehm",
+            "relationship_type": 2,
+            "start_date": "",
+            "end_date": "",
+            "length": "-",
+            "start_months_since_1900": -1,
+            "end_months_since_1900": -1,
+            "length_in_months": -1
+        },
+        {
+            "name": "Morgan Norman",
+            "href": "https://www.whosdatedwho.com/dating/morgan-norman",
+            "relationship_type": 2,
+            "start_date": "",
+            "end_date": "",
+            "length": "-",
+            "start_months_since_1900": -1,
+            "end_months_since_1900": -1,
+            "length_in_months": -1
+        }
+    ],
+    "details": {
+        "First Name": "Sergio",
+        "Middle Name": "Garc\u00eda",
+        "Last Name": "Fern\u00e1ndez",
+        "Maiden Name": "NA",
+        "Full Name at Birth": "Sergio Garc\u00eda Fern\u00e1ndez",
+        "Alternative Name": "El Ni\u00f1o",
+        "Birthday": "1980",
+        "Birthplace": "Spain",
+        "Height": "178",
+        "Weight": "160lbs (73 kg)",
+        "Zodiac Sign": "13",
+        "Sexuality": "Straight",
+        "Religion": "1",
+        "Ethnicity": "6",
+        "Nationality": "118",
+        "Occupation": "2"
+    }
+}

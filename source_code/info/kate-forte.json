@@ -1,0 +1,44 @@
+{
+    "relationships": [
+        {
+            "name": "Fabian",
+            "href": "https://www.whosdatedwho.com/dating/fabian",
+            "relationship_type": 4,
+            "start_date": "1979",
+            "end_date": "1990",
+            "length": "11 years",
+            "start_months_since_1900": 948,
+            "end_months_since_1900": 1080,
+            "length_in_months": 132
+        },
+        {
+            "name": "Griffin Dunne",
+            "href": "https://www.whosdatedwho.com/dating/griffin-dunne",
+            "relationship_type": 2,
+            "start_date": "",
+            "end_date": "",
+            "length": "-",
+            "start_months_since_1900": -1,
+            "end_months_since_1900": -1,
+            "length_in_months": -1
+        }
+    ],
+    "details": {
+        "First Name": "Kate",
+        "Middle Name": "NA",
+        "Last Name": "Forte",
+        "Maiden Name": "NA",
+        "Full Name at Birth": "Kate Netter",
+        "Alternative Name": "Kate Forte",
+        "Birthday": "1953",
+        "Birthplace": "New York",
+        "Height": "160",
+        "Weight": "NA",
+        "Zodiac Sign": "5",
+        "Sexuality": "NA",
+        "Religion": "1",
+        "Ethnicity": "1",
+        "Nationality": "65",
+        "Occupation": "19"
+    }
+}

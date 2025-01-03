@@ -1,0 +1,44 @@
+{
+    "relationships": [
+        {
+            "name": "Leonardo DiCaprio",
+            "href": "https://www.whosdatedwho.com/dating/leonardo-dicaprio",
+            "relationship_type": 3,
+            "start_date": "2011",
+            "end_date": "2011",
+            "length": "-",
+            "start_months_since_1900": 1332,
+            "end_months_since_1900": 1332,
+            "length_in_months": -1
+        },
+        {
+            "name": "Spencer Matthews",
+            "href": "https://www.whosdatedwho.com/dating/spencer-matthews",
+            "relationship_type": 1,
+            "start_date": "",
+            "end_date": "",
+            "length": "-",
+            "start_months_since_1900": -1,
+            "end_months_since_1900": -1,
+            "length_in_months": -1
+        }
+    ],
+    "details": {
+        "First Name": "Emma",
+        "Middle Name": "NA",
+        "Last Name": "Miller",
+        "Maiden Name": "NA",
+        "Full Name at Birth": "Emma Louise Miller",
+        "Alternative Name": "Emma Miller",
+        "Birthday": "1989",
+        "Birthplace": "U.K.",
+        "Height": "173",
+        "Weight": "NA",
+        "Zodiac Sign": "4",
+        "Sexuality": "Straight",
+        "Religion": "1",
+        "Ethnicity": "6",
+        "Nationality": "8",
+        "Occupation": "16"
+    }
+}

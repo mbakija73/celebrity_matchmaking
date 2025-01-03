@@ -1,0 +1,44 @@
+{
+    "relationships": [
+        {
+            "name": "Natalie Schafer",
+            "href": "https://www.whosdatedwho.com/dating/natalie-schafer",
+            "relationship_type": 2,
+            "start_date": "1946",
+            "end_date": "Jun 1946",
+            "length": "5 months",
+            "start_months_since_1900": 552,
+            "end_months_since_1900": 557,
+            "length_in_months": 5
+        },
+        {
+            "name": "Ethel Kenyon",
+            "href": "https://www.whosdatedwho.com/dating/ethel-kenyon",
+            "relationship_type": 4,
+            "start_date": "1931",
+            "end_date": "1939",
+            "length": "8 years",
+            "start_months_since_1900": 372,
+            "end_months_since_1900": 468,
+            "length_in_months": 96
+        }
+    ],
+    "details": {
+        "First Name": "Charles",
+        "Middle Name": "NA",
+        "Last Name": "Butterworth",
+        "Maiden Name": "NA",
+        "Full Name at Birth": "Charles Butterworth",
+        "Alternative Name": "Charles Butterworth, Charlie Butterworth",
+        "Birthday": "1899",
+        "Birthplace": "Indiana USA",
+        "Height": "NA",
+        "Weight": "NA",
+        "Zodiac Sign": "12",
+        "Sexuality": "Straight",
+        "Religion": "1",
+        "Ethnicity": "6",
+        "Nationality": "91",
+        "Occupation": "8"
+    }
+}

@@ -1,0 +1,33 @@
+{
+    "relationships": [
+        {
+            "name": "Unknown",
+            "href": "https://www.whosdatedwho.com/dating/unknown-profile",
+            "relationship_type": 5,
+            "start_date": "",
+            "end_date": "",
+            "length": "-",
+            "start_months_since_1900": -1,
+            "end_months_since_1900": -1,
+            "length_in_months": -1
+        }
+    ],
+    "details": {
+        "First Name": "Beau",
+        "Middle Name": "Benjamin",
+        "Last Name": "Schneider",
+        "Maiden Name": "NA",
+        "Full Name at Birth": "Beau Benjamin Schneider",
+        "Alternative Name": "Beau Benjamin Schneider, Beau Schneider",
+        "Birthday": "1988",
+        "Birthplace": "Netherlands",
+        "Height": "NA",
+        "Weight": "NA",
+        "Zodiac Sign": "8",
+        "Sexuality": "NA",
+        "Religion": "1",
+        "Ethnicity": "6",
+        "Nationality": "45",
+        "Occupation": "8"
+    }
+}

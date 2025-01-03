@@ -1,0 +1,77 @@
+{
+    "relationships": [
+        {
+            "name": "Jane Fonda",
+            "href": "https://www.whosdatedwho.com/dating/jane-fonda",
+            "relationship_type": 2,
+            "start_date": "Oct 2008",
+            "end_date": "Jan 2017",
+            "length": "8 years",
+            "start_months_since_1900": 1305,
+            "end_months_since_1900": 1404,
+            "length_in_months": 96
+        },
+        {
+            "name": "Denice D. Lewis",
+            "href": "https://www.whosdatedwho.com/dating/denice-d-lewis",
+            "relationship_type": 2,
+            "start_date": "1993",
+            "end_date": "1993",
+            "length": "-",
+            "start_months_since_1900": 1116,
+            "end_months_since_1900": 1116,
+            "length_in_months": -1
+        },
+        {
+            "name": "Linda Thompson",
+            "href": "https://www.whosdatedwho.com/dating/linda-thompson",
+            "relationship_type": 2,
+            "start_date": "Jan 1986",
+            "end_date": "Aug 1986",
+            "length": "7 months",
+            "start_months_since_1900": 1032,
+            "end_months_since_1900": 1039,
+            "length_in_months": 7
+        },
+        {
+            "name": "Tracy Richman",
+            "href": "https://www.whosdatedwho.com/dating/tracy-richman",
+            "relationship_type": 2,
+            "start_date": "1986",
+            "end_date": "1991",
+            "length": "5 years",
+            "start_months_since_1900": 1032,
+            "end_months_since_1900": 1092,
+            "length_in_months": 60
+        },
+        {
+            "name": "Rebecca Broussard",
+            "href": "https://www.whosdatedwho.com/dating/rebecca-broussard",
+            "relationship_type": 4,
+            "start_date": "1986",
+            "end_date": "12th Jan 1988",
+            "length": "2 years",
+            "start_months_since_1900": 1032,
+            "end_months_since_1900": 1056,
+            "length_in_months": 24
+        }
+    ],
+    "details": {
+        "First Name": "Richard",
+        "Middle Name": "NA",
+        "Last Name": "Perry",
+        "Maiden Name": "NA",
+        "Full Name at Birth": "Richard Perry",
+        "Alternative Name": "NA",
+        "Birthday": "1942",
+        "Birthplace": "NY",
+        "Height": "NA",
+        "Weight": "NA",
+        "Zodiac Sign": "4",
+        "Sexuality": "NA",
+        "Religion": "1",
+        "Ethnicity": "6",
+        "Nationality": "91",
+        "Occupation": "1"
+    }
+}

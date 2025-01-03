@@ -1,0 +1,44 @@
+{
+    "relationships": [
+        {
+            "name": "Andrew Buchan",
+            "href": "https://www.whosdatedwho.com/dating/andrew-buchan",
+            "relationship_type": 2,
+            "start_date": "2022",
+            "end_date": "present",
+            "length": "2 years",
+            "start_months_since_1900": 1464,
+            "end_months_since_1900": -1,
+            "length_in_months": 24
+        },
+        {
+            "name": "James Maizels",
+            "href": "https://www.whosdatedwho.com/dating/james-maizels",
+            "relationship_type": 2,
+            "start_date": "Oct 2013",
+            "end_date": "2022",
+            "length": "8 years",
+            "start_months_since_1900": 1365,
+            "end_months_since_1900": 1464,
+            "length_in_months": 96
+        }
+    ],
+    "details": {
+        "First Name": "Leila",
+        "Middle Name": "Effat",
+        "Last Name": "Farzad",
+        "Maiden Name": "NA",
+        "Full Name at Birth": "Leila Effat Farzad",
+        "Alternative Name": "NA",
+        "Birthday": "1983",
+        "Birthplace": "UK",
+        "Height": "168",
+        "Weight": "NA",
+        "Zodiac Sign": "6",
+        "Sexuality": "NA",
+        "Religion": "1",
+        "Ethnicity": "1",
+        "Nationality": "8",
+        "Occupation": "8"
+    }
+}

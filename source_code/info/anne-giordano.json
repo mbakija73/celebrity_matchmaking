@@ -1,0 +1,33 @@
+{
+    "relationships": [
+        {
+            "name": "Jack La Rue",
+            "href": "https://www.whosdatedwho.com/dating/jack-la-rue",
+            "relationship_type": 4,
+            "start_date": "Aug 1962",
+            "end_date": "Feb 1967",
+            "length": "4 years",
+            "start_months_since_1900": 751,
+            "end_months_since_1900": 805,
+            "length_in_months": 48
+        }
+    ],
+    "details": {
+        "First Name": "Anne",
+        "Middle Name": "NA",
+        "Last Name": "Giordano",
+        "Maiden Name": "NA",
+        "Full Name at Birth": "NA",
+        "Alternative Name": "NA",
+        "Birthday": "NA",
+        "Birthplace": "NA",
+        "Height": "NA",
+        "Weight": "NA",
+        "Zodiac Sign": "2",
+        "Sexuality": "NA",
+        "Religion": "1",
+        "Ethnicity": "1",
+        "Nationality": "65",
+        "Occupation": "9"
+    }
+}

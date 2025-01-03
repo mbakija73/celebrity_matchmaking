@@ -1,0 +1,77 @@
+{
+    "relationships": [
+        {
+            "name": "John Cook",
+            "href": "https://www.whosdatedwho.com/dating/john-cook",
+            "relationship_type": 4,
+            "start_date": "Oct 1997",
+            "end_date": "",
+            "length": "-",
+            "start_months_since_1900": 1173,
+            "end_months_since_1900": -1,
+            "length_in_months": -1
+        },
+        {
+            "name": "Wil Wheaton",
+            "href": "https://www.whosdatedwho.com/dating/wil-wheaton",
+            "relationship_type": 2,
+            "start_date": "Aug 1995",
+            "end_date": "Aug 1997",
+            "length": "2 years",
+            "start_months_since_1900": 1147,
+            "end_months_since_1900": 1171,
+            "length_in_months": 24
+        },
+        {
+            "name": "Patrick Wilson",
+            "href": "https://www.whosdatedwho.com/dating/patrick-wilson",
+            "relationship_type": 2,
+            "start_date": "Apr 1995",
+            "end_date": "Jun 1995",
+            "length": "2 months",
+            "start_months_since_1900": 1143,
+            "end_months_since_1900": 1145,
+            "length_in_months": 2
+        },
+        {
+            "name": "Matthew Lillard",
+            "href": "https://www.whosdatedwho.com/dating/matthew-lillard",
+            "relationship_type": 2,
+            "start_date": "17th May 1993",
+            "end_date": "1st May 1995",
+            "length": "1 year",
+            "start_months_since_1900": 1120,
+            "end_months_since_1900": 1144,
+            "length_in_months": 12
+        },
+        {
+            "name": "David Arquette",
+            "href": "https://www.whosdatedwho.com/dating/david-arquette",
+            "relationship_type": 2,
+            "start_date": "Jan 1989",
+            "end_date": "Oct 1990",
+            "length": "1 year",
+            "start_months_since_1900": 1068,
+            "end_months_since_1900": 1089,
+            "length_in_months": 12
+        }
+    ],
+    "details": {
+        "First Name": "Christa",
+        "Middle Name": "NA",
+        "Last Name": "Denton",
+        "Maiden Name": "Kelly",
+        "Full Name at Birth": "Dana Forest Kelly",
+        "Alternative Name": "NA",
+        "Birthday": "1972",
+        "Birthplace": "Arizona",
+        "Height": "165",
+        "Weight": "NA",
+        "Zodiac Sign": "1",
+        "Sexuality": "Straight",
+        "Religion": "31",
+        "Ethnicity": "6",
+        "Nationality": "91",
+        "Occupation": "8"
+    }
+}

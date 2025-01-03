@@ -1,0 +1,99 @@
+{
+    "relationships": [
+        {
+            "name": "Norman Foster",
+            "href": "https://www.whosdatedwho.com/dating/norman-foster",
+            "relationship_type": 4,
+            "start_date": "Oct 1935",
+            "end_date": "Jul 1976",
+            "length": "40 years",
+            "start_months_since_1900": 429,
+            "end_months_since_1900": 918,
+            "length_in_months": 480
+        },
+        {
+            "name": "Pat DiCicco",
+            "href": "https://www.whosdatedwho.com/dating/pat-dicicco",
+            "relationship_type": 3,
+            "start_date": "Dec 1934",
+            "end_date": "Feb 1935",
+            "length": "2 months",
+            "start_months_since_1900": 419,
+            "end_months_since_1900": 421,
+            "length_in_months": 2
+        },
+        {
+            "name": "John Gilbert",
+            "href": "https://www.whosdatedwho.com/dating/john-gilbert",
+            "relationship_type": 3,
+            "start_date": "1934",
+            "end_date": "1934",
+            "length": "-",
+            "start_months_since_1900": 408,
+            "end_months_since_1900": 408,
+            "length_in_months": -1
+        },
+        {
+            "name": "Lyle Talbot",
+            "href": "https://www.whosdatedwho.com/dating/lyle-talbot",
+            "relationship_type": 2,
+            "start_date": "1934",
+            "end_date": "1934",
+            "length": "-",
+            "start_months_since_1900": 408,
+            "end_months_since_1900": 408,
+            "length_in_months": -1
+        },
+        {
+            "name": "Russ Columbo",
+            "href": "https://www.whosdatedwho.com/dating/russ-columbo",
+            "relationship_type": 2,
+            "start_date": "1933",
+            "end_date": "1933",
+            "length": "-",
+            "start_months_since_1900": 396,
+            "end_months_since_1900": 396,
+            "length_in_months": -1
+        },
+        {
+            "name": "Randolph Scott",
+            "href": "https://www.whosdatedwho.com/dating/randolph-scott",
+            "relationship_type": 3,
+            "start_date": "1931",
+            "end_date": "1932",
+            "length": "1 year",
+            "start_months_since_1900": 372,
+            "end_months_since_1900": 384,
+            "length_in_months": 12
+        },
+        {
+            "name": "Clarence Brown",
+            "href": "https://www.whosdatedwho.com/dating/clarence-brown",
+            "relationship_type": 2,
+            "start_date": "1930",
+            "end_date": "1930",
+            "length": "-",
+            "start_months_since_1900": 360,
+            "end_months_since_1900": 360,
+            "length_in_months": -1
+        }
+    ],
+    "details": {
+        "First Name": "Sally",
+        "Middle Name": "Jane",
+        "Last Name": "Blane",
+        "Maiden Name": "Young",
+        "Full Name at Birth": "Elisabeth Jane Young",
+        "Alternative Name": "NA",
+        "Birthday": "1910",
+        "Birthplace": "Colorado",
+        "Height": "164",
+        "Weight": "NA",
+        "Zodiac Sign": "8",
+        "Sexuality": "Straight",
+        "Religion": "13",
+        "Ethnicity": "6",
+        "Nationality": "91",
+        "Occupation": "8"
+    }
+}

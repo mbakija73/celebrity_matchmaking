@@ -1,0 +1,44 @@
+{
+    "relationships": [
+        {
+            "name": "Catherine Deneuve",
+            "href": "https://www.whosdatedwho.com/dating/catherine-deneuve",
+            "relationship_type": 2,
+            "start_date": "1983",
+            "end_date": "1983",
+            "length": "-",
+            "start_months_since_1900": 996,
+            "end_months_since_1900": 996,
+            "length_in_months": -1
+        },
+        {
+            "name": "M\u00f3nica Hoyos",
+            "href": "https://www.whosdatedwho.com/dating/monica-hoyos",
+            "relationship_type": 2,
+            "start_date": "",
+            "end_date": "",
+            "length": "-",
+            "start_months_since_1900": -1,
+            "end_months_since_1900": -1,
+            "length_in_months": -1
+        }
+    ],
+    "details": {
+        "First Name": "Carlos",
+        "Middle Name": "NA",
+        "Last Name": "Lozano",
+        "Maiden Name": "NA",
+        "Full Name at Birth": "Carlos Lozano",
+        "Alternative Name": "Carlos Lozano",
+        "Birthday": "1962",
+        "Birthplace": "Spain",
+        "Height": "NA",
+        "Weight": "NA",
+        "Zodiac Sign": "6",
+        "Sexuality": "NA",
+        "Religion": "1",
+        "Ethnicity": "1",
+        "Nationality": "118",
+        "Occupation": "8"
+    }
+}

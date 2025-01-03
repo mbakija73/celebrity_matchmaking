@@ -1,0 +1,77 @@
+{
+    "relationships": [
+        {
+            "name": "Clara Kimball Young",
+            "href": "https://www.whosdatedwho.com/dating/clara-kimball-young",
+            "relationship_type": 2,
+            "start_date": "1917",
+            "end_date": "1917",
+            "length": "-",
+            "start_months_since_1900": 204,
+            "end_months_since_1900": 204,
+            "length_in_months": -1
+        },
+        {
+            "name": "Florence Sachs",
+            "href": "https://www.whosdatedwho.com/dating/florence-sachs",
+            "relationship_type": 4,
+            "start_date": "15th Oct 1896",
+            "end_date": "25th Jan 1933",
+            "length": "36 years",
+            "start_months_since_1900": -39,
+            "end_months_since_1900": 396,
+            "length_in_months": 432
+        },
+        {
+            "name": "Mildred Shay",
+            "href": "https://www.whosdatedwho.com/dating/mildred-shay",
+            "relationship_type": 3,
+            "start_date": "",
+            "end_date": "",
+            "length": "-",
+            "start_months_since_1900": -1,
+            "end_months_since_1900": -1,
+            "length_in_months": -1
+        },
+        {
+            "name": "Olive Thomas",
+            "href": "https://www.whosdatedwho.com/dating/olive-thomas",
+            "relationship_type": 3,
+            "start_date": "",
+            "end_date": "",
+            "length": "-",
+            "start_months_since_1900": -1,
+            "end_months_since_1900": -1,
+            "length_in_months": -1
+        },
+        {
+            "name": "Alla Nazimova",
+            "href": "https://www.whosdatedwho.com/dating/alla-nazimova",
+            "relationship_type": 3,
+            "start_date": "",
+            "end_date": "",
+            "length": "-",
+            "start_months_since_1900": -1,
+            "end_months_since_1900": -1,
+            "length_in_months": -1
+        }
+    ],
+    "details": {
+        "First Name": "Lewis",
+        "Middle Name": "J.",
+        "Last Name": "Selznick",
+        "Maiden Name": "NA",
+        "Full Name at Birth": "Laiser Zeleznick",
+        "Alternative Name": "Laiser Zeleznick, Lewis J. Selznick",
+        "Birthday": "1870",
+        "Birthplace": "Russian Empire [now Ukraine]",
+        "Height": "NA",
+        "Weight": "NA",
+        "Zodiac Sign": "3",
+        "Sexuality": "Straight",
+        "Religion": "31",
+        "Ethnicity": "6",
+        "Nationality": "9",
+        "Occupation": "9"
+    }
+}

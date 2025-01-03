@@ -1,0 +1,66 @@
+{
+    "relationships": [
+        {
+            "name": "Logan Paul",
+            "href": "https://www.whosdatedwho.com/dating/logan-paul-internet-celebrity",
+            "relationship_type": 2,
+            "start_date": "Jan 2019",
+            "end_date": "Feb 2019",
+            "length": "1 month",
+            "start_months_since_1900": 1428,
+            "end_months_since_1900": 1429,
+            "length_in_months": 1
+        },
+        {
+            "name": "Turner Tenney",
+            "href": "https://www.whosdatedwho.com/dating/turner-tenney",
+            "relationship_type": 2,
+            "start_date": "2018",
+            "end_date": "2018",
+            "length": "-",
+            "start_months_since_1900": 1416,
+            "end_months_since_1900": 1416,
+            "length_in_months": -1
+        },
+        {
+            "name": "Todd Smith",
+            "href": "https://www.whosdatedwho.com/dating/toddy-smith",
+            "relationship_type": 2,
+            "start_date": "2017",
+            "end_date": "2018",
+            "length": "1 year",
+            "start_months_since_1900": 1404,
+            "end_months_since_1900": 1416,
+            "length_in_months": 12
+        },
+        {
+            "name": "Brennen Taylor",
+            "href": "https://www.whosdatedwho.com/dating/brennen-taylor",
+            "relationship_type": 2,
+            "start_date": "2017",
+            "end_date": "2017",
+            "length": "-",
+            "start_months_since_1900": 1404,
+            "end_months_since_1900": 1404,
+            "length_in_months": -1
+        }
+    ],
+    "details": {
+        "First Name": "Corinna",
+        "Middle Name": "Annelies",
+        "Last Name": "Kopf",
+        "Maiden Name": "NA",
+        "Full Name at Birth": "Corinna Annelies Kopf",
+        "Alternative Name": "Corinna Kopf, Pouty Girl, Corinna Annelies Kopf",
+        "Birthday": "1995",
+        "Birthplace": "USA",
+        "Height": "165",
+        "Weight": "114lbs (52 kg)",
+        "Zodiac Sign": "6",
+        "Sexuality": "Bisexual",
+        "Religion": "1",
+        "Ethnicity": "6",
+        "Nationality": "91",
+        "Occupation": "11"
+    }
+}

@@ -1,0 +1,55 @@
+{
+    "relationships": [
+        {
+            "name": "Jessie J",
+            "href": "https://www.whosdatedwho.com/dating/jessie-j",
+            "relationship_type": 2,
+            "start_date": "4th Nov 2014",
+            "end_date": "2017",
+            "length": "2 years",
+            "start_months_since_1900": 1378,
+            "end_months_since_1900": 1404,
+            "length_in_months": 24
+        },
+        {
+            "name": "Kim Gingras",
+            "href": "https://www.whosdatedwho.com/dating/kim-gingras",
+            "relationship_type": 2,
+            "start_date": "Jul 2014",
+            "end_date": "2014",
+            "length": "6 months",
+            "start_months_since_1900": 1374,
+            "end_months_since_1900": 1368,
+            "length_in_months": 6
+        },
+        {
+            "name": "Sunny Lewis",
+            "href": "https://www.whosdatedwho.com/dating/sunny-lewis",
+            "relationship_type": 2,
+            "start_date": "",
+            "end_date": "present",
+            "length": "-",
+            "start_months_since_1900": -1,
+            "end_months_since_1900": -1,
+            "length_in_months": -1
+        }
+    ],
+    "details": {
+        "First Name": "Luke",
+        "Middle Name": "James",
+        "Last Name": "Boyd",
+        "Maiden Name": "NA",
+        "Full Name at Birth": "Luke James Boyd",
+        "Alternative Name": "Luke James, WOLF",
+        "Birthday": "1984",
+        "Birthplace": "Louisiana",
+        "Height": "179",
+        "Weight": "NA",
+        "Zodiac Sign": "4",
+        "Sexuality": "Straight",
+        "Religion": "1",
+        "Ethnicity": "2",
+        "Nationality": "91",
+        "Occupation": "1"
+    }
+}

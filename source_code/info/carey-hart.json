@@ -1,0 +1,44 @@
+{
+    "relationships": [
+        {
+            "name": "Pink",
+            "href": "https://www.whosdatedwho.com/dating/pink-singer",
+            "relationship_type": 4,
+            "start_date": "Jan 2001",
+            "end_date": "present",
+            "length": "23 years",
+            "start_months_since_1900": 1212,
+            "end_months_since_1900": -1,
+            "length_in_months": 276
+        },
+        {
+            "name": "Kim Martin",
+            "href": "https://www.whosdatedwho.com/dating/kim-martin",
+            "relationship_type": 3,
+            "start_date": "",
+            "end_date": "",
+            "length": "-",
+            "start_months_since_1900": -1,
+            "end_months_since_1900": -1,
+            "length_in_months": -1
+        }
+    ],
+    "details": {
+        "First Name": "Carey",
+        "Middle Name": "Jason Phillip",
+        "Last Name": "Hart",
+        "Maiden Name": "NA",
+        "Full Name at Birth": "Carey Jason Phillip Hart",
+        "Alternative Name": "Vegas, Hart, Mr. P!nk",
+        "Birthday": "1975",
+        "Birthplace": "U.S.",
+        "Height": "180",
+        "Weight": "165lbs (75 kg)",
+        "Zodiac Sign": "8",
+        "Sexuality": "Straight",
+        "Religion": "1",
+        "Ethnicity": "6",
+        "Nationality": "91",
+        "Occupation": "2"
+    }
+}

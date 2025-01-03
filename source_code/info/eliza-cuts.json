@@ -1,0 +1,33 @@
+{
+    "relationships": [
+        {
+            "name": "Gerard Way",
+            "href": "https://www.whosdatedwho.com/dating/gerard-way",
+            "relationship_type": 2,
+            "start_date": "Nov 2006",
+            "end_date": "Jun 2007",
+            "length": "7 months",
+            "start_months_since_1900": 1282,
+            "end_months_since_1900": 1289,
+            "length_in_months": 7
+        }
+    ],
+    "details": {
+        "First Name": "Eliza",
+        "Middle Name": "NA",
+        "Last Name": "Cuts",
+        "Maiden Name": "NA",
+        "Full Name at Birth": "Eliza Ann Siep",
+        "Alternative Name": "Eliza Cuts, Eliza Ann Siep",
+        "Birthday": "NA",
+        "Birthplace": "Illinois USA",
+        "Height": "NA",
+        "Weight": "NA",
+        "Zodiac Sign": "2",
+        "Sexuality": "NA",
+        "Religion": "1",
+        "Ethnicity": "6",
+        "Nationality": "91",
+        "Occupation": "18"
+    }
+}

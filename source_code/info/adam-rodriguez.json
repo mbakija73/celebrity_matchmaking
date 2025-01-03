@@ -1,0 +1,66 @@
+{
+    "relationships": [
+        {
+            "name": "Grace Gail",
+            "href": "https://www.whosdatedwho.com/dating/grace-gail",
+            "relationship_type": 4,
+            "start_date": "2012",
+            "end_date": "present",
+            "length": "12 years",
+            "start_months_since_1900": 1344,
+            "end_months_since_1900": -1,
+            "length_in_months": 144
+        },
+        {
+            "name": "Melanie Fiona",
+            "href": "https://www.whosdatedwho.com/dating/melanie-fiona",
+            "relationship_type": 2,
+            "start_date": "2009",
+            "end_date": "2012",
+            "length": "3 years",
+            "start_months_since_1900": 1308,
+            "end_months_since_1900": 1344,
+            "length_in_months": 36
+        },
+        {
+            "name": "Ciarra Pardo",
+            "href": "https://www.whosdatedwho.com/dating/ciarra-pardo",
+            "relationship_type": 2,
+            "start_date": "2008",
+            "end_date": "2008",
+            "length": "-",
+            "start_months_since_1900": 1296,
+            "end_months_since_1900": 1296,
+            "length_in_months": -1
+        },
+        {
+            "name": "Alexandra Cheron",
+            "href": "https://www.whosdatedwho.com/dating/alexandra-cheron",
+            "relationship_type": 1,
+            "start_date": "",
+            "end_date": "",
+            "length": "-",
+            "start_months_since_1900": -1,
+            "end_months_since_1900": -1,
+            "length_in_months": -1
+        }
+    ],
+    "details": {
+        "First Name": "Adam",
+        "Middle Name": "Michael",
+        "Last Name": "Rodriguez",
+        "Maiden Name": "NA",
+        "Full Name at Birth": "Adam Michael Rodriguez",
+        "Alternative Name": "NA",
+        "Birthday": "1975",
+        "Birthplace": "USA",
+        "Height": "183",
+        "Weight": "NA",
+        "Zodiac Sign": "7",
+        "Sexuality": "Straight",
+        "Religion": "1",
+        "Ethnicity": "8",
+        "Nationality": "91",
+        "Occupation": "8"
+    }
+}

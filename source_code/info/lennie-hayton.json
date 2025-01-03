@@ -1,0 +1,44 @@
+{
+    "relationships": [
+        {
+            "name": "Lena Horne",
+            "href": "https://www.whosdatedwho.com/dating/lena-horne",
+            "relationship_type": 4,
+            "start_date": "1946",
+            "end_date": "24th Apr 1971",
+            "length": "25 years",
+            "start_months_since_1900": 552,
+            "end_months_since_1900": 855,
+            "length_in_months": 300
+        },
+        {
+            "name": "Helen Maude Gifford",
+            "href": "https://www.whosdatedwho.com/dating/helen-maude-gifford",
+            "relationship_type": 4,
+            "start_date": "1935",
+            "end_date": "1943",
+            "length": "8 years",
+            "start_months_since_1900": 420,
+            "end_months_since_1900": 516,
+            "length_in_months": 96
+        }
+    ],
+    "details": {
+        "First Name": "Leonard",
+        "Middle Name": "George",
+        "Last Name": "Hayton",
+        "Maiden Name": "NA",
+        "Full Name at Birth": "Leonard George Hayton",
+        "Alternative Name": "Lennie Hayton",
+        "Birthday": "1908",
+        "Birthplace": "New York",
+        "Height": "NA",
+        "Weight": "NA",
+        "Zodiac Sign": "9",
+        "Sexuality": "Straight",
+        "Religion": "31",
+        "Ethnicity": "6",
+        "Nationality": "91",
+        "Occupation": "1"
+    }
+}

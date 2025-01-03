@@ -1,0 +1,44 @@
+{
+    "relationships": [
+        {
+            "name": "Tara Reid",
+            "href": "https://www.whosdatedwho.com/dating/tara-reid",
+            "relationship_type": 3,
+            "start_date": "2008",
+            "end_date": "2008",
+            "length": "-",
+            "start_months_since_1900": 1296,
+            "end_months_since_1900": 1296,
+            "length_in_months": -1
+        },
+        {
+            "name": "Angela Lindvall",
+            "href": "https://www.whosdatedwho.com/dating/angela-lindvall",
+            "relationship_type": 2,
+            "start_date": "",
+            "end_date": "",
+            "length": "-",
+            "start_months_since_1900": -1,
+            "end_months_since_1900": -1,
+            "length_in_months": -1
+        }
+    ],
+    "details": {
+        "First Name": "Guiuseppe",
+        "Middle Name": "NA",
+        "Last Name": "Cipriani",
+        "Maiden Name": "NA",
+        "Full Name at Birth": "Giuseppe Cipriani",
+        "Alternative Name": "NA",
+        "Birthday": "1965",
+        "Birthplace": "Italy",
+        "Height": "NA",
+        "Weight": "NA",
+        "Zodiac Sign": "4",
+        "Sexuality": "Straight",
+        "Religion": "1",
+        "Ethnicity": "6",
+        "Nationality": "139",
+        "Occupation": "7"
+    }
+}

@@ -1,0 +1,44 @@
+{
+    "relationships": [
+        {
+            "name": "Julia Roberts",
+            "href": "https://www.whosdatedwho.com/dating/julia-roberts",
+            "relationship_type": 4,
+            "start_date": "Jun 2000",
+            "end_date": "present",
+            "length": "24 years",
+            "start_months_since_1900": 1205,
+            "end_months_since_1900": -1,
+            "length_in_months": 288
+        },
+        {
+            "name": "Vera Steimberg",
+            "href": "https://www.whosdatedwho.com/dating/vera-steimberg-moder",
+            "relationship_type": 4,
+            "start_date": "1996",
+            "end_date": "16th May 2002",
+            "length": "6 years",
+            "start_months_since_1900": 1152,
+            "end_months_since_1900": 1228,
+            "length_in_months": 72
+        }
+    ],
+    "details": {
+        "First Name": "Daniel",
+        "Middle Name": "Richard",
+        "Last Name": "Moder",
+        "Maiden Name": "NA",
+        "Full Name at Birth": "Daniel Richard Moder",
+        "Alternative Name": "Danny Moder",
+        "Birthday": "1969",
+        "Birthplace": "USA",
+        "Height": "NA",
+        "Weight": "NA",
+        "Zodiac Sign": "9",
+        "Sexuality": "Straight",
+        "Religion": "1",
+        "Ethnicity": "6",
+        "Nationality": "91",
+        "Occupation": "9"
+    }
+}

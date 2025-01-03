@@ -1,0 +1,55 @@
+{
+    "relationships": [
+        {
+            "name": "Ashton Irwin",
+            "href": "https://www.whosdatedwho.com/dating/ashton-irwin",
+            "relationship_type": 1,
+            "start_date": "2015",
+            "end_date": "2016",
+            "length": "1 year",
+            "start_months_since_1900": 1380,
+            "end_months_since_1900": 1392,
+            "length_in_months": 12
+        },
+        {
+            "name": "Brody Jenner",
+            "href": "https://www.whosdatedwho.com/dating/brody-jenner",
+            "relationship_type": 3,
+            "start_date": "2013",
+            "end_date": "2013",
+            "length": "-",
+            "start_months_since_1900": 1356,
+            "end_months_since_1900": 1356,
+            "length_in_months": -1
+        },
+        {
+            "name": "Zedd",
+            "href": "https://www.whosdatedwho.com/dating/zedd-producer",
+            "relationship_type": 1,
+            "start_date": "2016",
+            "end_date": "2016",
+            "length": "-",
+            "start_months_since_1900": 1392,
+            "end_months_since_1900": 1392,
+            "length_in_months": -1
+        }
+    ],
+    "details": {
+        "First Name": "Eloise",
+        "Middle Name": "NA",
+        "Last Name": "Webb",
+        "Maiden Name": "NA",
+        "Full Name at Birth": "NA",
+        "Alternative Name": "NA",
+        "Birthday": "2003",
+        "Birthplace": "UK",
+        "Height": "157",
+        "Weight": "145lbs (66 kg)",
+        "Zodiac Sign": "1",
+        "Sexuality": "Straight",
+        "Religion": "1",
+        "Ethnicity": "6",
+        "Nationality": "8",
+        "Occupation": "8"
+    }
+}

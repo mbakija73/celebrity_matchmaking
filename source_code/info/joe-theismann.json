@@ -1,0 +1,66 @@
+{
+    "relationships": [
+        {
+            "name": "Robin Theisman",
+            "href": "https://www.whosdatedwho.com/dating/robin-theisman",
+            "relationship_type": 4,
+            "start_date": "1996",
+            "end_date": "present",
+            "length": "28 years",
+            "start_months_since_1900": 1152,
+            "end_months_since_1900": -1,
+            "length_in_months": 336
+        },
+        {
+            "name": "Jeanne Caruso",
+            "href": "https://www.whosdatedwho.com/dating/jeanne-caruso",
+            "relationship_type": 4,
+            "start_date": "1992",
+            "end_date": "1993",
+            "length": "1 year",
+            "start_months_since_1900": 1104,
+            "end_months_since_1900": 1116,
+            "length_in_months": 12
+        },
+        {
+            "name": "Cathy Lee Crosby",
+            "href": "https://www.whosdatedwho.com/dating/cathy-lee-crosby",
+            "relationship_type": 2,
+            "start_date": "Jun 1983",
+            "end_date": "1990",
+            "length": "6 years",
+            "start_months_since_1900": 1001,
+            "end_months_since_1900": 1080,
+            "length_in_months": 72
+        },
+        {
+            "name": "Shari Brown",
+            "href": "https://www.whosdatedwho.com/dating/shari-brown",
+            "relationship_type": 4,
+            "start_date": "1970",
+            "end_date": "1984",
+            "length": "14 years",
+            "start_months_since_1900": 840,
+            "end_months_since_1900": 1008,
+            "length_in_months": 168
+        }
+    ],
+    "details": {
+        "First Name": "Joseph",
+        "Middle Name": "Robert",
+        "Last Name": "Theismann",
+        "Maiden Name": "NA",
+        "Full Name at Birth": "Joseph Robert Theismann",
+        "Alternative Name": "The Squirmin' German",
+        "Birthday": "1949",
+        "Birthplace": "NJ",
+        "Height": "183",
+        "Weight": "192lbs (87 kg)",
+        "Zodiac Sign": "11",
+        "Sexuality": "Straight",
+        "Religion": "18",
+        "Ethnicity": "6",
+        "Nationality": "91",
+        "Occupation": "2"
+    }
+}

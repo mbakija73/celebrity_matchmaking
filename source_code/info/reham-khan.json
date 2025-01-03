@@ -1,0 +1,44 @@
+{
+    "relationships": [
+        {
+            "name": "Imran Khan",
+            "href": "https://www.whosdatedwho.com/dating/imran-khan-cricket",
+            "relationship_type": 4,
+            "start_date": "6th Jan 2015",
+            "end_date": "30th Oct 2015",
+            "length": "9 months",
+            "start_months_since_1900": 1380,
+            "end_months_since_1900": 1389,
+            "length_in_months": 9
+        },
+        {
+            "name": "Ejaz Rehman",
+            "href": "https://www.whosdatedwho.com/dating/ejaz-rehman",
+            "relationship_type": 4,
+            "start_date": "1993",
+            "end_date": "2005",
+            "length": "12 years",
+            "start_months_since_1900": 1116,
+            "end_months_since_1900": 1260,
+            "length_in_months": 144
+        }
+    ],
+    "details": {
+        "First Name": "Reham",
+        "Middle Name": "Nayyar",
+        "Last Name": "Khan",
+        "Maiden Name": "NA",
+        "Full Name at Birth": "Reham Nayyar Khan",
+        "Alternative Name": "Reham",
+        "Birthday": "1973",
+        "Birthplace": "Libya",
+        "Height": "168",
+        "Weight": "130lbs (59 kg)",
+        "Zodiac Sign": "7",
+        "Sexuality": "Straight",
+        "Religion": "25",
+        "Ethnicity": "7",
+        "Nationality": "8",
+        "Occupation": "9"
+    }
+}

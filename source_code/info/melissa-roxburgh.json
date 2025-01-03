@@ -1,0 +1,44 @@
+{
+    "relationships": [
+        {
+            "name": "J.R. Ramirez",
+            "href": "https://www.whosdatedwho.com/dating/j-r-ramirez",
+            "relationship_type": 2,
+            "start_date": "2019",
+            "end_date": "present",
+            "length": "5 years",
+            "start_months_since_1900": 1428,
+            "end_months_since_1900": -1,
+            "length_in_months": 60
+        },
+        {
+            "name": "Andrew Jenkins",
+            "href": "https://www.whosdatedwho.com/dating/andrew-jenkins",
+            "relationship_type": 1,
+            "start_date": "",
+            "end_date": "",
+            "length": "-",
+            "start_months_since_1900": -1,
+            "end_months_since_1900": -1,
+            "length_in_months": -1
+        }
+    ],
+    "details": {
+        "First Name": "Melissa",
+        "Middle Name": "NA",
+        "Last Name": "Roxburgh",
+        "Maiden Name": "NA",
+        "Full Name at Birth": "Melissa Roxburgh",
+        "Alternative Name": "Melissa Roxburgh",
+        "Birthday": "1992",
+        "Birthplace": "Canada",
+        "Height": "159",
+        "Weight": "117lbs (53 kg)",
+        "Zodiac Sign": "6",
+        "Sexuality": "Straight",
+        "Religion": "18",
+        "Ethnicity": "6",
+        "Nationality": "90",
+        "Occupation": "8"
+    }
+}

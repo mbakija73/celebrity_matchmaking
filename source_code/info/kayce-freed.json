@@ -1,0 +1,33 @@
+{
+    "relationships": [
+        {
+            "name": "Peter Jennings",
+            "href": "https://www.whosdatedwho.com/dating/peter-jennings",
+            "relationship_type": 4,
+            "start_date": "1995",
+            "end_date": "7th Aug 2005",
+            "length": "10 years",
+            "start_months_since_1900": 1140,
+            "end_months_since_1900": 1267,
+            "length_in_months": 120
+        }
+    ],
+    "details": {
+        "First Name": "Kayce",
+        "Middle Name": "NA",
+        "Last Name": "Jennings",
+        "Maiden Name": "NA",
+        "Full Name at Birth": "NA",
+        "Alternative Name": "NA",
+        "Birthday": "1957",
+        "Birthplace": "NA",
+        "Height": "NA",
+        "Weight": "NA",
+        "Zodiac Sign": "2",
+        "Sexuality": "Straight",
+        "Religion": "1",
+        "Ethnicity": "6",
+        "Nationality": "91",
+        "Occupation": "9"
+    }
+}

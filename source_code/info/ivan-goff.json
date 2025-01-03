@@ -1,0 +1,44 @@
+{
+    "relationships": [
+        {
+            "name": "Kay Francis",
+            "href": "https://www.whosdatedwho.com/dating/kay-francis",
+            "relationship_type": 2,
+            "start_date": "Nov 1941",
+            "end_date": "Jan 1942",
+            "length": "2 months",
+            "start_months_since_1900": 502,
+            "end_months_since_1900": 504,
+            "length_in_months": 2
+        },
+        {
+            "name": "Carole Landis",
+            "href": "https://www.whosdatedwho.com/dating/carole-landis",
+            "relationship_type": 3,
+            "start_date": "1941",
+            "end_date": "1941",
+            "length": "-",
+            "start_months_since_1900": 492,
+            "end_months_since_1900": 492,
+            "length_in_months": -1
+        }
+    ],
+    "details": {
+        "First Name": "Ivan",
+        "Middle Name": "NA",
+        "Last Name": "Goff",
+        "Maiden Name": "NA",
+        "Full Name at Birth": "NA",
+        "Alternative Name": "NA",
+        "Birthday": "1910",
+        "Birthplace": "",
+        "Height": "NA",
+        "Weight": "NA",
+        "Zodiac Sign": "7",
+        "Sexuality": "NA",
+        "Religion": "1",
+        "Ethnicity": "1",
+        "Nationality": "135",
+        "Occupation": "3"
+    }
+}

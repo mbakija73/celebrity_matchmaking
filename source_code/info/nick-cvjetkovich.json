@@ -1,0 +1,44 @@
+{
+    "relationships": [
+        {
+            "name": "Stacy Carter",
+            "href": "https://www.whosdatedwho.com/dating/stacy-carter",
+            "relationship_type": 4,
+            "start_date": "2010",
+            "end_date": "2013",
+            "length": "3 years",
+            "start_months_since_1900": 1320,
+            "end_months_since_1900": 1356,
+            "length_in_months": 36
+        },
+        {
+            "name": "Tracy Brookshaw",
+            "href": "https://www.whosdatedwho.com/dating/tracy-brookshaw",
+            "relationship_type": 2,
+            "start_date": "",
+            "end_date": "",
+            "length": "-",
+            "start_months_since_1900": -1,
+            "end_months_since_1900": -1,
+            "length_in_months": -1
+        }
+    ],
+    "details": {
+        "First Name": "Nick",
+        "Middle Name": "NA",
+        "Last Name": "Cvjetkovich",
+        "Maiden Name": "NA",
+        "Full Name at Birth": "NA",
+        "Alternative Name": "NA",
+        "Birthday": "1973",
+        "Birthplace": "Ontario",
+        "Height": "NA",
+        "Weight": "NA",
+        "Zodiac Sign": "11",
+        "Sexuality": "NA",
+        "Religion": "1",
+        "Ethnicity": "1",
+        "Nationality": "90",
+        "Occupation": "2"
+    }
+}

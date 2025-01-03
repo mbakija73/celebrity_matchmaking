@@ -1,0 +1,44 @@
+{
+    "relationships": [
+        {
+            "name": "Phil Lester",
+            "href": "https://www.whosdatedwho.com/dating/phil-lester",
+            "relationship_type": 2,
+            "start_date": "Oct 2009",
+            "end_date": "Oct 2009",
+            "length": "-",
+            "start_months_since_1900": 1317,
+            "end_months_since_1900": 1317,
+            "length_in_months": -1
+        },
+        {
+            "name": "Catherine Valdes",
+            "href": "https://www.whosdatedwho.com/dating/catherine-valdes",
+            "relationship_type": 2,
+            "start_date": "2008",
+            "end_date": "2012",
+            "length": "4 years",
+            "start_months_since_1900": 1296,
+            "end_months_since_1900": 1344,
+            "length_in_months": 48
+        }
+    ],
+    "details": {
+        "First Name": "Daniel",
+        "Middle Name": "James",
+        "Last Name": "Howell",
+        "Maiden Name": "NA",
+        "Full Name at Birth": "Daniel James Howell",
+        "Alternative Name": "Dan, Dan Howell, Daniel Howell, Daniel James Howell, Danisonfire, Danny (by Phil), Daniel",
+        "Birthday": "1991",
+        "Birthplace": "UK",
+        "Height": "191",
+        "Weight": "180lbs (82 kg)",
+        "Zodiac Sign": "4",
+        "Sexuality": "Gay",
+        "Religion": "22",
+        "Ethnicity": "6",
+        "Nationality": "8",
+        "Occupation": "8"
+    }
+}

@@ -1,0 +1,55 @@
+{
+    "relationships": [
+        {
+            "name": "Klay Thompson",
+            "href": "https://www.whosdatedwho.com/dating/klay-thompson",
+            "relationship_type": 3,
+            "start_date": "Aug 2017",
+            "end_date": "Aug 2017",
+            "length": "-",
+            "start_months_since_1900": 1411,
+            "end_months_since_1900": 1411,
+            "length_in_months": -1
+        },
+        {
+            "name": "Jamie Iovine",
+            "href": "https://www.whosdatedwho.com/dating/jamie-iovine",
+            "relationship_type": 2,
+            "start_date": "2014",
+            "end_date": "2015",
+            "length": "1 year",
+            "start_months_since_1900": 1368,
+            "end_months_since_1900": 1380,
+            "length_in_months": 12
+        },
+        {
+            "name": "James Peperno",
+            "href": "https://www.whosdatedwho.com/dating/james-peperno",
+            "relationship_type": 2,
+            "start_date": "",
+            "end_date": "2013",
+            "length": "-",
+            "start_months_since_1900": -1,
+            "end_months_since_1900": 1356,
+            "length_in_months": -1
+        }
+    ],
+    "details": {
+        "First Name": "Abigail",
+        "Middle Name": "NA",
+        "Last Name": "Ratchford",
+        "Maiden Name": "NA",
+        "Full Name at Birth": "Abigail Ratchford",
+        "Alternative Name": "Abi, Abigail Ratchford",
+        "Birthday": "1992",
+        "Birthplace": "USA",
+        "Height": "173",
+        "Weight": "139lbs (63 kg)",
+        "Zodiac Sign": "9",
+        "Sexuality": "Straight",
+        "Religion": "13",
+        "Ethnicity": "6",
+        "Nationality": "91",
+        "Occupation": "16"
+    }
+}

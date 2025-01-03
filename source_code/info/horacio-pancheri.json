@@ -1,0 +1,88 @@
+{
+    "relationships": [
+        {
+            "name": "Gala Montes",
+            "href": "https://www.whosdatedwho.com/dating/gala-montes",
+            "relationship_type": 1,
+            "start_date": "Jan 2021",
+            "end_date": "Jan 2021",
+            "length": "-",
+            "start_months_since_1900": 1452,
+            "end_months_since_1900": 1452,
+            "length_in_months": -1
+        },
+        {
+            "name": "Isa Valero",
+            "href": "https://www.whosdatedwho.com/dating/isa-valero",
+            "relationship_type": 4,
+            "start_date": "2021",
+            "end_date": "present",
+            "length": "3 years",
+            "start_months_since_1900": 1452,
+            "end_months_since_1900": -1,
+            "length_in_months": 36
+        },
+        {
+            "name": "Marimar Vega",
+            "href": "https://www.whosdatedwho.com/dating/marimar-vega",
+            "relationship_type": 2,
+            "start_date": "Mar 2019",
+            "end_date": "Jan 2021",
+            "length": "1 year",
+            "start_months_since_1900": 1430,
+            "end_months_since_1900": 1452,
+            "length_in_months": 12
+        },
+        {
+            "name": "Paulina Goto",
+            "href": "https://www.whosdatedwho.com/dating/paulina-goto",
+            "relationship_type": 2,
+            "start_date": "2016",
+            "end_date": "Jul 2018",
+            "length": "2 years",
+            "start_months_since_1900": 1392,
+            "end_months_since_1900": 1422,
+            "length_in_months": 24
+        },
+        {
+            "name": "Grettell Valdez",
+            "href": "https://www.whosdatedwho.com/dating/grettell-valdez",
+            "relationship_type": 2,
+            "start_date": "Jan 2015",
+            "end_date": "Feb 2016",
+            "length": "1 year",
+            "start_months_since_1900": 1380,
+            "end_months_since_1900": 1393,
+            "length_in_months": 12
+        },
+        {
+            "name": "Carla Pasquini",
+            "href": "https://www.whosdatedwho.com/dating/carla-pasquini",
+            "relationship_type": 1,
+            "start_date": "",
+            "end_date": "",
+            "length": "-",
+            "start_months_since_1900": -1,
+            "end_months_since_1900": -1,
+            "length_in_months": -1
+        }
+    ],
+    "details": {
+        "First Name": "Horacio",
+        "Middle Name": "NA",
+        "Last Name": "Pancheri",
+        "Maiden Name": "NA",
+        "Full Name at Birth": "NA",
+        "Alternative Name": "NA",
+        "Birthday": "1982",
+        "Birthplace": "Argentina",
+        "Height": "182",
+        "Weight": "NA",
+        "Zodiac Sign": "6",
+        "Sexuality": "Straight",
+        "Religion": "1",
+        "Ethnicity": "6",
+        "Nationality": "28",
+        "Occupation": "8"
+    }
+}

@@ -1,0 +1,88 @@
+{
+    "relationships": [
+        {
+            "name": "Janie Weyerhaeuser",
+            "href": "https://www.whosdatedwho.com/dating/janie-weyerhaeuser",
+            "relationship_type": 4,
+            "start_date": "1975",
+            "end_date": "1975",
+            "length": "-",
+            "start_months_since_1900": 900,
+            "end_months_since_1900": 900,
+            "length_in_months": -1
+        },
+        {
+            "name": "Jo Collins",
+            "href": "https://www.whosdatedwho.com/dating/jo-collins",
+            "relationship_type": 4,
+            "start_date": "1968",
+            "end_date": "1975",
+            "length": "7 years",
+            "start_months_since_1900": 816,
+            "end_months_since_1900": 900,
+            "length_in_months": 84
+        },
+        {
+            "name": "Mamie Van Doren",
+            "href": "https://www.whosdatedwho.com/dating/mamie-van-doren",
+            "relationship_type": 2,
+            "start_date": "Sep 1962",
+            "end_date": "Oct 1962",
+            "length": "1 month",
+            "start_months_since_1900": 752,
+            "end_months_since_1900": 753,
+            "length_in_months": 1
+        },
+        {
+            "name": "Tina Louise",
+            "href": "https://www.whosdatedwho.com/dating/tina-louise",
+            "relationship_type": 2,
+            "start_date": "Jul 1962",
+            "end_date": "Aug 1962",
+            "length": "1 month",
+            "start_months_since_1900": 750,
+            "end_months_since_1900": 751,
+            "length_in_months": 1
+        },
+        {
+            "name": "Ann-Margret",
+            "href": "https://www.whosdatedwho.com/dating/ann-margret",
+            "relationship_type": 3,
+            "start_date": "May 1962",
+            "end_date": "Aug 1962",
+            "length": "3 months",
+            "start_months_since_1900": 748,
+            "end_months_since_1900": 751,
+            "length_in_months": 3
+        },
+        {
+            "name": "Connie Stevens",
+            "href": "https://www.whosdatedwho.com/dating/connie-stevens",
+            "relationship_type": 3,
+            "start_date": "",
+            "end_date": "",
+            "length": "-",
+            "start_months_since_1900": -1,
+            "end_months_since_1900": -1,
+            "length_in_months": -1
+        }
+    ],
+    "details": {
+        "First Name": "Robert",
+        "Middle Name": "NA",
+        "Last Name": "Belinsky",
+        "Maiden Name": "NA",
+        "Full Name at Birth": "Robert Belinsky",
+        "Alternative Name": "Bo Belinsky, Robert Belinsky",
+        "Birthday": "1936",
+        "Birthplace": "USA",
+        "Height": "188",
+        "Weight": "191lbs (87 kg)",
+        "Zodiac Sign": "6",
+        "Sexuality": "Straight",
+        "Religion": "18",
+        "Ethnicity": "6",
+        "Nationality": "91",
+        "Occupation": "2"
+    }
+}

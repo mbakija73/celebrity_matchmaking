@@ -1,0 +1,66 @@
+{
+    "relationships": [
+        {
+            "name": "Andrew Stevens",
+            "href": "https://www.whosdatedwho.com/dating/andrew-stevens",
+            "relationship_type": 3,
+            "start_date": "Oct 1981",
+            "end_date": "Nov 1981",
+            "length": "1 month",
+            "start_months_since_1900": 981,
+            "end_months_since_1900": 982,
+            "length_in_months": 1
+        },
+        {
+            "name": "Dennis Cole",
+            "href": "https://www.whosdatedwho.com/dating/dennis-cole",
+            "relationship_type": 2,
+            "start_date": "May 1981",
+            "end_date": "Jun 1981",
+            "length": "1 month",
+            "start_months_since_1900": 976,
+            "end_months_since_1900": 977,
+            "length_in_months": 1
+        },
+        {
+            "name": "Doug McClure",
+            "href": "https://www.whosdatedwho.com/dating/doug-mcclure",
+            "relationship_type": 4,
+            "start_date": "1960",
+            "end_date": "1963",
+            "length": "3 years",
+            "start_months_since_1900": 720,
+            "end_months_since_1900": 756,
+            "length_in_months": 36
+        },
+        {
+            "name": "Sam J. Jones",
+            "href": "https://www.whosdatedwho.com/dating/sam-j-jones",
+            "relationship_type": 3,
+            "start_date": "",
+            "end_date": "",
+            "length": "-",
+            "start_months_since_1900": -1,
+            "end_months_since_1900": -1,
+            "length_in_months": -1
+        }
+    ],
+    "details": {
+        "First Name": "Barbara",
+        "Middle Name": "NA",
+        "Last Name": "Luna",
+        "Maiden Name": "NA",
+        "Full Name at Birth": "BarBara Ann Luna",
+        "Alternative Name": "Luna",
+        "Birthday": "1939",
+        "Birthplace": "USA",
+        "Height": "NA",
+        "Weight": "NA",
+        "Zodiac Sign": "1",
+        "Sexuality": "Straight",
+        "Religion": "1",
+        "Ethnicity": "8",
+        "Nationality": "91",
+        "Occupation": "8"
+    }
+}

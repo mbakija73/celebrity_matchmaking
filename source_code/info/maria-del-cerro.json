@@ -1,0 +1,55 @@
+{
+    "relationships": [
+        {
+            "name": "Meme Bouquet",
+            "href": "https://www.whosdatedwho.com/dating/meme-bouquet",
+            "relationship_type": 2,
+            "start_date": "May 2010",
+            "end_date": "May 2010",
+            "length": "-",
+            "start_months_since_1900": 1324,
+            "end_months_since_1900": 1324,
+            "length_in_months": -1
+        },
+        {
+            "name": "Juan M\u00f3naco",
+            "href": "https://www.whosdatedwho.com/dating/juan-monaco",
+            "relationship_type": 3,
+            "start_date": "2009",
+            "end_date": "2009",
+            "length": "-",
+            "start_months_since_1900": 1308,
+            "end_months_since_1900": 1308,
+            "length_in_months": -1
+        },
+        {
+            "name": "Benjam\u00edn Rojas",
+            "href": "https://www.whosdatedwho.com/dating/benjamin-rojas",
+            "relationship_type": 2,
+            "start_date": "2005",
+            "end_date": "2008",
+            "length": "3 years",
+            "start_months_since_1900": 1260,
+            "end_months_since_1900": 1296,
+            "length_in_months": 36
+        }
+    ],
+    "details": {
+        "First Name": "Maria",
+        "Middle Name": "Eugenia",
+        "Last Name": "Del Cerro",
+        "Maiden Name": "NA",
+        "Full Name at Birth": "Mar\u00eda Eugenia del Cerro",
+        "Alternative Name": "Mary Del Cerro",
+        "Birthday": "1985",
+        "Birthplace": "Argentina",
+        "Height": "173",
+        "Weight": "NA",
+        "Zodiac Sign": "1",
+        "Sexuality": "Straight",
+        "Religion": "1",
+        "Ethnicity": "6",
+        "Nationality": "28",
+        "Occupation": "15"
+    }
+}

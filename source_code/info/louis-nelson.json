@@ -1,0 +1,33 @@
+{
+    "relationships": [
+        {
+            "name": "Judy Collins",
+            "href": "https://www.whosdatedwho.com/dating/judy-collins",
+            "relationship_type": 4,
+            "start_date": "16th Apr 1978",
+            "end_date": "present",
+            "length": "46 years",
+            "start_months_since_1900": 939,
+            "end_months_since_1900": -1,
+            "length_in_months": 552
+        }
+    ],
+    "details": {
+        "First Name": "Louis",
+        "Middle Name": "NA",
+        "Last Name": "Nelson",
+        "Maiden Name": "NA",
+        "Full Name at Birth": "Louis Nelson",
+        "Alternative Name": "NA",
+        "Birthday": "NA",
+        "Birthplace": "NA",
+        "Height": "NA",
+        "Weight": "NA",
+        "Zodiac Sign": "2",
+        "Sexuality": "NA",
+        "Religion": "1",
+        "Ethnicity": "1",
+        "Nationality": "91",
+        "Occupation": "13"
+    }
+}

@@ -1,0 +1,66 @@
+{
+    "relationships": [
+        {
+            "name": "Game",
+            "href": "https://www.whosdatedwho.com/dating/game-rapper",
+            "relationship_type": 3,
+            "start_date": "Sep 2005",
+            "end_date": "Feb 2006",
+            "length": "5 months",
+            "start_months_since_1900": 1268,
+            "end_months_since_1900": 1273,
+            "length_in_months": 5
+        },
+        {
+            "name": "Jay-Z",
+            "href": "https://www.whosdatedwho.com/dating/jay-z",
+            "relationship_type": 3,
+            "start_date": "1999",
+            "end_date": "1999",
+            "length": "-",
+            "start_months_since_1900": 1188,
+            "end_months_since_1900": 1188,
+            "length_in_months": -1
+        },
+        {
+            "name": "The Notorious B.I.G.",
+            "href": "https://www.whosdatedwho.com/dating/the-notorious-b-i-g",
+            "relationship_type": 2,
+            "start_date": "1996",
+            "end_date": "Mar 1997",
+            "length": "1 year",
+            "start_months_since_1900": 1152,
+            "end_months_since_1900": 1166,
+            "length_in_months": 12
+        },
+        {
+            "name": "Lance Un Rivera",
+            "href": "https://www.whosdatedwho.com/dating/lance-un-rivera",
+            "relationship_type": 1,
+            "start_date": "",
+            "end_date": "",
+            "length": "-",
+            "start_months_since_1900": -1,
+            "end_months_since_1900": -1,
+            "length_in_months": -1
+        }
+    ],
+    "details": {
+        "First Name": "Charli",
+        "Middle Name": "NA",
+        "Last Name": "Baltimore",
+        "Maiden Name": "NA",
+        "Full Name at Birth": "Tiffany Lane",
+        "Alternative Name": "Charli Baltimore, Chuck Bmore, Tiffany Lane Spangled Banner, Tiffany Lane, Chuck, Poison Tea, Charli Bmore",
+        "Birthday": "1974",
+        "Birthplace": "USA",
+        "Height": "NA",
+        "Weight": "NA",
+        "Zodiac Sign": "12",
+        "Sexuality": "Straight",
+        "Religion": "1",
+        "Ethnicity": "8",
+        "Nationality": "91",
+        "Occupation": "1"
+    }
+}

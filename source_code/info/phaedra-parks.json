@@ -1,0 +1,66 @@
+{
+    "relationships": [
+        {
+            "name": "Tim Norman",
+            "href": "https://www.whosdatedwho.com/dating/tim-norman",
+            "relationship_type": 1,
+            "start_date": "Dec 2016",
+            "end_date": "Dec 2016",
+            "length": "-",
+            "start_months_since_1900": 1403,
+            "end_months_since_1900": 1403,
+            "length_in_months": -1
+        },
+        {
+            "name": "Apollo Nida",
+            "href": "https://www.whosdatedwho.com/dating/apollo-nida",
+            "relationship_type": 4,
+            "start_date": "1995",
+            "end_date": "2017",
+            "length": "22 years",
+            "start_months_since_1900": 1140,
+            "end_months_since_1900": 1404,
+            "length_in_months": 264
+        },
+        {
+            "name": "Medina Islam",
+            "href": "https://www.whosdatedwho.com/dating/medina-islam",
+            "relationship_type": 2,
+            "start_date": "",
+            "end_date": "",
+            "length": "-",
+            "start_months_since_1900": -1,
+            "end_months_since_1900": -1,
+            "length_in_months": -1
+        },
+        {
+            "name": "Chuck Smith",
+            "href": "https://www.whosdatedwho.com/dating/chuck-smith",
+            "relationship_type": 3,
+            "start_date": "",
+            "end_date": "",
+            "length": "-",
+            "start_months_since_1900": -1,
+            "end_months_since_1900": -1,
+            "length_in_months": -1
+        }
+    ],
+    "details": {
+        "First Name": "Phaedra",
+        "Middle Name": "Creonta",
+        "Last Name": "Parks",
+        "Maiden Name": "NA",
+        "Full Name at Birth": "Phaedra Creonta Parks",
+        "Alternative Name": "Phaedra, Phaedra Creonta Parks, Phaedra Parks",
+        "Birthday": "1973",
+        "Birthplace": "USA",
+        "Height": "163",
+        "Weight": "144lbs (65 kg)",
+        "Zodiac Sign": "5",
+        "Sexuality": "Straight",
+        "Religion": "18",
+        "Ethnicity": "2",
+        "Nationality": "91",
+        "Occupation": "11"
+    }
+}

@@ -1,0 +1,110 @@
+{
+    "relationships": [
+        {
+            "name": "Joe",
+            "href": "https://www.whosdatedwho.com/dating/joe",
+            "relationship_type": 2,
+            "start_date": "2016",
+            "end_date": "present",
+            "length": "8 years",
+            "start_months_since_1900": 1392,
+            "end_months_since_1900": -1,
+            "length_in_months": 96
+        },
+        {
+            "name": "Eddie Murphy",
+            "href": "https://www.whosdatedwho.com/dating/eddie-murphy",
+            "relationship_type": 2,
+            "start_date": "Sep 2011",
+            "end_date": "Sep 2012",
+            "length": "1 year",
+            "start_months_since_1900": 1340,
+            "end_months_since_1900": 1352,
+            "length_in_months": 12
+        },
+        {
+            "name": "Bruno Mars",
+            "href": "https://www.whosdatedwho.com/dating/bruno-mars",
+            "relationship_type": 3,
+            "start_date": "2011",
+            "end_date": "2011",
+            "length": "-",
+            "start_months_since_1900": 1332,
+            "end_months_since_1900": 1332,
+            "length_in_months": -1
+        },
+        {
+            "name": "Amar'e Stoudemire",
+            "href": "https://www.whosdatedwho.com/dating/amar-e-stoudemire",
+            "relationship_type": 2,
+            "start_date": "Jun 2010",
+            "end_date": "Dec 2010",
+            "length": "6 months",
+            "start_months_since_1900": 1325,
+            "end_months_since_1900": 1331,
+            "length_in_months": 6
+        },
+        {
+            "name": "Michael Misick",
+            "href": "https://www.whosdatedwho.com/dating/michael-misick",
+            "relationship_type": 2,
+            "start_date": "2008",
+            "end_date": "",
+            "length": "-",
+            "start_months_since_1900": 1296,
+            "end_months_since_1900": -1,
+            "length_in_months": -1
+        },
+        {
+            "name": "David Bowens",
+            "href": "https://www.whosdatedwho.com/dating/david-bowens",
+            "relationship_type": 2,
+            "start_date": "Apr 2007",
+            "end_date": "Jun 2007",
+            "length": "2 months",
+            "start_months_since_1900": 1287,
+            "end_months_since_1900": 1289,
+            "length_in_months": 2
+        },
+        {
+            "name": "Tyrese Gibson",
+            "href": "https://www.whosdatedwho.com/dating/tyrese-gibson",
+            "relationship_type": 2,
+            "start_date": "2003",
+            "end_date": "2006",
+            "length": "3 years",
+            "start_months_since_1900": 1236,
+            "end_months_since_1900": 1272,
+            "length_in_months": 36
+        },
+        {
+            "name": "Josh Howard",
+            "href": "https://www.whosdatedwho.com/dating/josh-howard",
+            "relationship_type": 1,
+            "start_date": "",
+            "end_date": "",
+            "length": "-",
+            "start_months_since_1900": -1,
+            "end_months_since_1900": -1,
+            "length_in_months": -1
+        }
+    ],
+    "details": {
+        "First Name": "Rocsi",
+        "Middle Name": "NA",
+        "Last Name": "Diaz",
+        "Maiden Name": "NA",
+        "Full Name at Birth": "Raquel Roxanne Diaz",
+        "Alternative Name": "Rocsi, Roczilla, The Midday Mami, Lady of 106, \"The Midday Mami\"., Raquel Roxanne \"Rocsi\" Diaz, Raquel Roxanne Diaz, Rocsi Diaz, Raquel Diaz",
+        "Birthday": "1983",
+        "Birthplace": "Honduras",
+        "Height": "157",
+        "Weight": "107lbs (49 kg)",
+        "Zodiac Sign": "5",
+        "Sexuality": "Straight",
+        "Religion": "13",
+        "Ethnicity": "8",
+        "Nationality": "56",
+        "Occupation": "11"
+    }
+}

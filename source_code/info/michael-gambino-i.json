@@ -1,0 +1,44 @@
+{
+    "relationships": [
+        {
+            "name": "Jana Kramer",
+            "href": "https://www.whosdatedwho.com/dating/jana-kramer",
+            "relationship_type": 4,
+            "start_date": "Mar 2004",
+            "end_date": "Dec 2004",
+            "length": "9 months",
+            "start_months_since_1900": 1250,
+            "end_months_since_1900": 1259,
+            "length_in_months": 9
+        },
+        {
+            "name": "Kayle Jeannette Stone",
+            "href": "https://www.whosdatedwho.com/dating/kayle-jeannette-stone",
+            "relationship_type": 4,
+            "start_date": "2002",
+            "end_date": "Feb 2004",
+            "length": "2 years",
+            "start_months_since_1900": 1224,
+            "end_months_since_1900": 1249,
+            "length_in_months": 24
+        }
+    ],
+    "details": {
+        "First Name": "Michael",
+        "Middle Name": "NA",
+        "Last Name": "Gambino",
+        "Maiden Name": "NA",
+        "Full Name at Birth": "Michael Anthony Gambino",
+        "Alternative Name": "NA",
+        "Birthday": "1982",
+        "Birthplace": "NA",
+        "Height": "178",
+        "Weight": "NA",
+        "Zodiac Sign": "4",
+        "Sexuality": "Straight",
+        "Religion": "1",
+        "Ethnicity": "6",
+        "Nationality": "91",
+        "Occupation": "19"
+    }
+}

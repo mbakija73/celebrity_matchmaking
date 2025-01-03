@@ -1,0 +1,44 @@
+{
+    "relationships": [
+        {
+            "name": "Monte Kay",
+            "href": "https://www.whosdatedwho.com/dating/monte-kay",
+            "relationship_type": 2,
+            "start_date": "1974",
+            "end_date": "1976",
+            "length": "2 years",
+            "start_months_since_1900": 888,
+            "end_months_since_1900": 912,
+            "length_in_months": 24
+        },
+        {
+            "name": "Frank Ward",
+            "href": "https://www.whosdatedwho.com/dating/frank-ward",
+            "relationship_type": 2,
+            "start_date": "1973",
+            "end_date": "1973",
+            "length": "-",
+            "start_months_since_1900": 876,
+            "end_months_since_1900": 876,
+            "length_in_months": -1
+        }
+    ],
+    "details": {
+        "First Name": "Carol",
+        "Middle Name": "NA",
+        "Last Name": "Speed",
+        "Maiden Name": "NA",
+        "Full Name at Birth": "Carolyn Stewart",
+        "Alternative Name": "NA",
+        "Birthday": "1945",
+        "Birthplace": "USA",
+        "Height": "NA",
+        "Weight": "NA",
+        "Zodiac Sign": "1",
+        "Sexuality": "NA",
+        "Religion": "1",
+        "Ethnicity": "8",
+        "Nationality": "91",
+        "Occupation": "8"
+    }
+}

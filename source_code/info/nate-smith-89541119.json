@@ -1,0 +1,33 @@
+{
+    "relationships": [
+        {
+            "name": "Avril Lavigne",
+            "href": "https://www.whosdatedwho.com/dating/avril-lavigne",
+            "relationship_type": 2,
+            "start_date": "Jan 2024",
+            "end_date": "present",
+            "length": "8 months",
+            "start_months_since_1900": 1488,
+            "end_months_since_1900": -1,
+            "length_in_months": 8
+        }
+    ],
+    "details": {
+        "First Name": "Nate",
+        "Middle Name": "NA",
+        "Last Name": "Smith",
+        "Maiden Name": "NA",
+        "Full Name at Birth": "NA",
+        "Alternative Name": "NA",
+        "Birthday": "1985",
+        "Birthplace": "California",
+        "Height": "NA",
+        "Weight": "NA",
+        "Zodiac Sign": "11",
+        "Sexuality": "NA",
+        "Religion": "1",
+        "Ethnicity": "1",
+        "Nationality": "91",
+        "Occupation": "1"
+    }
+}

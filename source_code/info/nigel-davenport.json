@@ -1,0 +1,44 @@
+{
+    "relationships": [
+        {
+            "name": "Maria Aitken",
+            "href": "https://www.whosdatedwho.com/dating/maria-aitken",
+            "relationship_type": 4,
+            "start_date": "1971",
+            "end_date": "1981",
+            "length": "10 years",
+            "start_months_since_1900": 852,
+            "end_months_since_1900": 972,
+            "length_in_months": 120
+        },
+        {
+            "name": "Helena White",
+            "href": "https://www.whosdatedwho.com/dating/helena-white",
+            "relationship_type": 4,
+            "start_date": "",
+            "end_date": "",
+            "length": "-",
+            "start_months_since_1900": -1,
+            "end_months_since_1900": -1,
+            "length_in_months": -1
+        }
+    ],
+    "details": {
+        "First Name": "Nigel",
+        "Middle Name": "NA",
+        "Last Name": "Davenport",
+        "Maiden Name": "NA",
+        "Full Name at Birth": "Arthur Nigel Davenport",
+        "Alternative Name": "NA",
+        "Birthday": "1928",
+        "Birthplace": "UK",
+        "Height": "NA",
+        "Weight": "NA",
+        "Zodiac Sign": "4",
+        "Sexuality": "Straight",
+        "Religion": "1",
+        "Ethnicity": "6",
+        "Nationality": "8",
+        "Occupation": "8"
+    }
+}

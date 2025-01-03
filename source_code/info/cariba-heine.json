@@ -1,0 +1,44 @@
+{
+    "relationships": [
+        {
+            "name": "Matt Pong",
+            "href": "https://www.whosdatedwho.com/dating/matt-pong",
+            "relationship_type": 4,
+            "start_date": "2020",
+            "end_date": "present",
+            "length": "4 years",
+            "start_months_since_1900": 1440,
+            "end_months_since_1900": -1,
+            "length_in_months": 48
+        },
+        {
+            "name": "Jamie Timony",
+            "href": "https://www.whosdatedwho.com/dating/jamie-timony",
+            "relationship_type": 2,
+            "start_date": "Jul 2008",
+            "end_date": "Jul 2008",
+            "length": "-",
+            "start_months_since_1900": 1302,
+            "end_months_since_1900": 1302,
+            "length_in_months": -1
+        }
+    ],
+    "details": {
+        "First Name": "Cariba",
+        "Middle Name": "Cecillia",
+        "Last Name": "Heine",
+        "Maiden Name": "NA",
+        "Full Name at Birth": "Cariba Cecilia Heine",
+        "Alternative Name": "Beba, Cari",
+        "Birthday": "1988",
+        "Birthplace": "South Africa",
+        "Height": "165",
+        "Weight": "125lbs (57 kg)",
+        "Zodiac Sign": "10",
+        "Sexuality": "Straight",
+        "Religion": "1",
+        "Ethnicity": "6",
+        "Nationality": "135",
+        "Occupation": "8"
+    }
+}

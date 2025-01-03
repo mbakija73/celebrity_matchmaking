@@ -1,0 +1,33 @@
+{
+    "relationships": [
+        {
+            "name": "Marc Jacobs",
+            "href": "https://www.whosdatedwho.com/dating/marc-jacobs",
+            "relationship_type": 2,
+            "start_date": "2011",
+            "end_date": "Oct 2013",
+            "length": "2 years",
+            "start_months_since_1900": 1332,
+            "end_months_since_1900": 1365,
+            "length_in_months": 24
+        }
+    ],
+    "details": {
+        "First Name": "Harry",
+        "Middle Name": "NA",
+        "Last Name": "Louis",
+        "Maiden Name": "NA",
+        "Full Name at Birth": "Edgar Xavier",
+        "Alternative Name": "NA",
+        "Birthday": "1987",
+        "Birthplace": "Brazil",
+        "Height": "175",
+        "Weight": "NA",
+        "Zodiac Sign": "13",
+        "Sexuality": "Gay",
+        "Religion": "1",
+        "Ethnicity": "6",
+        "Nationality": "87",
+        "Occupation": "16"
+    }
+}

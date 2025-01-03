@@ -1,0 +1,55 @@
+{
+    "relationships": [
+        {
+            "name": "Roselyn Sanchez",
+            "href": "https://www.whosdatedwho.com/dating/roselyn-sanchez",
+            "relationship_type": 4,
+            "start_date": "Jan 2006",
+            "end_date": "present",
+            "length": "18 years",
+            "start_months_since_1900": 1272,
+            "end_months_since_1900": -1,
+            "length_in_months": 216
+        },
+        {
+            "name": "Allison Ford",
+            "href": "https://www.whosdatedwho.com/dating/allison-ford",
+            "relationship_type": 4,
+            "start_date": "2000",
+            "end_date": "2005",
+            "length": "5 years",
+            "start_months_since_1900": 1200,
+            "end_months_since_1900": 1260,
+            "length_in_months": 60
+        },
+        {
+            "name": "Countess Vaughn",
+            "href": "https://www.whosdatedwho.com/dating/countess-vaughn",
+            "relationship_type": 2,
+            "start_date": "Sep 1999",
+            "end_date": "Oct 1999",
+            "length": "1 month",
+            "start_months_since_1900": 1196,
+            "end_months_since_1900": 1197,
+            "length_in_months": 1
+        }
+    ],
+    "details": {
+        "First Name": "Eric",
+        "Middle Name": "Barrett",
+        "Last Name": "Winter",
+        "Maiden Name": "NA",
+        "Full Name at Birth": "Eric Barrett Winter",
+        "Alternative Name": "NA",
+        "Birthday": "1976",
+        "Birthplace": "USA",
+        "Height": "185",
+        "Weight": "NA",
+        "Zodiac Sign": "8",
+        "Sexuality": "Straight",
+        "Religion": "13",
+        "Ethnicity": "6",
+        "Nationality": "91",
+        "Occupation": "8"
+    }
+}

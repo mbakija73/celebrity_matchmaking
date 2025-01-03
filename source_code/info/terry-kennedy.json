@@ -1,0 +1,55 @@
+{
+    "relationships": [
+        {
+            "name": "Angela Simmons",
+            "href": "https://www.whosdatedwho.com/dating/angela-simmons",
+            "relationship_type": 2,
+            "start_date": "Mar 2008",
+            "end_date": "Aug 2008",
+            "length": "5 months",
+            "start_months_since_1900": 1298,
+            "end_months_since_1900": 1303,
+            "length_in_months": 5
+        },
+        {
+            "name": "Lauren London",
+            "href": "https://www.whosdatedwho.com/dating/lauren-london",
+            "relationship_type": 2,
+            "start_date": "Apr 2006",
+            "end_date": "Oct 2006",
+            "length": "6 months",
+            "start_months_since_1900": 1275,
+            "end_months_since_1900": 1281,
+            "length_in_months": 6
+        },
+        {
+            "name": "Suelyn Medeiros",
+            "href": "https://www.whosdatedwho.com/dating/suelyn-medeiros",
+            "relationship_type": 3,
+            "start_date": "",
+            "end_date": "",
+            "length": "-",
+            "start_months_since_1900": -1,
+            "end_months_since_1900": -1,
+            "length_in_months": -1
+        }
+    ],
+    "details": {
+        "First Name": "Terry",
+        "Middle Name": "NA",
+        "Last Name": "Kennedy",
+        "Maiden Name": "NA",
+        "Full Name at Birth": "NA",
+        "Alternative Name": "Compton Ass Terry",
+        "Birthday": "1985",
+        "Birthplace": "California",
+        "Height": "185",
+        "Weight": "NA",
+        "Zodiac Sign": "7",
+        "Sexuality": "Straight",
+        "Religion": "1",
+        "Ethnicity": "2",
+        "Nationality": "91",
+        "Occupation": "2"
+    }
+}

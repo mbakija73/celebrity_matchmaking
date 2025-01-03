@@ -1,0 +1,88 @@
+{
+    "relationships": [
+        {
+            "name": "Jen Harley",
+            "href": "https://www.whosdatedwho.com/dating/jennifer-harley",
+            "relationship_type": 3,
+            "start_date": "Sep 2020",
+            "end_date": "Oct 2020",
+            "length": "1 month",
+            "start_months_since_1900": 1448,
+            "end_months_since_1900": 1449,
+            "length_in_months": 1
+        },
+        {
+            "name": "Sarah Harding",
+            "href": "https://www.whosdatedwho.com/dating/sarah-harding",
+            "relationship_type": 2,
+            "start_date": "22nd Aug 2017",
+            "end_date": "Nov 2017",
+            "length": "2 months",
+            "start_months_since_1900": 1411,
+            "end_months_since_1900": 1414,
+            "length_in_months": 2
+        },
+        {
+            "name": "Jemma Lucy",
+            "href": "https://www.whosdatedwho.com/dating/jemma-lucy",
+            "relationship_type": 3,
+            "start_date": "Aug 2017",
+            "end_date": "Aug 2017",
+            "length": "-",
+            "start_months_since_1900": 1411,
+            "end_months_since_1900": 1411,
+            "length_in_months": -1
+        },
+        {
+            "name": "Zoe Baron",
+            "href": "https://www.whosdatedwho.com/dating/zoe-baron",
+            "relationship_type": 1,
+            "start_date": "Jul 2017",
+            "end_date": "Jul 2017",
+            "length": "-",
+            "start_months_since_1900": 1410,
+            "end_months_since_1900": 1410,
+            "length_in_months": -1
+        },
+        {
+            "name": "Karina Smirnoff",
+            "href": "https://www.whosdatedwho.com/dating/karina-smirnoff",
+            "relationship_type": 2,
+            "start_date": "Nov 2016",
+            "end_date": "Feb 2017",
+            "length": "3 months",
+            "start_months_since_1900": 1402,
+            "end_months_since_1900": 1405,
+            "length_in_months": 3
+        },
+        {
+            "name": "Madeline Sullivan",
+            "href": "https://www.whosdatedwho.com/dating/madeline-sullivan-94776848",
+            "relationship_type": 2,
+            "start_date": "",
+            "end_date": "",
+            "length": "-",
+            "start_months_since_1900": -1,
+            "end_months_since_1900": -1,
+            "length_in_months": -1
+        }
+    ],
+    "details": {
+        "First Name": "Chad",
+        "Middle Name": "NA",
+        "Last Name": "Johnson",
+        "Maiden Name": "NA",
+        "Full Name at Birth": "Brian Chad Johnson",
+        "Alternative Name": "Chad Johnson",
+        "Birthday": "1987",
+        "Birthplace": "USA",
+        "Height": "192",
+        "Weight": "NA",
+        "Zodiac Sign": "12",
+        "Sexuality": "Straight",
+        "Religion": "1",
+        "Ethnicity": "6",
+        "Nationality": "91",
+        "Occupation": "11"
+    }
+}

@@ -1,0 +1,55 @@
+{
+    "relationships": [
+        {
+            "name": "Maya Flores",
+            "href": "https://www.whosdatedwho.com/dating/maya-flores",
+            "relationship_type": 4,
+            "start_date": "2015",
+            "end_date": "present",
+            "length": "9 years",
+            "start_months_since_1900": 1380,
+            "end_months_since_1900": -1,
+            "length_in_months": 108
+        },
+        {
+            "name": "Carla Abellana",
+            "href": "https://www.whosdatedwho.com/dating/carla-abellana",
+            "relationship_type": 2,
+            "start_date": "Nov 2010",
+            "end_date": "Apr 2014",
+            "length": "3 years",
+            "start_months_since_1900": 1330,
+            "end_months_since_1900": 1371,
+            "length_in_months": 36
+        },
+        {
+            "name": "Nikki Gil",
+            "href": "https://www.whosdatedwho.com/dating/nikki-gil",
+            "relationship_type": 3,
+            "start_date": "2008",
+            "end_date": "2008",
+            "length": "-",
+            "start_months_since_1900": 1296,
+            "end_months_since_1900": 1296,
+            "length_in_months": -1
+        }
+    ],
+    "details": {
+        "First Name": "Geoff",
+        "Middle Name": "NA",
+        "Last Name": "Eigenmann",
+        "Maiden Name": "NA",
+        "Full Name at Birth": "Geoffrey Michael A. Eigenmann",
+        "Alternative Name": "Jeff Eigenmann",
+        "Birthday": "1985",
+        "Birthplace": "Philippines",
+        "Height": "173",
+        "Weight": "NA",
+        "Zodiac Sign": "7",
+        "Sexuality": "Straight",
+        "Religion": "36",
+        "Ethnicity": "8",
+        "Nationality": "16",
+        "Occupation": "8"
+    }
+}

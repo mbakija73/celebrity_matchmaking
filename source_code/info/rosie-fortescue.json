@@ -1,0 +1,44 @@
+{
+    "relationships": [
+        {
+            "name": "Miles Kane",
+            "href": "https://www.whosdatedwho.com/dating/miles-kane",
+            "relationship_type": 2,
+            "start_date": "Dec 2013",
+            "end_date": "2015",
+            "length": "1 year",
+            "start_months_since_1900": 1367,
+            "end_months_since_1900": 1380,
+            "length_in_months": 12
+        },
+        {
+            "name": "Hugo Taylor",
+            "href": "https://www.whosdatedwho.com/dating/hugo-taylor",
+            "relationship_type": 3,
+            "start_date": "2011",
+            "end_date": "2011",
+            "length": "-",
+            "start_months_since_1900": 1332,
+            "end_months_since_1900": 1332,
+            "length_in_months": -1
+        }
+    ],
+    "details": {
+        "First Name": "Rosie",
+        "Middle Name": "Olivia",
+        "Last Name": "Fortescue",
+        "Maiden Name": "NA",
+        "Full Name at Birth": "Rosie Olivia Fortescue",
+        "Alternative Name": "Rosie Fortescue, Rosie Olivia Fortescue, Rosie",
+        "Birthday": "1990",
+        "Birthplace": "UK",
+        "Height": "170",
+        "Weight": "130lbs (59 kg)",
+        "Zodiac Sign": "13",
+        "Sexuality": "Straight",
+        "Religion": "1",
+        "Ethnicity": "6",
+        "Nationality": "8",
+        "Occupation": "11"
+    }
+}

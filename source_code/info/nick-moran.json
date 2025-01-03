@@ -1,0 +1,44 @@
+{
+    "relationships": [
+        {
+            "name": "Denise Van Outen",
+            "href": "https://www.whosdatedwho.com/dating/denise-van-outen",
+            "relationship_type": 2,
+            "start_date": "2001",
+            "end_date": "2001",
+            "length": "-",
+            "start_months_since_1900": 1212,
+            "end_months_since_1900": 1212,
+            "length_in_months": -1
+        },
+        {
+            "name": "Sienna Guillory",
+            "href": "https://www.whosdatedwho.com/dating/sienna-guillory",
+            "relationship_type": 4,
+            "start_date": "1996",
+            "end_date": "2000",
+            "length": "4 years",
+            "start_months_since_1900": 1152,
+            "end_months_since_1900": 1200,
+            "length_in_months": 48
+        }
+    ],
+    "details": {
+        "First Name": "Nick",
+        "Middle Name": "James",
+        "Last Name": "Moran",
+        "Maiden Name": "NA",
+        "Full Name at Birth": "Nick James Moran",
+        "Alternative Name": "NA",
+        "Birthday": "1969",
+        "Birthplace": "UK",
+        "Height": "180",
+        "Weight": "NA",
+        "Zodiac Sign": "13",
+        "Sexuality": "Straight",
+        "Religion": "1",
+        "Ethnicity": "6",
+        "Nationality": "8",
+        "Occupation": "8"
+    }
+}

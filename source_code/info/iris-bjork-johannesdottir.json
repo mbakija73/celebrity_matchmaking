@@ -1,0 +1,44 @@
+{
+    "relationships": [
+        {
+            "name": "Chris Pine",
+            "href": "https://www.whosdatedwho.com/dating/chris-pine",
+            "relationship_type": 2,
+            "start_date": "Nov 2013",
+            "end_date": "Aug 2014",
+            "length": "9 months",
+            "start_months_since_1900": 1366,
+            "end_months_since_1900": 1375,
+            "length_in_months": 9
+        },
+        {
+            "name": "Au\u00f0unn Bl\u00f6ndal",
+            "href": "https://www.whosdatedwho.com/dating/auethunn-blondal",
+            "relationship_type": 2,
+            "start_date": "2012",
+            "end_date": "2013",
+            "length": "1 year",
+            "start_months_since_1900": 1344,
+            "end_months_since_1900": 1356,
+            "length_in_months": 12
+        }
+    ],
+    "details": {
+        "First Name": "Iris",
+        "Middle Name": "Bjork",
+        "Last Name": "J\u00f3hannesd\u00f3ttir",
+        "Maiden Name": "NA",
+        "Full Name at Birth": "NA",
+        "Alternative Name": "NA",
+        "Birthday": "1991",
+        "Birthplace": "Iceland",
+        "Height": "168",
+        "Weight": "NA",
+        "Zodiac Sign": "7",
+        "Sexuality": "Straight",
+        "Religion": "1",
+        "Ethnicity": "6",
+        "Nationality": "96",
+        "Occupation": "19"
+    }
+}

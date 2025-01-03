@@ -1,0 +1,77 @@
+{
+    "relationships": [
+        {
+            "name": "Dale Evans",
+            "href": "https://www.whosdatedwho.com/dating/dale-evans",
+            "relationship_type": 4,
+            "start_date": "Mar 1947",
+            "end_date": "6th Jul 1998",
+            "length": "51 years",
+            "start_months_since_1900": 566,
+            "end_months_since_1900": 1182,
+            "length_in_months": 612
+        },
+        {
+            "name": "Marilyn Monroe",
+            "href": "https://www.whosdatedwho.com/dating/marilyn-monroe",
+            "relationship_type": 3,
+            "start_date": "1946",
+            "end_date": "1946",
+            "length": "-",
+            "start_months_since_1900": 552,
+            "end_months_since_1900": 552,
+            "length_in_months": -1
+        },
+        {
+            "name": "Arline Wilkins",
+            "href": "https://www.whosdatedwho.com/dating/arline-wilkins",
+            "relationship_type": 4,
+            "start_date": "1935",
+            "end_date": "3rd Nov 1946",
+            "length": "11 years",
+            "start_months_since_1900": 420,
+            "end_months_since_1900": 562,
+            "length_in_months": 132
+        },
+        {
+            "name": "Lucile Ascolese",
+            "href": "https://www.whosdatedwho.com/dating/lucile-ascolese",
+            "relationship_type": 4,
+            "start_date": "1932",
+            "end_date": "Jun 1936",
+            "length": "4 years",
+            "start_months_since_1900": 384,
+            "end_months_since_1900": 437,
+            "length_in_months": 48
+        },
+        {
+            "name": "Linda Lovelace",
+            "href": "https://www.whosdatedwho.com/dating/linda-lovelace",
+            "relationship_type": 1,
+            "start_date": "",
+            "end_date": "",
+            "length": "-",
+            "start_months_since_1900": -1,
+            "end_months_since_1900": -1,
+            "length_in_months": -1
+        }
+    ],
+    "details": {
+        "First Name": "Roy",
+        "Middle Name": "Franklin",
+        "Last Name": "Rogers",
+        "Maiden Name": "NA",
+        "Full Name at Birth": "Leonard Franklin Slye",
+        "Alternative Name": "King of The Cowboys, King of The West, Buck, Leonard Franklin Slye, Roy Rogers, Leonard Slye",
+        "Birthday": "1911",
+        "Birthplace": "USA",
+        "Height": "179",
+        "Weight": "NA",
+        "Zodiac Sign": "5",
+        "Sexuality": "Straight",
+        "Religion": "1",
+        "Ethnicity": "6",
+        "Nationality": "91",
+        "Occupation": "8"
+    }
+}

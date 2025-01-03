@@ -1,0 +1,33 @@
+{
+    "relationships": [
+        {
+            "name": "Carol Lawrence",
+            "href": "https://www.whosdatedwho.com/dating/carol-lawrence",
+            "relationship_type": 4,
+            "start_date": "1981",
+            "end_date": "12th Dec 1984",
+            "length": "3 years",
+            "start_months_since_1900": 972,
+            "end_months_since_1900": 1019,
+            "length_in_months": 36
+        }
+    ],
+    "details": {
+        "First Name": "John",
+        "Middle Name": "Gregory",
+        "Last Name": "Guydus",
+        "Maiden Name": "NA",
+        "Full Name at Birth": "John Gregory Guydus",
+        "Alternative Name": "NA",
+        "Birthday": "NA",
+        "Birthplace": "NA",
+        "Height": "NA",
+        "Weight": "NA",
+        "Zodiac Sign": "2",
+        "Sexuality": "NA",
+        "Religion": "1",
+        "Ethnicity": "1",
+        "Nationality": "65",
+        "Occupation": "19"
+    }
+}

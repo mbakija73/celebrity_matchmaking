@@ -1,0 +1,44 @@
+{
+    "relationships": [
+        {
+            "name": "Sharee Gregory",
+            "href": "https://www.whosdatedwho.com/dating/sharee-gregory",
+            "relationship_type": 4,
+            "start_date": "1987",
+            "end_date": "",
+            "length": "-",
+            "start_months_since_1900": 1044,
+            "end_months_since_1900": -1,
+            "length_in_months": -1
+        },
+        {
+            "name": "Melissa Gilbert",
+            "href": "https://www.whosdatedwho.com/dating/melissa-gilbert",
+            "relationship_type": 2,
+            "start_date": "Dec 1979",
+            "end_date": "Apr 1980",
+            "length": "4 months",
+            "start_months_since_1900": 959,
+            "end_months_since_1900": 963,
+            "length_in_months": 4
+        }
+    ],
+    "details": {
+        "First Name": "Michael",
+        "Middle Name": "Graham",
+        "Last Name": "Landon",
+        "Maiden Name": "NA",
+        "Full Name at Birth": "Michael Graham Landon",
+        "Alternative Name": "NA",
+        "Birthday": "1964",
+        "Birthplace": "USA",
+        "Height": "NA",
+        "Weight": "NA",
+        "Zodiac Sign": "4",
+        "Sexuality": "Straight",
+        "Religion": "18",
+        "Ethnicity": "6",
+        "Nationality": "91",
+        "Occupation": "3"
+    }
+}

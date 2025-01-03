@@ -1,0 +1,55 @@
+{
+    "relationships": [
+        {
+            "name": "Emily Tuchscherer",
+            "href": "https://www.whosdatedwho.com/dating/emily-tuchscherer",
+            "relationship_type": 4,
+            "start_date": "2013",
+            "end_date": "present",
+            "length": "11 years",
+            "start_months_since_1900": 1356,
+            "end_months_since_1900": -1,
+            "length_in_months": 132
+        },
+        {
+            "name": "Rachel Truehart",
+            "href": "https://www.whosdatedwho.com/dating/rachel-truehart",
+            "relationship_type": 2,
+            "start_date": "May 2012",
+            "end_date": "May 2012",
+            "length": "-",
+            "start_months_since_1900": 1348,
+            "end_months_since_1900": 1348,
+            "length_in_months": -1
+        },
+        {
+            "name": "Holly Durst",
+            "href": "https://www.whosdatedwho.com/dating/holly-durst-born-1983",
+            "relationship_type": 2,
+            "start_date": "2009",
+            "end_date": "2011",
+            "length": "2 years",
+            "start_months_since_1900": 1308,
+            "end_months_since_1900": 1332,
+            "length_in_months": 24
+        }
+    ],
+    "details": {
+        "First Name": "Michael",
+        "Middle Name": "NA",
+        "Last Name": "Stagliano",
+        "Maiden Name": "NA",
+        "Full Name at Birth": "NA",
+        "Alternative Name": "NA",
+        "Birthday": "1984",
+        "Birthplace": "NA",
+        "Height": "NA",
+        "Weight": "NA",
+        "Zodiac Sign": "9",
+        "Sexuality": "Straight",
+        "Religion": "1",
+        "Ethnicity": "6",
+        "Nationality": "91",
+        "Occupation": "11"
+    }
+}

@@ -1,0 +1,77 @@
+{
+    "relationships": [
+        {
+            "name": "Bob Michell",
+            "href": "https://www.whosdatedwho.com/dating/bob-michell",
+            "relationship_type": 2,
+            "start_date": "1948",
+            "end_date": "1985",
+            "length": "37 years",
+            "start_months_since_1900": 576,
+            "end_months_since_1900": 1020,
+            "length_in_months": 444
+        },
+        {
+            "name": "Rachel Kempson",
+            "href": "https://www.whosdatedwho.com/dating/rachel-kempson",
+            "relationship_type": 4,
+            "start_date": "Jul 1934",
+            "end_date": "Mar 1985",
+            "length": "50 years",
+            "start_months_since_1900": 414,
+            "end_months_since_1900": 1022,
+            "length_in_months": 600
+        },
+        {
+            "name": "Pascoal Carlos Magno",
+            "href": "https://www.whosdatedwho.com/dating/pascoal-carlos-magno",
+            "relationship_type": 2,
+            "start_date": "",
+            "end_date": "",
+            "length": "-",
+            "start_months_since_1900": -1,
+            "end_months_since_1900": -1,
+            "length_in_months": -1
+        },
+        {
+            "name": "Glen Byam Shaw",
+            "href": "https://www.whosdatedwho.com/dating/glen-byam-shaw",
+            "relationship_type": 1,
+            "start_date": "",
+            "end_date": "",
+            "length": "-",
+            "start_months_since_1900": -1,
+            "end_months_since_1900": -1,
+            "length_in_months": -1
+        },
+        {
+            "name": "Norris Houghton",
+            "href": "https://www.whosdatedwho.com/dating/norris-houghton",
+            "relationship_type": 2,
+            "start_date": "",
+            "end_date": "",
+            "length": "-",
+            "start_months_since_1900": -1,
+            "end_months_since_1900": -1,
+            "length_in_months": -1
+        }
+    ],
+    "details": {
+        "First Name": "Michael",
+        "Middle Name": "Scudamore",
+        "Last Name": "Redgrave",
+        "Maiden Name": "NA",
+        "Full Name at Birth": "Michael Scudamore Redgrave",
+        "Alternative Name": "Sir Michael Redgrave, Sir Michael Scudamore Redgrave, Michael Scudamore Redgrave, Michael Redgrave",
+        "Birthday": "1908",
+        "Birthplace": "UK",
+        "Height": "188",
+        "Weight": "NA",
+        "Zodiac Sign": "1",
+        "Sexuality": "Bisexual",
+        "Religion": "1",
+        "Ethnicity": "6",
+        "Nationality": "98",
+        "Occupation": "8"
+    }
+}

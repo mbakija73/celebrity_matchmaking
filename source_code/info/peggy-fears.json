@@ -1,0 +1,88 @@
+{
+    "relationships": [
+        {
+            "name": "Tedi Thurman",
+            "href": "https://www.whosdatedwho.com/dating/tedi-thurman",
+            "relationship_type": 2,
+            "start_date": "1957",
+            "end_date": "1958",
+            "length": "1 year",
+            "start_months_since_1900": 684,
+            "end_months_since_1900": 696,
+            "length_in_months": 12
+        },
+        {
+            "name": "Louise Brooks",
+            "href": "https://www.whosdatedwho.com/dating/louise-brooks",
+            "relationship_type": 2,
+            "start_date": "1925",
+            "end_date": "1925",
+            "length": "-",
+            "start_months_since_1900": 300,
+            "end_months_since_1900": 300,
+            "length_in_months": -1
+        },
+        {
+            "name": "W.C. Fields",
+            "href": "https://www.whosdatedwho.com/dating/w-c-fields",
+            "relationship_type": 2,
+            "start_date": "1925",
+            "end_date": "1926",
+            "length": "1 year",
+            "start_months_since_1900": 300,
+            "end_months_since_1900": 312,
+            "length_in_months": 12
+        },
+        {
+            "name": "Lloyd Pantages",
+            "href": "https://www.whosdatedwho.com/dating/lloyd-pantages",
+            "relationship_type": 1,
+            "start_date": "",
+            "end_date": "",
+            "length": "-",
+            "start_months_since_1900": -1,
+            "end_months_since_1900": -1,
+            "length_in_months": -1
+        },
+        {
+            "name": "Alfred Cleveland Blumenthal",
+            "href": "https://www.whosdatedwho.com/dating/alfred-cleveland-blumenthal",
+            "relationship_type": 4,
+            "start_date": "1929",
+            "end_date": "1950",
+            "length": "21 years",
+            "start_months_since_1900": 348,
+            "end_months_since_1900": 600,
+            "length_in_months": 252
+        },
+        {
+            "name": "Walter Kane",
+            "href": "https://www.whosdatedwho.com/dating/walter-kane",
+            "relationship_type": 2,
+            "start_date": "",
+            "end_date": "",
+            "length": "-",
+            "start_months_since_1900": -1,
+            "end_months_since_1900": -1,
+            "length_in_months": -1
+        }
+    ],
+    "details": {
+        "First Name": "Peggy",
+        "Middle Name": "NA",
+        "Last Name": "Fears",
+        "Maiden Name": "NA",
+        "Full Name at Birth": "Peggy Fears",
+        "Alternative Name": "NA",
+        "Birthday": "1903",
+        "Birthplace": "USA",
+        "Height": "NA",
+        "Weight": "NA",
+        "Zodiac Sign": "4",
+        "Sexuality": "Bisexual",
+        "Religion": "1",
+        "Ethnicity": "6",
+        "Nationality": "91",
+        "Occupation": "1"
+    }
+}

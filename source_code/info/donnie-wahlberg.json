@@ -1,0 +1,55 @@
+{
+    "relationships": [
+        {
+            "name": "Jenny McCarthy-Wahlberg",
+            "href": "https://www.whosdatedwho.com/dating/jenny-mccarthy-wahlberg",
+            "relationship_type": 4,
+            "start_date": "Apr 2013",
+            "end_date": "present",
+            "length": "11 years",
+            "start_months_since_1900": 1359,
+            "end_months_since_1900": -1,
+            "length_in_months": 132
+        },
+        {
+            "name": "Aubrey O'Day",
+            "href": "https://www.whosdatedwho.com/dating/aubrey-o-day",
+            "relationship_type": 3,
+            "start_date": "2010",
+            "end_date": "2010",
+            "length": "-",
+            "start_months_since_1900": 1320,
+            "end_months_since_1900": 1320,
+            "length_in_months": -1
+        },
+        {
+            "name": "Kim Fey",
+            "href": "https://www.whosdatedwho.com/dating/kim-fey",
+            "relationship_type": 4,
+            "start_date": "Aug 1991",
+            "end_date": "Aug 2008",
+            "length": "17 years",
+            "start_months_since_1900": 1099,
+            "end_months_since_1900": 1303,
+            "length_in_months": 204
+        }
+    ],
+    "details": {
+        "First Name": "Donnie",
+        "Middle Name": "Edward",
+        "Last Name": "Wahlberg",
+        "Maiden Name": "NA",
+        "Full Name at Birth": "Donald Edward Wahlberg",
+        "Alternative Name": "Ddub, Donnie D, Cheese",
+        "Birthday": "1969",
+        "Birthplace": "USA",
+        "Height": "178",
+        "Weight": "NA",
+        "Zodiac Sign": "12",
+        "Sexuality": "Straight",
+        "Religion": "13",
+        "Ethnicity": "6",
+        "Nationality": "91",
+        "Occupation": "1"
+    }
+}

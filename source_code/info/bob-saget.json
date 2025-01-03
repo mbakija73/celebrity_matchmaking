@@ -1,0 +1,66 @@
+{
+    "relationships": [
+        {
+            "name": "Kelly Rizzo",
+            "href": "https://www.whosdatedwho.com/dating/kelly-rizzo",
+            "relationship_type": 4,
+            "start_date": "2015",
+            "end_date": "Jan 2022",
+            "length": "7 years",
+            "start_months_since_1900": 1380,
+            "end_months_since_1900": 1464,
+            "length_in_months": 84
+        },
+        {
+            "name": "Hope Dworaczyk Smith",
+            "href": "https://www.whosdatedwho.com/dating/hope-dworaczyk",
+            "relationship_type": 2,
+            "start_date": "2010",
+            "end_date": "2011",
+            "length": "1 year",
+            "start_months_since_1900": 1320,
+            "end_months_since_1900": 1332,
+            "length_in_months": 12
+        },
+        {
+            "name": "Sherri Kramer",
+            "href": "https://www.whosdatedwho.com/dating/sherri-kramer",
+            "relationship_type": 4,
+            "start_date": "May 1982",
+            "end_date": "1997",
+            "length": "14 years",
+            "start_months_since_1900": 988,
+            "end_months_since_1900": 1164,
+            "length_in_months": 168
+        },
+        {
+            "name": "Katie Couric",
+            "href": "https://www.whosdatedwho.com/dating/katie-couric",
+            "relationship_type": 3,
+            "start_date": "",
+            "end_date": "",
+            "length": "-",
+            "start_months_since_1900": -1,
+            "end_months_since_1900": -1,
+            "length_in_months": -1
+        }
+    ],
+    "details": {
+        "First Name": "Bob",
+        "Middle Name": "NA",
+        "Last Name": "Saget",
+        "Maiden Name": "NA",
+        "Full Name at Birth": "Robert Lane Saget",
+        "Alternative Name": "Bob",
+        "Birthday": "1956",
+        "Birthplace": "USA",
+        "Height": "193",
+        "Weight": "187lbs (85 kg)",
+        "Zodiac Sign": "3",
+        "Sexuality": "Straight",
+        "Religion": "31",
+        "Ethnicity": "6",
+        "Nationality": "91",
+        "Occupation": "16"
+    }
+}

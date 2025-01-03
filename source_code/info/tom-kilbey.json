@@ -1,0 +1,55 @@
+{
+    "relationships": [
+        {
+            "name": "Lydia Bright",
+            "href": "https://www.whosdatedwho.com/dating/lydia-bright",
+            "relationship_type": 2,
+            "start_date": "Feb 2012",
+            "end_date": "2013",
+            "length": "11 months",
+            "start_months_since_1900": 1345,
+            "end_months_since_1900": 1356,
+            "length_in_months": 11
+        },
+        {
+            "name": "Billi Mucklow",
+            "href": "https://www.whosdatedwho.com/dating/billi-mucklow",
+            "relationship_type": 2,
+            "start_date": "2011",
+            "end_date": "Jun 2012",
+            "length": "1 year",
+            "start_months_since_1900": 1332,
+            "end_months_since_1900": 1349,
+            "length_in_months": 12
+        },
+        {
+            "name": "Paris Jackson",
+            "href": "https://www.whosdatedwho.com/dating/paris-jackson",
+            "relationship_type": 1,
+            "start_date": "",
+            "end_date": "",
+            "length": "-",
+            "start_months_since_1900": -1,
+            "end_months_since_1900": -1,
+            "length_in_months": -1
+        }
+    ],
+    "details": {
+        "First Name": "Tom",
+        "Middle Name": "NA",
+        "Last Name": "Kilbey",
+        "Maiden Name": "NA",
+        "Full Name at Birth": "Thomas Charles Kilbey",
+        "Alternative Name": "NA",
+        "Birthday": "1990",
+        "Birthplace": "England",
+        "Height": "191",
+        "Weight": "NA",
+        "Zodiac Sign": "10",
+        "Sexuality": "Straight",
+        "Religion": "1",
+        "Ethnicity": "6",
+        "Nationality": "8",
+        "Occupation": "11"
+    }
+}

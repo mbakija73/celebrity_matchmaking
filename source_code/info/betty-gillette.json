@@ -1,0 +1,33 @@
+{
+    "relationships": [
+        {
+            "name": "Kent Smith",
+            "href": "https://www.whosdatedwho.com/dating/kent-smith",
+            "relationship_type": 4,
+            "start_date": "1936",
+            "end_date": "1954",
+            "length": "18 years",
+            "start_months_since_1900": 432,
+            "end_months_since_1900": 648,
+            "length_in_months": 216
+        }
+    ],
+    "details": {
+        "First Name": "Betty",
+        "Middle Name": "NA",
+        "Last Name": "Gillette",
+        "Maiden Name": "NA",
+        "Full Name at Birth": "Elizabeth Viola Gillette",
+        "Alternative Name": "Elizabeth Viola Gillette, Betty Gillette",
+        "Birthday": "1912",
+        "Birthplace": "USA",
+        "Height": "NA",
+        "Weight": "NA",
+        "Zodiac Sign": "6",
+        "Sexuality": "Straight",
+        "Religion": "1",
+        "Ethnicity": "6",
+        "Nationality": "91",
+        "Occupation": "8"
+    }
+}

@@ -1,0 +1,110 @@
+{
+    "relationships": [
+        {
+            "name": "Pamela Anderson",
+            "href": "https://www.whosdatedwho.com/dating/pamela-anderson",
+            "relationship_type": 3,
+            "start_date": "Nov 2005",
+            "end_date": "Nov 2005",
+            "length": "-",
+            "start_months_since_1900": 1270,
+            "end_months_since_1900": 1270,
+            "length_in_months": -1
+        },
+        {
+            "name": "Sara Foster",
+            "href": "https://www.whosdatedwho.com/dating/sara-foster",
+            "relationship_type": 3,
+            "start_date": "Mar 2005",
+            "end_date": "Mar 2005",
+            "length": "-",
+            "start_months_since_1900": 1262,
+            "end_months_since_1900": 1262,
+            "length_in_months": -1
+        },
+        {
+            "name": "Paris Hilton",
+            "href": "https://www.whosdatedwho.com/dating/paris-hilton",
+            "relationship_type": 3,
+            "start_date": "May 2003",
+            "end_date": "Jun 2003",
+            "length": "1 month",
+            "start_months_since_1900": 1240,
+            "end_months_since_1900": 1241,
+            "length_in_months": 1
+        },
+        {
+            "name": "Michelle Ruben",
+            "href": "https://www.whosdatedwho.com/dating/michelle-ruben",
+            "relationship_type": 3,
+            "start_date": "Oct 2002",
+            "end_date": "Oct 2002",
+            "length": "-",
+            "start_months_since_1900": 1233,
+            "end_months_since_1900": 1233,
+            "length_in_months": -1
+        },
+        {
+            "name": "Rachel Hunter",
+            "href": "https://www.whosdatedwho.com/dating/rachel-hunter",
+            "relationship_type": 3,
+            "start_date": "2002",
+            "end_date": "2002",
+            "length": "-",
+            "start_months_since_1900": 1224,
+            "end_months_since_1900": 1224,
+            "length_in_months": -1
+        },
+        {
+            "name": "Carin Kingsland",
+            "href": "https://www.whosdatedwho.com/dating/carin-kingsland",
+            "relationship_type": 4,
+            "start_date": "1994",
+            "end_date": "present",
+            "length": "30 years",
+            "start_months_since_1900": 1128,
+            "end_months_since_1900": -1,
+            "length_in_months": 360
+        },
+        {
+            "name": "Madonna",
+            "href": "https://www.whosdatedwho.com/dating/madonna",
+            "relationship_type": 1,
+            "start_date": "",
+            "end_date": "",
+            "length": "-",
+            "start_months_since_1900": -1,
+            "end_months_since_1900": -1,
+            "length_in_months": -1
+        },
+        {
+            "name": "Bobbie Jean Brown",
+            "href": "https://www.whosdatedwho.com/dating/bobbie-brown",
+            "relationship_type": 2,
+            "start_date": "",
+            "end_date": "",
+            "length": "-",
+            "start_months_since_1900": -1,
+            "end_months_since_1900": -1,
+            "length_in_months": -1
+        }
+    ],
+    "details": {
+        "First Name": "Mark",
+        "Middle Name": "Sayers",
+        "Last Name": "McGrath",
+        "Maiden Name": "NA",
+        "Full Name at Birth": "Mark Sayers McGrath",
+        "Alternative Name": "NA",
+        "Birthday": "1968",
+        "Birthplace": "USA",
+        "Height": "185",
+        "Weight": "NA",
+        "Zodiac Sign": "1",
+        "Sexuality": "Straight",
+        "Religion": "13",
+        "Ethnicity": "6",
+        "Nationality": "91",
+        "Occupation": "1"
+    }
+}

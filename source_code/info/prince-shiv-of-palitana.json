@@ -1,0 +1,55 @@
+{
+    "relationships": [
+        {
+            "name": "Eva Bartok",
+            "href": "https://www.whosdatedwho.com/dating/eva-bartok",
+            "relationship_type": 2,
+            "start_date": "1958",
+            "end_date": "1959",
+            "length": "1 year",
+            "start_months_since_1900": 696,
+            "end_months_since_1900": 708,
+            "length_in_months": 12
+        },
+        {
+            "name": "Jan Buckingham",
+            "href": "https://www.whosdatedwho.com/dating/jan-buckingham",
+            "relationship_type": 1,
+            "start_date": "",
+            "end_date": "",
+            "length": "-",
+            "start_months_since_1900": -1,
+            "end_months_since_1900": -1,
+            "length_in_months": -1
+        },
+        {
+            "name": "Simone Silva",
+            "href": "https://www.whosdatedwho.com/dating/simone-silva",
+            "relationship_type": 2,
+            "start_date": "",
+            "end_date": "1957",
+            "length": "-",
+            "start_months_since_1900": -1,
+            "end_months_since_1900": 684,
+            "length_in_months": -1
+        }
+    ],
+    "details": {
+        "First Name": "Shiv",
+        "Middle Name": "Of",
+        "Last Name": "Palitana",
+        "Maiden Name": "NA",
+        "Full Name at Birth": "NA",
+        "Alternative Name": "NA",
+        "Birthday": "1930",
+        "Birthplace": "India",
+        "Height": "NA",
+        "Weight": "NA",
+        "Zodiac Sign": "2",
+        "Sexuality": "NA",
+        "Religion": "1",
+        "Ethnicity": "7",
+        "Nationality": "34",
+        "Occupation": "18"
+    }
+}

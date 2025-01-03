@@ -1,0 +1,77 @@
+{
+    "relationships": [
+        {
+            "name": "Chris Fischer",
+            "href": "https://www.whosdatedwho.com/dating/chris-fischer-chef",
+            "relationship_type": 4,
+            "start_date": "13th Feb 2018",
+            "end_date": "present",
+            "length": "6 years",
+            "start_months_since_1900": 1417,
+            "end_months_since_1900": -1,
+            "length_in_months": 72
+        },
+        {
+            "name": "Amber Rose",
+            "href": "https://www.whosdatedwho.com/dating/amber-rose",
+            "relationship_type": 3,
+            "start_date": "Apr 2015",
+            "end_date": "Apr 2015",
+            "length": "-",
+            "start_months_since_1900": 1383,
+            "end_months_since_1900": 1383,
+            "length_in_months": -1
+        },
+        {
+            "name": "Ben Hanisch",
+            "href": "https://www.whosdatedwho.com/dating/ben-hanisch",
+            "relationship_type": 2,
+            "start_date": "Jan 2015",
+            "end_date": "May 2017",
+            "length": "2 years",
+            "start_months_since_1900": 1380,
+            "end_months_since_1900": 1408,
+            "length_in_months": 24
+        },
+        {
+            "name": "Nic Nemeth",
+            "href": "https://www.whosdatedwho.com/dating/nic-nemeth",
+            "relationship_type": 2,
+            "start_date": "2012",
+            "end_date": "Aug 2012",
+            "length": "7 months",
+            "start_months_since_1900": 1344,
+            "end_months_since_1900": 1351,
+            "length_in_months": 7
+        },
+        {
+            "name": "Anthony Jeselnik",
+            "href": "https://www.whosdatedwho.com/dating/anthony-jeselnik",
+            "relationship_type": 2,
+            "start_date": "2009",
+            "end_date": "Oct 2012",
+            "length": "3 years",
+            "start_months_since_1900": 1308,
+            "end_months_since_1900": 1353,
+            "length_in_months": 36
+        }
+    ],
+    "details": {
+        "First Name": "Amy",
+        "Middle Name": "Beth",
+        "Last Name": "Schumer",
+        "Maiden Name": "NA",
+        "Full Name at Birth": "Amy Beth Schumer",
+        "Alternative Name": "Amy Schumer",
+        "Birthday": "1981",
+        "Birthplace": "USA",
+        "Height": "170",
+        "Weight": "155lbs (70 kg)",
+        "Zodiac Sign": "4",
+        "Sexuality": "Straight",
+        "Religion": "31",
+        "Ethnicity": "6",
+        "Nationality": "91",
+        "Occupation": "16"
+    }
+}

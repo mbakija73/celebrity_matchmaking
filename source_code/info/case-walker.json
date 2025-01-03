@@ -1,0 +1,44 @@
+{
+    "relationships": [
+        {
+            "name": "Madison Lewis",
+            "href": "https://www.whosdatedwho.com/dating/madison-lewis-actress",
+            "relationship_type": 2,
+            "start_date": "Sep 2017",
+            "end_date": "Oct 2017",
+            "length": "1 month",
+            "start_months_since_1900": 1412,
+            "end_months_since_1900": 1413,
+            "length_in_months": 1
+        },
+        {
+            "name": "Danielle Cohn",
+            "href": "https://www.whosdatedwho.com/dating/danielle-cohn-model",
+            "relationship_type": 1,
+            "start_date": "2017",
+            "end_date": "2018",
+            "length": "1 year",
+            "start_months_since_1900": 1404,
+            "end_months_since_1900": 1416,
+            "length_in_months": 12
+        }
+    ],
+    "details": {
+        "First Name": "Case",
+        "Middle Name": "NA",
+        "Last Name": "Walker",
+        "Maiden Name": "NA",
+        "Full Name at Birth": "Case Walker",
+        "Alternative Name": "Case",
+        "Birthday": "2003",
+        "Birthplace": "United States",
+        "Height": "178",
+        "Weight": "137lbs (62 kg)",
+        "Zodiac Sign": "1",
+        "Sexuality": "Straight",
+        "Religion": "1",
+        "Ethnicity": "6",
+        "Nationality": "91",
+        "Occupation": "19"
+    }
+}

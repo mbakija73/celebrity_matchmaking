@@ -1,0 +1,55 @@
+{
+    "relationships": [
+        {
+            "name": "Fred Armisen",
+            "href": "https://www.whosdatedwho.com/dating/fred-armisen",
+            "relationship_type": 2,
+            "start_date": "Oct 2005",
+            "end_date": "Oct 2006",
+            "length": "1 year",
+            "start_months_since_1900": 1269,
+            "end_months_since_1900": 1281,
+            "length_in_months": 12
+        },
+        {
+            "name": "Jon Patrick Walker",
+            "href": "https://www.whosdatedwho.com/dating/jon-patrick-walker",
+            "relationship_type": 2,
+            "start_date": "1994",
+            "end_date": "May 1996",
+            "length": "2 years",
+            "start_months_since_1900": 1128,
+            "end_months_since_1900": 1156,
+            "length_in_months": 24
+        },
+        {
+            "name": "River Phoenix",
+            "href": "https://www.whosdatedwho.com/dating/river-phoenix",
+            "relationship_type": 2,
+            "start_date": "Jan 1986",
+            "end_date": "Jun 1989",
+            "length": "3 years",
+            "start_months_since_1900": 1032,
+            "end_months_since_1900": 1073,
+            "length_in_months": 36
+        }
+    ],
+    "details": {
+        "First Name": "Martha",
+        "Middle Name": "Campbell",
+        "Last Name": "Plimpton",
+        "Maiden Name": "NA",
+        "Full Name at Birth": "Martha Campbell Plimpton",
+        "Alternative Name": "Martha Plimpton, Martha Campbell Plimpton, Martha",
+        "Birthday": "1970",
+        "Birthplace": "USA",
+        "Height": "165",
+        "Weight": "119lbs (54 kg)",
+        "Zodiac Sign": "5",
+        "Sexuality": "Straight",
+        "Religion": "1",
+        "Ethnicity": "6",
+        "Nationality": "91",
+        "Occupation": "8"
+    }
+}

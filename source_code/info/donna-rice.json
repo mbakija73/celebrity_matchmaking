@@ -1,0 +1,88 @@
+{
+    "relationships": [
+        {
+            "name": "Gary Hart",
+            "href": "https://www.whosdatedwho.com/dating/gary-hart",
+            "relationship_type": 2,
+            "start_date": "Mar 1987",
+            "end_date": "1987",
+            "length": "1 month",
+            "start_months_since_1900": 1046,
+            "end_months_since_1900": 1044,
+            "length_in_months": 1
+        },
+        {
+            "name": "Don Henley",
+            "href": "https://www.whosdatedwho.com/dating/don-henley",
+            "relationship_type": 3,
+            "start_date": "Dec 1986",
+            "end_date": "Dec 1986",
+            "length": "-",
+            "start_months_since_1900": 1043,
+            "end_months_since_1900": 1043,
+            "length_in_months": -1
+        },
+        {
+            "name": "Danny Sullivan",
+            "href": "https://www.whosdatedwho.com/dating/danny-sullivan",
+            "relationship_type": 3,
+            "start_date": "1985",
+            "end_date": "1986",
+            "length": "1 year",
+            "start_months_since_1900": 1020,
+            "end_months_since_1900": 1032,
+            "length_in_months": 12
+        },
+        {
+            "name": "Adnan Khashoggi",
+            "href": "https://www.whosdatedwho.com/dating/adnan-khashoggi",
+            "relationship_type": 3,
+            "start_date": "1982",
+            "end_date": "1982",
+            "length": "-",
+            "start_months_since_1900": 984,
+            "end_months_since_1900": 984,
+            "length_in_months": -1
+        },
+        {
+            "name": "Prince Albert of Monaco",
+            "href": "https://www.whosdatedwho.com/dating/prince-albert-of-monaco",
+            "relationship_type": 2,
+            "start_date": "Jul 1981",
+            "end_date": "Aug 1981",
+            "length": "1 month",
+            "start_months_since_1900": 978,
+            "end_months_since_1900": 979,
+            "length_in_months": 1
+        },
+        {
+            "name": "Don Johnson",
+            "href": "https://www.whosdatedwho.com/dating/don-johnson",
+            "relationship_type": 3,
+            "start_date": "",
+            "end_date": "",
+            "length": "-",
+            "start_months_since_1900": -1,
+            "end_months_since_1900": -1,
+            "length_in_months": -1
+        }
+    ],
+    "details": {
+        "First Name": "Donna",
+        "Middle Name": "NA",
+        "Last Name": "NA",
+        "Maiden Name": "Rice",
+        "Full Name at Birth": "NA",
+        "Alternative Name": "Donna Rice Hughes",
+        "Birthday": "1958",
+        "Birthplace": "Louisiana",
+        "Height": "NA",
+        "Weight": "NA",
+        "Zodiac Sign": "13",
+        "Sexuality": "Straight",
+        "Religion": "36",
+        "Ethnicity": "6",
+        "Nationality": "91",
+        "Occupation": "16"
+    }
+}

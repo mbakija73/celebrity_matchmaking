@@ -1,0 +1,44 @@
+{
+    "relationships": [
+        {
+            "name": "Ivan Kronenfeld",
+            "href": "https://www.whosdatedwho.com/dating/ivan-kronenfeld",
+            "relationship_type": 4,
+            "start_date": "1979",
+            "end_date": "present",
+            "length": "45 years",
+            "start_months_since_1900": 948,
+            "end_months_since_1900": -1,
+            "length_in_months": 540
+        },
+        {
+            "name": "Dustin Hoffman",
+            "href": "https://www.whosdatedwho.com/dating/dustin-hoffman",
+            "relationship_type": 4,
+            "start_date": "1968",
+            "end_date": "6th Oct 1980",
+            "length": "12 years",
+            "start_months_since_1900": 816,
+            "end_months_since_1900": 969,
+            "length_in_months": 144
+        }
+    ],
+    "details": {
+        "First Name": "Anne",
+        "Middle Name": "Byrne",
+        "Last Name": "Hoffman",
+        "Maiden Name": "NA",
+        "Full Name at Birth": "NA",
+        "Alternative Name": "Anne Byrne",
+        "Birthday": "1943",
+        "Birthplace": "USA",
+        "Height": "NA",
+        "Weight": "NA",
+        "Zodiac Sign": "10",
+        "Sexuality": "Straight",
+        "Religion": "1",
+        "Ethnicity": "6",
+        "Nationality": "91",
+        "Occupation": "8"
+    }
+}

@@ -1,0 +1,55 @@
+{
+    "relationships": [
+        {
+            "name": "Joaquin Phoenix",
+            "href": "https://www.whosdatedwho.com/dating/joaquin-phoenix",
+            "relationship_type": 2,
+            "start_date": "2012",
+            "end_date": "2013",
+            "length": "1 year",
+            "start_months_since_1900": 1344,
+            "end_months_since_1900": 1356,
+            "length_in_months": 12
+        },
+        {
+            "name": "Vincent Gallo",
+            "href": "https://www.whosdatedwho.com/dating/vincent-gallo",
+            "relationship_type": 2,
+            "start_date": "2006",
+            "end_date": "2008",
+            "length": "2 years",
+            "start_months_since_1900": 1272,
+            "end_months_since_1900": 1296,
+            "length_in_months": 24
+        },
+        {
+            "name": "Anthony Kiedis",
+            "href": "https://www.whosdatedwho.com/dating/anthony-kiedis",
+            "relationship_type": 2,
+            "start_date": "Oct 2004",
+            "end_date": "2008",
+            "length": "3 years",
+            "start_months_since_1900": 1257,
+            "end_months_since_1900": 1296,
+            "length_in_months": 36
+        }
+    ],
+    "details": {
+        "First Name": "Heather",
+        "Middle Name": "Megan",
+        "Last Name": "Christie",
+        "Maiden Name": "NA",
+        "Full Name at Birth": "Heather Megan Christie",
+        "Alternative Name": "Nika, Heather Megan Christie, Heather M. Christie, Heather Christie",
+        "Birthday": "1986",
+        "Birthplace": "California USA",
+        "Height": "180",
+        "Weight": "NA",
+        "Zodiac Sign": "13",
+        "Sexuality": "NA",
+        "Religion": "1",
+        "Ethnicity": "6",
+        "Nationality": "91",
+        "Occupation": "15"
+    }
+}

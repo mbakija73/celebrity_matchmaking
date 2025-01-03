@@ -1,0 +1,55 @@
+{
+    "relationships": [
+        {
+            "name": "Matthew Perry",
+            "href": "https://www.whosdatedwho.com/dating/matthew-perry",
+            "relationship_type": 2,
+            "start_date": "2018",
+            "end_date": "May 2021",
+            "length": "3 years",
+            "start_months_since_1900": 1416,
+            "end_months_since_1900": 1456,
+            "length_in_months": 36
+        },
+        {
+            "name": "Metro Boomin",
+            "href": "https://www.whosdatedwho.com/dating/metro-boomin",
+            "relationship_type": 1,
+            "start_date": "",
+            "end_date": "",
+            "length": "-",
+            "start_months_since_1900": -1,
+            "end_months_since_1900": -1,
+            "length_in_months": -1
+        },
+        {
+            "name": "B.J. Novak",
+            "href": "https://www.whosdatedwho.com/dating/b-j-novak",
+            "relationship_type": 2,
+            "start_date": "",
+            "end_date": "",
+            "length": "-",
+            "start_months_since_1900": -1,
+            "end_months_since_1900": -1,
+            "length_in_months": -1
+        }
+    ],
+    "details": {
+        "First Name": "Molly",
+        "Middle Name": "NA",
+        "Last Name": "Hurwitz",
+        "Maiden Name": "NA",
+        "Full Name at Birth": "NA",
+        "Alternative Name": "Molly, Molly Hurwitz",
+        "Birthday": "1991",
+        "Birthplace": "Canada",
+        "Height": "168",
+        "Weight": "121lbs (55 kg)",
+        "Zodiac Sign": "8",
+        "Sexuality": "Straight",
+        "Religion": "18",
+        "Ethnicity": "6",
+        "Nationality": "91",
+        "Occupation": "7"
+    }
+}

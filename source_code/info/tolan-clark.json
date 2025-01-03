@@ -1,0 +1,44 @@
+{
+    "relationships": [
+        {
+            "name": "Tyler Florence",
+            "href": "https://www.whosdatedwho.com/dating/tyler-florence",
+            "relationship_type": 4,
+            "start_date": "2006",
+            "end_date": "present",
+            "length": "18 years",
+            "start_months_since_1900": 1272,
+            "end_months_since_1900": -1,
+            "length_in_months": 216
+        },
+        {
+            "name": "Billy Warlock",
+            "href": "https://www.whosdatedwho.com/dating/billy-warlock",
+            "relationship_type": 2,
+            "start_date": "2000",
+            "end_date": "Apr 2004",
+            "length": "4 years",
+            "start_months_since_1900": 1200,
+            "end_months_since_1900": 1251,
+            "length_in_months": 48
+        }
+    ],
+    "details": {
+        "First Name": "Tolan",
+        "Middle Name": "NA",
+        "Last Name": "Clark",
+        "Maiden Name": "NA",
+        "Full Name at Birth": "NA",
+        "Alternative Name": "Miss Wyoming 1994",
+        "Birthday": "1973",
+        "Birthplace": "CA",
+        "Height": "NA",
+        "Weight": "NA",
+        "Zodiac Sign": "4",
+        "Sexuality": "Straight",
+        "Religion": "18",
+        "Ethnicity": "1",
+        "Nationality": "91",
+        "Occupation": "15"
+    }
+}

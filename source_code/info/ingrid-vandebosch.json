@@ -1,0 +1,44 @@
+{
+    "relationships": [
+        {
+            "name": "Jeff Gordon",
+            "href": "https://www.whosdatedwho.com/dating/jeff-gordon",
+            "relationship_type": 4,
+            "start_date": "2006",
+            "end_date": "present",
+            "length": "18 years",
+            "start_months_since_1900": 1272,
+            "end_months_since_1900": -1,
+            "length_in_months": 216
+        },
+        {
+            "name": "Brady Anderson",
+            "href": "https://www.whosdatedwho.com/dating/brady-anderson",
+            "relationship_type": 2,
+            "start_date": "1995",
+            "end_date": "1998",
+            "length": "3 years",
+            "start_months_since_1900": 1140,
+            "end_months_since_1900": 1176,
+            "length_in_months": 36
+        }
+    ],
+    "details": {
+        "First Name": "Ingrid",
+        "Middle Name": "NA",
+        "Last Name": "NA",
+        "Maiden Name": "Vandebosch",
+        "Full Name at Birth": "Ingrid Vandebosch",
+        "Alternative Name": "NA",
+        "Birthday": "1970",
+        "Birthplace": "Belgium",
+        "Height": "175",
+        "Weight": "134lbs (61 kg)",
+        "Zodiac Sign": "5",
+        "Sexuality": "Straight",
+        "Religion": "1",
+        "Ethnicity": "6",
+        "Nationality": "110",
+        "Occupation": "15"
+    }
+}

@@ -1,0 +1,55 @@
+{
+    "relationships": [
+        {
+            "name": "Jim Carrey",
+            "href": "https://www.whosdatedwho.com/dating/jim-carrey",
+            "relationship_type": 3,
+            "start_date": "2004",
+            "end_date": "2004",
+            "length": "-",
+            "start_months_since_1900": 1248,
+            "end_months_since_1900": 1248,
+            "length_in_months": -1
+        },
+        {
+            "name": "Anders Svensson",
+            "href": "https://www.whosdatedwho.com/dating/anders-svensson",
+            "relationship_type": 2,
+            "start_date": "2002",
+            "end_date": "2004",
+            "length": "2 years",
+            "start_months_since_1900": 1224,
+            "end_months_since_1900": 1248,
+            "length_in_months": 24
+        },
+        {
+            "name": "Peter Forsberg",
+            "href": "https://www.whosdatedwho.com/dating/peter-forsberg",
+            "relationship_type": 3,
+            "start_date": "",
+            "end_date": "",
+            "length": "-",
+            "start_months_since_1900": -1,
+            "end_months_since_1900": -1,
+            "length_in_months": -1
+        }
+    ],
+    "details": {
+        "First Name": "Anine",
+        "Middle Name": "NA",
+        "Last Name": "Bing",
+        "Maiden Name": "NA",
+        "Full Name at Birth": "Anine Irmelin Bing",
+        "Alternative Name": "Anine Bing, Anine Irmelin Bing",
+        "Birthday": "1980",
+        "Birthplace": "Denmark",
+        "Height": "174",
+        "Weight": "NA",
+        "Zodiac Sign": "6",
+        "Sexuality": "Straight",
+        "Religion": "1",
+        "Ethnicity": "6",
+        "Nationality": "50",
+        "Occupation": "15"
+    }
+}

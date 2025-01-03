@@ -1,0 +1,33 @@
+{
+    "relationships": [
+        {
+            "name": "Usain Bolt",
+            "href": "https://www.whosdatedwho.com/dating/usain-bolt",
+            "relationship_type": 3,
+            "start_date": "Jul 2012",
+            "end_date": "2012",
+            "length": "6 months",
+            "start_months_since_1900": 1350,
+            "end_months_since_1900": 1344,
+            "length_in_months": 6
+        }
+    ],
+    "details": {
+        "First Name": "Megan",
+        "Middle Name": "NA",
+        "Last Name": "Edwards",
+        "Maiden Name": "NA",
+        "Full Name at Birth": "Megan Edwards",
+        "Alternative Name": "Megan Edwards",
+        "Birthday": "NA",
+        "Birthplace": "NA",
+        "Height": "NA",
+        "Weight": "126lbs (57 kg)",
+        "Zodiac Sign": "2",
+        "Sexuality": "NA",
+        "Religion": "1",
+        "Ethnicity": "1",
+        "Nationality": "65",
+        "Occupation": "8"
+    }
+}

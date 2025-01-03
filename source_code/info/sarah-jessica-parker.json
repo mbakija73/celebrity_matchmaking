@@ -1,0 +1,88 @@
+{
+    "relationships": [
+        {
+            "name": "Matthew Broderick",
+            "href": "https://www.whosdatedwho.com/dating/matthew-broderick",
+            "relationship_type": 4,
+            "start_date": "1992",
+            "end_date": "present",
+            "length": "32 years",
+            "start_months_since_1900": 1104,
+            "end_months_since_1900": -1,
+            "length_in_months": 384
+        },
+        {
+            "name": "Nicolas Cage",
+            "href": "https://www.whosdatedwho.com/dating/nicolas-cage",
+            "relationship_type": 3,
+            "start_date": "Aug 1991",
+            "end_date": "Nov 1991",
+            "length": "3 months",
+            "start_months_since_1900": 1099,
+            "end_months_since_1900": 1102,
+            "length_in_months": 3
+        },
+        {
+            "name": "Joshua Kadison",
+            "href": "https://www.whosdatedwho.com/dating/joshua-kadison",
+            "relationship_type": 2,
+            "start_date": "1991",
+            "end_date": "1991",
+            "length": "-",
+            "start_months_since_1900": 1092,
+            "end_months_since_1900": 1092,
+            "length_in_months": -1
+        },
+        {
+            "name": "John Kennedy Jr.",
+            "href": "https://www.whosdatedwho.com/dating/john-kennedy-jr",
+            "relationship_type": 2,
+            "start_date": "1991",
+            "end_date": "1991",
+            "length": "-",
+            "start_months_since_1900": 1092,
+            "end_months_since_1900": 1092,
+            "length_in_months": -1
+        },
+        {
+            "name": "Robert Downey Jr.",
+            "href": "https://www.whosdatedwho.com/dating/robert-downey-jr",
+            "relationship_type": 2,
+            "start_date": "Apr 1984",
+            "end_date": "Jul 1991",
+            "length": "7 years",
+            "start_months_since_1900": 1011,
+            "end_months_since_1900": 1098,
+            "length_in_months": 84
+        },
+        {
+            "name": "Michael J. Fox",
+            "href": "https://www.whosdatedwho.com/dating/michael-j-fox",
+            "relationship_type": 2,
+            "start_date": "1984",
+            "end_date": "1984",
+            "length": "-",
+            "start_months_since_1900": 1008,
+            "end_months_since_1900": 1008,
+            "length_in_months": -1
+        }
+    ],
+    "details": {
+        "First Name": "Sarah",
+        "Middle Name": "Jessica",
+        "Last Name": "Broderick",
+        "Maiden Name": "Parker",
+        "Full Name at Birth": "Sarah Jessica Parker",
+        "Alternative Name": "Sarah Broderick, Sarah Jessica Broderick, Sarah Jessica Parker Broderick, Ms. New York, Sjp, Sarah Jessica Parker",
+        "Birthday": "1965",
+        "Birthplace": "Ohio",
+        "Height": "160",
+        "Weight": "125lbs (57 kg)",
+        "Zodiac Sign": "7",
+        "Sexuality": "Straight",
+        "Religion": "31",
+        "Ethnicity": "6",
+        "Nationality": "91",
+        "Occupation": "8"
+    }
+}

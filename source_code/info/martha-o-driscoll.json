@@ -1,0 +1,44 @@
+{
+    "relationships": [
+        {
+            "name": "Willis Hunt, Jr.",
+            "href": "https://www.whosdatedwho.com/dating/willis-hunt-jr",
+            "relationship_type": 2,
+            "start_date": "1939",
+            "end_date": "1940",
+            "length": "1 year",
+            "start_months_since_1900": 468,
+            "end_months_since_1900": 480,
+            "length_in_months": 12
+        },
+        {
+            "name": "Errol Flynn",
+            "href": "https://www.whosdatedwho.com/dating/errol-flynn",
+            "relationship_type": 3,
+            "start_date": "",
+            "end_date": "",
+            "length": "-",
+            "start_months_since_1900": -1,
+            "end_months_since_1900": -1,
+            "length_in_months": -1
+        }
+    ],
+    "details": {
+        "First Name": "Martha",
+        "Middle Name": "NA",
+        "Last Name": "O'Driscoll",
+        "Maiden Name": "NA",
+        "Full Name at Birth": "Martha O'Driscoll",
+        "Alternative Name": "Martha O'Driscoll",
+        "Birthday": "1922",
+        "Birthplace": "Oklahoma USA",
+        "Height": "165",
+        "Weight": "NA",
+        "Zodiac Sign": "1",
+        "Sexuality": "Straight",
+        "Religion": "1",
+        "Ethnicity": "6",
+        "Nationality": "91",
+        "Occupation": "8"
+    }
+}

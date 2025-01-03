@@ -1,0 +1,88 @@
+{
+    "relationships": [
+        {
+            "name": "Ed Westwick",
+            "href": "https://www.whosdatedwho.com/dating/ed-westwick",
+            "relationship_type": 4,
+            "start_date": "Dec 2021",
+            "end_date": "present",
+            "length": "2 years",
+            "start_months_since_1900": 1463,
+            "end_months_since_1900": -1,
+            "length_in_months": 24
+        },
+        {
+            "name": "Andreas Panayiotou",
+            "href": "https://www.whosdatedwho.com/dating/andreas-panayiotou",
+            "relationship_type": 2,
+            "start_date": "Jan 2019",
+            "end_date": "Jul 2021",
+            "length": "2 years",
+            "start_months_since_1900": 1428,
+            "end_months_since_1900": 1458,
+            "length_in_months": 24
+        },
+        {
+            "name": "Neelam Gill",
+            "href": "https://www.whosdatedwho.com/dating/neelam-gill",
+            "relationship_type": 1,
+            "start_date": "2018",
+            "end_date": "2018",
+            "length": "-",
+            "start_months_since_1900": 1416,
+            "end_months_since_1900": 1416,
+            "length_in_months": -1
+        },
+        {
+            "name": "Ryan Thomas",
+            "href": "https://www.whosdatedwho.com/dating/ryan-thomas",
+            "relationship_type": 2,
+            "start_date": "2014",
+            "end_date": "Nov 2014",
+            "length": "10 months",
+            "start_months_since_1900": 1368,
+            "end_months_since_1900": 1378,
+            "length_in_months": 10
+        },
+        {
+            "name": "Joe Selkirk",
+            "href": "https://www.whosdatedwho.com/dating/joe-selkirk",
+            "relationship_type": 2,
+            "start_date": "2013",
+            "end_date": "2014",
+            "length": "1 year",
+            "start_months_since_1900": 1356,
+            "end_months_since_1900": 1368,
+            "length_in_months": 12
+        },
+        {
+            "name": "Prateik Patil Babbar",
+            "href": "https://www.whosdatedwho.com/dating/prateik",
+            "relationship_type": 2,
+            "start_date": "2011",
+            "end_date": "2012",
+            "length": "1 year",
+            "start_months_since_1900": 1332,
+            "end_months_since_1900": 1344,
+            "length_in_months": 12
+        }
+    ],
+    "details": {
+        "First Name": "Amy",
+        "Middle Name": "Louise",
+        "Last Name": "Jackson",
+        "Maiden Name": "NA",
+        "Full Name at Birth": "Amy Louise Jackson",
+        "Alternative Name": "Amy, Amy Louise Jackson, Amy Jackson",
+        "Birthday": "1991",
+        "Birthplace": "United Kingdom",
+        "Height": "170",
+        "Weight": "110lbs (50 kg)",
+        "Zodiac Sign": "9",
+        "Sexuality": "Straight",
+        "Religion": "13",
+        "Ethnicity": "6",
+        "Nationality": "8",
+        "Occupation": "8"
+    }
+}

@@ -1,0 +1,55 @@
+{
+    "relationships": [
+        {
+            "name": "Scott Baio",
+            "href": "https://www.whosdatedwho.com/dating/scott-baio",
+            "relationship_type": 2,
+            "start_date": "1986",
+            "end_date": "1992",
+            "length": "6 years",
+            "start_months_since_1900": 1032,
+            "end_months_since_1900": 1104,
+            "length_in_months": 72
+        },
+        {
+            "name": "David Cassidy",
+            "href": "https://www.whosdatedwho.com/dating/david-cassidy",
+            "relationship_type": 4,
+            "start_date": "1975",
+            "end_date": "1981",
+            "length": "6 years",
+            "start_months_since_1900": 900,
+            "end_months_since_1900": 972,
+            "length_in_months": 72
+        },
+        {
+            "name": "JD Souther",
+            "href": "https://www.whosdatedwho.com/dating/jd-souther",
+            "relationship_type": 2,
+            "start_date": "1974",
+            "end_date": "1974",
+            "length": "-",
+            "start_months_since_1900": 888,
+            "end_months_since_1900": 888,
+            "length_in_months": -1
+        }
+    ],
+    "details": {
+        "First Name": "Kay",
+        "Middle Name": "NA",
+        "Last Name": "Lenz",
+        "Maiden Name": "NA",
+        "Full Name at Birth": "Kay Ann Lenz",
+        "Alternative Name": "NA",
+        "Birthday": "1953",
+        "Birthplace": "USA",
+        "Height": "155",
+        "Weight": "NA",
+        "Zodiac Sign": "1",
+        "Sexuality": "Straight",
+        "Religion": "1",
+        "Ethnicity": "6",
+        "Nationality": "91",
+        "Occupation": "8"
+    }
+}

@@ -1,0 +1,33 @@
+{
+    "relationships": [
+        {
+            "name": "Gregg Allman",
+            "href": "https://www.whosdatedwho.com/dating/gregg-allman",
+            "relationship_type": 3,
+            "start_date": "1974",
+            "end_date": "1975",
+            "length": "1 year",
+            "start_months_since_1900": 888,
+            "end_months_since_1900": 900,
+            "length_in_months": 12
+        }
+    ],
+    "details": {
+        "First Name": "Laura",
+        "Middle Name": "NA",
+        "Last Name": "Simon",
+        "Maiden Name": "NA",
+        "Full Name at Birth": "NA",
+        "Alternative Name": "NA",
+        "Birthday": "NA",
+        "Birthplace": "Ga.",
+        "Height": "NA",
+        "Weight": "NA",
+        "Zodiac Sign": "2",
+        "Sexuality": "NA",
+        "Religion": "1",
+        "Ethnicity": "1",
+        "Nationality": "65",
+        "Occupation": "19"
+    }
+}

@@ -1,0 +1,44 @@
+{
+    "relationships": [
+        {
+            "name": "Brian",
+            "href": "https://www.whosdatedwho.com/dating/brian",
+            "relationship_type": 4,
+            "start_date": "Oct 2011",
+            "end_date": "present",
+            "length": "12 years",
+            "start_months_since_1900": 1341,
+            "end_months_since_1900": -1,
+            "length_in_months": 144
+        },
+        {
+            "name": "Reggie Bush",
+            "href": "https://www.whosdatedwho.com/dating/reggie-bush",
+            "relationship_type": 2,
+            "start_date": "May 2011",
+            "end_date": "Sep 2011",
+            "length": "4 months",
+            "start_months_since_1900": 1336,
+            "end_months_since_1900": 1340,
+            "length_in_months": 4
+        }
+    ],
+    "details": {
+        "First Name": "Melissa",
+        "Middle Name": "Ann",
+        "Last Name": "Molinaro",
+        "Maiden Name": "NA",
+        "Full Name at Birth": "Melissa Ann Smith",
+        "Alternative Name": "Melissa S., Meliss, Mimi, Issa, Melissa Ann Smith, Melissa Molinaro",
+        "Birthday": "1982",
+        "Birthplace": "Ontario Canada",
+        "Height": "157",
+        "Weight": "NA",
+        "Zodiac Sign": "4",
+        "Sexuality": "Straight",
+        "Religion": "31",
+        "Ethnicity": "6",
+        "Nationality": "90",
+        "Occupation": "11"
+    }
+}

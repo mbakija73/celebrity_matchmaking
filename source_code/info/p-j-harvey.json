@@ -1,0 +1,77 @@
+{
+    "relationships": [
+        {
+            "name": "Josh Klinghoffer",
+            "href": "https://www.whosdatedwho.com/dating/josh-klinghoffer",
+            "relationship_type": 2,
+            "start_date": "2004",
+            "end_date": "2005",
+            "length": "1 year",
+            "start_months_since_1900": 1248,
+            "end_months_since_1900": 1260,
+            "length_in_months": 12
+        },
+        {
+            "name": "Josh Homme",
+            "href": "https://www.whosdatedwho.com/dating/joshua-homme",
+            "relationship_type": 2,
+            "start_date": "2003",
+            "end_date": "2003",
+            "length": "-",
+            "start_months_since_1900": 1236,
+            "end_months_since_1900": 1236,
+            "length_in_months": -1
+        },
+        {
+            "name": "Nick Cave",
+            "href": "https://www.whosdatedwho.com/dating/nick-cave",
+            "relationship_type": 2,
+            "start_date": "1996",
+            "end_date": "1997",
+            "length": "1 year",
+            "start_months_since_1900": 1152,
+            "end_months_since_1900": 1164,
+            "length_in_months": 12
+        },
+        {
+            "name": "Joe Dilworth",
+            "href": "https://www.whosdatedwho.com/dating/joe-dilworth",
+            "relationship_type": 2,
+            "start_date": "1990",
+            "end_date": "1992",
+            "length": "2 years",
+            "start_months_since_1900": 1080,
+            "end_months_since_1900": 1104,
+            "length_in_months": 24
+        },
+        {
+            "name": "Vincent Gallo",
+            "href": "https://www.whosdatedwho.com/dating/vincent-gallo",
+            "relationship_type": 1,
+            "start_date": "",
+            "end_date": "",
+            "length": "-",
+            "start_months_since_1900": -1,
+            "end_months_since_1900": -1,
+            "length_in_months": -1
+        }
+    ],
+    "details": {
+        "First Name": "P.J.",
+        "Middle Name": "NA",
+        "Last Name": "Harvey",
+        "Maiden Name": "NA",
+        "Full Name at Birth": "Polly Jean Harvey",
+        "Alternative Name": "Polly Harvey, PJ Harvey",
+        "Birthday": "1969",
+        "Birthplace": "UK",
+        "Height": "163",
+        "Weight": "121lbs (55 kg)",
+        "Zodiac Sign": "10",
+        "Sexuality": "Straight",
+        "Religion": "1",
+        "Ethnicity": "6",
+        "Nationality": "8",
+        "Occupation": "1"
+    }
+}

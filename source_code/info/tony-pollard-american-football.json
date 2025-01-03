@@ -1,0 +1,33 @@
+{
+    "relationships": [
+        {
+            "name": "Summer Bunni",
+            "href": "https://www.whosdatedwho.com/dating/summer-bunni",
+            "relationship_type": 3,
+            "start_date": "Mar 2020",
+            "end_date": "Jun 2020",
+            "length": "3 months",
+            "start_months_since_1900": 1442,
+            "end_months_since_1900": 1445,
+            "length_in_months": 3
+        }
+    ],
+    "details": {
+        "First Name": "Tony",
+        "Middle Name": "NA",
+        "Last Name": "Pollard",
+        "Maiden Name": "NA",
+        "Full Name at Birth": "Tony Pollard",
+        "Alternative Name": "Tony Pollard",
+        "Birthday": "1997",
+        "Birthplace": "USA",
+        "Height": "183",
+        "Weight": "208lbs (94 kg)",
+        "Zodiac Sign": "3",
+        "Sexuality": "NA",
+        "Religion": "1",
+        "Ethnicity": "1",
+        "Nationality": "91",
+        "Occupation": "2"
+    }
+}

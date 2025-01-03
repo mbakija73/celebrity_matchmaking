@@ -1,0 +1,55 @@
+{
+    "relationships": [
+        {
+            "name": "Jani Lane",
+            "href": "https://www.whosdatedwho.com/dating/jani-lane",
+            "relationship_type": 3,
+            "start_date": "2008",
+            "end_date": "2008",
+            "length": "-",
+            "start_months_since_1900": 1296,
+            "end_months_since_1900": 1296,
+            "length_in_months": -1
+        },
+        {
+            "name": "David Sutcliffe",
+            "href": "https://www.whosdatedwho.com/dating/david-sutcliffe",
+            "relationship_type": 4,
+            "start_date": "Nov 2000",
+            "end_date": "Dec 2003",
+            "length": "3 years",
+            "start_months_since_1900": 1210,
+            "end_months_since_1900": 1247,
+            "length_in_months": 36
+        },
+        {
+            "name": "Scott Baio",
+            "href": "https://www.whosdatedwho.com/dating/scott-baio",
+            "relationship_type": 3,
+            "start_date": "1987",
+            "end_date": "1987",
+            "length": "-",
+            "start_months_since_1900": 1044,
+            "end_months_since_1900": 1044,
+            "length_in_months": -1
+        }
+    ],
+    "details": {
+        "First Name": "Julie",
+        "Middle Name": "Michelle",
+        "Last Name": "McCullough",
+        "Maiden Name": "NA",
+        "Full Name at Birth": "Julie Michelle McCullough",
+        "Alternative Name": "Miss February 1986, Julie McCullough",
+        "Birthday": "1965",
+        "Birthplace": "USA",
+        "Height": "170",
+        "Weight": "115lbs (52 kg)",
+        "Zodiac Sign": "9",
+        "Sexuality": "Straight",
+        "Religion": "13",
+        "Ethnicity": "6",
+        "Nationality": "91",
+        "Occupation": "16"
+    }
+}

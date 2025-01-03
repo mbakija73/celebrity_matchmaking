@@ -1,0 +1,110 @@
+{
+    "relationships": [
+        {
+            "name": "Andrew Peacock",
+            "href": "https://www.whosdatedwho.com/dating/andrew-peacock",
+            "relationship_type": 2,
+            "start_date": "1980",
+            "end_date": "1995",
+            "length": "15 years",
+            "start_months_since_1900": 960,
+            "end_months_since_1900": 1140,
+            "length_in_months": 180
+        },
+        {
+            "name": "Andrey Konchalovskiy",
+            "href": "https://www.whosdatedwho.com/dating/andrey-konchalovskiy",
+            "relationship_type": 2,
+            "start_date": "1980",
+            "end_date": "1983",
+            "length": "3 years",
+            "start_months_since_1900": 960,
+            "end_months_since_1900": 996,
+            "length_in_months": 36
+        },
+        {
+            "name": "Pete Hamill",
+            "href": "https://www.whosdatedwho.com/dating/pete-hamill",
+            "relationship_type": 2,
+            "start_date": "1972",
+            "end_date": "1974",
+            "length": "2 years",
+            "start_months_since_1900": 864,
+            "end_months_since_1900": 888,
+            "length_in_months": 24
+        },
+        {
+            "name": "Robert Mitchum",
+            "href": "https://www.whosdatedwho.com/dating/robert-mitchum",
+            "relationship_type": 2,
+            "start_date": "1962",
+            "end_date": "1964",
+            "length": "2 years",
+            "start_months_since_1900": 744,
+            "end_months_since_1900": 768,
+            "length_in_months": 24
+        },
+        {
+            "name": "Frank Sinatra",
+            "href": "https://www.whosdatedwho.com/dating/frank-sinatra",
+            "relationship_type": 3,
+            "start_date": "1962",
+            "end_date": "1962",
+            "length": "-",
+            "start_months_since_1900": 744,
+            "end_months_since_1900": 744,
+            "length_in_months": -1
+        },
+        {
+            "name": "Kevin McClory",
+            "href": "https://www.whosdatedwho.com/dating/kevin-mcclory",
+            "relationship_type": 2,
+            "start_date": "1957",
+            "end_date": "1957",
+            "length": "-",
+            "start_months_since_1900": 684,
+            "end_months_since_1900": 684,
+            "length_in_months": -1
+        },
+        {
+            "name": "Steve Parker",
+            "href": "https://www.whosdatedwho.com/dating/steve-parker",
+            "relationship_type": 4,
+            "start_date": "Jan 1954",
+            "end_date": "Dec 1982",
+            "length": "28 years",
+            "start_months_since_1900": 648,
+            "end_months_since_1900": 995,
+            "length_in_months": 336
+        },
+        {
+            "name": "Danny Kaye",
+            "href": "https://www.whosdatedwho.com/dating/danny-kaye",
+            "relationship_type": 2,
+            "start_date": "",
+            "end_date": "",
+            "length": "-",
+            "start_months_since_1900": -1,
+            "end_months_since_1900": -1,
+            "length_in_months": -1
+        }
+    ],
+    "details": {
+        "First Name": "Shirley",
+        "Middle Name": "NA",
+        "Last Name": "Maclaine",
+        "Maiden Name": "Beaty",
+        "Full Name at Birth": "Shirley MacLane Beaty",
+        "Alternative Name": "Shirley MacLaine, Shirley MacLean Beaty, Shirley McLaine",
+        "Birthday": "1934",
+        "Birthplace": "USA",
+        "Height": "170",
+        "Weight": "121lbs (55 kg)",
+        "Zodiac Sign": "3",
+        "Sexuality": "Straight",
+        "Religion": "19",
+        "Ethnicity": "6",
+        "Nationality": "91",
+        "Occupation": "8"
+    }
+}

@@ -1,0 +1,55 @@
+{
+    "relationships": [
+        {
+            "name": "Mark Rossini",
+            "href": "https://www.whosdatedwho.com/dating/mark-rossini",
+            "relationship_type": 2,
+            "start_date": "2007",
+            "end_date": "2008",
+            "length": "1 year",
+            "start_months_since_1900": 1284,
+            "end_months_since_1900": 1296,
+            "length_in_months": 12
+        },
+        {
+            "name": "Jayson Ward Williams",
+            "href": "https://www.whosdatedwho.com/dating/jayson-williams",
+            "relationship_type": 3,
+            "start_date": "1997",
+            "end_date": "2000",
+            "length": "3 years",
+            "start_months_since_1900": 1164,
+            "end_months_since_1900": 1200,
+            "length_in_months": 36
+        },
+        {
+            "name": "John Byrum",
+            "href": "https://www.whosdatedwho.com/dating/john-byrum",
+            "relationship_type": 4,
+            "start_date": "1988",
+            "end_date": "1993",
+            "length": "5 years",
+            "start_months_since_1900": 1056,
+            "end_months_since_1900": 1116,
+            "length_in_months": 60
+        }
+    ],
+    "details": {
+        "First Name": "Linda",
+        "Middle Name": "NA",
+        "Last Name": "NA",
+        "Maiden Name": "Fiorentino",
+        "Full Name at Birth": "Clorinda Fiorentino",
+        "Alternative Name": "NA",
+        "Birthday": "1958",
+        "Birthplace": "USA",
+        "Height": "178",
+        "Weight": "150lbs (68 kg)",
+        "Zodiac Sign": "1",
+        "Sexuality": "Straight",
+        "Religion": "13",
+        "Ethnicity": "6",
+        "Nationality": "91",
+        "Occupation": "8"
+    }
+}

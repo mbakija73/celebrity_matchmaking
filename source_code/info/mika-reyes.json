@@ -1,0 +1,44 @@
+{
+    "relationships": [
+        {
+            "name": "Mark Alcala",
+            "href": "https://www.whosdatedwho.com/dating/mark-alcala",
+            "relationship_type": 2,
+            "start_date": "2023",
+            "end_date": "present",
+            "length": "1 year",
+            "start_months_since_1900": 1476,
+            "end_months_since_1900": -1,
+            "length_in_months": 12
+        },
+        {
+            "name": "Jerome Ponce",
+            "href": "https://www.whosdatedwho.com/dating/jerome-ponce",
+            "relationship_type": 2,
+            "start_date": "2016",
+            "end_date": "Oct 2020",
+            "length": "4 years",
+            "start_months_since_1900": 1392,
+            "end_months_since_1900": 1449,
+            "length_in_months": 48
+        }
+    ],
+    "details": {
+        "First Name": "Mika Aereen",
+        "Middle Name": "Marcali\u00f1as",
+        "Last Name": "Reyes",
+        "Maiden Name": "NA",
+        "Full Name at Birth": "Mika Aereen Marcali\u00f1as Reyes",
+        "Alternative Name": "NA",
+        "Birthday": "1994",
+        "Birthplace": "NA",
+        "Height": "180",
+        "Weight": "130lbs (59 kg)",
+        "Zodiac Sign": "4",
+        "Sexuality": "NA",
+        "Religion": "1",
+        "Ethnicity": "1",
+        "Nationality": "16",
+        "Occupation": "2"
+    }
+}

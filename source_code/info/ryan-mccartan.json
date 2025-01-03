@@ -1,0 +1,44 @@
+{
+    "relationships": [
+        {
+            "name": "Samantha Fekete",
+            "href": "https://www.whosdatedwho.com/dating/samantha-fekete",
+            "relationship_type": 2,
+            "start_date": "Sep 2017",
+            "end_date": "Sep 2023",
+            "length": "6 years",
+            "start_months_since_1900": 1412,
+            "end_months_since_1900": 1484,
+            "length_in_months": 72
+        },
+        {
+            "name": "Dove Cameron",
+            "href": "https://www.whosdatedwho.com/dating/dove-cameron",
+            "relationship_type": 2,
+            "start_date": "6th Aug 2013",
+            "end_date": "Oct 2016",
+            "length": "3 years",
+            "start_months_since_1900": 1363,
+            "end_months_since_1900": 1401,
+            "length_in_months": 36
+        }
+    ],
+    "details": {
+        "First Name": "Ryan",
+        "Middle Name": "Jerome",
+        "Last Name": "McCartan",
+        "Maiden Name": "NA",
+        "Full Name at Birth": "Ryan Jerome McCartan",
+        "Alternative Name": "NA",
+        "Birthday": "1993",
+        "Birthplace": "USA",
+        "Height": "185",
+        "Weight": "NA",
+        "Zodiac Sign": "4",
+        "Sexuality": "NA",
+        "Religion": "1",
+        "Ethnicity": "6",
+        "Nationality": "91",
+        "Occupation": "8"
+    }
+}

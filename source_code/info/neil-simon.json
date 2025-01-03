@@ -1,0 +1,66 @@
+{
+    "relationships": [
+        {
+            "name": "Elaine Joyce",
+            "href": "https://www.whosdatedwho.com/dating/elaine-joyce",
+            "relationship_type": 4,
+            "start_date": "1998",
+            "end_date": "26th Aug 2018",
+            "length": "20 years",
+            "start_months_since_1900": 1176,
+            "end_months_since_1900": 1423,
+            "length_in_months": 240
+        },
+        {
+            "name": "Diane Lander",
+            "href": "https://www.whosdatedwho.com/dating/diane-lander",
+            "relationship_type": 4,
+            "start_date": "1985",
+            "end_date": "12th Apr 1998",
+            "length": "13 years",
+            "start_months_since_1900": 1020,
+            "end_months_since_1900": 1179,
+            "length_in_months": 156
+        },
+        {
+            "name": "Marsha Mason",
+            "href": "https://www.whosdatedwho.com/dating/marsha-mason",
+            "relationship_type": 4,
+            "start_date": "1st Oct 1973",
+            "end_date": "7th Jul 1983",
+            "length": "9 years",
+            "start_months_since_1900": 885,
+            "end_months_since_1900": 1002,
+            "length_in_months": 108
+        },
+        {
+            "name": "Joan Baim",
+            "href": "https://www.whosdatedwho.com/dating/joan-baim",
+            "relationship_type": 4,
+            "start_date": "1951",
+            "end_date": "17th Jul 1973",
+            "length": "22 years",
+            "start_months_since_1900": 612,
+            "end_months_since_1900": 882,
+            "length_in_months": 264
+        }
+    ],
+    "details": {
+        "First Name": "Marvin",
+        "Middle Name": "Neil",
+        "Last Name": "Simon",
+        "Maiden Name": "NA",
+        "Full Name at Birth": "Marvin Neil Simon",
+        "Alternative Name": "Doc Simon",
+        "Birthday": "1927",
+        "Birthplace": "USA",
+        "Height": "187",
+        "Weight": "NA",
+        "Zodiac Sign": "8",
+        "Sexuality": "Straight",
+        "Religion": "31",
+        "Ethnicity": "6",
+        "Nationality": "91",
+        "Occupation": "3"
+    }
+}

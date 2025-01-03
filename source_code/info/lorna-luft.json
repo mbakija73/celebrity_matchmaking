@@ -1,0 +1,66 @@
+{
+    "relationships": [
+        {
+            "name": "Colin Freeman",
+            "href": "https://www.whosdatedwho.com/dating/colin-freeman",
+            "relationship_type": 4,
+            "start_date": "14th Dec 1995",
+            "end_date": "present",
+            "length": "28 years",
+            "start_months_since_1900": 1151,
+            "end_months_since_1900": -1,
+            "length_in_months": 336
+        },
+        {
+            "name": "Jake Hooker",
+            "href": "https://www.whosdatedwho.com/dating/jake-hooker",
+            "relationship_type": 4,
+            "start_date": "Feb 1977",
+            "end_date": "1993",
+            "length": "15 years",
+            "start_months_since_1900": 925,
+            "end_months_since_1900": 1116,
+            "length_in_months": 180
+        },
+        {
+            "name": "Burt Reynolds",
+            "href": "https://www.whosdatedwho.com/dating/burt-reynolds",
+            "relationship_type": 2,
+            "start_date": "1974",
+            "end_date": "1975",
+            "length": "1 year",
+            "start_months_since_1900": 888,
+            "end_months_since_1900": 900,
+            "length_in_months": 12
+        },
+        {
+            "name": "Barry Manilow",
+            "href": "https://www.whosdatedwho.com/dating/barry-manilow",
+            "relationship_type": 2,
+            "start_date": "1972",
+            "end_date": "1974",
+            "length": "2 years",
+            "start_months_since_1900": 864,
+            "end_months_since_1900": 888,
+            "length_in_months": 24
+        }
+    ],
+    "details": {
+        "First Name": "Lorna",
+        "Middle Name": "NA",
+        "Last Name": "Freeman",
+        "Maiden Name": "Luft",
+        "Full Name at Birth": "Lorna Luft",
+        "Alternative Name": "Lorna Luft",
+        "Birthday": "1952",
+        "Birthplace": "USA",
+        "Height": "163",
+        "Weight": "NA",
+        "Zodiac Sign": "5",
+        "Sexuality": "Straight",
+        "Religion": "37",
+        "Ethnicity": "6",
+        "Nationality": "91",
+        "Occupation": "8"
+    }
+}

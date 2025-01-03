@@ -1,0 +1,66 @@
+{
+    "relationships": [
+        {
+            "name": "James Woods",
+            "href": "https://www.whosdatedwho.com/dating/james-woods",
+            "relationship_type": 2,
+            "start_date": "May 1990",
+            "end_date": "Aug 1990",
+            "length": "3 months",
+            "start_months_since_1900": 1084,
+            "end_months_since_1900": 1087,
+            "length_in_months": 3
+        },
+        {
+            "name": "Joey Tempest",
+            "href": "https://www.whosdatedwho.com/dating/joey-tempest",
+            "relationship_type": 2,
+            "start_date": "1986",
+            "end_date": "1992",
+            "length": "6 years",
+            "start_months_since_1900": 1032,
+            "end_months_since_1900": 1104,
+            "length_in_months": 72
+        },
+        {
+            "name": "Robin Zander",
+            "href": "https://www.whosdatedwho.com/dating/robin-zander",
+            "relationship_type": 1,
+            "start_date": "",
+            "end_date": "",
+            "length": "-",
+            "start_months_since_1900": -1,
+            "end_months_since_1900": -1,
+            "length_in_months": -1
+        },
+        {
+            "name": "Chris Melchert",
+            "href": "https://www.whosdatedwho.com/dating/chris-melchert",
+            "relationship_type": 2,
+            "start_date": "",
+            "end_date": "",
+            "length": "-",
+            "start_months_since_1900": -1,
+            "end_months_since_1900": -1,
+            "length_in_months": -1
+        }
+    ],
+    "details": {
+        "First Name": "Elizabeth",
+        "Middle Name": "Ann",
+        "Last Name": "NA",
+        "Maiden Name": "Hilden",
+        "Full Name at Birth": "Elizabeth Ann Hilden",
+        "Alternative Name": "Elizabeth Ann Hilden, Elizabeth Hilden, Liz Hilden",
+        "Birthday": "1973",
+        "Birthplace": "USA",
+        "Height": "168",
+        "Weight": "110lbs (50 kg)",
+        "Zodiac Sign": "5",
+        "Sexuality": "Straight",
+        "Religion": "1",
+        "Ethnicity": "6",
+        "Nationality": "91",
+        "Occupation": "16"
+    }
+}

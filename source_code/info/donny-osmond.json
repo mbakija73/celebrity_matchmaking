@@ -1,0 +1,44 @@
+{
+    "relationships": [
+        {
+            "name": "Debbie Osmond",
+            "href": "https://www.whosdatedwho.com/dating/debbie-osmond",
+            "relationship_type": 4,
+            "start_date": "8th May 1978",
+            "end_date": "present",
+            "length": "46 years",
+            "start_months_since_1900": 940,
+            "end_months_since_1900": -1,
+            "length_in_months": 552
+        },
+        {
+            "name": "Stephanie La Motta",
+            "href": "https://www.whosdatedwho.com/dating/stephanie-la-motta",
+            "relationship_type": 2,
+            "start_date": "1976",
+            "end_date": "1977",
+            "length": "1 year",
+            "start_months_since_1900": 912,
+            "end_months_since_1900": 924,
+            "length_in_months": 12
+        }
+    ],
+    "details": {
+        "First Name": "Donny",
+        "Middle Name": "Clark",
+        "Last Name": "Osmond",
+        "Maiden Name": "NA",
+        "Full Name at Birth": "Donald Clark Osmond",
+        "Alternative Name": "NA",
+        "Birthday": "1957",
+        "Birthplace": "Utah",
+        "Height": "172",
+        "Weight": "NA",
+        "Zodiac Sign": "6",
+        "Sexuality": "Straight",
+        "Religion": "20",
+        "Ethnicity": "6",
+        "Nationality": "91",
+        "Occupation": "1"
+    }
+}

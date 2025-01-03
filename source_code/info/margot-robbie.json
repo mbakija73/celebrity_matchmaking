@@ -1,0 +1,55 @@
+{
+    "relationships": [
+        {
+            "name": "Tom Ackerley",
+            "href": "https://www.whosdatedwho.com/dating/tom-ackerley",
+            "relationship_type": 4,
+            "start_date": "Jun 2014",
+            "end_date": "present",
+            "length": "10 years",
+            "start_months_since_1900": 1373,
+            "end_months_since_1900": -1,
+            "length_in_months": 120
+        },
+        {
+            "name": "Henry Aitken",
+            "href": "https://www.whosdatedwho.com/dating/henry-aitken",
+            "relationship_type": 2,
+            "start_date": "Feb 2014",
+            "end_date": "Feb 2014",
+            "length": "-",
+            "start_months_since_1900": 1369,
+            "end_months_since_1900": 1369,
+            "length_in_months": -1
+        },
+        {
+            "name": "Will Smith",
+            "href": "https://www.whosdatedwho.com/dating/will-smith",
+            "relationship_type": 3,
+            "start_date": "2013",
+            "end_date": "2013",
+            "length": "-",
+            "start_months_since_1900": 1356,
+            "end_months_since_1900": 1356,
+            "length_in_months": -1
+        }
+    ],
+    "details": {
+        "First Name": "Margot",
+        "Middle Name": "Elise",
+        "Last Name": "Robbie",
+        "Maiden Name": "NA",
+        "Full Name at Birth": "Margot Elise Robbie",
+        "Alternative Name": "Margot Elise Robbie, Margot Robbie",
+        "Birthday": "1990",
+        "Birthplace": "Australia",
+        "Height": "168",
+        "Weight": "126lbs (57 kg)",
+        "Zodiac Sign": "8",
+        "Sexuality": "Straight",
+        "Religion": "18",
+        "Ethnicity": "6",
+        "Nationality": "135",
+        "Occupation": "8"
+    }
+}

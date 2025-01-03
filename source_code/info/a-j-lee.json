@@ -1,0 +1,77 @@
+{
+    "relationships": [
+        {
+            "name": "Phil Brooks",
+            "href": "https://www.whosdatedwho.com/dating/c-m-punk",
+            "relationship_type": 4,
+            "start_date": "Sep 2013",
+            "end_date": "",
+            "length": "-",
+            "start_months_since_1900": 1364,
+            "end_months_since_1900": -1,
+            "length_in_months": -1
+        },
+        {
+            "name": "John Cena",
+            "href": "https://www.whosdatedwho.com/dating/john-cena",
+            "relationship_type": 1,
+            "start_date": "Jul 2012",
+            "end_date": "Nov 2012",
+            "length": "4 months",
+            "start_months_since_1900": 1350,
+            "end_months_since_1900": 1354,
+            "length_in_months": 4
+        },
+        {
+            "name": "Bryan Danielson",
+            "href": "https://www.whosdatedwho.com/dating/bryan-danielson",
+            "relationship_type": 1,
+            "start_date": "Nov 2011",
+            "end_date": "Apr 2012",
+            "length": "5 months",
+            "start_months_since_1900": 1342,
+            "end_months_since_1900": 1347,
+            "length_in_months": 5
+        },
+        {
+            "name": "Greg Marasciulo",
+            "href": "https://www.whosdatedwho.com/dating/trent-barreta",
+            "relationship_type": 2,
+            "start_date": "2011",
+            "end_date": "2012",
+            "length": "1 year",
+            "start_months_since_1900": 1332,
+            "end_months_since_1900": 1344,
+            "length_in_months": 12
+        },
+        {
+            "name": "Jamar Shipman",
+            "href": "https://www.whosdatedwho.com/dating/jamar-shipman",
+            "relationship_type": 2,
+            "start_date": "2007",
+            "end_date": "2010",
+            "length": "3 years",
+            "start_months_since_1900": 1284,
+            "end_months_since_1900": 1320,
+            "length_in_months": 36
+        }
+    ],
+    "details": {
+        "First Name": "April",
+        "Middle Name": "Jeanette",
+        "Last Name": "Mendez",
+        "Maiden Name": "NA",
+        "Full Name at Birth": "April Jeanette Mendez",
+        "Alternative Name": "Aj, AJ Lee, April Lee, Miss April, Geek Goddess, Crazy Chick, April Jeanette Mendez",
+        "Birthday": "1987",
+        "Birthplace": "USA",
+        "Height": "157",
+        "Weight": "120lbs (54 kg)",
+        "Zodiac Sign": "1",
+        "Sexuality": "Straight",
+        "Religion": "13",
+        "Ethnicity": "8",
+        "Nationality": "91",
+        "Occupation": "2"
+    }
+}

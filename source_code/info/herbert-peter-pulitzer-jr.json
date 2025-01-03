@@ -1,0 +1,44 @@
+{
+    "relationships": [
+        {
+            "name": "Roxanne Pulitzer",
+            "href": "https://www.whosdatedwho.com/dating/roxanne-pulitzer",
+            "relationship_type": 4,
+            "start_date": "1975",
+            "end_date": "1983",
+            "length": "8 years",
+            "start_months_since_1900": 900,
+            "end_months_since_1900": 996,
+            "length_in_months": 96
+        },
+        {
+            "name": "Lilly Pulitzer",
+            "href": "https://www.whosdatedwho.com/dating/lilly-pulitzer",
+            "relationship_type": 4,
+            "start_date": "1950",
+            "end_date": "1969",
+            "length": "19 years",
+            "start_months_since_1900": 600,
+            "end_months_since_1900": 828,
+            "length_in_months": 228
+        }
+    ],
+    "details": {
+        "First Name": "Herbert",
+        "Middle Name": "\u201cPeter\u201d",
+        "Last Name": "Pulitzer Jr",
+        "Maiden Name": "NA",
+        "Full Name at Birth": "NA",
+        "Alternative Name": "Peter Pulitzer",
+        "Birthday": "NA",
+        "Birthplace": "NA",
+        "Height": "NA",
+        "Weight": "NA",
+        "Zodiac Sign": "2",
+        "Sexuality": "Straight",
+        "Religion": "1",
+        "Ethnicity": "6",
+        "Nationality": "65",
+        "Occupation": "19"
+    }
+}

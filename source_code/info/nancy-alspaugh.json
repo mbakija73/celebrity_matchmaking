@@ -1,0 +1,44 @@
+{
+    "relationships": [
+        {
+            "name": "Matt Lauer",
+            "href": "https://www.whosdatedwho.com/dating/matt-lauer",
+            "relationship_type": 4,
+            "start_date": "1981",
+            "end_date": "1989",
+            "length": "8 years",
+            "start_months_since_1900": 972,
+            "end_months_since_1900": 1068,
+            "length_in_months": 96
+        },
+        {
+            "name": "H. Read Jackson",
+            "href": "https://www.whosdatedwho.com/dating/h-read-jackson",
+            "relationship_type": 4,
+            "start_date": "",
+            "end_date": "",
+            "length": "-",
+            "start_months_since_1900": -1,
+            "end_months_since_1900": -1,
+            "length_in_months": -1
+        }
+    ],
+    "details": {
+        "First Name": "Nancy",
+        "Middle Name": "NA",
+        "Last Name": "NA",
+        "Maiden Name": "Alspaugh",
+        "Full Name at Birth": "Nancy Alspaugh",
+        "Alternative Name": "Nancy Alspaugh Jackson",
+        "Birthday": "1955",
+        "Birthplace": "USA",
+        "Height": "168",
+        "Weight": "143lbs (65 kg)",
+        "Zodiac Sign": "3",
+        "Sexuality": "Straight",
+        "Religion": "18",
+        "Ethnicity": "6",
+        "Nationality": "91",
+        "Occupation": "3"
+    }
+}

@@ -1,0 +1,88 @@
+{
+    "relationships": [
+        {
+            "name": "Mary Ambrose",
+            "href": "https://www.whosdatedwho.com/dating/mary-ambrose",
+            "relationship_type": 2,
+            "start_date": "2000",
+            "end_date": "2003",
+            "length": "3 years",
+            "start_months_since_1900": 1200,
+            "end_months_since_1900": 1236,
+            "length_in_months": 36
+        },
+        {
+            "name": "Geraldine Edwards",
+            "href": "https://www.whosdatedwho.com/dating/geraldine-edwards",
+            "relationship_type": 2,
+            "start_date": "1999",
+            "end_date": "Sep 2003",
+            "length": "4 years",
+            "start_months_since_1900": 1188,
+            "end_months_since_1900": 1244,
+            "length_in_months": 48
+        },
+        {
+            "name": "Susan Thatcher",
+            "href": "https://www.whosdatedwho.com/dating/susan-thatcher",
+            "relationship_type": 4,
+            "start_date": "1979",
+            "end_date": "1999",
+            "length": "20 years",
+            "start_months_since_1900": 948,
+            "end_months_since_1900": 1188,
+            "length_in_months": 240
+        },
+        {
+            "name": "Betty Davis",
+            "href": "https://www.whosdatedwho.com/dating/betty-davis",
+            "relationship_type": 3,
+            "start_date": "1975",
+            "end_date": "1975",
+            "length": "-",
+            "start_months_since_1900": 900,
+            "end_months_since_1900": 900,
+            "length_in_months": -1
+        },
+        {
+            "name": "Shelly Putman",
+            "href": "https://www.whosdatedwho.com/dating/shelly-putman",
+            "relationship_type": 4,
+            "start_date": "1971",
+            "end_date": "1978",
+            "length": "7 years",
+            "start_months_since_1900": 852,
+            "end_months_since_1900": 936,
+            "length_in_months": 84
+        },
+        {
+            "name": "Penny Lane",
+            "href": "https://www.whosdatedwho.com/dating/penny-lane",
+            "relationship_type": 1,
+            "start_date": "",
+            "end_date": "",
+            "length": "-",
+            "start_months_since_1900": -1,
+            "end_months_since_1900": -1,
+            "length_in_months": -1
+        }
+    ],
+    "details": {
+        "First Name": "Robert",
+        "Middle Name": "Allen",
+        "Last Name": "Palmer",
+        "Maiden Name": "NA",
+        "Full Name at Birth": "Robert Allen Palmer",
+        "Alternative Name": "NA",
+        "Birthday": "1949",
+        "Birthplace": "UK",
+        "Height": "175",
+        "Weight": "NA",
+        "Zodiac Sign": "13",
+        "Sexuality": "Straight",
+        "Religion": "1",
+        "Ethnicity": "6",
+        "Nationality": "98",
+        "Occupation": "2"
+    }
+}

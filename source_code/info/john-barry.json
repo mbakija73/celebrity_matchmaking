@@ -1,0 +1,88 @@
+{
+    "relationships": [
+        {
+            "name": "Laurie Barry",
+            "href": "https://www.whosdatedwho.com/dating/laurie-barry",
+            "relationship_type": 4,
+            "start_date": "1978",
+            "end_date": "",
+            "length": "-",
+            "start_months_since_1900": 936,
+            "end_months_since_1900": -1,
+            "length_in_months": -1
+        },
+        {
+            "name": "Jane Sidey",
+            "href": "https://www.whosdatedwho.com/dating/jane-sidey",
+            "relationship_type": 4,
+            "start_date": "1969",
+            "end_date": "1971",
+            "length": "2 years",
+            "start_months_since_1900": 828,
+            "end_months_since_1900": 852,
+            "length_in_months": 24
+        },
+        {
+            "name": "Jane Birkin",
+            "href": "https://www.whosdatedwho.com/dating/jane-birkin",
+            "relationship_type": 4,
+            "start_date": "1964",
+            "end_date": "1968",
+            "length": "4 years",
+            "start_months_since_1900": 768,
+            "end_months_since_1900": 816,
+            "length_in_months": 48
+        },
+        {
+            "name": "Shirley Bassey",
+            "href": "https://www.whosdatedwho.com/dating/shirley-bassey",
+            "relationship_type": 2,
+            "start_date": "1963",
+            "end_date": "1964",
+            "length": "1 year",
+            "start_months_since_1900": 756,
+            "end_months_since_1900": 768,
+            "length_in_months": 12
+        },
+        {
+            "name": "Barbara Pickard",
+            "href": "https://www.whosdatedwho.com/dating/barbara-pickard",
+            "relationship_type": 4,
+            "start_date": "1959",
+            "end_date": "1963",
+            "length": "4 years",
+            "start_months_since_1900": 708,
+            "end_months_since_1900": 756,
+            "length_in_months": 48
+        },
+        {
+            "name": "Priscilla Lane",
+            "href": "https://www.whosdatedwho.com/dating/priscilla-lane",
+            "relationship_type": 2,
+            "start_date": "Apr 1939",
+            "end_date": "Jan 1942",
+            "length": "2 years",
+            "start_months_since_1900": 471,
+            "end_months_since_1900": 504,
+            "length_in_months": 24
+        }
+    ],
+    "details": {
+        "First Name": "John",
+        "Middle Name": "NA",
+        "Last Name": "Barry",
+        "Maiden Name": "NA",
+        "Full Name at Birth": "John Barry Prendergast",
+        "Alternative Name": "NA",
+        "Birthday": "1933",
+        "Birthplace": "UK",
+        "Height": "178",
+        "Weight": "NA",
+        "Zodiac Sign": "5",
+        "Sexuality": "Straight",
+        "Religion": "1",
+        "Ethnicity": "6",
+        "Nationality": "8",
+        "Occupation": "1"
+    }
+}

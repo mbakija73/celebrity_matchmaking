@@ -1,0 +1,44 @@
+{
+    "relationships": [
+        {
+            "name": "Syd Barrett",
+            "href": "https://www.whosdatedwho.com/dating/syd-barrett",
+            "relationship_type": 2,
+            "start_date": "1961",
+            "end_date": "1964",
+            "length": "3 years",
+            "start_months_since_1900": 732,
+            "end_months_since_1900": 768,
+            "length_in_months": 36
+        },
+        {
+            "name": "Neil Chisman",
+            "href": "https://www.whosdatedwho.com/dating/neil-chisman",
+            "relationship_type": 4,
+            "start_date": "",
+            "end_date": "",
+            "length": "-",
+            "start_months_since_1900": -1,
+            "end_months_since_1900": -1,
+            "length_in_months": -1
+        }
+    ],
+    "details": {
+        "First Name": "Libby",
+        "Middle Name": "NA",
+        "Last Name": "Gausden-Chisman",
+        "Maiden Name": "NA",
+        "Full Name at Birth": "Elisabeth Gausden",
+        "Alternative Name": "NA",
+        "Birthday": "NA",
+        "Birthplace": "NA",
+        "Height": "163",
+        "Weight": "NA",
+        "Zodiac Sign": "2",
+        "Sexuality": "NA",
+        "Religion": "1",
+        "Ethnicity": "1",
+        "Nationality": "8",
+        "Occupation": "19"
+    }
+}

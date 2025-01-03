@@ -1,0 +1,44 @@
+{
+    "relationships": [
+        {
+            "name": "Bobby Darin",
+            "href": "https://www.whosdatedwho.com/dating/bobby-darin",
+            "relationship_type": 2,
+            "start_date": "Jun 1967",
+            "end_date": "1968",
+            "length": "7 months",
+            "start_months_since_1900": 809,
+            "end_months_since_1900": 816,
+            "length_in_months": 7
+        },
+        {
+            "name": "Huntington Hartford",
+            "href": "https://www.whosdatedwho.com/dating/huntington-hartford",
+            "relationship_type": 4,
+            "start_date": "1961",
+            "end_date": "Jul 1970",
+            "length": "9 years",
+            "start_months_since_1900": 732,
+            "end_months_since_1900": 846,
+            "length_in_months": 108
+        }
+    ],
+    "details": {
+        "First Name": "Diane",
+        "Middle Name": "NA",
+        "Last Name": "Brown",
+        "Maiden Name": "NA",
+        "Full Name at Birth": "NA",
+        "Alternative Name": "NA",
+        "Birthday": "NA",
+        "Birthplace": "NA",
+        "Height": "NA",
+        "Weight": "NA",
+        "Zodiac Sign": "2",
+        "Sexuality": "NA",
+        "Religion": "1",
+        "Ethnicity": "1",
+        "Nationality": "65",
+        "Occupation": "19"
+    }
+}

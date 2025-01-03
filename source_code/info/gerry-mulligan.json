@@ -1,0 +1,55 @@
+{
+    "relationships": [
+        {
+            "name": "Sandy Dennis",
+            "href": "https://www.whosdatedwho.com/dating/sandy-dennis",
+            "relationship_type": 2,
+            "start_date": "1965",
+            "end_date": "1974",
+            "length": "9 years",
+            "start_months_since_1900": 780,
+            "end_months_since_1900": 888,
+            "length_in_months": 108
+        },
+        {
+            "name": "Judy Holliday",
+            "href": "https://www.whosdatedwho.com/dating/judy-holliday",
+            "relationship_type": 2,
+            "start_date": "1958",
+            "end_date": "1965",
+            "length": "7 years",
+            "start_months_since_1900": 696,
+            "end_months_since_1900": 780,
+            "length_in_months": 84
+        },
+        {
+            "name": "Franca Rota",
+            "href": "https://www.whosdatedwho.com/dating/franca-rota",
+            "relationship_type": 4,
+            "start_date": "",
+            "end_date": "",
+            "length": "-",
+            "start_months_since_1900": -1,
+            "end_months_since_1900": -1,
+            "length_in_months": -1
+        }
+    ],
+    "details": {
+        "First Name": "Gerry",
+        "Middle Name": "NA",
+        "Last Name": "Mulligan",
+        "Maiden Name": "NA",
+        "Full Name at Birth": "Gerald Joseph Mulligan",
+        "Alternative Name": "Jeru",
+        "Birthday": "1927",
+        "Birthplace": "NY",
+        "Height": "NA",
+        "Weight": "NA",
+        "Zodiac Sign": "7",
+        "Sexuality": "Straight",
+        "Religion": "13",
+        "Ethnicity": "6",
+        "Nationality": "91",
+        "Occupation": "1"
+    }
+}

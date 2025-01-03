@@ -1,0 +1,44 @@
+{
+    "relationships": [
+        {
+            "name": "Thomas Brodie-Sangster",
+            "href": "https://www.whosdatedwho.com/dating/thomas-brodie-sangster",
+            "relationship_type": 4,
+            "start_date": "2021",
+            "end_date": "present",
+            "length": "3 years",
+            "start_months_since_1900": 1452,
+            "end_months_since_1900": -1,
+            "length_in_months": 36
+        },
+        {
+            "name": "Elon Musk",
+            "href": "https://www.whosdatedwho.com/dating/elon-musk",
+            "relationship_type": 4,
+            "start_date": "2008",
+            "end_date": "2016",
+            "length": "8 years",
+            "start_months_since_1900": 1296,
+            "end_months_since_1900": 1392,
+            "length_in_months": 96
+        }
+    ],
+    "details": {
+        "First Name": "Talulah",
+        "Middle Name": "Jane",
+        "Last Name": "Musk",
+        "Maiden Name": "Riley-Milburn",
+        "Full Name at Birth": "Talulah Jane Riley-Milburn",
+        "Alternative Name": "Talulah Riley Musk, Talulah Jane Riley-Milburn, Talulah Riley",
+        "Birthday": "1985",
+        "Birthplace": "UK",
+        "Height": "175",
+        "Weight": "126lbs (57 kg)",
+        "Zodiac Sign": "10",
+        "Sexuality": "Straight",
+        "Religion": "1",
+        "Ethnicity": "6",
+        "Nationality": "8",
+        "Occupation": "8"
+    }
+}

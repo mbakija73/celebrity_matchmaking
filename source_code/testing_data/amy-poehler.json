@@ -1,0 +1,54 @@
+{
+    "relationships": [
+        {
+            "name": "Joel Lovell",
+            "href": "https://www.whosdatedwho.com/dating/joel-lovell",
+            "relationship_type": "Relationship",
+            "start_date": "2024",
+            "end_date": "present",
+            "length": "9 months"
+        },
+        {
+            "name": "Nick Kroll",
+            "href": "https://www.whosdatedwho.com/dating/nick-kroll",
+            "relationship_type": "Relationship",
+            "start_date": "May 2013",
+            "end_date": "Sep 2015",
+            "length": "2 years"
+        },
+        {
+            "name": "John Stamos",
+            "href": "https://www.whosdatedwho.com/dating/john-stamos",
+            "relationship_type": "Encounter",
+            "start_date": "2012",
+            "end_date": "2012",
+            "length": "-"
+        },
+        {
+            "name": "Will Arnett",
+            "href": "https://www.whosdatedwho.com/dating/will-arnett",
+            "relationship_type": "Married",
+            "start_date": "2000",
+            "end_date": "2nd Aug 2016",
+            "length": "16 years"
+        }
+    ],
+    "details": {
+        "First Name": "Amy",
+        "Middle Name": "Meredith",
+        "Last Name": "Poehler",
+        "Maiden Name": "NA",
+        "Full Name at Birth": "Amy Meredith Poehler",
+        "Alternative Name": "Cool Cat Amy, Crazy Amy, Poehlercoaster",
+        "Birthday": "16th September, 1971",
+        "Birthplace": "Newton, Massachusetts, USA",
+        "Height": "5' 2\" (157 cm)",
+        "Weight": "119lbs (54 kg)",
+        "Zodiac Sign": "Virgo",
+        "Sexuality": "Straight",
+        "Religion": "Roman Catholic",
+        "Ethnicity": "White",
+        "Nationality": "American",
+        "Occupation": "Actress"
+    }
+}

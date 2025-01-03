@@ -1,0 +1,44 @@
+{
+    "relationships": [
+        {
+            "name": "Constance Smith",
+            "href": "https://www.whosdatedwho.com/dating/constance-smith",
+            "relationship_type": 2,
+            "start_date": "1961",
+            "end_date": "1962",
+            "length": "1 year",
+            "start_months_since_1900": 732,
+            "end_months_since_1900": 744,
+            "length_in_months": 12
+        },
+        {
+            "name": "Carl Mayer",
+            "href": "https://www.whosdatedwho.com/dating/carl-mayer",
+            "relationship_type": 1,
+            "start_date": "",
+            "end_date": "",
+            "length": "-",
+            "start_months_since_1900": -1,
+            "end_months_since_1900": -1,
+            "length_in_months": -1
+        }
+    ],
+    "details": {
+        "First Name": "Paul",
+        "Middle Name": "NA",
+        "Last Name": "Rotha",
+        "Maiden Name": "NA",
+        "Full Name at Birth": "Paul Thompson",
+        "Alternative Name": "NA",
+        "Birthday": "1907",
+        "Birthplace": "UK",
+        "Height": "NA",
+        "Weight": "NA",
+        "Zodiac Sign": "4",
+        "Sexuality": "Straight",
+        "Religion": "1",
+        "Ethnicity": "6",
+        "Nationality": "8",
+        "Occupation": "9"
+    }
+}

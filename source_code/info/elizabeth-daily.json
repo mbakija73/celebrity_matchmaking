@@ -1,0 +1,99 @@
+{
+    "relationships": [
+        {
+            "name": "John Kerwin",
+            "href": "https://www.whosdatedwho.com/dating/john-kerwin",
+            "relationship_type": 1,
+            "start_date": "Jul 2015",
+            "end_date": "Jul 2015",
+            "length": "-",
+            "start_months_since_1900": 1386,
+            "end_months_since_1900": 1386,
+            "length_in_months": -1
+        },
+        {
+            "name": "Scott Bairstow",
+            "href": "https://www.whosdatedwho.com/dating/scott-bairstow",
+            "relationship_type": 2,
+            "start_date": "2001",
+            "end_date": "2002",
+            "length": "1 year",
+            "start_months_since_1900": 1212,
+            "end_months_since_1900": 1224,
+            "length_in_months": 12
+        },
+        {
+            "name": "Rick Salomon",
+            "href": "https://www.whosdatedwho.com/dating/rick-salomon",
+            "relationship_type": 4,
+            "start_date": "1994",
+            "end_date": "17th Mar 2000",
+            "length": "6 years",
+            "start_months_since_1900": 1128,
+            "end_months_since_1900": 1202,
+            "length_in_months": 72
+        },
+        {
+            "name": "George Clooney",
+            "href": "https://www.whosdatedwho.com/dating/george-clooney",
+            "relationship_type": 2,
+            "start_date": "1993",
+            "end_date": "1993",
+            "length": "-",
+            "start_months_since_1900": 1116,
+            "end_months_since_1900": 1116,
+            "length_in_months": -1
+        },
+        {
+            "name": "Brad Pitt",
+            "href": "https://www.whosdatedwho.com/dating/brad-pitt",
+            "relationship_type": 2,
+            "start_date": "Jul 1989",
+            "end_date": "Jan 1990",
+            "length": "6 months",
+            "start_months_since_1900": 1074,
+            "end_months_since_1900": 1080,
+            "length_in_months": 6
+        },
+        {
+            "name": "Jon-Erik Hexum",
+            "href": "https://www.whosdatedwho.com/dating/jon-erik-hexum",
+            "relationship_type": 2,
+            "start_date": "Jul 1984",
+            "end_date": "Oct 1984",
+            "length": "3 months",
+            "start_months_since_1900": 1014,
+            "end_months_since_1900": 1017,
+            "length_in_months": 3
+        },
+        {
+            "name": "Kato Kaelin",
+            "href": "https://www.whosdatedwho.com/dating/kato-kaelin",
+            "relationship_type": 2,
+            "start_date": "",
+            "end_date": "",
+            "length": "-",
+            "start_months_since_1900": -1,
+            "end_months_since_1900": -1,
+            "length_in_months": -1
+        }
+    ],
+    "details": {
+        "First Name": "Elizabeth",
+        "Middle Name": "Ann",
+        "Last Name": "Daily",
+        "Maiden Name": "NA",
+        "Full Name at Birth": "Elizabeth Ann Guttman",
+        "Alternative Name": "E.G. Daily, Elizabeth Ann Guttman, Elizabeth Daily, E. G. Daily",
+        "Birthday": "1961",
+        "Birthplace": "USA",
+        "Height": "155",
+        "Weight": "119lbs (54 kg)",
+        "Zodiac Sign": "11",
+        "Sexuality": "Straight",
+        "Religion": "5",
+        "Ethnicity": "6",
+        "Nationality": "91",
+        "Occupation": "8"
+    }
+}

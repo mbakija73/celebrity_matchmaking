@@ -1,0 +1,55 @@
+{
+    "relationships": [
+        {
+            "name": "Nancy Sinatra",
+            "href": "https://www.whosdatedwho.com/dating/nancy-sinatra",
+            "relationship_type": 4,
+            "start_date": "1960",
+            "end_date": "1965",
+            "length": "5 years",
+            "start_months_since_1900": 720,
+            "end_months_since_1900": 780,
+            "length_in_months": 60
+        },
+        {
+            "name": "Tuesday Weld",
+            "href": "https://www.whosdatedwho.com/dating/tuesday-weld",
+            "relationship_type": 3,
+            "start_date": "1959",
+            "end_date": "1959",
+            "length": "-",
+            "start_months_since_1900": 708,
+            "end_months_since_1900": 708,
+            "length_in_months": -1
+        },
+        {
+            "name": "Molly Bee",
+            "href": "https://www.whosdatedwho.com/dating/molly-bee",
+            "relationship_type": 2,
+            "start_date": "Dec 1958",
+            "end_date": "Jan 1959",
+            "length": "1 month",
+            "start_months_since_1900": 707,
+            "end_months_since_1900": 708,
+            "length_in_months": 1
+        }
+    ],
+    "details": {
+        "First Name": "Tommy",
+        "Middle Name": "NA",
+        "Last Name": "Sands",
+        "Maiden Name": "NA",
+        "Full Name at Birth": "Thomas Adrian Sands",
+        "Alternative Name": "NA",
+        "Birthday": "1937",
+        "Birthplace": "Illinois",
+        "Height": "178",
+        "Weight": "NA",
+        "Zodiac Sign": "11",
+        "Sexuality": "Straight",
+        "Religion": "1",
+        "Ethnicity": "6",
+        "Nationality": "91",
+        "Occupation": "8"
+    }
+}

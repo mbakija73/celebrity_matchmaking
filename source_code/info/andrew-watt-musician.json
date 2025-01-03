@@ -1,0 +1,44 @@
+{
+    "relationships": [
+        {
+            "name": "Charlotte Lawrence",
+            "href": "https://www.whosdatedwho.com/dating/charlotte-lawrence",
+            "relationship_type": 2,
+            "start_date": "Jan 2020",
+            "end_date": "present",
+            "length": "4 years",
+            "start_months_since_1900": 1440,
+            "end_months_since_1900": -1,
+            "length_in_months": 48
+        },
+        {
+            "name": "Rita Ora",
+            "href": "https://www.whosdatedwho.com/dating/rita-ora",
+            "relationship_type": 2,
+            "start_date": "2016",
+            "end_date": "2019",
+            "length": "3 years",
+            "start_months_since_1900": 1392,
+            "end_months_since_1900": 1428,
+            "length_in_months": 36
+        }
+    ],
+    "details": {
+        "First Name": "Andrew",
+        "Middle Name": "NA",
+        "Last Name": "Watt",
+        "Maiden Name": "NA",
+        "Full Name at Birth": "Andrew Wotman",
+        "Alternative Name": "Andrew Watt, Andrew Wotman, Watt",
+        "Birthday": "1990",
+        "Birthplace": "U.S.",
+        "Height": "178",
+        "Weight": "NA",
+        "Zodiac Sign": "10",
+        "Sexuality": "Straight",
+        "Religion": "1",
+        "Ethnicity": "6",
+        "Nationality": "91",
+        "Occupation": "1"
+    }
+}

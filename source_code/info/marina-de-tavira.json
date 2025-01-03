@@ -1,0 +1,44 @@
+{
+    "relationships": [
+        {
+            "name": "Diego Luna",
+            "href": "https://www.whosdatedwho.com/dating/diego-luna",
+            "relationship_type": 2,
+            "start_date": "2019",
+            "end_date": "2021",
+            "length": "2 years",
+            "start_months_since_1900": 1428,
+            "end_months_since_1900": 1452,
+            "length_in_months": 24
+        },
+        {
+            "name": "Rafael S\u00e1nchez Navarro",
+            "href": "https://www.whosdatedwho.com/dating/rafael-sanchez-navarro",
+            "relationship_type": 2,
+            "start_date": "2012",
+            "end_date": "2019",
+            "length": "7 years",
+            "start_months_since_1900": 1344,
+            "end_months_since_1900": 1428,
+            "length_in_months": 84
+        }
+    ],
+    "details": {
+        "First Name": "Marina",
+        "Middle Name": "NA",
+        "Last Name": "de Tavira",
+        "Maiden Name": "NA",
+        "Full Name at Birth": "Marina de Tavira Servitje",
+        "Alternative Name": "Marina De Tavira, Marina de Tavira Servitje",
+        "Birthday": "1974",
+        "Birthplace": "Mexico",
+        "Height": "160",
+        "Weight": "125lbs (57 kg)",
+        "Zodiac Sign": "5",
+        "Sexuality": "Straight",
+        "Religion": "13",
+        "Ethnicity": "6",
+        "Nationality": "7",
+        "Occupation": "8"
+    }
+}

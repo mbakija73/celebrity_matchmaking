@@ -1,0 +1,44 @@
+{
+    "relationships": [
+        {
+            "name": "Willy Cartier",
+            "href": "https://www.whosdatedwho.com/dating/willy-cartier",
+            "relationship_type": 2,
+            "start_date": "2016",
+            "end_date": "",
+            "length": "-",
+            "start_months_since_1900": 1392,
+            "end_months_since_1900": -1,
+            "length_in_months": -1
+        },
+        {
+            "name": "Giuliano Carparelli",
+            "href": "https://www.whosdatedwho.com/dating/giuliano-carparelli",
+            "relationship_type": 2,
+            "start_date": "2013",
+            "end_date": "2015",
+            "length": "2 years",
+            "start_months_since_1900": 1356,
+            "end_months_since_1900": 1380,
+            "length_in_months": 24
+        }
+    ],
+    "details": {
+        "First Name": "Anais",
+        "Middle Name": "Mokngar",
+        "Last Name": "Mali",
+        "Maiden Name": "NA",
+        "Full Name at Birth": "Anais Mokngar Mali",
+        "Alternative Name": "Anais Mali, Anais Mokngar Mali",
+        "Birthday": "1988",
+        "Birthplace": "France",
+        "Height": "174",
+        "Weight": "NA",
+        "Zodiac Sign": "9",
+        "Sexuality": "Straight",
+        "Religion": "18",
+        "Ethnicity": "8",
+        "Nationality": "86",
+        "Occupation": "15"
+    }
+}

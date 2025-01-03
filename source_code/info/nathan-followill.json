@@ -1,0 +1,44 @@
+{
+    "relationships": [
+        {
+            "name": "Natalie Imbruglia",
+            "href": "https://www.whosdatedwho.com/dating/natalie-imbruglia",
+            "relationship_type": 2,
+            "start_date": "Sep 2008",
+            "end_date": "Oct 2008",
+            "length": "1 month",
+            "start_months_since_1900": 1304,
+            "end_months_since_1900": 1305,
+            "length_in_months": 1
+        },
+        {
+            "name": "Jessie Baylin",
+            "href": "https://www.whosdatedwho.com/dating/jessie-baylin",
+            "relationship_type": 4,
+            "start_date": "2006",
+            "end_date": "present",
+            "length": "18 years",
+            "start_months_since_1900": 1272,
+            "end_months_since_1900": -1,
+            "length_in_months": 216
+        }
+    ],
+    "details": {
+        "First Name": "Nathan",
+        "Middle Name": "NA",
+        "Last Name": "Followill",
+        "Maiden Name": "NA",
+        "Full Name at Birth": "Ivan Nathaniel Followill",
+        "Alternative Name": "NA",
+        "Birthday": "1979",
+        "Birthplace": "Oklahoma",
+        "Height": "NA",
+        "Weight": "NA",
+        "Zodiac Sign": "8",
+        "Sexuality": "Straight",
+        "Religion": "18",
+        "Ethnicity": "6",
+        "Nationality": "91",
+        "Occupation": "1"
+    }
+}

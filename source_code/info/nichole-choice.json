@@ -1,0 +1,55 @@
+{
+    "relationships": [
+        {
+            "name": "Marcus Chong",
+            "href": "https://www.whosdatedwho.com/dating/marcus-chong",
+            "relationship_type": 2,
+            "start_date": "2004",
+            "end_date": "Feb 2008",
+            "length": "4 years",
+            "start_months_since_1900": 1248,
+            "end_months_since_1900": 1297,
+            "length_in_months": 48
+        },
+        {
+            "name": "Peter Tork",
+            "href": "https://www.whosdatedwho.com/dating/peter-tork",
+            "relationship_type": 2,
+            "start_date": "Oct 2002",
+            "end_date": "Dec 2003",
+            "length": "1 year",
+            "start_months_since_1900": 1233,
+            "end_months_since_1900": 1247,
+            "length_in_months": 12
+        },
+        {
+            "name": "Jerry Renino",
+            "href": "https://www.whosdatedwho.com/dating/jerry-renino",
+            "relationship_type": 3,
+            "start_date": "Jun 2002",
+            "end_date": "Aug 2002",
+            "length": "2 months",
+            "start_months_since_1900": 1229,
+            "end_months_since_1900": 1231,
+            "length_in_months": 2
+        }
+    ],
+    "details": {
+        "First Name": "Nichole",
+        "Middle Name": "NA",
+        "Last Name": "Choice",
+        "Maiden Name": "NA",
+        "Full Name at Birth": "NA",
+        "Alternative Name": "NA",
+        "Birthday": "NA",
+        "Birthplace": "NA",
+        "Height": "166",
+        "Weight": "125lbs (57 kg)",
+        "Zodiac Sign": "2",
+        "Sexuality": "NA",
+        "Religion": "1",
+        "Ethnicity": "1",
+        "Nationality": "65",
+        "Occupation": "19"
+    }
+}

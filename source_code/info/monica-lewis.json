@@ -1,0 +1,55 @@
+{
+    "relationships": [
+        {
+            "name": "Jennings Lang",
+            "href": "https://www.whosdatedwho.com/dating/jennings-lang",
+            "relationship_type": 4,
+            "start_date": "1956",
+            "end_date": "May 1996",
+            "length": "40 years",
+            "start_months_since_1900": 672,
+            "end_months_since_1900": 1156,
+            "length_in_months": 480
+        },
+        {
+            "name": "Stan Kenton",
+            "href": "https://www.whosdatedwho.com/dating/stan-kenton",
+            "relationship_type": 2,
+            "start_date": "1952",
+            "end_date": "1952",
+            "length": "-",
+            "start_months_since_1900": 624,
+            "end_months_since_1900": 624,
+            "length_in_months": -1
+        },
+        {
+            "name": "Bob Thiele",
+            "href": "https://www.whosdatedwho.com/dating/bob-thiele",
+            "relationship_type": 4,
+            "start_date": "",
+            "end_date": "",
+            "length": "-",
+            "start_months_since_1900": -1,
+            "end_months_since_1900": -1,
+            "length_in_months": -1
+        }
+    ],
+    "details": {
+        "First Name": "Monica",
+        "Middle Name": "NA",
+        "Last Name": "NA",
+        "Maiden Name": "Lewis",
+        "Full Name at Birth": "Monica Lewis",
+        "Alternative Name": "May Lewis",
+        "Birthday": "1925",
+        "Birthplace": "United States",
+        "Height": "NA",
+        "Weight": "NA",
+        "Zodiac Sign": "3",
+        "Sexuality": "Straight",
+        "Religion": "31",
+        "Ethnicity": "6",
+        "Nationality": "91",
+        "Occupation": "8"
+    }
+}

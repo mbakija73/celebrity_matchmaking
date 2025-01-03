@@ -1,0 +1,66 @@
+{
+    "relationships": [
+        {
+            "name": "Pierre Palmade",
+            "href": "https://www.whosdatedwho.com/dating/pierre-palmade",
+            "relationship_type": 4,
+            "start_date": "1994",
+            "end_date": "2004",
+            "length": "10 years",
+            "start_months_since_1900": 1128,
+            "end_months_since_1900": 1248,
+            "length_in_months": 120
+        },
+        {
+            "name": "Fran\u00e7ois-Eric Gendron",
+            "href": "https://www.whosdatedwho.com/dating/francois-eric-gendron",
+            "relationship_type": 2,
+            "start_date": "1990",
+            "end_date": "1990",
+            "length": "-",
+            "start_months_since_1900": 1080,
+            "end_months_since_1900": 1080,
+            "length_in_months": -1
+        },
+        {
+            "name": "Stephen Stills",
+            "href": "https://www.whosdatedwho.com/dating/stephen-stills",
+            "relationship_type": 4,
+            "start_date": "1972",
+            "end_date": "1978",
+            "length": "6 years",
+            "start_months_since_1900": 864,
+            "end_months_since_1900": 936,
+            "length_in_months": 72
+        },
+        {
+            "name": "Michel Berger",
+            "href": "https://www.whosdatedwho.com/dating/michel-berger",
+            "relationship_type": 2,
+            "start_date": "1967",
+            "end_date": "1972",
+            "length": "5 years",
+            "start_months_since_1900": 804,
+            "end_months_since_1900": 864,
+            "length_in_months": 60
+        }
+    ],
+    "details": {
+        "First Name": "Veronique",
+        "Middle Name": "Marie",
+        "Last Name": "NA",
+        "Maiden Name": "Sanson",
+        "Full Name at Birth": "V\u00e9ronique Marie-Line Sanson",
+        "Alternative Name": "V\u00e9ronique Marie-Line Sanson, V\u00e9ronique Sanson",
+        "Birthday": "1949",
+        "Birthplace": "France",
+        "Height": "156",
+        "Weight": "NA",
+        "Zodiac Sign": "3",
+        "Sexuality": "Straight",
+        "Religion": "1",
+        "Ethnicity": "6",
+        "Nationality": "86",
+        "Occupation": "1"
+    }
+}

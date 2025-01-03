@@ -1,0 +1,44 @@
+{
+    "relationships": [
+        {
+            "name": "Mickey Finn",
+            "href": "https://www.whosdatedwho.com/dating/mickey-finn",
+            "relationship_type": 2,
+            "start_date": "1970",
+            "end_date": "1979",
+            "length": "9 years",
+            "start_months_since_1900": 840,
+            "end_months_since_1900": 948,
+            "length_in_months": 108
+        },
+        {
+            "name": "Tony Secunda",
+            "href": "https://www.whosdatedwho.com/dating/tony-secunda",
+            "relationship_type": 4,
+            "start_date": "1963",
+            "end_date": "1966",
+            "length": "3 years",
+            "start_months_since_1900": 756,
+            "end_months_since_1900": 792,
+            "length_in_months": 36
+        }
+    ],
+    "details": {
+        "First Name": "Chelita",
+        "Middle Name": "NA",
+        "Last Name": "Secunda",
+        "Maiden Name": "Salvatori",
+        "Full Name at Birth": "Chelita Salvatori",
+        "Alternative Name": "Miss Chelita",
+        "Birthday": "1945",
+        "Birthplace": "UK",
+        "Height": "NA",
+        "Weight": "NA",
+        "Zodiac Sign": "13",
+        "Sexuality": "Straight",
+        "Religion": "1",
+        "Ethnicity": "6",
+        "Nationality": "98",
+        "Occupation": "3"
+    }
+}

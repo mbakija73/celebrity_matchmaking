@@ -1,0 +1,33 @@
+{
+    "relationships": [
+        {
+            "name": "Kate Winslet",
+            "href": "https://www.whosdatedwho.com/dating/kate-winslet",
+            "relationship_type": 2,
+            "start_date": "Jul 1991",
+            "end_date": "Aug 1995",
+            "length": "4 years",
+            "start_months_since_1900": 1098,
+            "end_months_since_1900": 1147,
+            "length_in_months": 48
+        }
+    ],
+    "details": {
+        "First Name": "Stephen",
+        "Middle Name": "Ralph",
+        "Last Name": "Tredre",
+        "Maiden Name": "NA",
+        "Full Name at Birth": "Stephen Ralph Tredre",
+        "Alternative Name": "NA",
+        "Birthday": "1963",
+        "Birthplace": "UK",
+        "Height": "NA",
+        "Weight": "NA",
+        "Zodiac Sign": "8",
+        "Sexuality": "Straight",
+        "Religion": "1",
+        "Ethnicity": "6",
+        "Nationality": "8",
+        "Occupation": "8"
+    }
+}

@@ -1,0 +1,110 @@
+{
+    "relationships": [
+        {
+            "name": "Jim Morrison",
+            "href": "https://www.whosdatedwho.com/dating/jim-morrison",
+            "relationship_type": 3,
+            "start_date": "Oct 1966",
+            "end_date": "Oct 1966",
+            "length": "-",
+            "start_months_since_1900": 801,
+            "end_months_since_1900": 801,
+            "length_in_months": -1
+        },
+        {
+            "name": "Jimi Hendrix",
+            "href": "https://www.whosdatedwho.com/dating/jimi-hendrix",
+            "relationship_type": 2,
+            "start_date": "1965",
+            "end_date": "1970",
+            "length": "5 years",
+            "start_months_since_1900": 780,
+            "end_months_since_1900": 840,
+            "length_in_months": 60
+        },
+        {
+            "name": "Quincy Jones",
+            "href": "https://www.whosdatedwho.com/dating/quincy-jones",
+            "relationship_type": 3,
+            "start_date": "",
+            "end_date": "",
+            "length": "-",
+            "start_months_since_1900": -1,
+            "end_months_since_1900": -1,
+            "length_in_months": -1
+        },
+        {
+            "name": "Brian Jones",
+            "href": "https://www.whosdatedwho.com/dating/brian-jones",
+            "relationship_type": 3,
+            "start_date": "",
+            "end_date": "",
+            "length": "-",
+            "start_months_since_1900": -1,
+            "end_months_since_1900": -1,
+            "length_in_months": -1
+        },
+        {
+            "name": "Duane Allman",
+            "href": "https://www.whosdatedwho.com/dating/duane-allman",
+            "relationship_type": 3,
+            "start_date": "",
+            "end_date": "",
+            "length": "-",
+            "start_months_since_1900": -1,
+            "end_months_since_1900": -1,
+            "length_in_months": -1
+        },
+        {
+            "name": "Eric Clapton",
+            "href": "https://www.whosdatedwho.com/dating/eric-clapton",
+            "relationship_type": 3,
+            "start_date": "",
+            "end_date": "",
+            "length": "-",
+            "start_months_since_1900": -1,
+            "end_months_since_1900": -1,
+            "length_in_months": -1
+        },
+        {
+            "name": "Mick Jagger",
+            "href": "https://www.whosdatedwho.com/dating/mick-jagger",
+            "relationship_type": 3,
+            "start_date": "",
+            "end_date": "",
+            "length": "-",
+            "start_months_since_1900": -1,
+            "end_months_since_1900": -1,
+            "length_in_months": -1
+        },
+        {
+            "name": "Miles Davis",
+            "href": "https://www.whosdatedwho.com/dating/miles-davis",
+            "relationship_type": 3,
+            "start_date": "",
+            "end_date": "",
+            "length": "-",
+            "start_months_since_1900": -1,
+            "end_months_since_1900": -1,
+            "length_in_months": -1
+        }
+    ],
+    "details": {
+        "First Name": "Devon",
+        "Middle Name": "NA",
+        "Last Name": "Wilson",
+        "Maiden Name": "NA",
+        "Full Name at Birth": "NA",
+        "Alternative Name": "NA",
+        "Birthday": "1943",
+        "Birthplace": "USA",
+        "Height": "NA",
+        "Weight": "NA",
+        "Zodiac Sign": "10",
+        "Sexuality": "Bisexual",
+        "Religion": "1",
+        "Ethnicity": "8",
+        "Nationality": "91",
+        "Occupation": "11"
+    }
+}

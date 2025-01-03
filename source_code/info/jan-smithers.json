@@ -1,0 +1,44 @@
+{
+    "relationships": [
+        {
+            "name": "James Brolin",
+            "href": "https://www.whosdatedwho.com/dating/james-brolin",
+            "relationship_type": 4,
+            "start_date": "1985",
+            "end_date": "1995",
+            "length": "10 years",
+            "start_months_since_1900": 1020,
+            "end_months_since_1900": 1140,
+            "length_in_months": 120
+        },
+        {
+            "name": "Kipp Whitman",
+            "href": "https://www.whosdatedwho.com/dating/kipp-whitman",
+            "relationship_type": 4,
+            "start_date": "1970",
+            "end_date": "1972",
+            "length": "2 years",
+            "start_months_since_1900": 840,
+            "end_months_since_1900": 864,
+            "length_in_months": 24
+        }
+    ],
+    "details": {
+        "First Name": "Karin",
+        "Middle Name": "Jan",
+        "Last Name": "Smithers",
+        "Maiden Name": "NA",
+        "Full Name at Birth": "Karin Jan Smithers",
+        "Alternative Name": "Bailey Quarters, Karin Jan Smithers, Jan Smithers",
+        "Birthday": "1949",
+        "Birthplace": "USA",
+        "Height": "170",
+        "Weight": "121lbs (55 kg)",
+        "Zodiac Sign": "8",
+        "Sexuality": "Straight",
+        "Religion": "1",
+        "Ethnicity": "6",
+        "Nationality": "91",
+        "Occupation": "8"
+    }
+}

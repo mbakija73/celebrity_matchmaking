@@ -1,0 +1,77 @@
+{
+    "relationships": [
+        {
+            "name": "LeAnn Rimes",
+            "href": "https://www.whosdatedwho.com/dating/leann-rimes",
+            "relationship_type": 4,
+            "start_date": "Feb 2009",
+            "end_date": "present",
+            "length": "15 years",
+            "start_months_since_1900": 1309,
+            "end_months_since_1900": -1,
+            "length_in_months": 180
+        },
+        {
+            "name": "Scheana Shay",
+            "href": "https://www.whosdatedwho.com/dating/scheana-marie",
+            "relationship_type": 2,
+            "start_date": "Jan 2009",
+            "end_date": "Feb 2009",
+            "length": "1 month",
+            "start_months_since_1900": 1308,
+            "end_months_since_1900": 1309,
+            "length_in_months": 1
+        },
+        {
+            "name": "Piper Perabo",
+            "href": "https://www.whosdatedwho.com/dating/piper-perabo",
+            "relationship_type": 3,
+            "start_date": "2005",
+            "end_date": "2005",
+            "length": "-",
+            "start_months_since_1900": 1260,
+            "end_months_since_1900": 1260,
+            "length_in_months": -1
+        },
+        {
+            "name": "Brandi Glanville",
+            "href": "https://www.whosdatedwho.com/dating/brandi-glanville",
+            "relationship_type": 4,
+            "start_date": "Sep 1998",
+            "end_date": "Sep 2010",
+            "length": "12 years",
+            "start_months_since_1900": 1184,
+            "end_months_since_1900": 1328,
+            "length_in_months": 144
+        },
+        {
+            "name": "Julianne Morris",
+            "href": "https://www.whosdatedwho.com/dating/julianne-morris",
+            "relationship_type": 2,
+            "start_date": "Jul 1995",
+            "end_date": "Jul 1997",
+            "length": "2 years",
+            "start_months_since_1900": 1146,
+            "end_months_since_1900": 1170,
+            "length_in_months": 24
+        }
+    ],
+    "details": {
+        "First Name": "Eddie",
+        "Middle Name": "Carl",
+        "Last Name": "Cibrian",
+        "Maiden Name": "NA",
+        "Full Name at Birth": "Edward Carl Cibrian",
+        "Alternative Name": "NA",
+        "Birthday": "1973",
+        "Birthplace": "USA",
+        "Height": "188",
+        "Weight": "NA",
+        "Zodiac Sign": "4",
+        "Sexuality": "Straight",
+        "Religion": "1",
+        "Ethnicity": "6",
+        "Nationality": "91",
+        "Occupation": "8"
+    }
+}

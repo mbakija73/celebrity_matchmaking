@@ -1,0 +1,44 @@
+{
+    "relationships": [
+        {
+            "name": "Michelle Phillips",
+            "href": "https://www.whosdatedwho.com/dating/michelle-phillips",
+            "relationship_type": 2,
+            "start_date": "1989",
+            "end_date": "1989",
+            "length": "-",
+            "start_months_since_1900": 1068,
+            "end_months_since_1900": 1068,
+            "length_in_months": -1
+        },
+        {
+            "name": "Nancy Kwan",
+            "href": "https://www.whosdatedwho.com/dating/nancy-kwan",
+            "relationship_type": 4,
+            "start_date": "Jun 1970",
+            "end_date": "May 1972",
+            "length": "1 year",
+            "start_months_since_1900": 845,
+            "end_months_since_1900": 868,
+            "length_in_months": 12
+        }
+    ],
+    "details": {
+        "First Name": "David",
+        "Middle Name": "Kevin",
+        "Last Name": "Giler",
+        "Maiden Name": "NA",
+        "Full Name at Birth": "David Kevin Giler",
+        "Alternative Name": "NA",
+        "Birthday": "1942",
+        "Birthplace": "NA",
+        "Height": "NA",
+        "Weight": "NA",
+        "Zodiac Sign": "2",
+        "Sexuality": "NA",
+        "Religion": "1",
+        "Ethnicity": "6",
+        "Nationality": "91",
+        "Occupation": "9"
+    }
+}

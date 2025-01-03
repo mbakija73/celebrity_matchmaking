@@ -1,0 +1,44 @@
+{
+    "relationships": [
+        {
+            "name": "Michael Sheen",
+            "href": "https://www.whosdatedwho.com/dating/michael-sheen",
+            "relationship_type": 2,
+            "start_date": "Sep 2013",
+            "end_date": "2014",
+            "length": "4 months",
+            "start_months_since_1900": 1364,
+            "end_months_since_1900": 1368,
+            "length_in_months": 4
+        },
+        {
+            "name": "Aaron Sorkin",
+            "href": "https://www.whosdatedwho.com/dating/aaron-sorkin",
+            "relationship_type": 1,
+            "start_date": "Jan 2013",
+            "end_date": "Jan 2013",
+            "length": "-",
+            "start_months_since_1900": 1356,
+            "end_months_since_1900": 1356,
+            "length_in_months": -1
+        }
+    ],
+    "details": {
+        "First Name": "Carrie",
+        "Middle Name": "NA",
+        "Last Name": "Keagan",
+        "Maiden Name": "NA",
+        "Full Name at Birth": "Carrie Nile",
+        "Alternative Name": "Carrie Nile, Carrie Keagan, Carrie",
+        "Birthday": "1980",
+        "Birthplace": "USA",
+        "Height": "165",
+        "Weight": "121lbs (55 kg)",
+        "Zodiac Sign": "8",
+        "Sexuality": "Straight",
+        "Religion": "1",
+        "Ethnicity": "6",
+        "Nationality": "91",
+        "Occupation": "11"
+    }
+}

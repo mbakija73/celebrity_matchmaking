@@ -1,0 +1,44 @@
+{
+    "relationships": [
+        {
+            "name": "Cliff Robertson",
+            "href": "https://www.whosdatedwho.com/dating/cliff-robertson",
+            "relationship_type": 2,
+            "start_date": "May 1961",
+            "end_date": "May 1961",
+            "length": "-",
+            "start_months_since_1900": 736,
+            "end_months_since_1900": 736,
+            "length_in_months": -1
+        },
+        {
+            "name": "Rod Taylor",
+            "href": "https://www.whosdatedwho.com/dating/rod-taylor",
+            "relationship_type": 2,
+            "start_date": "Aug 1956",
+            "end_date": "Sep 1956",
+            "length": "1 month",
+            "start_months_since_1900": 679,
+            "end_months_since_1900": 680,
+            "length_in_months": 1
+        }
+    ],
+    "details": {
+        "First Name": "Theona",
+        "Middle Name": "NA",
+        "Last Name": "Bryant",
+        "Maiden Name": "NA",
+        "Full Name at Birth": "Theona Pearce",
+        "Alternative Name": "NA",
+        "Birthday": "1931",
+        "Birthplace": "NA",
+        "Height": "NA",
+        "Weight": "NA",
+        "Zodiac Sign": "4",
+        "Sexuality": "Straight",
+        "Religion": "1",
+        "Ethnicity": "6",
+        "Nationality": "8",
+        "Occupation": "8"
+    }
+}

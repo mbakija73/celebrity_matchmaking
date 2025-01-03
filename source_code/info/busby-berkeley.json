@@ -1,0 +1,77 @@
+{
+    "relationships": [
+        {
+            "name": "Claire James",
+            "href": "https://www.whosdatedwho.com/dating/claire-james",
+            "relationship_type": 4,
+            "start_date": "Nov 1938",
+            "end_date": "Mar 1943",
+            "length": "4 years",
+            "start_months_since_1900": 466,
+            "end_months_since_1900": 518,
+            "length_in_months": 48
+        },
+        {
+            "name": "Carole Landis",
+            "href": "https://www.whosdatedwho.com/dating/carole-landis",
+            "relationship_type": 2,
+            "start_date": "1937",
+            "end_date": "1938",
+            "length": "1 year",
+            "start_months_since_1900": 444,
+            "end_months_since_1900": 456,
+            "length_in_months": 12
+        },
+        {
+            "name": "Merna Kennedy",
+            "href": "https://www.whosdatedwho.com/dating/merna-kennedy",
+            "relationship_type": 4,
+            "start_date": "1934",
+            "end_date": "1935",
+            "length": "1 year",
+            "start_months_since_1900": 408,
+            "end_months_since_1900": 420,
+            "length_in_months": 12
+        },
+        {
+            "name": "Esther Muir",
+            "href": "https://www.whosdatedwho.com/dating/esther-muir",
+            "relationship_type": 4,
+            "start_date": "Nov 1929",
+            "end_date": "1931",
+            "length": "1 year",
+            "start_months_since_1900": 358,
+            "end_months_since_1900": 372,
+            "length_in_months": 12
+        },
+        {
+            "name": "Etta Judd",
+            "href": "https://www.whosdatedwho.com/dating/etta-judd",
+            "relationship_type": 4,
+            "start_date": "",
+            "end_date": "",
+            "length": "-",
+            "start_months_since_1900": -1,
+            "end_months_since_1900": -1,
+            "length_in_months": -1
+        }
+    ],
+    "details": {
+        "First Name": "Busby",
+        "Middle Name": "NA",
+        "Last Name": "Berkeley",
+        "Maiden Name": "NA",
+        "Full Name at Birth": "William Berkeley Enos",
+        "Alternative Name": "Buzz, Berkeley William Enos, Busby Berkeley",
+        "Birthday": "1895",
+        "Birthplace": "USA",
+        "Height": "175",
+        "Weight": "NA",
+        "Zodiac Sign": "6",
+        "Sexuality": "Straight",
+        "Religion": "1",
+        "Ethnicity": "6",
+        "Nationality": "91",
+        "Occupation": "9"
+    }
+}

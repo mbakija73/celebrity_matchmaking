@@ -1,0 +1,44 @@
+{
+    "relationships": [
+        {
+            "name": "Chris Bosh",
+            "href": "https://www.whosdatedwho.com/dating/chris-bosh",
+            "relationship_type": 4,
+            "start_date": "Aug 2009",
+            "end_date": "present",
+            "length": "15 years",
+            "start_months_since_1900": 1315,
+            "end_months_since_1900": -1,
+            "length_in_months": 180
+        },
+        {
+            "name": "Lil' Wayne",
+            "href": "https://www.whosdatedwho.com/dating/lil-wayne",
+            "relationship_type": 2,
+            "start_date": "May 2004",
+            "end_date": "Jan 2009",
+            "length": "4 years",
+            "start_months_since_1900": 1252,
+            "end_months_since_1900": 1308,
+            "length_in_months": 48
+        }
+    ],
+    "details": {
+        "First Name": "Adrienne",
+        "Middle Name": "NA",
+        "Last Name": "Williams",
+        "Maiden Name": "NA",
+        "Full Name at Birth": "Adrienne Williams",
+        "Alternative Name": "NA",
+        "Birthday": "1985",
+        "Birthplace": "NA",
+        "Height": "152",
+        "Weight": "NA",
+        "Zodiac Sign": "7",
+        "Sexuality": "Straight",
+        "Religion": "18",
+        "Ethnicity": "8",
+        "Nationality": "91",
+        "Occupation": "18"
+    }
+}

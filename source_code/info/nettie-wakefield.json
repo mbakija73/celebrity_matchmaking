@@ -1,0 +1,55 @@
+{
+    "relationships": [
+        {
+            "name": "Alex Zane",
+            "href": "https://www.whosdatedwho.com/dating/alex-zane",
+            "relationship_type": 2,
+            "start_date": "Jun 2018",
+            "end_date": "present",
+            "length": "6 years",
+            "start_months_since_1900": 1421,
+            "end_months_since_1900": -1,
+            "length_in_months": 72
+        },
+        {
+            "name": "Aidan Turner",
+            "href": "https://www.whosdatedwho.com/dating/aidan-turner",
+            "relationship_type": 2,
+            "start_date": "2016",
+            "end_date": "Jun 2017",
+            "length": "1 year",
+            "start_months_since_1900": 1392,
+            "end_months_since_1900": 1409,
+            "length_in_months": 12
+        },
+        {
+            "name": "Robert Pattinson",
+            "href": "https://www.whosdatedwho.com/dating/robert-pattinson",
+            "relationship_type": 2,
+            "start_date": "Jan 2014",
+            "end_date": "2014",
+            "length": "-",
+            "start_months_since_1900": 1368,
+            "end_months_since_1900": 1368,
+            "length_in_months": -1
+        }
+    ],
+    "details": {
+        "Birthday": "1986",
+        "First Name": "NA",
+        "Middle Name": "NA",
+        "Last Name": "NA",
+        "Maiden Name": "NA",
+        "Full Name at Birth": "NA",
+        "Alternative Name": "NA",
+        "Birthplace": "NA",
+        "Height": "NA",
+        "Weight": "NA",
+        "Zodiac Sign": "2",
+        "Sexuality": "NA",
+        "Religion": "1",
+        "Ethnicity": "1",
+        "Nationality": "65",
+        "Occupation": "13"
+    }
+}

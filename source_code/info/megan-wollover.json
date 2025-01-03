@@ -1,0 +1,33 @@
+{
+    "relationships": [
+        {
+            "name": "Tracy Morgan",
+            "href": "https://www.whosdatedwho.com/dating/tracy-morgan",
+            "relationship_type": 4,
+            "start_date": "2011",
+            "end_date": "Jul 2020",
+            "length": "9 years",
+            "start_months_since_1900": 1332,
+            "end_months_since_1900": 1446,
+            "length_in_months": 108
+        }
+    ],
+    "details": {
+        "First Name": "Megan",
+        "Middle Name": "NA",
+        "Last Name": "NA",
+        "Maiden Name": "Wollover",
+        "Full Name at Birth": "Megan Wollover",
+        "Alternative Name": "NA",
+        "Birthday": "1986",
+        "Birthplace": "U.S.",
+        "Height": "170",
+        "Weight": "128lbs (58 kg)",
+        "Zodiac Sign": "5",
+        "Sexuality": "Straight",
+        "Religion": "18",
+        "Ethnicity": "8",
+        "Nationality": "91",
+        "Occupation": "15"
+    }
+}

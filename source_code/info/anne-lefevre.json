@@ -1,0 +1,33 @@
+{
+    "relationships": [
+        {
+            "name": "Jacques Martin",
+            "href": "https://www.whosdatedwho.com/dating/jacques-martin",
+            "relationship_type": 1,
+            "start_date": "0001",
+            "end_date": "0001",
+            "length": "-",
+            "start_months_since_1900": -22788,
+            "end_months_since_1900": -22788,
+            "length_in_months": -1
+        }
+    ],
+    "details": {
+        "First Name": "Anne",
+        "Middle Name": "NA",
+        "Last Name": "Lefevre",
+        "Maiden Name": "NA",
+        "Full Name at Birth": "Anne Lefevre",
+        "Alternative Name": "Anne Lefevre",
+        "Birthday": "NA",
+        "Birthplace": "NA",
+        "Height": "NA",
+        "Weight": "NA",
+        "Zodiac Sign": "2",
+        "Sexuality": "NA",
+        "Religion": "1",
+        "Ethnicity": "1",
+        "Nationality": "65",
+        "Occupation": "8"
+    }
+}

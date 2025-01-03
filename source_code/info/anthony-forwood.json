@@ -1,0 +1,44 @@
+{
+    "relationships": [
+        {
+            "name": "Glynis Johns",
+            "href": "https://www.whosdatedwho.com/dating/glynis-johns",
+            "relationship_type": 4,
+            "start_date": "Aug 1942",
+            "end_date": "Jun 1948",
+            "length": "5 years",
+            "start_months_since_1900": 511,
+            "end_months_since_1900": 581,
+            "length_in_months": 60
+        },
+        {
+            "name": "Dirk Bogarde",
+            "href": "https://www.whosdatedwho.com/dating/dirk-bogarde",
+            "relationship_type": 2,
+            "start_date": "1938",
+            "end_date": "May 1988",
+            "length": "50 years",
+            "start_months_since_1900": 456,
+            "end_months_since_1900": 1060,
+            "length_in_months": 600
+        }
+    ],
+    "details": {
+        "First Name": "Anthony",
+        "Middle Name": "NA",
+        "Last Name": "Forwood",
+        "Maiden Name": "NA",
+        "Full Name at Birth": "NA",
+        "Alternative Name": "NA",
+        "Birthday": "1915",
+        "Birthplace": "UK",
+        "Height": "NA",
+        "Weight": "NA",
+        "Zodiac Sign": "10",
+        "Sexuality": "Bisexual",
+        "Religion": "13",
+        "Ethnicity": "6",
+        "Nationality": "98",
+        "Occupation": "8"
+    }
+}

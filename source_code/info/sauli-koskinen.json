@@ -1,0 +1,33 @@
+{
+    "relationships": [
+        {
+            "name": "Adam Lambert",
+            "href": "https://www.whosdatedwho.com/dating/adam-lambert",
+            "relationship_type": 2,
+            "start_date": "Jan 2011",
+            "end_date": "Apr 2013",
+            "length": "2 years",
+            "start_months_since_1900": 1332,
+            "end_months_since_1900": 1359,
+            "length_in_months": 24
+        }
+    ],
+    "details": {
+        "First Name": "Sauli",
+        "Middle Name": "NA",
+        "Last Name": "Koskinen",
+        "Maiden Name": "NA",
+        "Full Name at Birth": "Sauli Koskinen",
+        "Alternative Name": "NA",
+        "Birthday": "1985",
+        "Birthplace": "Finland",
+        "Height": "NA",
+        "Weight": "NA",
+        "Zodiac Sign": "7",
+        "Sexuality": "Gay",
+        "Religion": "1",
+        "Ethnicity": "6",
+        "Nationality": "22",
+        "Occupation": "16"
+    }
+}

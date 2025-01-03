@@ -1,0 +1,88 @@
+{
+    "relationships": [
+        {
+            "name": "Siri Pinter",
+            "href": "https://www.whosdatedwho.com/dating/siri-pinter",
+            "relationship_type": 4,
+            "start_date": "2005",
+            "end_date": "present",
+            "length": "19 years",
+            "start_months_since_1900": 1260,
+            "end_months_since_1900": -1,
+            "length_in_months": 228
+        },
+        {
+            "name": "Ashlee Simpson",
+            "href": "https://www.whosdatedwho.com/dating/ashlee-simpson",
+            "relationship_type": 3,
+            "start_date": "Jul 2003",
+            "end_date": "Aug 2003",
+            "length": "1 month",
+            "start_months_since_1900": 1242,
+            "end_months_since_1900": 1243,
+            "length_in_months": 1
+        },
+        {
+            "name": "Christina Aguilera",
+            "href": "https://www.whosdatedwho.com/dating/christina-aguilera",
+            "relationship_type": 3,
+            "start_date": "Jun 2002",
+            "end_date": "Jul 2002",
+            "length": "1 month",
+            "start_months_since_1900": 1229,
+            "end_months_since_1900": 1230,
+            "length_in_months": 1
+        },
+        {
+            "name": "Jaime Pressly",
+            "href": "https://www.whosdatedwho.com/dating/jaime-pressly",
+            "relationship_type": 2,
+            "start_date": "Mar 2002",
+            "end_date": "Mar 2002",
+            "length": "-",
+            "start_months_since_1900": 1226,
+            "end_months_since_1900": 1226,
+            "length_in_months": -1
+        },
+        {
+            "name": "Tara Reid",
+            "href": "https://www.whosdatedwho.com/dating/tara-reid",
+            "relationship_type": 2,
+            "start_date": "Mar 2000",
+            "end_date": "Jul 2001",
+            "length": "1 year",
+            "start_months_since_1900": 1202,
+            "end_months_since_1900": 1218,
+            "length_in_months": 12
+        },
+        {
+            "name": "Jennifer Love Hewitt",
+            "href": "https://www.whosdatedwho.com/dating/jennifer-love-hewitt",
+            "relationship_type": 2,
+            "start_date": "Apr 1997",
+            "end_date": "Jun 1999",
+            "length": "2 years",
+            "start_months_since_1900": 1167,
+            "end_months_since_1900": 1193,
+            "length_in_months": 24
+        }
+    ],
+    "details": {
+        "First Name": "Carson",
+        "Middle Name": "Jones",
+        "Last Name": "Daly",
+        "Maiden Name": "NA",
+        "Full Name at Birth": "Carson Jones Daly",
+        "Alternative Name": "Budda, The Tool",
+        "Birthday": "1973",
+        "Birthplace": "California",
+        "Height": "185",
+        "Weight": "NA",
+        "Zodiac Sign": "8",
+        "Sexuality": "Straight",
+        "Religion": "13",
+        "Ethnicity": "6",
+        "Nationality": "91",
+        "Occupation": "11"
+    }
+}

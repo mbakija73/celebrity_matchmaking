@@ -1,0 +1,55 @@
+{
+    "relationships": [
+        {
+            "name": "Bonnie Wright",
+            "href": "https://www.whosdatedwho.com/dating/bonnie-wright",
+            "relationship_type": 2,
+            "start_date": "Jan 2013",
+            "end_date": "May 2014",
+            "length": "1 year",
+            "start_months_since_1900": 1356,
+            "end_months_since_1900": 1372,
+            "length_in_months": 12
+        },
+        {
+            "name": "Erin Moriarty",
+            "href": "https://www.whosdatedwho.com/dating/erin-moriarty-actress",
+            "relationship_type": 2,
+            "start_date": "2013",
+            "end_date": "2014",
+            "length": "1 year",
+            "start_months_since_1900": 1356,
+            "end_months_since_1900": 1368,
+            "length_in_months": 12
+        },
+        {
+            "name": "Shay Mitchell",
+            "href": "https://www.whosdatedwho.com/dating/shay-mitchell",
+            "relationship_type": 1,
+            "start_date": "",
+            "end_date": "",
+            "length": "-",
+            "start_months_since_1900": -1,
+            "end_months_since_1900": -1,
+            "length_in_months": -1
+        }
+    ],
+    "details": {
+        "First Name": "Jacob",
+        "Middle Name": "NA",
+        "Last Name": "Artist",
+        "Maiden Name": "NA",
+        "Full Name at Birth": "Jacob Artist",
+        "Alternative Name": "NA",
+        "Birthday": "1992",
+        "Birthplace": "New York",
+        "Height": "188",
+        "Weight": "NA",
+        "Zodiac Sign": "10",
+        "Sexuality": "Straight",
+        "Religion": "1",
+        "Ethnicity": "8",
+        "Nationality": "91",
+        "Occupation": "8"
+    }
+}

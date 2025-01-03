@@ -1,0 +1,66 @@
+{
+    "relationships": [
+        {
+            "name": "Helen Hayes",
+            "href": "https://www.whosdatedwho.com/dating/helen-hayes",
+            "relationship_type": 4,
+            "start_date": "1927",
+            "end_date": "21st Apr 1956",
+            "length": "29 years",
+            "start_months_since_1900": 324,
+            "end_months_since_1900": 675,
+            "length_in_months": 348
+        },
+        {
+            "name": "Dorothy Parker",
+            "href": "https://www.whosdatedwho.com/dating/dorothy-parker",
+            "relationship_type": 2,
+            "start_date": "1926",
+            "end_date": "1927",
+            "length": "1 year",
+            "start_months_since_1900": 312,
+            "end_months_since_1900": 324,
+            "length_in_months": 12
+        },
+        {
+            "name": "Carol Frink",
+            "href": "https://www.whosdatedwho.com/dating/carol-frink",
+            "relationship_type": 4,
+            "start_date": "1920",
+            "end_date": "1922",
+            "length": "2 years",
+            "start_months_since_1900": 240,
+            "end_months_since_1900": 264,
+            "length_in_months": 24
+        },
+        {
+            "name": "Beatrice Lillie",
+            "href": "https://www.whosdatedwho.com/dating/beatrice-lillie",
+            "relationship_type": 2,
+            "start_date": "",
+            "end_date": "",
+            "length": "-",
+            "start_months_since_1900": -1,
+            "end_months_since_1900": -1,
+            "length_in_months": -1
+        }
+    ],
+    "details": {
+        "First Name": "Charles",
+        "Middle Name": "Gordon",
+        "Last Name": "Macarthur",
+        "Maiden Name": "NA",
+        "Full Name at Birth": "Charles Gordon MacArthur",
+        "Alternative Name": "Charles MacArthur, Charles Gordon MacArthur, Charlie MacArthur",
+        "Birthday": "1895",
+        "Birthplace": "USA",
+        "Height": "NA",
+        "Weight": "NA",
+        "Zodiac Sign": "5",
+        "Sexuality": "Straight",
+        "Religion": "1",
+        "Ethnicity": "6",
+        "Nationality": "91",
+        "Occupation": "3"
+    }
+}

@@ -1,0 +1,66 @@
+{
+    "relationships": [
+        {
+            "name": "Lana Turner",
+            "href": "https://www.whosdatedwho.com/dating/lana-turner",
+            "relationship_type": 4,
+            "start_date": "Aug 1964",
+            "end_date": "Apr 1969",
+            "length": "4 years",
+            "start_months_since_1900": 775,
+            "end_months_since_1900": 831,
+            "length_in_months": 48
+        },
+        {
+            "name": "Gloria Pall",
+            "href": "https://www.whosdatedwho.com/dating/gloria-pall",
+            "relationship_type": 4,
+            "start_date": "1956",
+            "end_date": "1957",
+            "length": "1 year",
+            "start_months_since_1900": 672,
+            "end_months_since_1900": 684,
+            "length_in_months": 12
+        },
+        {
+            "name": "Denise Darcel",
+            "href": "https://www.whosdatedwho.com/dating/denise-darcel",
+            "relationship_type": 3,
+            "start_date": "1956",
+            "end_date": "1956",
+            "length": "-",
+            "start_months_since_1900": 672,
+            "end_months_since_1900": 672,
+            "length_in_months": -1
+        },
+        {
+            "name": "Ginger Rogers",
+            "href": "https://www.whosdatedwho.com/dating/ginger-rogers",
+            "relationship_type": 2,
+            "start_date": "",
+            "end_date": "",
+            "length": "-",
+            "start_months_since_1900": -1,
+            "end_months_since_1900": -1,
+            "length_in_months": -1
+        }
+    ],
+    "details": {
+        "First Name": "Robert",
+        "Middle Name": "NA",
+        "Last Name": "Eaton",
+        "Maiden Name": "NA",
+        "Full Name at Birth": "Robert Purdy Eaton",
+        "Alternative Name": "Robert P. Eaton",
+        "Birthday": "1930",
+        "Birthplace": "Virginia",
+        "Height": "NA",
+        "Weight": "NA",
+        "Zodiac Sign": "2",
+        "Sexuality": "Straight",
+        "Religion": "1",
+        "Ethnicity": "6",
+        "Nationality": "91",
+        "Occupation": "9"
+    }
+}

@@ -1,0 +1,66 @@
+{
+    "relationships": [
+        {
+            "name": "John Miller (businessman)",
+            "href": "https://www.whosdatedwho.com/dating/john-miller-businessman",
+            "relationship_type": 2,
+            "start_date": "Oct 2018",
+            "end_date": "Oct 2018",
+            "length": "-",
+            "start_months_since_1900": 1425,
+            "end_months_since_1900": 1425,
+            "length_in_months": -1
+        },
+        {
+            "name": "Ben Affleck",
+            "href": "https://www.whosdatedwho.com/dating/ben-affleck",
+            "relationship_type": 4,
+            "start_date": "Sep 2004",
+            "end_date": "9th Nov 2018",
+            "length": "14 years",
+            "start_months_since_1900": 1256,
+            "end_months_since_1900": 1426,
+            "length_in_months": 168
+        },
+        {
+            "name": "Michael Vartan",
+            "href": "https://www.whosdatedwho.com/dating/michael-vartan",
+            "relationship_type": 2,
+            "start_date": "Aug 2003",
+            "end_date": "Mar 2004",
+            "length": "7 months",
+            "start_months_since_1900": 1243,
+            "end_months_since_1900": 1250,
+            "length_in_months": 7
+        },
+        {
+            "name": "Scott Foley",
+            "href": "https://www.whosdatedwho.com/dating/scott-foley",
+            "relationship_type": 4,
+            "start_date": "Apr 1999",
+            "end_date": "30th Mar 2004",
+            "length": "5 years",
+            "start_months_since_1900": 1191,
+            "end_months_since_1900": 1250,
+            "length_in_months": 60
+        }
+    ],
+    "details": {
+        "First Name": "Jennifer",
+        "Middle Name": "Anne",
+        "Last Name": "Affleck",
+        "Maiden Name": "Garner",
+        "Full Name at Birth": "Jennifer Anne Garner",
+        "Alternative Name": "Jennifer Affleck, Jennifer Anne Garner Affleck, Jennifer Garner, Jennifer Anne Garner",
+        "Birthday": "1972",
+        "Birthplace": "USA",
+        "Height": "173",
+        "Weight": "134lbs (61 kg)",
+        "Zodiac Sign": "7",
+        "Sexuality": "Straight",
+        "Religion": "29",
+        "Ethnicity": "6",
+        "Nationality": "91",
+        "Occupation": "8"
+    }
+}

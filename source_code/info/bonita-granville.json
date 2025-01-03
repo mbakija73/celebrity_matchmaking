@@ -1,0 +1,55 @@
+{
+    "relationships": [
+        {
+            "name": "Jack Wrather",
+            "href": "https://www.whosdatedwho.com/dating/jack-wrather",
+            "relationship_type": 4,
+            "start_date": "1946",
+            "end_date": "12th Nov 1984",
+            "length": "38 years",
+            "start_months_since_1900": 552,
+            "end_months_since_1900": 1018,
+            "length_in_months": 456
+        },
+        {
+            "name": "Tim Holt",
+            "href": "https://www.whosdatedwho.com/dating/tim-holt",
+            "relationship_type": 2,
+            "start_date": "1942",
+            "end_date": "1942",
+            "length": "-",
+            "start_months_since_1900": 504,
+            "end_months_since_1900": 504,
+            "length_in_months": -1
+        },
+        {
+            "name": "Jackie Cooper",
+            "href": "https://www.whosdatedwho.com/dating/jackie-cooper",
+            "relationship_type": 2,
+            "start_date": "Sep 1940",
+            "end_date": "Nov 1940",
+            "length": "2 months",
+            "start_months_since_1900": 488,
+            "end_months_since_1900": 490,
+            "length_in_months": 2
+        }
+    ],
+    "details": {
+        "First Name": "Bonita",
+        "Middle Name": "NA",
+        "Last Name": "Granville",
+        "Maiden Name": "NA",
+        "Full Name at Birth": "Bonita Granville",
+        "Alternative Name": "Bonita Granville Wrather, Bonita Granville, Bonita Gloria Granville Wrather",
+        "Birthday": "1923",
+        "Birthplace": "USA",
+        "Height": "152",
+        "Weight": "NA",
+        "Zodiac Sign": "9",
+        "Sexuality": "Straight",
+        "Religion": "13",
+        "Ethnicity": "6",
+        "Nationality": "91",
+        "Occupation": "8"
+    }
+}

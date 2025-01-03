@@ -1,0 +1,77 @@
+{
+    "relationships": [
+        {
+            "name": "Michelle Phillips",
+            "href": "https://www.whosdatedwho.com/dating/michelle-phillips",
+            "relationship_type": 4,
+            "start_date": "1999",
+            "end_date": "Jan 2017",
+            "length": "18 years",
+            "start_months_since_1900": 1188,
+            "end_months_since_1900": 1404,
+            "length_in_months": 216
+        },
+        {
+            "name": "Jenny Atkins",
+            "href": "https://www.whosdatedwho.com/dating/jenny-atkins",
+            "relationship_type": 4,
+            "start_date": "12th Oct 1978",
+            "end_date": "8th Apr 1982",
+            "length": "3 years",
+            "start_months_since_1900": 945,
+            "end_months_since_1900": 987,
+            "length_in_months": 36
+        },
+        {
+            "name": "Corinna Tsopei",
+            "href": "https://www.whosdatedwho.com/dating/corinna-tsopei",
+            "relationship_type": 4,
+            "start_date": "29th Jun 1968",
+            "end_date": "1978",
+            "length": "9 years",
+            "start_months_since_1900": 821,
+            "end_months_since_1900": 936,
+            "length_in_months": 108
+        },
+        {
+            "name": "Jill St. John",
+            "href": "https://www.whosdatedwho.com/dating/jill-st-john",
+            "relationship_type": 2,
+            "start_date": "1965",
+            "end_date": "1965",
+            "length": "-",
+            "start_months_since_1900": 780,
+            "end_months_since_1900": 780,
+            "length_in_months": -1
+        },
+        {
+            "name": "Jenny Rivas",
+            "href": "https://www.whosdatedwho.com/dating/jenny-rivas",
+            "relationship_type": 4,
+            "start_date": "",
+            "end_date": "",
+            "length": "-",
+            "start_months_since_1900": -1,
+            "end_months_since_1900": -1,
+            "length_in_months": -1
+        }
+    ],
+    "details": {
+        "First Name": "Steven",
+        "Middle Name": "NA",
+        "Last Name": "Zax",
+        "Maiden Name": "NA",
+        "Full Name at Birth": "Steven Zax",
+        "Alternative Name": "Steven Zax",
+        "Birthday": "1938",
+        "Birthplace": "USA",
+        "Height": "NA",
+        "Weight": "NA",
+        "Zodiac Sign": "10",
+        "Sexuality": "Straight",
+        "Religion": "1",
+        "Ethnicity": "6",
+        "Nationality": "91",
+        "Occupation": "6"
+    }
+}

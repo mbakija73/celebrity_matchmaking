@@ -1,0 +1,55 @@
+{
+    "relationships": [
+        {
+            "name": "Betsey Cushing",
+            "href": "https://www.whosdatedwho.com/dating/betsey-cushing",
+            "relationship_type": 4,
+            "start_date": "1941",
+            "end_date": "Feb 1982",
+            "length": "41 years",
+            "start_months_since_1900": 492,
+            "end_months_since_1900": 985,
+            "length_in_months": 492
+        },
+        {
+            "name": "Liz Whitney Tippett",
+            "href": "https://www.whosdatedwho.com/dating/liz-whitney-tippett",
+            "relationship_type": 4,
+            "start_date": "1930",
+            "end_date": "1940",
+            "length": "10 years",
+            "start_months_since_1900": 360,
+            "end_months_since_1900": 480,
+            "length_in_months": 120
+        },
+        {
+            "name": "Jerome Zerbe",
+            "href": "https://www.whosdatedwho.com/dating/jerome-zerbe",
+            "relationship_type": 3,
+            "start_date": "",
+            "end_date": "",
+            "length": "-",
+            "start_months_since_1900": -1,
+            "end_months_since_1900": -1,
+            "length_in_months": -1
+        }
+    ],
+    "details": {
+        "First Name": "John",
+        "Middle Name": "Hay",
+        "Last Name": "Whitney",
+        "Maiden Name": "NA",
+        "Full Name at Birth": "John Hay Whitney",
+        "Alternative Name": "John Hay Whitney",
+        "Birthday": "1904",
+        "Birthplace": "USA",
+        "Height": "NA",
+        "Weight": "NA",
+        "Zodiac Sign": "12",
+        "Sexuality": "Bisexual",
+        "Religion": "1",
+        "Ethnicity": "6",
+        "Nationality": "91",
+        "Occupation": "7"
+    }
+}

@@ -1,0 +1,88 @@
+{
+    "relationships": [
+        {
+            "name": "May Andersen",
+            "href": "https://www.whosdatedwho.com/dating/may-andersen",
+            "relationship_type": 2,
+            "start_date": "Apr 2012",
+            "end_date": "2014",
+            "length": "1 year",
+            "start_months_since_1900": 1347,
+            "end_months_since_1900": 1368,
+            "length_in_months": 12
+        },
+        {
+            "name": "Rula Jebreal",
+            "href": "https://www.whosdatedwho.com/dating/rula-jebreal",
+            "relationship_type": 2,
+            "start_date": "2007",
+            "end_date": "Mar 2011",
+            "length": "4 years",
+            "start_months_since_1900": 1284,
+            "end_months_since_1900": 1334,
+            "length_in_months": 48
+        },
+        {
+            "name": "Moira Greenspun",
+            "href": "https://www.whosdatedwho.com/dating/moira-greenspun",
+            "relationship_type": 3,
+            "start_date": "2004",
+            "end_date": "2004",
+            "length": "-",
+            "start_months_since_1900": 1248,
+            "end_months_since_1900": 1248,
+            "length_in_months": -1
+        },
+        {
+            "name": "Olatz Schnabel",
+            "href": "https://www.whosdatedwho.com/dating/olatz-schnabel",
+            "relationship_type": 4,
+            "start_date": "1986",
+            "end_date": "2008",
+            "length": "22 years",
+            "start_months_since_1900": 1032,
+            "end_months_since_1900": 1296,
+            "length_in_months": 264
+        },
+        {
+            "name": "Jacqueline Beaurang",
+            "href": "https://www.whosdatedwho.com/dating/jacqueline-beaurang",
+            "relationship_type": 4,
+            "start_date": "1980",
+            "end_date": "1986",
+            "length": "6 years",
+            "start_months_since_1900": 960,
+            "end_months_since_1900": 1032,
+            "length_in_months": 72
+        },
+        {
+            "name": "Anh Duong",
+            "href": "https://www.whosdatedwho.com/dating/anh-duong",
+            "relationship_type": 1,
+            "start_date": "",
+            "end_date": "",
+            "length": "-",
+            "start_months_since_1900": -1,
+            "end_months_since_1900": -1,
+            "length_in_months": -1
+        }
+    ],
+    "details": {
+        "First Name": "Julian",
+        "Middle Name": "NA",
+        "Last Name": "Schnabel",
+        "Maiden Name": "NA",
+        "Full Name at Birth": "Julian Schnabel",
+        "Alternative Name": "Julian Schnabel",
+        "Birthday": "1951",
+        "Birthplace": "New York USA",
+        "Height": "173",
+        "Weight": "NA",
+        "Zodiac Sign": "5",
+        "Sexuality": "NA",
+        "Religion": "31",
+        "Ethnicity": "1",
+        "Nationality": "91",
+        "Occupation": "13"
+    }
+}

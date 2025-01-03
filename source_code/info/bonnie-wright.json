@@ -1,0 +1,66 @@
+{
+    "relationships": [
+        {
+            "name": "Andrew Lococo",
+            "href": "https://www.whosdatedwho.com/dating/andrew-lococo",
+            "relationship_type": 4,
+            "start_date": "2020",
+            "end_date": "present",
+            "length": "4 years",
+            "start_months_since_1900": 1440,
+            "end_months_since_1900": -1,
+            "length_in_months": 48
+        },
+        {
+            "name": "Jacob Artist",
+            "href": "https://www.whosdatedwho.com/dating/jacob-artist",
+            "relationship_type": 2,
+            "start_date": "Jan 2013",
+            "end_date": "May 2014",
+            "length": "1 year",
+            "start_months_since_1900": 1356,
+            "end_months_since_1900": 1372,
+            "length_in_months": 12
+        },
+        {
+            "name": "Simon Hammerstein",
+            "href": "https://www.whosdatedwho.com/dating/simon-hammerstein",
+            "relationship_type": 2,
+            "start_date": "Sep 2012",
+            "end_date": "Nov 2012",
+            "length": "2 months",
+            "start_months_since_1900": 1352,
+            "end_months_since_1900": 1354,
+            "length_in_months": 2
+        },
+        {
+            "name": "Jamie Campbell Bower",
+            "href": "https://www.whosdatedwho.com/dating/jamie-campbell-bower",
+            "relationship_type": 2,
+            "start_date": "2009",
+            "end_date": "Jun 2012",
+            "length": "3 years",
+            "start_months_since_1900": 1308,
+            "end_months_since_1900": 1349,
+            "length_in_months": 36
+        }
+    ],
+    "details": {
+        "First Name": "Bonnie",
+        "Middle Name": "Francesca",
+        "Last Name": "Wright",
+        "Maiden Name": "NA",
+        "Full Name at Birth": "Bonnie Francesca Wright",
+        "Alternative Name": "Bonnie Francesca Wright, Bonnie Wright, Bonnie Kathleen",
+        "Birthday": "1991",
+        "Birthplace": "England UK",
+        "Height": "168",
+        "Weight": "130lbs (59 kg)",
+        "Zodiac Sign": "9",
+        "Sexuality": "Straight",
+        "Religion": "18",
+        "Ethnicity": "6",
+        "Nationality": "8",
+        "Occupation": "8"
+    }
+}

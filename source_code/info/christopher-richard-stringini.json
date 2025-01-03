@@ -1,0 +1,55 @@
+{
+    "relationships": [
+        {
+            "name": "Monica Lewinski",
+            "href": "https://www.whosdatedwho.com/dating/monica-lewinski",
+            "relationship_type": 3,
+            "start_date": "Apr 2006",
+            "end_date": "Jul 2009",
+            "length": "3 years",
+            "start_months_since_1900": 1275,
+            "end_months_since_1900": 1314,
+            "length_in_months": 36
+        },
+        {
+            "name": "Maria Cherlettenbur",
+            "href": "https://www.whosdatedwho.com/dating/maria-cherlettenbur",
+            "relationship_type": 3,
+            "start_date": "Mar 2005",
+            "end_date": "2006",
+            "length": "10 months",
+            "start_months_since_1900": 1262,
+            "end_months_since_1900": 1272,
+            "length_in_months": 10
+        },
+        {
+            "name": "Lalaine",
+            "href": "https://www.whosdatedwho.com/dating/lalaine",
+            "relationship_type": 2,
+            "start_date": "Sep 2001",
+            "end_date": "Mar 2005",
+            "length": "3 years",
+            "start_months_since_1900": 1220,
+            "end_months_since_1900": 1262,
+            "length_in_months": 36
+        }
+    ],
+    "details": {
+        "First Name": "Christopher",
+        "Middle Name": "Richard",
+        "Last Name": "Stringini",
+        "Maiden Name": "NA",
+        "Full Name at Birth": "Christopher Richard Stringini",
+        "Alternative Name": "Richie, Chris",
+        "Birthday": "1988",
+        "Birthplace": "USA",
+        "Height": "173",
+        "Weight": "NA",
+        "Zodiac Sign": "6",
+        "Sexuality": "Straight",
+        "Religion": "18",
+        "Ethnicity": "6",
+        "Nationality": "91",
+        "Occupation": "8"
+    }
+}

@@ -1,0 +1,77 @@
+{
+    "relationships": [
+        {
+            "name": "Walter Chiari",
+            "href": "https://www.whosdatedwho.com/dating/walter-chiari",
+            "relationship_type": 2,
+            "start_date": "Apr 1960",
+            "end_date": "Jul 1960",
+            "length": "3 months",
+            "start_months_since_1900": 723,
+            "end_months_since_1900": 726,
+            "length_in_months": 3
+        },
+        {
+            "name": "Gualtiero Jacopetti",
+            "href": "https://www.whosdatedwho.com/dating/gualtiero-jacopetti",
+            "relationship_type": 2,
+            "start_date": "Nov 1959",
+            "end_date": "12th Mar 1961",
+            "length": "1 year",
+            "start_months_since_1900": 718,
+            "end_months_since_1900": 734,
+            "length_in_months": 12
+        },
+        {
+            "name": "King Faroukh",
+            "href": "https://www.whosdatedwho.com/dating/king-farouk",
+            "relationship_type": 3,
+            "start_date": "Sep 1957",
+            "end_date": "Nov 1957",
+            "length": "2 months",
+            "start_months_since_1900": 692,
+            "end_months_since_1900": 694,
+            "length_in_months": 2
+        },
+        {
+            "name": "Filippo Orsini",
+            "href": "https://www.whosdatedwho.com/dating/filippo-orsini",
+            "relationship_type": 2,
+            "start_date": "Sep 1957",
+            "end_date": "Mar 1961",
+            "length": "3 years",
+            "start_months_since_1900": 692,
+            "end_months_since_1900": 734,
+            "length_in_months": 36
+        },
+        {
+            "name": "Cornel Lucas",
+            "href": "https://www.whosdatedwho.com/dating/cornel-lucas",
+            "relationship_type": 4,
+            "start_date": "Jan 1954",
+            "end_date": "8th Apr 1959",
+            "length": "5 years",
+            "start_months_since_1900": 648,
+            "end_months_since_1900": 711,
+            "length_in_months": 60
+        }
+    ],
+    "details": {
+        "First Name": "Belinda",
+        "Middle Name": "NA",
+        "Last Name": "Lee",
+        "Maiden Name": "NA",
+        "Full Name at Birth": "NA",
+        "Alternative Name": "NA",
+        "Birthday": "1935",
+        "Birthplace": "UK",
+        "Height": "NA",
+        "Weight": "NA",
+        "Zodiac Sign": "4",
+        "Sexuality": "Straight",
+        "Religion": "1",
+        "Ethnicity": "6",
+        "Nationality": "8",
+        "Occupation": "8"
+    }
+}

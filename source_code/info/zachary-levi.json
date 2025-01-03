@@ -1,0 +1,66 @@
+{
+    "relationships": [
+        {
+            "name": "Missy Peregrym",
+            "href": "https://www.whosdatedwho.com/dating/missy-peregrym",
+            "relationship_type": 4,
+            "start_date": "2013",
+            "end_date": "2015",
+            "length": "2 years",
+            "start_months_since_1900": 1356,
+            "end_months_since_1900": 1380,
+            "length_in_months": 24
+        },
+        {
+            "name": "Caitlin Crosby",
+            "href": "https://www.whosdatedwho.com/dating/caitlin-crosby",
+            "relationship_type": 2,
+            "start_date": "May 2008",
+            "end_date": "Jan 2010",
+            "length": "1 year",
+            "start_months_since_1900": 1300,
+            "end_months_since_1900": 1320,
+            "length_in_months": 12
+        },
+        {
+            "name": "Rachael Taylor",
+            "href": "https://www.whosdatedwho.com/dating/rachael-taylor",
+            "relationship_type": 3,
+            "start_date": "2007",
+            "end_date": "2008",
+            "length": "1 year",
+            "start_months_since_1900": 1284,
+            "end_months_since_1900": 1296,
+            "length_in_months": 12
+        },
+        {
+            "name": "Yvette Nicole Brown",
+            "href": "https://www.whosdatedwho.com/dating/yvette-nicole-brown",
+            "relationship_type": 1,
+            "start_date": "",
+            "end_date": "",
+            "length": "-",
+            "start_months_since_1900": -1,
+            "end_months_since_1900": -1,
+            "length_in_months": -1
+        }
+    ],
+    "details": {
+        "First Name": "Zachary",
+        "Middle Name": "Levi",
+        "Last Name": "Pugh",
+        "Maiden Name": "NA",
+        "Full Name at Birth": "Zachary Levi Pugh",
+        "Alternative Name": "Zac",
+        "Birthday": "1980",
+        "Birthplace": "USA",
+        "Height": "191",
+        "Weight": "NA",
+        "Zodiac Sign": "10",
+        "Sexuality": "Straight",
+        "Religion": "18",
+        "Ethnicity": "6",
+        "Nationality": "91",
+        "Occupation": "8"
+    }
+}

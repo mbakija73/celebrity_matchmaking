@@ -1,0 +1,44 @@
+{
+    "relationships": [
+        {
+            "name": "Doris Day",
+            "href": "https://www.whosdatedwho.com/dating/doris-day",
+            "relationship_type": 4,
+            "start_date": "1940",
+            "end_date": "8th Feb 1943",
+            "length": "3 years",
+            "start_months_since_1900": 480,
+            "end_months_since_1900": 517,
+            "length_in_months": 36
+        },
+        {
+            "name": "Willetta Mae Extrom Jorden",
+            "href": "https://www.whosdatedwho.com/dating/willetta-mae-extrom-jorden",
+            "relationship_type": 4,
+            "start_date": "",
+            "end_date": "",
+            "length": "-",
+            "start_months_since_1900": -1,
+            "end_months_since_1900": -1,
+            "length_in_months": -1
+        }
+    ],
+    "details": {
+        "First Name": "Al",
+        "Middle Name": "NA",
+        "Last Name": "Jorden",
+        "Maiden Name": "NA",
+        "Full Name at Birth": "Albert Paul Jorden",
+        "Alternative Name": "Albert Paul Jorden, Al Jorden",
+        "Birthday": "1917",
+        "Birthplace": "USA",
+        "Height": "NA",
+        "Weight": "NA",
+        "Zodiac Sign": "9",
+        "Sexuality": "NA",
+        "Religion": "1",
+        "Ethnicity": "1",
+        "Nationality": "91",
+        "Occupation": "1"
+    }
+}

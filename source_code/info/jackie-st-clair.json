@@ -1,0 +1,88 @@
+{
+    "relationships": [
+        {
+            "name": "Prince",
+            "href": "https://www.whosdatedwho.com/dating/prince-musician",
+            "relationship_type": 2,
+            "start_date": "1986",
+            "end_date": "1986",
+            "length": "-",
+            "start_months_since_1900": 1032,
+            "end_months_since_1900": 1032,
+            "length_in_months": -1
+        },
+        {
+            "name": "Andrew Ridgeley",
+            "href": "https://www.whosdatedwho.com/dating/andrew-ridgeley",
+            "relationship_type": 2,
+            "start_date": "1985",
+            "end_date": "1985",
+            "length": "-",
+            "start_months_since_1900": 1020,
+            "end_months_since_1900": 1020,
+            "length_in_months": -1
+        },
+        {
+            "name": "Henry Percy, 11th Duke of Northumberland",
+            "href": "https://www.whosdatedwho.com/dating/henry-percy-11th-duke-of-northumberland",
+            "relationship_type": 3,
+            "start_date": "",
+            "end_date": "",
+            "length": "-",
+            "start_months_since_1900": -1,
+            "end_months_since_1900": -1,
+            "length_in_months": -1
+        },
+        {
+            "name": "Charlie Nicholas",
+            "href": "https://www.whosdatedwho.com/dating/charlie-nicholas",
+            "relationship_type": 2,
+            "start_date": "",
+            "end_date": "",
+            "length": "-",
+            "start_months_since_1900": -1,
+            "end_months_since_1900": -1,
+            "length_in_months": -1
+        },
+        {
+            "name": "Simon Cowell",
+            "href": "https://www.whosdatedwho.com/dating/simon-cowell",
+            "relationship_type": 2,
+            "start_date": "",
+            "end_date": "",
+            "length": "-",
+            "start_months_since_1900": -1,
+            "end_months_since_1900": -1,
+            "length_in_months": -1
+        },
+        {
+            "name": "Eddie Kidd",
+            "href": "https://www.whosdatedwho.com/dating/eddie-kidd",
+            "relationship_type": 2,
+            "start_date": "",
+            "end_date": "",
+            "length": "-",
+            "start_months_since_1900": -1,
+            "end_months_since_1900": -1,
+            "length_in_months": -1
+        }
+    ],
+    "details": {
+        "First Name": "Jackie",
+        "Middle Name": "St.",
+        "Last Name": "St Claire",
+        "Maiden Name": "NA",
+        "Full Name at Birth": "Jacqueline St Claire",
+        "Alternative Name": "Jackie St. Claire, Jacqueline St. Claire, Jackie St Clair",
+        "Birthday": "NA",
+        "Birthplace": "NA",
+        "Height": "NA",
+        "Weight": "NA",
+        "Zodiac Sign": "2",
+        "Sexuality": "Straight",
+        "Religion": "1",
+        "Ethnicity": "6",
+        "Nationality": "8",
+        "Occupation": "15"
+    }
+}

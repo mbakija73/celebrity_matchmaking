@@ -1,0 +1,33 @@
+{
+    "relationships": [
+        {
+            "name": "Gene Wilder",
+            "href": "https://www.whosdatedwho.com/dating/gene-wilder",
+            "relationship_type": 4,
+            "start_date": "Oct 1965",
+            "end_date": "Nov 1980",
+            "length": "15 years",
+            "start_months_since_1900": 789,
+            "end_months_since_1900": 970,
+            "length_in_months": 180
+        }
+    ],
+    "details": {
+        "First Name": "Mary",
+        "Middle Name": "Joan",
+        "Last Name": "Schutz",
+        "Maiden Name": "NA",
+        "Full Name at Birth": "NA",
+        "Alternative Name": "NA",
+        "Birthday": "1929",
+        "Birthplace": "NA",
+        "Height": "NA",
+        "Weight": "NA",
+        "Zodiac Sign": "2",
+        "Sexuality": "Straight",
+        "Religion": "1",
+        "Ethnicity": "6",
+        "Nationality": "91",
+        "Occupation": "19"
+    }
+}

@@ -1,0 +1,44 @@
+{
+    "relationships": [
+        {
+            "name": "Courtney Stodden",
+            "href": "https://www.whosdatedwho.com/dating/courtney-stodden",
+            "relationship_type": 3,
+            "start_date": "Nov 2013",
+            "end_date": "Nov 2013",
+            "length": "-",
+            "start_months_since_1900": 1366,
+            "end_months_since_1900": 1366,
+            "length_in_months": -1
+        },
+        {
+            "name": "Persis Khambatta",
+            "href": "https://www.whosdatedwho.com/dating/persis-khambatta",
+            "relationship_type": 2,
+            "start_date": "Aug 1986",
+            "end_date": "Sep 1993",
+            "length": "7 years",
+            "start_months_since_1900": 1039,
+            "end_months_since_1900": 1124,
+            "length_in_months": 84
+        }
+    ],
+    "details": {
+        "First Name": "Edward",
+        "Middle Name": "NA",
+        "Last Name": "Lozzi",
+        "Maiden Name": "NA",
+        "Full Name at Birth": "Edward Lozzi",
+        "Alternative Name": "NA",
+        "Birthday": "1960",
+        "Birthplace": "New Jersey",
+        "Height": "NA",
+        "Weight": "NA",
+        "Zodiac Sign": "1",
+        "Sexuality": "Straight",
+        "Religion": "1",
+        "Ethnicity": "6",
+        "Nationality": "91",
+        "Occupation": "7"
+    }
+}

@@ -1,0 +1,44 @@
+{
+    "relationships": [
+        {
+            "name": "Hugo Taylor",
+            "href": "https://www.whosdatedwho.com/dating/hugo-taylor",
+            "relationship_type": 4,
+            "start_date": "2016",
+            "end_date": "present",
+            "length": "8 years",
+            "start_months_since_1900": 1392,
+            "end_months_since_1900": -1,
+            "length_in_months": 96
+        },
+        {
+            "name": "Professor Green",
+            "href": "https://www.whosdatedwho.com/dating/professor-green",
+            "relationship_type": 4,
+            "start_date": "Dec 2011",
+            "end_date": "Feb 2016",
+            "length": "4 years",
+            "start_months_since_1900": 1343,
+            "end_months_since_1900": 1393,
+            "length_in_months": 48
+        }
+    ],
+    "details": {
+        "First Name": "Millie",
+        "Middle Name": "NA",
+        "Last Name": "Mackintosh",
+        "Maiden Name": "NA",
+        "Full Name at Birth": "Camilla Mackintosh",
+        "Alternative Name": "NA",
+        "Birthday": "1989",
+        "Birthplace": "UK",
+        "Height": "181",
+        "Weight": "NA",
+        "Zodiac Sign": "12",
+        "Sexuality": "Straight",
+        "Religion": "13",
+        "Ethnicity": "6",
+        "Nationality": "8",
+        "Occupation": "11"
+    }
+}

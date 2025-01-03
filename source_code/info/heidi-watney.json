@@ -1,0 +1,66 @@
+{
+    "relationships": [
+        {
+            "name": "Nick Green",
+            "href": "https://www.whosdatedwho.com/dating/nick-green",
+            "relationship_type": 1,
+            "start_date": "2009",
+            "end_date": "2009",
+            "length": "-",
+            "start_months_since_1900": 1308,
+            "end_months_since_1900": 1308,
+            "length_in_months": -1
+        },
+        {
+            "name": "Jason Varitek",
+            "href": "https://www.whosdatedwho.com/dating/jason-varitek",
+            "relationship_type": 2,
+            "start_date": "2008",
+            "end_date": "2008",
+            "length": "-",
+            "start_months_since_1900": 1296,
+            "end_months_since_1900": 1296,
+            "length_in_months": -1
+        },
+        {
+            "name": "Mike Wickham",
+            "href": "https://www.whosdatedwho.com/dating/mike-wickham",
+            "relationship_type": 4,
+            "start_date": "",
+            "end_date": "present",
+            "length": "-",
+            "start_months_since_1900": -1,
+            "end_months_since_1900": -1,
+            "length_in_months": -1
+        },
+        {
+            "name": "Jake Peavy",
+            "href": "https://www.whosdatedwho.com/dating/jake-peavy",
+            "relationship_type": 1,
+            "start_date": "",
+            "end_date": "",
+            "length": "-",
+            "start_months_since_1900": -1,
+            "end_months_since_1900": -1,
+            "length_in_months": -1
+        }
+    ],
+    "details": {
+        "First Name": "Heidi",
+        "Middle Name": "Diane",
+        "Last Name": "NA",
+        "Maiden Name": "Watney",
+        "Full Name at Birth": "Heidi Diane Watney",
+        "Alternative Name": "Heidi Watney, Heidi Diane Watney",
+        "Birthday": "1981",
+        "Birthplace": "USA",
+        "Height": "178",
+        "Weight": "NA",
+        "Zodiac Sign": "3",
+        "Sexuality": "Straight",
+        "Religion": "1",
+        "Ethnicity": "6",
+        "Nationality": "91",
+        "Occupation": "11"
+    }
+}

@@ -1,0 +1,44 @@
+{
+    "relationships": [
+        {
+            "name": "Bruce Willis",
+            "href": "https://www.whosdatedwho.com/dating/bruce-willis",
+            "relationship_type": 2,
+            "start_date": "Sep 1986",
+            "end_date": "Oct 1987",
+            "length": "1 year",
+            "start_months_since_1900": 1040,
+            "end_months_since_1900": 1053,
+            "length_in_months": 12
+        },
+        {
+            "name": "Geraldo Rivera",
+            "href": "https://www.whosdatedwho.com/dating/geraldo-rivera",
+            "relationship_type": 4,
+            "start_date": "1976",
+            "end_date": "1984",
+            "length": "8 years",
+            "start_months_since_1900": 912,
+            "end_months_since_1900": 1008,
+            "length_in_months": 96
+        }
+    ],
+    "details": {
+        "First Name": "Sherryl",
+        "Middle Name": "NA",
+        "Last Name": "Raymond",
+        "Maiden Name": "NA",
+        "Full Name at Birth": "NA",
+        "Alternative Name": "\"Sheri\" Sherry Raymond Rivera",
+        "Birthday": "NA",
+        "Birthplace": "NA",
+        "Height": "NA",
+        "Weight": "NA",
+        "Zodiac Sign": "2",
+        "Sexuality": "NA",
+        "Religion": "1",
+        "Ethnicity": "1",
+        "Nationality": "65",
+        "Occupation": "19"
+    }
+}

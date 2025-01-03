@@ -1,0 +1,55 @@
+{
+    "relationships": [
+        {
+            "name": "Tabitha Simmons",
+            "href": "https://www.whosdatedwho.com/dating/tabitha-simmons",
+            "relationship_type": 4,
+            "start_date": "Apr 2014",
+            "end_date": "present",
+            "length": "10 years",
+            "start_months_since_1900": 1371,
+            "end_months_since_1900": -1,
+            "length_in_months": 120
+        },
+        {
+            "name": "Meredith Ostrom",
+            "href": "https://www.whosdatedwho.com/dating/meredith-ostrom",
+            "relationship_type": 2,
+            "start_date": "Feb 2010",
+            "end_date": "",
+            "length": "-",
+            "start_months_since_1900": 1321,
+            "end_months_since_1900": -1,
+            "length_in_months": -1
+        },
+        {
+            "name": "Tinsley Mortimer",
+            "href": "https://www.whosdatedwho.com/dating/tinsley-mortimer",
+            "relationship_type": 4,
+            "start_date": "May 2002",
+            "end_date": "Nov 2009",
+            "length": "7 years",
+            "start_months_since_1900": 1228,
+            "end_months_since_1900": 1318,
+            "length_in_months": 84
+        }
+    ],
+    "details": {
+        "First Name": "Robert",
+        "Middle Name": "Mortimer",
+        "Last Name": "NA",
+        "Maiden Name": "NA",
+        "Full Name at Birth": "Robert Livingston Mortimer",
+        "Alternative Name": "Topper",
+        "Birthday": "NA",
+        "Birthplace": "NA",
+        "Height": "NA",
+        "Weight": "NA",
+        "Zodiac Sign": "2",
+        "Sexuality": "NA",
+        "Religion": "1",
+        "Ethnicity": "1",
+        "Nationality": "91",
+        "Occupation": "7"
+    }
+}

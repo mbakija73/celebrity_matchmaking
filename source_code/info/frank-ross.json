@@ -1,0 +1,55 @@
+{
+    "relationships": [
+        {
+            "name": "Joan Caulfield",
+            "href": "https://www.whosdatedwho.com/dating/joan-caulfield",
+            "relationship_type": 4,
+            "start_date": "1949",
+            "end_date": "Apr 1960",
+            "length": "11 years",
+            "start_months_since_1900": 588,
+            "end_months_since_1900": 723,
+            "length_in_months": 132
+        },
+        {
+            "name": "Jean Arthur",
+            "href": "https://www.whosdatedwho.com/dating/jean-arthur",
+            "relationship_type": 4,
+            "start_date": "1932",
+            "end_date": "1949",
+            "length": "17 years",
+            "start_months_since_1900": 384,
+            "end_months_since_1900": 588,
+            "length_in_months": 204
+        },
+        {
+            "name": "Joan Bradshaw",
+            "href": "https://www.whosdatedwho.com/dating/joan-bradshaw-3139370",
+            "relationship_type": 4,
+            "start_date": "",
+            "end_date": "",
+            "length": "-",
+            "start_months_since_1900": -1,
+            "end_months_since_1900": -1,
+            "length_in_months": -1
+        }
+    ],
+    "details": {
+        "First Name": "Frank",
+        "Middle Name": "NA",
+        "Last Name": "Ross",
+        "Maiden Name": "NA",
+        "Full Name at Birth": "NA",
+        "Alternative Name": "NA",
+        "Birthday": "1904",
+        "Birthplace": "Massachusetts",
+        "Height": "174",
+        "Weight": "NA",
+        "Zodiac Sign": "12",
+        "Sexuality": "NA",
+        "Religion": "1",
+        "Ethnicity": "1",
+        "Nationality": "91",
+        "Occupation": "3"
+    }
+}

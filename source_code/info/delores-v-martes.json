@@ -1,0 +1,44 @@
+{
+    "relationships": [
+        {
+            "name": "Donald Bohana",
+            "href": "https://www.whosdatedwho.com/dating/donald-bohana",
+            "relationship_type": 2,
+            "start_date": "1993",
+            "end_date": "1994",
+            "length": "1 year",
+            "start_months_since_1900": 1116,
+            "end_months_since_1900": 1128,
+            "length_in_months": 12
+        },
+        {
+            "name": "Tito Jackson",
+            "href": "https://www.whosdatedwho.com/dating/tito-jackson",
+            "relationship_type": 4,
+            "start_date": "1970",
+            "end_date": "1988",
+            "length": "18 years",
+            "start_months_since_1900": 840,
+            "end_months_since_1900": 1056,
+            "length_in_months": 216
+        }
+    ],
+    "details": {
+        "First Name": "Delores",
+        "Middle Name": "V.",
+        "Last Name": "Jackson",
+        "Maiden Name": "Martes",
+        "Full Name at Birth": "Delores V. Martes",
+        "Alternative Name": "Dee Dee",
+        "Birthday": "1955",
+        "Birthplace": "NA",
+        "Height": "NA",
+        "Weight": "NA",
+        "Zodiac Sign": "7",
+        "Sexuality": "Straight",
+        "Religion": "1",
+        "Ethnicity": "8",
+        "Nationality": "91",
+        "Occupation": "11"
+    }
+}

@@ -1,0 +1,77 @@
+{
+    "relationships": [
+        {
+            "name": "Abhishek Bachchan",
+            "href": "https://www.whosdatedwho.com/dating/abhishek-bachchan",
+            "relationship_type": 4,
+            "start_date": "2006",
+            "end_date": "present",
+            "length": "18 years",
+            "start_months_since_1900": 1272,
+            "end_months_since_1900": -1,
+            "length_in_months": 216
+        },
+        {
+            "name": "Martin Henderson",
+            "href": "https://www.whosdatedwho.com/dating/martin-henderson",
+            "relationship_type": 3,
+            "start_date": "2004",
+            "end_date": "2004",
+            "length": "-",
+            "start_months_since_1900": 1248,
+            "end_months_since_1900": 1248,
+            "length_in_months": -1
+        },
+        {
+            "name": "Salman Khan",
+            "href": "https://www.whosdatedwho.com/dating/salman-khan",
+            "relationship_type": 2,
+            "start_date": "1999",
+            "end_date": "2002",
+            "length": "3 years",
+            "start_months_since_1900": 1188,
+            "end_months_since_1900": 1224,
+            "length_in_months": 36
+        },
+        {
+            "name": "Hrithik Roshan",
+            "href": "https://www.whosdatedwho.com/dating/hrithik-roshan",
+            "relationship_type": 1,
+            "start_date": "",
+            "end_date": "",
+            "length": "-",
+            "start_months_since_1900": -1,
+            "end_months_since_1900": -1,
+            "length_in_months": -1
+        },
+        {
+            "name": "Vivek Oberoi",
+            "href": "https://www.whosdatedwho.com/dating/vivek-oberoi",
+            "relationship_type": 2,
+            "start_date": "",
+            "end_date": "",
+            "length": "-",
+            "start_months_since_1900": -1,
+            "end_months_since_1900": -1,
+            "length_in_months": -1
+        }
+    ],
+    "details": {
+        "First Name": "Aishwarya",
+        "Middle Name": "NA",
+        "Last Name": "Bachchan",
+        "Maiden Name": "Rai",
+        "Full Name at Birth": "Aishwarya Rai",
+        "Alternative Name": "Aish, Gullu, Ash, Aishwarya Rai  Bachchan, Aishwarya Rai, Miss World 1994, Queen of Bollywood, Bachchan Bahu",
+        "Birthday": "1973",
+        "Birthplace": "India",
+        "Height": "170",
+        "Weight": "128lbs (58 kg)",
+        "Zodiac Sign": "5",
+        "Sexuality": "Straight",
+        "Religion": "27",
+        "Ethnicity": "7",
+        "Nationality": "34",
+        "Occupation": "8"
+    }
+}

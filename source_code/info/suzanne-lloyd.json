@@ -1,0 +1,55 @@
+{
+    "relationships": [
+        {
+            "name": "Buddy Bregman",
+            "href": "https://www.whosdatedwho.com/dating/buddy-bregman",
+            "relationship_type": 4,
+            "start_date": "Sep 1960",
+            "end_date": "11th Nov 1988",
+            "length": "28 years",
+            "start_months_since_1900": 728,
+            "end_months_since_1900": 1066,
+            "length_in_months": 336
+        },
+        {
+            "name": "Peter Brown",
+            "href": "https://www.whosdatedwho.com/dating/peter-brown",
+            "relationship_type": 2,
+            "start_date": "Oct 1959",
+            "end_date": "Dec 1959",
+            "length": "2 months",
+            "start_months_since_1900": 717,
+            "end_months_since_1900": 719,
+            "length_in_months": 2
+        },
+        {
+            "name": "Allan A. Buckhantz",
+            "href": "https://www.whosdatedwho.com/dating/allan-a-buckhantz",
+            "relationship_type": 4,
+            "start_date": "1952",
+            "end_date": "1959",
+            "length": "7 years",
+            "start_months_since_1900": 624,
+            "end_months_since_1900": 708,
+            "length_in_months": 84
+        }
+    ],
+    "details": {
+        "First Name": "Suzanne",
+        "Middle Name": "NA",
+        "Last Name": "Lloyd",
+        "Maiden Name": "NA",
+        "Full Name at Birth": "NA",
+        "Alternative Name": "NA",
+        "Birthday": "1934",
+        "Birthplace": "Canada",
+        "Height": "168",
+        "Weight": "NA",
+        "Zodiac Sign": "5",
+        "Sexuality": "Straight",
+        "Religion": "1",
+        "Ethnicity": "6",
+        "Nationality": "90",
+        "Occupation": "8"
+    }
+}

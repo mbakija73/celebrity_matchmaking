@@ -1,0 +1,44 @@
+{
+    "relationships": [
+        {
+            "name": "James Toseland",
+            "href": "https://www.whosdatedwho.com/dating/james-toseland",
+            "relationship_type": 4,
+            "start_date": "2010",
+            "end_date": "2020",
+            "length": "10 years",
+            "start_months_since_1900": 1320,
+            "end_months_since_1900": 1440,
+            "length_in_months": 120
+        },
+        {
+            "name": "Luke Pritchard",
+            "href": "https://www.whosdatedwho.com/dating/luke-pritchard",
+            "relationship_type": 2,
+            "start_date": "2002",
+            "end_date": "Mar 2005",
+            "length": "3 years",
+            "start_months_since_1900": 1224,
+            "end_months_since_1900": 1262,
+            "length_in_months": 36
+        }
+    ],
+    "details": {
+        "First Name": "Katie",
+        "Middle Name": "NA",
+        "Last Name": "Melua",
+        "Maiden Name": "NA",
+        "Full Name at Birth": "Ketevan Melua",
+        "Alternative Name": "Katie, Ketino",
+        "Birthday": "1984",
+        "Birthplace": "Georgia",
+        "Height": "157",
+        "Weight": "112lbs (51 kg)",
+        "Zodiac Sign": "11",
+        "Sexuality": "Straight",
+        "Religion": "24",
+        "Ethnicity": "6",
+        "Nationality": "130",
+        "Occupation": "1"
+    }
+}

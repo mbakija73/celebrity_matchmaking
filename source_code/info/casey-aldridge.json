@@ -1,0 +1,55 @@
+{
+    "relationships": [
+        {
+            "name": "April Watson",
+            "href": "https://www.whosdatedwho.com/dating/april-watson",
+            "relationship_type": 4,
+            "start_date": "2013",
+            "end_date": "2018",
+            "length": "5 years",
+            "start_months_since_1900": 1356,
+            "end_months_since_1900": 1416,
+            "length_in_months": 60
+        },
+        {
+            "name": "Kelli Dawson",
+            "href": "https://www.whosdatedwho.com/dating/kelli-dawson",
+            "relationship_type": 3,
+            "start_date": "2006",
+            "end_date": "2007",
+            "length": "1 year",
+            "start_months_since_1900": 1272,
+            "end_months_since_1900": 1284,
+            "length_in_months": 12
+        },
+        {
+            "name": "Jamie Lynn Spears",
+            "href": "https://www.whosdatedwho.com/dating/jamie-lynn-spears",
+            "relationship_type": 2,
+            "start_date": "Jun 2005",
+            "end_date": "Feb 2010",
+            "length": "4 years",
+            "start_months_since_1900": 1265,
+            "end_months_since_1900": 1321,
+            "length_in_months": 48
+        }
+    ],
+    "details": {
+        "First Name": "Casey",
+        "Middle Name": "NA",
+        "Last Name": "Aldridge",
+        "Maiden Name": "NA",
+        "Full Name at Birth": "Cameron Aldridge",
+        "Alternative Name": "Casey",
+        "Birthday": "1989",
+        "Birthplace": "NA",
+        "Height": "185",
+        "Weight": "NA",
+        "Zodiac Sign": "3",
+        "Sexuality": "Straight",
+        "Religion": "31",
+        "Ethnicity": "6",
+        "Nationality": "91",
+        "Occupation": "11"
+    }
+}

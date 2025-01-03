@@ -1,0 +1,33 @@
+{
+    "relationships": [
+        {
+            "name": "Isadora Duncan",
+            "href": "https://www.whosdatedwho.com/dating/isadora-duncan",
+            "relationship_type": 1,
+            "start_date": "",
+            "end_date": "",
+            "length": "-",
+            "start_months_since_1900": -1,
+            "end_months_since_1900": -1,
+            "length_in_months": -1
+        }
+    ],
+    "details": {
+        "First Name": "Oscar",
+        "Middle Name": "NA",
+        "Last Name": "Beregi",
+        "Maiden Name": "NA",
+        "Full Name at Birth": "Beregi Oszk\u00e1r",
+        "Alternative Name": "Oscar Beregi Sr.",
+        "Birthday": "1876",
+        "Birthplace": "Hungary",
+        "Height": "NA",
+        "Weight": "NA",
+        "Zodiac Sign": "9",
+        "Sexuality": "Straight",
+        "Religion": "1",
+        "Ethnicity": "6",
+        "Nationality": "31",
+        "Occupation": "8"
+    }
+}

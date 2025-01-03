@@ -1,0 +1,55 @@
+{
+    "relationships": [
+        {
+            "name": "Dianna Russini",
+            "href": "https://www.whosdatedwho.com/dating/dianna-russini",
+            "relationship_type": 3,
+            "start_date": "2008",
+            "end_date": "2008",
+            "length": "-",
+            "start_months_since_1900": 1296,
+            "end_months_since_1900": 1296,
+            "length_in_months": -1
+        },
+        {
+            "name": "Erin Andrews",
+            "href": "https://www.whosdatedwho.com/dating/erin-andrews",
+            "relationship_type": 2,
+            "start_date": "2007",
+            "end_date": "2007",
+            "length": "-",
+            "start_months_since_1900": 1284,
+            "end_months_since_1900": 1284,
+            "length_in_months": -1
+        },
+        {
+            "name": "Molly Beers",
+            "href": "https://www.whosdatedwho.com/dating/molly-beers",
+            "relationship_type": 4,
+            "start_date": "Apr 2006",
+            "end_date": "present",
+            "length": "18 years",
+            "start_months_since_1900": 1275,
+            "end_months_since_1900": -1,
+            "length_in_months": 216
+        }
+    ],
+    "details": {
+        "First Name": "David",
+        "Middle Name": "Allen",
+        "Last Name": "Wright",
+        "Maiden Name": "NA",
+        "Full Name at Birth": "David Allen Wright",
+        "Alternative Name": "D-Wright, Visine",
+        "Birthday": "1982",
+        "Birthplace": "United States",
+        "Height": "183",
+        "Weight": "210lbs (95 kg)",
+        "Zodiac Sign": "6",
+        "Sexuality": "Straight",
+        "Religion": "1",
+        "Ethnicity": "6",
+        "Nationality": "91",
+        "Occupation": "2"
+    }
+}

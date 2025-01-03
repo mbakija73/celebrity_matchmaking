@@ -1,0 +1,66 @@
+{
+    "relationships": [
+        {
+            "name": "Laura Tingle",
+            "href": "https://www.whosdatedwho.com/dating/laura-tingle",
+            "relationship_type": 2,
+            "start_date": "2018",
+            "end_date": "present",
+            "length": "6 years",
+            "start_months_since_1900": 1416,
+            "end_months_since_1900": -1,
+            "length_in_months": 72
+        },
+        {
+            "name": "Noriko Watanabe",
+            "href": "https://www.whosdatedwho.com/dating/noriko-watanabe",
+            "relationship_type": 4,
+            "start_date": "1988",
+            "end_date": "2017",
+            "length": "29 years",
+            "start_months_since_1900": 1056,
+            "end_months_since_1900": 1404,
+            "length_in_months": 348
+        },
+        {
+            "name": "Kate Fitzpatrick",
+            "href": "https://www.whosdatedwho.com/dating/kate-fitzpatrick",
+            "relationship_type": 2,
+            "start_date": "1984",
+            "end_date": "1985",
+            "length": "1 year",
+            "start_months_since_1900": 1008,
+            "end_months_since_1900": 1020,
+            "length_in_months": 12
+        },
+        {
+            "name": "Lisa Harrow",
+            "href": "https://www.whosdatedwho.com/dating/lisa-harrow",
+            "relationship_type": 2,
+            "start_date": "Jun 1980",
+            "end_date": "1984",
+            "length": "3 years",
+            "start_months_since_1900": 965,
+            "end_months_since_1900": 1008,
+            "length_in_months": 36
+        }
+    ],
+    "details": {
+        "First Name": "Sam",
+        "Middle Name": "James Dermot",
+        "Last Name": "Neill",
+        "Maiden Name": "NA",
+        "Full Name at Birth": "Nigel James Dermot Neill",
+        "Alternative Name": "Nigel Neill",
+        "Birthday": "1947",
+        "Birthplace": "UK",
+        "Height": "183",
+        "Weight": "154lbs (70 kg)",
+        "Zodiac Sign": "11",
+        "Sexuality": "Straight",
+        "Religion": "37",
+        "Ethnicity": "6",
+        "Nationality": "72",
+        "Occupation": "8"
+    }
+}

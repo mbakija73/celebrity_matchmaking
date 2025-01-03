@@ -1,0 +1,55 @@
+{
+    "relationships": [
+        {
+            "name": "Dana Lavas",
+            "href": "https://www.whosdatedwho.com/dating/dana-lavas",
+            "relationship_type": 4,
+            "start_date": "1989",
+            "end_date": "1997",
+            "length": "8 years",
+            "start_months_since_1900": 1068,
+            "end_months_since_1900": 1164,
+            "length_in_months": 96
+        },
+        {
+            "name": "Tracy Scoggins",
+            "href": "https://www.whosdatedwho.com/dating/tracy-scoggins",
+            "relationship_type": 2,
+            "start_date": "1988",
+            "end_date": "1988",
+            "length": "-",
+            "start_months_since_1900": 1056,
+            "end_months_since_1900": 1056,
+            "length_in_months": -1
+        },
+        {
+            "name": "Daphne Zuniga",
+            "href": "https://www.whosdatedwho.com/dating/daphne-zuniga",
+            "relationship_type": 2,
+            "start_date": "1986",
+            "end_date": "1986",
+            "length": "-",
+            "start_months_since_1900": 1032,
+            "end_months_since_1900": 1032,
+            "length_in_months": -1
+        }
+    ],
+    "details": {
+        "First Name": "Jason",
+        "Middle Name": "NA",
+        "Last Name": "Gedrick",
+        "Maiden Name": "NA",
+        "Full Name at Birth": "Jason Michael Gedroic",
+        "Alternative Name": "NA",
+        "Birthday": "1965",
+        "Birthplace": "USA",
+        "Height": "182",
+        "Weight": "NA",
+        "Zodiac Sign": "9",
+        "Sexuality": "Straight",
+        "Religion": "1",
+        "Ethnicity": "6",
+        "Nationality": "91",
+        "Occupation": "8"
+    }
+}

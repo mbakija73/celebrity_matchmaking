@@ -1,0 +1,55 @@
+{
+    "relationships": [
+        {
+            "name": "DJ Friese",
+            "href": "https://www.whosdatedwho.com/dating/dj-friese",
+            "relationship_type": 2,
+            "start_date": "Nov 2019",
+            "end_date": "present",
+            "length": "4 years",
+            "start_months_since_1900": 1438,
+            "end_months_since_1900": -1,
+            "length_in_months": 48
+        },
+        {
+            "name": "Gerard Butler",
+            "href": "https://www.whosdatedwho.com/dating/gerard-butler",
+            "relationship_type": 2,
+            "start_date": "Jul 2014",
+            "end_date": "2014",
+            "length": "6 months",
+            "start_months_since_1900": 1374,
+            "end_months_since_1900": 1368,
+            "length_in_months": 6
+        },
+        {
+            "name": "Jason Cundy",
+            "href": "https://www.whosdatedwho.com/dating/jason-cundy",
+            "relationship_type": 4,
+            "start_date": "1992",
+            "end_date": "2010",
+            "length": "18 years",
+            "start_months_since_1900": 1104,
+            "end_months_since_1900": 1320,
+            "length_in_months": 216
+        }
+    ],
+    "details": {
+        "First Name": "Elizabeth",
+        "Middle Name": "Jane",
+        "Last Name": "Cundy",
+        "Maiden Name": "Miller",
+        "Full Name at Birth": "Elizabeth Jane Miller",
+        "Alternative Name": "Elizabeth \"Lizzie\" Cundy, Elizabeth \"Lizzie\" Miller Cundy, Lizzie Cundy, Elizabeth Miller, Elizabeth Cundy, Lizzie",
+        "Birthday": "1968",
+        "Birthplace": "\u200eUK",
+        "Height": "166",
+        "Weight": "115lbs (52 kg)",
+        "Zodiac Sign": "3",
+        "Sexuality": "Straight",
+        "Religion": "1",
+        "Ethnicity": "6",
+        "Nationality": "8",
+        "Occupation": "11"
+    }
+}

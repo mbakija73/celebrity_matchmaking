@@ -1,0 +1,16 @@
+{
+    "relationships": [
+        {
+            "name": "Edward Weston",
+            "href": "https://www.whosdatedwho.com/dating/edward-weston",
+            "relationship_type": 2,
+            "start_date": "Feb 1927",
+            "end_date": "1927",
+            "length": "1 month",
+            "start_months_since_1900": 325,
+            "end_months_since_1900": 324,
+            "length_in_months": 1
+        }
+    ],
+    "details": {}
+}

@@ -1,0 +1,55 @@
+{
+    "relationships": [
+        {
+            "name": "Rob Gooch",
+            "href": "https://www.whosdatedwho.com/dating/rob-gooch",
+            "relationship_type": 2,
+            "start_date": "2012",
+            "end_date": "present",
+            "length": "12 years",
+            "start_months_since_1900": 1344,
+            "end_months_since_1900": -1,
+            "length_in_months": 144
+        },
+        {
+            "name": "Baby Bash",
+            "href": "https://www.whosdatedwho.com/dating/baby-bash",
+            "relationship_type": 3,
+            "start_date": "2010",
+            "end_date": "2010",
+            "length": "-",
+            "start_months_since_1900": 1320,
+            "end_months_since_1900": 1320,
+            "length_in_months": -1
+        },
+        {
+            "name": "Niko",
+            "href": "https://www.whosdatedwho.com/dating/niko",
+            "relationship_type": 2,
+            "start_date": "2010",
+            "end_date": "2011",
+            "length": "1 year",
+            "start_months_since_1900": 1320,
+            "end_months_since_1900": 1332,
+            "length_in_months": 12
+        }
+    ],
+    "details": {
+        "First Name": "Brinn",
+        "Middle Name": "NA",
+        "Last Name": "Nicole",
+        "Maiden Name": "NA",
+        "Full Name at Birth": "Brinn Nicole Bierman",
+        "Alternative Name": "NA",
+        "Birthday": "NA",
+        "Birthplace": "NA",
+        "Height": "160",
+        "Weight": "109lbs (49 kg)",
+        "Zodiac Sign": "2",
+        "Sexuality": "NA",
+        "Religion": "31",
+        "Ethnicity": "8",
+        "Nationality": "91",
+        "Occupation": "14"
+    }
+}

@@ -1,0 +1,44 @@
+{
+    "relationships": [
+        {
+            "name": "Terry Farrell",
+            "href": "https://www.whosdatedwho.com/dating/terry-farrell",
+            "relationship_type": 4,
+            "start_date": "Feb 2002",
+            "end_date": "Dec 2015",
+            "length": "13 years",
+            "start_months_since_1900": 1225,
+            "end_months_since_1900": 1391,
+            "length_in_months": 156
+        },
+        {
+            "name": "Susan Voelz",
+            "href": "https://www.whosdatedwho.com/dating/susan-voelz",
+            "relationship_type": 2,
+            "start_date": "",
+            "end_date": "present",
+            "length": "-",
+            "start_months_since_1900": -1,
+            "end_months_since_1900": -1,
+            "length_in_months": -1
+        }
+    ],
+    "details": {
+        "First Name": "Brian",
+        "Middle Name": "NA",
+        "Last Name": "Baker",
+        "Maiden Name": "NA",
+        "Full Name at Birth": "Brian Baker",
+        "Alternative Name": "NA",
+        "Birthday": "1967",
+        "Birthplace": "Pennsylvania",
+        "Height": "185",
+        "Weight": "NA",
+        "Zodiac Sign": "8",
+        "Sexuality": "NA",
+        "Religion": "1",
+        "Ethnicity": "1",
+        "Nationality": "91",
+        "Occupation": "8"
+    }
+}

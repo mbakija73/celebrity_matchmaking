@@ -1,0 +1,55 @@
+{
+    "relationships": [
+        {
+            "name": "George Merrill (gay activist)",
+            "href": "https://www.whosdatedwho.com/dating/george-merrill",
+            "relationship_type": 2,
+            "start_date": "1891",
+            "end_date": "1928",
+            "length": "37 years",
+            "start_months_since_1900": -108,
+            "end_months_since_1900": 336,
+            "length_in_months": 444
+        },
+        {
+            "name": "Walt Whitman",
+            "href": "https://www.whosdatedwho.com/dating/walt-whitman",
+            "relationship_type": 3,
+            "start_date": "1838",
+            "end_date": "1838",
+            "length": "-",
+            "start_months_since_1900": -744,
+            "end_months_since_1900": -744,
+            "length_in_months": -1
+        },
+        {
+            "name": "George Edward Hukin",
+            "href": "https://www.whosdatedwho.com/dating/george-edward-hukin",
+            "relationship_type": 2,
+            "start_date": "",
+            "end_date": "",
+            "length": "-",
+            "start_months_since_1900": -1,
+            "end_months_since_1900": -1,
+            "length_in_months": -1
+        }
+    ],
+    "details": {
+        "First Name": "Edward",
+        "Middle Name": "NA",
+        "Last Name": "Carpenter",
+        "Maiden Name": "NA",
+        "Full Name at Birth": "NA",
+        "Alternative Name": "NA",
+        "Birthday": "1844",
+        "Birthplace": "England",
+        "Height": "NA",
+        "Weight": "NA",
+        "Zodiac Sign": "11",
+        "Sexuality": "Gay",
+        "Religion": "1",
+        "Ethnicity": "1",
+        "Nationality": "8",
+        "Occupation": "12"
+    }
+}

@@ -1,0 +1,55 @@
+{
+    "relationships": [
+        {
+            "name": "Estelle Gullit",
+            "href": "https://www.whosdatedwho.com/dating/estelle-gullit",
+            "relationship_type": 4,
+            "start_date": "2000",
+            "end_date": "Jun 2012",
+            "length": "12 years",
+            "start_months_since_1900": 1200,
+            "end_months_since_1900": 1349,
+            "length_in_months": 144
+        },
+        {
+            "name": "Cristina Pensa",
+            "href": "https://www.whosdatedwho.com/dating/cristina-pensa",
+            "relationship_type": 4,
+            "start_date": "1994",
+            "end_date": "May 2000",
+            "length": "6 years",
+            "start_months_since_1900": 1128,
+            "end_months_since_1900": 1204,
+            "length_in_months": 72
+        },
+        {
+            "name": "Yvonne De Vries",
+            "href": "https://www.whosdatedwho.com/dating/yvonne-de-vries",
+            "relationship_type": 4,
+            "start_date": "1984",
+            "end_date": "1991",
+            "length": "7 years",
+            "start_months_since_1900": 1008,
+            "end_months_since_1900": 1092,
+            "length_in_months": 84
+        }
+    ],
+    "details": {
+        "First Name": "Ruud",
+        "Middle Name": "NA",
+        "Last Name": "Gullit",
+        "Maiden Name": "NA",
+        "Full Name at Birth": "Ruud Gullit",
+        "Alternative Name": "NA",
+        "Birthday": "1962",
+        "Birthplace": "Netherlands",
+        "Height": "186",
+        "Weight": "NA",
+        "Zodiac Sign": "11",
+        "Sexuality": "Bisexual",
+        "Religion": "1",
+        "Ethnicity": "8",
+        "Nationality": "45",
+        "Occupation": "2"
+    }
+}

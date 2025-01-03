@@ -1,0 +1,99 @@
+{
+    "relationships": [
+        {
+            "name": "DJ Drama",
+            "href": "https://www.whosdatedwho.com/dating/dj-drama",
+            "relationship_type": 2,
+            "start_date": "Jan 2014",
+            "end_date": "2018",
+            "length": "4 years",
+            "start_months_since_1900": 1368,
+            "end_months_since_1900": 1416,
+            "length_in_months": 48
+        },
+        {
+            "name": "Paul George",
+            "href": "https://www.whosdatedwho.com/dating/paul-george",
+            "relationship_type": 3,
+            "start_date": "Dec 2013",
+            "end_date": "Dec 2013",
+            "length": "-",
+            "start_months_since_1900": 1367,
+            "end_months_since_1900": 1367,
+            "length_in_months": -1
+        },
+        {
+            "name": "Kobe Bryant",
+            "href": "https://www.whosdatedwho.com/dating/kobe-bryant",
+            "relationship_type": 3,
+            "start_date": "2011",
+            "end_date": "",
+            "length": "-",
+            "start_months_since_1900": 1332,
+            "end_months_since_1900": -1,
+            "length_in_months": -1
+        },
+        {
+            "name": "Floyd Mayweather Jr.",
+            "href": "https://www.whosdatedwho.com/dating/floyd-mayweather-jr",
+            "relationship_type": 3,
+            "start_date": "2011",
+            "end_date": "2011",
+            "length": "-",
+            "start_months_since_1900": 1332,
+            "end_months_since_1900": 1332,
+            "length_in_months": -1
+        },
+        {
+            "name": "Miles Austin",
+            "href": "https://www.whosdatedwho.com/dating/miles-austin",
+            "relationship_type": 2,
+            "start_date": "2009",
+            "end_date": "2010",
+            "length": "1 year",
+            "start_months_since_1900": 1308,
+            "end_months_since_1900": 1320,
+            "length_in_months": 12
+        },
+        {
+            "name": "Hugh Hefner",
+            "href": "https://www.whosdatedwho.com/dating/hugh-m-hefner",
+            "relationship_type": 3,
+            "start_date": "2008",
+            "end_date": "2008",
+            "length": "-",
+            "start_months_since_1900": 1296,
+            "end_months_since_1900": 1296,
+            "length_in_months": -1
+        },
+        {
+            "name": "Lance Moore",
+            "href": "https://www.whosdatedwho.com/dating/lance-moore",
+            "relationship_type": 1,
+            "start_date": "",
+            "end_date": "",
+            "length": "-",
+            "start_months_since_1900": -1,
+            "end_months_since_1900": -1,
+            "length_in_months": -1
+        }
+    ],
+    "details": {
+        "First Name": "Jessica",
+        "Middle Name": "Irene",
+        "Last Name": "Burciaga",
+        "Maiden Name": "NA",
+        "Full Name at Birth": "Jessica Irene Burciaga",
+        "Alternative Name": "Jessie, Miss February 2009, Jessica Irene Burciaga, Jessica Burciaga",
+        "Birthday": "1983",
+        "Birthplace": "USA",
+        "Height": "157",
+        "Weight": "110lbs (50 kg)",
+        "Zodiac Sign": "7",
+        "Sexuality": "Straight",
+        "Religion": "1",
+        "Ethnicity": "8",
+        "Nationality": "91",
+        "Occupation": "16"
+    }
+}

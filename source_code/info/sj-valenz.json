@@ -1,0 +1,110 @@
+{
+    "relationships": [
+        {
+            "name": "Matt Piper",
+            "href": "https://www.whosdatedwho.com/dating/matt-piper",
+            "relationship_type": 2,
+            "start_date": "2014",
+            "end_date": "present",
+            "length": "10 years",
+            "start_months_since_1900": 1368,
+            "end_months_since_1900": -1,
+            "length_in_months": 120
+        },
+        {
+            "name": "Evan Couture",
+            "href": "https://www.whosdatedwho.com/dating/evan-couture",
+            "relationship_type": 2,
+            "start_date": "May 2013",
+            "end_date": "2014",
+            "length": "8 months",
+            "start_months_since_1900": 1360,
+            "end_months_since_1900": 1368,
+            "length_in_months": 8
+        },
+        {
+            "name": "Hunter Horrible",
+            "href": "https://www.whosdatedwho.com/dating/hunter-horrible",
+            "relationship_type": 2,
+            "start_date": "Feb 2013",
+            "end_date": "",
+            "length": "-",
+            "start_months_since_1900": 1357,
+            "end_months_since_1900": -1,
+            "length_in_months": -1
+        },
+        {
+            "name": "Chris Vanbuskirk",
+            "href": "https://www.whosdatedwho.com/dating/chris-vanbuskirk",
+            "relationship_type": 2,
+            "start_date": "Nov 2012",
+            "end_date": "",
+            "length": "-",
+            "start_months_since_1900": 1354,
+            "end_months_since_1900": -1,
+            "length_in_months": -1
+        },
+        {
+            "name": "Luigi Vincenzo Campa",
+            "href": "https://www.whosdatedwho.com/dating/luigi-vincenzo-campa",
+            "relationship_type": 2,
+            "start_date": "Sep 2011",
+            "end_date": "Jun 2012",
+            "length": "9 months",
+            "start_months_since_1900": 1340,
+            "end_months_since_1900": 1349,
+            "length_in_months": 9
+        },
+        {
+            "name": "Tyler Small",
+            "href": "https://www.whosdatedwho.com/dating/tyler-small",
+            "relationship_type": 2,
+            "start_date": "Apr 2011",
+            "end_date": "",
+            "length": "-",
+            "start_months_since_1900": 1335,
+            "end_months_since_1900": -1,
+            "length_in_months": -1
+        },
+        {
+            "name": "James Hancock",
+            "href": "https://www.whosdatedwho.com/dating/james-hancock",
+            "relationship_type": 1,
+            "start_date": "Feb 2010",
+            "end_date": "May 2011",
+            "length": "1 year",
+            "start_months_since_1900": 1321,
+            "end_months_since_1900": 1336,
+            "length_in_months": 12
+        },
+        {
+            "name": "Myca Gardner",
+            "href": "https://www.whosdatedwho.com/dating/myca-gardner",
+            "relationship_type": 1,
+            "start_date": "",
+            "end_date": "",
+            "length": "-",
+            "start_months_since_1900": -1,
+            "end_months_since_1900": -1,
+            "length_in_months": -1
+        }
+    ],
+    "details": {
+        "First Name": "Sarah",
+        "Middle Name": "Jean",
+        "Last Name": "Valenz",
+        "Maiden Name": "NA",
+        "Full Name at Birth": "NA",
+        "Alternative Name": "So Vindictive",
+        "Birthday": "27th August",
+        "Birthplace": "NA",
+        "Height": "163",
+        "Weight": "NA",
+        "Zodiac Sign": "11",
+        "Sexuality": "Straight",
+        "Religion": "1",
+        "Ethnicity": "6",
+        "Nationality": "139",
+        "Occupation": "11"
+    }
+}

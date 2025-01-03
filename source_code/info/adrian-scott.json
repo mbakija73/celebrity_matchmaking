@@ -1,0 +1,55 @@
+{
+    "relationships": [
+        {
+            "name": "Joan Scott (screenwriter)",
+            "href": "https://www.whosdatedwho.com/dating/joan-scott-screenwriter",
+            "relationship_type": 4,
+            "start_date": "1954",
+            "end_date": "25th Dec 1973",
+            "length": "19 years",
+            "start_months_since_1900": 648,
+            "end_months_since_1900": 887,
+            "length_in_months": 228
+        },
+        {
+            "name": "Anne Shirley",
+            "href": "https://www.whosdatedwho.com/dating/anne-shirley",
+            "relationship_type": 4,
+            "start_date": "Feb 1944",
+            "end_date": "Aug 1948",
+            "length": "4 years",
+            "start_months_since_1900": 529,
+            "end_months_since_1900": 583,
+            "length_in_months": 48
+        },
+        {
+            "name": "Isabelle Dorothy Scott",
+            "href": "https://www.whosdatedwho.com/dating/isabelle-dorothy-scott",
+            "relationship_type": 4,
+            "start_date": "Mar 1940",
+            "end_date": "Feb 1944",
+            "length": "3 years",
+            "start_months_since_1900": 482,
+            "end_months_since_1900": 529,
+            "length_in_months": 36
+        }
+    ],
+    "details": {
+        "First Name": "Adrian",
+        "Middle Name": "NA",
+        "Last Name": "Scott",
+        "Maiden Name": "NA",
+        "Full Name at Birth": "NA",
+        "Alternative Name": "NA",
+        "Birthday": "1912",
+        "Birthplace": "New Jersey",
+        "Height": "175",
+        "Weight": "NA",
+        "Zodiac Sign": "9",
+        "Sexuality": "NA",
+        "Religion": "1",
+        "Ethnicity": "1",
+        "Nationality": "91",
+        "Occupation": "3"
+    }
+}

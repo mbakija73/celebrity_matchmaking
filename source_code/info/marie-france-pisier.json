@@ -1,0 +1,66 @@
+{
+    "relationships": [
+        {
+            "name": "Georges Kiejman",
+            "href": "https://www.whosdatedwho.com/dating/georges-kiejman",
+            "relationship_type": 4,
+            "start_date": "1973",
+            "end_date": "1979",
+            "length": "6 years",
+            "start_months_since_1900": 876,
+            "end_months_since_1900": 948,
+            "length_in_months": 72
+        },
+        {
+            "name": "Robert Hossein",
+            "href": "https://www.whosdatedwho.com/dating/robert-hossein",
+            "relationship_type": 2,
+            "start_date": "1964",
+            "end_date": "1964",
+            "length": "-",
+            "start_months_since_1900": 768,
+            "end_months_since_1900": 768,
+            "length_in_months": -1
+        },
+        {
+            "name": "Fran\u00e7ois Truffaut",
+            "href": "https://www.whosdatedwho.com/dating/francois-truffaut",
+            "relationship_type": 2,
+            "start_date": "1962",
+            "end_date": "1962",
+            "length": "-",
+            "start_months_since_1900": 744,
+            "end_months_since_1900": 744,
+            "length_in_months": -1
+        },
+        {
+            "name": "Thierry Funck-Brentano",
+            "href": "https://www.whosdatedwho.com/dating/thierry-funck-brentano",
+            "relationship_type": 4,
+            "start_date": "",
+            "end_date": "2011",
+            "length": "-",
+            "start_months_since_1900": -1,
+            "end_months_since_1900": 1332,
+            "length_in_months": -1
+        }
+    ],
+    "details": {
+        "First Name": "Marie-France",
+        "Middle Name": "NA",
+        "Last Name": "Pisier",
+        "Maiden Name": "NA",
+        "Full Name at Birth": "Marie-France Pisier",
+        "Alternative Name": "Marie-France Pisier",
+        "Birthday": "1944",
+        "Birthplace": "Vietnam",
+        "Height": "157",
+        "Weight": "NA",
+        "Zodiac Sign": "3",
+        "Sexuality": "Straight",
+        "Religion": "1",
+        "Ethnicity": "6",
+        "Nationality": "86",
+        "Occupation": "8"
+    }
+}

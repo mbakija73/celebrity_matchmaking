@@ -1,0 +1,66 @@
+{
+    "relationships": [
+        {
+            "name": "Robin Quivers",
+            "href": "https://www.whosdatedwho.com/dating/robin-quivers",
+            "relationship_type": 3,
+            "start_date": "2007",
+            "end_date": "2007",
+            "length": "-",
+            "start_months_since_1900": 1284,
+            "end_months_since_1900": 1284,
+            "length_in_months": -1
+        },
+        {
+            "name": "Teri Hatcher",
+            "href": "https://www.whosdatedwho.com/dating/teri-hatcher",
+            "relationship_type": 3,
+            "start_date": "2005",
+            "end_date": "2005",
+            "length": "-",
+            "start_months_since_1900": 1260,
+            "end_months_since_1900": 1260,
+            "length_in_months": -1
+        },
+        {
+            "name": "Natasha Duffy",
+            "href": "https://www.whosdatedwho.com/dating/natasha-duffy",
+            "relationship_type": 4,
+            "start_date": "1993",
+            "end_date": "1993",
+            "length": "-",
+            "start_months_since_1900": 1116,
+            "end_months_since_1900": 1116,
+            "length_in_months": -1
+        },
+        {
+            "name": "Lisa Ann",
+            "href": "https://www.whosdatedwho.com/dating/lisa-ann",
+            "relationship_type": 3,
+            "start_date": "",
+            "end_date": "",
+            "length": "-",
+            "start_months_since_1900": -1,
+            "end_months_since_1900": -1,
+            "length_in_months": -1
+        }
+    ],
+    "details": {
+        "First Name": "John",
+        "Middle Name": "Thomas",
+        "Last Name": "Salley",
+        "Maiden Name": "NA",
+        "Full Name at Birth": "John Thomas Salley",
+        "Alternative Name": "The Spider, Spider",
+        "Birthday": "1964",
+        "Birthplace": "USA",
+        "Height": "211",
+        "Weight": "230lbs (104 kg)",
+        "Zodiac Sign": "3",
+        "Sexuality": "Straight",
+        "Religion": "1",
+        "Ethnicity": "2",
+        "Nationality": "91",
+        "Occupation": "2"
+    }
+}

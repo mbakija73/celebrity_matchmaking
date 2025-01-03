@@ -1,0 +1,121 @@
+{
+    "relationships": [
+        {
+            "name": "Marilyn Monroe",
+            "href": "https://www.whosdatedwho.com/dating/marilyn-monroe",
+            "relationship_type": 2,
+            "start_date": "Apr 1947",
+            "end_date": "Jul 1948",
+            "length": "1 year",
+            "start_months_since_1900": 567,
+            "end_months_since_1900": 582,
+            "length_in_months": 12
+        },
+        {
+            "name": "Ava Gardner",
+            "href": "https://www.whosdatedwho.com/dating/ava-gardner",
+            "relationship_type": 3,
+            "start_date": "1944",
+            "end_date": "1944",
+            "length": "-",
+            "start_months_since_1900": 528,
+            "end_months_since_1900": 528,
+            "length_in_months": -1
+        },
+        {
+            "name": "Virginia Pine",
+            "href": "https://www.whosdatedwho.com/dating/virginia-pine",
+            "relationship_type": 3,
+            "start_date": "1939",
+            "end_date": "1939",
+            "length": "-",
+            "start_months_since_1900": 468,
+            "end_months_since_1900": 468,
+            "length_in_months": -1
+        },
+        {
+            "name": "Paulette Goddard",
+            "href": "https://www.whosdatedwho.com/dating/paulette-goddard",
+            "relationship_type": 2,
+            "start_date": "1931",
+            "end_date": "1932",
+            "length": "1 year",
+            "start_months_since_1900": 372,
+            "end_months_since_1900": 384,
+            "length_in_months": 12
+        },
+        {
+            "name": "Norma Talmadge",
+            "href": "https://www.whosdatedwho.com/dating/norma-talmadge",
+            "relationship_type": 4,
+            "start_date": "1915",
+            "end_date": "Apr 1934",
+            "length": "19 years",
+            "start_months_since_1900": 180,
+            "end_months_since_1900": 411,
+            "length_in_months": 228
+        },
+        {
+            "name": "Evelyn Keyes",
+            "href": "https://www.whosdatedwho.com/dating/evelyn-keyes",
+            "relationship_type": 3,
+            "start_date": "",
+            "end_date": "",
+            "length": "-",
+            "start_months_since_1900": -1,
+            "end_months_since_1900": -1,
+            "length_in_months": -1
+        },
+        {
+            "name": "Lorena Danker",
+            "href": "https://www.whosdatedwho.com/dating/lorena-danker",
+            "relationship_type": 2,
+            "start_date": "",
+            "end_date": "",
+            "length": "-",
+            "start_months_since_1900": -1,
+            "end_months_since_1900": -1,
+            "length_in_months": -1
+        },
+        {
+            "name": "Merle Oberon",
+            "href": "https://www.whosdatedwho.com/dating/merle-oberon",
+            "relationship_type": 2,
+            "start_date": "",
+            "end_date": "",
+            "length": "-",
+            "start_months_since_1900": -1,
+            "end_months_since_1900": -1,
+            "length_in_months": -1
+        },
+        {
+            "name": "Peggy Hopkins Joyce",
+            "href": "https://www.whosdatedwho.com/dating/peggy-hopkins-joyce",
+            "relationship_type": 2,
+            "start_date": "",
+            "end_date": "",
+            "length": "-",
+            "start_months_since_1900": -1,
+            "end_months_since_1900": -1,
+            "length_in_months": -1
+        }
+    ],
+    "details": {
+        "First Name": "Joseph",
+        "Middle Name": "Michael",
+        "Last Name": "Schenck",
+        "Maiden Name": "NA",
+        "Full Name at Birth": "Joseph Michael Schenck",
+        "Alternative Name": "NA",
+        "Birthday": "1878",
+        "Birthplace": "Russia",
+        "Height": "175",
+        "Weight": "NA",
+        "Zodiac Sign": "13",
+        "Sexuality": "Straight",
+        "Religion": "31",
+        "Ethnicity": "6",
+        "Nationality": "91",
+        "Occupation": "9"
+    }
+}

@@ -1,0 +1,66 @@
+{
+    "relationships": [
+        {
+            "name": "Lee Ryan",
+            "href": "https://www.whosdatedwho.com/dating/lee-ryan",
+            "relationship_type": 2,
+            "start_date": "Jul 2004",
+            "end_date": "Dec 2005",
+            "length": "1 year",
+            "start_months_since_1900": 1254,
+            "end_months_since_1900": 1271,
+            "length_in_months": 12
+        },
+        {
+            "name": "John Carew",
+            "href": "https://www.whosdatedwho.com/dating/john-carew",
+            "relationship_type": 3,
+            "start_date": "",
+            "end_date": "",
+            "length": "-",
+            "start_months_since_1900": -1,
+            "end_months_since_1900": -1,
+            "length_in_months": -1
+        },
+        {
+            "name": "Gary Lucy",
+            "href": "https://www.whosdatedwho.com/dating/gary-lucy",
+            "relationship_type": 3,
+            "start_date": "",
+            "end_date": "",
+            "length": "-",
+            "start_months_since_1900": -1,
+            "end_months_since_1900": -1,
+            "length_in_months": -1
+        },
+        {
+            "name": "Jermaine Pennant",
+            "href": "https://www.whosdatedwho.com/dating/jermaine-pennant",
+            "relationship_type": 3,
+            "start_date": "",
+            "end_date": "",
+            "length": "-",
+            "start_months_since_1900": -1,
+            "end_months_since_1900": -1,
+            "length_in_months": -1
+        }
+    ],
+    "details": {
+        "First Name": "Emily",
+        "Middle Name": "None known",
+        "Last Name": "Oldfield",
+        "Maiden Name": "NA",
+        "Full Name at Birth": "Emily Oldfield",
+        "Alternative Name": "NA",
+        "Birthday": "1978",
+        "Birthplace": "UK",
+        "Height": "165",
+        "Weight": "NA",
+        "Zodiac Sign": "7",
+        "Sexuality": "Straight",
+        "Religion": "1",
+        "Ethnicity": "6",
+        "Nationality": "8",
+        "Occupation": "3"
+    }
+}

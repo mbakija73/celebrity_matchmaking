@@ -1,0 +1,77 @@
+{
+    "relationships": [
+        {
+            "name": "Dan McKernan",
+            "href": "https://www.whosdatedwho.com/dating/dan-mckernan",
+            "relationship_type": 2,
+            "start_date": "Aug 2022",
+            "end_date": "present",
+            "length": "2 years",
+            "start_months_since_1900": 1471,
+            "end_months_since_1900": -1,
+            "length_in_months": 24
+        },
+        {
+            "name": "Jacqueline Toboni",
+            "href": "https://www.whosdatedwho.com/dating/jacqueline-toboni",
+            "relationship_type": 2,
+            "start_date": "Jul 2019",
+            "end_date": "2022",
+            "length": "2 years",
+            "start_months_since_1900": 1434,
+            "end_months_since_1900": 1464,
+            "length_in_months": 24
+        },
+        {
+            "name": "Chris Brown",
+            "href": "https://www.whosdatedwho.com/dating/chris-brown-doctor",
+            "relationship_type": 2,
+            "start_date": "2014",
+            "end_date": "2015",
+            "length": "1 year",
+            "start_months_since_1900": 1368,
+            "end_months_since_1900": 1380,
+            "length_in_months": 12
+        },
+        {
+            "name": "Andrew J. Morley",
+            "href": "https://www.whosdatedwho.com/dating/andrew-j-morley",
+            "relationship_type": 1,
+            "start_date": "",
+            "end_date": "",
+            "length": "-",
+            "start_months_since_1900": -1,
+            "end_months_since_1900": -1,
+            "length_in_months": -1
+        },
+        {
+            "name": "Rebecca Hitch",
+            "href": "https://www.whosdatedwho.com/dating/rebecca-hitch",
+            "relationship_type": 1,
+            "start_date": "",
+            "end_date": "",
+            "length": "-",
+            "start_months_since_1900": -1,
+            "end_months_since_1900": -1,
+            "length_in_months": -1
+        }
+    ],
+    "details": {
+        "First Name": "Kassandra",
+        "Middle Name": "Carolyn",
+        "Last Name": "Clementi",
+        "Maiden Name": "NA",
+        "Full Name at Birth": "Kassandra Carolyn Clementi",
+        "Alternative Name": "NA",
+        "Birthday": "1990",
+        "Birthplace": "Australia",
+        "Height": "170",
+        "Weight": "121lbs (55 kg)",
+        "Zodiac Sign": "10",
+        "Sexuality": "Straight",
+        "Religion": "18",
+        "Ethnicity": "6",
+        "Nationality": "135",
+        "Occupation": "8"
+    }
+}

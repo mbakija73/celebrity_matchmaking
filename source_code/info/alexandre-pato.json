@@ -1,0 +1,66 @@
+{
+    "relationships": [
+        {
+            "name": "Fiorella Mattheis",
+            "href": "https://www.whosdatedwho.com/dating/fiorella-mattheis",
+            "relationship_type": 2,
+            "start_date": "Sep 2014",
+            "end_date": "",
+            "length": "-",
+            "start_months_since_1900": 1376,
+            "end_months_since_1900": -1,
+            "length_in_months": -1
+        },
+        {
+            "name": "Barbara Berlusconi",
+            "href": "https://www.whosdatedwho.com/dating/barbara-berlusconi",
+            "relationship_type": 2,
+            "start_date": "Feb 2011",
+            "end_date": "Jul 2013",
+            "length": "2 years",
+            "start_months_since_1900": 1333,
+            "end_months_since_1900": 1362,
+            "length_in_months": 24
+        },
+        {
+            "name": "Debora Lyra",
+            "href": "https://www.whosdatedwho.com/dating/debora-lyra",
+            "relationship_type": 3,
+            "start_date": "Sep 2010",
+            "end_date": "Oct 2010",
+            "length": "1 month",
+            "start_months_since_1900": 1328,
+            "end_months_since_1900": 1329,
+            "length_in_months": 1
+        },
+        {
+            "name": "Sthefany Brito",
+            "href": "https://www.whosdatedwho.com/dating/sthefany-brito",
+            "relationship_type": 4,
+            "start_date": "2007",
+            "end_date": "Apr 2010",
+            "length": "3 years",
+            "start_months_since_1900": 1284,
+            "end_months_since_1900": 1323,
+            "length_in_months": 36
+        }
+    ],
+    "details": {
+        "First Name": "Alexandre",
+        "Middle Name": "NA",
+        "Last Name": "Pato",
+        "Maiden Name": "NA",
+        "Full Name at Birth": "Alexandre Rodrigues da Silva",
+        "Alternative Name": "NA",
+        "Birthday": "1989",
+        "Birthplace": "Brazil",
+        "Height": "180",
+        "Weight": "NA",
+        "Zodiac Sign": "11",
+        "Sexuality": "Straight",
+        "Religion": "1",
+        "Ethnicity": "8",
+        "Nationality": "87",
+        "Occupation": "2"
+    }
+}

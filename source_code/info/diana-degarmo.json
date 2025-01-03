@@ -1,0 +1,44 @@
+{
+    "relationships": [
+        {
+            "name": "Ace Young",
+            "href": "https://www.whosdatedwho.com/dating/ace-young",
+            "relationship_type": 4,
+            "start_date": "2011",
+            "end_date": "present",
+            "length": "13 years",
+            "start_months_since_1900": 1332,
+            "end_months_since_1900": -1,
+            "length_in_months": 156
+        },
+        {
+            "name": "Jeremy Borash",
+            "href": "https://www.whosdatedwho.com/dating/jeremy-borash",
+            "relationship_type": 2,
+            "start_date": "2008",
+            "end_date": "2010",
+            "length": "2 years",
+            "start_months_since_1900": 1296,
+            "end_months_since_1900": 1320,
+            "length_in_months": 24
+        }
+    ],
+    "details": {
+        "First Name": "Diana",
+        "Middle Name": "Nicole",
+        "Last Name": "Young",
+        "Maiden Name": "DeGarmo",
+        "Full Name at Birth": "Diana Nicole DeGarmo",
+        "Alternative Name": "NA",
+        "Birthday": "1987",
+        "Birthplace": "USA",
+        "Height": "160",
+        "Weight": "NA",
+        "Zodiac Sign": "4",
+        "Sexuality": "Straight",
+        "Religion": "1",
+        "Ethnicity": "1",
+        "Nationality": "91",
+        "Occupation": "8"
+    }
+}

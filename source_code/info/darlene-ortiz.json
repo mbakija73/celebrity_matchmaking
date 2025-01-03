@@ -1,0 +1,33 @@
+{
+    "relationships": [
+        {
+            "name": "Ice-T",
+            "href": "https://www.whosdatedwho.com/dating/ice-t",
+            "relationship_type": 2,
+            "start_date": "1984",
+            "end_date": "1999",
+            "length": "15 years",
+            "start_months_since_1900": 1008,
+            "end_months_since_1900": 1188,
+            "length_in_months": 180
+        }
+    ],
+    "details": {
+        "First Name": "Darlene",
+        "Middle Name": "NA",
+        "Last Name": "Ortiz",
+        "Maiden Name": "NA",
+        "Full Name at Birth": "NA",
+        "Alternative Name": "NA",
+        "Birthday": "NA",
+        "Birthplace": "NA",
+        "Height": "NA",
+        "Weight": "NA",
+        "Zodiac Sign": "2",
+        "Sexuality": "Straight",
+        "Religion": "13",
+        "Ethnicity": "8",
+        "Nationality": "91",
+        "Occupation": "16"
+    }
+}

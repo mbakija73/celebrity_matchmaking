@@ -1,0 +1,55 @@
+{
+    "relationships": [
+        {
+            "name": "Hayes Bradley",
+            "href": "https://www.whosdatedwho.com/dating/hayes-bradley",
+            "relationship_type": 2,
+            "start_date": "Dec 2022",
+            "end_date": "present",
+            "length": "1 year",
+            "start_months_since_1900": 1475,
+            "end_months_since_1900": -1,
+            "length_in_months": 12
+        },
+        {
+            "name": "Dylan O'Brien",
+            "href": "https://www.whosdatedwho.com/dating/dylan-o-brien",
+            "relationship_type": 3,
+            "start_date": "Apr 2022",
+            "end_date": "Apr 2022",
+            "length": "-",
+            "start_months_since_1900": 1467,
+            "end_months_since_1900": 1467,
+            "length_in_months": -1
+        },
+        {
+            "name": "Blake Slatkin",
+            "href": "https://www.whosdatedwho.com/dating/blake-slatkin",
+            "relationship_type": 2,
+            "start_date": "28th Feb 2016",
+            "end_date": "Feb 2022",
+            "length": "5 years",
+            "start_months_since_1900": 1393,
+            "end_months_since_1900": 1465,
+            "length_in_months": 60
+        }
+    ],
+    "details": {
+        "First Name": "Gracie",
+        "Middle Name": "Madigan",
+        "Last Name": "Abrams",
+        "Maiden Name": "NA",
+        "Full Name at Birth": "Gracie Madigan Abrams",
+        "Alternative Name": "NA",
+        "Birthday": "1999",
+        "Birthplace": "USA",
+        "Height": "168",
+        "Weight": "NA",
+        "Zodiac Sign": "11",
+        "Sexuality": "Straight",
+        "Religion": "1",
+        "Ethnicity": "8",
+        "Nationality": "91",
+        "Occupation": "1"
+    }
+}

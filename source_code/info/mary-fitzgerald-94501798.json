@@ -1,0 +1,44 @@
+{
+    "relationships": [
+        {
+            "name": "Romain Bonnet",
+            "href": "https://www.whosdatedwho.com/dating/romain-bonnet",
+            "relationship_type": 4,
+            "start_date": "2017",
+            "end_date": "present",
+            "length": "7 years",
+            "start_months_since_1900": 1404,
+            "end_months_since_1900": -1,
+            "length_in_months": 84
+        },
+        {
+            "name": "Jason Oppenheim",
+            "href": "https://www.whosdatedwho.com/dating/jason-oppenheim",
+            "relationship_type": 2,
+            "start_date": "2014",
+            "end_date": "2015",
+            "length": "1 year",
+            "start_months_since_1900": 1368,
+            "end_months_since_1900": 1380,
+            "length_in_months": 12
+        }
+    ],
+    "details": {
+        "First Name": "Mary",
+        "Middle Name": "NA",
+        "Last Name": "Fitzgerald",
+        "Maiden Name": "NA",
+        "Full Name at Birth": "Mary Fitzgerald",
+        "Alternative Name": "Mary, Mary Fitzgerald",
+        "Birthday": "1980",
+        "Birthplace": "USA",
+        "Height": "170",
+        "Weight": "119lbs (54 kg)",
+        "Zodiac Sign": "12",
+        "Sexuality": "Straight",
+        "Religion": "1",
+        "Ethnicity": "6",
+        "Nationality": "91",
+        "Occupation": "11"
+    }
+}

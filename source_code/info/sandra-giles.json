@@ -1,0 +1,110 @@
+{
+    "relationships": [
+        {
+            "name": "Ross Martin",
+            "href": "https://www.whosdatedwho.com/dating/ross-martin",
+            "relationship_type": 2,
+            "start_date": "Nov 1965",
+            "end_date": "Dec 1966",
+            "length": "1 year",
+            "start_months_since_1900": 790,
+            "end_months_since_1900": 803,
+            "length_in_months": 12
+        },
+        {
+            "name": "Michael Caine",
+            "href": "https://www.whosdatedwho.com/dating/michael-caine",
+            "relationship_type": 2,
+            "start_date": "1964",
+            "end_date": "1964",
+            "length": "-",
+            "start_months_since_1900": 768,
+            "end_months_since_1900": 768,
+            "length_in_months": -1
+        },
+        {
+            "name": "Trini L\u00f3pez",
+            "href": "https://www.whosdatedwho.com/dating/trini-lopez",
+            "relationship_type": 2,
+            "start_date": "1963",
+            "end_date": "1963",
+            "length": "-",
+            "start_months_since_1900": 756,
+            "end_months_since_1900": 756,
+            "length_in_months": -1
+        },
+        {
+            "name": "Bruce Cabot",
+            "href": "https://www.whosdatedwho.com/dating/bruce-cabot",
+            "relationship_type": 3,
+            "start_date": "Aug 1960",
+            "end_date": "Sep 1960",
+            "length": "1 month",
+            "start_months_since_1900": 727,
+            "end_months_since_1900": 728,
+            "length_in_months": 1
+        },
+        {
+            "name": "Paul Robertson",
+            "href": "https://www.whosdatedwho.com/dating/paul-robertson",
+            "relationship_type": 4,
+            "start_date": "Aug 1959",
+            "end_date": "Mar 1966",
+            "length": "6 years",
+            "start_months_since_1900": 715,
+            "end_months_since_1900": 794,
+            "length_in_months": 72
+        },
+        {
+            "name": "George Jessel",
+            "href": "https://www.whosdatedwho.com/dating/george-jessel",
+            "relationship_type": 2,
+            "start_date": "Feb 1959",
+            "end_date": "Mar 1959",
+            "length": "< 1 month",
+            "start_months_since_1900": 709,
+            "end_months_since_1900": 710,
+            "length_in_months": 0
+        },
+        {
+            "name": "John Drew Barrymore",
+            "href": "https://www.whosdatedwho.com/dating/john-drew-barrymore",
+            "relationship_type": 3,
+            "start_date": "1959",
+            "end_date": "1959",
+            "length": "-",
+            "start_months_since_1900": 708,
+            "end_months_since_1900": 708,
+            "length_in_months": -1
+        },
+        {
+            "name": "David Janssen",
+            "href": "https://www.whosdatedwho.com/dating/david-janssen",
+            "relationship_type": 2,
+            "start_date": "1957",
+            "end_date": "1957",
+            "length": "-",
+            "start_months_since_1900": 684,
+            "end_months_since_1900": 684,
+            "length_in_months": -1
+        }
+    ],
+    "details": {
+        "First Name": "Sandra",
+        "Middle Name": "Bernice",
+        "Last Name": "NA",
+        "Maiden Name": "Giles",
+        "Full Name at Birth": "Lelia Bernice Giles",
+        "Alternative Name": "Sandy",
+        "Birthday": "1932",
+        "Birthplace": "USA",
+        "Height": "NA",
+        "Weight": "NA",
+        "Zodiac Sign": "12",
+        "Sexuality": "Straight",
+        "Religion": "1",
+        "Ethnicity": "6",
+        "Nationality": "91",
+        "Occupation": "8"
+    }
+}

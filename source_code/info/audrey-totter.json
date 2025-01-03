@@ -1,0 +1,143 @@
+{
+    "relationships": [
+        {
+            "name": "Leo Fred",
+            "href": "https://www.whosdatedwho.com/dating/leo-fred",
+            "relationship_type": 4,
+            "start_date": "1951",
+            "end_date": "Mar 1995",
+            "length": "44 years",
+            "start_months_since_1900": 612,
+            "end_months_since_1900": 1142,
+            "length_in_months": 528
+        },
+        {
+            "name": "Clark Gable",
+            "href": "https://www.whosdatedwho.com/dating/clark-gable",
+            "relationship_type": 2,
+            "start_date": "Apr 1949",
+            "end_date": "Jun 1949",
+            "length": "2 months",
+            "start_months_since_1900": 591,
+            "end_months_since_1900": 593,
+            "length_in_months": 2
+        },
+        {
+            "name": "Brian Donlevy",
+            "href": "https://www.whosdatedwho.com/dating/brian-donlevy",
+            "relationship_type": 2,
+            "start_date": "1949",
+            "end_date": "1950",
+            "length": "1 year",
+            "start_months_since_1900": 588,
+            "end_months_since_1900": 600,
+            "length_in_months": 12
+        },
+        {
+            "name": "Ted North",
+            "href": "https://www.whosdatedwho.com/dating/ted-north",
+            "relationship_type": 2,
+            "start_date": "Jan 1947",
+            "end_date": "Mar 1947",
+            "length": "1 month",
+            "start_months_since_1900": 564,
+            "end_months_since_1900": 566,
+            "length_in_months": 1
+        },
+        {
+            "name": "Turhan Bey",
+            "href": "https://www.whosdatedwho.com/dating/turhan-bey",
+            "relationship_type": 2,
+            "start_date": "1947",
+            "end_date": "1947",
+            "length": "-",
+            "start_months_since_1900": 564,
+            "end_months_since_1900": 564,
+            "length_in_months": -1
+        },
+        {
+            "name": "Ross Hunter",
+            "href": "https://www.whosdatedwho.com/dating/ross-hunter",
+            "relationship_type": 3,
+            "start_date": "1946",
+            "end_date": "1946",
+            "length": "-",
+            "start_months_since_1900": 552,
+            "end_months_since_1900": 552,
+            "length_in_months": -1
+        },
+        {
+            "name": "Robert Walker",
+            "href": "https://www.whosdatedwho.com/dating/robert-walker",
+            "relationship_type": 2,
+            "start_date": "1945",
+            "end_date": "1945",
+            "length": "-",
+            "start_months_since_1900": 540,
+            "end_months_since_1900": 540,
+            "length_in_months": -1
+        },
+        {
+            "name": "Cary Grant",
+            "href": "https://www.whosdatedwho.com/dating/cary-grant",
+            "relationship_type": 2,
+            "start_date": "",
+            "end_date": "",
+            "length": "-",
+            "start_months_since_1900": -1,
+            "end_months_since_1900": -1,
+            "length_in_months": -1
+        },
+        {
+            "name": "David Niven",
+            "href": "https://www.whosdatedwho.com/dating/david-niven",
+            "relationship_type": 2,
+            "start_date": "",
+            "end_date": "",
+            "length": "-",
+            "start_months_since_1900": -1,
+            "end_months_since_1900": -1,
+            "length_in_months": -1
+        },
+        {
+            "name": "John Payne",
+            "href": "https://www.whosdatedwho.com/dating/john-payne",
+            "relationship_type": 2,
+            "start_date": "",
+            "end_date": "",
+            "length": "-",
+            "start_months_since_1900": -1,
+            "end_months_since_1900": -1,
+            "length_in_months": -1
+        },
+        {
+            "name": "Lew Ayres",
+            "href": "https://www.whosdatedwho.com/dating/lew-ayres",
+            "relationship_type": 2,
+            "start_date": "",
+            "end_date": "",
+            "length": "-",
+            "start_months_since_1900": -1,
+            "end_months_since_1900": -1,
+            "length_in_months": -1
+        }
+    ],
+    "details": {
+        "First Name": "Audrey",
+        "Middle Name": "Mary",
+        "Last Name": "Fred",
+        "Maiden Name": "Totter",
+        "Full Name at Birth": "Audrey Mary Totter",
+        "Alternative Name": "NA",
+        "Birthday": "1917",
+        "Birthplace": "USA",
+        "Height": "NA",
+        "Weight": "NA",
+        "Zodiac Sign": "6",
+        "Sexuality": "Straight",
+        "Religion": "1",
+        "Ethnicity": "6",
+        "Nationality": "91",
+        "Occupation": "8"
+    }
+}

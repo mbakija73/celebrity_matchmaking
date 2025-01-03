@@ -1,0 +1,55 @@
+{
+    "relationships": [
+        {
+            "name": "Michael Johnson",
+            "href": "https://www.whosdatedwho.com/dating/michael-johnson-drummer",
+            "relationship_type": 2,
+            "start_date": "2020",
+            "end_date": "present",
+            "length": "4 years",
+            "start_months_since_1900": 1440,
+            "end_months_since_1900": -1,
+            "length_in_months": 48
+        },
+        {
+            "name": "Skylar Astin",
+            "href": "https://www.whosdatedwho.com/dating/skylar-astin",
+            "relationship_type": 4,
+            "start_date": "Jun 2013",
+            "end_date": "Feb 2019",
+            "length": "5 years",
+            "start_months_since_1900": 1361,
+            "end_months_since_1900": 1429,
+            "length_in_months": 60
+        },
+        {
+            "name": "Michael Mosley",
+            "href": "https://www.whosdatedwho.com/dating/michael-mosley",
+            "relationship_type": 4,
+            "start_date": "Feb 2008",
+            "end_date": "Apr 2013",
+            "length": "5 years",
+            "start_months_since_1900": 1297,
+            "end_months_since_1900": 1359,
+            "length_in_months": 60
+        }
+    ],
+    "details": {
+        "First Name": "Anna",
+        "Middle Name": "Ragsdale",
+        "Last Name": "Camp",
+        "Maiden Name": "NA",
+        "Full Name at Birth": "Anna Ragsdale Camp",
+        "Alternative Name": "Anna Ragsdale Camp, Anna Camp",
+        "Birthday": "1982",
+        "Birthplace": "USA",
+        "Height": "165",
+        "Weight": "NA",
+        "Zodiac Sign": "10",
+        "Sexuality": "Straight",
+        "Religion": "1",
+        "Ethnicity": "6",
+        "Nationality": "91",
+        "Occupation": "8"
+    }
+}

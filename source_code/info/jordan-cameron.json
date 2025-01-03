@@ -1,0 +1,44 @@
+{
+    "relationships": [
+        {
+            "name": "Elin Nordegren",
+            "href": "https://www.whosdatedwho.com/dating/elin-nordegren",
+            "relationship_type": 2,
+            "start_date": "2017",
+            "end_date": "present",
+            "length": "7 years",
+            "start_months_since_1900": 1404,
+            "end_months_since_1900": -1,
+            "length_in_months": 84
+        },
+        {
+            "name": "Erin Heatherton",
+            "href": "https://www.whosdatedwho.com/dating/erin-heatherton",
+            "relationship_type": 2,
+            "start_date": "Nov 2012",
+            "end_date": "Mar 2016",
+            "length": "3 years",
+            "start_months_since_1900": 1354,
+            "end_months_since_1900": 1394,
+            "length_in_months": 36
+        }
+    ],
+    "details": {
+        "First Name": "Jordan",
+        "Middle Name": "NA",
+        "Last Name": "Cameron",
+        "Maiden Name": "NA",
+        "Full Name at Birth": "Jordan Cameron",
+        "Alternative Name": "NA",
+        "Birthday": "1988",
+        "Birthplace": "California",
+        "Height": "196",
+        "Weight": "245lbs (111 kg)",
+        "Zodiac Sign": "12",
+        "Sexuality": "Straight",
+        "Religion": "20",
+        "Ethnicity": "6",
+        "Nationality": "91",
+        "Occupation": "2"
+    }
+}

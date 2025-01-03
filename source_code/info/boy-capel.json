@@ -1,0 +1,44 @@
+{
+    "relationships": [
+        {
+            "name": "Coco Chanel",
+            "href": "https://www.whosdatedwho.com/dating/coco-chanel",
+            "relationship_type": 2,
+            "start_date": "1909",
+            "end_date": "1919",
+            "length": "10 years",
+            "start_months_since_1900": 108,
+            "end_months_since_1900": 228,
+            "length_in_months": 120
+        },
+        {
+            "name": "Diana Wyndham",
+            "href": "https://www.whosdatedwho.com/dating/diana-wyndham",
+            "relationship_type": 4,
+            "start_date": "",
+            "end_date": "",
+            "length": "-",
+            "start_months_since_1900": -1,
+            "end_months_since_1900": -1,
+            "length_in_months": -1
+        }
+    ],
+    "details": {
+        "First Name": "Boy",
+        "Middle Name": "NA",
+        "Last Name": "Capel",
+        "Maiden Name": "NA",
+        "Full Name at Birth": "Arthur Edward `Boy` Capel",
+        "Alternative Name": "Arthur Edward Capel",
+        "Birthday": "1881",
+        "Birthplace": "England",
+        "Height": "NA",
+        "Weight": "NA",
+        "Zodiac Sign": "2",
+        "Sexuality": "Straight",
+        "Religion": "1",
+        "Ethnicity": "6",
+        "Nationality": "8",
+        "Occupation": "7"
+    }
+}

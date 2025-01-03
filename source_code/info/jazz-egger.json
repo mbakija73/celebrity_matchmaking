@@ -1,0 +1,44 @@
+{
+    "relationships": [
+        {
+            "name": "Aaron Carter",
+            "href": "https://www.whosdatedwho.com/dating/aaron-carter",
+            "relationship_type": 2,
+            "start_date": "Sep 2019",
+            "end_date": "Oct 2019",
+            "length": "1 month",
+            "start_months_since_1900": 1436,
+            "end_months_since_1900": 1437,
+            "length_in_months": 1
+        },
+        {
+            "name": "Bella Thorne",
+            "href": "https://www.whosdatedwho.com/dating/bella-thorne",
+            "relationship_type": 3,
+            "start_date": "Jun 2019",
+            "end_date": "Jun 2019",
+            "length": "-",
+            "start_months_since_1900": 1433,
+            "end_months_since_1900": 1433,
+            "length_in_months": -1
+        }
+    ],
+    "details": {
+        "First Name": "Jazz",
+        "Middle Name": "NA",
+        "Last Name": "Egger",
+        "Maiden Name": "NA",
+        "Full Name at Birth": "NA",
+        "Alternative Name": "NA",
+        "Birthday": "1997",
+        "Birthplace": "Austria",
+        "Height": "175",
+        "Weight": "121lbs (55 kg)",
+        "Zodiac Sign": "12",
+        "Sexuality": "Bisexual",
+        "Religion": "1",
+        "Ethnicity": "6",
+        "Nationality": "44",
+        "Occupation": "15"
+    }
+}

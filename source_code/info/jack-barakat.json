@@ -1,0 +1,55 @@
+{
+    "relationships": [
+        {
+            "name": "Taylor Jardine",
+            "href": "https://www.whosdatedwho.com/dating/taylor-jardine",
+            "relationship_type": 2,
+            "start_date": "2014",
+            "end_date": "2014",
+            "length": "-",
+            "start_months_since_1900": 1368,
+            "end_months_since_1900": 1368,
+            "length_in_months": -1
+        },
+        {
+            "name": "Abigail Breslin",
+            "href": "https://www.whosdatedwho.com/dating/abigail-breslin",
+            "relationship_type": 2,
+            "start_date": "Oct 2013",
+            "end_date": "2014",
+            "length": "3 months",
+            "start_months_since_1900": 1365,
+            "end_months_since_1900": 1368,
+            "length_in_months": 3
+        },
+        {
+            "name": "Holly Madison",
+            "href": "https://www.whosdatedwho.com/dating/holly-madison",
+            "relationship_type": 2,
+            "start_date": "Jan 2010",
+            "end_date": "Mar 2011",
+            "length": "1 year",
+            "start_months_since_1900": 1320,
+            "end_months_since_1900": 1334,
+            "length_in_months": 12
+        }
+    ],
+    "details": {
+        "First Name": "Jack",
+        "Middle Name": "Bassam",
+        "Last Name": "Barakat",
+        "Maiden Name": "NA",
+        "Full Name at Birth": "Jack Bassam Barakat",
+        "Alternative Name": "Jack Barakitty, Jack Barakat",
+        "Birthday": "1988",
+        "Birthplace": "Lebanon",
+        "Height": "193",
+        "Weight": "NA",
+        "Zodiac Sign": "4",
+        "Sexuality": "Straight",
+        "Religion": "1",
+        "Ethnicity": "6",
+        "Nationality": "91",
+        "Occupation": "1"
+    }
+}

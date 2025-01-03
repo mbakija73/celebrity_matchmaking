@@ -1,0 +1,44 @@
+{
+    "relationships": [
+        {
+            "name": "Tim Cline",
+            "href": "https://www.whosdatedwho.com/dating/tim-cline",
+            "relationship_type": 4,
+            "start_date": "May 1988",
+            "end_date": "2001",
+            "length": "12 years",
+            "start_months_since_1900": 1060,
+            "end_months_since_1900": 1212,
+            "length_in_months": 144
+        },
+        {
+            "name": "Martina Navratilova",
+            "href": "https://www.whosdatedwho.com/dating/martina-navratilova",
+            "relationship_type": 2,
+            "start_date": "1981",
+            "end_date": "1981",
+            "length": "-",
+            "start_months_since_1900": 972,
+            "end_months_since_1900": 972,
+            "length_in_months": -1
+        }
+    ],
+    "details": {
+        "First Name": "Nancy",
+        "Middle Name": "Elizabeth",
+        "Last Name": "Lieberman",
+        "Maiden Name": "NA",
+        "Full Name at Birth": "Nancy Elizabeth Lieberman",
+        "Alternative Name": "Lady Magic, Nancy Elizabeth Lieberman, Nancy Lieberman",
+        "Birthday": "1958",
+        "Birthplace": "USA",
+        "Height": "178",
+        "Weight": "175lbs (79 kg)",
+        "Zodiac Sign": "8",
+        "Sexuality": "DISPUTED",
+        "Religion": "36",
+        "Ethnicity": "6",
+        "Nationality": "91",
+        "Occupation": "2"
+    }
+}

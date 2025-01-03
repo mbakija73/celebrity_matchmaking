@@ -1,0 +1,77 @@
+{
+    "relationships": [
+        {
+            "name": "Travis Scott",
+            "href": "https://www.whosdatedwho.com/dating/travis-scott-rapper",
+            "relationship_type": 3,
+            "start_date": "Jan 2023",
+            "end_date": "Jan 2023",
+            "length": "-",
+            "start_months_since_1900": 1476,
+            "end_months_since_1900": 1476,
+            "length_in_months": -1
+        },
+        {
+            "name": "Leonardo DiCaprio",
+            "href": "https://www.whosdatedwho.com/dating/leonardo-dicaprio",
+            "relationship_type": 3,
+            "start_date": "Nov 2017",
+            "end_date": "Nov 2017",
+            "length": "-",
+            "start_months_since_1900": 1414,
+            "end_months_since_1900": 1414,
+            "length_in_months": -1
+        },
+        {
+            "name": "Jaden Smith",
+            "href": "https://www.whosdatedwho.com/dating/jaden-smith",
+            "relationship_type": 2,
+            "start_date": "Aug 2015",
+            "end_date": "Sep 2016",
+            "length": "1 year",
+            "start_months_since_1900": 1387,
+            "end_months_since_1900": 1400,
+            "length_in_months": 12
+        },
+        {
+            "name": "Ian Connor",
+            "href": "https://www.whosdatedwho.com/dating/ian-connor-model",
+            "relationship_type": 2,
+            "start_date": "2014",
+            "end_date": "2015",
+            "length": "1 year",
+            "start_months_since_1900": 1368,
+            "end_months_since_1900": 1380,
+            "length_in_months": 12
+        },
+        {
+            "name": "Fivio Foreign",
+            "href": "https://www.whosdatedwho.com/dating/fivio-foreign",
+            "relationship_type": 2,
+            "start_date": "",
+            "end_date": "",
+            "length": "-",
+            "start_months_since_1900": -1,
+            "end_months_since_1900": -1,
+            "length_in_months": -1
+        }
+    ],
+    "details": {
+        "First Name": "Sarah",
+        "Middle Name": "Irene",
+        "Last Name": "Snyder",
+        "Maiden Name": "NA",
+        "Full Name at Birth": "Sarah Irene Snyder",
+        "Alternative Name": "Sarah",
+        "Birthday": "1995",
+        "Birthplace": "USA",
+        "Height": "170",
+        "Weight": "108lbs (49 kg)",
+        "Zodiac Sign": "12",
+        "Sexuality": "Straight",
+        "Religion": "1",
+        "Ethnicity": "6",
+        "Nationality": "91",
+        "Occupation": "15"
+    }
+}

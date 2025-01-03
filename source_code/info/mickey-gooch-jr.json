@@ -1,0 +1,44 @@
+{
+    "relationships": [
+        {
+            "name": "Brittney Weiskopf",
+            "href": "https://www.whosdatedwho.com/dating/brittney-weiskopf",
+            "relationship_type": 2,
+            "start_date": "Nov 2016",
+            "end_date": "present",
+            "length": "7 years",
+            "start_months_since_1900": 1402,
+            "end_months_since_1900": -1,
+            "length_in_months": 84
+        },
+        {
+            "name": "Rebel Wilson",
+            "href": "https://www.whosdatedwho.com/dating/rebel-wilson",
+            "relationship_type": 2,
+            "start_date": "Sep 2014",
+            "end_date": "Sep 2015",
+            "length": "1 year",
+            "start_months_since_1900": 1376,
+            "end_months_since_1900": 1388,
+            "length_in_months": 12
+        }
+    ],
+    "details": {
+        "First Name": "Mickey",
+        "Middle Name": "NA",
+        "Last Name": "Gooch",
+        "Maiden Name": "NA",
+        "Full Name at Birth": "NA",
+        "Alternative Name": "NA",
+        "Birthday": "1985",
+        "Birthplace": "New Jersey",
+        "Height": "NA",
+        "Weight": "NA",
+        "Zodiac Sign": "2",
+        "Sexuality": "NA",
+        "Religion": "1",
+        "Ethnicity": "1",
+        "Nationality": "91",
+        "Occupation": "8"
+    }
+}

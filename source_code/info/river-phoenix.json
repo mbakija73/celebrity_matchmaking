@@ -1,0 +1,66 @@
+{
+    "relationships": [
+        {
+            "name": "Samantha Mathis",
+            "href": "https://www.whosdatedwho.com/dating/samantha-mathis",
+            "relationship_type": 2,
+            "start_date": "Nov 1992",
+            "end_date": "31st Oct 1993",
+            "length": "12 months",
+            "start_months_since_1900": 1114,
+            "end_months_since_1900": 1125,
+            "length_in_months": 12
+        },
+        {
+            "name": "Suzanne Solgot",
+            "href": "https://www.whosdatedwho.com/dating/suzanne-solgot",
+            "relationship_type": 2,
+            "start_date": "Oct 1989",
+            "end_date": "Jan 1993",
+            "length": "3 years",
+            "start_months_since_1900": 1077,
+            "end_months_since_1900": 1116,
+            "length_in_months": 36
+        },
+        {
+            "name": "Marlee Matlin",
+            "href": "https://www.whosdatedwho.com/dating/marlee-matlin",
+            "relationship_type": 3,
+            "start_date": "Aug 1988",
+            "end_date": "Oct 1988",
+            "length": "2 months",
+            "start_months_since_1900": 1063,
+            "end_months_since_1900": 1065,
+            "length_in_months": 2
+        },
+        {
+            "name": "Martha Plimpton",
+            "href": "https://www.whosdatedwho.com/dating/martha-plimpton",
+            "relationship_type": 2,
+            "start_date": "Jan 1986",
+            "end_date": "Jun 1989",
+            "length": "3 years",
+            "start_months_since_1900": 1032,
+            "end_months_since_1900": 1073,
+            "length_in_months": 36
+        }
+    ],
+    "details": {
+        "First Name": "River",
+        "Middle Name": "Jude",
+        "Last Name": "Phoenix",
+        "Maiden Name": "NA",
+        "Full Name at Birth": "River Jude Bottom",
+        "Alternative Name": "Rio",
+        "Birthday": "1970",
+        "Birthplace": "United States",
+        "Height": "178",
+        "Weight": "NA",
+        "Zodiac Sign": "12",
+        "Sexuality": "Straight",
+        "Religion": "6",
+        "Ethnicity": "6",
+        "Nationality": "91",
+        "Occupation": "8"
+    }
+}

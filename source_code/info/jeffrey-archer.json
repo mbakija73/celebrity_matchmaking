@@ -1,0 +1,44 @@
+{
+    "relationships": [
+        {
+            "name": "Sarah Symonds",
+            "href": "https://www.whosdatedwho.com/dating/sarah-symonds",
+            "relationship_type": 2,
+            "start_date": "1997",
+            "end_date": "1997",
+            "length": "-",
+            "start_months_since_1900": 1164,
+            "end_months_since_1900": 1164,
+            "length_in_months": -1
+        },
+        {
+            "name": "Monica Coghlan",
+            "href": "https://www.whosdatedwho.com/dating/monica-coghlan",
+            "relationship_type": 3,
+            "start_date": "1987",
+            "end_date": "1987",
+            "length": "-",
+            "start_months_since_1900": 1044,
+            "end_months_since_1900": 1044,
+            "length_in_months": -1
+        }
+    ],
+    "details": {
+        "First Name": "Jeffrey",
+        "Middle Name": "NA",
+        "Last Name": "Archer",
+        "Maiden Name": "NA",
+        "Full Name at Birth": "NA",
+        "Alternative Name": "NA",
+        "Birthday": "1940",
+        "Birthplace": "UK",
+        "Height": "178",
+        "Weight": "NA",
+        "Zodiac Sign": "7",
+        "Sexuality": "NA",
+        "Religion": "1",
+        "Ethnicity": "1",
+        "Nationality": "8",
+        "Occupation": "11"
+    }
+}

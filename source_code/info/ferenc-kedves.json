@@ -1,0 +1,66 @@
+{
+    "relationships": [
+        {
+            "name": "Linda Zim\u00e1ny",
+            "href": "https://www.whosdatedwho.com/dating/linda-zimany",
+            "relationship_type": 2,
+            "start_date": "Feb 2017",
+            "end_date": "Feb 2017",
+            "length": "-",
+            "start_months_since_1900": 1405,
+            "end_months_since_1900": 1405,
+            "length_in_months": -1
+        },
+        {
+            "name": "Zita Debreczeni",
+            "href": "https://www.whosdatedwho.com/dating/zita-debreczeni",
+            "relationship_type": 2,
+            "start_date": "Nov 2007",
+            "end_date": "May 2011",
+            "length": "3 years",
+            "start_months_since_1900": 1294,
+            "end_months_since_1900": 1336,
+            "length_in_months": 36
+        },
+        {
+            "name": "Sylvi B\u00f3dy",
+            "href": "https://www.whosdatedwho.com/dating/bodi-sylvi",
+            "relationship_type": 2,
+            "start_date": "",
+            "end_date": "",
+            "length": "-",
+            "start_months_since_1900": -1,
+            "end_months_since_1900": -1,
+            "length_in_months": -1
+        },
+        {
+            "name": "Linda Szunai",
+            "href": "https://www.whosdatedwho.com/dating/linda-szunai",
+            "relationship_type": 3,
+            "start_date": "",
+            "end_date": "",
+            "length": "-",
+            "start_months_since_1900": -1,
+            "end_months_since_1900": -1,
+            "length_in_months": -1
+        }
+    ],
+    "details": {
+        "First Name": "Ferenc",
+        "Middle Name": "NA",
+        "Last Name": "Kedves",
+        "Maiden Name": "NA",
+        "Full Name at Birth": "Kedves Ferenc",
+        "Alternative Name": "Kedves Ferenc, Ferenc Kedves",
+        "Birthday": "NA",
+        "Birthplace": "NA",
+        "Height": "NA",
+        "Weight": "NA",
+        "Zodiac Sign": "2",
+        "Sexuality": "NA",
+        "Religion": "1",
+        "Ethnicity": "6",
+        "Nationality": "31",
+        "Occupation": "7"
+    }
+}

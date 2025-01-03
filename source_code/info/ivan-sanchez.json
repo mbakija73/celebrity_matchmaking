@@ -1,0 +1,77 @@
+{
+    "relationships": [
+        {
+            "name": "Lydia Cacho",
+            "href": "https://www.whosdatedwho.com/dating/lydia-cacho",
+            "relationship_type": 2,
+            "start_date": "2019",
+            "end_date": "present",
+            "length": "5 years",
+            "start_months_since_1900": 1428,
+            "end_months_since_1900": -1,
+            "length_in_months": 60
+        },
+        {
+            "name": "Ana Brenda Contreras",
+            "href": "https://www.whosdatedwho.com/dating/ana-brenda-contreras",
+            "relationship_type": 2,
+            "start_date": "11th Feb 2016",
+            "end_date": "Dec 2018",
+            "length": "2 years",
+            "start_months_since_1900": 1393,
+            "end_months_since_1900": 1427,
+            "length_in_months": 24
+        },
+        {
+            "name": "Elia Galera",
+            "href": "https://www.whosdatedwho.com/dating/elia-galera",
+            "relationship_type": 4,
+            "start_date": "2006",
+            "end_date": "Feb 2016",
+            "length": "10 years",
+            "start_months_since_1900": 1272,
+            "end_months_since_1900": 1393,
+            "length_in_months": 120
+        },
+        {
+            "name": "Irene Esser",
+            "href": "https://www.whosdatedwho.com/dating/irene-esser",
+            "relationship_type": 1,
+            "start_date": "",
+            "end_date": "",
+            "length": "-",
+            "start_months_since_1900": -1,
+            "end_months_since_1900": -1,
+            "length_in_months": -1
+        },
+        {
+            "name": "Camila Sodi",
+            "href": "https://www.whosdatedwho.com/dating/camila-sodi",
+            "relationship_type": 2,
+            "start_date": "",
+            "end_date": "",
+            "length": "-",
+            "start_months_since_1900": -1,
+            "end_months_since_1900": -1,
+            "length_in_months": -1
+        }
+    ],
+    "details": {
+        "First Name": "Ivan",
+        "Middle Name": "NA",
+        "Last Name": "Sanchez",
+        "Maiden Name": "NA",
+        "Full Name at Birth": "NA",
+        "Alternative Name": "NA",
+        "Birthday": "1974",
+        "Birthplace": "Spain",
+        "Height": "185",
+        "Weight": "NA",
+        "Zodiac Sign": "5",
+        "Sexuality": "Straight",
+        "Religion": "1",
+        "Ethnicity": "6",
+        "Nationality": "118",
+        "Occupation": "8"
+    }
+}

@@ -1,0 +1,44 @@
+{
+    "relationships": [
+        {
+            "name": "Huma Qureshi",
+            "href": "https://www.whosdatedwho.com/dating/huma-qureshi",
+            "relationship_type": 2,
+            "start_date": "2019",
+            "end_date": "Oct 2022",
+            "length": "3 years",
+            "start_months_since_1900": 1428,
+            "end_months_since_1900": 1473,
+            "length_in_months": 36
+        },
+        {
+            "name": "Sushmita Sen",
+            "href": "https://www.whosdatedwho.com/dating/sushmita-sen",
+            "relationship_type": 2,
+            "start_date": "2008",
+            "end_date": "2010",
+            "length": "2 years",
+            "start_months_since_1900": 1296,
+            "end_months_since_1900": 1320,
+            "length_in_months": 24
+        }
+    ],
+    "details": {
+        "First Name": "Mudassar",
+        "Middle Name": "NA",
+        "Last Name": "Aziz",
+        "Maiden Name": "NA",
+        "Full Name at Birth": "NA",
+        "Alternative Name": "NA",
+        "Birthday": "NA",
+        "Birthplace": "NA",
+        "Height": "NA",
+        "Weight": "NA",
+        "Zodiac Sign": "2",
+        "Sexuality": "NA",
+        "Religion": "1",
+        "Ethnicity": "7",
+        "Nationality": "34",
+        "Occupation": "9"
+    }
+}

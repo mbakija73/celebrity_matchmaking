@@ -1,0 +1,44 @@
+{
+    "relationships": [
+        {
+            "name": "Gigi Garner",
+            "href": "https://www.whosdatedwho.com/dating/gigi-garner",
+            "relationship_type": 2,
+            "start_date": "Jun 1984",
+            "end_date": "Jun 1988",
+            "length": "4 years",
+            "start_months_since_1900": 1013,
+            "end_months_since_1900": 1061,
+            "length_in_months": 48
+        },
+        {
+            "name": "Susan Anton",
+            "href": "https://www.whosdatedwho.com/dating/susan-anton",
+            "relationship_type": 2,
+            "start_date": "1982",
+            "end_date": "1982",
+            "length": "-",
+            "start_months_since_1900": 984,
+            "end_months_since_1900": 984,
+            "length_in_months": -1
+        }
+    ],
+    "details": {
+        "First Name": "Fred",
+        "Middle Name": "NA",
+        "Last Name": "Knobloch",
+        "Maiden Name": "NA",
+        "Full Name at Birth": "NA",
+        "Alternative Name": "J. Fred Knobloch, James Fred Knobloch, Fred Knoblock (early 1980s)",
+        "Birthday": "1953",
+        "Birthplace": "USA",
+        "Height": "NA",
+        "Weight": "NA",
+        "Zodiac Sign": "3",
+        "Sexuality": "NA",
+        "Religion": "1",
+        "Ethnicity": "6",
+        "Nationality": "91",
+        "Occupation": "1"
+    }
+}

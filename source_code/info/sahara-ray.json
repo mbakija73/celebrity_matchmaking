@@ -1,0 +1,99 @@
+{
+    "relationships": [
+        {
+            "name": "Derek Smith",
+            "href": "https://www.whosdatedwho.com/dating/derek-smith",
+            "relationship_type": 2,
+            "start_date": "Jul 2023",
+            "end_date": "",
+            "length": "-",
+            "start_months_since_1900": 1482,
+            "end_months_since_1900": -1,
+            "length_in_months": -1
+        },
+        {
+            "name": "Gregg Sulkin",
+            "href": "https://www.whosdatedwho.com/dating/gregg-sulkin",
+            "relationship_type": 2,
+            "start_date": "Jul 2017",
+            "end_date": "Jul 2017",
+            "length": "-",
+            "start_months_since_1900": 1410,
+            "end_months_since_1900": 1410,
+            "length_in_months": -1
+        },
+        {
+            "name": "Luke Hemmings",
+            "href": "https://www.whosdatedwho.com/dating/luke-hemmings",
+            "relationship_type": 3,
+            "start_date": "Jul 2017",
+            "end_date": "Jul 2017",
+            "length": "-",
+            "start_months_since_1900": 1410,
+            "end_months_since_1900": 1410,
+            "length_in_months": -1
+        },
+        {
+            "name": "Jordan Barrett",
+            "href": "https://www.whosdatedwho.com/dating/jordan-barrett-model",
+            "relationship_type": 3,
+            "start_date": "Mar 2017",
+            "end_date": "Mar 2017",
+            "length": "-",
+            "start_months_since_1900": 1406,
+            "end_months_since_1900": 1406,
+            "length_in_months": -1
+        },
+        {
+            "name": "Justin Bieber",
+            "href": "https://www.whosdatedwho.com/dating/justin-bieber",
+            "relationship_type": 3,
+            "start_date": "Aug 2016",
+            "end_date": "Aug 2016",
+            "length": "-",
+            "start_months_since_1900": 1399,
+            "end_months_since_1900": 1399,
+            "length_in_months": -1
+        },
+        {
+            "name": "Cody Simpson",
+            "href": "https://www.whosdatedwho.com/dating/cody-simpson",
+            "relationship_type": 2,
+            "start_date": "Sep 2015",
+            "end_date": "Dec 2015",
+            "length": "3 months",
+            "start_months_since_1900": 1388,
+            "end_months_since_1900": 1391,
+            "length_in_months": 3
+        },
+        {
+            "name": "Scott Disick",
+            "href": "https://www.whosdatedwho.com/dating/scott-disick",
+            "relationship_type": 3,
+            "start_date": "",
+            "end_date": "",
+            "length": "-",
+            "start_months_since_1900": -1,
+            "end_months_since_1900": -1,
+            "length_in_months": -1
+        }
+    ],
+    "details": {
+        "First Name": "Sahara",
+        "Middle Name": "NA",
+        "Last Name": "Ray",
+        "Maiden Name": "NA",
+        "Full Name at Birth": "NA",
+        "Alternative Name": "Sahara",
+        "Birthday": "1993",
+        "Birthplace": "Australia",
+        "Height": "173",
+        "Weight": "117lbs (53 kg)",
+        "Zodiac Sign": "1",
+        "Sexuality": "Straight",
+        "Religion": "18",
+        "Ethnicity": "6",
+        "Nationality": "135",
+        "Occupation": "16"
+    }
+}

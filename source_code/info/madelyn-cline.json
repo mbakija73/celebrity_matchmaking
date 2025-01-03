@@ -1,0 +1,77 @@
+{
+    "relationships": [
+        {
+            "name": "Pete Davidson",
+            "href": "https://www.whosdatedwho.com/dating/pete-davidson-comedian",
+            "relationship_type": 2,
+            "start_date": "Sep 2023",
+            "end_date": "Jul 2024",
+            "length": "10 months",
+            "start_months_since_1900": 1484,
+            "end_months_since_1900": 1494,
+            "length_in_months": 10
+        },
+        {
+            "name": "Jackson Guthy",
+            "href": "https://www.whosdatedwho.com/dating/jackson-guthy",
+            "relationship_type": 2,
+            "start_date": "May 2022",
+            "end_date": "Jul 2023",
+            "length": "1 year",
+            "start_months_since_1900": 1468,
+            "end_months_since_1900": 1482,
+            "length_in_months": 12
+        },
+        {
+            "name": "Zack Bia",
+            "href": "https://www.whosdatedwho.com/dating/zack-bia",
+            "relationship_type": 3,
+            "start_date": "Dec 2021",
+            "end_date": "Jan 2022",
+            "length": "1 month",
+            "start_months_since_1900": 1463,
+            "end_months_since_1900": 1464,
+            "length_in_months": 1
+        },
+        {
+            "name": "Chase Stokes",
+            "href": "https://www.whosdatedwho.com/dating/chase-stokes",
+            "relationship_type": 2,
+            "start_date": "2020",
+            "end_date": "Nov 2021",
+            "length": "1 year",
+            "start_months_since_1900": 1440,
+            "end_months_since_1900": 1462,
+            "length_in_months": 12
+        },
+        {
+            "name": "Drew Starkey",
+            "href": "https://www.whosdatedwho.com/dating/drew-starkey",
+            "relationship_type": 1,
+            "start_date": "2020",
+            "end_date": "2020",
+            "length": "-",
+            "start_months_since_1900": 1440,
+            "end_months_since_1900": 1440,
+            "length_in_months": -1
+        }
+    ],
+    "details": {
+        "First Name": "Madelyn",
+        "Middle Name": "Renee",
+        "Last Name": "Cline",
+        "Maiden Name": "NA",
+        "Full Name at Birth": "Madelyn Renee Cline",
+        "Alternative Name": "Maddie, Madelyn Cline, Madelyn Renee Cline",
+        "Birthday": "1997",
+        "Birthplace": "USA",
+        "Height": "168",
+        "Weight": "119lbs (54 kg)",
+        "Zodiac Sign": "6",
+        "Sexuality": "Straight",
+        "Religion": "18",
+        "Ethnicity": "6",
+        "Nationality": "91",
+        "Occupation": "8"
+    }
+}

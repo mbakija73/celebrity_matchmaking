@@ -1,0 +1,44 @@
+{
+    "relationships": [
+        {
+            "name": "Tarek El Moussa",
+            "href": "https://www.whosdatedwho.com/dating/tarek-el-moussa",
+            "relationship_type": 4,
+            "start_date": "2019",
+            "end_date": "present",
+            "length": "5 years",
+            "start_months_since_1900": 1428,
+            "end_months_since_1900": -1,
+            "length_in_months": 60
+        },
+        {
+            "name": "Nick Ebert",
+            "href": "https://www.whosdatedwho.com/dating/nick-ebert",
+            "relationship_type": 2,
+            "start_date": "2018",
+            "end_date": "2019",
+            "length": "1 year",
+            "start_months_since_1900": 1416,
+            "end_months_since_1900": 1428,
+            "length_in_months": 12
+        }
+    ],
+    "details": {
+        "First Name": "Heather",
+        "Middle Name": "Rae",
+        "Last Name": "El Moussa",
+        "Maiden Name": "Young",
+        "Full Name at Birth": "Heather Rae Young",
+        "Alternative Name": "Heather Rae Young, Heather Young, Heather Rae, Heather El Moussa, Heather Rae El Moussa",
+        "Birthday": "1987",
+        "Birthplace": "USA",
+        "Height": "170",
+        "Weight": "102lbs (46 kg)",
+        "Zodiac Sign": "11",
+        "Sexuality": "Straight",
+        "Religion": "1",
+        "Ethnicity": "6",
+        "Nationality": "91",
+        "Occupation": "8"
+    }
+}

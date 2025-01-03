@@ -1,0 +1,66 @@
+{
+    "relationships": [
+        {
+            "name": "Serena Williams",
+            "href": "https://www.whosdatedwho.com/dating/serena-williams",
+            "relationship_type": 2,
+            "start_date": "Oct 2002",
+            "end_date": "Feb 2003",
+            "length": "4 months",
+            "start_months_since_1900": 1233,
+            "end_months_since_1900": 1237,
+            "length_in_months": 4
+        },
+        {
+            "name": "Shikiri Hightower",
+            "href": "https://www.whosdatedwho.com/dating/shikiri-hightower",
+            "relationship_type": 4,
+            "start_date": "1998",
+            "end_date": "2002",
+            "length": "4 years",
+            "start_months_since_1900": 1176,
+            "end_months_since_1900": 1224,
+            "length_in_months": 48
+        },
+        {
+            "name": "Countess Vaughn",
+            "href": "https://www.whosdatedwho.com/dating/countess-vaughn",
+            "relationship_type": 2,
+            "start_date": "Jun 1994",
+            "end_date": "Oct 1995",
+            "length": "1 year",
+            "start_months_since_1900": 1133,
+            "end_months_since_1900": 1149,
+            "length_in_months": 12
+        },
+        {
+            "name": "Farrah Franklin",
+            "href": "https://www.whosdatedwho.com/dating/farrah-franklin",
+            "relationship_type": 1,
+            "start_date": "",
+            "end_date": "",
+            "length": "-",
+            "start_months_since_1900": -1,
+            "end_months_since_1900": -1,
+            "length_in_months": -1
+        }
+    ],
+    "details": {
+        "First Name": "Keyshawn",
+        "Middle Name": "Joseph",
+        "Last Name": "Johnson",
+        "Maiden Name": "NA",
+        "Full Name at Birth": "Keyshawn Joseph Johnson",
+        "Alternative Name": "NA",
+        "Birthday": "1972",
+        "Birthplace": "CA",
+        "Height": "193",
+        "Weight": "212lbs (96 kg)",
+        "Zodiac Sign": "8",
+        "Sexuality": "NA",
+        "Religion": "1",
+        "Ethnicity": "2",
+        "Nationality": "91",
+        "Occupation": "2"
+    }
+}

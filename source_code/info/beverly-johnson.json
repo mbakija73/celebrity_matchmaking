@@ -1,0 +1,220 @@
+{
+    "relationships": [
+        {
+            "name": "Brian Maillian",
+            "href": "https://www.whosdatedwho.com/dating/brian-maillian",
+            "relationship_type": 4,
+            "start_date": "2015",
+            "end_date": "present",
+            "length": "9 years",
+            "start_months_since_1900": 1380,
+            "end_months_since_1900": -1,
+            "length_in_months": 108
+        },
+        {
+            "name": "Benny Medina",
+            "href": "https://www.whosdatedwho.com/dating/benny-medina",
+            "relationship_type": 2,
+            "start_date": "Jan 2007",
+            "end_date": "Mar 2007",
+            "length": "1 month",
+            "start_months_since_1900": 1284,
+            "end_months_since_1900": 1286,
+            "length_in_months": 1
+        },
+        {
+            "name": "Robert Evans",
+            "href": "https://www.whosdatedwho.com/dating/robert-evans",
+            "relationship_type": 3,
+            "start_date": "2002",
+            "end_date": "2002",
+            "length": "-",
+            "start_months_since_1900": 1224,
+            "end_months_since_1900": 1224,
+            "length_in_months": -1
+        },
+        {
+            "name": "Chuck Norris",
+            "href": "https://www.whosdatedwho.com/dating/chuck-norris",
+            "relationship_type": 2,
+            "start_date": "Jan 1992",
+            "end_date": "Feb 1992",
+            "length": "1 month",
+            "start_months_since_1900": 1104,
+            "end_months_since_1900": 1105,
+            "length_in_months": 1
+        },
+        {
+            "name": "Chris Noth",
+            "href": "https://www.whosdatedwho.com/dating/chris-noth",
+            "relationship_type": 2,
+            "start_date": "1990",
+            "end_date": "1995",
+            "length": "5 years",
+            "start_months_since_1900": 1080,
+            "end_months_since_1900": 1140,
+            "length_in_months": 60
+        },
+        {
+            "name": "Mike Tyson",
+            "href": "https://www.whosdatedwho.com/dating/mike-tyson",
+            "relationship_type": 2,
+            "start_date": "1986",
+            "end_date": "1986",
+            "length": "-",
+            "start_months_since_1900": 1032,
+            "end_months_since_1900": 1032,
+            "length_in_months": -1
+        },
+        {
+            "name": "Danny Sims",
+            "href": "https://www.whosdatedwho.com/dating/danny-sims",
+            "relationship_type": 4,
+            "start_date": "May 1976",
+            "end_date": "1979",
+            "length": "2 years",
+            "start_months_since_1900": 916,
+            "end_months_since_1900": 948,
+            "length_in_months": 24
+        },
+        {
+            "name": "Dustin Hoffman",
+            "href": "https://www.whosdatedwho.com/dating/dustin-hoffman",
+            "relationship_type": 2,
+            "start_date": "1976",
+            "end_date": "1976",
+            "length": "-",
+            "start_months_since_1900": 912,
+            "end_months_since_1900": 912,
+            "length_in_months": -1
+        },
+        {
+            "name": "Arthur Ashe",
+            "href": "https://www.whosdatedwho.com/dating/arthur-ashe",
+            "relationship_type": 2,
+            "start_date": "Aug 1975",
+            "end_date": "Nov 1976",
+            "length": "1 year",
+            "start_months_since_1900": 907,
+            "end_months_since_1900": 922,
+            "length_in_months": 12
+        },
+        {
+            "name": "Jackie Jackson",
+            "href": "https://www.whosdatedwho.com/dating/jackie-jackson",
+            "relationship_type": 2,
+            "start_date": "1973",
+            "end_date": "1974",
+            "length": "1 year",
+            "start_months_since_1900": 876,
+            "end_months_since_1900": 888,
+            "length_in_months": 12
+        },
+        {
+            "name": "Billy Potter",
+            "href": "https://www.whosdatedwho.com/dating/billy-potter",
+            "relationship_type": 4,
+            "start_date": "1970",
+            "end_date": "1973",
+            "length": "3 years",
+            "start_months_since_1900": 840,
+            "end_months_since_1900": 876,
+            "length_in_months": 36
+        },
+        {
+            "name": "Peter Nyg\u00e5rd",
+            "href": "https://www.whosdatedwho.com/dating/peter-nygard",
+            "relationship_type": 3,
+            "start_date": "",
+            "end_date": "",
+            "length": "-",
+            "start_months_since_1900": -1,
+            "end_months_since_1900": -1,
+            "length_in_months": -1
+        },
+        {
+            "name": "Warren Beatty",
+            "href": "https://www.whosdatedwho.com/dating/warren-beatty",
+            "relationship_type": 3,
+            "start_date": "",
+            "end_date": "",
+            "length": "-",
+            "start_months_since_1900": -1,
+            "end_months_since_1900": -1,
+            "length_in_months": -1
+        },
+        {
+            "name": "Bill Cosby",
+            "href": "https://www.whosdatedwho.com/dating/bill-cosby",
+            "relationship_type": 1,
+            "start_date": "",
+            "end_date": "",
+            "length": "-",
+            "start_months_since_1900": -1,
+            "end_months_since_1900": -1,
+            "length_in_months": -1
+        },
+        {
+            "name": "Eddie Murphy",
+            "href": "https://www.whosdatedwho.com/dating/eddie-murphy",
+            "relationship_type": 3,
+            "start_date": "",
+            "end_date": "",
+            "length": "-",
+            "start_months_since_1900": -1,
+            "end_months_since_1900": -1,
+            "length_in_months": -1
+        },
+        {
+            "name": "Jack Nicholson",
+            "href": "https://www.whosdatedwho.com/dating/jack-nicholson",
+            "relationship_type": 3,
+            "start_date": "",
+            "end_date": "",
+            "length": "-",
+            "start_months_since_1900": -1,
+            "end_months_since_1900": -1,
+            "length_in_months": -1
+        },
+        {
+            "name": "Flavor Flav",
+            "href": "https://www.whosdatedwho.com/dating/flavor-flav",
+            "relationship_type": 2,
+            "start_date": "",
+            "end_date": "",
+            "length": "-",
+            "start_months_since_1900": -1,
+            "end_months_since_1900": -1,
+            "length_in_months": -1
+        },
+        {
+            "name": "Hamilton Bohannon",
+            "href": "https://www.whosdatedwho.com/dating/hamilton-bohannon",
+            "relationship_type": 2,
+            "start_date": "",
+            "end_date": "",
+            "length": "-",
+            "start_months_since_1900": -1,
+            "end_months_since_1900": -1,
+            "length_in_months": -1
+        }
+    ],
+    "details": {
+        "First Name": "Beverly",
+        "Middle Name": "Ann",
+        "Last Name": "NA",
+        "Maiden Name": "Johnson",
+        "Full Name at Birth": "Beverly Ann Johnson",
+        "Alternative Name": "NA",
+        "Birthday": "1952",
+        "Birthplace": "USA",
+        "Height": "175",
+        "Weight": "NA",
+        "Zodiac Sign": "10",
+        "Sexuality": "Straight",
+        "Religion": "1",
+        "Ethnicity": "8",
+        "Nationality": "91",
+        "Occupation": "15"
+    }
+}

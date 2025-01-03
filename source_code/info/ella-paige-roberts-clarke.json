@@ -1,0 +1,33 @@
+{
+    "relationships": [
+        {
+            "name": "Justin Bieber",
+            "href": "https://www.whosdatedwho.com/dating/justin-bieber",
+            "relationship_type": 3,
+            "start_date": "2013",
+            "end_date": "2013",
+            "length": "-",
+            "start_months_since_1900": 1356,
+            "end_months_since_1900": 1356,
+            "length_in_months": -1
+        }
+    ],
+    "details": {
+        "First Name": "Ella-Paige",
+        "Middle Name": "NA",
+        "Last Name": "Roberts Clarke",
+        "Maiden Name": "NA",
+        "Full Name at Birth": "Ella-Paige Roberts-Clarke",
+        "Alternative Name": "NA",
+        "Birthday": "1995",
+        "Birthplace": "England",
+        "Height": "173",
+        "Weight": "NA",
+        "Zodiac Sign": "8",
+        "Sexuality": "Straight",
+        "Religion": "1",
+        "Ethnicity": "8",
+        "Nationality": "8",
+        "Occupation": "1"
+    }
+}

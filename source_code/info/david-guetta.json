@@ -1,0 +1,44 @@
+{
+    "relationships": [
+        {
+            "name": "Jessica Ledon",
+            "href": "https://www.whosdatedwho.com/dating/jessica-ledon",
+            "relationship_type": 2,
+            "start_date": "Jul 2015",
+            "end_date": "Jul 2015",
+            "length": "-",
+            "start_months_since_1900": 1386,
+            "end_months_since_1900": 1386,
+            "length_in_months": -1
+        },
+        {
+            "name": "Cathy Guetta",
+            "href": "https://www.whosdatedwho.com/dating/cathy-guetta",
+            "relationship_type": 4,
+            "start_date": "1989",
+            "end_date": "Mar 2014",
+            "length": "25 years",
+            "start_months_since_1900": 1068,
+            "end_months_since_1900": 1370,
+            "length_in_months": 300
+        }
+    ],
+    "details": {
+        "First Name": "Pierre",
+        "Middle Name": "David",
+        "Last Name": "Guetta",
+        "Maiden Name": "NA",
+        "Full Name at Birth": "Pierre David Guetta.",
+        "Alternative Name": "Pierre David Guetta, David Guetta",
+        "Birthday": "1967",
+        "Birthplace": "France",
+        "Height": "176",
+        "Weight": "NA",
+        "Zodiac Sign": "5",
+        "Sexuality": "Straight",
+        "Religion": "1",
+        "Ethnicity": "6",
+        "Nationality": "86",
+        "Occupation": "1"
+    }
+}

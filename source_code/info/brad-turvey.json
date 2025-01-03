@@ -1,0 +1,44 @@
+{
+    "relationships": [
+        {
+            "name": "Nancy Castiglione",
+            "href": "https://www.whosdatedwho.com/dating/nancy-jane",
+            "relationship_type": 2,
+            "start_date": "Jun 2006",
+            "end_date": "2007",
+            "length": "7 months",
+            "start_months_since_1900": 1277,
+            "end_months_since_1900": 1284,
+            "length_in_months": 7
+        },
+        {
+            "name": "Pops Fernandez",
+            "href": "https://www.whosdatedwho.com/dating/pops-fernandez",
+            "relationship_type": 2,
+            "start_date": "2003",
+            "end_date": "2004",
+            "length": "1 year",
+            "start_months_since_1900": 1236,
+            "end_months_since_1900": 1248,
+            "length_in_months": 12
+        }
+    ],
+    "details": {
+        "First Name": "Brad",
+        "Middle Name": "NA",
+        "Last Name": "Turvey",
+        "Maiden Name": "NA",
+        "Full Name at Birth": "NA",
+        "Alternative Name": "NA",
+        "Birthday": "1982",
+        "Birthplace": "Hong Kong",
+        "Height": "NA",
+        "Weight": "NA",
+        "Zodiac Sign": "1",
+        "Sexuality": "Straight",
+        "Religion": "13",
+        "Ethnicity": "8",
+        "Nationality": "135",
+        "Occupation": "8"
+    }
+}

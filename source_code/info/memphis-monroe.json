@@ -1,0 +1,44 @@
+{
+    "relationships": [
+        {
+            "name": "Julian",
+            "href": "https://www.whosdatedwho.com/dating/julian",
+            "relationship_type": 2,
+            "start_date": "2008",
+            "end_date": "2008",
+            "length": "-",
+            "start_months_since_1900": 1296,
+            "end_months_since_1900": 1296,
+            "length_in_months": -1
+        },
+        {
+            "name": "Rocco Siffredi",
+            "href": "https://www.whosdatedwho.com/dating/rocco-siffredi",
+            "relationship_type": 3,
+            "start_date": "",
+            "end_date": "",
+            "length": "-",
+            "start_months_since_1900": -1,
+            "end_months_since_1900": -1,
+            "length_in_months": -1
+        }
+    ],
+    "details": {
+        "First Name": "Memphis",
+        "Middle Name": "NA",
+        "Last Name": "Monroe",
+        "Maiden Name": "NA",
+        "Full Name at Birth": "Heather Dorsey",
+        "Alternative Name": "Memphis, Jamie Lynn, Jamie, Jamie Norton, Memphis Monroe, Heather Dorsey",
+        "Birthday": "1985",
+        "Birthplace": "USA",
+        "Height": "168",
+        "Weight": "119lbs (54 kg)",
+        "Zodiac Sign": "7",
+        "Sexuality": "Straight",
+        "Religion": "1",
+        "Ethnicity": "6",
+        "Nationality": "91",
+        "Occupation": "16"
+    }
+}

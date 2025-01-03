@@ -1,0 +1,99 @@
+{
+    "relationships": [
+        {
+            "name": "Pam Dawber",
+            "href": "https://www.whosdatedwho.com/dating/pam-dawber",
+            "relationship_type": 4,
+            "start_date": "Feb 1986",
+            "end_date": "present",
+            "length": "38 years",
+            "start_months_since_1900": 1033,
+            "end_months_since_1900": -1,
+            "length_in_months": 456
+        },
+        {
+            "name": "Terri Garber",
+            "href": "https://www.whosdatedwho.com/dating/terri-garber",
+            "relationship_type": 2,
+            "start_date": "Dec 1985",
+            "end_date": "Jan 1986",
+            "length": "1 month",
+            "start_months_since_1900": 1031,
+            "end_months_since_1900": 1032,
+            "length_in_months": 1
+        },
+        {
+            "name": "Sheree J. Wilson",
+            "href": "https://www.whosdatedwho.com/dating/sheree-j-wilson",
+            "relationship_type": 2,
+            "start_date": "1985",
+            "end_date": "1985",
+            "length": "-",
+            "start_months_since_1900": 1020,
+            "end_months_since_1900": 1020,
+            "length_in_months": -1
+        },
+        {
+            "name": "Heather Locklear",
+            "href": "https://www.whosdatedwho.com/dating/heather-locklear",
+            "relationship_type": 2,
+            "start_date": "Dec 1984",
+            "end_date": "Dec 1984",
+            "length": "-",
+            "start_months_since_1900": 1019,
+            "end_months_since_1900": 1019,
+            "length_in_months": -1
+        },
+        {
+            "name": "Cristina Raines",
+            "href": "https://www.whosdatedwho.com/dating/cristina-raines",
+            "relationship_type": 2,
+            "start_date": "1980",
+            "end_date": "1984",
+            "length": "4 years",
+            "start_months_since_1900": 960,
+            "end_months_since_1900": 1008,
+            "length_in_months": 48
+        },
+        {
+            "name": "Morgan Fairchild",
+            "href": "https://www.whosdatedwho.com/dating/morgan-fairchild",
+            "relationship_type": 2,
+            "start_date": "1979",
+            "end_date": "1979",
+            "length": "-",
+            "start_months_since_1900": 948,
+            "end_months_since_1900": 948,
+            "length_in_months": -1
+        },
+        {
+            "name": "Karen Carpenter",
+            "href": "https://www.whosdatedwho.com/dating/karen-carpenter",
+            "relationship_type": 2,
+            "start_date": "",
+            "end_date": "",
+            "length": "-",
+            "start_months_since_1900": -1,
+            "end_months_since_1900": -1,
+            "length_in_months": -1
+        }
+    ],
+    "details": {
+        "First Name": "Mark",
+        "Middle Name": "NA",
+        "Last Name": "Harmon",
+        "Maiden Name": "NA",
+        "Full Name at Birth": "Thomas Mark Harmon",
+        "Alternative Name": "NA",
+        "Birthday": "1951",
+        "Birthplace": "USA",
+        "Height": "183",
+        "Weight": "185lbs (84 kg)",
+        "Zodiac Sign": "11",
+        "Sexuality": "Straight",
+        "Religion": "13",
+        "Ethnicity": "6",
+        "Nationality": "91",
+        "Occupation": "8"
+    }
+}

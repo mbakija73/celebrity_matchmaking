@@ -1,0 +1,55 @@
+{
+    "relationships": [
+        {
+            "name": "Ally Rossel",
+            "href": "https://www.whosdatedwho.com/dating/ally-rossel",
+            "relationship_type": 2,
+            "start_date": "Aug 2021",
+            "end_date": "present",
+            "length": "3 years",
+            "start_months_since_1900": 1459,
+            "end_months_since_1900": -1,
+            "length_in_months": 36
+        },
+        {
+            "name": "Jasmine Rae",
+            "href": "https://www.whosdatedwho.com/dating/jasmine-rae-model",
+            "relationship_type": 2,
+            "start_date": "Feb 2020",
+            "end_date": "Sep 2020",
+            "length": "7 months",
+            "start_months_since_1900": 1441,
+            "end_months_since_1900": 1448,
+            "length_in_months": 7
+        },
+        {
+            "name": "Denise Garcia",
+            "href": "https://www.whosdatedwho.com/dating/denise-garcia",
+            "relationship_type": 2,
+            "start_date": "2014",
+            "end_date": "",
+            "length": "-",
+            "start_months_since_1900": 1368,
+            "end_months_since_1900": -1,
+            "length_in_months": -1
+        }
+    ],
+    "details": {
+        "First Name": "Lonzo",
+        "Middle Name": "NA",
+        "Last Name": "Ball",
+        "Maiden Name": "NA",
+        "Full Name at Birth": "Lonzo Anderson Ball",
+        "Alternative Name": "NA",
+        "Birthday": "1997",
+        "Birthplace": "United States",
+        "Height": "198",
+        "Weight": "190lbs (86 kg)",
+        "Zodiac Sign": "5",
+        "Sexuality": "Straight",
+        "Religion": "1",
+        "Ethnicity": "8",
+        "Nationality": "91",
+        "Occupation": "2"
+    }
+}

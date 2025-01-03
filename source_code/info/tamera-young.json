@@ -1,0 +1,44 @@
+{
+    "relationships": [
+        {
+            "name": "Drew Sidora",
+            "href": "https://www.whosdatedwho.com/dating/drew-sidora",
+            "relationship_type": 2,
+            "start_date": "Jan 2023",
+            "end_date": "present",
+            "length": "1 year",
+            "start_months_since_1900": 1476,
+            "end_months_since_1900": -1,
+            "length_in_months": 12
+        },
+        {
+            "name": "Mimi Faust",
+            "href": "https://www.whosdatedwho.com/dating/mimi-faust",
+            "relationship_type": 2,
+            "start_date": "Dec 2016",
+            "end_date": "Mar 2021",
+            "length": "4 years",
+            "start_months_since_1900": 1403,
+            "end_months_since_1900": 1454,
+            "length_in_months": 48
+        }
+    ],
+    "details": {
+        "First Name": "Tamera",
+        "Middle Name": "NA",
+        "Last Name": "Young",
+        "Maiden Name": "NA",
+        "Full Name at Birth": "NA",
+        "Alternative Name": "NA",
+        "Birthday": "1986",
+        "Birthplace": "North Carolina",
+        "Height": "188",
+        "Weight": "170lbs (77 kg)",
+        "Zodiac Sign": "5",
+        "Sexuality": "Lesbian",
+        "Religion": "1",
+        "Ethnicity": "2",
+        "Nationality": "91",
+        "Occupation": "2"
+    }
+}

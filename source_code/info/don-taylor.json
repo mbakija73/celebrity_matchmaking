@@ -1,0 +1,66 @@
+{
+    "relationships": [
+        {
+            "name": "Hazel Court",
+            "href": "https://www.whosdatedwho.com/dating/hazel-court",
+            "relationship_type": 4,
+            "start_date": "1964",
+            "end_date": "Dec 1998",
+            "length": "34 years",
+            "start_months_since_1900": 768,
+            "end_months_since_1900": 1187,
+            "length_in_months": 408
+        },
+        {
+            "name": "Martha Hyer",
+            "href": "https://www.whosdatedwho.com/dating/martha-hyer",
+            "relationship_type": 3,
+            "start_date": "Jan 1957",
+            "end_date": "Feb 1957",
+            "length": "1 month",
+            "start_months_since_1900": 684,
+            "end_months_since_1900": 685,
+            "length_in_months": 1
+        },
+        {
+            "name": "Phyllis Avery",
+            "href": "https://www.whosdatedwho.com/dating/phyllis-avery",
+            "relationship_type": 4,
+            "start_date": "1944",
+            "end_date": "1955",
+            "length": "11 years",
+            "start_months_since_1900": 528,
+            "end_months_since_1900": 660,
+            "length_in_months": 132
+        },
+        {
+            "name": "Frances Rafferty",
+            "href": "https://www.whosdatedwho.com/dating/frances-rafferty",
+            "relationship_type": 2,
+            "start_date": "Feb 1943",
+            "end_date": "May 1943",
+            "length": "2 months",
+            "start_months_since_1900": 517,
+            "end_months_since_1900": 520,
+            "length_in_months": 2
+        }
+    ],
+    "details": {
+        "First Name": "Donald",
+        "Middle Name": "Richie",
+        "Last Name": "Taylor",
+        "Maiden Name": "NA",
+        "Full Name at Birth": "Donald Richie Taylor",
+        "Alternative Name": "Donald Richie Taylor, Donald Taylor, DonTaylor",
+        "Birthday": "1920",
+        "Birthplace": "Pennsylvania USA",
+        "Height": "185",
+        "Weight": "NA",
+        "Zodiac Sign": "6",
+        "Sexuality": "Straight",
+        "Religion": "1",
+        "Ethnicity": "6",
+        "Nationality": "91",
+        "Occupation": "8"
+    }
+}

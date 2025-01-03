@@ -1,0 +1,77 @@
+{
+    "relationships": [
+        {
+            "name": "Alicia Prats",
+            "href": "https://www.whosdatedwho.com/dating/alicia-prats",
+            "relationship_type": 4,
+            "start_date": "1964",
+            "end_date": "Mar 2001",
+            "length": "37 years",
+            "start_months_since_1900": 768,
+            "end_months_since_1900": 1214,
+            "length_in_months": 444
+        },
+        {
+            "name": "Susan Cabot",
+            "href": "https://www.whosdatedwho.com/dating/susan-cabot",
+            "relationship_type": 2,
+            "start_date": "10th Jun 1962",
+            "end_date": "Aug 1962",
+            "length": "1 month",
+            "start_months_since_1900": 749,
+            "end_months_since_1900": 751,
+            "length_in_months": 1
+        },
+        {
+            "name": "Eve Brent",
+            "href": "https://www.whosdatedwho.com/dating/eve-brent",
+            "relationship_type": 2,
+            "start_date": "Dec 1961",
+            "end_date": "Mar 1952",
+            "length": "9 years",
+            "start_months_since_1900": 743,
+            "end_months_since_1900": 626,
+            "length_in_months": 108
+        },
+        {
+            "name": "Helayne McNorton",
+            "href": "https://www.whosdatedwho.com/dating/helayne-mcnorton",
+            "relationship_type": 4,
+            "start_date": "1949",
+            "end_date": "1963",
+            "length": "14 years",
+            "start_months_since_1900": 588,
+            "end_months_since_1900": 756,
+            "length_in_months": 168
+        },
+        {
+            "name": "Carol Lynley",
+            "href": "https://www.whosdatedwho.com/dating/carol-lynley",
+            "relationship_type": 3,
+            "start_date": "",
+            "end_date": "",
+            "length": "-",
+            "start_months_since_1900": -1,
+            "end_months_since_1900": -1,
+            "length_in_months": -1
+        }
+    ],
+    "details": {
+        "First Name": "Red",
+        "Middle Name": "NA",
+        "Last Name": "Buttons",
+        "Maiden Name": "NA",
+        "Full Name at Birth": "Aaron Chwatt",
+        "Alternative Name": "Cpl. Red Buttons",
+        "Birthday": "1919",
+        "Birthplace": "USA",
+        "Height": "168",
+        "Weight": "NA",
+        "Zodiac Sign": "9",
+        "Sexuality": "Straight",
+        "Religion": "31",
+        "Ethnicity": "6",
+        "Nationality": "91",
+        "Occupation": "8"
+    }
+}

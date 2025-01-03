@@ -1,0 +1,55 @@
+{
+    "relationships": [
+        {
+            "name": "Laura Branigan",
+            "href": "https://www.whosdatedwho.com/dating/laura-branigan",
+            "relationship_type": 2,
+            "start_date": "1979",
+            "end_date": "1979",
+            "length": "-",
+            "start_months_since_1900": 948,
+            "end_months_since_1900": 948,
+            "length_in_months": -1
+        },
+        {
+            "name": "Jill St. John",
+            "href": "https://www.whosdatedwho.com/dating/jill-st-john",
+            "relationship_type": 1,
+            "start_date": "1975",
+            "end_date": "1975",
+            "length": "-",
+            "start_months_since_1900": 900,
+            "end_months_since_1900": 900,
+            "length_in_months": -1
+        },
+        {
+            "name": "Eve Babitz",
+            "href": "https://www.whosdatedwho.com/dating/eve-babitz",
+            "relationship_type": 2,
+            "start_date": "1971",
+            "end_date": "1971",
+            "length": "-",
+            "start_months_since_1900": 852,
+            "end_months_since_1900": 852,
+            "length_in_months": -1
+        }
+    ],
+    "details": {
+        "First Name": "Ahmet",
+        "Middle Name": "NA",
+        "Last Name": "Ertegun",
+        "Maiden Name": "NA",
+        "Full Name at Birth": "NA",
+        "Alternative Name": "A. Nugetre",
+        "Birthday": "1923",
+        "Birthplace": "Turkey",
+        "Height": "165",
+        "Weight": "NA",
+        "Zodiac Sign": "12",
+        "Sexuality": "Straight",
+        "Religion": "1",
+        "Ethnicity": "6",
+        "Nationality": "75",
+        "Occupation": "1"
+    }
+}

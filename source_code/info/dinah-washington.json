@@ -1,0 +1,121 @@
+{
+    "relationships": [
+        {
+            "name": "Dick Lane",
+            "href": "https://www.whosdatedwho.com/dating/dick-lane-football-american",
+            "relationship_type": 4,
+            "start_date": "1963",
+            "end_date": "1963",
+            "length": "-",
+            "start_months_since_1900": 756,
+            "end_months_since_1900": 756,
+            "length_in_months": -1
+        },
+        {
+            "name": "Dave Turner",
+            "href": "https://www.whosdatedwho.com/dating/dave-turner",
+            "relationship_type": 2,
+            "start_date": "1962",
+            "end_date": "1962",
+            "length": "-",
+            "start_months_since_1900": 744,
+            "end_months_since_1900": 744,
+            "length_in_months": -1
+        },
+        {
+            "name": "Rafael Campos",
+            "href": "https://www.whosdatedwho.com/dating/rafael-campos",
+            "relationship_type": 4,
+            "start_date": "1961",
+            "end_date": "1962",
+            "length": "1 year",
+            "start_months_since_1900": 732,
+            "end_months_since_1900": 744,
+            "length_in_months": 12
+        },
+        {
+            "name": "John Young (spouse)",
+            "href": "https://www.whosdatedwho.com/dating/john-young-spouse",
+            "relationship_type": 4,
+            "start_date": "1942",
+            "end_date": "1943",
+            "length": "1 year",
+            "start_months_since_1900": 504,
+            "end_months_since_1900": 516,
+            "length_in_months": 12
+        },
+        {
+            "name": "George Jenkins",
+            "href": "https://www.whosdatedwho.com/dating/george-jenkins",
+            "relationship_type": 4,
+            "start_date": "",
+            "end_date": "",
+            "length": "-",
+            "start_months_since_1900": -1,
+            "end_months_since_1900": -1,
+            "length_in_months": -1
+        },
+        {
+            "name": "Lionel Hampton",
+            "href": "https://www.whosdatedwho.com/dating/lionel-hampton",
+            "relationship_type": 3,
+            "start_date": "",
+            "end_date": "",
+            "length": "-",
+            "start_months_since_1900": -1,
+            "end_months_since_1900": -1,
+            "length_in_months": -1
+        },
+        {
+            "name": "Robert Grayson",
+            "href": "https://www.whosdatedwho.com/dating/robert-grayson",
+            "relationship_type": 1,
+            "start_date": "",
+            "end_date": "",
+            "length": "-",
+            "start_months_since_1900": -1,
+            "end_months_since_1900": -1,
+            "length_in_months": -1
+        },
+        {
+            "name": "Walter Buchanan (footballer)",
+            "href": "https://www.whosdatedwho.com/dating/walter-buchanan",
+            "relationship_type": 1,
+            "start_date": "",
+            "end_date": "",
+            "length": "-",
+            "start_months_since_1900": -1,
+            "end_months_since_1900": -1,
+            "length_in_months": -1
+        },
+        {
+            "name": "Eddie Chamblee",
+            "href": "https://www.whosdatedwho.com/dating/eddie-chamblee",
+            "relationship_type": 4,
+            "start_date": "1957",
+            "end_date": "1958",
+            "length": "1 year",
+            "start_months_since_1900": 684,
+            "end_months_since_1900": 696,
+            "length_in_months": 12
+        }
+    ],
+    "details": {
+        "First Name": "Dinah",
+        "Middle Name": "NA",
+        "Last Name": "Washington",
+        "Maiden Name": "Jones",
+        "Full Name at Birth": "Ruth Lee Jones",
+        "Alternative Name": "Queen of the Blues, Queen of the Jukebox, Queen of Jam Sessions, Ruth Lee Jones, Dinah Washington",
+        "Birthday": "1924",
+        "Birthplace": "USA",
+        "Height": "NA",
+        "Weight": "NA",
+        "Zodiac Sign": "11",
+        "Sexuality": "Straight",
+        "Religion": "19",
+        "Ethnicity": "2",
+        "Nationality": "91",
+        "Occupation": "1"
+    }
+}

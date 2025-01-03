@@ -1,0 +1,66 @@
+{
+    "relationships": [
+        {
+            "name": "Sarah Lee Lippincott",
+            "href": "https://www.whosdatedwho.com/dating/sarah-lee-lippincott",
+            "relationship_type": 4,
+            "start_date": "1979",
+            "end_date": "21st Jul 1982",
+            "length": "3 years",
+            "start_months_since_1900": 948,
+            "end_months_since_1900": 990,
+            "length_in_months": 36
+        },
+        {
+            "name": "Pamela Wilde",
+            "href": "https://www.whosdatedwho.com/dating/pamela-wilde",
+            "relationship_type": 4,
+            "start_date": "1954",
+            "end_date": "28th Apr 1961",
+            "length": "7 years",
+            "start_months_since_1900": 648,
+            "end_months_since_1900": 735,
+            "length_in_months": 84
+        },
+        {
+            "name": "Nancy Berg",
+            "href": "https://www.whosdatedwho.com/dating/nancy-berg",
+            "relationship_type": 2,
+            "start_date": "1950",
+            "end_date": "1951",
+            "length": "1 year",
+            "start_months_since_1900": 600,
+            "end_months_since_1900": 612,
+            "length_in_months": 12
+        },
+        {
+            "name": "Adele Marie Dwyer",
+            "href": "https://www.whosdatedwho.com/dating/adele-marie-dwyer",
+            "relationship_type": 4,
+            "start_date": "1939",
+            "end_date": "1946",
+            "length": "7 years",
+            "start_months_since_1900": 468,
+            "end_months_since_1900": 552,
+            "length_in_months": 84
+        }
+    ],
+    "details": {
+        "First Name": "Dave",
+        "Middle Name": "NA",
+        "Last Name": "Garroway",
+        "Maiden Name": "NA",
+        "Full Name at Birth": "David Cunningham Garroway",
+        "Alternative Name": "NA",
+        "Birthday": "1913",
+        "Birthplace": "New York",
+        "Height": "NA",
+        "Weight": "NA",
+        "Zodiac Sign": "8",
+        "Sexuality": "Straight",
+        "Religion": "1",
+        "Ethnicity": "6",
+        "Nationality": "91",
+        "Occupation": "9"
+    }
+}

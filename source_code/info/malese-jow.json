@@ -1,0 +1,66 @@
+{
+    "relationships": [
+        {
+            "name": "Ian Somerhalder",
+            "href": "https://www.whosdatedwho.com/dating/ian-somerhalder",
+            "relationship_type": 3,
+            "start_date": "Jun 2013",
+            "end_date": "Jun 2013",
+            "length": "-",
+            "start_months_since_1900": 1361,
+            "end_months_since_1900": 1361,
+            "length_in_months": -1
+        },
+        {
+            "name": "Carter Jenkins",
+            "href": "https://www.whosdatedwho.com/dating/carter-jenkins",
+            "relationship_type": 2,
+            "start_date": "31st Jul 2009",
+            "end_date": "Dec 2009",
+            "length": "4 months",
+            "start_months_since_1900": 1314,
+            "end_months_since_1900": 1319,
+            "length_in_months": 4
+        },
+        {
+            "name": "Kevin Jonas",
+            "href": "https://www.whosdatedwho.com/dating/kevin-jonas",
+            "relationship_type": 2,
+            "start_date": "Apr 2006",
+            "end_date": "Jul 2006",
+            "length": "3 months",
+            "start_months_since_1900": 1275,
+            "end_months_since_1900": 1278,
+            "length_in_months": 3
+        },
+        {
+            "name": "Unknown",
+            "href": "https://www.whosdatedwho.com/dating/unknown-profile",
+            "relationship_type": 5,
+            "start_date": "",
+            "end_date": "",
+            "length": "-",
+            "start_months_since_1900": -1,
+            "end_months_since_1900": -1,
+            "length_in_months": -1
+        }
+    ],
+    "details": {
+        "First Name": "Elizabeth",
+        "Middle Name": "Melise \"Malese",
+        "Last Name": "Jow",
+        "Maiden Name": "NA",
+        "Full Name at Birth": "Elizabeth Melise Jow",
+        "Alternative Name": "Malese, Malese Jow",
+        "Birthday": "1991",
+        "Birthplace": "USA",
+        "Height": "164",
+        "Weight": "106lbs (48 kg)",
+        "Zodiac Sign": "9",
+        "Sexuality": "Straight",
+        "Religion": "18",
+        "Ethnicity": "8",
+        "Nationality": "91",
+        "Occupation": "8"
+    }
+}

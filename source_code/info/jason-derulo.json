@@ -1,0 +1,66 @@
+{
+    "relationships": [
+        {
+            "name": "Jena Frumes",
+            "href": "https://www.whosdatedwho.com/dating/jena-frumes",
+            "relationship_type": 2,
+            "start_date": "Apr 2020",
+            "end_date": "Sep 2021",
+            "length": "1 year",
+            "start_months_since_1900": 1443,
+            "end_months_since_1900": 1460,
+            "length_in_months": 12
+        },
+        {
+            "name": "Daphne Joy",
+            "href": "https://www.whosdatedwho.com/dating/daphne-joy",
+            "relationship_type": 3,
+            "start_date": "Nov 2015",
+            "end_date": "May 2016",
+            "length": "6 months",
+            "start_months_since_1900": 1390,
+            "end_months_since_1900": 1396,
+            "length_in_months": 6
+        },
+        {
+            "name": "Carmen Ortega",
+            "href": "https://www.whosdatedwho.com/dating/carmen-ortega",
+            "relationship_type": 3,
+            "start_date": "2014",
+            "end_date": "2014",
+            "length": "-",
+            "start_months_since_1900": 1368,
+            "end_months_since_1900": 1368,
+            "length_in_months": -1
+        },
+        {
+            "name": "Jordin Sparks",
+            "href": "https://www.whosdatedwho.com/dating/jordin-sparks",
+            "relationship_type": 2,
+            "start_date": "Aug 2011",
+            "end_date": "Sep 2014",
+            "length": "3 years",
+            "start_months_since_1900": 1339,
+            "end_months_since_1900": 1376,
+            "length_in_months": 36
+        }
+    ],
+    "details": {
+        "First Name": "Jason",
+        "Middle Name": "Joel",
+        "Last Name": "Derulo",
+        "Maiden Name": "NA",
+        "Full Name at Birth": "Jason Joel Desrouleaux",
+        "Alternative Name": "J. D.",
+        "Birthday": "1989",
+        "Birthplace": "USA",
+        "Height": "184",
+        "Weight": "172lbs (78 kg)",
+        "Zodiac Sign": "11",
+        "Sexuality": "Straight",
+        "Religion": "13",
+        "Ethnicity": "2",
+        "Nationality": "91",
+        "Occupation": "1"
+    }
+}

@@ -1,0 +1,55 @@
+{
+    "relationships": [
+        {
+            "name": "Richard Pryor",
+            "href": "https://www.whosdatedwho.com/dating/richard-pryor",
+            "relationship_type": 4,
+            "start_date": "1980",
+            "end_date": "10th Dec 2005",
+            "length": "25 years",
+            "start_months_since_1900": 960,
+            "end_months_since_1900": 1271,
+            "length_in_months": 300
+        },
+        {
+            "name": "Linda Blair",
+            "href": "https://www.whosdatedwho.com/dating/linda-blair",
+            "relationship_type": 3,
+            "start_date": "",
+            "end_date": "",
+            "length": "-",
+            "start_months_since_1900": -1,
+            "end_months_since_1900": -1,
+            "length_in_months": -1
+        },
+        {
+            "name": "Warren Beatty",
+            "href": "https://www.whosdatedwho.com/dating/warren-beatty",
+            "relationship_type": 3,
+            "start_date": "",
+            "end_date": "",
+            "length": "-",
+            "start_months_since_1900": -1,
+            "end_months_since_1900": -1,
+            "length_in_months": -1
+        }
+    ],
+    "details": {
+        "First Name": "Jennifer",
+        "Middle Name": "NA",
+        "Last Name": "NA",
+        "Maiden Name": "Lee",
+        "Full Name at Birth": "Jennifer Lee",
+        "Alternative Name": "NA",
+        "Birthday": "1939",
+        "Birthplace": "United States",
+        "Height": "165",
+        "Weight": "NA",
+        "Zodiac Sign": "2",
+        "Sexuality": "DISPUTED",
+        "Religion": "1",
+        "Ethnicity": "6",
+        "Nationality": "91",
+        "Occupation": "8"
+    }
+}

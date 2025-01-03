@@ -1,0 +1,55 @@
+{
+    "relationships": [
+        {
+            "name": "Ben Youcef",
+            "href": "https://www.whosdatedwho.com/dating/ben-youcef",
+            "relationship_type": 2,
+            "start_date": "2021",
+            "end_date": "present",
+            "length": "3 years",
+            "start_months_since_1900": 1452,
+            "end_months_since_1900": -1,
+            "length_in_months": 36
+        },
+        {
+            "name": "Andrew Cuomo",
+            "href": "https://www.whosdatedwho.com/dating/andrew-cuomo",
+            "relationship_type": 2,
+            "start_date": "2006",
+            "end_date": "25th Sep 2019",
+            "length": "13 years",
+            "start_months_since_1900": 1272,
+            "end_months_since_1900": 1436,
+            "length_in_months": 156
+        },
+        {
+            "name": "Bruce Karatz",
+            "href": "https://www.whosdatedwho.com/dating/bruce-karatz",
+            "relationship_type": 4,
+            "start_date": "2001",
+            "end_date": "2007",
+            "length": "6 years",
+            "start_months_since_1900": 1212,
+            "end_months_since_1900": 1284,
+            "length_in_months": 72
+        }
+    ],
+    "details": {
+        "First Name": "Sandra",
+        "Middle Name": "Lee",
+        "Last Name": "NA",
+        "Maiden Name": "Christiansen",
+        "Full Name at Birth": "Sandra Lee Waldroop",
+        "Alternative Name": "Sandra Lee Christiansen, Sandra Lee, Sandra Lee Waldroop",
+        "Birthday": "1966",
+        "Birthplace": "USA",
+        "Height": "NA",
+        "Weight": "NA",
+        "Zodiac Sign": "8",
+        "Sexuality": "Straight",
+        "Religion": "1",
+        "Ethnicity": "6",
+        "Nationality": "91",
+        "Occupation": "11"
+    }
+}

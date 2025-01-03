@@ -1,0 +1,66 @@
+{
+    "relationships": [
+        {
+            "name": "Stephanie Winn",
+            "href": "https://www.whosdatedwho.com/dating/stephanie-winn",
+            "relationship_type": 2,
+            "start_date": "May 2014",
+            "end_date": "Jul 2017",
+            "length": "3 years",
+            "start_months_since_1900": 1372,
+            "end_months_since_1900": 1410,
+            "length_in_months": 36
+        },
+        {
+            "name": "Kris Jenner",
+            "href": "https://www.whosdatedwho.com/dating/kris-jenner",
+            "relationship_type": 2,
+            "start_date": "Sep 2013",
+            "end_date": "Apr 2014",
+            "length": "7 months",
+            "start_months_since_1900": 1364,
+            "end_months_since_1900": 1371,
+            "length_in_months": 7
+        },
+        {
+            "name": "Courtney Robertson",
+            "href": "https://www.whosdatedwho.com/dating/courtney-robertson",
+            "relationship_type": 2,
+            "start_date": "May 2011",
+            "end_date": "Oct 2012",
+            "length": "1 year",
+            "start_months_since_1900": 1336,
+            "end_months_since_1900": 1353,
+            "length_in_months": 12
+        },
+        {
+            "name": "Ashley Hebert",
+            "href": "https://www.whosdatedwho.com/dating/ashley-hebert",
+            "relationship_type": 3,
+            "start_date": "2011",
+            "end_date": "2011",
+            "length": "-",
+            "start_months_since_1900": 1332,
+            "end_months_since_1900": 1332,
+            "length_in_months": -1
+        }
+    ],
+    "details": {
+        "First Name": "Benjamin",
+        "Middle Name": "NA",
+        "Last Name": "Flajnik",
+        "Maiden Name": "NA",
+        "Full Name at Birth": "NA",
+        "Alternative Name": "Ben Flajnik",
+        "Birthday": "1982",
+        "Birthplace": "NA",
+        "Height": "180",
+        "Weight": "NA",
+        "Zodiac Sign": "11",
+        "Sexuality": "Straight",
+        "Religion": "1",
+        "Ethnicity": "6",
+        "Nationality": "91",
+        "Occupation": "11"
+    }
+}

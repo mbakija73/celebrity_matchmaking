@@ -1,0 +1,44 @@
+{
+    "relationships": [
+        {
+            "name": "Simon Jordan",
+            "href": "https://www.whosdatedwho.com/dating/simon-jordan",
+            "relationship_type": 2,
+            "start_date": "Jul 2005",
+            "end_date": "Mar 2006",
+            "length": "8 months",
+            "start_months_since_1900": 1266,
+            "end_months_since_1900": 1274,
+            "length_in_months": 8
+        },
+        {
+            "name": "Noel Gallagher",
+            "href": "https://www.whosdatedwho.com/dating/noel-gallagher",
+            "relationship_type": 4,
+            "start_date": "1994",
+            "end_date": "Jan 2001",
+            "length": "7 years",
+            "start_months_since_1900": 1128,
+            "end_months_since_1900": 1212,
+            "length_in_months": 84
+        }
+    ],
+    "details": {
+        "First Name": "Meg",
+        "Middle Name": "NA",
+        "Last Name": "Mathews",
+        "Maiden Name": "NA",
+        "Full Name at Birth": "Meg Mathews",
+        "Alternative Name": "NA",
+        "Birthday": "1966",
+        "Birthplace": "UK",
+        "Height": "NA",
+        "Weight": "NA",
+        "Zodiac Sign": "1",
+        "Sexuality": "Straight",
+        "Religion": "1",
+        "Ethnicity": "6",
+        "Nationality": "8",
+        "Occupation": "15"
+    }
+}

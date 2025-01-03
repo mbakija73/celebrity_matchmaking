@@ -1,0 +1,55 @@
+{
+    "relationships": [
+        {
+            "name": "Helen Chamberlain",
+            "href": "https://www.whosdatedwho.com/dating/helen-chamberlain",
+            "relationship_type": 3,
+            "start_date": "1996",
+            "end_date": "1996",
+            "length": "-",
+            "start_months_since_1900": 1152,
+            "end_months_since_1900": 1152,
+            "length_in_months": -1
+        },
+        {
+            "name": "Chris Evert",
+            "href": "https://www.whosdatedwho.com/dating/chris-evert",
+            "relationship_type": 2,
+            "start_date": "Aug 1982",
+            "end_date": "Mar 1984",
+            "length": "1 year",
+            "start_months_since_1900": 991,
+            "end_months_since_1900": 1010,
+            "length_in_months": 12
+        },
+        {
+            "name": "Jackie Irving",
+            "href": "https://www.whosdatedwho.com/dating/jackie-irving",
+            "relationship_type": 4,
+            "start_date": "1966",
+            "end_date": "8th Mar 2003",
+            "length": "37 years",
+            "start_months_since_1900": 792,
+            "end_months_since_1900": 1238,
+            "length_in_months": 444
+        }
+    ],
+    "details": {
+        "First Name": "Adam",
+        "Middle Name": "NA",
+        "Last Name": "Faith",
+        "Maiden Name": "NA",
+        "Full Name at Birth": "Terence Nelhams-Wright",
+        "Alternative Name": "Terry, Terry Nelhams",
+        "Birthday": "1940",
+        "Birthplace": "UK",
+        "Height": "165",
+        "Weight": "NA",
+        "Zodiac Sign": "8",
+        "Sexuality": "Straight",
+        "Religion": "1",
+        "Ethnicity": "6",
+        "Nationality": "98",
+        "Occupation": "1"
+    }
+}

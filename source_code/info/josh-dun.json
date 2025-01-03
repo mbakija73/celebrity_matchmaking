@@ -1,0 +1,44 @@
+{
+    "relationships": [
+        {
+            "name": "Halsey",
+            "href": "https://www.whosdatedwho.com/dating/ashley-frangipane",
+            "relationship_type": 3,
+            "start_date": "Sep 2015",
+            "end_date": "Sep 2015",
+            "length": "-",
+            "start_months_since_1900": 1388,
+            "end_months_since_1900": 1388,
+            "length_in_months": -1
+        },
+        {
+            "name": "Debby Ryan",
+            "href": "https://www.whosdatedwho.com/dating/debby-ryan",
+            "relationship_type": 4,
+            "start_date": "May 2013",
+            "end_date": "present",
+            "length": "11 years",
+            "start_months_since_1900": 1360,
+            "end_months_since_1900": -1,
+            "length_in_months": 132
+        }
+    ],
+    "details": {
+        "First Name": "Joshua",
+        "Middle Name": "William",
+        "Last Name": "Dun",
+        "Maiden Name": "NA",
+        "Full Name at Birth": "Joshua William Dun",
+        "Alternative Name": "NA",
+        "Birthday": "1988",
+        "Birthplace": "USA",
+        "Height": "178",
+        "Weight": "NA",
+        "Zodiac Sign": "4",
+        "Sexuality": "Straight",
+        "Religion": "18",
+        "Ethnicity": "6",
+        "Nationality": "91",
+        "Occupation": "1"
+    }
+}

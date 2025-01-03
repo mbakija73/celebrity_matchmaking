@@ -1,0 +1,33 @@
+{
+    "relationships": [
+        {
+            "name": "Halle Berry",
+            "href": "https://www.whosdatedwho.com/dating/halle-berry",
+            "relationship_type": 2,
+            "start_date": "May 2017",
+            "end_date": "Dec 2017",
+            "length": "7 months",
+            "start_months_since_1900": 1408,
+            "end_months_since_1900": 1415,
+            "length_in_months": 7
+        }
+    ],
+    "details": {
+        "First Name": "Alex",
+        "Middle Name": "Da",
+        "Last Name": "Kid",
+        "Maiden Name": "NA",
+        "Full Name at Birth": "Alexander Grant",
+        "Alternative Name": "Alex Grant",
+        "Birthday": "1982",
+        "Birthplace": "England",
+        "Height": "NA",
+        "Weight": "NA",
+        "Zodiac Sign": "11",
+        "Sexuality": "Straight",
+        "Religion": "1",
+        "Ethnicity": "8",
+        "Nationality": "8",
+        "Occupation": "1"
+    }
+}

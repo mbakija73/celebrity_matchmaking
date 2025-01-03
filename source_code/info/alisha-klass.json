@@ -1,0 +1,132 @@
+{
+    "relationships": [
+        {
+            "name": "Bruce Willis",
+            "href": "https://www.whosdatedwho.com/dating/bruce-willis",
+            "relationship_type": 2,
+            "start_date": "2000",
+            "end_date": "2001",
+            "length": "1 year",
+            "start_months_since_1900": 1200,
+            "end_months_since_1900": 1212,
+            "length_in_months": 12
+        },
+        {
+            "name": "Seymore Butts",
+            "href": "https://www.whosdatedwho.com/dating/seymore-butts",
+            "relationship_type": 2,
+            "start_date": "1997",
+            "end_date": "2000",
+            "length": "3 years",
+            "start_months_since_1900": 1164,
+            "end_months_since_1900": 1200,
+            "length_in_months": 36
+        },
+        {
+            "name": "Ron Jeremy",
+            "href": "https://www.whosdatedwho.com/dating/ron-jeremy",
+            "relationship_type": 3,
+            "start_date": "1997",
+            "end_date": "1997",
+            "length": "-",
+            "start_months_since_1900": 1164,
+            "end_months_since_1900": 1164,
+            "length_in_months": -1
+        },
+        {
+            "name": "T.T. Boy",
+            "href": "https://www.whosdatedwho.com/dating/t-t-boy",
+            "relationship_type": 3,
+            "start_date": "",
+            "end_date": "",
+            "length": "-",
+            "start_months_since_1900": -1,
+            "end_months_since_1900": -1,
+            "length_in_months": -1
+        },
+        {
+            "name": "Bubba the Love Sponge",
+            "href": "https://www.whosdatedwho.com/dating/bubba-the-love-sponge",
+            "relationship_type": 3,
+            "start_date": "",
+            "end_date": "",
+            "length": "-",
+            "start_months_since_1900": -1,
+            "end_months_since_1900": -1,
+            "length_in_months": -1
+        },
+        {
+            "name": "Emilio Estevez",
+            "href": "https://www.whosdatedwho.com/dating/emilio-estevez",
+            "relationship_type": 3,
+            "start_date": "",
+            "end_date": "",
+            "length": "-",
+            "start_months_since_1900": -1,
+            "end_months_since_1900": -1,
+            "length_in_months": -1
+        },
+        {
+            "name": "Tom Byron",
+            "href": "https://www.whosdatedwho.com/dating/tom-byron",
+            "relationship_type": 3,
+            "start_date": "",
+            "end_date": "",
+            "length": "-",
+            "start_months_since_1900": -1,
+            "end_months_since_1900": -1,
+            "length_in_months": -1
+        },
+        {
+            "name": "Herschel Savage",
+            "href": "https://www.whosdatedwho.com/dating/herschel-savage",
+            "relationship_type": 3,
+            "start_date": "",
+            "end_date": "",
+            "length": "-",
+            "start_months_since_1900": -1,
+            "end_months_since_1900": -1,
+            "length_in_months": -1
+        },
+        {
+            "name": "Jackie Martling",
+            "href": "https://www.whosdatedwho.com/dating/jackie-martling",
+            "relationship_type": 3,
+            "start_date": "",
+            "end_date": "",
+            "length": "-",
+            "start_months_since_1900": -1,
+            "end_months_since_1900": -1,
+            "length_in_months": -1
+        },
+        {
+            "name": "Jon Dough",
+            "href": "https://www.whosdatedwho.com/dating/jon-dough",
+            "relationship_type": 3,
+            "start_date": "",
+            "end_date": "",
+            "length": "-",
+            "start_months_since_1900": -1,
+            "end_months_since_1900": -1,
+            "length_in_months": -1
+        }
+    ],
+    "details": {
+        "First Name": "Alisha",
+        "Middle Name": "NA",
+        "Last Name": "Klass",
+        "Maiden Name": "NA",
+        "Full Name at Birth": "Alicia Lynn Allen",
+        "Alternative Name": "Alicia Lynn Pieri, Alicia Lynn Allen, Alysha Klass, Alisha Klause, Alisha Klass",
+        "Birthday": "1972",
+        "Birthplace": "USA",
+        "Height": "165",
+        "Weight": "NA",
+        "Zodiac Sign": "13",
+        "Sexuality": "Straight",
+        "Religion": "1",
+        "Ethnicity": "6",
+        "Nationality": "91",
+        "Occupation": "16"
+    }
+}

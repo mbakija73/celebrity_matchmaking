@@ -1,0 +1,66 @@
+{
+    "relationships": [
+        {
+            "name": "Dinio Garcia",
+            "href": "https://www.whosdatedwho.com/dating/dinio",
+            "relationship_type": 2,
+            "start_date": "1999",
+            "end_date": "2002",
+            "length": "3 years",
+            "start_months_since_1900": 1188,
+            "end_months_since_1900": 1224,
+            "length_in_months": 36
+        },
+        {
+            "name": "Antonio Gades",
+            "href": "https://www.whosdatedwho.com/dating/antonio-gades",
+            "relationship_type": 2,
+            "start_date": "1964",
+            "end_date": "1966",
+            "length": "2 years",
+            "start_months_since_1900": 768,
+            "end_months_since_1900": 792,
+            "length_in_months": 24
+        },
+        {
+            "name": "Espartaco Santoni",
+            "href": "https://www.whosdatedwho.com/dating/espartaco-santoni",
+            "relationship_type": 4,
+            "start_date": "1958",
+            "end_date": "1961",
+            "length": "3 years",
+            "start_months_since_1900": 696,
+            "end_months_since_1900": 732,
+            "length_in_months": 36
+        },
+        {
+            "name": "Daniel Ducruet",
+            "href": "https://www.whosdatedwho.com/dating/daniel-ducruet",
+            "relationship_type": 2,
+            "start_date": "",
+            "end_date": "",
+            "length": "-",
+            "start_months_since_1900": -1,
+            "end_months_since_1900": -1,
+            "length_in_months": -1
+        }
+    ],
+    "details": {
+        "First Name": "Marujita",
+        "Middle Name": "NA",
+        "Last Name": "D\u00edaz",
+        "Maiden Name": "NA",
+        "Full Name at Birth": "Mar\u00eda del Dulce Nombre D\u00edaz Ruiz",
+        "Alternative Name": "Maruja D\u00edaz",
+        "Birthday": "1932",
+        "Birthplace": "Spain",
+        "Height": "NA",
+        "Weight": "NA",
+        "Zodiac Sign": "3",
+        "Sexuality": "Straight",
+        "Religion": "1",
+        "Ethnicity": "6",
+        "Nationality": "118",
+        "Occupation": "8"
+    }
+}

@@ -1,0 +1,44 @@
+{
+    "relationships": [
+        {
+            "name": "Marilyn Hanold",
+            "href": "https://www.whosdatedwho.com/dating/marilyn-hanold",
+            "relationship_type": 2,
+            "start_date": "Jul 1958",
+            "end_date": "Apr 1959",
+            "length": "9 months",
+            "start_months_since_1900": 702,
+            "end_months_since_1900": 711,
+            "length_in_months": 9
+        },
+        {
+            "name": "Alice Humecki",
+            "href": "https://www.whosdatedwho.com/dating/alice-humecki",
+            "relationship_type": 4,
+            "start_date": "1942",
+            "end_date": "1991",
+            "length": "49 years",
+            "start_months_since_1900": 504,
+            "end_months_since_1900": 1092,
+            "length_in_months": 588
+        }
+    ],
+    "details": {
+        "First Name": "George",
+        "Middle Name": "NA",
+        "Last Name": "Gobel",
+        "Maiden Name": "NA",
+        "Full Name at Birth": "George Leslie Gobel",
+        "Alternative Name": "Lonesome George",
+        "Birthday": "1919",
+        "Birthplace": "USA",
+        "Height": "NA",
+        "Weight": "NA",
+        "Zodiac Sign": "3",
+        "Sexuality": "NA",
+        "Religion": "1",
+        "Ethnicity": "6",
+        "Nationality": "91",
+        "Occupation": "8"
+    }
+}

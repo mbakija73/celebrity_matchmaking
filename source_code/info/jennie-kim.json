@@ -1,0 +1,55 @@
+{
+    "relationships": [
+        {
+            "name": "V",
+            "href": "https://www.whosdatedwho.com/dating/v-singer",
+            "relationship_type": 2,
+            "start_date": "May 2022",
+            "end_date": "Dec 2023",
+            "length": "1 year",
+            "start_months_since_1900": 1468,
+            "end_months_since_1900": 1487,
+            "length_in_months": 12
+        },
+        {
+            "name": "Kwon Ji-yong",
+            "href": "https://www.whosdatedwho.com/dating/g-dragon",
+            "relationship_type": 2,
+            "start_date": "Feb 2021",
+            "end_date": "May 2022",
+            "length": "1 year",
+            "start_months_since_1900": 1453,
+            "end_months_since_1900": 1468,
+            "length_in_months": 12
+        },
+        {
+            "name": "KAI",
+            "href": "https://www.whosdatedwho.com/dating/kim-jongin",
+            "relationship_type": 2,
+            "start_date": "Oct 2018",
+            "end_date": "Jan 2019",
+            "length": "3 months",
+            "start_months_since_1900": 1425,
+            "end_months_since_1900": 1428,
+            "length_in_months": 3
+        }
+    ],
+    "details": {
+        "First Name": "Jennie",
+        "Middle Name": "NA",
+        "Last Name": "Kim",
+        "Maiden Name": "NA",
+        "Full Name at Birth": "Jennie Kim",
+        "Alternative Name": "Jennie, Jennie Kim, \uae40\uc81c\ub2c8, Kim Jennie, Jendeuk, Jendeugi, Jennie Ruby Jane",
+        "Birthday": "1996",
+        "Birthplace": "South Korea",
+        "Height": "163",
+        "Weight": "106lbs (48 kg)",
+        "Zodiac Sign": "13",
+        "Sexuality": "Straight",
+        "Religion": "1",
+        "Ethnicity": "3",
+        "Nationality": "122",
+        "Occupation": "1"
+    }
+}

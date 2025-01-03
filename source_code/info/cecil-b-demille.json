@@ -1,0 +1,77 @@
+{
+    "relationships": [
+        {
+            "name": "Gloria Swanson",
+            "href": "https://www.whosdatedwho.com/dating/gloria-swanson",
+            "relationship_type": 3,
+            "start_date": "1921",
+            "end_date": "1921",
+            "length": "-",
+            "start_months_since_1900": 252,
+            "end_months_since_1900": 252,
+            "length_in_months": -1
+        },
+        {
+            "name": "Constance Adams",
+            "href": "https://www.whosdatedwho.com/dating/constance-adams",
+            "relationship_type": 4,
+            "start_date": "1900",
+            "end_date": "21st Jan 1959",
+            "length": "59 years",
+            "start_months_since_1900": 0,
+            "end_months_since_1900": 708,
+            "length_in_months": 708
+        },
+        {
+            "name": "Mildred Shay",
+            "href": "https://www.whosdatedwho.com/dating/mildred-shay",
+            "relationship_type": 2,
+            "start_date": "",
+            "end_date": "",
+            "length": "-",
+            "start_months_since_1900": -1,
+            "end_months_since_1900": -1,
+            "length_in_months": -1
+        },
+        {
+            "name": "Julia Faye",
+            "href": "https://www.whosdatedwho.com/dating/julia-faye",
+            "relationship_type": 2,
+            "start_date": "",
+            "end_date": "",
+            "length": "-",
+            "start_months_since_1900": -1,
+            "end_months_since_1900": -1,
+            "length_in_months": -1
+        },
+        {
+            "name": "Jeanie Macpherson",
+            "href": "https://www.whosdatedwho.com/dating/jeanie-macpherson",
+            "relationship_type": 2,
+            "start_date": "",
+            "end_date": "",
+            "length": "-",
+            "start_months_since_1900": -1,
+            "end_months_since_1900": -1,
+            "length_in_months": -1
+        }
+    ],
+    "details": {
+        "First Name": "Cecil",
+        "Middle Name": "Blount",
+        "Last Name": "Demille",
+        "Maiden Name": "NA",
+        "Full Name at Birth": "Cecil Blount DeMille",
+        "Alternative Name": "Cecil Blount DeMille, Cecil DeMille, Cecil B. DeMille",
+        "Birthday": "1881",
+        "Birthplace": "USA",
+        "Height": "180",
+        "Weight": "NA",
+        "Zodiac Sign": "12",
+        "Sexuality": "Straight",
+        "Religion": "37",
+        "Ethnicity": "6",
+        "Nationality": "91",
+        "Occupation": "9"
+    }
+}

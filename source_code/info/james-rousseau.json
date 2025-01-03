@@ -1,0 +1,55 @@
+{
+    "relationships": [
+        {
+            "name": "Annabelle Wallis",
+            "href": "https://www.whosdatedwho.com/dating/annabelle-wallis",
+            "relationship_type": 2,
+            "start_date": "Oct 2010",
+            "end_date": "May 2014",
+            "length": "3 years",
+            "start_months_since_1900": 1329,
+            "end_months_since_1900": 1372,
+            "length_in_months": 36
+        },
+        {
+            "name": "Kate Bosworth",
+            "href": "https://www.whosdatedwho.com/dating/kate-bosworth",
+            "relationship_type": 2,
+            "start_date": "Sep 2006",
+            "end_date": "Mar 2009",
+            "length": "2 years",
+            "start_months_since_1900": 1280,
+            "end_months_since_1900": 1310,
+            "length_in_months": 24
+        },
+        {
+            "name": "Ana Beatriz Barros",
+            "href": "https://www.whosdatedwho.com/dating/ana-beatriz-barros",
+            "relationship_type": 2,
+            "start_date": "2003",
+            "end_date": "2003",
+            "length": "-",
+            "start_months_since_1900": 1236,
+            "end_months_since_1900": 1236,
+            "length_in_months": -1
+        }
+    ],
+    "details": {
+        "First Name": "James",
+        "Middle Name": "NA",
+        "Last Name": "Rousseau",
+        "Maiden Name": "NA",
+        "Full Name at Birth": "James Osborne",
+        "Alternative Name": "NA",
+        "Birthday": "1980",
+        "Birthplace": "United Kingdom",
+        "Height": "185",
+        "Weight": "NA",
+        "Zodiac Sign": "6",
+        "Sexuality": "Straight",
+        "Religion": "1",
+        "Ethnicity": "6",
+        "Nationality": "8",
+        "Occupation": "15"
+    }
+}

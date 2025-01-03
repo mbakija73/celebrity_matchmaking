@@ -1,0 +1,55 @@
+{
+    "relationships": [
+        {
+            "name": "Cayley Stoker",
+            "href": "https://www.whosdatedwho.com/dating/cayley-stoker",
+            "relationship_type": 4,
+            "start_date": "Mar 2019",
+            "end_date": "present",
+            "length": "5 years",
+            "start_months_since_1900": 1430,
+            "end_months_since_1900": -1,
+            "length_in_months": 60
+        },
+        {
+            "name": "Leah James",
+            "href": "https://www.whosdatedwho.com/dating/leah-jenner",
+            "relationship_type": 4,
+            "start_date": "Sep 2004",
+            "end_date": "Jul 2019",
+            "length": "14 years",
+            "start_months_since_1900": 1256,
+            "end_months_since_1900": 1434,
+            "length_in_months": 168
+        },
+        {
+            "name": "Kim Kardashian",
+            "href": "https://www.whosdatedwho.com/dating/kim-kardashian",
+            "relationship_type": 3,
+            "start_date": "1991",
+            "end_date": "1991",
+            "length": "-",
+            "start_months_since_1900": 1092,
+            "end_months_since_1900": 1092,
+            "length_in_months": -1
+        }
+    ],
+    "details": {
+        "First Name": "Brandon",
+        "Middle Name": "Thompson",
+        "Last Name": "Jenner",
+        "Maiden Name": "NA",
+        "Full Name at Birth": "Brandon Thompson Jenner",
+        "Alternative Name": "Brandon",
+        "Birthday": "1981",
+        "Birthplace": "USA",
+        "Height": "187",
+        "Weight": "NA",
+        "Zodiac Sign": "4",
+        "Sexuality": "Straight",
+        "Religion": "18",
+        "Ethnicity": "6",
+        "Nationality": "91",
+        "Occupation": "1"
+    }
+}

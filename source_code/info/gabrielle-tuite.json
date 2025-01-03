@@ -1,0 +1,55 @@
+{
+    "relationships": [
+        {
+            "name": "Alfonso Ribeiro",
+            "href": "https://www.whosdatedwho.com/dating/alfonso-ribeiro",
+            "relationship_type": 2,
+            "start_date": "Jan 1993",
+            "end_date": "Mar 1995",
+            "length": "2 years",
+            "start_months_since_1900": 1116,
+            "end_months_since_1900": 1142,
+            "length_in_months": 24
+        },
+        {
+            "name": "Abel Xavier",
+            "href": "https://www.whosdatedwho.com/dating/abel-xavier",
+            "relationship_type": 3,
+            "start_date": "",
+            "end_date": "",
+            "length": "-",
+            "start_months_since_1900": -1,
+            "end_months_since_1900": -1,
+            "length_in_months": -1
+        },
+        {
+            "name": "R.J. Williams",
+            "href": "https://www.whosdatedwho.com/dating/r-j-williams",
+            "relationship_type": 1,
+            "start_date": "",
+            "end_date": "",
+            "length": "-",
+            "start_months_since_1900": -1,
+            "end_months_since_1900": -1,
+            "length_in_months": -1
+        }
+    ],
+    "details": {
+        "First Name": "Gabrielle",
+        "Middle Name": "NA",
+        "Last Name": "NA",
+        "Maiden Name": "Tuite",
+        "Full Name at Birth": "Gabrielle Tuite",
+        "Alternative Name": "NA",
+        "Birthday": "1977",
+        "Birthplace": "USA",
+        "Height": "178",
+        "Weight": "115lbs (52 kg)",
+        "Zodiac Sign": "6",
+        "Sexuality": "Straight",
+        "Religion": "1",
+        "Ethnicity": "6",
+        "Nationality": "91",
+        "Occupation": "16"
+    }
+}

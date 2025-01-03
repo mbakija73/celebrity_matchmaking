@@ -1,0 +1,55 @@
+{
+    "relationships": [
+        {
+            "name": "Joan Peschel",
+            "href": "https://www.whosdatedwho.com/dating/joan-peschel",
+            "relationship_type": 4,
+            "start_date": "1994",
+            "end_date": "2008",
+            "length": "14 years",
+            "start_months_since_1900": 1128,
+            "end_months_since_1900": 1296,
+            "length_in_months": 168
+        },
+        {
+            "name": "Ghislaine Maxwell",
+            "href": "https://www.whosdatedwho.com/dating/ghislaine-maxwell",
+            "relationship_type": 2,
+            "start_date": "1992",
+            "end_date": "2011",
+            "length": "19 years",
+            "start_months_since_1900": 1104,
+            "end_months_since_1900": 1332,
+            "length_in_months": 228
+        },
+        {
+            "name": "Michele Merkin",
+            "href": "https://www.whosdatedwho.com/dating/michele-merkin",
+            "relationship_type": 4,
+            "start_date": "",
+            "end_date": "present",
+            "length": "-",
+            "start_months_since_1900": -1,
+            "end_months_since_1900": -1,
+            "length_in_months": -1
+        }
+    ],
+    "details": {
+        "First Name": "Ted",
+        "Middle Name": "NA",
+        "Last Name": "Waitt",
+        "Maiden Name": "NA",
+        "Full Name at Birth": "NA",
+        "Alternative Name": "NA",
+        "Birthday": "1963",
+        "Birthplace": "IA",
+        "Height": "NA",
+        "Weight": "NA",
+        "Zodiac Sign": "13",
+        "Sexuality": "NA",
+        "Religion": "1",
+        "Ethnicity": "1",
+        "Nationality": "91",
+        "Occupation": "18"
+    }
+}

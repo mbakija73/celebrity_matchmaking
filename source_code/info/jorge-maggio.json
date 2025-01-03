@@ -1,0 +1,55 @@
+{
+    "relationships": [
+        {
+            "name": "Paula Sartor",
+            "href": "https://www.whosdatedwho.com/dating/paula-sartor",
+            "relationship_type": 2,
+            "start_date": "2011",
+            "end_date": "",
+            "length": "-",
+            "start_months_since_1900": 1332,
+            "end_months_since_1900": -1,
+            "length_in_months": -1
+        },
+        {
+            "name": "Luz Cipriota",
+            "href": "https://www.whosdatedwho.com/dating/luz-cipriota",
+            "relationship_type": 2,
+            "start_date": "2006",
+            "end_date": "2008",
+            "length": "2 years",
+            "start_months_since_1900": 1272,
+            "end_months_since_1900": 1296,
+            "length_in_months": 24
+        },
+        {
+            "name": "Daniela Aita",
+            "href": "https://www.whosdatedwho.com/dating/daniela-aita",
+            "relationship_type": 1,
+            "start_date": "",
+            "end_date": "",
+            "length": "-",
+            "start_months_since_1900": -1,
+            "end_months_since_1900": -1,
+            "length_in_months": -1
+        }
+    ],
+    "details": {
+        "First Name": "Jorge",
+        "Middle Name": "Bernando Teodoro",
+        "Last Name": "Maggio",
+        "Maiden Name": "NA",
+        "Full Name at Birth": "Jorge Bernando Teodoro Maggio",
+        "Alternative Name": "Coco Maggio",
+        "Birthday": "1982",
+        "Birthplace": "Argentina",
+        "Height": "NA",
+        "Weight": "NA",
+        "Zodiac Sign": "5",
+        "Sexuality": "NA",
+        "Religion": "1",
+        "Ethnicity": "8",
+        "Nationality": "28",
+        "Occupation": "8"
+    }
+}

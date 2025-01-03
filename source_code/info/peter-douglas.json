@@ -1,0 +1,44 @@
+{
+    "relationships": [
+        {
+            "name": "Lisa Marie Schoeder",
+            "href": "https://www.whosdatedwho.com/dating/lisa-marie-schoeder",
+            "relationship_type": 4,
+            "start_date": "1990",
+            "end_date": "present",
+            "length": "34 years",
+            "start_months_since_1900": 1080,
+            "end_months_since_1900": -1,
+            "length_in_months": 408
+        },
+        {
+            "name": "Shelley Smith",
+            "href": "https://www.whosdatedwho.com/dating/shelley-smith",
+            "relationship_type": 3,
+            "start_date": "Jul 1986",
+            "end_date": "Jul 1986",
+            "length": "-",
+            "start_months_since_1900": 1038,
+            "end_months_since_1900": 1038,
+            "length_in_months": -1
+        }
+    ],
+    "details": {
+        "First Name": "Peter",
+        "Middle Name": "Vincent",
+        "Last Name": "Douglas",
+        "Maiden Name": "NA",
+        "Full Name at Birth": "Peter Vincent Douglas",
+        "Alternative Name": "NA",
+        "Birthday": "1955",
+        "Birthplace": "United States",
+        "Height": "NA",
+        "Weight": "NA",
+        "Zodiac Sign": "6",
+        "Sexuality": "Straight",
+        "Religion": "1",
+        "Ethnicity": "6",
+        "Nationality": "91",
+        "Occupation": "9"
+    }
+}

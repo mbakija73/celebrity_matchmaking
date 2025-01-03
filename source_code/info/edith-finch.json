@@ -1,0 +1,44 @@
+{
+    "relationships": [
+        {
+            "name": "Bertrand Russell",
+            "href": "https://www.whosdatedwho.com/dating/bertrand-russell",
+            "relationship_type": 4,
+            "start_date": "1951",
+            "end_date": "2nd Feb 1970",
+            "length": "19 years",
+            "start_months_since_1900": 612,
+            "end_months_since_1900": 841,
+            "length_in_months": 228
+        },
+        {
+            "name": "Lucy Donnelly",
+            "href": "https://www.whosdatedwho.com/dating/lucy-donnelly",
+            "relationship_type": 2,
+            "start_date": "",
+            "end_date": "",
+            "length": "-",
+            "start_months_since_1900": -1,
+            "end_months_since_1900": -1,
+            "length_in_months": -1
+        }
+    ],
+    "details": {
+        "First Name": "Edith",
+        "Middle Name": "NA",
+        "Last Name": "Finch",
+        "Maiden Name": "NA",
+        "Full Name at Birth": "NA",
+        "Alternative Name": "Edith Finch Russell",
+        "Birthday": "1900",
+        "Birthplace": "England",
+        "Height": "NA",
+        "Weight": "NA",
+        "Zodiac Sign": "5",
+        "Sexuality": "Bisexual",
+        "Religion": "1",
+        "Ethnicity": "6",
+        "Nationality": "91",
+        "Occupation": "3"
+    }
+}

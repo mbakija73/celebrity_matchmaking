@@ -1,0 +1,44 @@
+{
+    "relationships": [
+        {
+            "name": "Rob Camilletti",
+            "href": "https://www.whosdatedwho.com/dating/rob-camilletti",
+            "relationship_type": 2,
+            "start_date": "2003",
+            "end_date": "2003",
+            "length": "-",
+            "start_months_since_1900": 1236,
+            "end_months_since_1900": 1236,
+            "length_in_months": -1
+        },
+        {
+            "name": "Rod Stewart",
+            "href": "https://www.whosdatedwho.com/dating/rod-stewart",
+            "relationship_type": 2,
+            "start_date": "Dec 1983",
+            "end_date": "Jun 1990",
+            "length": "6 years",
+            "start_months_since_1900": 1007,
+            "end_months_since_1900": 1085,
+            "length_in_months": 72
+        }
+    ],
+    "details": {
+        "First Name": "Kelly",
+        "Middle Name": "NA",
+        "Last Name": "Emberg",
+        "Maiden Name": "NA",
+        "Full Name at Birth": "Kelly Emberg",
+        "Alternative Name": "NA",
+        "Birthday": "1959",
+        "Birthplace": "USA",
+        "Height": "173",
+        "Weight": "NA",
+        "Zodiac Sign": "8",
+        "Sexuality": "Straight",
+        "Religion": "1",
+        "Ethnicity": "6",
+        "Nationality": "91",
+        "Occupation": "15"
+    }
+}

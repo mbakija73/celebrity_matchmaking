@@ -1,0 +1,77 @@
+{
+    "relationships": [
+        {
+            "name": "John Gilbert",
+            "href": "https://www.whosdatedwho.com/dating/john-gilbert",
+            "relationship_type": 2,
+            "start_date": "1928",
+            "end_date": "1928",
+            "length": "-",
+            "start_months_since_1900": 336,
+            "end_months_since_1900": 336,
+            "length_in_months": -1
+        },
+        {
+            "name": "William Sherman Gill",
+            "href": "https://www.whosdatedwho.com/dating/william-sherman-gill",
+            "relationship_type": 4,
+            "start_date": "1927",
+            "end_date": "Feb 1929",
+            "length": "2 years",
+            "start_months_since_1900": 324,
+            "end_months_since_1900": 349,
+            "length_in_months": 24
+        },
+        {
+            "name": "Tom Moore",
+            "href": "https://www.whosdatedwho.com/dating/tom-moore",
+            "relationship_type": 4,
+            "start_date": "Feb 1921",
+            "end_date": "1924",
+            "length": "2 years",
+            "start_months_since_1900": 253,
+            "end_months_since_1900": 288,
+            "length_in_months": 24
+        },
+        {
+            "name": "Ben Lyon",
+            "href": "https://www.whosdatedwho.com/dating/ben-lyon",
+            "relationship_type": 3,
+            "start_date": "",
+            "end_date": "",
+            "length": "-",
+            "start_months_since_1900": -1,
+            "end_months_since_1900": -1,
+            "length_in_months": -1
+        },
+        {
+            "name": "Douglas Fairbanks",
+            "href": "https://www.whosdatedwho.com/dating/douglas-fairbanks",
+            "relationship_type": 3,
+            "start_date": "",
+            "end_date": "",
+            "length": "-",
+            "start_months_since_1900": -1,
+            "end_months_since_1900": -1,
+            "length_in_months": -1
+        }
+    ],
+    "details": {
+        "First Name": "Jeanne",
+        "Middle Name": "NA",
+        "Last Name": "De La Fonte",
+        "Maiden Name": "NA",
+        "Full Name at Birth": "Jeanne de La Fonte",
+        "Alternative Name": "Ren\u00e9e Ador\u00e9e, Jeanne de la Fonte",
+        "Birthday": "1898",
+        "Birthplace": "France",
+        "Height": "155",
+        "Weight": "NA",
+        "Zodiac Sign": "10",
+        "Sexuality": "Straight",
+        "Religion": "1",
+        "Ethnicity": "6",
+        "Nationality": "86",
+        "Occupation": "8"
+    }
+}

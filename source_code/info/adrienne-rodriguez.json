@@ -1,0 +1,33 @@
+{
+    "relationships": [
+        {
+            "name": "James Brown",
+            "href": "https://www.whosdatedwho.com/dating/james-brown",
+            "relationship_type": 4,
+            "start_date": "1984",
+            "end_date": "1984",
+            "length": "-",
+            "start_months_since_1900": 1008,
+            "end_months_since_1900": 1008,
+            "length_in_months": -1
+        }
+    ],
+    "details": {
+        "First Name": "Adrienne",
+        "Middle Name": "Lois",
+        "Last Name": "Rodriguez",
+        "Maiden Name": "NA",
+        "Full Name at Birth": "Adrienne Lois Rodriguez",
+        "Alternative Name": "NA",
+        "Birthday": "1950",
+        "Birthplace": "NA",
+        "Height": "NA",
+        "Weight": "NA",
+        "Zodiac Sign": "1",
+        "Sexuality": "NA",
+        "Religion": "1",
+        "Ethnicity": "8",
+        "Nationality": "65",
+        "Occupation": "19"
+    }
+}

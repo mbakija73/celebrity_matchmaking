@@ -1,0 +1,77 @@
+{
+    "relationships": [
+        {
+            "name": "Robert Evans",
+            "href": "https://www.whosdatedwho.com/dating/robert-evans",
+            "relationship_type": 4,
+            "start_date": "2001",
+            "end_date": "2004",
+            "length": "3 years",
+            "start_months_since_1900": 1212,
+            "end_months_since_1900": 1248,
+            "length_in_months": 36
+        },
+        {
+            "name": "Tony Guccione",
+            "href": "https://www.whosdatedwho.com/dating/tony-guccione",
+            "relationship_type": 2,
+            "start_date": "",
+            "end_date": "",
+            "length": "-",
+            "start_months_since_1900": -1,
+            "end_months_since_1900": -1,
+            "length_in_months": -1
+        },
+        {
+            "name": "Dolph Lundgren",
+            "href": "https://www.whosdatedwho.com/dating/dolph-lundgren",
+            "relationship_type": 3,
+            "start_date": "",
+            "end_date": "",
+            "length": "-",
+            "start_months_since_1900": -1,
+            "end_months_since_1900": -1,
+            "length_in_months": -1
+        },
+        {
+            "name": "Tony Peck",
+            "href": "https://www.whosdatedwho.com/dating/tony-peck",
+            "relationship_type": 2,
+            "start_date": "",
+            "end_date": "",
+            "length": "-",
+            "start_months_since_1900": -1,
+            "end_months_since_1900": -1,
+            "length_in_months": -1
+        },
+        {
+            "name": "David Charvet",
+            "href": "https://www.whosdatedwho.com/dating/david-charvet",
+            "relationship_type": 2,
+            "start_date": "",
+            "end_date": "",
+            "length": "-",
+            "start_months_since_1900": -1,
+            "end_months_since_1900": -1,
+            "length_in_months": -1
+        }
+    ],
+    "details": {
+        "First Name": "Leslie",
+        "Middle Name": "Ann",
+        "Last Name": "NA",
+        "Maiden Name": "Woodward",
+        "Full Name at Birth": "Leslie Ann Woodward",
+        "Alternative Name": "NA",
+        "Birthday": "1967",
+        "Birthplace": "NA",
+        "Height": "170",
+        "Weight": "NA",
+        "Zodiac Sign": "3",
+        "Sexuality": "NA",
+        "Religion": "1",
+        "Ethnicity": "6",
+        "Nationality": "65",
+        "Occupation": "15"
+    }
+}

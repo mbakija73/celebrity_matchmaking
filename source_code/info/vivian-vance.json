@@ -1,0 +1,66 @@
+{
+    "relationships": [
+        {
+            "name": "John Dodds",
+            "href": "https://www.whosdatedwho.com/dating/john-dodds",
+            "relationship_type": 4,
+            "start_date": "Jan 1960",
+            "end_date": "Aug 1979",
+            "length": "19 years",
+            "start_months_since_1900": 720,
+            "end_months_since_1900": 955,
+            "length_in_months": 228
+        },
+        {
+            "name": "Philip Ober",
+            "href": "https://www.whosdatedwho.com/dating/philip-ober",
+            "relationship_type": 4,
+            "start_date": "Aug 1940",
+            "end_date": "Apr 1959",
+            "length": "18 years",
+            "start_months_since_1900": 487,
+            "end_months_since_1900": 711,
+            "length_in_months": 216
+        },
+        {
+            "name": "George Koch",
+            "href": "https://www.whosdatedwho.com/dating/george-koch",
+            "relationship_type": 4,
+            "start_date": "Jan 1932",
+            "end_date": "Jul 1940",
+            "length": "8 years",
+            "start_months_since_1900": 384,
+            "end_months_since_1900": 486,
+            "length_in_months": 96
+        },
+        {
+            "name": "Joseph Shearer Danneck, Jr.",
+            "href": "https://www.whosdatedwho.com/dating/joseph-shearer-danneck-jr",
+            "relationship_type": 4,
+            "start_date": "Oct 1927",
+            "end_date": "Apr 1931",
+            "length": "3 years",
+            "start_months_since_1900": 333,
+            "end_months_since_1900": 375,
+            "length_in_months": 36
+        }
+    ],
+    "details": {
+        "First Name": "Vivian",
+        "Middle Name": "Roberta",
+        "Last Name": "Vance",
+        "Maiden Name": "Jones",
+        "Full Name at Birth": "Vivian Roberta Jones",
+        "Alternative Name": "Vivian Vance",
+        "Birthday": "1909",
+        "Birthplace": "Kansas",
+        "Height": "168",
+        "Weight": "NA",
+        "Zodiac Sign": "12",
+        "Sexuality": "Straight",
+        "Religion": "1",
+        "Ethnicity": "6",
+        "Nationality": "91",
+        "Occupation": "8"
+    }
+}

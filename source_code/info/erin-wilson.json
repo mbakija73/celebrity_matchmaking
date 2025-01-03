@@ -1,0 +1,33 @@
+{
+    "relationships": [
+        {
+            "name": "Chuck Liddell",
+            "href": "https://www.whosdatedwho.com/dating/chuck-liddell",
+            "relationship_type": 2,
+            "start_date": "2007",
+            "end_date": "2009",
+            "length": "2 years",
+            "start_months_since_1900": 1284,
+            "end_months_since_1900": 1308,
+            "length_in_months": 24
+        }
+    ],
+    "details": {
+        "First Name": "Erin",
+        "Middle Name": "NA",
+        "Last Name": "Wilson",
+        "Maiden Name": "NA",
+        "Full Name at Birth": "NA",
+        "Alternative Name": "NA",
+        "Birthday": "NA",
+        "Birthplace": "NA",
+        "Height": "NA",
+        "Weight": "NA",
+        "Zodiac Sign": "2",
+        "Sexuality": "NA",
+        "Religion": "1",
+        "Ethnicity": "6",
+        "Nationality": "65",
+        "Occupation": "19"
+    }
+}

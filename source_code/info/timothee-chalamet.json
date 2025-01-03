@@ -1,0 +1,99 @@
+{
+    "relationships": [
+        {
+            "name": "Kylie Jenner",
+            "href": "https://www.whosdatedwho.com/dating/kylie-jenner",
+            "relationship_type": 2,
+            "start_date": "Apr 2023",
+            "end_date": "present",
+            "length": "1 year",
+            "start_months_since_1900": 1479,
+            "end_months_since_1900": -1,
+            "length_in_months": 12
+        },
+        {
+            "name": "Taylor Russell",
+            "href": "https://www.whosdatedwho.com/dating/taylor-russell",
+            "relationship_type": 1,
+            "start_date": "2022",
+            "end_date": "2022",
+            "length": "-",
+            "start_months_since_1900": 1464,
+            "end_months_since_1900": 1464,
+            "length_in_months": -1
+        },
+        {
+            "name": "Lyna Khoudri",
+            "href": "https://www.whosdatedwho.com/dating/lyna-khoudri",
+            "relationship_type": 1,
+            "start_date": "Nov 2021",
+            "end_date": "Nov 2021",
+            "length": "-",
+            "start_months_since_1900": 1462,
+            "end_months_since_1900": 1462,
+            "length_in_months": -1
+        },
+        {
+            "name": "Eiza Gonz\u00e1lez",
+            "href": "https://www.whosdatedwho.com/dating/eiza-gonzalez",
+            "relationship_type": 2,
+            "start_date": "Jun 2020",
+            "end_date": "Oct 2020",
+            "length": "4 months",
+            "start_months_since_1900": 1445,
+            "end_months_since_1900": 1449,
+            "length_in_months": 4
+        },
+        {
+            "name": "Lily-Rose Depp",
+            "href": "https://www.whosdatedwho.com/dating/lily-rose-melody-depp",
+            "relationship_type": 2,
+            "start_date": "2018",
+            "end_date": "Apr 2020",
+            "length": "2 years",
+            "start_months_since_1900": 1416,
+            "end_months_since_1900": 1443,
+            "length_in_months": 24
+        },
+        {
+            "name": "Marta Pozzan",
+            "href": "https://www.whosdatedwho.com/dating/marta-pozzan",
+            "relationship_type": 1,
+            "start_date": "2018",
+            "end_date": "2018",
+            "length": "-",
+            "start_months_since_1900": 1416,
+            "end_months_since_1900": 1416,
+            "length_in_months": -1
+        },
+        {
+            "name": "Lourdes Leon",
+            "href": "https://www.whosdatedwho.com/dating/lourdes-leon",
+            "relationship_type": 2,
+            "start_date": "Mar 2013",
+            "end_date": "Mar 2014",
+            "length": "1 year",
+            "start_months_since_1900": 1358,
+            "end_months_since_1900": 1370,
+            "length_in_months": 12
+        }
+    ],
+    "details": {
+        "First Name": "Timothee",
+        "Middle Name": "Hal",
+        "Last Name": "Chalamet",
+        "Maiden Name": "NA",
+        "Full Name at Birth": "Timoth\u00e9e Hal Chalamet",
+        "Alternative Name": "Timothy Chalamet, Timothee Chalamet, Timoth\u00e9e Hal Chalamet",
+        "Birthday": "1995",
+        "Birthplace": "USA",
+        "Height": "182",
+        "Weight": "NA",
+        "Zodiac Sign": "13",
+        "Sexuality": "Straight",
+        "Religion": "31",
+        "Ethnicity": "6",
+        "Nationality": "91",
+        "Occupation": "8"
+    }
+}

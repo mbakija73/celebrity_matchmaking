@@ -1,0 +1,66 @@
+{
+    "relationships": [
+        {
+            "name": "Lucie Laurier",
+            "href": "https://www.whosdatedwho.com/dating/lucie-laurier",
+            "relationship_type": 2,
+            "start_date": "2017",
+            "end_date": "2018",
+            "length": "1 year",
+            "start_months_since_1900": 1404,
+            "end_months_since_1900": 1416,
+            "length_in_months": 12
+        },
+        {
+            "name": "Marie-Christine Couture",
+            "href": "https://www.whosdatedwho.com/dating/marie-christine-couture",
+            "relationship_type": 2,
+            "start_date": "2016",
+            "end_date": "2016",
+            "length": "-",
+            "start_months_since_1900": 1392,
+            "end_months_since_1900": 1392,
+            "length_in_months": -1
+        },
+        {
+            "name": "Julie Snyder",
+            "href": "https://www.whosdatedwho.com/dating/julie-snyder",
+            "relationship_type": 4,
+            "start_date": "1999",
+            "end_date": "2016",
+            "length": "17 years",
+            "start_months_since_1900": 1188,
+            "end_months_since_1900": 1392,
+            "length_in_months": 204
+        },
+        {
+            "name": "Pascale Bourbeau",
+            "href": "https://www.whosdatedwho.com/dating/pascale-bourbeau",
+            "relationship_type": 2,
+            "start_date": "",
+            "end_date": "present",
+            "length": "-",
+            "start_months_since_1900": -1,
+            "end_months_since_1900": -1,
+            "length_in_months": -1
+        }
+    ],
+    "details": {
+        "First Name": "Pierre",
+        "Middle Name": "Karl",
+        "Last Name": "P\u00e9ladeau",
+        "Maiden Name": "NA",
+        "Full Name at Birth": "NA",
+        "Alternative Name": "PKP",
+        "Birthday": "1961",
+        "Birthplace": "QC",
+        "Height": "NA",
+        "Weight": "NA",
+        "Zodiac Sign": "10",
+        "Sexuality": "Straight",
+        "Religion": "1",
+        "Ethnicity": "6",
+        "Nationality": "90",
+        "Occupation": "7"
+    }
+}

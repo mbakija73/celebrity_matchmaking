@@ -1,0 +1,44 @@
+{
+    "relationships": [
+        {
+            "name": "Bella Darvi",
+            "href": "https://www.whosdatedwho.com/dating/bella-darvi",
+            "relationship_type": 2,
+            "start_date": "May 1957",
+            "end_date": "Jun 1957",
+            "length": "1 month",
+            "start_months_since_1900": 688,
+            "end_months_since_1900": 689,
+            "length_in_months": 1
+        },
+        {
+            "name": "Lana Turner",
+            "href": "https://www.whosdatedwho.com/dating/lana-turner",
+            "relationship_type": 2,
+            "start_date": "",
+            "end_date": "",
+            "length": "-",
+            "start_months_since_1900": -1,
+            "end_months_since_1900": -1,
+            "length_in_months": -1
+        }
+    ],
+    "details": {
+        "First Name": "Marc",
+        "Middle Name": "NA",
+        "Last Name": "Michel",
+        "Maiden Name": "NA",
+        "Full Name at Birth": "Michaux Max Ernest Marie",
+        "Alternative Name": "Marc Michel, Michaux Max Ernest Marie",
+        "Birthday": "1932",
+        "Birthplace": "Switzerland",
+        "Height": "NA",
+        "Weight": "NA",
+        "Zodiac Sign": "6",
+        "Sexuality": "NA",
+        "Religion": "1",
+        "Ethnicity": "6",
+        "Nationality": "86",
+        "Occupation": "8"
+    }
+}

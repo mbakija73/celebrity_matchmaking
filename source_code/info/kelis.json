@@ -1,0 +1,99 @@
+{
+    "relationships": [
+        {
+            "name": "Bill Murray",
+            "href": "https://www.whosdatedwho.com/dating/bill-murray",
+            "relationship_type": 2,
+            "start_date": "Jun 2023",
+            "end_date": "Aug 2023",
+            "length": "2 months",
+            "start_months_since_1900": 1481,
+            "end_months_since_1900": 1483,
+            "length_in_months": 2
+        },
+        {
+            "name": "Michael Mora",
+            "href": "https://www.whosdatedwho.com/dating/michael-mora",
+            "relationship_type": 4,
+            "start_date": "2013",
+            "end_date": "2020",
+            "length": "7 years",
+            "start_months_since_1900": 1356,
+            "end_months_since_1900": 1440,
+            "length_in_months": 84
+        },
+        {
+            "name": "Adawale Ogunleye",
+            "href": "https://www.whosdatedwho.com/dating/adewale-ogunleye",
+            "relationship_type": 2,
+            "start_date": "Aug 2009",
+            "end_date": "Jan 2011",
+            "length": "1 year",
+            "start_months_since_1900": 1315,
+            "end_months_since_1900": 1332,
+            "length_in_months": 12
+        },
+        {
+            "name": "Nas",
+            "href": "https://www.whosdatedwho.com/dating/nas",
+            "relationship_type": 4,
+            "start_date": "Sep 2002",
+            "end_date": "May 2010",
+            "length": "7 years",
+            "start_months_since_1900": 1232,
+            "end_months_since_1900": 1324,
+            "length_in_months": 84
+        },
+        {
+            "name": "Pharrell Williams",
+            "href": "https://www.whosdatedwho.com/dating/pharrell-williams",
+            "relationship_type": 2,
+            "start_date": "Apr 2001",
+            "end_date": "Sep 2001",
+            "length": "5 months",
+            "start_months_since_1900": 1215,
+            "end_months_since_1900": 1220,
+            "length_in_months": 5
+        },
+        {
+            "name": "Jamie Theakston",
+            "href": "https://www.whosdatedwho.com/dating/jamie-theakston",
+            "relationship_type": 2,
+            "start_date": "Jan 2000",
+            "end_date": "Mar 2001",
+            "length": "1 year",
+            "start_months_since_1900": 1200,
+            "end_months_since_1900": 1214,
+            "length_in_months": 12
+        },
+        {
+            "name": "Jadakiss",
+            "href": "https://www.whosdatedwho.com/dating/jadakiss",
+            "relationship_type": 1,
+            "start_date": "",
+            "end_date": "",
+            "length": "-",
+            "start_months_since_1900": -1,
+            "end_months_since_1900": -1,
+            "length_in_months": -1
+        }
+    ],
+    "details": {
+        "First Name": "Kelis",
+        "Middle Name": "NA",
+        "Last Name": "NA",
+        "Maiden Name": "Rogers",
+        "Full Name at Birth": "Kelis Rogers",
+        "Alternative Name": "Kelis Jones, Kel",
+        "Birthday": "1979",
+        "Birthplace": "USA",
+        "Height": "175",
+        "Weight": "139lbs (63 kg)",
+        "Zodiac Sign": "12",
+        "Sexuality": "Straight",
+        "Religion": "1",
+        "Ethnicity": "8",
+        "Nationality": "91",
+        "Occupation": "1"
+    }
+}

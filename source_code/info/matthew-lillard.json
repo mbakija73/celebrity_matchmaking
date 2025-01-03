@@ -1,0 +1,77 @@
+{
+    "relationships": [
+        {
+            "name": "Heather Helm",
+            "href": "https://www.whosdatedwho.com/dating/heather-helm",
+            "relationship_type": 4,
+            "start_date": "12th Aug 2000",
+            "end_date": "present",
+            "length": "24 years",
+            "start_months_since_1900": 1207,
+            "end_months_since_1900": -1,
+            "length_in_months": 288
+        },
+        {
+            "name": "Neve Campbell",
+            "href": "https://www.whosdatedwho.com/dating/neve-campbell",
+            "relationship_type": 2,
+            "start_date": "Jun 1997",
+            "end_date": "Aug 1997",
+            "length": "2 months",
+            "start_months_since_1900": 1169,
+            "end_months_since_1900": 1171,
+            "length_in_months": 2
+        },
+        {
+            "name": "Rose McGowan",
+            "href": "https://www.whosdatedwho.com/dating/rose-mcgowan",
+            "relationship_type": 3,
+            "start_date": "Apr 1996",
+            "end_date": "Jun 1996",
+            "length": "2 months",
+            "start_months_since_1900": 1155,
+            "end_months_since_1900": 1157,
+            "length_in_months": 2
+        },
+        {
+            "name": "Christine Taylor",
+            "href": "https://www.whosdatedwho.com/dating/christine-taylor",
+            "relationship_type": 2,
+            "start_date": "1995",
+            "end_date": "1995",
+            "length": "-",
+            "start_months_since_1900": 1140,
+            "end_months_since_1900": 1140,
+            "length_in_months": -1
+        },
+        {
+            "name": "Christa Denton",
+            "href": "https://www.whosdatedwho.com/dating/christa-denton",
+            "relationship_type": 2,
+            "start_date": "17th May 1993",
+            "end_date": "1st May 1995",
+            "length": "1 year",
+            "start_months_since_1900": 1120,
+            "end_months_since_1900": 1144,
+            "length_in_months": 12
+        }
+    ],
+    "details": {
+        "First Name": "Matthew",
+        "Middle Name": "Lyn",
+        "Last Name": "Lillard",
+        "Maiden Name": "NA",
+        "Full Name at Birth": "Matthew Lyn Lillard",
+        "Alternative Name": "Matt",
+        "Birthday": "1970",
+        "Birthplace": "USA",
+        "Height": "193",
+        "Weight": "NA",
+        "Zodiac Sign": "9",
+        "Sexuality": "Straight",
+        "Religion": "18",
+        "Ethnicity": "6",
+        "Nationality": "91",
+        "Occupation": "8"
+    }
+}

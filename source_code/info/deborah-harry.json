@@ -1,0 +1,99 @@
+{
+    "relationships": [
+        {
+            "name": "Penn Jillette",
+            "href": "https://www.whosdatedwho.com/dating/penn-jillette",
+            "relationship_type": 2,
+            "start_date": "Feb 1995",
+            "end_date": "Jul 1996",
+            "length": "1 year",
+            "start_months_since_1900": 1141,
+            "end_months_since_1900": 1158,
+            "length_in_months": 12
+        },
+        {
+            "name": "Harry Dean Stanton",
+            "href": "https://www.whosdatedwho.com/dating/harry-dean-stanton",
+            "relationship_type": 3,
+            "start_date": "1989",
+            "end_date": "1989",
+            "length": "-",
+            "start_months_since_1900": 1068,
+            "end_months_since_1900": 1068,
+            "length_in_months": -1
+        },
+        {
+            "name": "Roger Taylor",
+            "href": "https://www.whosdatedwho.com/dating/roger-taylor",
+            "relationship_type": 3,
+            "start_date": "Feb 1977",
+            "end_date": "Feb 1977",
+            "length": "-",
+            "start_months_since_1900": 925,
+            "end_months_since_1900": 925,
+            "length_in_months": -1
+        },
+        {
+            "name": "Joey Ramone",
+            "href": "https://www.whosdatedwho.com/dating/joey-ramone",
+            "relationship_type": 2,
+            "start_date": "1977",
+            "end_date": "1979",
+            "length": "2 years",
+            "start_months_since_1900": 924,
+            "end_months_since_1900": 948,
+            "length_in_months": 24
+        },
+        {
+            "name": "Chris Stein",
+            "href": "https://www.whosdatedwho.com/dating/chris-stein",
+            "relationship_type": 2,
+            "start_date": "Jan 1976",
+            "end_date": "Aug 1987",
+            "length": "11 years",
+            "start_months_since_1900": 912,
+            "end_months_since_1900": 1051,
+            "length_in_months": 132
+        },
+        {
+            "name": "Cal Chamberlain",
+            "href": "https://www.whosdatedwho.com/dating/cal-chamberlain",
+            "relationship_type": 2,
+            "start_date": "",
+            "end_date": "",
+            "length": "-",
+            "start_months_since_1900": -1,
+            "end_months_since_1900": -1,
+            "length_in_months": -1
+        },
+        {
+            "name": "Iggy Pop",
+            "href": "https://www.whosdatedwho.com/dating/iggy-pop",
+            "relationship_type": 2,
+            "start_date": "",
+            "end_date": "",
+            "length": "-",
+            "start_months_since_1900": -1,
+            "end_months_since_1900": -1,
+            "length_in_months": -1
+        }
+    ],
+    "details": {
+        "First Name": "Deborah",
+        "Middle Name": "Ann",
+        "Last Name": "Harry",
+        "Maiden Name": "NA",
+        "Full Name at Birth": "Angela Tremble",
+        "Alternative Name": "Debbie Harry, Deborah Ann Harry, Blondie, Deborah Harry, Moon, Angela Trimble",
+        "Birthday": "1945",
+        "Birthplace": "USA",
+        "Height": "160",
+        "Weight": "126lbs (57 kg)",
+        "Zodiac Sign": "8",
+        "Sexuality": "Bisexual",
+        "Religion": "1",
+        "Ethnicity": "6",
+        "Nationality": "91",
+        "Occupation": "1"
+    }
+}

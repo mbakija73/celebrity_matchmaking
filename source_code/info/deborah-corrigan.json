@@ -1,0 +1,55 @@
+{
+    "relationships": [
+        {
+            "name": "Simon Cowell",
+            "href": "https://www.whosdatedwho.com/dating/simon-cowell",
+            "relationship_type": 3,
+            "start_date": "Jun 2001",
+            "end_date": "Jul 2001",
+            "length": "1 month",
+            "start_months_since_1900": 1217,
+            "end_months_since_1900": 1218,
+            "length_in_months": 1
+        },
+        {
+            "name": "Chris Sheasby",
+            "href": "https://www.whosdatedwho.com/dating/chris-sheasby",
+            "relationship_type": 2,
+            "start_date": "1999",
+            "end_date": "1999",
+            "length": "-",
+            "start_months_since_1900": 1188,
+            "end_months_since_1900": 1188,
+            "length_in_months": -1
+        },
+        {
+            "name": "Jim Davidson",
+            "href": "https://www.whosdatedwho.com/dating/jim-davidson-comic",
+            "relationship_type": 2,
+            "start_date": "1996",
+            "end_date": "1999",
+            "length": "3 years",
+            "start_months_since_1900": 1152,
+            "end_months_since_1900": 1188,
+            "length_in_months": 36
+        }
+    ],
+    "details": {
+        "First Name": "Deborah",
+        "Middle Name": "NA",
+        "Last Name": "Corrigan",
+        "Maiden Name": "NA",
+        "Full Name at Birth": "NA",
+        "Alternative Name": "NA",
+        "Birthday": "1970",
+        "Birthplace": "England",
+        "Height": "173",
+        "Weight": "NA",
+        "Zodiac Sign": "8",
+        "Sexuality": "Straight",
+        "Religion": "1",
+        "Ethnicity": "6",
+        "Nationality": "8",
+        "Occupation": "16"
+    }
+}

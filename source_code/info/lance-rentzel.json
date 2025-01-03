@@ -1,0 +1,55 @@
+{
+    "relationships": [
+        {
+            "name": "Victoria Principal",
+            "href": "https://www.whosdatedwho.com/dating/victoria-principal",
+            "relationship_type": 2,
+            "start_date": "Mar 1973",
+            "end_date": "May 1973",
+            "length": "2 months",
+            "start_months_since_1900": 878,
+            "end_months_since_1900": 880,
+            "length_in_months": 2
+        },
+        {
+            "name": "June Wilkinson",
+            "href": "https://www.whosdatedwho.com/dating/june-wilkinson",
+            "relationship_type": 2,
+            "start_date": "Apr 1972",
+            "end_date": "Apr 1972",
+            "length": "-",
+            "start_months_since_1900": 867,
+            "end_months_since_1900": 867,
+            "length_in_months": -1
+        },
+        {
+            "name": "Joey Heatherton",
+            "href": "https://www.whosdatedwho.com/dating/joey-heatherton",
+            "relationship_type": 4,
+            "start_date": "1969",
+            "end_date": "May 1972",
+            "length": "3 years",
+            "start_months_since_1900": 828,
+            "end_months_since_1900": 868,
+            "length_in_months": 36
+        }
+    ],
+    "details": {
+        "First Name": "Lance",
+        "Middle Name": "Lance",
+        "Last Name": "Rentzel",
+        "Maiden Name": "NA",
+        "Full Name at Birth": "Thomas Lance Rentzel",
+        "Alternative Name": "NA",
+        "Birthday": "1943",
+        "Birthplace": "New York",
+        "Height": "188",
+        "Weight": "202lbs (92 kg)",
+        "Zodiac Sign": "10",
+        "Sexuality": "Straight",
+        "Religion": "1",
+        "Ethnicity": "6",
+        "Nationality": "91",
+        "Occupation": "2"
+    }
+}

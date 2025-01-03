@@ -1,0 +1,55 @@
+{
+    "relationships": [
+        {
+            "name": "Howard Kruger",
+            "href": "https://www.whosdatedwho.com/dating/howard-kruger",
+            "relationship_type": 2,
+            "start_date": "2004",
+            "end_date": "",
+            "length": "-",
+            "start_months_since_1900": 1248,
+            "end_months_since_1900": -1,
+            "length_in_months": -1
+        },
+        {
+            "name": "Mick Hucknall",
+            "href": "https://www.whosdatedwho.com/dating/mick-hucknall",
+            "relationship_type": 3,
+            "start_date": "2004",
+            "end_date": "2004",
+            "length": "-",
+            "start_months_since_1900": 1248,
+            "end_months_since_1900": 1248,
+            "length_in_months": -1
+        },
+        {
+            "name": "George Best",
+            "href": "https://www.whosdatedwho.com/dating/george-best",
+            "relationship_type": 4,
+            "start_date": "1995",
+            "end_date": "2004",
+            "length": "9 years",
+            "start_months_since_1900": 1140,
+            "end_months_since_1900": 1248,
+            "length_in_months": 108
+        }
+    ],
+    "details": {
+        "First Name": "Alex",
+        "Middle Name": "NA",
+        "Last Name": "Best",
+        "Maiden Name": "Pursey",
+        "Full Name at Birth": "Alexandra Macadam Pursey",
+        "Alternative Name": "NA",
+        "Birthday": "1972",
+        "Birthplace": "NA",
+        "Height": "170",
+        "Weight": "NA",
+        "Zodiac Sign": "9",
+        "Sexuality": "Straight",
+        "Religion": "13",
+        "Ethnicity": "6",
+        "Nationality": "8",
+        "Occupation": "11"
+    }
+}

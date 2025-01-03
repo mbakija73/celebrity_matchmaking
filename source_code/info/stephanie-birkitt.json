@@ -1,0 +1,44 @@
+{
+    "relationships": [
+        {
+            "name": "David Letterman",
+            "href": "https://www.whosdatedwho.com/dating/david-letterman",
+            "relationship_type": 2,
+            "start_date": "2001",
+            "end_date": "2003",
+            "length": "2 years",
+            "start_months_since_1900": 1212,
+            "end_months_since_1900": 1236,
+            "length_in_months": 24
+        },
+        {
+            "name": "Joe Halderman",
+            "href": "https://www.whosdatedwho.com/dating/joe-halderman",
+            "relationship_type": 2,
+            "start_date": "",
+            "end_date": "",
+            "length": "-",
+            "start_months_since_1900": -1,
+            "end_months_since_1900": -1,
+            "length_in_months": -1
+        }
+    ],
+    "details": {
+        "First Name": "Stephanie",
+        "Middle Name": "Anne",
+        "Last Name": "NA",
+        "Maiden Name": "Birkitt",
+        "Full Name at Birth": "Stephanie Anne Birkitt",
+        "Alternative Name": "Monty, Smitty, Vicky, Dutch, Gunther, Vickie, Kitty",
+        "Birthday": "1975",
+        "Birthplace": "USA",
+        "Height": "170",
+        "Weight": "115lbs (52 kg)",
+        "Zodiac Sign": "13",
+        "Sexuality": "Straight",
+        "Religion": "18",
+        "Ethnicity": "6",
+        "Nationality": "91",
+        "Occupation": "17"
+    }
+}

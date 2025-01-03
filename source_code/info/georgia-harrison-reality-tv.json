@@ -1,0 +1,66 @@
+{
+    "relationships": [
+        {
+            "name": "Stephen Bear",
+            "href": "https://www.whosdatedwho.com/dating/stephen-bear",
+            "relationship_type": 2,
+            "start_date": "Jul 2019",
+            "end_date": "Jul 2019",
+            "length": "-",
+            "start_months_since_1900": 1434,
+            "end_months_since_1900": 1434,
+            "length_in_months": -1
+        },
+        {
+            "name": "Tom Pearce",
+            "href": "https://www.whosdatedwho.com/dating/tom-pearce",
+            "relationship_type": 2,
+            "start_date": "2014",
+            "end_date": "",
+            "length": "-",
+            "start_months_since_1900": 1368,
+            "end_months_since_1900": -1,
+            "length_in_months": -1
+        },
+        {
+            "name": "Miles Nazaire",
+            "href": "https://www.whosdatedwho.com/dating/miles-nazaire",
+            "relationship_type": 1,
+            "start_date": "",
+            "end_date": "",
+            "length": "-",
+            "start_months_since_1900": -1,
+            "end_months_since_1900": -1,
+            "length_in_months": -1
+        },
+        {
+            "name": "Lewis Bloor",
+            "href": "https://www.whosdatedwho.com/dating/lewis-bloor",
+            "relationship_type": 1,
+            "start_date": "",
+            "end_date": "",
+            "length": "-",
+            "start_months_since_1900": -1,
+            "end_months_since_1900": -1,
+            "length_in_months": -1
+        }
+    ],
+    "details": {
+        "First Name": "Georgia",
+        "Middle Name": "Louise",
+        "Last Name": "Harrison",
+        "Maiden Name": "NA",
+        "Full Name at Birth": "Georgia Louise Harrison",
+        "Alternative Name": "Georgia Harrison, Georgia Louise Harrison, George Harrison, Georgia",
+        "Birthday": "1994",
+        "Birthplace": "UK",
+        "Height": "178",
+        "Weight": "124lbs (56 kg)",
+        "Zodiac Sign": "6",
+        "Sexuality": "Straight",
+        "Religion": "1",
+        "Ethnicity": "6",
+        "Nationality": "8",
+        "Occupation": "11"
+    }
+}

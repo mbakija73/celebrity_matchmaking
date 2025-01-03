@@ -1,0 +1,33 @@
+{
+    "relationships": [
+        {
+            "name": "Chandler Riggs",
+            "href": "https://www.whosdatedwho.com/dating/chandler-riggs",
+            "relationship_type": 2,
+            "start_date": "Apr 2014",
+            "end_date": "2016",
+            "length": "1 year",
+            "start_months_since_1900": 1371,
+            "end_months_since_1900": 1392,
+            "length_in_months": 12
+        }
+    ],
+    "details": {
+        "First Name": "Hana",
+        "Middle Name": "Lani",
+        "Last Name": "Hayes",
+        "Maiden Name": "NA",
+        "Full Name at Birth": "Hana Lani Hayes",
+        "Alternative Name": "Hana Hayes, Hana Lani Hayes, Hana",
+        "Birthday": "1999",
+        "Birthplace": "USA",
+        "Height": "170",
+        "Weight": "105lbs (48 kg)",
+        "Zodiac Sign": "7",
+        "Sexuality": "Straight",
+        "Religion": "18",
+        "Ethnicity": "6",
+        "Nationality": "91",
+        "Occupation": "8"
+    }
+}

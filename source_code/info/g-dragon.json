@@ -1,0 +1,77 @@
+{
+    "relationships": [
+        {
+            "name": "Jennie Kim",
+            "href": "https://www.whosdatedwho.com/dating/jennie-kim",
+            "relationship_type": 2,
+            "start_date": "Feb 2021",
+            "end_date": "May 2022",
+            "length": "1 year",
+            "start_months_since_1900": 1453,
+            "end_months_since_1900": 1468,
+            "length_in_months": 12
+        },
+        {
+            "name": "Sandara Park",
+            "href": "https://www.whosdatedwho.com/dating/sandara-park",
+            "relationship_type": 1,
+            "start_date": "2017",
+            "end_date": "2017",
+            "length": "-",
+            "start_months_since_1900": 1404,
+            "end_months_since_1900": 1404,
+            "length_in_months": -1
+        },
+        {
+            "name": "Lee Joo-yeon",
+            "href": "https://www.whosdatedwho.com/dating/lee-jooyeon",
+            "relationship_type": 2,
+            "start_date": "Nov 2016",
+            "end_date": "Nov 2016",
+            "length": "-",
+            "start_months_since_1900": 1402,
+            "end_months_since_1900": 1402,
+            "length_in_months": -1
+        },
+        {
+            "name": "Nana Komatsu",
+            "href": "https://www.whosdatedwho.com/dating/nana-komatsu",
+            "relationship_type": 1,
+            "start_date": "2016",
+            "end_date": "2016",
+            "length": "-",
+            "start_months_since_1900": 1392,
+            "end_months_since_1900": 1392,
+            "length_in_months": -1
+        },
+        {
+            "name": "Kiko Mizuhara",
+            "href": "https://www.whosdatedwho.com/dating/kiko-mizuhara",
+            "relationship_type": 2,
+            "start_date": "2009",
+            "end_date": "2015",
+            "length": "6 years",
+            "start_months_since_1900": 1308,
+            "end_months_since_1900": 1380,
+            "length_in_months": 72
+        }
+    ],
+    "details": {
+        "First Name": "Ji Yong",
+        "Middle Name": "NA",
+        "Last Name": "Kwon",
+        "Maiden Name": "NA",
+        "Full Name at Birth": "Kwon Ji Yong",
+        "Alternative Name": "G Dragon, G-Dragon",
+        "Birthday": "1988",
+        "Birthplace": "South Korea",
+        "Height": "171",
+        "Weight": "128lbs (58 kg)",
+        "Zodiac Sign": "12",
+        "Sexuality": "Straight",
+        "Religion": "18",
+        "Ethnicity": "3",
+        "Nationality": "122",
+        "Occupation": "1"
+    }
+}

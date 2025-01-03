@@ -1,0 +1,55 @@
+{
+    "relationships": [
+        {
+            "name": "Laura La Plante",
+            "href": "https://www.whosdatedwho.com/dating/laura-la-plante",
+            "relationship_type": 4,
+            "start_date": "1934",
+            "end_date": "1985",
+            "length": "51 years",
+            "start_months_since_1900": 408,
+            "end_months_since_1900": 1020,
+            "length_in_months": 612
+        },
+        {
+            "name": "Mary Astor",
+            "href": "https://www.whosdatedwho.com/dating/mary-astor",
+            "relationship_type": 2,
+            "start_date": "Oct 1924",
+            "end_date": "Feb 1927",
+            "length": "2 years",
+            "start_months_since_1900": 297,
+            "end_months_since_1900": 325,
+            "length_in_months": 24
+        },
+        {
+            "name": "Loretta Young",
+            "href": "https://www.whosdatedwho.com/dating/loretta-young",
+            "relationship_type": 2,
+            "start_date": "",
+            "end_date": "",
+            "length": "-",
+            "start_months_since_1900": -1,
+            "end_months_since_1900": -1,
+            "length_in_months": -1
+        }
+    ],
+    "details": {
+        "First Name": "Irving",
+        "Middle Name": "NA",
+        "Last Name": "Asher",
+        "Maiden Name": "NA",
+        "Full Name at Birth": "NA",
+        "Alternative Name": "NA",
+        "Birthday": "1903",
+        "Birthplace": "CA",
+        "Height": "NA",
+        "Weight": "NA",
+        "Zodiac Sign": "11",
+        "Sexuality": "Straight",
+        "Religion": "1",
+        "Ethnicity": "6",
+        "Nationality": "91",
+        "Occupation": "9"
+    }
+}

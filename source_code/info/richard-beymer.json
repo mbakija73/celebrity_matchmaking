@@ -1,0 +1,88 @@
+{
+    "relationships": [
+        {
+            "name": "Lana Wood",
+            "href": "https://www.whosdatedwho.com/dating/lana-wood",
+            "relationship_type": 3,
+            "start_date": "1969",
+            "end_date": "1969",
+            "length": "-",
+            "start_months_since_1900": 828,
+            "end_months_since_1900": 828,
+            "length_in_months": -1
+        },
+        {
+            "name": "Alicia Darr",
+            "href": "https://www.whosdatedwho.com/dating/alicia-darr",
+            "relationship_type": 2,
+            "start_date": "Oct 1962",
+            "end_date": "Jan 1963",
+            "length": "3 months",
+            "start_months_since_1900": 753,
+            "end_months_since_1900": 756,
+            "length_in_months": 3
+        },
+        {
+            "name": "Dolores Hart",
+            "href": "https://www.whosdatedwho.com/dating/dolores-hart",
+            "relationship_type": 2,
+            "start_date": "1962",
+            "end_date": "1962",
+            "length": "-",
+            "start_months_since_1900": 744,
+            "end_months_since_1900": 744,
+            "length_in_months": -1
+        },
+        {
+            "name": "Sharon Tate",
+            "href": "https://www.whosdatedwho.com/dating/sharon-tate",
+            "relationship_type": 2,
+            "start_date": "Sep 1961",
+            "end_date": "Sep 1963",
+            "length": "2 years",
+            "start_months_since_1900": 740,
+            "end_months_since_1900": 764,
+            "length_in_months": 24
+        },
+        {
+            "name": "Diane McBain",
+            "href": "https://www.whosdatedwho.com/dating/diane-mcbain",
+            "relationship_type": 2,
+            "start_date": "1961",
+            "end_date": "1961",
+            "length": "-",
+            "start_months_since_1900": 732,
+            "end_months_since_1900": 732,
+            "length_in_months": -1
+        },
+        {
+            "name": "Tuesday Weld",
+            "href": "https://www.whosdatedwho.com/dating/tuesday-weld",
+            "relationship_type": 2,
+            "start_date": "Oct 1960",
+            "end_date": "Jan 1961",
+            "length": "3 months",
+            "start_months_since_1900": 729,
+            "end_months_since_1900": 732,
+            "length_in_months": 3
+        }
+    ],
+    "details": {
+        "First Name": "Richard",
+        "Middle Name": "NA",
+        "Last Name": "Beymer",
+        "Maiden Name": "NA",
+        "Full Name at Birth": "George Richard Beymer Jr.",
+        "Alternative Name": "Dick Beymer",
+        "Birthday": "1939",
+        "Birthplace": "Iowa",
+        "Height": "188",
+        "Weight": "NA",
+        "Zodiac Sign": "1",
+        "Sexuality": "Straight",
+        "Religion": "1",
+        "Ethnicity": "6",
+        "Nationality": "91",
+        "Occupation": "8"
+    }
+}

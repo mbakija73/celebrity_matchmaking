@@ -1,0 +1,44 @@
+{
+    "relationships": [
+        {
+            "name": "Sam Milby",
+            "href": "https://www.whosdatedwho.com/dating/sam-milby",
+            "relationship_type": 2,
+            "start_date": "2020",
+            "end_date": "present",
+            "length": "4 years",
+            "start_months_since_1900": 1440,
+            "end_months_since_1900": -1,
+            "length_in_months": 48
+        },
+        {
+            "name": "Clint Bondad",
+            "href": "https://www.whosdatedwho.com/dating/clint-bondad",
+            "relationship_type": 2,
+            "start_date": "12th Jun 2012",
+            "end_date": "2019",
+            "length": "6 years",
+            "start_months_since_1900": 1349,
+            "end_months_since_1900": 1428,
+            "length_in_months": 72
+        }
+    ],
+    "details": {
+        "First Name": "Catriona",
+        "Middle Name": "Elisa",
+        "Last Name": "Gray",
+        "Maiden Name": "NA",
+        "Full Name at Birth": "Catriona Elisa Magnayon Gray",
+        "Alternative Name": "Maria Catriona Elisa Magnayon Gray, Catriona Elisa Magnayon Gray, Catriona Gray, Catriona Elisa Gray",
+        "Birthday": "1994",
+        "Birthplace": "Australia",
+        "Height": "178",
+        "Weight": "121lbs (55 kg)",
+        "Zodiac Sign": "13",
+        "Sexuality": "Straight",
+        "Religion": "37",
+        "Ethnicity": "8",
+        "Nationality": "16",
+        "Occupation": "15"
+    }
+}

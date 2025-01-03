@@ -1,0 +1,55 @@
+{
+    "relationships": [
+        {
+            "name": "Matthew Gray Gubler",
+            "href": "https://www.whosdatedwho.com/dating/matthew-gray-gubler",
+            "relationship_type": 2,
+            "start_date": "2010",
+            "end_date": "2011",
+            "length": "1 year",
+            "start_months_since_1900": 1320,
+            "end_months_since_1900": 1332,
+            "length_in_months": 12
+        },
+        {
+            "name": "Gabe Saporta",
+            "href": "https://www.whosdatedwho.com/dating/gabe-saporta",
+            "relationship_type": 2,
+            "start_date": "2007",
+            "end_date": "2008",
+            "length": "1 year",
+            "start_months_since_1900": 1284,
+            "end_months_since_1900": 1296,
+            "length_in_months": 12
+        },
+        {
+            "name": "Patrick Stump",
+            "href": "https://www.whosdatedwho.com/dating/patrick-stump",
+            "relationship_type": 2,
+            "start_date": "2006",
+            "end_date": "2007",
+            "length": "1 year",
+            "start_months_since_1900": 1272,
+            "end_months_since_1900": 1284,
+            "length_in_months": 12
+        }
+    ],
+    "details": {
+        "First Name": "Victoria",
+        "Middle Name": "Jane",
+        "Last Name": "Asher",
+        "Maiden Name": "NA",
+        "Full Name at Birth": "Victoria Jane Asher",
+        "Alternative Name": "Vicky-T",
+        "Birthday": "1984",
+        "Birthplace": "USA",
+        "Height": "170",
+        "Weight": "NA",
+        "Zodiac Sign": "13",
+        "Sexuality": "Straight",
+        "Religion": "1",
+        "Ethnicity": "6",
+        "Nationality": "91",
+        "Occupation": "1"
+    }
+}

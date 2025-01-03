@@ -1,0 +1,44 @@
+{
+    "relationships": [
+        {
+            "name": "Meagan Good",
+            "href": "https://www.whosdatedwho.com/dating/meagan-good",
+            "relationship_type": 2,
+            "start_date": "2023",
+            "end_date": "present",
+            "length": "1 year",
+            "start_months_since_1900": 1476,
+            "end_months_since_1900": -1,
+            "length_in_months": 12
+        },
+        {
+            "name": "Grace Jabbari",
+            "href": "https://www.whosdatedwho.com/dating/grace-jabbari",
+            "relationship_type": 2,
+            "start_date": "",
+            "end_date": "",
+            "length": "-",
+            "start_months_since_1900": -1,
+            "end_months_since_1900": -1,
+            "length_in_months": -1
+        }
+    ],
+    "details": {
+        "First Name": "Jonathan",
+        "Middle Name": "NA",
+        "Last Name": "Majors",
+        "Maiden Name": "NA",
+        "Full Name at Birth": "Jonathan Michael Majors",
+        "Alternative Name": "NA",
+        "Birthday": "1989",
+        "Birthplace": "U.S.A.",
+        "Height": "183",
+        "Weight": "NA",
+        "Zodiac Sign": "11",
+        "Sexuality": "Straight",
+        "Religion": "1",
+        "Ethnicity": "2",
+        "Nationality": "91",
+        "Occupation": "8"
+    }
+}

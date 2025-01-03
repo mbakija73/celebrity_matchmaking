@@ -1,0 +1,44 @@
+{
+    "relationships": [
+        {
+            "name": "Peter Wicks",
+            "href": "https://www.whosdatedwho.com/dating/peter-wicks-reality-tv",
+            "relationship_type": 3,
+            "start_date": "Jul 2021",
+            "end_date": "Jul 2021",
+            "length": "-",
+            "start_months_since_1900": 1458,
+            "end_months_since_1900": 1458,
+            "length_in_months": -1
+        },
+        {
+            "name": "Dele Alli",
+            "href": "https://www.whosdatedwho.com/dating/dele-alli",
+            "relationship_type": 2,
+            "start_date": "2016",
+            "end_date": "Mar 2022",
+            "length": "6 years",
+            "start_months_since_1900": 1392,
+            "end_months_since_1900": 1466,
+            "length_in_months": 72
+        }
+    ],
+    "details": {
+        "First Name": "Ruby",
+        "Middle Name": "NA",
+        "Last Name": "Mae",
+        "Maiden Name": "NA",
+        "Full Name at Birth": "Ruby Mae",
+        "Alternative Name": "Ruby Mae",
+        "Birthday": "1994",
+        "Birthplace": "UK",
+        "Height": "175",
+        "Weight": "NA",
+        "Zodiac Sign": "2",
+        "Sexuality": "NA",
+        "Religion": "1",
+        "Ethnicity": "6",
+        "Nationality": "8",
+        "Occupation": "15"
+    }
+}

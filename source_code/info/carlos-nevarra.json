@@ -1,0 +1,16 @@
+{
+    "relationships": [
+        {
+            "name": "Jean Seberg",
+            "href": "https://www.whosdatedwho.com/dating/jean-seberg",
+            "relationship_type": 2,
+            "start_date": "1970",
+            "end_date": "1970",
+            "length": "-",
+            "start_months_since_1900": 840,
+            "end_months_since_1900": 840,
+            "length_in_months": -1
+        }
+    ],
+    "details": {}
+}

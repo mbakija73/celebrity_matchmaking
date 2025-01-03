@@ -1,0 +1,44 @@
+{
+    "relationships": [
+        {
+            "name": "Martina Stella",
+            "href": "https://www.whosdatedwho.com/dating/martina-stella",
+            "relationship_type": 2,
+            "start_date": "2007",
+            "end_date": "2011",
+            "length": "4 years",
+            "start_months_since_1900": 1284,
+            "end_months_since_1900": 1332,
+            "length_in_months": 48
+        },
+        {
+            "name": "Cristiana Capotondi",
+            "href": "https://www.whosdatedwho.com/dating/cristiana-capotondi",
+            "relationship_type": 2,
+            "start_date": "",
+            "end_date": "",
+            "length": "-",
+            "start_months_since_1900": -1,
+            "end_months_since_1900": -1,
+            "length_in_months": -1
+        }
+    ],
+    "details": {
+        "First Name": "Primo",
+        "Middle Name": "Nunzio",
+        "Last Name": "Reggiani",
+        "Maiden Name": "NA",
+        "Full Name at Birth": "Primo Nunzio Jasis Reggiani",
+        "Alternative Name": "NA",
+        "Birthday": "1983",
+        "Birthplace": "Italy",
+        "Height": "NA",
+        "Weight": "NA",
+        "Zodiac Sign": "5",
+        "Sexuality": "Straight",
+        "Religion": "1",
+        "Ethnicity": "6",
+        "Nationality": "139",
+        "Occupation": "8"
+    }
+}

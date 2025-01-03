@@ -1,0 +1,66 @@
+{
+    "relationships": [
+        {
+            "name": "Paulie Calafiore",
+            "href": "https://www.whosdatedwho.com/dating/paulie-calafiore",
+            "relationship_type": 2,
+            "start_date": "Jun 2018",
+            "end_date": "",
+            "length": "-",
+            "start_months_since_1900": 1421,
+            "end_months_since_1900": -1,
+            "length_in_months": -1
+        },
+        {
+            "name": "Kyle Christie",
+            "href": "https://www.whosdatedwho.com/dating/kyle-christie",
+            "relationship_type": 2,
+            "start_date": "Oct 2017",
+            "end_date": "2018",
+            "length": "3 months",
+            "start_months_since_1900": 1413,
+            "end_months_since_1900": 1416,
+            "length_in_months": 3
+        },
+        {
+            "name": "Thomas Buell",
+            "href": "https://www.whosdatedwho.com/dating/thomas-buell",
+            "relationship_type": 3,
+            "start_date": "2015",
+            "end_date": "2015",
+            "length": "-",
+            "start_months_since_1900": 1380,
+            "end_months_since_1900": 1380,
+            "length_in_months": -1
+        },
+        {
+            "name": "Abram Boise",
+            "href": "https://www.whosdatedwho.com/dating/abram-boise",
+            "relationship_type": 2,
+            "start_date": "2010",
+            "end_date": "2015",
+            "length": "5 years",
+            "start_months_since_1900": 1320,
+            "end_months_since_1900": 1380,
+            "length_in_months": 60
+        }
+    ],
+    "details": {
+        "First Name": "Cara",
+        "Middle Name": "Maria",
+        "Last Name": "Sorbello",
+        "Maiden Name": "NA",
+        "Full Name at Birth": "NA",
+        "Alternative Name": "NA",
+        "Birthday": "1986",
+        "Birthplace": "United States",
+        "Height": "177",
+        "Weight": "121lbs (55 kg)",
+        "Zodiac Sign": "3",
+        "Sexuality": "Straight",
+        "Religion": "18",
+        "Ethnicity": "6",
+        "Nationality": "91",
+        "Occupation": "11"
+    }
+}

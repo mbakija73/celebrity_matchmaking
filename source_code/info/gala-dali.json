@@ -1,0 +1,44 @@
+{
+    "relationships": [
+        {
+            "name": "Salvador Dal\u00ed",
+            "href": "https://www.whosdatedwho.com/dating/salvador-dali",
+            "relationship_type": 4,
+            "start_date": "1929",
+            "end_date": "Jun 1982",
+            "length": "53 years",
+            "start_months_since_1900": 348,
+            "end_months_since_1900": 989,
+            "length_in_months": 636
+        },
+        {
+            "name": "Paul \u00c9luard",
+            "href": "https://www.whosdatedwho.com/dating/paul-eluard",
+            "relationship_type": 4,
+            "start_date": "1913",
+            "end_date": "1929",
+            "length": "16 years",
+            "start_months_since_1900": 156,
+            "end_months_since_1900": 348,
+            "length_in_months": 192
+        }
+    ],
+    "details": {
+        "First Name": "Gala",
+        "Middle Name": "NA",
+        "Last Name": "Dali",
+        "Maiden Name": "NA",
+        "Full Name at Birth": "Elena Ivanovna Diakonova",
+        "Alternative Name": "Gala \u00c9luard Dal\u00ed, Gala",
+        "Birthday": "1894",
+        "Birthplace": "Russia",
+        "Height": "NA",
+        "Weight": "NA",
+        "Zodiac Sign": "11",
+        "Sexuality": "Straight",
+        "Religion": "32",
+        "Ethnicity": "6",
+        "Nationality": "9",
+        "Occupation": "11"
+    }
+}

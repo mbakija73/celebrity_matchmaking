@@ -1,0 +1,44 @@
+{
+    "relationships": [
+        {
+            "name": "Jeezy",
+            "href": "https://www.whosdatedwho.com/dating/jeezy",
+            "relationship_type": 4,
+            "start_date": "Jun 2018",
+            "end_date": "Sep 2023",
+            "length": "5 years",
+            "start_months_since_1900": 1421,
+            "end_months_since_1900": 1484,
+            "length_in_months": 60
+        },
+        {
+            "name": "Freddy Harteis",
+            "href": "https://www.whosdatedwho.com/dating/freddy-harteis",
+            "relationship_type": 4,
+            "start_date": "15th Mar 2004",
+            "end_date": "31st Dec 2018",
+            "length": "14 years",
+            "start_months_since_1900": 1250,
+            "end_months_since_1900": 1427,
+            "length_in_months": 168
+        }
+    ],
+    "details": {
+        "First Name": "Jeannie",
+        "Middle Name": "Camtu",
+        "Last Name": "Harteis",
+        "Maiden Name": "Mai",
+        "Full Name at Birth": "Jeannie Camtu Mai",
+        "Alternative Name": "Jeannie Harteis, Jeannie Mai, Jeannie Mai Jenkins, Jeannie Camtu Mai",
+        "Birthday": "1979",
+        "Birthplace": "USA",
+        "Height": "161",
+        "Weight": "106lbs (48 kg)",
+        "Zodiac Sign": "13",
+        "Sexuality": "Bisexual",
+        "Religion": "18",
+        "Ethnicity": "3",
+        "Nationality": "91",
+        "Occupation": "11"
+    }
+}

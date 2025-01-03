@@ -1,0 +1,44 @@
+{
+    "relationships": [
+        {
+            "name": "Saweetie",
+            "href": "https://www.whosdatedwho.com/dating/saweetie",
+            "relationship_type": 3,
+            "start_date": "Jul 2021",
+            "end_date": "Aug 2021",
+            "length": "1 month",
+            "start_months_since_1900": 1458,
+            "end_months_since_1900": 1459,
+            "length_in_months": 1
+        },
+        {
+            "name": "Asian Doll",
+            "href": "https://www.whosdatedwho.com/dating/asian-doll",
+            "relationship_type": 2,
+            "start_date": "Jul 2021",
+            "end_date": "Dec 2021",
+            "length": "5 months",
+            "start_months_since_1900": 1458,
+            "end_months_since_1900": 1463,
+            "length_in_months": 5
+        }
+    ],
+    "details": {
+        "First Name": "Jackboy",
+        "Middle Name": "NA",
+        "Last Name": "NA",
+        "Maiden Name": "NA",
+        "Full Name at Birth": "Pierre Delince",
+        "Alternative Name": "NA",
+        "Birthday": "1997",
+        "Birthplace": "Haiti",
+        "Height": "178",
+        "Weight": "NA",
+        "Zodiac Sign": "11",
+        "Sexuality": "NA",
+        "Religion": "1",
+        "Ethnicity": "2",
+        "Nationality": "21",
+        "Occupation": "1"
+    }
+}

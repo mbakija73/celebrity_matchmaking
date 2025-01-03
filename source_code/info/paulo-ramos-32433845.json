@@ -1,0 +1,27 @@
+{
+    "relationships": [
+        {
+            "name": "Kika Gomes",
+            "href": "https://www.whosdatedwho.com/dating/kika-gomes",
+            "relationship_type": 2,
+            "start_date": "May 2017",
+            "end_date": "Jul 2017",
+            "length": "2 months",
+            "start_months_since_1900": 1408,
+            "end_months_since_1900": 1410,
+            "length_in_months": 2
+        },
+        {
+            "name": "S\u00e9fora Arruda",
+            "href": "https://www.whosdatedwho.com/dating/sefora-arruda",
+            "relationship_type": 1,
+            "start_date": "",
+            "end_date": "",
+            "length": "-",
+            "start_months_since_1900": -1,
+            "end_months_since_1900": -1,
+            "length_in_months": -1
+        }
+    ],
+    "details": {}
+}

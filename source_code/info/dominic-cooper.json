@@ -1,0 +1,66 @@
+{
+    "relationships": [
+        {
+            "name": "Gemma Chan",
+            "href": "https://www.whosdatedwho.com/dating/gemma-chan",
+            "relationship_type": 2,
+            "start_date": "Aug 2018",
+            "end_date": "present",
+            "length": "6 years",
+            "start_months_since_1900": 1423,
+            "end_months_since_1900": -1,
+            "length_in_months": 72
+        },
+        {
+            "name": "Ruth Negga",
+            "href": "https://www.whosdatedwho.com/dating/ruth-negga",
+            "relationship_type": 2,
+            "start_date": "2010",
+            "end_date": "2014",
+            "length": "4 years",
+            "start_months_since_1900": 1320,
+            "end_months_since_1900": 1368,
+            "length_in_months": 48
+        },
+        {
+            "name": "Amanda Seyfried",
+            "href": "https://www.whosdatedwho.com/dating/amanda-seyfried",
+            "relationship_type": 2,
+            "start_date": "Sep 2007",
+            "end_date": "May 2010",
+            "length": "2 years",
+            "start_months_since_1900": 1292,
+            "end_months_since_1900": 1324,
+            "length_in_months": 24
+        },
+        {
+            "name": "Joanna Carolan",
+            "href": "https://www.whosdatedwho.com/dating/joanna-carolan",
+            "relationship_type": 2,
+            "start_date": "1996",
+            "end_date": "2008",
+            "length": "12 years",
+            "start_months_since_1900": 1152,
+            "end_months_since_1900": 1296,
+            "length_in_months": 144
+        }
+    ],
+    "details": {
+        "First Name": "Dominic",
+        "Middle Name": "Edward",
+        "Last Name": "Cooper",
+        "Maiden Name": "NA",
+        "Full Name at Birth": "Dominic Edward Cooper",
+        "Alternative Name": "NA",
+        "Birthday": "1978",
+        "Birthplace": "London",
+        "Height": "177",
+        "Weight": "NA",
+        "Zodiac Sign": "4",
+        "Sexuality": "Straight",
+        "Religion": "1",
+        "Ethnicity": "6",
+        "Nationality": "8",
+        "Occupation": "8"
+    }
+}

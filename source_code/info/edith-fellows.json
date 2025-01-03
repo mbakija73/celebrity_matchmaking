@@ -1,0 +1,44 @@
+{
+    "relationships": [
+        {
+            "name": "Hal Lee",
+            "href": "https://www.whosdatedwho.com/dating/hal-lee",
+            "relationship_type": 4,
+            "start_date": "1960",
+            "end_date": "1960",
+            "length": "-",
+            "start_months_since_1900": 720,
+            "end_months_since_1900": 720,
+            "length_in_months": -1
+        },
+        {
+            "name": "Freddie Fields",
+            "href": "https://www.whosdatedwho.com/dating/freddie-fields",
+            "relationship_type": 4,
+            "start_date": "1945",
+            "end_date": "1955",
+            "length": "10 years",
+            "start_months_since_1900": 540,
+            "end_months_since_1900": 660,
+            "length_in_months": 120
+        }
+    ],
+    "details": {
+        "First Name": "Edith",
+        "Middle Name": "NA",
+        "Last Name": "Fellows",
+        "Maiden Name": "NA",
+        "Full Name at Birth": "Edith Fellows",
+        "Alternative Name": "NA",
+        "Birthday": "1923",
+        "Birthplace": "Massachusetts",
+        "Height": "147",
+        "Weight": "NA",
+        "Zodiac Sign": "3",
+        "Sexuality": "NA",
+        "Religion": "1",
+        "Ethnicity": "6",
+        "Nationality": "91",
+        "Occupation": "8"
+    }
+}

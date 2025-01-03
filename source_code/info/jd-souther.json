@@ -1,0 +1,121 @@
+{
+    "relationships": [
+        {
+            "name": "Stevie Nicks",
+            "href": "https://www.whosdatedwho.com/dating/stevie-nicks",
+            "relationship_type": 2,
+            "start_date": "1977",
+            "end_date": "1977",
+            "length": "-",
+            "start_months_since_1900": 924,
+            "end_months_since_1900": 924,
+            "length_in_months": -1
+        },
+        {
+            "name": "Carole King",
+            "href": "https://www.whosdatedwho.com/dating/carole-king",
+            "relationship_type": 2,
+            "start_date": "Jan 1976",
+            "end_date": "Jun 1976",
+            "length": "5 months",
+            "start_months_since_1900": 912,
+            "end_months_since_1900": 917,
+            "length_in_months": 5
+        },
+        {
+            "name": "Kay Lenz",
+            "href": "https://www.whosdatedwho.com/dating/kay-lenz",
+            "relationship_type": 2,
+            "start_date": "1974",
+            "end_date": "1974",
+            "length": "-",
+            "start_months_since_1900": 888,
+            "end_months_since_1900": 888,
+            "length_in_months": -1
+        },
+        {
+            "name": "Marcia Strassman",
+            "href": "https://www.whosdatedwho.com/dating/marcia-strassman",
+            "relationship_type": 2,
+            "start_date": "1974",
+            "end_date": "1974",
+            "length": "-",
+            "start_months_since_1900": 888,
+            "end_months_since_1900": 888,
+            "length_in_months": -1
+        },
+        {
+            "name": "Linda Ronstadt",
+            "href": "https://www.whosdatedwho.com/dating/linda-ronstadt",
+            "relationship_type": 2,
+            "start_date": "1972",
+            "end_date": "1974",
+            "length": "2 years",
+            "start_months_since_1900": 864,
+            "end_months_since_1900": 888,
+            "length_in_months": 24
+        },
+        {
+            "name": "Judee Sill",
+            "href": "https://www.whosdatedwho.com/dating/judee-sill",
+            "relationship_type": 2,
+            "start_date": "1971",
+            "end_date": "1973",
+            "length": "2 years",
+            "start_months_since_1900": 852,
+            "end_months_since_1900": 876,
+            "length_in_months": 24
+        },
+        {
+            "name": "Alex Sliwin",
+            "href": "https://www.whosdatedwho.com/dating/alex-sliwin",
+            "relationship_type": 4,
+            "start_date": "Mar 1969",
+            "end_date": "1972",
+            "length": "2 years",
+            "start_months_since_1900": 830,
+            "end_months_since_1900": 864,
+            "length_in_months": 24
+        },
+        {
+            "name": "Eve Babitz",
+            "href": "https://www.whosdatedwho.com/dating/eve-babitz",
+            "relationship_type": 3,
+            "start_date": "",
+            "end_date": "",
+            "length": "-",
+            "start_months_since_1900": -1,
+            "end_months_since_1900": -1,
+            "length_in_months": -1
+        },
+        {
+            "name": "Joni Mitchell",
+            "href": "https://www.whosdatedwho.com/dating/joni-mitchell",
+            "relationship_type": 2,
+            "start_date": "",
+            "end_date": "",
+            "length": "-",
+            "start_months_since_1900": -1,
+            "end_months_since_1900": -1,
+            "length_in_months": -1
+        }
+    ],
+    "details": {
+        "First Name": "J.D",
+        "Middle Name": "David",
+        "Last Name": "Souther",
+        "Maiden Name": "NA",
+        "Full Name at Birth": "John David Souther",
+        "Alternative Name": "J. D. Souther",
+        "Birthday": "1945",
+        "Birthplace": "Mi",
+        "Height": "NA",
+        "Weight": "NA",
+        "Zodiac Sign": "5",
+        "Sexuality": "Straight",
+        "Religion": "18",
+        "Ethnicity": "6",
+        "Nationality": "91",
+        "Occupation": "8"
+    }
+}

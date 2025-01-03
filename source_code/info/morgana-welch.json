@@ -1,0 +1,110 @@
+{
+    "relationships": [
+        {
+            "name": "Bill Lordan",
+            "href": "https://www.whosdatedwho.com/dating/bill-lordan",
+            "relationship_type": 3,
+            "start_date": "1976",
+            "end_date": "1977",
+            "length": "1 year",
+            "start_months_since_1900": 912,
+            "end_months_since_1900": 924,
+            "length_in_months": 12
+        },
+        {
+            "name": "Robert Plant",
+            "href": "https://www.whosdatedwho.com/dating/robert-plant",
+            "relationship_type": 3,
+            "start_date": "1972",
+            "end_date": "1973",
+            "length": "1 year",
+            "start_months_since_1900": 864,
+            "end_months_since_1900": 876,
+            "length_in_months": 12
+        },
+        {
+            "name": "John Paul Jones",
+            "href": "https://www.whosdatedwho.com/dating/john-paul-jones",
+            "relationship_type": 3,
+            "start_date": "1971",
+            "end_date": "1972",
+            "length": "1 year",
+            "start_months_since_1900": 852,
+            "end_months_since_1900": 864,
+            "length_in_months": 12
+        },
+        {
+            "name": "Roy Harper",
+            "href": "https://www.whosdatedwho.com/dating/roy-harper",
+            "relationship_type": 3,
+            "start_date": "",
+            "end_date": "",
+            "length": "-",
+            "start_months_since_1900": -1,
+            "end_months_since_1900": -1,
+            "length_in_months": -1
+        },
+        {
+            "name": "Bill Pratt",
+            "href": "https://www.whosdatedwho.com/dating/bill-pratt",
+            "relationship_type": 4,
+            "start_date": "",
+            "end_date": "",
+            "length": "-",
+            "start_months_since_1900": -1,
+            "end_months_since_1900": -1,
+            "length_in_months": -1
+        },
+        {
+            "name": "Steve Currie",
+            "href": "https://www.whosdatedwho.com/dating/steve-currie",
+            "relationship_type": 3,
+            "start_date": "",
+            "end_date": "",
+            "length": "-",
+            "start_months_since_1900": -1,
+            "end_months_since_1900": -1,
+            "length_in_months": -1
+        },
+        {
+            "name": "Pete Tolson",
+            "href": "https://www.whosdatedwho.com/dating/pete-tolson",
+            "relationship_type": 3,
+            "start_date": "",
+            "end_date": "",
+            "length": "-",
+            "start_months_since_1900": -1,
+            "end_months_since_1900": -1,
+            "length_in_months": -1
+        },
+        {
+            "name": "David Johansen",
+            "href": "https://www.whosdatedwho.com/dating/david-johansen",
+            "relationship_type": 3,
+            "start_date": "",
+            "end_date": "",
+            "length": "-",
+            "start_months_since_1900": -1,
+            "end_months_since_1900": -1,
+            "length_in_months": -1
+        }
+    ],
+    "details": {
+        "First Name": "Morgana",
+        "Middle Name": "NA",
+        "Last Name": "NA",
+        "Maiden Name": "Welch",
+        "Full Name at Birth": "Morgana Welch",
+        "Alternative Name": "NA",
+        "Birthday": "1956",
+        "Birthplace": "USA",
+        "Height": "NA",
+        "Weight": "NA",
+        "Zodiac Sign": "7",
+        "Sexuality": "Straight",
+        "Religion": "1",
+        "Ethnicity": "6",
+        "Nationality": "91",
+        "Occupation": "3"
+    }
+}

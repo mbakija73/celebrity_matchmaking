@@ -1,0 +1,55 @@
+{
+    "relationships": [
+        {
+            "name": "Bobby Darin",
+            "href": "https://www.whosdatedwho.com/dating/bobby-darin",
+            "relationship_type": 2,
+            "start_date": "Feb 1960",
+            "end_date": "Feb 1960",
+            "length": "-",
+            "start_months_since_1900": 721,
+            "end_months_since_1900": 721,
+            "length_in_months": -1
+        },
+        {
+            "name": "Edd Byrnes",
+            "href": "https://www.whosdatedwho.com/dating/edd-byrnes",
+            "relationship_type": 4,
+            "start_date": "Aug 1959",
+            "end_date": "Jul 1972",
+            "length": "12 years",
+            "start_months_since_1900": 715,
+            "end_months_since_1900": 870,
+            "length_in_months": 144
+        },
+        {
+            "name": "Burt Reynolds",
+            "href": "https://www.whosdatedwho.com/dating/burt-reynolds",
+            "relationship_type": 2,
+            "start_date": "",
+            "end_date": "",
+            "length": "-",
+            "start_months_since_1900": -1,
+            "end_months_since_1900": -1,
+            "length_in_months": -1
+        }
+    ],
+    "details": {
+        "First Name": "Asa",
+        "Middle Name": "NA",
+        "Last Name": "NA",
+        "Maiden Name": "Maynor",
+        "Full Name at Birth": "Asa Gibson Maynor",
+        "Alternative Name": "Asa Gibson Maynor, Asa Maynor, Virginia Maynor",
+        "Birthday": "1926",
+        "Birthplace": "USA",
+        "Height": "NA",
+        "Weight": "NA",
+        "Zodiac Sign": "11",
+        "Sexuality": "Straight",
+        "Religion": "1",
+        "Ethnicity": "6",
+        "Nationality": "91",
+        "Occupation": "8"
+    }
+}

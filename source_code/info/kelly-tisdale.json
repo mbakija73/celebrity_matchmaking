@@ -1,0 +1,44 @@
+{
+    "relationships": [
+        {
+            "name": "Mike Myers",
+            "href": "https://www.whosdatedwho.com/dating/mike-myers",
+            "relationship_type": 4,
+            "start_date": "2006",
+            "end_date": "present",
+            "length": "18 years",
+            "start_months_since_1900": 1272,
+            "end_months_since_1900": -1,
+            "length_in_months": 216
+        },
+        {
+            "name": "Moby",
+            "href": "https://www.whosdatedwho.com/dating/moby",
+            "relationship_type": 2,
+            "start_date": "2001",
+            "end_date": "2004",
+            "length": "3 years",
+            "start_months_since_1900": 1212,
+            "end_months_since_1900": 1248,
+            "length_in_months": 36
+        }
+    ],
+    "details": {
+        "First Name": "Kelly",
+        "Middle Name": "NA",
+        "Last Name": "Myers",
+        "Maiden Name": "Tisdale",
+        "Full Name at Birth": "Kelly Tisdale",
+        "Alternative Name": "NA",
+        "Birthday": "1975",
+        "Birthplace": "Mass",
+        "Height": "NA",
+        "Weight": "NA",
+        "Zodiac Sign": "2",
+        "Sexuality": "Straight",
+        "Religion": "1",
+        "Ethnicity": "6",
+        "Nationality": "91",
+        "Occupation": "7"
+    }
+}

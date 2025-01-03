@@ -1,0 +1,99 @@
+{
+    "relationships": [
+        {
+            "name": "Kirk Seigel",
+            "href": "https://www.whosdatedwho.com/dating/kirk-seigel",
+            "relationship_type": 2,
+            "start_date": "2000",
+            "end_date": "2006",
+            "length": "6 years",
+            "start_months_since_1900": 1200,
+            "end_months_since_1900": 1272,
+            "length_in_months": 72
+        },
+        {
+            "name": "Kelly Nickels",
+            "href": "https://www.whosdatedwho.com/dating/kelly-nickels",
+            "relationship_type": 3,
+            "start_date": "Jun 1988",
+            "end_date": "Aug 1988",
+            "length": "2 months",
+            "start_months_since_1900": 1061,
+            "end_months_since_1900": 1063,
+            "length_in_months": 2
+        },
+        {
+            "name": "Vince Neil",
+            "href": "https://www.whosdatedwho.com/dating/vince-neil",
+            "relationship_type": 4,
+            "start_date": "Nov 1986",
+            "end_date": "Jun 1993",
+            "length": "6 years",
+            "start_months_since_1900": 1042,
+            "end_months_since_1900": 1121,
+            "length_in_months": 72
+        },
+        {
+            "name": "Taime Downe",
+            "href": "https://www.whosdatedwho.com/dating/taime-downe",
+            "relationship_type": 3,
+            "start_date": "",
+            "end_date": "",
+            "length": "-",
+            "start_months_since_1900": -1,
+            "end_months_since_1900": -1,
+            "length_in_months": -1
+        },
+        {
+            "name": "Brian Sawyer",
+            "href": "https://www.whosdatedwho.com/dating/brian-sawyer",
+            "relationship_type": 2,
+            "start_date": "",
+            "end_date": "",
+            "length": "-",
+            "start_months_since_1900": -1,
+            "end_months_since_1900": -1,
+            "length_in_months": -1
+        },
+        {
+            "name": "Judd Nelson",
+            "href": "https://www.whosdatedwho.com/dating/judd-nelson",
+            "relationship_type": 3,
+            "start_date": "",
+            "end_date": "",
+            "length": "-",
+            "start_months_since_1900": -1,
+            "end_months_since_1900": -1,
+            "length_in_months": -1
+        },
+        {
+            "name": "Tupac Shakur",
+            "href": "https://www.whosdatedwho.com/dating/tupac-shakur",
+            "relationship_type": 2,
+            "start_date": "",
+            "end_date": "",
+            "length": "-",
+            "start_months_since_1900": -1,
+            "end_months_since_1900": -1,
+            "length_in_months": -1
+        }
+    ],
+    "details": {
+        "First Name": "Sharise",
+        "Middle Name": "Lee Ann",
+        "Last Name": "Neil",
+        "Maiden Name": "Ruddell",
+        "Full Name at Birth": "Sharise Lee Ann Ruddell",
+        "Alternative Name": "Charisz, Sharise Ruddell",
+        "Birthday": "1964",
+        "Birthplace": "USA",
+        "Height": "163",
+        "Weight": "NA",
+        "Zodiac Sign": "5",
+        "Sexuality": "Straight",
+        "Religion": "18",
+        "Ethnicity": "6",
+        "Nationality": "91",
+        "Occupation": "15"
+    }
+}

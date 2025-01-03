@@ -1,0 +1,88 @@
+{
+    "relationships": [
+        {
+            "name": "Harry Styles",
+            "href": "https://www.whosdatedwho.com/dating/harry-styles",
+            "relationship_type": 2,
+            "start_date": "Nov 2020",
+            "end_date": "Nov 2022",
+            "length": "2 years",
+            "start_months_since_1900": 1450,
+            "end_months_since_1900": 1474,
+            "length_in_months": 24
+        },
+        {
+            "name": "Jason Sudeikis",
+            "href": "https://www.whosdatedwho.com/dating/jason-sudeikis",
+            "relationship_type": 2,
+            "start_date": "Nov 2011",
+            "end_date": "Nov 2020",
+            "length": "9 years",
+            "start_months_since_1900": 1342,
+            "end_months_since_1900": 1450,
+            "length_in_months": 108
+        },
+        {
+            "name": "Bradley Cooper",
+            "href": "https://www.whosdatedwho.com/dating/bradley-cooper",
+            "relationship_type": 3,
+            "start_date": "May 2011",
+            "end_date": "May 2011",
+            "length": "-",
+            "start_months_since_1900": 1336,
+            "end_months_since_1900": 1336,
+            "length_in_months": -1
+        },
+        {
+            "name": "Justin Timberlake",
+            "href": "https://www.whosdatedwho.com/dating/justin-timberlake",
+            "relationship_type": 3,
+            "start_date": "Apr 2011",
+            "end_date": "May 2011",
+            "length": "1 month",
+            "start_months_since_1900": 1335,
+            "end_months_since_1900": 1336,
+            "length_in_months": 1
+        },
+        {
+            "name": "Ryan Gosling",
+            "href": "https://www.whosdatedwho.com/dating/ryan-gosling",
+            "relationship_type": 2,
+            "start_date": "Feb 2011",
+            "end_date": "Apr 2011",
+            "length": "1 month",
+            "start_months_since_1900": 1333,
+            "end_months_since_1900": 1335,
+            "length_in_months": 1
+        },
+        {
+            "name": "Tao Ruspoli",
+            "href": "https://www.whosdatedwho.com/dating/tao-ruspoli",
+            "relationship_type": 4,
+            "start_date": "Dec 2002",
+            "end_date": "Jan 2011",
+            "length": "8 years",
+            "start_months_since_1900": 1235,
+            "end_months_since_1900": 1332,
+            "length_in_months": 96
+        }
+    ],
+    "details": {
+        "First Name": "Olivia",
+        "Middle Name": "Jane",
+        "Last Name": "Cockburn",
+        "Maiden Name": "NA",
+        "Full Name at Birth": "Olivia Jane Cockburn",
+        "Alternative Name": "Olivia Wilde, Olivia Jane Cockburn",
+        "Birthday": "1984",
+        "Birthplace": "USA",
+        "Height": "171",
+        "Weight": "115lbs (52 kg)",
+        "Zodiac Sign": "1",
+        "Sexuality": "Bisexual",
+        "Religion": "3",
+        "Ethnicity": "6",
+        "Nationality": "91",
+        "Occupation": "8"
+    }
+}

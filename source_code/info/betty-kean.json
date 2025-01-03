@@ -1,0 +1,66 @@
+{
+    "relationships": [
+        {
+            "name": "Lew Parker",
+            "href": "https://www.whosdatedwho.com/dating/lew-parker",
+            "relationship_type": 4,
+            "start_date": "1972",
+            "end_date": "1972",
+            "length": "-",
+            "start_months_since_1900": 864,
+            "end_months_since_1900": 864,
+            "length_in_months": -1
+        },
+        {
+            "name": "Jim Backus",
+            "href": "https://www.whosdatedwho.com/dating/jim-backus",
+            "relationship_type": 4,
+            "start_date": "1939",
+            "end_date": "1942",
+            "length": "3 years",
+            "start_months_since_1900": 468,
+            "end_months_since_1900": 504,
+            "length_in_months": 36
+        },
+        {
+            "name": "Frank Fay",
+            "href": "https://www.whosdatedwho.com/dating/frank-fay",
+            "relationship_type": 4,
+            "start_date": "1937",
+            "end_date": "1939",
+            "length": "2 years",
+            "start_months_since_1900": 444,
+            "end_months_since_1900": 468,
+            "length_in_months": 24
+        },
+        {
+            "name": "Roy Sedley",
+            "href": "https://www.whosdatedwho.com/dating/roy-sedley",
+            "relationship_type": 4,
+            "start_date": "1934",
+            "end_date": "1936",
+            "length": "2 years",
+            "start_months_since_1900": 408,
+            "end_months_since_1900": 432,
+            "length_in_months": 24
+        }
+    ],
+    "details": {
+        "First Name": "Betty",
+        "Middle Name": "NA",
+        "Last Name": "NA",
+        "Maiden Name": "Kean",
+        "Full Name at Birth": "Betty Kean",
+        "Alternative Name": "NA",
+        "Birthday": "1915",
+        "Birthplace": "USA",
+        "Height": "NA",
+        "Weight": "NA",
+        "Zodiac Sign": "6",
+        "Sexuality": "Straight",
+        "Religion": "1",
+        "Ethnicity": "6",
+        "Nationality": "91",
+        "Occupation": "8"
+    }
+}

@@ -1,0 +1,44 @@
+{
+    "relationships": [
+        {
+            "name": "Richard Scott (personality)",
+            "href": "https://www.whosdatedwho.com/dating/richard-scott",
+            "relationship_type": 4,
+            "start_date": "1981",
+            "end_date": "present",
+            "length": "43 years",
+            "start_months_since_1900": 972,
+            "end_months_since_1900": -1,
+            "length_in_months": 516
+        },
+        {
+            "name": "Caitlyn Jenner",
+            "href": "https://www.whosdatedwho.com/dating/caitlyn-jenner",
+            "relationship_type": 4,
+            "start_date": "Apr 1970",
+            "end_date": "Jan 1981",
+            "length": "10 years",
+            "start_months_since_1900": 843,
+            "end_months_since_1900": 972,
+            "length_in_months": 120
+        }
+    ],
+    "details": {
+        "First Name": "Chrystie",
+        "Middle Name": "NA",
+        "Last Name": "Scott",
+        "Maiden Name": "Crownover",
+        "Full Name at Birth": "Chrystie Anne Crownover",
+        "Alternative Name": "Chrystine Jenner, Chrystine Scott, Chrystine Crownover, Chrystie Scott, Chrystie Jenner, Chrystie Anne Crownover, Chrystie Crownover",
+        "Birthday": "1950",
+        "Birthplace": "NA",
+        "Height": "NA",
+        "Weight": "NA",
+        "Zodiac Sign": "10",
+        "Sexuality": "Straight",
+        "Religion": "18",
+        "Ethnicity": "6",
+        "Nationality": "91",
+        "Occupation": "18"
+    }
+}

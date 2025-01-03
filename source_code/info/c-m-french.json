@@ -1,0 +1,44 @@
+{
+    "relationships": [
+        {
+            "name": "Ashley Tisdale",
+            "href": "https://www.whosdatedwho.com/dating/ashley-tisdale",
+            "relationship_type": 4,
+            "start_date": "Dec 2012",
+            "end_date": "present",
+            "length": "11 years",
+            "start_months_since_1900": 1355,
+            "end_months_since_1900": -1,
+            "length_in_months": 132
+        },
+        {
+            "name": "Kaley Cuoco",
+            "href": "https://www.whosdatedwho.com/dating/kaley-cuoco-sweeting",
+            "relationship_type": 2,
+            "start_date": "May 2010",
+            "end_date": "Nov 2012",
+            "length": "2 years",
+            "start_months_since_1900": 1324,
+            "end_months_since_1900": 1354,
+            "length_in_months": 24
+        }
+    ],
+    "details": {
+        "First Name": "Christopher",
+        "Middle Name": "NA",
+        "Last Name": "French",
+        "Maiden Name": "NA",
+        "Full Name at Birth": "Christopher French",
+        "Alternative Name": "C.M.French, Christopher French, French",
+        "Birthday": "1982",
+        "Birthplace": "USA",
+        "Height": "185",
+        "Weight": "155lbs (70 kg)",
+        "Zodiac Sign": "3",
+        "Sexuality": "Straight",
+        "Religion": "1",
+        "Ethnicity": "6",
+        "Nationality": "91",
+        "Occupation": "1"
+    }
+}

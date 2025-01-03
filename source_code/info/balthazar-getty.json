@@ -1,0 +1,77 @@
+{
+    "relationships": [
+        {
+            "name": "Sienna Miller",
+            "href": "https://www.whosdatedwho.com/dating/sienna-miller",
+            "relationship_type": 2,
+            "start_date": "Jul 2008",
+            "end_date": "Jul 2009",
+            "length": "1 year",
+            "start_months_since_1900": 1302,
+            "end_months_since_1900": 1314,
+            "length_in_months": 12
+        },
+        {
+            "name": "Rosetta Millington",
+            "href": "https://www.whosdatedwho.com/dating/rosetta-millington",
+            "relationship_type": 4,
+            "start_date": "1999",
+            "end_date": "present",
+            "length": "25 years",
+            "start_months_since_1900": 1188,
+            "end_months_since_1900": -1,
+            "length_in_months": 300
+        },
+        {
+            "name": "Lala Sloatman",
+            "href": "https://www.whosdatedwho.com/dating/lala-sloatman",
+            "relationship_type": 2,
+            "start_date": "Jul 1991",
+            "end_date": "Jan 1993",
+            "length": "1 year",
+            "start_months_since_1900": 1098,
+            "end_months_since_1900": 1116,
+            "length_in_months": 12
+        },
+        {
+            "name": "Drew Barrymore",
+            "href": "https://www.whosdatedwho.com/dating/drew-barrymore",
+            "relationship_type": 2,
+            "start_date": "Apr 1990",
+            "end_date": "Sep 1990",
+            "length": "5 months",
+            "start_months_since_1900": 1083,
+            "end_months_since_1900": 1088,
+            "length_in_months": 5
+        },
+        {
+            "name": "Milla Jovovich",
+            "href": "https://www.whosdatedwho.com/dating/milla-jovovich",
+            "relationship_type": 2,
+            "start_date": "",
+            "end_date": "",
+            "length": "-",
+            "start_months_since_1900": -1,
+            "end_months_since_1900": -1,
+            "length_in_months": -1
+        }
+    ],
+    "details": {
+        "First Name": "Paul",
+        "Middle Name": "Balthazar",
+        "Last Name": "Getty",
+        "Maiden Name": "NA",
+        "Full Name at Birth": "Paul Balthazar Getty",
+        "Alternative Name": "Balty",
+        "Birthday": "1975",
+        "Birthplace": "CA",
+        "Height": "183",
+        "Weight": "NA",
+        "Zodiac Sign": "9",
+        "Sexuality": "Straight",
+        "Religion": "1",
+        "Ethnicity": "6",
+        "Nationality": "91",
+        "Occupation": "8"
+    }
+}

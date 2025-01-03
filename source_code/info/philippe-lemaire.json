@@ -1,0 +1,77 @@
+{
+    "relationships": [
+        {
+            "name": "Claude Bouton",
+            "href": "https://www.whosdatedwho.com/dating/claude-bouton",
+            "relationship_type": 4,
+            "start_date": "1959",
+            "end_date": "1980",
+            "length": "21 years",
+            "start_months_since_1900": 708,
+            "end_months_since_1900": 960,
+            "length_in_months": 252
+        },
+        {
+            "name": "Bella Darvi",
+            "href": "https://www.whosdatedwho.com/dating/bella-darvi",
+            "relationship_type": 2,
+            "start_date": "Jul 1957",
+            "end_date": "Aug 1957",
+            "length": "1 month",
+            "start_months_since_1900": 690,
+            "end_months_since_1900": 691,
+            "length_in_months": 1
+        },
+        {
+            "name": "Juliette Gr\u00e9co",
+            "href": "https://www.whosdatedwho.com/dating/juliette-greco",
+            "relationship_type": 4,
+            "start_date": "Jun 1953",
+            "end_date": "Jun 1956",
+            "length": "3 years",
+            "start_months_since_1900": 641,
+            "end_months_since_1900": 677,
+            "length_in_months": 36
+        },
+        {
+            "name": "Nicole Pinton",
+            "href": "https://www.whosdatedwho.com/dating/nicole-pinton",
+            "relationship_type": 4,
+            "start_date": "1949",
+            "end_date": "1951",
+            "length": "2 years",
+            "start_months_since_1900": 588,
+            "end_months_since_1900": 612,
+            "length_in_months": 24
+        },
+        {
+            "name": "Jeanne Moreau",
+            "href": "https://www.whosdatedwho.com/dating/jeanne-moreau",
+            "relationship_type": 1,
+            "start_date": "",
+            "end_date": "",
+            "length": "-",
+            "start_months_since_1900": -1,
+            "end_months_since_1900": -1,
+            "length_in_months": -1
+        }
+    ],
+    "details": {
+        "First Name": "Philippe",
+        "Middle Name": "NA",
+        "Last Name": "Lemaire",
+        "Maiden Name": "NA",
+        "Full Name at Birth": "Philippe Lemaire",
+        "Alternative Name": "NA",
+        "Birthday": "1927",
+        "Birthplace": "France",
+        "Height": "NA",
+        "Weight": "NA",
+        "Zodiac Sign": "1",
+        "Sexuality": "Straight",
+        "Religion": "1",
+        "Ethnicity": "6",
+        "Nationality": "86",
+        "Occupation": "8"
+    }
+}

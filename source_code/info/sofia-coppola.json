@@ -1,0 +1,77 @@
+{
+    "relationships": [
+        {
+            "name": "Thomas Mars",
+            "href": "https://www.whosdatedwho.com/dating/thomas-mars",
+            "relationship_type": 4,
+            "start_date": "2005",
+            "end_date": "present",
+            "length": "19 years",
+            "start_months_since_1900": 1260,
+            "end_months_since_1900": -1,
+            "length_in_months": 228
+        },
+        {
+            "name": "Quentin Tarantino",
+            "href": "https://www.whosdatedwho.com/dating/quentin-tarantino",
+            "relationship_type": 2,
+            "start_date": "2003",
+            "end_date": "2004",
+            "length": "1 year",
+            "start_months_since_1900": 1236,
+            "end_months_since_1900": 1248,
+            "length_in_months": 12
+        },
+        {
+            "name": "Spike Jonze",
+            "href": "https://www.whosdatedwho.com/dating/spike-jonze",
+            "relationship_type": 4,
+            "start_date": "1993",
+            "end_date": "9th Dec 2003",
+            "length": "10 years",
+            "start_months_since_1900": 1116,
+            "end_months_since_1900": 1247,
+            "length_in_months": 120
+        },
+        {
+            "name": "Anthony Kiedis",
+            "href": "https://www.whosdatedwho.com/dating/anthony-kiedis",
+            "relationship_type": 2,
+            "start_date": "May 1992",
+            "end_date": "1993",
+            "length": "8 months",
+            "start_months_since_1900": 1108,
+            "end_months_since_1900": 1116,
+            "length_in_months": 8
+        },
+        {
+            "name": "Keanu Reeves",
+            "href": "https://www.whosdatedwho.com/dating/keanu-reeves",
+            "relationship_type": 2,
+            "start_date": "Oct 1991",
+            "end_date": "May 1992",
+            "length": "7 months",
+            "start_months_since_1900": 1101,
+            "end_months_since_1900": 1108,
+            "length_in_months": 7
+        }
+    ],
+    "details": {
+        "First Name": "Sofia",
+        "Middle Name": "Carmina",
+        "Last Name": "Mars",
+        "Maiden Name": "Coppola",
+        "Full Name at Birth": "Sofia Carmina Coppola",
+        "Alternative Name": "Domino, Sofia Carmina Coppola, Sofia Coppola",
+        "Birthday": "1971",
+        "Birthplace": "United States",
+        "Height": "166",
+        "Weight": "115lbs (52 kg)",
+        "Zodiac Sign": "3",
+        "Sexuality": "Straight",
+        "Religion": "13",
+        "Ethnicity": "6",
+        "Nationality": "91",
+        "Occupation": "9"
+    }
+}

@@ -1,0 +1,55 @@
+{
+    "relationships": [
+        {
+            "name": "Meghan Markle",
+            "href": "https://www.whosdatedwho.com/dating/meghan-markle",
+            "relationship_type": 3,
+            "start_date": "2013",
+            "end_date": "2013",
+            "length": "-",
+            "start_months_since_1900": 1356,
+            "end_months_since_1900": 1356,
+            "length_in_months": -1
+        },
+        {
+            "name": "Lisa Ann",
+            "href": "https://www.whosdatedwho.com/dating/lisa-ann",
+            "relationship_type": 3,
+            "start_date": "2012",
+            "end_date": "2012",
+            "length": "-",
+            "start_months_since_1900": 1344,
+            "end_months_since_1900": 1344,
+            "length_in_months": -1
+        },
+        {
+            "name": "Amber Rayne",
+            "href": "https://www.whosdatedwho.com/dating/amber-rayne",
+            "relationship_type": 3,
+            "start_date": "",
+            "end_date": "",
+            "length": "-",
+            "start_months_since_1900": -1,
+            "end_months_since_1900": -1,
+            "length_in_months": -1
+        }
+    ],
+    "details": {
+        "First Name": "Michael",
+        "Middle Name": "NA",
+        "Last Name": "Del Zotto",
+        "Maiden Name": "NA",
+        "Full Name at Birth": "NA",
+        "Alternative Name": "NA",
+        "Birthday": "1990",
+        "Birthplace": "Ontario",
+        "Height": "185",
+        "Weight": "195lbs (88 kg)",
+        "Zodiac Sign": "8",
+        "Sexuality": "Straight",
+        "Religion": "1",
+        "Ethnicity": "6",
+        "Nationality": "90",
+        "Occupation": "2"
+    }
+}

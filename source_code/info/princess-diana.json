@@ -1,0 +1,132 @@
+{
+    "relationships": [
+        {
+            "name": "Dodi Fayed",
+            "href": "https://www.whosdatedwho.com/dating/dodi-fayed",
+            "relationship_type": 2,
+            "start_date": "Jun 1997",
+            "end_date": "Aug 1997",
+            "length": "2 months",
+            "start_months_since_1900": 1169,
+            "end_months_since_1900": 1171,
+            "length_in_months": 2
+        },
+        {
+            "name": "Bryan Adams",
+            "href": "https://www.whosdatedwho.com/dating/bryan-adams",
+            "relationship_type": 2,
+            "start_date": "1996",
+            "end_date": "1996",
+            "length": "-",
+            "start_months_since_1900": 1152,
+            "end_months_since_1900": 1152,
+            "length_in_months": -1
+        },
+        {
+            "name": "Hasnat Khan",
+            "href": "https://www.whosdatedwho.com/dating/hasnat-khan",
+            "relationship_type": 2,
+            "start_date": "Sep 1995",
+            "end_date": "Jul 1997",
+            "length": "1 year",
+            "start_months_since_1900": 1148,
+            "end_months_since_1900": 1170,
+            "length_in_months": 12
+        },
+        {
+            "name": "John Kennedy Jr.",
+            "href": "https://www.whosdatedwho.com/dating/john-kennedy-jr",
+            "relationship_type": 3,
+            "start_date": "1995",
+            "end_date": "1995",
+            "length": "-",
+            "start_months_since_1900": 1140,
+            "end_months_since_1900": 1140,
+            "length_in_months": -1
+        },
+        {
+            "name": "Theodore Forstmann",
+            "href": "https://www.whosdatedwho.com/dating/theodore-forstmann",
+            "relationship_type": 3,
+            "start_date": "1994",
+            "end_date": "1995",
+            "length": "1 year",
+            "start_months_since_1900": 1128,
+            "end_months_since_1900": 1140,
+            "length_in_months": 12
+        },
+        {
+            "name": "Will Carling",
+            "href": "https://www.whosdatedwho.com/dating/will-carling",
+            "relationship_type": 3,
+            "start_date": "1992",
+            "end_date": "1992",
+            "length": "-",
+            "start_months_since_1900": 1104,
+            "end_months_since_1900": 1104,
+            "length_in_months": -1
+        },
+        {
+            "name": "James Gilbey",
+            "href": "https://www.whosdatedwho.com/dating/james-gilbey",
+            "relationship_type": 3,
+            "start_date": "1991",
+            "end_date": "1991",
+            "length": "-",
+            "start_months_since_1900": 1092,
+            "end_months_since_1900": 1092,
+            "length_in_months": -1
+        },
+        {
+            "name": "Oliver Reginald Hoare",
+            "href": "https://www.whosdatedwho.com/dating/oliver-reginald-hoare",
+            "relationship_type": 2,
+            "start_date": "1991",
+            "end_date": "Mar 1995",
+            "length": "4 years",
+            "start_months_since_1900": 1092,
+            "end_months_since_1900": 1142,
+            "length_in_months": 48
+        },
+        {
+            "name": "James Hewitt",
+            "href": "https://www.whosdatedwho.com/dating/james-hewitt",
+            "relationship_type": 2,
+            "start_date": "Apr 1986",
+            "end_date": "Sep 1991",
+            "length": "5 years",
+            "start_months_since_1900": 1035,
+            "end_months_since_1900": 1100,
+            "length_in_months": 60
+        },
+        {
+            "name": "King Charles III",
+            "href": "https://www.whosdatedwho.com/dating/prince-charles",
+            "relationship_type": 4,
+            "start_date": "Sep 1980",
+            "end_date": "Aug 1996",
+            "length": "15 years",
+            "start_months_since_1900": 968,
+            "end_months_since_1900": 1159,
+            "length_in_months": 180
+        }
+    ],
+    "details": {
+        "First Name": "Diana",
+        "Middle Name": "Frances",
+        "Last Name": "Spencer",
+        "Maiden Name": "NA",
+        "Full Name at Birth": "Diana Frances Spencer",
+        "Alternative Name": "Diana Princess of Wales, Diana, Princess of Wales, Lady Di, People\u2019s Princess, The Queen of Hearts, The Princess of Hearts, Shy Di, England\u2019s Rose, Princess Di, Diana Spencer, Diana Frances Spencer",
+        "Birthday": "1961",
+        "Birthplace": "UK",
+        "Height": "178",
+        "Weight": "130lbs (59 kg)",
+        "Zodiac Sign": "8",
+        "Sexuality": "Straight",
+        "Religion": "37",
+        "Ethnicity": "6",
+        "Nationality": "8",
+        "Occupation": "18"
+    }
+}

@@ -1,0 +1,55 @@
+{
+    "relationships": [
+        {
+            "name": "DeAndre Hopkins",
+            "href": "https://www.whosdatedwho.com/dating/deandre-hopkins",
+            "relationship_type": 2,
+            "start_date": "Sep 2016",
+            "end_date": "Nov 2018",
+            "length": "2 years",
+            "start_months_since_1900": 1400,
+            "end_months_since_1900": 1426,
+            "length_in_months": 24
+        },
+        {
+            "name": "Tyga",
+            "href": "https://www.whosdatedwho.com/dating/tyga",
+            "relationship_type": 3,
+            "start_date": "Jun 2016",
+            "end_date": "Jun 2016",
+            "length": "-",
+            "start_months_since_1900": 1397,
+            "end_months_since_1900": 1397,
+            "length_in_months": -1
+        },
+        {
+            "name": "Rob Kardashian",
+            "href": "https://www.whosdatedwho.com/dating/rob-kardashian",
+            "relationship_type": 2,
+            "start_date": "2014",
+            "end_date": "2015",
+            "length": "1 year",
+            "start_months_since_1900": 1368,
+            "end_months_since_1900": 1380,
+            "length_in_months": 12
+        }
+    ],
+    "details": {
+        "First Name": "Amina",
+        "Middle Name": "NA",
+        "Last Name": "Blue",
+        "Maiden Name": "NA",
+        "Full Name at Birth": "Amina Blue",
+        "Alternative Name": "NA",
+        "Birthday": "1993",
+        "Birthplace": "USA",
+        "Height": "155",
+        "Weight": "119lbs (54 kg)",
+        "Zodiac Sign": "7",
+        "Sexuality": "Straight",
+        "Religion": "18",
+        "Ethnicity": "8",
+        "Nationality": "91",
+        "Occupation": "15"
+    }
+}

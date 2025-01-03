@@ -1,0 +1,77 @@
+{
+    "relationships": [
+        {
+            "name": "Deion Sanders",
+            "href": "https://www.whosdatedwho.com/dating/deion-sanders",
+            "relationship_type": 2,
+            "start_date": "Jan 2024",
+            "end_date": "present",
+            "length": "8 months",
+            "start_months_since_1900": 1488,
+            "end_months_since_1900": -1,
+            "length_in_months": 8
+        },
+        {
+            "name": "Drake",
+            "href": "https://www.whosdatedwho.com/dating/aubrey-graham",
+            "relationship_type": 2,
+            "start_date": "May 2021",
+            "end_date": "Jun 2021",
+            "length": "1 month",
+            "start_months_since_1900": 1456,
+            "end_months_since_1900": 1457,
+            "length_in_months": 1
+        },
+        {
+            "name": "Ben Simmons",
+            "href": "https://www.whosdatedwho.com/dating/ben-simmons-basketball",
+            "relationship_type": 2,
+            "start_date": "Oct 2020",
+            "end_date": "Feb 2021",
+            "length": "4 months",
+            "start_months_since_1900": 1449,
+            "end_months_since_1900": 1453,
+            "length_in_months": 4
+        },
+        {
+            "name": "Lonzo Ball",
+            "href": "https://www.whosdatedwho.com/dating/lonzo-ball",
+            "relationship_type": 2,
+            "start_date": "Feb 2020",
+            "end_date": "Sep 2020",
+            "length": "7 months",
+            "start_months_since_1900": 1441,
+            "end_months_since_1900": 1448,
+            "length_in_months": 7
+        },
+        {
+            "name": "Jordan Clarkson",
+            "href": "https://www.whosdatedwho.com/dating/jordan-clarkson",
+            "relationship_type": 2,
+            "start_date": "2020",
+            "end_date": "Jul 2021",
+            "length": "1 year",
+            "start_months_since_1900": 1440,
+            "end_months_since_1900": 1458,
+            "length_in_months": 12
+        }
+    ],
+    "details": {
+        "First Name": "Jasmine",
+        "Middle Name": "NA",
+        "Last Name": "Rae",
+        "Maiden Name": "NA",
+        "Full Name at Birth": "Jasmine Rae",
+        "Alternative Name": "NA",
+        "Birthday": "1995",
+        "Birthplace": "USA",
+        "Height": "173",
+        "Weight": "114lbs (52 kg)",
+        "Zodiac Sign": "12",
+        "Sexuality": "Straight",
+        "Religion": "1",
+        "Ethnicity": "8",
+        "Nationality": "91",
+        "Occupation": "15"
+    }
+}

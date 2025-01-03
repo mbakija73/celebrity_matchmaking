@@ -1,0 +1,44 @@
+{
+    "relationships": [
+        {
+            "name": "Julian",
+            "href": "https://www.whosdatedwho.com/dating/julian",
+            "relationship_type": 3,
+            "start_date": "2003",
+            "end_date": "2003",
+            "length": "-",
+            "start_months_since_1900": 1236,
+            "end_months_since_1900": 1236,
+            "length_in_months": -1
+        },
+        {
+            "name": "Lexington Steele",
+            "href": "https://www.whosdatedwho.com/dating/lexington-steele",
+            "relationship_type": 3,
+            "start_date": "2002",
+            "end_date": "2002",
+            "length": "-",
+            "start_months_since_1900": 1224,
+            "end_months_since_1900": 1224,
+            "length_in_months": -1
+        }
+    ],
+    "details": {
+        "First Name": "Amee",
+        "Middle Name": "NA",
+        "Last Name": "Donovan",
+        "Maiden Name": "NA",
+        "Full Name at Birth": "Jennifer Wheaton",
+        "Alternative Name": "Amee Donavan, Amy Donavan",
+        "Birthday": "1980",
+        "Birthplace": "Ohio",
+        "Height": "152",
+        "Weight": "NA",
+        "Zodiac Sign": "11",
+        "Sexuality": "NA",
+        "Religion": "1",
+        "Ethnicity": "6",
+        "Nationality": "91",
+        "Occupation": "16"
+    }
+}

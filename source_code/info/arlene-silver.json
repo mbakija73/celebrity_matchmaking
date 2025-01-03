@@ -1,0 +1,33 @@
+{
+    "relationships": [
+        {
+            "name": "Dick Van Dyke",
+            "href": "https://www.whosdatedwho.com/dating/dick-van-dyke",
+            "relationship_type": 4,
+            "start_date": "2006",
+            "end_date": "present",
+            "length": "18 years",
+            "start_months_since_1900": 1272,
+            "end_months_since_1900": -1,
+            "length_in_months": 216
+        }
+    ],
+    "details": {
+        "First Name": "Arlene",
+        "Middle Name": "NA",
+        "Last Name": "Van Dyke",
+        "Maiden Name": "Silver",
+        "Full Name at Birth": "Arlene Silver",
+        "Alternative Name": "Arlene Silver, Arlene Silver-Van Dyke, Arlene Van Dyke",
+        "Birthday": "1971",
+        "Birthplace": "NA",
+        "Height": "NA",
+        "Weight": "NA",
+        "Zodiac Sign": "2",
+        "Sexuality": "Straight",
+        "Religion": "1",
+        "Ethnicity": "6",
+        "Nationality": "91",
+        "Occupation": "9"
+    }
+}

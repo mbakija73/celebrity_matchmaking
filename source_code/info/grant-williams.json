@@ -1,0 +1,55 @@
+{
+    "relationships": [
+        {
+            "name": "Anne Helm",
+            "href": "https://www.whosdatedwho.com/dating/anne-helm",
+            "relationship_type": 2,
+            "start_date": "May 1961",
+            "end_date": "Jul 1961",
+            "length": "2 months",
+            "start_months_since_1900": 736,
+            "end_months_since_1900": 738,
+            "length_in_months": 2
+        },
+        {
+            "name": "Wanda Hendrix",
+            "href": "https://www.whosdatedwho.com/dating/wanda-hendrix",
+            "relationship_type": 2,
+            "start_date": "Jan 1961",
+            "end_date": "Feb 1961",
+            "length": "1 month",
+            "start_months_since_1900": 732,
+            "end_months_since_1900": 733,
+            "length_in_months": 1
+        },
+        {
+            "name": "Martha Hyer",
+            "href": "https://www.whosdatedwho.com/dating/martha-hyer",
+            "relationship_type": 2,
+            "start_date": "Oct 1955",
+            "end_date": "Nov 1955",
+            "length": "1 month",
+            "start_months_since_1900": 669,
+            "end_months_since_1900": 670,
+            "length_in_months": 1
+        }
+    ],
+    "details": {
+        "First Name": "Grant",
+        "Middle Name": "NA",
+        "Last Name": "Williams",
+        "Maiden Name": "NA",
+        "Full Name at Birth": "John Grant Williams",
+        "Alternative Name": "NA",
+        "Birthday": "1930",
+        "Birthplace": "New York",
+        "Height": "NA",
+        "Weight": "NA",
+        "Zodiac Sign": "12",
+        "Sexuality": "Straight",
+        "Religion": "1",
+        "Ethnicity": "6",
+        "Nationality": "91",
+        "Occupation": "8"
+    }
+}

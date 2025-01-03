@@ -1,0 +1,44 @@
+{
+    "relationships": [
+        {
+            "name": "Erika Mann",
+            "href": "https://www.whosdatedwho.com/dating/erika-mann",
+            "relationship_type": 1,
+            "start_date": "",
+            "end_date": "",
+            "length": "-",
+            "start_months_since_1900": -1,
+            "end_months_since_1900": -1,
+            "length_in_months": -1
+        },
+        {
+            "name": "John Hampson (novelist)",
+            "href": "https://www.whosdatedwho.com/dating/john-hampson-novelist",
+            "relationship_type": 4,
+            "start_date": "1935",
+            "end_date": "Mar 1975",
+            "length": "40 years",
+            "start_months_since_1900": 420,
+            "end_months_since_1900": 902,
+            "length_in_months": 480
+        }
+    ],
+    "details": {
+        "First Name": "Therese",
+        "Middle Name": "NA",
+        "Last Name": "Giehse",
+        "Maiden Name": "Gift",
+        "Full Name at Birth": "Therese Gift",
+        "Alternative Name": "NA",
+        "Birthday": "1898",
+        "Birthplace": "Germany",
+        "Height": "NA",
+        "Weight": "NA",
+        "Zodiac Sign": "1",
+        "Sexuality": "Lesbian",
+        "Religion": "31",
+        "Ethnicity": "6",
+        "Nationality": "55",
+        "Occupation": "8"
+    }
+}

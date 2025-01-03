@@ -1,0 +1,77 @@
+{
+    "relationships": [
+        {
+            "name": "John Cusack",
+            "href": "https://www.whosdatedwho.com/dating/john-cusack",
+            "relationship_type": 2,
+            "start_date": "Apr 2003",
+            "end_date": "Apr 2009",
+            "length": "6 years",
+            "start_months_since_1900": 1239,
+            "end_months_since_1900": 1311,
+            "length_in_months": 72
+        },
+        {
+            "name": "Michael Des Barres",
+            "href": "https://www.whosdatedwho.com/dating/michael-des-barres",
+            "relationship_type": 2,
+            "start_date": "Dec 2002",
+            "end_date": "May 2005",
+            "length": "2 years",
+            "start_months_since_1900": 1235,
+            "end_months_since_1900": 1264,
+            "length_in_months": 24
+        },
+        {
+            "name": "Jaime Gomez",
+            "href": "https://www.whosdatedwho.com/dating/jaime-gomez",
+            "relationship_type": 2,
+            "start_date": "May 1998",
+            "end_date": "Mar 2000",
+            "length": "1 year",
+            "start_months_since_1900": 1180,
+            "end_months_since_1900": 1202,
+            "length_in_months": 12
+        },
+        {
+            "name": "Don Johnson",
+            "href": "https://www.whosdatedwho.com/dating/don-johnson",
+            "relationship_type": 2,
+            "start_date": "1997",
+            "end_date": "Mar 1998",
+            "length": "1 year",
+            "start_months_since_1900": 1164,
+            "end_months_since_1900": 1178,
+            "length_in_months": 12
+        },
+        {
+            "name": "Al Santos",
+            "href": "https://www.whosdatedwho.com/dating/al-santos",
+            "relationship_type": 2,
+            "start_date": "1995",
+            "end_date": "1995",
+            "length": "-",
+            "start_months_since_1900": 1140,
+            "end_months_since_1900": 1140,
+            "length_in_months": -1
+        }
+    ],
+    "details": {
+        "First Name": "Jodi",
+        "Middle Name": "Lynn",
+        "Last Name": "NA",
+        "Maiden Name": "O'Keefe",
+        "Full Name at Birth": "Jodi Lynn O`Keefe",
+        "Alternative Name": "Jodi O'Keefe",
+        "Birthday": "1978",
+        "Birthplace": "USA",
+        "Height": "175",
+        "Weight": "126lbs (57 kg)",
+        "Zodiac Sign": "10",
+        "Sexuality": "Straight",
+        "Religion": "13",
+        "Ethnicity": "6",
+        "Nationality": "91",
+        "Occupation": "8"
+    }
+}

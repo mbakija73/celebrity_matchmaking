@@ -1,0 +1,55 @@
+{
+    "relationships": [
+        {
+            "name": "Dasha Romanova",
+            "href": "https://www.whosdatedwho.com/dating/dasha-romanova",
+            "relationship_type": 2,
+            "start_date": "Jul 2020",
+            "end_date": "present",
+            "length": "4 years",
+            "start_months_since_1900": 1446,
+            "end_months_since_1900": -1,
+            "length_in_months": 48
+        },
+        {
+            "name": "Celeste Cortesi",
+            "href": "https://www.whosdatedwho.com/dating/celeste-cortesi",
+            "relationship_type": 2,
+            "start_date": "2019",
+            "end_date": "2020",
+            "length": "1 year",
+            "start_months_since_1900": 1428,
+            "end_months_since_1900": 1440,
+            "length_in_months": 12
+        },
+        {
+            "name": "Empress Schuck",
+            "href": "https://www.whosdatedwho.com/dating/empress-schuck",
+            "relationship_type": 2,
+            "start_date": "Sep 2013",
+            "end_date": "2014",
+            "length": "4 months",
+            "start_months_since_1900": 1364,
+            "end_months_since_1900": 1368,
+            "length_in_months": 4
+        }
+    ],
+    "details": {
+        "First Name": "Joseph",
+        "Middle Name": "Cecil",
+        "Last Name": "Marco",
+        "Maiden Name": "NA",
+        "Full Name at Birth": "Joseph Cecil Marco",
+        "Alternative Name": "Joey, Oatz",
+        "Birthday": "1988",
+        "Birthplace": "Philippines",
+        "Height": "173",
+        "Weight": "NA",
+        "Zodiac Sign": "10",
+        "Sexuality": "Straight",
+        "Religion": "13",
+        "Ethnicity": "8",
+        "Nationality": "16",
+        "Occupation": "8"
+    }
+}

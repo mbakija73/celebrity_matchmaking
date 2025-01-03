@@ -1,0 +1,44 @@
+{
+    "relationships": [
+        {
+            "name": "Lita Baron",
+            "href": "https://www.whosdatedwho.com/dating/lita-baron",
+            "relationship_type": 2,
+            "start_date": "Jan 1972",
+            "end_date": "Nov 1974",
+            "length": "2 years",
+            "start_months_since_1900": 864,
+            "end_months_since_1900": 898,
+            "length_in_months": 24
+        },
+        {
+            "name": "Gracie Allen",
+            "href": "https://www.whosdatedwho.com/dating/gracie-allen",
+            "relationship_type": 4,
+            "start_date": "1925",
+            "end_date": "Aug 1964",
+            "length": "39 years",
+            "start_months_since_1900": 300,
+            "end_months_since_1900": 775,
+            "length_in_months": 468
+        }
+    ],
+    "details": {
+        "First Name": "George",
+        "Middle Name": "NA",
+        "Last Name": "Burns",
+        "Maiden Name": "NA",
+        "Full Name at Birth": "Nathan Birnbaum",
+        "Alternative Name": "Nattie, Smiling Frankie Davis, Willy Delight, Buddy Links, Captain Betts, Nathan Birnbaum, George Burns",
+        "Birthday": "1896",
+        "Birthplace": "USA",
+        "Height": "170",
+        "Weight": "NA",
+        "Zodiac Sign": "13",
+        "Sexuality": "Straight",
+        "Religion": "31",
+        "Ethnicity": "6",
+        "Nationality": "91",
+        "Occupation": "8"
+    }
+}

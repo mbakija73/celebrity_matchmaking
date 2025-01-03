@@ -1,0 +1,66 @@
+{
+    "relationships": [
+        {
+            "name": "Billy Rose",
+            "href": "https://www.whosdatedwho.com/dating/billy-rose",
+            "relationship_type": 4,
+            "start_date": "Nov 1962",
+            "end_date": "10th Sep 1964",
+            "length": "1 year",
+            "start_months_since_1900": 754,
+            "end_months_since_1900": 776,
+            "length_in_months": 12
+        },
+        {
+            "name": "Mervyn LeRoy",
+            "href": "https://www.whosdatedwho.com/dating/mervyn-leroy",
+            "relationship_type": 4,
+            "start_date": "1933",
+            "end_date": "Aug 1945",
+            "length": "12 years",
+            "start_months_since_1900": 396,
+            "end_months_since_1900": 547,
+            "length_in_months": 144
+        },
+        {
+            "name": "Ricardo Cortez",
+            "href": "https://www.whosdatedwho.com/dating/ricardo-cortez",
+            "relationship_type": 2,
+            "start_date": "Oct 1932",
+            "end_date": "Nov 1932",
+            "length": "1 month",
+            "start_months_since_1900": 393,
+            "end_months_since_1900": 394,
+            "length_in_months": 1
+        },
+        {
+            "name": "Charles Vidor",
+            "href": "https://www.whosdatedwho.com/dating/charles-vidor",
+            "relationship_type": 4,
+            "start_date": "",
+            "end_date": "",
+            "length": "-",
+            "start_months_since_1900": -1,
+            "end_months_since_1900": -1,
+            "length_in_months": -1
+        }
+    ],
+    "details": {
+        "First Name": "Doris",
+        "Middle Name": "NA",
+        "Last Name": "Warner",
+        "Maiden Name": "NA",
+        "Full Name at Birth": "NA",
+        "Alternative Name": "NA",
+        "Birthday": "NA",
+        "Birthplace": "NA",
+        "Height": "NA",
+        "Weight": "NA",
+        "Zodiac Sign": "2",
+        "Sexuality": "NA",
+        "Religion": "1",
+        "Ethnicity": "1",
+        "Nationality": "65",
+        "Occupation": "18"
+    }
+}

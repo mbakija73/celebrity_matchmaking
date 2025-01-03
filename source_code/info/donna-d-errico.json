@@ -1,0 +1,55 @@
+{
+    "relationships": [
+        {
+            "name": "DJ Friese",
+            "href": "https://www.whosdatedwho.com/dating/dj-friese",
+            "relationship_type": 2,
+            "start_date": "2018",
+            "end_date": "2018",
+            "length": "-",
+            "start_months_since_1900": 1416,
+            "end_months_since_1900": 1416,
+            "length_in_months": -1
+        },
+        {
+            "name": "Nikki Sixx",
+            "href": "https://www.whosdatedwho.com/dating/nikki-sixx",
+            "relationship_type": 4,
+            "start_date": "Sep 1996",
+            "end_date": "Jun 2007",
+            "length": "10 years",
+            "start_months_since_1900": 1160,
+            "end_months_since_1900": 1289,
+            "length_in_months": 120
+        },
+        {
+            "name": "Russell Simmons",
+            "href": "https://www.whosdatedwho.com/dating/russell-simmons",
+            "relationship_type": 3,
+            "start_date": "",
+            "end_date": "",
+            "length": "-",
+            "start_months_since_1900": -1,
+            "end_months_since_1900": -1,
+            "length_in_months": -1
+        }
+    ],
+    "details": {
+        "First Name": "Donna",
+        "Middle Name": "Jeanette",
+        "Last Name": "D'Errico",
+        "Maiden Name": "NA",
+        "Full Name at Birth": "Donna Jeanette D`Errico",
+        "Alternative Name": "Donna D`Errico-Sixx, Donna Sixx, Miss September 1995, Donna D'Errico, Donna Jeanette D`Errico, Donna",
+        "Birthday": "1968",
+        "Birthplace": "USA",
+        "Height": "161",
+        "Weight": "132lbs (60 kg)",
+        "Zodiac Sign": "7",
+        "Sexuality": "Straight",
+        "Religion": "13",
+        "Ethnicity": "6",
+        "Nationality": "91",
+        "Occupation": "8"
+    }
+}

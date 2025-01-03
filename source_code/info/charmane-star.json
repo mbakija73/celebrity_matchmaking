@@ -1,0 +1,77 @@
+{
+    "relationships": [
+        {
+            "name": "Evan Seinfeld",
+            "href": "https://www.whosdatedwho.com/dating/evan-seinfeld",
+            "relationship_type": 3,
+            "start_date": "2004",
+            "end_date": "2004",
+            "length": "-",
+            "start_months_since_1900": 1248,
+            "end_months_since_1900": 1248,
+            "length_in_months": -1
+        },
+        {
+            "name": "Cheyenne Silver",
+            "href": "https://www.whosdatedwho.com/dating/cheyenne-silver",
+            "relationship_type": 3,
+            "start_date": "1999",
+            "end_date": "1999",
+            "length": "-",
+            "start_months_since_1900": 1188,
+            "end_months_since_1900": 1188,
+            "length_in_months": -1
+        },
+        {
+            "name": "Tera Patrick",
+            "href": "https://www.whosdatedwho.com/dating/tera-patrick",
+            "relationship_type": 3,
+            "start_date": "",
+            "end_date": "",
+            "length": "-",
+            "start_months_since_1900": -1,
+            "end_months_since_1900": -1,
+            "length_in_months": -1
+        },
+        {
+            "name": "Randy West",
+            "href": "https://www.whosdatedwho.com/dating/randy-west",
+            "relationship_type": 2,
+            "start_date": "",
+            "end_date": "",
+            "length": "-",
+            "start_months_since_1900": -1,
+            "end_months_since_1900": -1,
+            "length_in_months": -1
+        },
+        {
+            "name": "Barrett Blade",
+            "href": "https://www.whosdatedwho.com/dating/barrett-blade",
+            "relationship_type": 3,
+            "start_date": "",
+            "end_date": "",
+            "length": "-",
+            "start_months_since_1900": -1,
+            "end_months_since_1900": -1,
+            "length_in_months": -1
+        }
+    ],
+    "details": {
+        "First Name": "Charmane",
+        "Middle Name": "NA",
+        "Last Name": "Star",
+        "Maiden Name": "NA",
+        "Full Name at Birth": "Sheryn Santos Lascano",
+        "Alternative Name": "Charmaine, Charmane, Charmaine Starr, Charmain, Sheryn Lascano, Carmane Star, Charmaine Star, Charmain Star, Charmain Starr, Charmane Starr, Charmane Summer, Sheryn Santos Lascano",
+        "Birthday": "1979",
+        "Birthplace": "Philippines",
+        "Height": "152",
+        "Weight": "99lbs (45 kg)",
+        "Zodiac Sign": "3",
+        "Sexuality": "Bisexual",
+        "Religion": "1",
+        "Ethnicity": "3",
+        "Nationality": "91",
+        "Occupation": "16"
+    }
+}

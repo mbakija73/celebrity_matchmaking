@@ -1,0 +1,88 @@
+{
+    "relationships": [
+        {
+            "name": "Rita Gam",
+            "href": "https://www.whosdatedwho.com/dating/rita-gam",
+            "relationship_type": 2,
+            "start_date": "Oct 1964",
+            "end_date": "Oct 1964",
+            "length": "-",
+            "start_months_since_1900": 777,
+            "end_months_since_1900": 777,
+            "length_in_months": -1
+        },
+        {
+            "name": "Eva Six",
+            "href": "https://www.whosdatedwho.com/dating/eva-six",
+            "relationship_type": 2,
+            "start_date": "Feb 1961",
+            "end_date": "Feb 1964",
+            "length": "3 years",
+            "start_months_since_1900": 733,
+            "end_months_since_1900": 769,
+            "length_in_months": 36
+        },
+        {
+            "name": "Bella Darvi",
+            "href": "https://www.whosdatedwho.com/dating/bella-darvi",
+            "relationship_type": 2,
+            "start_date": "Nov 1955",
+            "end_date": "Dec 1955",
+            "length": "1 month",
+            "start_months_since_1900": 670,
+            "end_months_since_1900": 671,
+            "length_in_months": 1
+        },
+        {
+            "name": "Gail Whitney",
+            "href": "https://www.whosdatedwho.com/dating/gail-whitney",
+            "relationship_type": 4,
+            "start_date": "",
+            "end_date": "",
+            "length": "-",
+            "start_months_since_1900": -1,
+            "end_months_since_1900": -1,
+            "length_in_months": -1
+        },
+        {
+            "name": "Arlene Dahl",
+            "href": "https://www.whosdatedwho.com/dating/arlene-dahl",
+            "relationship_type": 2,
+            "start_date": "",
+            "end_date": "",
+            "length": "-",
+            "start_months_since_1900": -1,
+            "end_months_since_1900": -1,
+            "length_in_months": -1
+        },
+        {
+            "name": "Ava Gardner",
+            "href": "https://www.whosdatedwho.com/dating/ava-gardner",
+            "relationship_type": 3,
+            "start_date": "",
+            "end_date": "",
+            "length": "-",
+            "start_months_since_1900": -1,
+            "end_months_since_1900": -1,
+            "length_in_months": -1
+        }
+    ],
+    "details": {
+        "First Name": "Dick",
+        "Middle Name": "NA",
+        "Last Name": "Cowell",
+        "Maiden Name": "NA",
+        "Full Name at Birth": "Richard Cowell",
+        "Alternative Name": "NA",
+        "Birthday": "1927",
+        "Birthplace": "NA",
+        "Height": "NA",
+        "Weight": "NA",
+        "Zodiac Sign": "2",
+        "Sexuality": "NA",
+        "Religion": "1",
+        "Ethnicity": "6",
+        "Nationality": "65",
+        "Occupation": "19"
+    }
+}

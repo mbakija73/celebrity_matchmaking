@@ -1,0 +1,88 @@
+{
+    "relationships": [
+        {
+            "name": "Dua Lipa",
+            "href": "https://www.whosdatedwho.com/dating/dua-lipa",
+            "relationship_type": 2,
+            "start_date": "Dec 2022",
+            "end_date": "Feb 2023",
+            "length": "2 months",
+            "start_months_since_1900": 1475,
+            "end_months_since_1900": 1477,
+            "length_in_months": 2
+        },
+        {
+            "name": "Rebecca Donaldson",
+            "href": "https://www.whosdatedwho.com/dating/rebecca-donaldson",
+            "relationship_type": 2,
+            "start_date": "Aug 2022",
+            "end_date": "",
+            "length": "-",
+            "start_months_since_1900": 1471,
+            "end_months_since_1900": -1,
+            "length_in_months": -1
+        },
+        {
+            "name": "Chloe Bailey",
+            "href": "https://www.whosdatedwho.com/dating/chloe-bailey",
+            "relationship_type": 2,
+            "start_date": "Aug 2021",
+            "end_date": "Aug 2021",
+            "length": "-",
+            "start_months_since_1900": 1459,
+            "end_months_since_1900": 1459,
+            "length_in_months": -1
+        },
+        {
+            "name": "Addison Rae",
+            "href": "https://www.whosdatedwho.com/dating/addison-rae",
+            "relationship_type": 1,
+            "start_date": "Apr 2021",
+            "end_date": "Apr 2021",
+            "length": "-",
+            "start_months_since_1900": 1455,
+            "end_months_since_1900": 1455,
+            "length_in_months": -1
+        },
+        {
+            "name": "Emily Ratajkowski",
+            "href": "https://www.whosdatedwho.com/dating/emily-ratajkowski",
+            "relationship_type": 1,
+            "start_date": "",
+            "end_date": "",
+            "length": "-",
+            "start_months_since_1900": -1,
+            "end_months_since_1900": -1,
+            "length_in_months": -1
+        },
+        {
+            "name": "SZA",
+            "href": "https://www.whosdatedwho.com/dating/sza-singer",
+            "relationship_type": 1,
+            "start_date": "",
+            "end_date": "",
+            "length": "-",
+            "start_months_since_1900": -1,
+            "end_months_since_1900": -1,
+            "length_in_months": -1
+        }
+    ],
+    "details": {
+        "First Name": "Jack",
+        "Middle Name": "Willie Thomas",
+        "Last Name": "Harlow",
+        "Maiden Name": "NA",
+        "Full Name at Birth": "Jackman Willie Thomas Harlow",
+        "Alternative Name": "Jack, Jack Harlow, Jackman Thomas Harlow, Jackman Willie Thomas Harlow",
+        "Birthday": "1998",
+        "Birthplace": "USA",
+        "Height": "178",
+        "Weight": "176lbs (80 kg)",
+        "Zodiac Sign": "1",
+        "Sexuality": "Straight",
+        "Religion": "1",
+        "Ethnicity": "6",
+        "Nationality": "91",
+        "Occupation": "1"
+    }
+}

@@ -1,0 +1,16 @@
+{
+    "relationships": [
+        {
+            "name": "Sofia Richie",
+            "href": "https://www.whosdatedwho.com/dating/sofia-richie",
+            "relationship_type": 2,
+            "start_date": "Mar 2016",
+            "end_date": "Jul 2016",
+            "length": "4 months",
+            "start_months_since_1900": 1394,
+            "end_months_since_1900": 1398,
+            "length_in_months": 4
+        }
+    ],
+    "details": {}
+}

@@ -1,0 +1,66 @@
+{
+    "relationships": [
+        {
+            "name": "Jane Auer",
+            "href": "https://www.whosdatedwho.com/dating/jane-auer",
+            "relationship_type": 4,
+            "start_date": "1937",
+            "end_date": "May 1973",
+            "length": "36 years",
+            "start_months_since_1900": 444,
+            "end_months_since_1900": 880,
+            "length_in_months": 432
+        },
+        {
+            "name": "Gavin Lambert",
+            "href": "https://www.whosdatedwho.com/dating/gavin-lambert",
+            "relationship_type": 2,
+            "start_date": "",
+            "end_date": "",
+            "length": "-",
+            "start_months_since_1900": -1,
+            "end_months_since_1900": -1,
+            "length_in_months": -1
+        },
+        {
+            "name": "Carson McCullers",
+            "href": "https://www.whosdatedwho.com/dating/carson-mccullers",
+            "relationship_type": 1,
+            "start_date": "",
+            "end_date": "",
+            "length": "-",
+            "start_months_since_1900": -1,
+            "end_months_since_1900": -1,
+            "length_in_months": -1
+        },
+        {
+            "name": "George Davis (editor)",
+            "href": "https://www.whosdatedwho.com/dating/george-davis-editor",
+            "relationship_type": 3,
+            "start_date": "",
+            "end_date": "",
+            "length": "-",
+            "start_months_since_1900": -1,
+            "end_months_since_1900": -1,
+            "length_in_months": -1
+        }
+    ],
+    "details": {
+        "First Name": "Paul",
+        "Middle Name": "Frederic",
+        "Last Name": "Bowles",
+        "Maiden Name": "NA",
+        "Full Name at Birth": "Paul Frederic Bowles",
+        "Alternative Name": "NA",
+        "Birthday": "1910",
+        "Birthplace": "New York",
+        "Height": "NA",
+        "Weight": "NA",
+        "Zodiac Sign": "13",
+        "Sexuality": "Bisexual",
+        "Religion": "1",
+        "Ethnicity": "6",
+        "Nationality": "91",
+        "Occupation": "1"
+    }
+}

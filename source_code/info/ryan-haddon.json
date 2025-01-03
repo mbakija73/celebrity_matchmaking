@@ -1,0 +1,44 @@
+{
+    "relationships": [
+        {
+            "name": "Marc Blucas",
+            "href": "https://www.whosdatedwho.com/dating/marc-blucas",
+            "relationship_type": 4,
+            "start_date": "2008",
+            "end_date": "present",
+            "length": "16 years",
+            "start_months_since_1900": 1296,
+            "end_months_since_1900": -1,
+            "length_in_months": 192
+        },
+        {
+            "name": "Christian Slater",
+            "href": "https://www.whosdatedwho.com/dating/christian-slater",
+            "relationship_type": 4,
+            "start_date": "Feb 1998",
+            "end_date": "Nov 2006",
+            "length": "8 years",
+            "start_months_since_1900": 1177,
+            "end_months_since_1900": 1282,
+            "length_in_months": 96
+        }
+    ],
+    "details": {
+        "First Name": "Ryan",
+        "Middle Name": "NA",
+        "Last Name": "Blucas",
+        "Maiden Name": "Haddon",
+        "Full Name at Birth": "Ryan Haddon",
+        "Alternative Name": "NA",
+        "Birthday": "1971",
+        "Birthplace": "United States",
+        "Height": "168",
+        "Weight": "NA",
+        "Zodiac Sign": "7",
+        "Sexuality": "Straight",
+        "Religion": "1",
+        "Ethnicity": "6",
+        "Nationality": "91",
+        "Occupation": "3"
+    }
+}

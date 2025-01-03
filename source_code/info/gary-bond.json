@@ -1,0 +1,44 @@
+{
+    "relationships": [
+        {
+            "name": "EJ Taylor",
+            "href": "https://www.whosdatedwho.com/dating/ej-taylor",
+            "relationship_type": 2,
+            "start_date": "1979",
+            "end_date": "1995",
+            "length": "16 years",
+            "start_months_since_1900": 948,
+            "end_months_since_1900": 1140,
+            "length_in_months": 192
+        },
+        {
+            "name": "Jeremy Brett",
+            "href": "https://www.whosdatedwho.com/dating/jeremy-brett",
+            "relationship_type": 2,
+            "start_date": "1969",
+            "end_date": "1976",
+            "length": "7 years",
+            "start_months_since_1900": 828,
+            "end_months_since_1900": 912,
+            "length_in_months": 84
+        }
+    ],
+    "details": {
+        "First Name": "Gary",
+        "Middle Name": "James",
+        "Last Name": "Bond",
+        "Maiden Name": "NA",
+        "Full Name at Birth": "Gary James Bond",
+        "Alternative Name": "Gary Bond, Gary James Bond",
+        "Birthday": "1940",
+        "Birthplace": "UK",
+        "Height": "NA",
+        "Weight": "NA",
+        "Zodiac Sign": "9",
+        "Sexuality": "Gay",
+        "Religion": "1",
+        "Ethnicity": "6",
+        "Nationality": "8",
+        "Occupation": "8"
+    }
+}

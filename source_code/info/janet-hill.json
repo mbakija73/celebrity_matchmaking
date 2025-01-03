@@ -1,0 +1,33 @@
+{
+    "relationships": [
+        {
+            "name": "Steve Wozniak",
+            "href": "https://www.whosdatedwho.com/dating/steve-wozniak",
+            "relationship_type": 4,
+            "start_date": "2008",
+            "end_date": "",
+            "length": "-",
+            "start_months_since_1900": 1296,
+            "end_months_since_1900": -1,
+            "length_in_months": -1
+        }
+    ],
+    "details": {
+        "First Name": "Janet",
+        "Middle Name": "NA",
+        "Last Name": "NA",
+        "Maiden Name": "Hill",
+        "Full Name at Birth": "Janet Hill",
+        "Alternative Name": "Janet Hill Wozniak",
+        "Birthday": "NA",
+        "Birthplace": "NA",
+        "Height": "NA",
+        "Weight": "NA",
+        "Zodiac Sign": "2",
+        "Sexuality": "Straight",
+        "Religion": "1",
+        "Ethnicity": "6",
+        "Nationality": "91",
+        "Occupation": "7"
+    }
+}

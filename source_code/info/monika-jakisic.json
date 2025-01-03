@@ -1,0 +1,55 @@
+{
+    "relationships": [
+        {
+            "name": "Prince Andrew",
+            "href": "https://www.whosdatedwho.com/dating/prince-andrew",
+            "relationship_type": 2,
+            "start_date": "Feb 2014",
+            "end_date": "Jul 2014",
+            "length": "5 months",
+            "start_months_since_1900": 1369,
+            "end_months_since_1900": 1374,
+            "length_in_months": 5
+        },
+        {
+            "name": "George Clooney",
+            "href": "https://www.whosdatedwho.com/dating/george-clooney",
+            "relationship_type": 3,
+            "start_date": "2007",
+            "end_date": "2007",
+            "length": "-",
+            "start_months_since_1900": 1284,
+            "end_months_since_1900": 1284,
+            "length_in_months": -1
+        },
+        {
+            "name": "Barry Bonds",
+            "href": "https://www.whosdatedwho.com/dating/barry-bonds",
+            "relationship_type": 2,
+            "start_date": "",
+            "end_date": "",
+            "length": "-",
+            "start_months_since_1900": -1,
+            "end_months_since_1900": -1,
+            "length_in_months": -1
+        }
+    ],
+    "details": {
+        "First Name": "Monika",
+        "Middle Name": "NA",
+        "Last Name": "Jakisic",
+        "Maiden Name": "NA",
+        "Full Name at Birth": "NA",
+        "Alternative Name": "NA",
+        "Birthday": "1979",
+        "Birthplace": "Croatia",
+        "Height": "178",
+        "Weight": "NA",
+        "Zodiac Sign": "6",
+        "Sexuality": "Straight",
+        "Religion": "1",
+        "Ethnicity": "6",
+        "Nationality": "120",
+        "Occupation": "15"
+    }
+}

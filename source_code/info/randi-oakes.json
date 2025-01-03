@@ -1,0 +1,44 @@
+{
+    "relationships": [
+        {
+            "name": "Gregory Harrison",
+            "href": "https://www.whosdatedwho.com/dating/gregory-harrison",
+            "relationship_type": 4,
+            "start_date": "1980",
+            "end_date": "present",
+            "length": "44 years",
+            "start_months_since_1900": 960,
+            "end_months_since_1900": -1,
+            "length_in_months": 528
+        },
+        {
+            "name": "Joe Namath",
+            "href": "https://www.whosdatedwho.com/dating/joe-namath",
+            "relationship_type": 2,
+            "start_date": "1970",
+            "end_date": "1977",
+            "length": "7 years",
+            "start_months_since_1900": 840,
+            "end_months_since_1900": 924,
+            "length_in_months": 84
+        }
+    ],
+    "details": {
+        "First Name": "Randi",
+        "Middle Name": "NA",
+        "Last Name": "Oakes",
+        "Maiden Name": "NA",
+        "Full Name at Birth": "Betty Lee Oakes",
+        "Alternative Name": "NA",
+        "Birthday": "1951",
+        "Birthplace": "USA",
+        "Height": "NA",
+        "Weight": "NA",
+        "Zodiac Sign": "12",
+        "Sexuality": "Straight",
+        "Religion": "1",
+        "Ethnicity": "6",
+        "Nationality": "91",
+        "Occupation": "8"
+    }
+}

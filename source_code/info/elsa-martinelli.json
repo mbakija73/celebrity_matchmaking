@@ -1,0 +1,66 @@
+{
+    "relationships": [
+        {
+            "name": "Willy Rizzo",
+            "href": "https://www.whosdatedwho.com/dating/willy-rizzo",
+            "relationship_type": 4,
+            "start_date": "Aug 1962",
+            "end_date": "25th Feb 2013",
+            "length": "50 years",
+            "start_months_since_1900": 751,
+            "end_months_since_1900": 1357,
+            "length_in_months": 600
+        },
+        {
+            "name": "Count Franco Mancinelli Scotti di San Vito",
+            "href": "https://www.whosdatedwho.com/dating/count-franco-mancinelli-scotti-di-san-vito",
+            "relationship_type": 4,
+            "start_date": "Nov 1956",
+            "end_date": "1965",
+            "length": "8 years",
+            "start_months_since_1900": 682,
+            "end_months_since_1900": 780,
+            "length_in_months": 96
+        },
+        {
+            "name": "Oleg Cassini",
+            "href": "https://www.whosdatedwho.com/dating/oleg-cassini",
+            "relationship_type": 3,
+            "start_date": "Oct 1956",
+            "end_date": "Oct 1956",
+            "length": "-",
+            "start_months_since_1900": 681,
+            "end_months_since_1900": 681,
+            "length_in_months": -1
+        },
+        {
+            "name": "Walter Chiari",
+            "href": "https://www.whosdatedwho.com/dating/walter-chiari",
+            "relationship_type": 2,
+            "start_date": "",
+            "end_date": "",
+            "length": "-",
+            "start_months_since_1900": -1,
+            "end_months_since_1900": -1,
+            "length_in_months": -1
+        }
+    ],
+    "details": {
+        "First Name": "Elisa",
+        "Middle Name": "NA",
+        "Last Name": "Martinelli",
+        "Maiden Name": "Tia",
+        "Full Name at Birth": "Elisa Tia",
+        "Alternative Name": "Elsa Martinelli",
+        "Birthday": "1935",
+        "Birthplace": "Italy",
+        "Height": "168",
+        "Weight": "NA",
+        "Zodiac Sign": "13",
+        "Sexuality": "Straight",
+        "Religion": "1",
+        "Ethnicity": "6",
+        "Nationality": "139",
+        "Occupation": "8"
+    }
+}

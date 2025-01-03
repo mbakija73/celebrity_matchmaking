@@ -1,0 +1,44 @@
+{
+    "relationships": [
+        {
+            "name": "Stephend",
+            "href": "https://www.whosdatedwho.com/dating/stephend",
+            "relationship_type": 4,
+            "start_date": "",
+            "end_date": "present",
+            "length": "-",
+            "start_months_since_1900": -1,
+            "end_months_since_1900": -1,
+            "length_in_months": -1
+        },
+        {
+            "name": "Nanette Workman",
+            "href": "https://www.whosdatedwho.com/dating/nanette-workman",
+            "relationship_type": 2,
+            "start_date": "",
+            "end_date": "",
+            "length": "-",
+            "start_months_since_1900": -1,
+            "end_months_since_1900": -1,
+            "length_in_months": -1
+        }
+    ],
+    "details": {
+        "First Name": "Michel",
+        "Middle Name": "NA",
+        "Last Name": "Pagliaro",
+        "Maiden Name": "NA",
+        "Full Name at Birth": "NA",
+        "Alternative Name": "NA",
+        "Birthday": "1948",
+        "Birthplace": "Canada",
+        "Height": "NA",
+        "Weight": "NA",
+        "Zodiac Sign": "5",
+        "Sexuality": "NA",
+        "Religion": "1",
+        "Ethnicity": "1",
+        "Nationality": "90",
+        "Occupation": "2"
+    }
+}

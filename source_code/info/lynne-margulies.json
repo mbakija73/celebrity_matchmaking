@@ -1,0 +1,33 @@
+{
+    "relationships": [
+        {
+            "name": "Andy Kaufman",
+            "href": "https://www.whosdatedwho.com/dating/andy-kaufman",
+            "relationship_type": 2,
+            "start_date": "1983",
+            "end_date": "16th May 1984",
+            "length": "1 year",
+            "start_months_since_1900": 996,
+            "end_months_since_1900": 1012,
+            "length_in_months": 12
+        }
+    ],
+    "details": {
+        "First Name": "Lynne",
+        "Middle Name": "NA",
+        "Last Name": "Margulies",
+        "Maiden Name": "NA",
+        "Full Name at Birth": "NA",
+        "Alternative Name": "NA",
+        "Birthday": "1957",
+        "Birthplace": "NA",
+        "Height": "NA",
+        "Weight": "NA",
+        "Zodiac Sign": "1",
+        "Sexuality": "NA",
+        "Religion": "1",
+        "Ethnicity": "1",
+        "Nationality": "65",
+        "Occupation": "19"
+    }
+}

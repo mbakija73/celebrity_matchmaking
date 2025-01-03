@@ -1,0 +1,44 @@
+{
+    "relationships": [
+        {
+            "name": "Katie Lee",
+            "href": "https://www.whosdatedwho.com/dating/katie-lee",
+            "relationship_type": 2,
+            "start_date": "2009",
+            "end_date": "2011",
+            "length": "2 years",
+            "start_months_since_1900": 1308,
+            "end_months_since_1900": 1332,
+            "length_in_months": 24
+        },
+        {
+            "name": "Fernanda Niven",
+            "href": "https://www.whosdatedwho.com/dating/fernanda-niven",
+            "relationship_type": 2,
+            "start_date": "",
+            "end_date": "",
+            "length": "-",
+            "start_months_since_1900": -1,
+            "end_months_since_1900": -1,
+            "length_in_months": -1
+        }
+    ],
+    "details": {
+        "First Name": "Yigal",
+        "Middle Name": "NA",
+        "Last Name": "Azrouel",
+        "Maiden Name": "NA",
+        "Full Name at Birth": "Yigal Azrou\u00ebl",
+        "Alternative Name": "NA",
+        "Birthday": "1972",
+        "Birthplace": "Israel",
+        "Height": "NA",
+        "Weight": "NA",
+        "Zodiac Sign": "4",
+        "Sexuality": "Straight",
+        "Religion": "31",
+        "Ethnicity": "5",
+        "Nationality": "11",
+        "Occupation": "15"
+    }
+}

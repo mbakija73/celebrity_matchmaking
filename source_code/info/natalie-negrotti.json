@@ -1,0 +1,55 @@
+{
+    "relationships": [
+        {
+            "name": "Stephanie Cooler",
+            "href": "https://www.whosdatedwho.com/dating/stephanie-cooler",
+            "relationship_type": 2,
+            "start_date": "Nov 2017",
+            "end_date": "Aug 2019",
+            "length": "1 year",
+            "start_months_since_1900": 1414,
+            "end_months_since_1900": 1435,
+            "length_in_months": 12
+        },
+        {
+            "name": "Johnny 'Bananas' Devenanzio",
+            "href": "https://www.whosdatedwho.com/dating/johnny-devenanzio",
+            "relationship_type": 2,
+            "start_date": "2017",
+            "end_date": "2018",
+            "length": "1 year",
+            "start_months_since_1900": 1404,
+            "end_months_since_1900": 1416,
+            "length_in_months": 12
+        },
+        {
+            "name": "James Huling",
+            "href": "https://www.whosdatedwho.com/dating/james-huling",
+            "relationship_type": 2,
+            "start_date": "Jun 2016",
+            "end_date": "Jun 2016",
+            "length": "-",
+            "start_months_since_1900": 1397,
+            "end_months_since_1900": 1397,
+            "length_in_months": -1
+        }
+    ],
+    "details": {
+        "First Name": "Natalia",
+        "Middle Name": "Mercedes",
+        "Last Name": "Negrotti",
+        "Maiden Name": "NA",
+        "Full Name at Birth": "Natalia Mercedes Negrotti",
+        "Alternative Name": "Natalie, Natalia Mercedes Negrotti, Natalie Negrotti, Natalie Mercedes Negrotti",
+        "Birthday": "1990",
+        "Birthplace": "Venezuela",
+        "Height": "160",
+        "Weight": "121lbs (55 kg)",
+        "Zodiac Sign": "7",
+        "Sexuality": "Straight",
+        "Religion": "1",
+        "Ethnicity": "8",
+        "Nationality": "91",
+        "Occupation": "11"
+    }
+}

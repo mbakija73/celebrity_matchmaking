@@ -1,0 +1,55 @@
+{
+    "relationships": [
+        {
+            "name": "Lori Harvey",
+            "href": "https://www.whosdatedwho.com/dating/lori-harvey",
+            "relationship_type": 3,
+            "start_date": "Sep 2020",
+            "end_date": "Oct 2020",
+            "length": "1 month",
+            "start_months_since_1900": 1448,
+            "end_months_since_1900": 1449,
+            "length_in_months": 1
+        },
+        {
+            "name": "Joie Chavis",
+            "href": "https://www.whosdatedwho.com/dating/joie-chavis",
+            "relationship_type": 2,
+            "start_date": "Apr 2016",
+            "end_date": "Feb 2017",
+            "length": "10 months",
+            "start_months_since_1900": 1395,
+            "end_months_since_1900": 1405,
+            "length_in_months": 10
+        },
+        {
+            "name": "Tracee Ellis Ross",
+            "href": "https://www.whosdatedwho.com/dating/tracee-ellis-ross",
+            "relationship_type": 2,
+            "start_date": "May 2011",
+            "end_date": "Mar 2013",
+            "length": "1 year",
+            "start_months_since_1900": 1336,
+            "end_months_since_1900": 1358,
+            "length_in_months": 12
+        }
+    ],
+    "details": {
+        "First Name": "Bu",
+        "Middle Name": "NA",
+        "Last Name": "Thiam",
+        "Maiden Name": "NA",
+        "Full Name at Birth": "Abou Thiam",
+        "Alternative Name": "NA",
+        "Birthday": "NA",
+        "Birthplace": "NA",
+        "Height": "NA",
+        "Weight": "NA",
+        "Zodiac Sign": "2",
+        "Sexuality": "NA",
+        "Religion": "1",
+        "Ethnicity": "2",
+        "Nationality": "95",
+        "Occupation": "9"
+    }
+}

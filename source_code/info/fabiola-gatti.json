@@ -1,0 +1,55 @@
+{
+    "relationships": [
+        {
+            "name": "Andrew VanWyngarden",
+            "href": "https://www.whosdatedwho.com/dating/andrew-vanwyngarden",
+            "relationship_type": 2,
+            "start_date": "Feb 2009",
+            "end_date": "Jan 2010",
+            "length": "11 months",
+            "start_months_since_1900": 1309,
+            "end_months_since_1900": 1320,
+            "length_in_months": 11
+        },
+        {
+            "name": "Johnny Borrell",
+            "href": "https://www.whosdatedwho.com/dating/johnny-borrell",
+            "relationship_type": 2,
+            "start_date": "Dec 2007",
+            "end_date": "2008",
+            "length": "1 month",
+            "start_months_since_1900": 1295,
+            "end_months_since_1900": 1296,
+            "length_in_months": 1
+        },
+        {
+            "name": "Brendon Urie",
+            "href": "https://www.whosdatedwho.com/dating/brendon-urie",
+            "relationship_type": 3,
+            "start_date": "2007",
+            "end_date": "2007",
+            "length": "-",
+            "start_months_since_1900": 1284,
+            "end_months_since_1900": 1284,
+            "length_in_months": -1
+        }
+    ],
+    "details": {
+        "First Name": "Fabiola",
+        "Middle Name": "Marie",
+        "Last Name": "Gatti",
+        "Maiden Name": "NA",
+        "Full Name at Birth": "Fabiola Marie Gatti",
+        "Alternative Name": "Fab",
+        "Birthday": "1987",
+        "Birthplace": "Uruguay",
+        "Height": "168",
+        "Weight": "NA",
+        "Zodiac Sign": "7",
+        "Sexuality": "Straight",
+        "Religion": "1",
+        "Ethnicity": "6",
+        "Nationality": "58",
+        "Occupation": "1"
+    }
+}

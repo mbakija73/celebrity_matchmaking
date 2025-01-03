@@ -1,0 +1,55 @@
+{
+    "relationships": [
+        {
+            "name": "Tommy Thompson",
+            "href": "https://www.whosdatedwho.com/dating/tommy-thompson-linebacker",
+            "relationship_type": 4,
+            "start_date": "1951",
+            "end_date": "1956",
+            "length": "5 years",
+            "start_months_since_1900": 612,
+            "end_months_since_1900": 672,
+            "length_in_months": 60
+        },
+        {
+            "name": "Arthur Thompson",
+            "href": "https://www.whosdatedwho.com/dating/arthur-thompson",
+            "relationship_type": 4,
+            "start_date": "1950",
+            "end_date": "1956",
+            "length": "6 years",
+            "start_months_since_1900": 600,
+            "end_months_since_1900": 672,
+            "length_in_months": 72
+        },
+        {
+            "name": "John Drew Barrymore",
+            "href": "https://www.whosdatedwho.com/dating/john-drew-barrymore",
+            "relationship_type": 2,
+            "start_date": "Dec 1949",
+            "end_date": "Jan 1950",
+            "length": "1 month",
+            "start_months_since_1900": 599,
+            "end_months_since_1900": 600,
+            "length_in_months": 1
+        }
+    ],
+    "details": {
+        "First Name": "Gloria",
+        "Middle Name": "Ella",
+        "Last Name": "NA",
+        "Maiden Name": "Saunders",
+        "Full Name at Birth": "Gloria Ella Saunders",
+        "Alternative Name": "Gloria Ella Maier",
+        "Birthday": "1927",
+        "Birthplace": "South Carolina",
+        "Height": "NA",
+        "Weight": "NA",
+        "Zodiac Sign": "10",
+        "Sexuality": "Straight",
+        "Religion": "1",
+        "Ethnicity": "6",
+        "Nationality": "91",
+        "Occupation": "8"
+    }
+}

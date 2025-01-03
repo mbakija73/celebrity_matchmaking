@@ -1,0 +1,55 @@
+{
+    "relationships": [
+        {
+            "name": "Georges Renavent",
+            "href": "https://www.whosdatedwho.com/dating/georges-renavent",
+            "relationship_type": 4,
+            "start_date": "1947",
+            "end_date": "Jan 1969",
+            "length": "22 years",
+            "start_months_since_1900": 564,
+            "end_months_since_1900": 828,
+            "length_in_months": 264
+        },
+        {
+            "name": "Earle Larrimore",
+            "href": "https://www.whosdatedwho.com/dating/earle-larrimore",
+            "relationship_type": 4,
+            "start_date": "1931",
+            "end_date": "1942",
+            "length": "11 years",
+            "start_months_since_1900": 372,
+            "end_months_since_1900": 504,
+            "length_in_months": 132
+        },
+        {
+            "name": "Spencer Tracy",
+            "href": "https://www.whosdatedwho.com/dating/spencer-tracy",
+            "relationship_type": 3,
+            "start_date": "",
+            "end_date": "",
+            "length": "-",
+            "start_months_since_1900": -1,
+            "end_months_since_1900": -1,
+            "length_in_months": -1
+        }
+    ],
+    "details": {
+        "First Name": "Selena",
+        "Middle Name": "NA",
+        "Last Name": "NA",
+        "Maiden Name": "Royle",
+        "Full Name at Birth": "Selena Royle",
+        "Alternative Name": "NA",
+        "Birthday": "1904",
+        "Birthplace": "New York",
+        "Height": "NA",
+        "Weight": "NA",
+        "Zodiac Sign": "5",
+        "Sexuality": "Straight",
+        "Religion": "1",
+        "Ethnicity": "6",
+        "Nationality": "91",
+        "Occupation": "8"
+    }
+}

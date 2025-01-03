@@ -1,0 +1,110 @@
+{
+    "relationships": [
+        {
+            "name": "Ingrid Bergman",
+            "href": "https://www.whosdatedwho.com/dating/ingrid-bergman",
+            "relationship_type": 2,
+            "start_date": "Jul 1945",
+            "end_date": "Jul 1946",
+            "length": "1 year",
+            "start_months_since_1900": 546,
+            "end_months_since_1900": 558,
+            "length_in_months": 12
+        },
+        {
+            "name": "Hedy Lamarr",
+            "href": "https://www.whosdatedwho.com/dating/hedy-lamarr",
+            "relationship_type": 3,
+            "start_date": "1944",
+            "end_date": "1944",
+            "length": "-",
+            "start_months_since_1900": 528,
+            "end_months_since_1900": 528,
+            "length_in_months": -1
+        },
+        {
+            "name": "Elaine Justin",
+            "href": "https://www.whosdatedwho.com/dating/elaine-justin",
+            "relationship_type": 2,
+            "start_date": "Feb 1943",
+            "end_date": "1945",
+            "length": "1 year",
+            "start_months_since_1900": 517,
+            "end_months_since_1900": 540,
+            "length_in_months": 12
+        },
+        {
+            "name": "Gerda Taro",
+            "href": "https://www.whosdatedwho.com/dating/gerda-taro",
+            "relationship_type": 2,
+            "start_date": "1934",
+            "end_date": "26th Jul 1937",
+            "length": "3 years",
+            "start_months_since_1900": 408,
+            "end_months_since_1900": 450,
+            "length_in_months": 36
+        },
+        {
+            "name": "Pamela Harriman",
+            "href": "https://www.whosdatedwho.com/dating/pamela-harriman",
+            "relationship_type": 2,
+            "start_date": "",
+            "end_date": "",
+            "length": "-",
+            "start_months_since_1900": -1,
+            "end_months_since_1900": -1,
+            "length_in_months": -1
+        },
+        {
+            "name": "Slim Hawks",
+            "href": "https://www.whosdatedwho.com/dating/slim-hawks",
+            "relationship_type": 2,
+            "start_date": "",
+            "end_date": "",
+            "length": "-",
+            "start_months_since_1900": -1,
+            "end_months_since_1900": -1,
+            "length_in_months": -1
+        },
+        {
+            "name": "Collette Thomas",
+            "href": "https://www.whosdatedwho.com/dating/collette-thomas",
+            "relationship_type": 2,
+            "start_date": "",
+            "end_date": "",
+            "length": "-",
+            "start_months_since_1900": -1,
+            "end_months_since_1900": -1,
+            "length_in_months": -1
+        },
+        {
+            "name": "Vivien Leigh",
+            "href": "https://www.whosdatedwho.com/dating/vivien-leigh",
+            "relationship_type": 3,
+            "start_date": "",
+            "end_date": "",
+            "length": "-",
+            "start_months_since_1900": -1,
+            "end_months_since_1900": -1,
+            "length_in_months": -1
+        }
+    ],
+    "details": {
+        "First Name": "Robert",
+        "Middle Name": "Endre",
+        "Last Name": "Capa",
+        "Maiden Name": "NA",
+        "Full Name at Birth": "Friedmann Endre Ern\u0151",
+        "Alternative Name": "NA",
+        "Birthday": "1913",
+        "Birthplace": "Hungary",
+        "Height": "NA",
+        "Weight": "NA",
+        "Zodiac Sign": "10",
+        "Sexuality": "Straight",
+        "Religion": "31",
+        "Ethnicity": "6",
+        "Nationality": "31",
+        "Occupation": "13"
+    }
+}

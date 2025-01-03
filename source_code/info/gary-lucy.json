@@ -1,0 +1,99 @@
+{
+    "relationships": [
+        {
+            "name": "Laura Anderson",
+            "href": "https://www.whosdatedwho.com/dating/laura-anderson-reality-tv",
+            "relationship_type": 2,
+            "start_date": "2022",
+            "end_date": "Feb 2023",
+            "length": "1 year",
+            "start_months_since_1900": 1464,
+            "end_months_since_1900": 1477,
+            "length_in_months": 12
+        },
+        {
+            "name": "Natasha Gray",
+            "href": "https://www.whosdatedwho.com/dating/natasha-gray",
+            "relationship_type": 2,
+            "start_date": "16th Nov 2014",
+            "end_date": "",
+            "length": "-",
+            "start_months_since_1900": 1378,
+            "end_months_since_1900": -1,
+            "length_in_months": -1
+        },
+        {
+            "name": "Natalie Denning",
+            "href": "https://www.whosdatedwho.com/dating/natalie-denning",
+            "relationship_type": 3,
+            "start_date": "2003",
+            "end_date": "2003",
+            "length": "-",
+            "start_months_since_1900": 1236,
+            "end_months_since_1900": 1236,
+            "length_in_months": -1
+        },
+        {
+            "name": "Kelly Wenham",
+            "href": "https://www.whosdatedwho.com/dating/kelly-wenham",
+            "relationship_type": 3,
+            "start_date": "May 2002",
+            "end_date": "May 2002",
+            "length": "-",
+            "start_months_since_1900": 1228,
+            "end_months_since_1900": 1228,
+            "length_in_months": -1
+        },
+        {
+            "name": "Holly McGuire",
+            "href": "https://www.whosdatedwho.com/dating/holly-mcguire",
+            "relationship_type": 2,
+            "start_date": "2002",
+            "end_date": "2002",
+            "length": "-",
+            "start_months_since_1900": 1224,
+            "end_months_since_1900": 1224,
+            "length_in_months": -1
+        },
+        {
+            "name": "Michelle Ryan",
+            "href": "https://www.whosdatedwho.com/dating/michelle-ryan",
+            "relationship_type": 3,
+            "start_date": "2002",
+            "end_date": "2002",
+            "length": "-",
+            "start_months_since_1900": 1224,
+            "end_months_since_1900": 1224,
+            "length_in_months": -1
+        },
+        {
+            "name": "Emily Oldfield",
+            "href": "https://www.whosdatedwho.com/dating/emily-oldfield",
+            "relationship_type": 3,
+            "start_date": "",
+            "end_date": "",
+            "length": "-",
+            "start_months_since_1900": -1,
+            "end_months_since_1900": -1,
+            "length_in_months": -1
+        }
+    ],
+    "details": {
+        "First Name": "Gary",
+        "Middle Name": "Edward",
+        "Last Name": "Lucy",
+        "Maiden Name": "NA",
+        "Full Name at Birth": "Gary Edward Lucy",
+        "Alternative Name": "NA",
+        "Birthday": "1981",
+        "Birthplace": "UK",
+        "Height": "NA",
+        "Weight": "NA",
+        "Zodiac Sign": "6",
+        "Sexuality": "Straight",
+        "Religion": "1",
+        "Ethnicity": "6",
+        "Nationality": "8",
+        "Occupation": "8"
+    }
+}

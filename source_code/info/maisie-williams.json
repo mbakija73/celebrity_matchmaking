@@ -1,0 +1,55 @@
+{
+    "relationships": [
+        {
+            "name": "Reuben Selby",
+            "href": "https://www.whosdatedwho.com/dating/reuben-selby",
+            "relationship_type": 2,
+            "start_date": "Feb 2019",
+            "end_date": "Feb 2023",
+            "length": "4 years",
+            "start_months_since_1900": 1429,
+            "end_months_since_1900": 1477,
+            "length_in_months": 48
+        },
+        {
+            "name": "Ollie Jackson",
+            "href": "https://www.whosdatedwho.com/dating/ollie-jackson",
+            "relationship_type": 2,
+            "start_date": "2015",
+            "end_date": "2018",
+            "length": "3 years",
+            "start_months_since_1900": 1380,
+            "end_months_since_1900": 1416,
+            "length_in_months": 36
+        },
+        {
+            "name": "Caspar Lee",
+            "href": "https://www.whosdatedwho.com/dating/caspar-lee",
+            "relationship_type": 1,
+            "start_date": "",
+            "end_date": "",
+            "length": "-",
+            "start_months_since_1900": -1,
+            "end_months_since_1900": -1,
+            "length_in_months": -1
+        }
+    ],
+    "details": {
+        "First Name": "Maisie",
+        "Middle Name": "Constance",
+        "Last Name": "Williams",
+        "Maiden Name": "NA",
+        "Full Name at Birth": "Margaret Constance Williams",
+        "Alternative Name": "Elbows, Margaret Constance Williams, Maisie Williams, Raindrop",
+        "Birthday": "1997",
+        "Birthplace": "UK",
+        "Height": "155",
+        "Weight": "112lbs (51 kg)",
+        "Zodiac Sign": "7",
+        "Sexuality": "Straight",
+        "Religion": "22",
+        "Ethnicity": "6",
+        "Nationality": "8",
+        "Occupation": "8"
+    }
+}

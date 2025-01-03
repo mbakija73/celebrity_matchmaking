@@ -1,0 +1,66 @@
+{
+    "relationships": [
+        {
+            "name": "Karin Reznack",
+            "href": "https://www.whosdatedwho.com/dating/karin-reznack",
+            "relationship_type": 4,
+            "start_date": "1995",
+            "end_date": "present",
+            "length": "29 years",
+            "start_months_since_1900": 1140,
+            "end_months_since_1900": -1,
+            "length_in_months": 348
+        },
+        {
+            "name": "Linda Fiorentino",
+            "href": "https://www.whosdatedwho.com/dating/linda-fiorentino",
+            "relationship_type": 4,
+            "start_date": "1988",
+            "end_date": "1993",
+            "length": "5 years",
+            "start_months_since_1900": 1056,
+            "end_months_since_1900": 1116,
+            "length_in_months": 60
+        },
+        {
+            "name": "Jessica Harper",
+            "href": "https://www.whosdatedwho.com/dating/jessica-harper",
+            "relationship_type": 2,
+            "start_date": "1975",
+            "end_date": "1978",
+            "length": "3 years",
+            "start_months_since_1900": 900,
+            "end_months_since_1900": 936,
+            "length_in_months": 36
+        },
+        {
+            "name": "Fiona Lewis",
+            "href": "https://www.whosdatedwho.com/dating/fiona-lewis",
+            "relationship_type": 2,
+            "start_date": "1973",
+            "end_date": "1975",
+            "length": "2 years",
+            "start_months_since_1900": 876,
+            "end_months_since_1900": 900,
+            "length_in_months": 24
+        }
+    ],
+    "details": {
+        "First Name": "John",
+        "Middle Name": "Williams",
+        "Last Name": "Byrum",
+        "Maiden Name": "NA",
+        "Full Name at Birth": "John Williams Byrum",
+        "Alternative Name": "John Williams Byrum, John Byrum",
+        "Birthday": "1947",
+        "Birthplace": "USA",
+        "Height": "178",
+        "Weight": "NA",
+        "Zodiac Sign": "1",
+        "Sexuality": "NA",
+        "Religion": "1",
+        "Ethnicity": "6",
+        "Nationality": "91",
+        "Occupation": "9"
+    }
+}

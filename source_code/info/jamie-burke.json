@@ -1,0 +1,99 @@
+{
+    "relationships": [
+        {
+            "name": "May Andersen",
+            "href": "https://www.whosdatedwho.com/dating/may-andersen",
+            "relationship_type": 2,
+            "start_date": "Sep 2007",
+            "end_date": "Sep 2007",
+            "length": "-",
+            "start_months_since_1900": 1292,
+            "end_months_since_1900": 1292,
+            "length_in_months": -1
+        },
+        {
+            "name": "Sienna Miller",
+            "href": "https://www.whosdatedwho.com/dating/sienna-miller",
+            "relationship_type": 2,
+            "start_date": "Mar 2007",
+            "end_date": "May 2007",
+            "length": "2 months",
+            "start_months_since_1900": 1286,
+            "end_months_since_1900": 1288,
+            "length_in_months": 2
+        },
+        {
+            "name": "Ana Beatriz Barros",
+            "href": "https://www.whosdatedwho.com/dating/ana-beatriz-barros",
+            "relationship_type": 2,
+            "start_date": "2007",
+            "end_date": "May 2008",
+            "length": "1 year",
+            "start_months_since_1900": 1284,
+            "end_months_since_1900": 1300,
+            "length_in_months": 12
+        },
+        {
+            "name": "Courtney Love",
+            "href": "https://www.whosdatedwho.com/dating/courtney-love",
+            "relationship_type": 3,
+            "start_date": "Oct 2006",
+            "end_date": "2006",
+            "length": "9 months",
+            "start_months_since_1900": 1281,
+            "end_months_since_1900": 1272,
+            "length_in_months": 9
+        },
+        {
+            "name": "Lindsay Lohan",
+            "href": "https://www.whosdatedwho.com/dating/lindsay-lohan",
+            "relationship_type": 2,
+            "start_date": "Jun 2006",
+            "end_date": "Aug 2006",
+            "length": "2 months",
+            "start_months_since_1900": 1277,
+            "end_months_since_1900": 1279,
+            "length_in_months": 2
+        },
+        {
+            "name": "Kate Moss",
+            "href": "https://www.whosdatedwho.com/dating/kate-moss",
+            "relationship_type": 2,
+            "start_date": "Jan 2006",
+            "end_date": "Feb 2006",
+            "length": "1 month",
+            "start_months_since_1900": 1272,
+            "end_months_since_1900": 1273,
+            "length_in_months": 1
+        },
+        {
+            "name": "Jessie Leonard",
+            "href": "https://www.whosdatedwho.com/dating/jessie-leonard",
+            "relationship_type": 2,
+            "start_date": "Sep 2004",
+            "end_date": "Jan 2006",
+            "length": "1 year",
+            "start_months_since_1900": 1256,
+            "end_months_since_1900": 1272,
+            "length_in_months": 12
+        }
+    ],
+    "details": {
+        "First Name": "Jamie",
+        "Middle Name": "Lynn",
+        "Last Name": "Burke",
+        "Maiden Name": "NA",
+        "Full Name at Birth": "NA",
+        "Alternative Name": "NA",
+        "Birthday": "1985",
+        "Birthplace": "England",
+        "Height": "188",
+        "Weight": "NA",
+        "Zodiac Sign": "10",
+        "Sexuality": "NA",
+        "Religion": "1",
+        "Ethnicity": "6",
+        "Nationality": "8",
+        "Occupation": "15"
+    }
+}

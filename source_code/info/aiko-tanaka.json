@@ -1,0 +1,44 @@
+{
+    "relationships": [
+        {
+            "name": "Bill Maher",
+            "href": "https://www.whosdatedwho.com/dating/bill-maher",
+            "relationship_type": 2,
+            "start_date": "2002",
+            "end_date": "2002",
+            "length": "-",
+            "start_months_since_1900": 1224,
+            "end_months_since_1900": 1224,
+            "length_in_months": -1
+        },
+        {
+            "name": "Eddie Griffin",
+            "href": "https://www.whosdatedwho.com/dating/eddie-griffin",
+            "relationship_type": 2,
+            "start_date": "",
+            "end_date": "",
+            "length": "-",
+            "start_months_since_1900": -1,
+            "end_months_since_1900": -1,
+            "length_in_months": -1
+        }
+    ],
+    "details": {
+        "First Name": "Aiko",
+        "Middle Name": "NA",
+        "Last Name": "Tanaka",
+        "Maiden Name": "NA",
+        "Full Name at Birth": "Aiko Tanaka",
+        "Alternative Name": "Aiko Tanaka",
+        "Birthday": "1979",
+        "Birthplace": "Japan",
+        "Height": "163",
+        "Weight": "110lbs (50 kg)",
+        "Zodiac Sign": "6",
+        "Sexuality": "NA",
+        "Religion": "1",
+        "Ethnicity": "3",
+        "Nationality": "79",
+        "Occupation": "8"
+    }
+}

@@ -1,0 +1,77 @@
+{
+    "relationships": [
+        {
+            "name": "Emma Willis",
+            "href": "https://www.whosdatedwho.com/dating/emma-willis",
+            "relationship_type": 4,
+            "start_date": "Jul 2005",
+            "end_date": "present",
+            "length": "19 years",
+            "start_months_since_1900": 1266,
+            "end_months_since_1900": -1,
+            "length_in_months": 228
+        },
+        {
+            "name": "Holly Davies",
+            "href": "https://www.whosdatedwho.com/dating/holly-davies",
+            "relationship_type": 2,
+            "start_date": "2004",
+            "end_date": "2005",
+            "length": "1 year",
+            "start_months_since_1900": 1248,
+            "end_months_since_1900": 1260,
+            "length_in_months": 12
+        },
+        {
+            "name": "Kara Tointon",
+            "href": "https://www.whosdatedwho.com/dating/kara-tointon",
+            "relationship_type": 3,
+            "start_date": "2004",
+            "end_date": "2004",
+            "length": "-",
+            "start_months_since_1900": 1248,
+            "end_months_since_1900": 1248,
+            "length_in_months": -1
+        },
+        {
+            "name": "Jentina Chapman",
+            "href": "https://www.whosdatedwho.com/dating/jentina-chapman",
+            "relationship_type": 2,
+            "start_date": "1995",
+            "end_date": "1995",
+            "length": "-",
+            "start_months_since_1900": 1140,
+            "end_months_since_1900": 1140,
+            "length_in_months": -1
+        },
+        {
+            "name": "Amy Winehouse",
+            "href": "https://www.whosdatedwho.com/dating/amy-winehouse",
+            "relationship_type": 1,
+            "start_date": "",
+            "end_date": "",
+            "length": "-",
+            "start_months_since_1900": -1,
+            "end_months_since_1900": -1,
+            "length_in_months": -1
+        }
+    ],
+    "details": {
+        "First Name": "Matt",
+        "Middle Name": "James",
+        "Last Name": "Willis",
+        "Maiden Name": "NA",
+        "Full Name at Birth": "Mathew James Willis",
+        "Alternative Name": "Matt Jay, Mattie Jay, Mathew James Willis, Matt Willis, Mattie, Mj",
+        "Birthday": "1983",
+        "Birthplace": "UK",
+        "Height": "180",
+        "Weight": "NA",
+        "Zodiac Sign": "3",
+        "Sexuality": "Straight",
+        "Religion": "1",
+        "Ethnicity": "6",
+        "Nationality": "8",
+        "Occupation": "1"
+    }
+}

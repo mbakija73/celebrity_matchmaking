@@ -1,0 +1,33 @@
+{
+    "relationships": [
+        {
+            "name": "Vin Diesel",
+            "href": "https://www.whosdatedwho.com/dating/vin-diesel",
+            "relationship_type": 2,
+            "start_date": "2007",
+            "end_date": "2007",
+            "length": "-",
+            "start_months_since_1900": 1284,
+            "end_months_since_1900": 1284,
+            "length_in_months": -1
+        }
+    ],
+    "details": {
+        "First Name": "Paloma",
+        "Middle Name": "NA",
+        "Last Name": "Jimenez",
+        "Maiden Name": "Denagustin",
+        "Full Name at Birth": "Karla Paloma Jim\u00e9nez Denagustin",
+        "Alternative Name": "The Mayan Queen",
+        "Birthday": "1983",
+        "Birthplace": "Mexico",
+        "Height": "178",
+        "Weight": "NA",
+        "Zodiac Sign": "12",
+        "Sexuality": "Straight",
+        "Religion": "1",
+        "Ethnicity": "8",
+        "Nationality": "7",
+        "Occupation": "15"
+    }
+}

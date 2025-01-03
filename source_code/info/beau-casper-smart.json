@@ -1,0 +1,55 @@
+{
+    "relationships": [
+        {
+            "name": "Bre Tiesi",
+            "href": "https://www.whosdatedwho.com/dating/bre-tiesi",
+            "relationship_type": 3,
+            "start_date": "2020",
+            "end_date": "2020",
+            "length": "-",
+            "start_months_since_1900": 1440,
+            "end_months_since_1900": 1440,
+            "length_in_months": -1
+        },
+        {
+            "name": "Leslie Grace",
+            "href": "https://www.whosdatedwho.com/dating/leslie-grace",
+            "relationship_type": 1,
+            "start_date": "Sep 2017",
+            "end_date": "Sep 2017",
+            "length": "-",
+            "start_months_since_1900": 1412,
+            "end_months_since_1900": 1412,
+            "length_in_months": -1
+        },
+        {
+            "name": "Jennifer Lopez",
+            "href": "https://www.whosdatedwho.com/dating/jennifer-lopez",
+            "relationship_type": 2,
+            "start_date": "Nov 2011",
+            "end_date": "Aug 2016",
+            "length": "4 years",
+            "start_months_since_1900": 1342,
+            "end_months_since_1900": 1399,
+            "length_in_months": 48
+        }
+    ],
+    "details": {
+        "First Name": "Casper",
+        "Middle Name": "NA",
+        "Last Name": "Smart",
+        "Maiden Name": "NA",
+        "Full Name at Birth": "Beau Smart",
+        "Alternative Name": "NA",
+        "Birthday": "1987",
+        "Birthplace": "USA",
+        "Height": "173",
+        "Weight": "NA",
+        "Zodiac Sign": "7",
+        "Sexuality": "Straight",
+        "Religion": "1",
+        "Ethnicity": "6",
+        "Nationality": "91",
+        "Occupation": "14"
+    }
+}

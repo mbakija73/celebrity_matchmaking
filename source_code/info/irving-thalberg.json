@@ -1,0 +1,88 @@
+{
+    "relationships": [
+        {
+            "name": "Norma Shearer",
+            "href": "https://www.whosdatedwho.com/dating/norma-shearer",
+            "relationship_type": 4,
+            "start_date": "Sep 1927",
+            "end_date": "Sep 1936",
+            "length": "9 years",
+            "start_months_since_1900": 332,
+            "end_months_since_1900": 440,
+            "length_in_months": 108
+        },
+        {
+            "name": "Anita Page",
+            "href": "https://www.whosdatedwho.com/dating/anita-page",
+            "relationship_type": 3,
+            "start_date": "1925",
+            "end_date": "1936",
+            "length": "11 years",
+            "start_months_since_1900": 300,
+            "end_months_since_1900": 432,
+            "length_in_months": 132
+        },
+        {
+            "name": "Constance Talmadge",
+            "href": "https://www.whosdatedwho.com/dating/constance-talmadge",
+            "relationship_type": 2,
+            "start_date": "1925",
+            "end_date": "1926",
+            "length": "1 year",
+            "start_months_since_1900": 300,
+            "end_months_since_1900": 312,
+            "length_in_months": 12
+        },
+        {
+            "name": "Peggy Hopkins Joyce",
+            "href": "https://www.whosdatedwho.com/dating/peggy-hopkins-joyce",
+            "relationship_type": 2,
+            "start_date": "",
+            "end_date": "",
+            "length": "-",
+            "start_months_since_1900": -1,
+            "end_months_since_1900": -1,
+            "length_in_months": -1
+        },
+        {
+            "name": "Rosabelle Laemmle",
+            "href": "https://www.whosdatedwho.com/dating/rosabelle-laemmle",
+            "relationship_type": 2,
+            "start_date": "",
+            "end_date": "",
+            "length": "-",
+            "start_months_since_1900": -1,
+            "end_months_since_1900": -1,
+            "length_in_months": -1
+        },
+        {
+            "name": "Edna Murphy",
+            "href": "https://www.whosdatedwho.com/dating/edna-murphy",
+            "relationship_type": 2,
+            "start_date": "",
+            "end_date": "",
+            "length": "-",
+            "start_months_since_1900": -1,
+            "end_months_since_1900": -1,
+            "length_in_months": -1
+        }
+    ],
+    "details": {
+        "First Name": "Irving",
+        "Middle Name": "Grant",
+        "Last Name": "Thalberg",
+        "Maiden Name": "NA",
+        "Full Name at Birth": "Irving Grant Thalberg",
+        "Alternative Name": "The Boy Wonder/Boy Genius, Universal's Boy Wonder",
+        "Birthday": "1899",
+        "Birthplace": "New York",
+        "Height": "180",
+        "Weight": "NA",
+        "Zodiac Sign": "7",
+        "Sexuality": "Straight",
+        "Religion": "31",
+        "Ethnicity": "6",
+        "Nationality": "91",
+        "Occupation": "9"
+    }
+}

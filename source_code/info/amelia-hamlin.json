@@ -1,0 +1,55 @@
+{
+    "relationships": [
+        {
+            "name": "Eyal Booker",
+            "href": "https://www.whosdatedwho.com/dating/eyal-booker",
+            "relationship_type": 2,
+            "start_date": "2021",
+            "end_date": "Jan 2022",
+            "length": "1 year",
+            "start_months_since_1900": 1452,
+            "end_months_since_1900": 1464,
+            "length_in_months": 12
+        },
+        {
+            "name": "Scott Disick",
+            "href": "https://www.whosdatedwho.com/dating/scott-disick",
+            "relationship_type": 2,
+            "start_date": "Nov 2020",
+            "end_date": "Sep 2021",
+            "length": "10 months",
+            "start_months_since_1900": 1450,
+            "end_months_since_1900": 1460,
+            "length_in_months": 10
+        },
+        {
+            "name": "Mercer Wiederhorn",
+            "href": "https://www.whosdatedwho.com/dating/mercer-wiederhorn",
+            "relationship_type": 2,
+            "start_date": "2019",
+            "end_date": "2020",
+            "length": "1 year",
+            "start_months_since_1900": 1428,
+            "end_months_since_1900": 1440,
+            "length_in_months": 12
+        }
+    ],
+    "details": {
+        "First Name": "Amelia",
+        "Middle Name": "Gray",
+        "Last Name": "Hamlin",
+        "Maiden Name": "NA",
+        "Full Name at Birth": "Amelia Gray Hamlin",
+        "Alternative Name": "Amelia Gray Hamlin, Amelia Hamlin, Amelia",
+        "Birthday": "2001",
+        "Birthplace": "USA",
+        "Height": "177",
+        "Weight": "121lbs (55 kg)",
+        "Zodiac Sign": "4",
+        "Sexuality": "Straight",
+        "Religion": "1",
+        "Ethnicity": "6",
+        "Nationality": "91",
+        "Occupation": "15"
+    }
+}

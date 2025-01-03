@@ -1,0 +1,55 @@
+{
+    "relationships": [
+        {
+            "name": "Marguerite Churchill",
+            "href": "https://www.whosdatedwho.com/dating/marguerite-churchill",
+            "relationship_type": 4,
+            "start_date": "1931",
+            "end_date": "1948",
+            "length": "17 years",
+            "start_months_since_1900": 372,
+            "end_months_since_1900": 576,
+            "length_in_months": 204
+        },
+        {
+            "name": "Olive Borden",
+            "href": "https://www.whosdatedwho.com/dating/olive-borden",
+            "relationship_type": 2,
+            "start_date": "1926",
+            "end_date": "1929",
+            "length": "3 years",
+            "start_months_since_1900": 312,
+            "end_months_since_1900": 348,
+            "length_in_months": 36
+        },
+        {
+            "name": "Sally Eilers",
+            "href": "https://www.whosdatedwho.com/dating/sally-eilers",
+            "relationship_type": 1,
+            "start_date": "",
+            "end_date": "",
+            "length": "-",
+            "start_months_since_1900": -1,
+            "end_months_since_1900": -1,
+            "length_in_months": -1
+        }
+    ],
+    "details": {
+        "First Name": "George",
+        "Middle Name": "NA",
+        "Last Name": "O'Brien",
+        "Maiden Name": "NA",
+        "Full Name at Birth": "NA",
+        "Alternative Name": "The Chest",
+        "Birthday": "1899",
+        "Birthplace": "California",
+        "Height": "185",
+        "Weight": "200lbs (91 kg)",
+        "Zodiac Sign": "7",
+        "Sexuality": "Straight",
+        "Religion": "1",
+        "Ethnicity": "6",
+        "Nationality": "91",
+        "Occupation": "8"
+    }
+}

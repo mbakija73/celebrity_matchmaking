@@ -1,0 +1,66 @@
+{
+    "relationships": [
+        {
+            "name": "Charles David",
+            "href": "https://www.whosdatedwho.com/dating/charles-david",
+            "relationship_type": 4,
+            "start_date": "Dec 1949",
+            "end_date": "1st Mar 1999",
+            "length": "49 years",
+            "start_months_since_1900": 599,
+            "end_months_since_1900": 1190,
+            "length_in_months": 588
+        },
+        {
+            "name": "Vincent Price",
+            "href": "https://www.whosdatedwho.com/dating/vincent-price",
+            "relationship_type": 3,
+            "start_date": "Mar 1948",
+            "end_date": "Apr 1948",
+            "length": "1 month",
+            "start_months_since_1900": 578,
+            "end_months_since_1900": 579,
+            "length_in_months": 1
+        },
+        {
+            "name": "Felix Jackson",
+            "href": "https://www.whosdatedwho.com/dating/felix-jackson",
+            "relationship_type": 4,
+            "start_date": "Jun 1944",
+            "end_date": "Oct 1949",
+            "length": "5 years",
+            "start_months_since_1900": 533,
+            "end_months_since_1900": 597,
+            "length_in_months": 60
+        },
+        {
+            "name": "Vaughn Paul",
+            "href": "https://www.whosdatedwho.com/dating/vaughn-paul",
+            "relationship_type": 4,
+            "start_date": "Apr 1940",
+            "end_date": "Dec 1943",
+            "length": "3 years",
+            "start_months_since_1900": 483,
+            "end_months_since_1900": 527,
+            "length_in_months": 36
+        }
+    ],
+    "details": {
+        "First Name": "Deanna",
+        "Middle Name": "Mae",
+        "Last Name": "David",
+        "Maiden Name": "Durbin",
+        "Full Name at Birth": "Edna Mae Durbin",
+        "Alternative Name": "Winnipeg's Sweetheart",
+        "Birthday": "1921",
+        "Birthplace": "Canada",
+        "Height": "155",
+        "Weight": "NA",
+        "Zodiac Sign": "6",
+        "Sexuality": "Straight",
+        "Religion": "1",
+        "Ethnicity": "6",
+        "Nationality": "91",
+        "Occupation": "8"
+    }
+}

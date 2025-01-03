@@ -1,0 +1,33 @@
+{
+    "relationships": [
+        {
+            "name": "Cristiano Ronaldo",
+            "href": "https://www.whosdatedwho.com/dating/cristiano-ronaldo",
+            "relationship_type": 3,
+            "start_date": "Dec 2015",
+            "end_date": "Dec 2015",
+            "length": "-",
+            "start_months_since_1900": 1391,
+            "end_months_since_1900": 1391,
+            "length_in_months": -1
+        }
+    ],
+    "details": {
+        "First Name": "Nataly",
+        "Middle Name": "NA",
+        "Last Name": "Rincon",
+        "Maiden Name": "NA",
+        "Full Name at Birth": "NA",
+        "Alternative Name": "NA",
+        "Birthday": "NA",
+        "Birthplace": "Colombia",
+        "Height": "NA",
+        "Weight": "NA",
+        "Zodiac Sign": "2",
+        "Sexuality": "Straight",
+        "Religion": "1",
+        "Ethnicity": "6",
+        "Nationality": "133",
+        "Occupation": "16"
+    }
+}

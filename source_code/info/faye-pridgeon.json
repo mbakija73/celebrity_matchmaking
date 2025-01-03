@@ -1,0 +1,88 @@
+{
+    "relationships": [
+        {
+            "name": "Sly Stone",
+            "href": "https://www.whosdatedwho.com/dating/sly-stone",
+            "relationship_type": 2,
+            "start_date": "1971",
+            "end_date": "1972",
+            "length": "1 year",
+            "start_months_since_1900": 852,
+            "end_months_since_1900": 864,
+            "length_in_months": 12
+        },
+        {
+            "name": "Jimi Hendrix",
+            "href": "https://www.whosdatedwho.com/dating/jimi-hendrix",
+            "relationship_type": 2,
+            "start_date": "1964",
+            "end_date": "1964",
+            "length": "-",
+            "start_months_since_1900": 768,
+            "end_months_since_1900": 768,
+            "length_in_months": -1
+        },
+        {
+            "name": "Sam Cooke",
+            "href": "https://www.whosdatedwho.com/dating/sam-cooke",
+            "relationship_type": 2,
+            "start_date": "1956",
+            "end_date": "1956",
+            "length": "-",
+            "start_months_since_1900": 672,
+            "end_months_since_1900": 672,
+            "length_in_months": -1
+        },
+        {
+            "name": "Little Willie John",
+            "href": "https://www.whosdatedwho.com/dating/little-willie-john",
+            "relationship_type": 2,
+            "start_date": "1955",
+            "end_date": "1955",
+            "length": "-",
+            "start_months_since_1900": 660,
+            "end_months_since_1900": 660,
+            "length_in_months": -1
+        },
+        {
+            "name": "Jackie Wilson",
+            "href": "https://www.whosdatedwho.com/dating/jackie-wilson",
+            "relationship_type": 2,
+            "start_date": "",
+            "end_date": "",
+            "length": "-",
+            "start_months_since_1900": -1,
+            "end_months_since_1900": -1,
+            "length_in_months": -1
+        },
+        {
+            "name": "James Brown",
+            "href": "https://www.whosdatedwho.com/dating/james-brown",
+            "relationship_type": 3,
+            "start_date": "",
+            "end_date": "",
+            "length": "-",
+            "start_months_since_1900": -1,
+            "end_months_since_1900": -1,
+            "length_in_months": -1
+        }
+    ],
+    "details": {
+        "First Name": "Fayne",
+        "Middle Name": "NA",
+        "Last Name": "Pridgeon",
+        "Maiden Name": "NA",
+        "Full Name at Birth": "Lithofayne Pridgnon",
+        "Alternative Name": "Faye Pridgeon, Faye Pridgon, Fayne, Fayne Pridgon, Fayne Pridgeon",
+        "Birthday": "1939",
+        "Birthplace": "USA",
+        "Height": "NA",
+        "Weight": "NA",
+        "Zodiac Sign": "2",
+        "Sexuality": "Straight",
+        "Religion": "1",
+        "Ethnicity": "2",
+        "Nationality": "91",
+        "Occupation": "1"
+    }
+}

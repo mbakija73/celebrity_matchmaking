@@ -1,0 +1,66 @@
+{
+    "relationships": [
+        {
+            "name": "Paul London",
+            "href": "https://www.whosdatedwho.com/dating/paul-london",
+            "relationship_type": 2,
+            "start_date": "2006",
+            "end_date": "2007",
+            "length": "1 year",
+            "start_months_since_1900": 1272,
+            "end_months_since_1900": 1284,
+            "length_in_months": 12
+        },
+        {
+            "name": "Matt Hardy",
+            "href": "https://www.whosdatedwho.com/dating/matt-hardy",
+            "relationship_type": 2,
+            "start_date": "Nov 2005",
+            "end_date": "2006",
+            "length": "2 months",
+            "start_months_since_1900": 1270,
+            "end_months_since_1900": 1272,
+            "length_in_months": 2
+        },
+        {
+            "name": "Chuck Comeau",
+            "href": "https://www.whosdatedwho.com/dating/chuck-comeau",
+            "relationship_type": 2,
+            "start_date": "2004",
+            "end_date": "2005",
+            "length": "1 year",
+            "start_months_since_1900": 1248,
+            "end_months_since_1900": 1260,
+            "length_in_months": 12
+        },
+        {
+            "name": "Austin Fierstadt",
+            "href": "https://www.whosdatedwho.com/dating/austin-fierstadt",
+            "relationship_type": 2,
+            "start_date": "1998",
+            "end_date": "2001",
+            "length": "3 years",
+            "start_months_since_1900": 1176,
+            "end_months_since_1900": 1212,
+            "length_in_months": 36
+        }
+    ],
+    "details": {
+        "First Name": "Ashley",
+        "Middle Name": "Marie",
+        "Last Name": "Massaro",
+        "Maiden Name": "NA",
+        "Full Name at Birth": "Ashley Marie Massaro",
+        "Alternative Name": "Ashley, Ashley Massaro, Barbie, Ashley M. Massaro, Ashley Marie Massaro, Mackenzie Ryan, Ryan MacKenzie",
+        "Birthday": "1979",
+        "Birthplace": "USA",
+        "Height": "165",
+        "Weight": "115lbs (52 kg)",
+        "Zodiac Sign": "4",
+        "Sexuality": "Straight",
+        "Religion": "18",
+        "Ethnicity": "6",
+        "Nationality": "91",
+        "Occupation": "2"
+    }
+}

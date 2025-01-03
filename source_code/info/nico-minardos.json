@@ -1,0 +1,55 @@
+{
+    "relationships": [
+        {
+            "name": "Rachel Stephens",
+            "href": "https://www.whosdatedwho.com/dating/rachel-stephens",
+            "relationship_type": 2,
+            "start_date": "Jan 1959",
+            "end_date": "Jan 1959",
+            "length": "-",
+            "start_months_since_1900": 708,
+            "end_months_since_1900": 708,
+            "length_in_months": -1
+        },
+        {
+            "name": "Debbie Minardos",
+            "href": "https://www.whosdatedwho.com/dating/debbie-minardos",
+            "relationship_type": 4,
+            "start_date": "12th Jan 1954",
+            "end_date": "1958",
+            "length": "3 years",
+            "start_months_since_1900": 648,
+            "end_months_since_1900": 696,
+            "length_in_months": 36
+        },
+        {
+            "name": "Marilyn Monroe",
+            "href": "https://www.whosdatedwho.com/dating/marilyn-monroe",
+            "relationship_type": 2,
+            "start_date": "Nov 1951",
+            "end_date": "Apr 1952",
+            "length": "5 months",
+            "start_months_since_1900": 622,
+            "end_months_since_1900": 627,
+            "length_in_months": 5
+        }
+    ],
+    "details": {
+        "First Name": "Nico",
+        "Middle Name": "NA",
+        "Last Name": "Minardos",
+        "Maiden Name": "NA",
+        "Full Name at Birth": "Nicholas Mindardos",
+        "Alternative Name": "Nicholas Minardos, Nico Minardos, Nick",
+        "Birthday": "1930",
+        "Birthplace": "Greece",
+        "Height": "NA",
+        "Weight": "NA",
+        "Zodiac Sign": "9",
+        "Sexuality": "Straight",
+        "Religion": "1",
+        "Ethnicity": "6",
+        "Nationality": "85",
+        "Occupation": "8"
+    }
+}

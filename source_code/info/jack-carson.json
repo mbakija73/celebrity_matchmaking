@@ -1,0 +1,110 @@
+{
+    "relationships": [
+        {
+            "name": "Sandra Jolley",
+            "href": "https://www.whosdatedwho.com/dating/sandra-jolley",
+            "relationship_type": 4,
+            "start_date": "1960",
+            "end_date": "Jan 1963",
+            "length": "3 years",
+            "start_months_since_1900": 720,
+            "end_months_since_1900": 756,
+            "length_in_months": 36
+        },
+        {
+            "name": "Doris Day",
+            "href": "https://www.whosdatedwho.com/dating/doris-day",
+            "relationship_type": 2,
+            "start_date": "1950",
+            "end_date": "1951",
+            "length": "1 year",
+            "start_months_since_1900": 600,
+            "end_months_since_1900": 612,
+            "length_in_months": 12
+        },
+        {
+            "name": "Lola Albright",
+            "href": "https://www.whosdatedwho.com/dating/lola-albright",
+            "relationship_type": 4,
+            "start_date": "1950",
+            "end_date": "10th Nov 1958",
+            "length": "8 years",
+            "start_months_since_1900": 600,
+            "end_months_since_1900": 706,
+            "length_in_months": 96
+        },
+        {
+            "name": "Chili Williams",
+            "href": "https://www.whosdatedwho.com/dating/chili-williams",
+            "relationship_type": 2,
+            "start_date": "Mar 1948",
+            "end_date": "Mar 1948",
+            "length": "-",
+            "start_months_since_1900": 578,
+            "end_months_since_1900": 578,
+            "length_in_months": -1
+        },
+        {
+            "name": "Janis Paige",
+            "href": "https://www.whosdatedwho.com/dating/janis-paige",
+            "relationship_type": 2,
+            "start_date": "Jan 1947",
+            "end_date": "Feb 1947",
+            "length": "1 month",
+            "start_months_since_1900": 564,
+            "end_months_since_1900": 565,
+            "length_in_months": 1
+        },
+        {
+            "name": "Kay St. Germain Wells",
+            "href": "https://www.whosdatedwho.com/dating/kay-st-germain-wells",
+            "relationship_type": 4,
+            "start_date": "1940",
+            "end_date": "Apr 1950",
+            "length": "10 years",
+            "start_months_since_1900": 480,
+            "end_months_since_1900": 603,
+            "length_in_months": 120
+        },
+        {
+            "name": "Elizabeth Lindy",
+            "href": "https://www.whosdatedwho.com/dating/elizabeth-lindy",
+            "relationship_type": 4,
+            "start_date": "1937",
+            "end_date": "1939",
+            "length": "2 years",
+            "start_months_since_1900": 444,
+            "end_months_since_1900": 468,
+            "length_in_months": 24
+        },
+        {
+            "name": "Margaret Early",
+            "href": "https://www.whosdatedwho.com/dating/margaret-early",
+            "relationship_type": 2,
+            "start_date": "",
+            "end_date": "",
+            "length": "-",
+            "start_months_since_1900": -1,
+            "end_months_since_1900": -1,
+            "length_in_months": -1
+        }
+    ],
+    "details": {
+        "First Name": "Jack",
+        "Middle Name": "Elmer",
+        "Last Name": "Carson",
+        "Maiden Name": "NA",
+        "Full Name at Birth": "John Elmer Carson",
+        "Alternative Name": "Jackaboy, King of the Double-Take, Jack the Ribbee",
+        "Birthday": "1910",
+        "Birthplace": "Canada",
+        "Height": "188",
+        "Weight": "220lbs (100 kg)",
+        "Zodiac Sign": "5",
+        "Sexuality": "Straight",
+        "Religion": "18",
+        "Ethnicity": "6",
+        "Nationality": "90",
+        "Occupation": "8"
+    }
+}

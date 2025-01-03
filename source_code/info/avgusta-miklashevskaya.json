@@ -1,0 +1,55 @@
+{
+    "relationships": [
+        {
+            "name": "Sergei Esenin",
+            "href": "https://www.whosdatedwho.com/dating/sergei-esenin",
+            "relationship_type": 2,
+            "start_date": "1923",
+            "end_date": "1923",
+            "length": "-",
+            "start_months_since_1900": 276,
+            "end_months_since_1900": 276,
+            "length_in_months": -1
+        },
+        {
+            "name": "Lev Lashchilin",
+            "href": "https://www.whosdatedwho.com/dating/lev-lashchilin",
+            "relationship_type": 2,
+            "start_date": "1917",
+            "end_date": "1917",
+            "length": "-",
+            "start_months_since_1900": 204,
+            "end_months_since_1900": 204,
+            "length_in_months": -1
+        },
+        {
+            "name": "Ivan Sergeyevich Miklashevskiy",
+            "href": "https://www.whosdatedwho.com/dating/ivan-sergeyevich-miklashevskiy",
+            "relationship_type": 4,
+            "start_date": "1910",
+            "end_date": "May 1918",
+            "length": "8 years",
+            "start_months_since_1900": 120,
+            "end_months_since_1900": 220,
+            "length_in_months": 96
+        }
+    ],
+    "details": {
+        "First Name": "Avgusta",
+        "Middle Name": "NA",
+        "Last Name": "Miklashevskaya",
+        "Maiden Name": "NA",
+        "Full Name at Birth": "Avgusta Leonidovna Miklashevskaya",
+        "Alternative Name": "\u0410\u0432\u0433\u0443\u0441\u0442\u0430 \u041c\u0438\u043a\u043b\u0430\u0448\u0435\u0432\u0441\u043a\u0430\u044f, Augusta Miklashevskaya",
+        "Birthday": "1890",
+        "Birthplace": "Russian Empire",
+        "Height": "NA",
+        "Weight": "NA",
+        "Zodiac Sign": "2",
+        "Sexuality": "Straight",
+        "Religion": "1",
+        "Ethnicity": "6",
+        "Nationality": "9",
+        "Occupation": "8"
+    }
+}

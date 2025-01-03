@@ -1,0 +1,44 @@
+{
+    "relationships": [
+        {
+            "name": "Warren Beatty",
+            "href": "https://www.whosdatedwho.com/dating/warren-beatty",
+            "relationship_type": 2,
+            "start_date": "1959",
+            "end_date": "1959",
+            "length": "-",
+            "start_months_since_1900": 708,
+            "end_months_since_1900": 708,
+            "length_in_months": -1
+        },
+        {
+            "name": "Gardner McKay",
+            "href": "https://www.whosdatedwho.com/dating/gardner-mckay",
+            "relationship_type": 2,
+            "start_date": "1959",
+            "end_date": "1961",
+            "length": "2 years",
+            "start_months_since_1900": 708,
+            "end_months_since_1900": 732,
+            "length_in_months": 24
+        }
+    ],
+    "details": {
+        "First Name": "Greta",
+        "Middle Name": "NA",
+        "Last Name": "Chi",
+        "Maiden Name": "NA",
+        "Full Name at Birth": "Chi Ke Ping",
+        "Alternative Name": "Greta Maxwell",
+        "Birthday": "1939",
+        "Birthplace": "Denmark",
+        "Height": "NA",
+        "Weight": "NA",
+        "Zodiac Sign": "2",
+        "Sexuality": "NA",
+        "Religion": "1",
+        "Ethnicity": "8",
+        "Nationality": "50",
+        "Occupation": "8"
+    }
+}

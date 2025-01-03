@@ -1,0 +1,44 @@
+{
+    "relationships": [
+        {
+            "name": "Seymour Stein",
+            "href": "https://www.whosdatedwho.com/dating/seymour-stein",
+            "relationship_type": 4,
+            "start_date": "1971",
+            "end_date": "1979",
+            "length": "8 years",
+            "start_months_since_1900": 852,
+            "end_months_since_1900": 948,
+            "length_in_months": 96
+        },
+        {
+            "name": "Dee Dee Ramone",
+            "href": "https://www.whosdatedwho.com/dating/dee-dee-ramone",
+            "relationship_type": 3,
+            "start_date": "",
+            "end_date": "",
+            "length": "-",
+            "start_months_since_1900": -1,
+            "end_months_since_1900": -1,
+            "length_in_months": -1
+        }
+    ],
+    "details": {
+        "First Name": "Linda",
+        "Middle Name": "S",
+        "Last Name": "Stein",
+        "Maiden Name": "Adler",
+        "Full Name at Birth": "Linda S. Adler",
+        "Alternative Name": "Linda Adler, Linda Stein, Linda S. Stein",
+        "Birthday": "1945",
+        "Birthplace": "NY",
+        "Height": "152",
+        "Weight": "NA",
+        "Zodiac Sign": "3",
+        "Sexuality": "NA",
+        "Religion": "1",
+        "Ethnicity": "1",
+        "Nationality": "91",
+        "Occupation": "7"
+    }
+}

@@ -1,0 +1,66 @@
+{
+    "relationships": [
+        {
+            "name": "Natalie Paley",
+            "href": "https://www.whosdatedwho.com/dating/natalie-paley",
+            "relationship_type": 4,
+            "start_date": "1936",
+            "end_date": "Oct 1961",
+            "length": "25 years",
+            "start_months_since_1900": 432,
+            "end_months_since_1900": 741,
+            "length_in_months": 300
+        },
+        {
+            "name": "No\u00ebl Coward",
+            "href": "https://www.whosdatedwho.com/dating/noel-coward",
+            "relationship_type": 2,
+            "start_date": "1924",
+            "end_date": "1930",
+            "length": "6 years",
+            "start_months_since_1900": 288,
+            "end_months_since_1900": 360,
+            "length_in_months": 72
+        },
+        {
+            "name": "Otis Bigelow",
+            "href": "https://www.whosdatedwho.com/dating/otis-bigelow-75810636",
+            "relationship_type": 3,
+            "start_date": "",
+            "end_date": "",
+            "length": "-",
+            "start_months_since_1900": -1,
+            "end_months_since_1900": -1,
+            "length_in_months": -1
+        },
+        {
+            "name": "Cole Porter",
+            "href": "https://www.whosdatedwho.com/dating/cole-porter",
+            "relationship_type": 2,
+            "start_date": "",
+            "end_date": "",
+            "length": "-",
+            "start_months_since_1900": -1,
+            "end_months_since_1900": -1,
+            "length_in_months": -1
+        }
+    ],
+    "details": {
+        "First Name": "John",
+        "Middle Name": "C.",
+        "Last Name": "Wilson",
+        "Maiden Name": "NA",
+        "Full Name at Birth": "John Chapman Wilson",
+        "Alternative Name": "John C. \"Jack\" Wilson",
+        "Birthday": "1899",
+        "Birthplace": "USA",
+        "Height": "NA",
+        "Weight": "NA",
+        "Zodiac Sign": "12",
+        "Sexuality": "Gay",
+        "Religion": "1",
+        "Ethnicity": "6",
+        "Nationality": "91",
+        "Occupation": "7"
+    }
+}

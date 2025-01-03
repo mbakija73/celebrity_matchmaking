@@ -1,0 +1,33 @@
+{
+    "relationships": [
+        {
+            "name": "Frank McAvennie",
+            "href": "https://www.whosdatedwho.com/dating/frank-mcavennie",
+            "relationship_type": 2,
+            "start_date": "1987",
+            "end_date": "1992",
+            "length": "5 years",
+            "start_months_since_1900": 1044,
+            "end_months_since_1900": 1104,
+            "length_in_months": 60
+        }
+    ],
+    "details": {
+        "First Name": "Jenny",
+        "Middle Name": "NA",
+        "Last Name": "Blyth",
+        "Maiden Name": "NA",
+        "Full Name at Birth": "NA",
+        "Alternative Name": "NA",
+        "Birthday": "NA",
+        "Birthplace": "NA",
+        "Height": "NA",
+        "Weight": "NA",
+        "Zodiac Sign": "2",
+        "Sexuality": "NA",
+        "Religion": "1",
+        "Ethnicity": "6",
+        "Nationality": "8",
+        "Occupation": "16"
+    }
+}

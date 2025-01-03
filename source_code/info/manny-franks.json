@@ -1,0 +1,55 @@
+{
+    "relationships": [
+        {
+            "name": "Greta Thyssen",
+            "href": "https://www.whosdatedwho.com/dating/greta-thyssen",
+            "relationship_type": 2,
+            "start_date": "1957",
+            "end_date": "1957",
+            "length": "-",
+            "start_months_since_1900": 684,
+            "end_months_since_1900": 684,
+            "length_in_months": -1
+        },
+        {
+            "name": "Jane Howard",
+            "href": "https://www.whosdatedwho.com/dating/jane-howard",
+            "relationship_type": 2,
+            "start_date": "Oct 1956",
+            "end_date": "Nov 1956",
+            "length": "1 month",
+            "start_months_since_1900": 681,
+            "end_months_since_1900": 682,
+            "length_in_months": 1
+        },
+        {
+            "name": "Vivian Blaine",
+            "href": "https://www.whosdatedwho.com/dating/vivian-blaine",
+            "relationship_type": 4,
+            "start_date": "1943",
+            "end_date": "10th Dec 1956",
+            "length": "13 years",
+            "start_months_since_1900": 516,
+            "end_months_since_1900": 683,
+            "length_in_months": 156
+        }
+    ],
+    "details": {
+        "First Name": "Manny",
+        "Middle Name": "NA",
+        "Last Name": "Franks",
+        "Maiden Name": "NA",
+        "Full Name at Birth": "NA",
+        "Alternative Name": "NA",
+        "Birthday": "NA",
+        "Birthplace": "NA",
+        "Height": "NA",
+        "Weight": "NA",
+        "Zodiac Sign": "2",
+        "Sexuality": "NA",
+        "Religion": "1",
+        "Ethnicity": "1",
+        "Nationality": "65",
+        "Occupation": "19"
+    }
+}

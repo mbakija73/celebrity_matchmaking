@@ -1,0 +1,55 @@
+{
+    "relationships": [
+        {
+            "name": "Ursula Parrott",
+            "href": "https://www.whosdatedwho.com/dating/ursula-parrott",
+            "relationship_type": 4,
+            "start_date": "Dec 1938",
+            "end_date": "1944",
+            "length": "5 years",
+            "start_months_since_1900": 467,
+            "end_months_since_1900": 528,
+            "length_in_months": 60
+        },
+        {
+            "name": "Julie Laird",
+            "href": "https://www.whosdatedwho.com/dating/julie-laird",
+            "relationship_type": 4,
+            "start_date": "Jan 1937",
+            "end_date": "Jan 1939",
+            "length": "2 years",
+            "start_months_since_1900": 444,
+            "end_months_since_1900": 468,
+            "length_in_months": 24
+        },
+        {
+            "name": "Ruth Fahnestock",
+            "href": "https://www.whosdatedwho.com/dating/ruth-fahnestock",
+            "relationship_type": 4,
+            "start_date": "1928",
+            "end_date": "Nov 1936",
+            "length": "8 years",
+            "start_months_since_1900": 336,
+            "end_months_since_1900": 442,
+            "length_in_months": 96
+        }
+    ],
+    "details": {
+        "First Name": "A",
+        "Middle Name": "Coster",
+        "Last Name": "Schermerhorn",
+        "Maiden Name": "NA",
+        "Full Name at Birth": "Alfred Coster Schermerhorn",
+        "Alternative Name": "NA",
+        "Birthday": "1898",
+        "Birthplace": "United States",
+        "Height": "NA",
+        "Weight": "NA",
+        "Zodiac Sign": "13",
+        "Sexuality": "Straight",
+        "Religion": "18",
+        "Ethnicity": "6",
+        "Nationality": "91",
+        "Occupation": "10"
+    }
+}

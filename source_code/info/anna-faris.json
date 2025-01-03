@@ -1,0 +1,55 @@
+{
+    "relationships": [
+        {
+            "name": "Michael Barrett",
+            "href": "https://www.whosdatedwho.com/dating/michael-barrett",
+            "relationship_type": 4,
+            "start_date": "Sep 2017",
+            "end_date": "present",
+            "length": "7 years",
+            "start_months_since_1900": 1412,
+            "end_months_since_1900": -1,
+            "length_in_months": 84
+        },
+        {
+            "name": "Chris Pratt",
+            "href": "https://www.whosdatedwho.com/dating/chris-pratt",
+            "relationship_type": 4,
+            "start_date": "May 2008",
+            "end_date": "24th Oct 2018",
+            "length": "10 years",
+            "start_months_since_1900": 1300,
+            "end_months_since_1900": 1425,
+            "length_in_months": 120
+        },
+        {
+            "name": "Ben Indra",
+            "href": "https://www.whosdatedwho.com/dating/ben-indra",
+            "relationship_type": 4,
+            "start_date": "1999",
+            "end_date": "19th Feb 2008",
+            "length": "9 years",
+            "start_months_since_1900": 1188,
+            "end_months_since_1900": 1297,
+            "length_in_months": 108
+        }
+    ],
+    "details": {
+        "First Name": "Anna",
+        "Middle Name": "Kay",
+        "Last Name": "Platt",
+        "Maiden Name": "Faris",
+        "Full Name at Birth": "Anna Kay Faris",
+        "Alternative Name": "Anna Faris Platt, Anna Kay Faris, Anna Faris",
+        "Birthday": "1976",
+        "Birthplace": "USA",
+        "Height": "165",
+        "Weight": "119lbs (54 kg)",
+        "Zodiac Sign": "6",
+        "Sexuality": "Straight",
+        "Religion": "28",
+        "Ethnicity": "6",
+        "Nationality": "91",
+        "Occupation": "8"
+    }
+}

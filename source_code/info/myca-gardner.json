@@ -1,0 +1,66 @@
+{
+    "relationships": [
+        {
+            "name": "Sunny Sultana",
+            "href": "https://www.whosdatedwho.com/dating/sunny-sultana",
+            "relationship_type": 2,
+            "start_date": "Nov 2012",
+            "end_date": "present",
+            "length": "11 years",
+            "start_months_since_1900": 1354,
+            "end_months_since_1900": -1,
+            "length_in_months": 132
+        },
+        {
+            "name": "Danny Worsnop",
+            "href": "https://www.whosdatedwho.com/dating/danny-worsnop",
+            "relationship_type": 2,
+            "start_date": "Apr 2010",
+            "end_date": "Apr 2012",
+            "length": "2 years",
+            "start_months_since_1900": 1323,
+            "end_months_since_1900": 1347,
+            "length_in_months": 24
+        },
+        {
+            "name": "Sj Valenz",
+            "href": "https://www.whosdatedwho.com/dating/sj-valenz",
+            "relationship_type": 1,
+            "start_date": "",
+            "end_date": "",
+            "length": "-",
+            "start_months_since_1900": -1,
+            "end_months_since_1900": -1,
+            "length_in_months": -1
+        },
+        {
+            "name": "Craig Mabbitt",
+            "href": "https://www.whosdatedwho.com/dating/craig-mabbitt",
+            "relationship_type": 2,
+            "start_date": "",
+            "end_date": "",
+            "length": "-",
+            "start_months_since_1900": -1,
+            "end_months_since_1900": -1,
+            "length_in_months": -1
+        }
+    ],
+    "details": {
+        "First Name": "Myca",
+        "Middle Name": "Patryce",
+        "Last Name": "Gardner",
+        "Maiden Name": "NA",
+        "Full Name at Birth": "NA",
+        "Alternative Name": "NA",
+        "Birthday": "1990",
+        "Birthplace": "Texas",
+        "Height": "168",
+        "Weight": "140lbs (64 kg)",
+        "Zodiac Sign": "7",
+        "Sexuality": "Straight",
+        "Religion": "1",
+        "Ethnicity": "6",
+        "Nationality": "91",
+        "Occupation": "11"
+    }
+}

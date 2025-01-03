@@ -1,0 +1,88 @@
+{
+    "relationships": [
+        {
+            "name": "Charles Rubin",
+            "href": "https://www.whosdatedwho.com/dating/charles-rubin",
+            "relationship_type": 4,
+            "start_date": "1998",
+            "end_date": "present",
+            "length": "26 years",
+            "start_months_since_1900": 1176,
+            "end_months_since_1900": -1,
+            "length_in_months": 312
+        },
+        {
+            "name": "Bruce Dern",
+            "href": "https://www.whosdatedwho.com/dating/bruce-dern",
+            "relationship_type": 3,
+            "start_date": "1981",
+            "end_date": "1981",
+            "length": "-",
+            "start_months_since_1900": 972,
+            "end_months_since_1900": 972,
+            "length_in_months": -1
+        },
+        {
+            "name": "Reid Smith",
+            "href": "https://www.whosdatedwho.com/dating/reid-smith",
+            "relationship_type": 2,
+            "start_date": "1978",
+            "end_date": "1981",
+            "length": "3 years",
+            "start_months_since_1900": 936,
+            "end_months_since_1900": 972,
+            "length_in_months": 36
+        },
+        {
+            "name": "O.J. Simpson",
+            "href": "https://www.whosdatedwho.com/dating/o-j-simpson",
+            "relationship_type": 3,
+            "start_date": "1975",
+            "end_date": "1975",
+            "length": "-",
+            "start_months_since_1900": 900,
+            "end_months_since_1900": 900,
+            "length_in_months": -1
+        },
+        {
+            "name": "Roy Adams (photographer)",
+            "href": "https://www.whosdatedwho.com/dating/roy-adams-photographer",
+            "relationship_type": 4,
+            "start_date": "1965",
+            "end_date": "1975",
+            "length": "10 years",
+            "start_months_since_1900": 780,
+            "end_months_since_1900": 900,
+            "length_in_months": 120
+        },
+        {
+            "name": "Roy Adams",
+            "href": "https://www.whosdatedwho.com/dating/roy-adams",
+            "relationship_type": 1,
+            "start_date": "",
+            "end_date": "",
+            "length": "-",
+            "start_months_since_1900": -1,
+            "end_months_since_1900": -1,
+            "length_in_months": -1
+        }
+    ],
+    "details": {
+        "First Name": "Maud",
+        "Middle Name": "Solveig Christina",
+        "Last Name": "Adams",
+        "Maiden Name": "Wikstr\u00f6m",
+        "Full Name at Birth": "Maud Solveig Christina Wikstr\u00f6m",
+        "Alternative Name": "Maud Solveig Christina Wikstr\u00f6m, Maud Adams",
+        "Birthday": "1945",
+        "Birthplace": "Sweden",
+        "Height": "175",
+        "Weight": "134lbs (61 kg)",
+        "Zodiac Sign": "9",
+        "Sexuality": "Straight",
+        "Religion": "1",
+        "Ethnicity": "6",
+        "Nationality": "30",
+        "Occupation": "8"
+    }
+}

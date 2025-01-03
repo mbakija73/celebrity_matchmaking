@@ -1,0 +1,33 @@
+{
+    "relationships": [
+        {
+            "name": "Bill Clinton",
+            "href": "https://www.whosdatedwho.com/dating/bill-clinton",
+            "relationship_type": 1,
+            "start_date": "2015",
+            "end_date": "2015",
+            "length": "-",
+            "start_months_since_1900": 1380,
+            "end_months_since_1900": 1380,
+            "length_in_months": -1
+        }
+    ],
+    "details": {
+        "First Name": "Sarah",
+        "Middle Name": "Grace",
+        "Last Name": "Kustok",
+        "Maiden Name": "NA",
+        "Full Name at Birth": "Sarah Grace Kustok",
+        "Alternative Name": "Sarah",
+        "Birthday": "1981",
+        "Birthplace": "USA",
+        "Height": "175",
+        "Weight": "NA",
+        "Zodiac Sign": "6",
+        "Sexuality": "Straight",
+        "Religion": "1",
+        "Ethnicity": "6",
+        "Nationality": "91",
+        "Occupation": "3"
+    }
+}

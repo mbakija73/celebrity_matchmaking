@@ -1,0 +1,27 @@
+{
+    "relationships": [
+        {
+            "name": "Leah Lewis",
+            "href": "https://www.whosdatedwho.com/dating/leah-lewis",
+            "relationship_type": 2,
+            "start_date": "May 2016",
+            "end_date": "May 2016",
+            "length": "-",
+            "start_months_since_1900": 1396,
+            "end_months_since_1900": 1396,
+            "length_in_months": -1
+        },
+        {
+            "name": "Janel Parrish",
+            "href": "https://www.whosdatedwho.com/dating/janel-parrish",
+            "relationship_type": 2,
+            "start_date": "Oct 2013",
+            "end_date": "Oct 2014",
+            "length": "1 year",
+            "start_months_since_1900": 1365,
+            "end_months_since_1900": 1377,
+            "length_in_months": 12
+        }
+    ],
+    "details": {}
+}

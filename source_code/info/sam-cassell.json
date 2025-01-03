@@ -1,0 +1,44 @@
+{
+    "relationships": [
+        {
+            "name": "Anitra Griffin",
+            "href": "https://www.whosdatedwho.com/dating/anitra-griffin",
+            "relationship_type": 2,
+            "start_date": "Mar 2007",
+            "end_date": "",
+            "length": "-",
+            "start_months_since_1900": 1286,
+            "end_months_since_1900": -1,
+            "length_in_months": -1
+        },
+        {
+            "name": "Ananda Lewis",
+            "href": "https://www.whosdatedwho.com/dating/ananda-lewis",
+            "relationship_type": 2,
+            "start_date": "2006",
+            "end_date": "2007",
+            "length": "1 year",
+            "start_months_since_1900": 1272,
+            "end_months_since_1900": 1284,
+            "length_in_months": 12
+        }
+    ],
+    "details": {
+        "First Name": "Sam",
+        "Middle Name": "James",
+        "Last Name": "Cassell",
+        "Maiden Name": "NA",
+        "Full Name at Birth": "Samuel James Cassell",
+        "Alternative Name": "Sam",
+        "Birthday": "1969",
+        "Birthplace": "US",
+        "Height": "191",
+        "Weight": "185lbs (84 kg)",
+        "Zodiac Sign": "5",
+        "Sexuality": "NA",
+        "Religion": "1",
+        "Ethnicity": "2",
+        "Nationality": "91",
+        "Occupation": "2"
+    }
+}

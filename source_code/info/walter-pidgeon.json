@@ -1,0 +1,66 @@
+{
+    "relationships": [
+        {
+            "name": "Ruth Walker",
+            "href": "https://www.whosdatedwho.com/dating/ruth-walker",
+            "relationship_type": 4,
+            "start_date": "Dec 1930",
+            "end_date": "Sep 1984",
+            "length": "53 years",
+            "start_months_since_1900": 371,
+            "end_months_since_1900": 1016,
+            "length_in_months": 636
+        },
+        {
+            "name": "Edna Pickles",
+            "href": "https://www.whosdatedwho.com/dating/edna-pickles",
+            "relationship_type": 4,
+            "start_date": "1921",
+            "end_date": "Oct 1924",
+            "length": "3 years",
+            "start_months_since_1900": 252,
+            "end_months_since_1900": 297,
+            "length_in_months": 36
+        },
+        {
+            "name": "Ruth Weston",
+            "href": "https://www.whosdatedwho.com/dating/ruth-weston",
+            "relationship_type": 1,
+            "start_date": "",
+            "end_date": "",
+            "length": "-",
+            "start_months_since_1900": -1,
+            "end_months_since_1900": -1,
+            "length_in_months": -1
+        },
+        {
+            "name": "Mildred Shay",
+            "href": "https://www.whosdatedwho.com/dating/mildred-shay",
+            "relationship_type": 3,
+            "start_date": "",
+            "end_date": "",
+            "length": "-",
+            "start_months_since_1900": -1,
+            "end_months_since_1900": -1,
+            "length_in_months": -1
+        }
+    ],
+    "details": {
+        "First Name": "Walter",
+        "Middle Name": "Davis",
+        "Last Name": "Pidgeon",
+        "Maiden Name": "NA",
+        "Full Name at Birth": "Walter Davis Pidgeon",
+        "Alternative Name": "Walter Davis Pidgeon, Walter Pidgeon",
+        "Birthday": "1897",
+        "Birthplace": "Canada",
+        "Height": "188",
+        "Weight": "NA",
+        "Zodiac Sign": "11",
+        "Sexuality": "Bisexual",
+        "Religion": "1",
+        "Ethnicity": "6",
+        "Nationality": "90",
+        "Occupation": "8"
+    }
+}

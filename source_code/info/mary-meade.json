@@ -1,0 +1,66 @@
+{
+    "relationships": [
+        {
+            "name": "John richard Bremerkamp",
+            "href": "https://www.whosdatedwho.com/dating/john-richard-bremerkamp",
+            "relationship_type": 4,
+            "start_date": "1971",
+            "end_date": "Dec 2001",
+            "length": "30 years",
+            "start_months_since_1900": 852,
+            "end_months_since_1900": 1223,
+            "length_in_months": 360
+        },
+        {
+            "name": "Joe DiMaggio",
+            "href": "https://www.whosdatedwho.com/dating/joe-dimaggio",
+            "relationship_type": 3,
+            "start_date": "May 1959",
+            "end_date": "Jun 1959",
+            "length": "1 month",
+            "start_months_since_1900": 712,
+            "end_months_since_1900": 713,
+            "length_in_months": 1
+        },
+        {
+            "name": "Vittorio Gassman",
+            "href": "https://www.whosdatedwho.com/dating/vittorio-gassman",
+            "relationship_type": 2,
+            "start_date": "Aug 1958",
+            "end_date": "Sep 1958",
+            "length": "1 month",
+            "start_months_since_1900": 703,
+            "end_months_since_1900": 704,
+            "length_in_months": 1
+        },
+        {
+            "name": "Ted Grouya",
+            "href": "https://www.whosdatedwho.com/dating/ted-grouya",
+            "relationship_type": 4,
+            "start_date": "Jan 1949",
+            "end_date": "1956",
+            "length": "7 years",
+            "start_months_since_1900": 588,
+            "end_months_since_1900": 672,
+            "length_in_months": 84
+        }
+    ],
+    "details": {
+        "First Name": "Mary",
+        "Middle Name": "NA",
+        "Last Name": "Meade",
+        "Maiden Name": "NA",
+        "Full Name at Birth": "Mary Meade",
+        "Alternative Name": "NA",
+        "Birthday": "1923",
+        "Birthplace": "Louisiana",
+        "Height": "NA",
+        "Weight": "NA",
+        "Zodiac Sign": "6",
+        "Sexuality": "Straight",
+        "Religion": "1",
+        "Ethnicity": "6",
+        "Nationality": "91",
+        "Occupation": "8"
+    }
+}

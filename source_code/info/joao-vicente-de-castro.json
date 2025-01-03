@@ -1,0 +1,55 @@
+{
+    "relationships": [
+        {
+            "name": "Sabrina Sato",
+            "href": "https://www.whosdatedwho.com/dating/sabrina-sato",
+            "relationship_type": 2,
+            "start_date": "May 2013",
+            "end_date": "May 2015",
+            "length": "2 years",
+            "start_months_since_1900": 1360,
+            "end_months_since_1900": 1384,
+            "length_in_months": 24
+        },
+        {
+            "name": "Cleo",
+            "href": "https://www.whosdatedwho.com/dating/cleo-pires",
+            "relationship_type": 2,
+            "start_date": "Jun 2009",
+            "end_date": "Sep 2012",
+            "length": "3 years",
+            "start_months_since_1900": 1313,
+            "end_months_since_1900": 1352,
+            "length_in_months": 36
+        },
+        {
+            "name": "Daniella Cicarelli",
+            "href": "https://www.whosdatedwho.com/dating/daniella-cicarelli",
+            "relationship_type": 3,
+            "start_date": "May 2009",
+            "end_date": "Jun 2009",
+            "length": "1 month",
+            "start_months_since_1900": 1312,
+            "end_months_since_1900": 1313,
+            "length_in_months": 1
+        }
+    ],
+    "details": {
+        "First Name": "Joao",
+        "Middle Name": "Vicente",
+        "Last Name": "Castro",
+        "Maiden Name": "NA",
+        "Full Name at Birth": "Jo\u00e3o Vicente de Castro",
+        "Alternative Name": "NA",
+        "Birthday": "1983",
+        "Birthplace": "Brazil",
+        "Height": "NA",
+        "Weight": "NA",
+        "Zodiac Sign": "7",
+        "Sexuality": "Straight",
+        "Religion": "1",
+        "Ethnicity": "8",
+        "Nationality": "87",
+        "Occupation": "16"
+    }
+}

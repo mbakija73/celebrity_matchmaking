@@ -1,0 +1,33 @@
+{
+    "relationships": [
+        {
+            "name": "Josephine Baker",
+            "href": "https://www.whosdatedwho.com/dating/josephine-baker",
+            "relationship_type": 4,
+            "start_date": "Oct 1937",
+            "end_date": "1938",
+            "length": "3 months",
+            "start_months_since_1900": 453,
+            "end_months_since_1900": 456,
+            "length_in_months": 3
+        }
+    ],
+    "details": {
+        "First Name": "Jean",
+        "Middle Name": "NA",
+        "Last Name": "Lion",
+        "Maiden Name": "NA",
+        "Full Name at Birth": "NA",
+        "Alternative Name": "NA",
+        "Birthday": "NA",
+        "Birthplace": "NA",
+        "Height": "NA",
+        "Weight": "NA",
+        "Zodiac Sign": "2",
+        "Sexuality": "NA",
+        "Religion": "1",
+        "Ethnicity": "1",
+        "Nationality": "65",
+        "Occupation": "19"
+    }
+}

@@ -1,0 +1,77 @@
+{
+    "relationships": [
+        {
+            "name": "Bu Thiam",
+            "href": "https://www.whosdatedwho.com/dating/bu-thiam",
+            "relationship_type": 2,
+            "start_date": "May 2011",
+            "end_date": "Mar 2013",
+            "length": "1 year",
+            "start_months_since_1900": 1336,
+            "end_months_since_1900": 1358,
+            "length_in_months": 12
+        },
+        {
+            "name": "Chris Webber",
+            "href": "https://www.whosdatedwho.com/dating/chris-webber",
+            "relationship_type": 2,
+            "start_date": "2007",
+            "end_date": "2007",
+            "length": "-",
+            "start_months_since_1900": 1284,
+            "end_months_since_1900": 1284,
+            "length_in_months": -1
+        },
+        {
+            "name": "Nas",
+            "href": "https://www.whosdatedwho.com/dating/nas",
+            "relationship_type": 2,
+            "start_date": "",
+            "end_date": "",
+            "length": "-",
+            "start_months_since_1900": -1,
+            "end_months_since_1900": -1,
+            "length_in_months": -1
+        },
+        {
+            "name": "Henry Simmons",
+            "href": "https://www.whosdatedwho.com/dating/henry-simmons",
+            "relationship_type": 2,
+            "start_date": "",
+            "end_date": "",
+            "length": "-",
+            "start_months_since_1900": -1,
+            "end_months_since_1900": -1,
+            "length_in_months": -1
+        },
+        {
+            "name": "DeRay Davis",
+            "href": "https://www.whosdatedwho.com/dating/deray-davis",
+            "relationship_type": 1,
+            "start_date": "",
+            "end_date": "",
+            "length": "-",
+            "start_months_since_1900": -1,
+            "end_months_since_1900": -1,
+            "length_in_months": -1
+        }
+    ],
+    "details": {
+        "First Name": "Tracee",
+        "Middle Name": "Ellis",
+        "Last Name": "Ross",
+        "Maiden Name": "Silberstein",
+        "Full Name at Birth": "Tracee Joy Silberstein",
+        "Alternative Name": "Tracee Joy Silberstein, Tracee Ellie Ross, Tracy Ellis Ross, Tracee Ellis Ross",
+        "Birthday": "1972",
+        "Birthplace": "USA",
+        "Height": "170",
+        "Weight": "115lbs (52 kg)",
+        "Zodiac Sign": "5",
+        "Sexuality": "Straight",
+        "Religion": "31",
+        "Ethnicity": "8",
+        "Nationality": "91",
+        "Occupation": "8"
+    }
+}

@@ -1,0 +1,88 @@
+{
+    "relationships": [
+        {
+            "name": "Rachel Bilson",
+            "href": "https://www.whosdatedwho.com/dating/rachel-bilson",
+            "relationship_type": 2,
+            "start_date": "Jan 2007",
+            "end_date": "Sep 2017",
+            "length": "10 years",
+            "start_months_since_1900": 1284,
+            "end_months_since_1900": 1412,
+            "length_in_months": 120
+        },
+        {
+            "name": "Sienna Miller",
+            "href": "https://www.whosdatedwho.com/dating/sienna-miller",
+            "relationship_type": 3,
+            "start_date": "2006",
+            "end_date": "2006",
+            "length": "-",
+            "start_months_since_1900": 1272,
+            "end_months_since_1900": 1272,
+            "length_in_months": -1
+        },
+        {
+            "name": "Eva Longoria",
+            "href": "https://www.whosdatedwho.com/dating/eva-longoria",
+            "relationship_type": 3,
+            "start_date": "May 2005",
+            "end_date": "Jun 2005",
+            "length": "1 month",
+            "start_months_since_1900": 1264,
+            "end_months_since_1900": 1265,
+            "length_in_months": 1
+        },
+        {
+            "name": "Reena Hammer",
+            "href": "https://www.whosdatedwho.com/dating/reena-hammer",
+            "relationship_type": 2,
+            "start_date": "2001",
+            "end_date": "2002",
+            "length": "1 year",
+            "start_months_since_1900": 1212,
+            "end_months_since_1900": 1224,
+            "length_in_months": 12
+        },
+        {
+            "name": "Natalie Portman",
+            "href": "https://www.whosdatedwho.com/dating/natalie-portman",
+            "relationship_type": 2,
+            "start_date": "2000",
+            "end_date": "2001",
+            "length": "1 year",
+            "start_months_since_1900": 1200,
+            "end_months_since_1900": 1212,
+            "length_in_months": 12
+        },
+        {
+            "name": "Taylor Thomas",
+            "href": "https://www.whosdatedwho.com/dating/taylor-thomas",
+            "relationship_type": 2,
+            "start_date": "2000",
+            "end_date": "2000",
+            "length": "-",
+            "start_months_since_1900": 1200,
+            "end_months_since_1900": 1200,
+            "length_in_months": -1
+        }
+    ],
+    "details": {
+        "First Name": "Hayden",
+        "Middle Name": "Christopher",
+        "Last Name": "Christensen",
+        "Maiden Name": "NA",
+        "Full Name at Birth": "Hayden Christopher Christensen",
+        "Alternative Name": "Den, H",
+        "Birthday": "1981",
+        "Birthplace": "British Columbia",
+        "Height": "183",
+        "Weight": "206lbs (93 kg)",
+        "Zodiac Sign": "7",
+        "Sexuality": "Straight",
+        "Religion": "18",
+        "Ethnicity": "6",
+        "Nationality": "90",
+        "Occupation": "8"
+    }
+}

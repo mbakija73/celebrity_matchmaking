@@ -1,0 +1,55 @@
+{
+    "relationships": [
+        {
+            "name": "Louise Currie",
+            "href": "https://www.whosdatedwho.com/dating/louise-currie",
+            "relationship_type": 4,
+            "start_date": "2001",
+            "end_date": "Oct 2003",
+            "length": "2 years",
+            "start_months_since_1900": 1212,
+            "end_months_since_1900": 1245,
+            "length_in_months": 24
+        },
+        {
+            "name": "Donna Reed",
+            "href": "https://www.whosdatedwho.com/dating/donna-reed",
+            "relationship_type": 4,
+            "start_date": "Aug 1973",
+            "end_date": "Jan 1986",
+            "length": "12 years",
+            "start_months_since_1900": 883,
+            "end_months_since_1900": 1032,
+            "length_in_months": 144
+        },
+        {
+            "name": "Debbie Reynolds",
+            "href": "https://www.whosdatedwho.com/dating/debbie-reynolds",
+            "relationship_type": 2,
+            "start_date": "",
+            "end_date": "",
+            "length": "-",
+            "start_months_since_1900": -1,
+            "end_months_since_1900": -1,
+            "length_in_months": -1
+        }
+    ],
+    "details": {
+        "First Name": "Grover",
+        "Middle Name": "Grover",
+        "Last Name": "Asmus",
+        "Maiden Name": "NA",
+        "Full Name at Birth": "Grover Asmus",
+        "Alternative Name": "NA",
+        "Birthday": "1926",
+        "Birthplace": "New Jersey",
+        "Height": "NA",
+        "Weight": "NA",
+        "Zodiac Sign": "13",
+        "Sexuality": "NA",
+        "Religion": "1",
+        "Ethnicity": "1",
+        "Nationality": "65",
+        "Occupation": "19"
+    }
+}

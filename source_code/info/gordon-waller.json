@@ -1,0 +1,77 @@
+{
+    "relationships": [
+        {
+            "name": "Jen Waller",
+            "href": "https://www.whosdatedwho.com/dating/jen-waller",
+            "relationship_type": 4,
+            "start_date": "Mar 2008",
+            "end_date": "Jul 2009",
+            "length": "1 year",
+            "start_months_since_1900": 1298,
+            "end_months_since_1900": 1314,
+            "length_in_months": 12
+        },
+        {
+            "name": "Heather Daltrey",
+            "href": "https://www.whosdatedwho.com/dating/heather-daltrey",
+            "relationship_type": 3,
+            "start_date": "1964",
+            "end_date": "1964",
+            "length": "-",
+            "start_months_since_1900": 768,
+            "end_months_since_1900": 768,
+            "length_in_months": -1
+        },
+        {
+            "name": "Jennifer Dunbar Dorn",
+            "href": "https://www.whosdatedwho.com/dating/jennifer-dunbar-dorn",
+            "relationship_type": 2,
+            "start_date": "1964",
+            "end_date": "1965",
+            "length": "1 year",
+            "start_months_since_1900": 768,
+            "end_months_since_1900": 780,
+            "length_in_months": 12
+        },
+        {
+            "name": "Georgiana Steele",
+            "href": "https://www.whosdatedwho.com/dating/georgiana-steele",
+            "relationship_type": 4,
+            "start_date": "",
+            "end_date": "",
+            "length": "-",
+            "start_months_since_1900": -1,
+            "end_months_since_1900": -1,
+            "length_in_months": -1
+        },
+        {
+            "name": "Gay Waller",
+            "href": "https://www.whosdatedwho.com/dating/gay-waller",
+            "relationship_type": 4,
+            "start_date": "",
+            "end_date": "",
+            "length": "-",
+            "start_months_since_1900": -1,
+            "end_months_since_1900": -1,
+            "length_in_months": -1
+        }
+    ],
+    "details": {
+        "First Name": "Gordon",
+        "Middle Name": "NA",
+        "Last Name": "Waller",
+        "Maiden Name": "NA",
+        "Full Name at Birth": "Gordon Trueman Riviere Waller",
+        "Alternative Name": "NA",
+        "Birthday": "1945",
+        "Birthplace": "Scotland",
+        "Height": "NA",
+        "Weight": "NA",
+        "Zodiac Sign": "4",
+        "Sexuality": "Straight",
+        "Religion": "1",
+        "Ethnicity": "6",
+        "Nationality": "131",
+        "Occupation": "1"
+    }
+}

@@ -1,0 +1,44 @@
+{
+    "relationships": [
+        {
+            "name": "Tommy Baldwin",
+            "href": "https://www.whosdatedwho.com/dating/tommy-baldwin-jr",
+            "relationship_type": 4,
+            "start_date": "2000",
+            "end_date": "present",
+            "length": "24 years",
+            "start_months_since_1900": 1200,
+            "end_months_since_1900": -1,
+            "length_in_months": 288
+        },
+        {
+            "name": "Brian Krause",
+            "href": "https://www.whosdatedwho.com/dating/brian-krause",
+            "relationship_type": 4,
+            "start_date": "1994",
+            "end_date": "2001",
+            "length": "7 years",
+            "start_months_since_1900": 1128,
+            "end_months_since_1900": 1212,
+            "length_in_months": 84
+        }
+    ],
+    "details": {
+        "First Name": "Beth",
+        "Middle Name": "NA",
+        "Last Name": "Baldwin",
+        "Maiden Name": "Bruce",
+        "Full Name at Birth": "Beth Bruce",
+        "Alternative Name": "NA",
+        "Birthday": "1969",
+        "Birthplace": "NA",
+        "Height": "NA",
+        "Weight": "NA",
+        "Zodiac Sign": "2",
+        "Sexuality": "Straight",
+        "Religion": "1",
+        "Ethnicity": "6",
+        "Nationality": "65",
+        "Occupation": "8"
+    }
+}

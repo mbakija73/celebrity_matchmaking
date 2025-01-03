@@ -1,0 +1,99 @@
+{
+    "relationships": [
+        {
+            "name": "Nick Valensi",
+            "href": "https://www.whosdatedwho.com/dating/nick-valensi",
+            "relationship_type": 4,
+            "start_date": "2001",
+            "end_date": "",
+            "length": "-",
+            "start_months_since_1900": 1212,
+            "end_months_since_1900": -1,
+            "length_in_months": -1
+        },
+        {
+            "name": "Nick Kamen",
+            "href": "https://www.whosdatedwho.com/dating/nick-kamen",
+            "relationship_type": 2,
+            "start_date": "1999",
+            "end_date": "2001",
+            "length": "2 years",
+            "start_months_since_1900": 1188,
+            "end_months_since_1900": 1212,
+            "length_in_months": 24
+        },
+        {
+            "name": "Keanu Reeves",
+            "href": "https://www.whosdatedwho.com/dating/keanu-reeves",
+            "relationship_type": 2,
+            "start_date": "Sep 1995",
+            "end_date": "Nov 2001",
+            "length": "6 years",
+            "start_months_since_1900": 1148,
+            "end_months_since_1900": 1222,
+            "length_in_months": 72
+        },
+        {
+            "name": "Jack Nicholson",
+            "href": "https://www.whosdatedwho.com/dating/jack-nicholson",
+            "relationship_type": 3,
+            "start_date": "1995",
+            "end_date": "1995",
+            "length": "-",
+            "start_months_since_1900": 1140,
+            "end_months_since_1900": 1140,
+            "length_in_months": -1
+        },
+        {
+            "name": "Courtney Love",
+            "href": "https://www.whosdatedwho.com/dating/courtney-love",
+            "relationship_type": 3,
+            "start_date": "1994",
+            "end_date": "1994",
+            "length": "-",
+            "start_months_since_1900": 1128,
+            "end_months_since_1900": 1128,
+            "length_in_months": -1
+        },
+        {
+            "name": "John Taylor",
+            "href": "https://www.whosdatedwho.com/dating/john-taylor",
+            "relationship_type": 4,
+            "start_date": "1990",
+            "end_date": "1997",
+            "length": "7 years",
+            "start_months_since_1900": 1080,
+            "end_months_since_1900": 1164,
+            "length_in_months": 84
+        },
+        {
+            "name": "Nathan Moore",
+            "href": "https://www.whosdatedwho.com/dating/nathan-moore",
+            "relationship_type": 2,
+            "start_date": "1988",
+            "end_date": "1989",
+            "length": "1 year",
+            "start_months_since_1900": 1056,
+            "end_months_since_1900": 1068,
+            "length_in_months": 12
+        }
+    ],
+    "details": {
+        "First Name": "Amanda",
+        "Middle Name": "NA",
+        "Last Name": "Valensi",
+        "Maiden Name": "de Cadenet",
+        "Full Name at Birth": "Amanda de Cadenet",
+        "Alternative Name": "NA",
+        "Birthday": "1972",
+        "Birthplace": "England",
+        "Height": "NA",
+        "Weight": "NA",
+        "Zodiac Sign": "3",
+        "Sexuality": "Straight",
+        "Religion": "1",
+        "Ethnicity": "6",
+        "Nationality": "8",
+        "Occupation": "13"
+    }
+}

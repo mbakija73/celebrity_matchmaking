@@ -1,0 +1,66 @@
+{
+    "relationships": [
+        {
+            "name": "Vin Diesel",
+            "href": "https://www.whosdatedwho.com/dating/vin-diesel",
+            "relationship_type": 2,
+            "start_date": "2004",
+            "end_date": "2004",
+            "length": "-",
+            "start_months_since_1900": 1248,
+            "end_months_since_1900": 1248,
+            "length_in_months": -1
+        },
+        {
+            "name": "C.C. DeVille",
+            "href": "https://www.whosdatedwho.com/dating/c-c-deville",
+            "relationship_type": 2,
+            "start_date": "2003",
+            "end_date": "2003",
+            "length": "-",
+            "start_months_since_1900": 1236,
+            "end_months_since_1900": 1236,
+            "length_in_months": -1
+        },
+        {
+            "name": "Corey Feldman",
+            "href": "https://www.whosdatedwho.com/dating/corey-feldman",
+            "relationship_type": 2,
+            "start_date": "1999",
+            "end_date": "2001",
+            "length": "2 years",
+            "start_months_since_1900": 1188,
+            "end_months_since_1900": 1212,
+            "length_in_months": 24
+        },
+        {
+            "name": "Tony Gonzalez",
+            "href": "https://www.whosdatedwho.com/dating/tony-gonzalez",
+            "relationship_type": 3,
+            "start_date": "",
+            "end_date": "",
+            "length": "-",
+            "start_months_since_1900": -1,
+            "end_months_since_1900": -1,
+            "length_in_months": -1
+        }
+    ],
+    "details": {
+        "First Name": "Shannon",
+        "Middle Name": "Erina",
+        "Last Name": "Malone",
+        "Maiden Name": "NA",
+        "Full Name at Birth": "Shannon Erina Malone",
+        "Alternative Name": "Shannon Erina Malone, Shannon Malone",
+        "Birthday": "1977",
+        "Birthplace": "USA",
+        "Height": "165",
+        "Weight": "125lbs (57 kg)",
+        "Zodiac Sign": "4",
+        "Sexuality": "Straight",
+        "Religion": "1",
+        "Ethnicity": "6",
+        "Nationality": "91",
+        "Occupation": "8"
+    }
+}

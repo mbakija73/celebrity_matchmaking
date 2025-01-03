@@ -1,0 +1,77 @@
+{
+    "relationships": [
+        {
+            "name": "Donald Trump",
+            "href": "https://www.whosdatedwho.com/dating/donald-trump",
+            "relationship_type": 2,
+            "start_date": "1998",
+            "end_date": "1998",
+            "length": "-",
+            "start_months_since_1900": 1176,
+            "end_months_since_1900": 1176,
+            "length_in_months": -1
+        },
+        {
+            "name": "Oliver Stone",
+            "href": "https://www.whosdatedwho.com/dating/oliver-stone",
+            "relationship_type": 3,
+            "start_date": "Feb 1995",
+            "end_date": "Feb 1995",
+            "length": "-",
+            "start_months_since_1900": 1141,
+            "end_months_since_1900": 1141,
+            "length_in_months": -1
+        },
+        {
+            "name": "Ted Field",
+            "href": "https://www.whosdatedwho.com/dating/ted-field",
+            "relationship_type": 2,
+            "start_date": "1994",
+            "end_date": "1994",
+            "length": "-",
+            "start_months_since_1900": 1128,
+            "end_months_since_1900": 1128,
+            "length_in_months": -1
+        },
+        {
+            "name": "Marcus Schenkenberg",
+            "href": "https://www.whosdatedwho.com/dating/marcus-schenkenberg",
+            "relationship_type": 2,
+            "start_date": "1990",
+            "end_date": "1992",
+            "length": "2 years",
+            "start_months_since_1900": 1080,
+            "end_months_since_1900": 1104,
+            "length_in_months": 24
+        },
+        {
+            "name": "Peter Beard",
+            "href": "https://www.whosdatedwho.com/dating/peter-beard",
+            "relationship_type": 2,
+            "start_date": "1987",
+            "end_date": "2003",
+            "length": "16 years",
+            "start_months_since_1900": 1044,
+            "end_months_since_1900": 1236,
+            "length_in_months": 192
+        }
+    ],
+    "details": {
+        "First Name": "Maureen",
+        "Middle Name": "NA",
+        "Last Name": "Gallagher",
+        "Maiden Name": "NA",
+        "Full Name at Birth": "NA",
+        "Alternative Name": "NA",
+        "Birthday": "1964",
+        "Birthplace": "Jamaica",
+        "Height": "178",
+        "Weight": "NA",
+        "Zodiac Sign": "6",
+        "Sexuality": "Straight",
+        "Religion": "18",
+        "Ethnicity": "8",
+        "Nationality": "62",
+        "Occupation": "15"
+    }
+}

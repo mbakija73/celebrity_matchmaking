@@ -1,0 +1,44 @@
+{
+    "relationships": [
+        {
+            "name": "Asha Leo",
+            "href": "https://www.whosdatedwho.com/dating/asha-leo",
+            "relationship_type": 2,
+            "start_date": "Jan 2015",
+            "end_date": "Jul 2015",
+            "length": "6 months",
+            "start_months_since_1900": 1380,
+            "end_months_since_1900": 1386,
+            "length_in_months": 6
+        },
+        {
+            "name": "Crystal Reed",
+            "href": "https://www.whosdatedwho.com/dating/crystal-reed",
+            "relationship_type": 2,
+            "start_date": "2012",
+            "end_date": "Jun 2013",
+            "length": "1 year",
+            "start_months_since_1900": 1344,
+            "end_months_since_1900": 1361,
+            "length_in_months": 12
+        }
+    ],
+    "details": {
+        "First Name": "Daniel",
+        "Middle Name": "Andrew",
+        "Last Name": "Sharman",
+        "Maiden Name": "NA",
+        "Full Name at Birth": "Daniel Andrew Sharman",
+        "Alternative Name": "NA",
+        "Birthday": "1986",
+        "Birthplace": "UK",
+        "Height": "187",
+        "Weight": "NA",
+        "Zodiac Sign": "3",
+        "Sexuality": "Straight",
+        "Religion": "1",
+        "Ethnicity": "6",
+        "Nationality": "8",
+        "Occupation": "8"
+    }
+}

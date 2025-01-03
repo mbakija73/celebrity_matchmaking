@@ -1,0 +1,66 @@
+{
+    "relationships": [
+        {
+            "name": "Elvis Presley",
+            "href": "https://www.whosdatedwho.com/dating/elvis-presley",
+            "relationship_type": 2,
+            "start_date": "1961",
+            "end_date": "1962",
+            "length": "1 year",
+            "start_months_since_1900": 732,
+            "end_months_since_1900": 744,
+            "length_in_months": 12
+        },
+        {
+            "name": "Samuel Stuart Bretzfield",
+            "href": "https://www.whosdatedwho.com/dating/samuel-stuart-bretzfield",
+            "relationship_type": 4,
+            "start_date": "",
+            "end_date": "",
+            "length": "-",
+            "start_months_since_1900": -1,
+            "end_months_since_1900": -1,
+            "length_in_months": -1
+        },
+        {
+            "name": "Vince Edwards",
+            "href": "https://www.whosdatedwho.com/dating/vince-edwards",
+            "relationship_type": 3,
+            "start_date": "",
+            "end_date": "",
+            "length": "-",
+            "start_months_since_1900": -1,
+            "end_months_since_1900": -1,
+            "length_in_months": -1
+        },
+        {
+            "name": "Tom McFadden",
+            "href": "https://www.whosdatedwho.com/dating/tom-mcfadden",
+            "relationship_type": 4,
+            "start_date": "",
+            "end_date": "",
+            "length": "-",
+            "start_months_since_1900": -1,
+            "end_months_since_1900": -1,
+            "length_in_months": -1
+        }
+    ],
+    "details": {
+        "First Name": "Nancy",
+        "Middle Name": "NA",
+        "Last Name": "Czar",
+        "Maiden Name": "NA",
+        "Full Name at Birth": "Nancy Jean Czarnecki",
+        "Alternative Name": "NA",
+        "Birthday": "1944",
+        "Birthplace": "United States",
+        "Height": "NA",
+        "Weight": "NA",
+        "Zodiac Sign": "13",
+        "Sexuality": "NA",
+        "Religion": "1",
+        "Ethnicity": "6",
+        "Nationality": "91",
+        "Occupation": "2"
+    }
+}

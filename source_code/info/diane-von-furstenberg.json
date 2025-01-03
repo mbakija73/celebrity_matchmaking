@@ -1,0 +1,99 @@
+{
+    "relationships": [
+        {
+            "name": "Mort Zuckerman",
+            "href": "https://www.whosdatedwho.com/dating/mort-zuckerman",
+            "relationship_type": 2,
+            "start_date": "2001",
+            "end_date": "2001",
+            "length": "-",
+            "start_months_since_1900": 1212,
+            "end_months_since_1900": 1212,
+            "length_in_months": -1
+        },
+        {
+            "name": "Barry Diller",
+            "href": "https://www.whosdatedwho.com/dating/barry-diller",
+            "relationship_type": 4,
+            "start_date": "1999",
+            "end_date": "present",
+            "length": "25 years",
+            "start_months_since_1900": 1188,
+            "end_months_since_1900": -1,
+            "length_in_months": 300
+        },
+        {
+            "name": "Alain Elkann",
+            "href": "https://www.whosdatedwho.com/dating/alain-elkann",
+            "relationship_type": 2,
+            "start_date": "1984",
+            "end_date": "1989",
+            "length": "5 years",
+            "start_months_since_1900": 1008,
+            "end_months_since_1900": 1068,
+            "length_in_months": 60
+        },
+        {
+            "name": "Richard Gere",
+            "href": "https://www.whosdatedwho.com/dating/richard-gere",
+            "relationship_type": 2,
+            "start_date": "1978",
+            "end_date": "1980",
+            "length": "2 years",
+            "start_months_since_1900": 936,
+            "end_months_since_1900": 960,
+            "length_in_months": 24
+        },
+        {
+            "name": "Egon von F\u00fcrstenberg",
+            "href": "https://www.whosdatedwho.com/dating/egon-von-furstenberg",
+            "relationship_type": 4,
+            "start_date": "1965",
+            "end_date": "1983",
+            "length": "18 years",
+            "start_months_since_1900": 780,
+            "end_months_since_1900": 996,
+            "length_in_months": 216
+        },
+        {
+            "name": "Ryan O'Neal",
+            "href": "https://www.whosdatedwho.com/dating/ryan-o-neal",
+            "relationship_type": 2,
+            "start_date": "",
+            "end_date": "",
+            "length": "-",
+            "start_months_since_1900": -1,
+            "end_months_since_1900": -1,
+            "length_in_months": -1
+        },
+        {
+            "name": "Warren Beatty",
+            "href": "https://www.whosdatedwho.com/dating/warren-beatty",
+            "relationship_type": 2,
+            "start_date": "",
+            "end_date": "",
+            "length": "-",
+            "start_months_since_1900": -1,
+            "end_months_since_1900": -1,
+            "length_in_months": -1
+        }
+    ],
+    "details": {
+        "First Name": "Diane",
+        "Middle Name": "Von",
+        "Last Name": "Von Furstenberg",
+        "Maiden Name": "NA",
+        "Full Name at Birth": "Diana Simone Michelle Halfin",
+        "Alternative Name": "NA",
+        "Birthday": "1946",
+        "Birthplace": "Belgium",
+        "Height": "NA",
+        "Weight": "NA",
+        "Zodiac Sign": "13",
+        "Sexuality": "Straight",
+        "Religion": "31",
+        "Ethnicity": "6",
+        "Nationality": "110",
+        "Occupation": "15"
+    }
+}

@@ -1,0 +1,55 @@
+{
+    "relationships": [
+        {
+            "name": "Martha De Laurentiis",
+            "href": "https://www.whosdatedwho.com/dating/martha-de-laurentiis",
+            "relationship_type": 4,
+            "start_date": "1987",
+            "end_date": "10th Nov 2010",
+            "length": "23 years",
+            "start_months_since_1900": 1044,
+            "end_months_since_1900": 1330,
+            "length_in_months": 276
+        },
+        {
+            "name": "Silvana Mangano",
+            "href": "https://www.whosdatedwho.com/dating/silvana-mangano",
+            "relationship_type": 4,
+            "start_date": "1948",
+            "end_date": "1988",
+            "length": "40 years",
+            "start_months_since_1900": 576,
+            "end_months_since_1900": 1056,
+            "length_in_months": 480
+        },
+        {
+            "name": "Taylor Singer",
+            "href": "https://www.whosdatedwho.com/dating/taylor-singer",
+            "relationship_type": 3,
+            "start_date": "",
+            "end_date": "",
+            "length": "-",
+            "start_months_since_1900": -1,
+            "end_months_since_1900": -1,
+            "length_in_months": -1
+        }
+    ],
+    "details": {
+        "First Name": "Dino",
+        "Middle Name": "De",
+        "Last Name": "Laurentiis",
+        "Maiden Name": "NA",
+        "Full Name at Birth": "Agostino De Laurentiis",
+        "Alternative Name": "NA",
+        "Birthday": "1919",
+        "Birthplace": "Italy",
+        "Height": "163",
+        "Weight": "NA",
+        "Zodiac Sign": "12",
+        "Sexuality": "Straight",
+        "Religion": "1",
+        "Ethnicity": "6",
+        "Nationality": "139",
+        "Occupation": "9"
+    }
+}

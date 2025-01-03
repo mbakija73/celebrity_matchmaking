@@ -1,0 +1,44 @@
+{
+    "relationships": [
+        {
+            "name": "Sue Lyon",
+            "href": "https://www.whosdatedwho.com/dating/sue-lyon",
+            "relationship_type": 4,
+            "start_date": "Sep 1963",
+            "end_date": "Dec 1964",
+            "length": "1 year",
+            "start_months_since_1900": 764,
+            "end_months_since_1900": 779,
+            "length_in_months": 12
+        },
+        {
+            "name": "Joan Blackman",
+            "href": "https://www.whosdatedwho.com/dating/joan-blackman",
+            "relationship_type": 2,
+            "start_date": "Jan 1961",
+            "end_date": "Dec 1966",
+            "length": "5 years",
+            "start_months_since_1900": 732,
+            "end_months_since_1900": 803,
+            "length_in_months": 60
+        }
+    ],
+    "details": {
+        "First Name": "Hampton",
+        "Middle Name": "NA",
+        "Last Name": "Fancher",
+        "Maiden Name": "NA",
+        "Full Name at Birth": "Hampton Lansden Fancher",
+        "Alternative Name": "Hampton Fancher III, Mario Montejo",
+        "Birthday": "1938",
+        "Birthplace": "USA",
+        "Height": "191",
+        "Weight": "NA",
+        "Zodiac Sign": "8",
+        "Sexuality": "Straight",
+        "Religion": "1",
+        "Ethnicity": "6",
+        "Nationality": "91",
+        "Occupation": "3"
+    }
+}

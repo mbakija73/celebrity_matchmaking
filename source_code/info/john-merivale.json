@@ -1,0 +1,55 @@
+{
+    "relationships": [
+        {
+            "name": "Dinah Sheridan",
+            "href": "https://www.whosdatedwho.com/dating/dinah-sheridan",
+            "relationship_type": 4,
+            "start_date": "1986",
+            "end_date": "Feb 1990",
+            "length": "4 years",
+            "start_months_since_1900": 1032,
+            "end_months_since_1900": 1081,
+            "length_in_months": 48
+        },
+        {
+            "name": "Vivien Leigh",
+            "href": "https://www.whosdatedwho.com/dating/vivien-leigh",
+            "relationship_type": 2,
+            "start_date": "1961",
+            "end_date": "8th Jul 1967",
+            "length": "6 years",
+            "start_months_since_1900": 732,
+            "end_months_since_1900": 810,
+            "length_in_months": 72
+        },
+        {
+            "name": "Jan Sterling",
+            "href": "https://www.whosdatedwho.com/dating/jan-sterling",
+            "relationship_type": 4,
+            "start_date": "1940",
+            "end_date": "26th Aug 1947",
+            "length": "7 years",
+            "start_months_since_1900": 480,
+            "end_months_since_1900": 571,
+            "length_in_months": 84
+        }
+    ],
+    "details": {
+        "First Name": "John",
+        "Middle Name": "NA",
+        "Last Name": "Merivale",
+        "Maiden Name": "NA",
+        "Full Name at Birth": "John Herman Merivale",
+        "Alternative Name": "Jack Merivale, John Herman Merivale, John Merivale",
+        "Birthday": "1917",
+        "Birthplace": "Canada",
+        "Height": "NA",
+        "Weight": "NA",
+        "Zodiac Sign": "6",
+        "Sexuality": "Straight",
+        "Religion": "1",
+        "Ethnicity": "6",
+        "Nationality": "90",
+        "Occupation": "8"
+    }
+}

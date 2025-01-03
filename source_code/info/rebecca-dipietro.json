@@ -1,0 +1,77 @@
+{
+    "relationships": [
+        {
+            "name": "Derek Boogaard",
+            "href": "https://www.whosdatedwho.com/dating/derek-boogaard",
+            "relationship_type": 3,
+            "start_date": "Jan 2010",
+            "end_date": "Feb 2010",
+            "length": "1 month",
+            "start_months_since_1900": 1320,
+            "end_months_since_1900": 1321,
+            "length_in_months": 1
+        },
+        {
+            "name": "Brady Quinn",
+            "href": "https://www.whosdatedwho.com/dating/brady-quinn",
+            "relationship_type": 2,
+            "start_date": "Jan 2008",
+            "end_date": "May 2008",
+            "length": "4 months",
+            "start_months_since_1900": 1296,
+            "end_months_since_1900": 1300,
+            "length_in_months": 4
+        },
+        {
+            "name": "Greg Plitt",
+            "href": "https://www.whosdatedwho.com/dating/greg-plitt",
+            "relationship_type": 2,
+            "start_date": "Sep 2007",
+            "end_date": "Dec 2007",
+            "length": "3 months",
+            "start_months_since_1900": 1292,
+            "end_months_since_1900": 1295,
+            "length_in_months": 3
+        },
+        {
+            "name": "Dave Bautista",
+            "href": "https://www.whosdatedwho.com/dating/dave-bautista",
+            "relationship_type": 2,
+            "start_date": "Aug 2006",
+            "end_date": "Dec 2006",
+            "length": "4 months",
+            "start_months_since_1900": 1279,
+            "end_months_since_1900": 1283,
+            "length_in_months": 4
+        },
+        {
+            "name": "Marco Dapper",
+            "href": "https://www.whosdatedwho.com/dating/marco-dapper",
+            "relationship_type": 1,
+            "start_date": "",
+            "end_date": "",
+            "length": "-",
+            "start_months_since_1900": -1,
+            "end_months_since_1900": -1,
+            "length_in_months": -1
+        }
+    ],
+    "details": {
+        "First Name": "Rebecca",
+        "Middle Name": "NA",
+        "Last Name": "DiPietro",
+        "Maiden Name": "NA",
+        "Full Name at Birth": "NA",
+        "Alternative Name": "NA",
+        "Birthday": "1979",
+        "Birthplace": "USA",
+        "Height": "168",
+        "Weight": "NA",
+        "Zodiac Sign": "7",
+        "Sexuality": "Straight",
+        "Religion": "1",
+        "Ethnicity": "6",
+        "Nationality": "91",
+        "Occupation": "16"
+    }
+}

@@ -1,0 +1,55 @@
+{
+    "relationships": [
+        {
+            "name": "Jada Kingdom",
+            "href": "https://www.whosdatedwho.com/dating/jada-kingdom",
+            "relationship_type": 2,
+            "start_date": "Aug 2023",
+            "end_date": "present",
+            "length": "1 year",
+            "start_months_since_1900": 1483,
+            "end_months_since_1900": -1,
+            "length_in_months": 12
+        },
+        {
+            "name": "Megan Thee Stallion",
+            "href": "https://www.whosdatedwho.com/dating/megan-thee-stallion",
+            "relationship_type": 2,
+            "start_date": "Oct 2020",
+            "end_date": "Mar 2023",
+            "length": "2 years",
+            "start_months_since_1900": 1449,
+            "end_months_since_1900": 1478,
+            "length_in_months": 24
+        },
+        {
+            "name": "Kash Doll",
+            "href": "https://www.whosdatedwho.com/dating/kash-doll",
+            "relationship_type": 2,
+            "start_date": "Sep 2019",
+            "end_date": "Feb 2020",
+            "length": "5 months",
+            "start_months_since_1900": 1436,
+            "end_months_since_1900": 1441,
+            "length_in_months": 5
+        }
+    ],
+    "details": {
+        "First Name": "Pardison",
+        "Middle Name": "NA",
+        "Last Name": "Fontaine",
+        "Maiden Name": "NA",
+        "Full Name at Birth": "Jordyn Kyle Lanier Thorpe",
+        "Alternative Name": "Pardi, Pardison Fontaine, Jordan Kyle Lanier Thorpe, Jordyn Kyle Lanier Thorpe",
+        "Birthday": "1989",
+        "Birthplace": "USA",
+        "Height": "196",
+        "Weight": "NA",
+        "Zodiac Sign": "13",
+        "Sexuality": "Straight",
+        "Religion": "1",
+        "Ethnicity": "2",
+        "Nationality": "91",
+        "Occupation": "1"
+    }
+}

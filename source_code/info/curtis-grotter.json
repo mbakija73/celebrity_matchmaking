@@ -1,0 +1,44 @@
+{
+    "relationships": [
+        {
+            "name": "Dorothy Ford",
+            "href": "https://www.whosdatedwho.com/dating/dorothy-ford",
+            "relationship_type": 2,
+            "start_date": "Jan 1950",
+            "end_date": "Jan 1950",
+            "length": "-",
+            "start_months_since_1900": 600,
+            "end_months_since_1900": 600,
+            "length_in_months": -1
+        },
+        {
+            "name": "Jean Parker",
+            "href": "https://www.whosdatedwho.com/dating/jean-parker",
+            "relationship_type": 4,
+            "start_date": "Dec 1943",
+            "end_date": "29th Dec 1949",
+            "length": "6 years",
+            "start_months_since_1900": 527,
+            "end_months_since_1900": 599,
+            "length_in_months": 72
+        }
+    ],
+    "details": {
+        "First Name": "Curtis",
+        "Middle Name": "Arthur",
+        "Last Name": "Grotter",
+        "Maiden Name": "NA",
+        "Full Name at Birth": "Kurt  Arthur Grotter",
+        "Alternative Name": "Dr. Kurt \"Curtis\" Arthur Grotter, Curtis Grotter, Dr. KurtArthur Grotter, KurtArthur Grotter",
+        "Birthday": "1910",
+        "Birthplace": "Czechoslovakia",
+        "Height": "NA",
+        "Weight": "NA",
+        "Zodiac Sign": "2",
+        "Sexuality": "Straight",
+        "Religion": "1",
+        "Ethnicity": "6",
+        "Nationality": "70",
+        "Occupation": "7"
+    }
+}

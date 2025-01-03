@@ -1,0 +1,66 @@
+{
+    "relationships": [
+        {
+            "name": "Alegria Beracasa",
+            "href": "https://www.whosdatedwho.com/dating/alegria-beracasa",
+            "relationship_type": 2,
+            "start_date": "Mar 2013",
+            "end_date": "Jun 2013",
+            "length": "3 months",
+            "start_months_since_1900": 1358,
+            "end_months_since_1900": 1361,
+            "length_in_months": 3
+        },
+        {
+            "name": "Paulina Rubio",
+            "href": "https://www.whosdatedwho.com/dating/paulina-rubio",
+            "relationship_type": 4,
+            "start_date": "Aug 2005",
+            "end_date": "Mar 2013",
+            "length": "7 years",
+            "start_months_since_1900": 1267,
+            "end_months_since_1900": 1358,
+            "length_in_months": 84
+        },
+        {
+            "name": "Eugenia Mart\u00ednez de Irujo",
+            "href": "https://www.whosdatedwho.com/dating/eugenia-martinez-de-irujo",
+            "relationship_type": 1,
+            "start_date": "",
+            "end_date": "",
+            "length": "-",
+            "start_months_since_1900": -1,
+            "end_months_since_1900": -1,
+            "length_in_months": -1
+        },
+        {
+            "name": "In\u00e9s Sastre",
+            "href": "https://www.whosdatedwho.com/dating/ines-sastre",
+            "relationship_type": 2,
+            "start_date": "",
+            "end_date": "",
+            "length": "-",
+            "start_months_since_1900": -1,
+            "end_months_since_1900": -1,
+            "length_in_months": -1
+        }
+    ],
+    "details": {
+        "First Name": "Nicolas",
+        "Middle Name": "NA",
+        "Last Name": "Vallejo-Nagera",
+        "Maiden Name": "NA",
+        "Full Name at Birth": "Nicol\u00e1s Vallejo-N\u00e1gera D\u00e9roul\u00e8de",
+        "Alternative Name": "Colate Vallejo-N\u00e1gera, Nicol\u00e1s Vallejo-N\u00e1gera, Colate, Nicol\u00e1s Vallejo-N\u00e1gera D\u00e9roul\u00e8de, Nicolas Vallejo",
+        "Birthday": "1972",
+        "Birthplace": "Spain",
+        "Height": "175",
+        "Weight": "NA",
+        "Zodiac Sign": "1",
+        "Sexuality": "Straight",
+        "Religion": "13",
+        "Ethnicity": "6",
+        "Nationality": "118",
+        "Occupation": "7"
+    }
+}

@@ -1,0 +1,66 @@
+{
+    "relationships": [
+        {
+            "name": "Ryan Seacrest",
+            "href": "https://www.whosdatedwho.com/dating/ryan-seacrest",
+            "relationship_type": 2,
+            "start_date": "May 2013",
+            "end_date": "Oct 2013",
+            "length": "5 months",
+            "start_months_since_1900": 1360,
+            "end_months_since_1900": 1365,
+            "length_in_months": 5
+        },
+        {
+            "name": "Chris Pine",
+            "href": "https://www.whosdatedwho.com/dating/chris-pine",
+            "relationship_type": 2,
+            "start_date": "Sep 2011",
+            "end_date": "Feb 2013",
+            "length": "1 year",
+            "start_months_since_1900": 1340,
+            "end_months_since_1900": 1357,
+            "length_in_months": 12
+        },
+        {
+            "name": "C.J. Wilson",
+            "href": "https://www.whosdatedwho.com/dating/c-j-wilson",
+            "relationship_type": 2,
+            "start_date": "Oct 2009",
+            "end_date": "2010",
+            "length": "3 months",
+            "start_months_since_1900": 1317,
+            "end_months_since_1900": 1320,
+            "length_in_months": 3
+        },
+        {
+            "name": "Joe van Niekerk",
+            "href": "https://www.whosdatedwho.com/dating/joe-van-niekerk",
+            "relationship_type": 2,
+            "start_date": "2007",
+            "end_date": "2009",
+            "length": "2 years",
+            "start_months_since_1900": 1284,
+            "end_months_since_1900": 1308,
+            "length_in_months": 24
+        }
+    ],
+    "details": {
+        "First Name": "Dominique",
+        "Middle Name": "NA",
+        "Last Name": "Piek",
+        "Maiden Name": "NA",
+        "Full Name at Birth": "NA",
+        "Alternative Name": "Dominique",
+        "Birthday": "1985",
+        "Birthplace": "South Africa",
+        "Height": "178",
+        "Weight": "128lbs (58 kg)",
+        "Zodiac Sign": "8",
+        "Sexuality": "Straight",
+        "Religion": "1",
+        "Ethnicity": "6",
+        "Nationality": "59",
+        "Occupation": "15"
+    }
+}

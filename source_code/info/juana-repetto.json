@@ -1,0 +1,55 @@
+{
+    "relationships": [
+        {
+            "name": "Martin Genero",
+            "href": "https://www.whosdatedwho.com/dating/martin-genero",
+            "relationship_type": 2,
+            "start_date": "2012",
+            "end_date": "2012",
+            "length": "-",
+            "start_months_since_1900": 1344,
+            "end_months_since_1900": 1344,
+            "length_in_months": -1
+        },
+        {
+            "name": "Sebastian Graviotto",
+            "href": "https://www.whosdatedwho.com/dating/sebastian-graviotto",
+            "relationship_type": 3,
+            "start_date": "Oct 2010",
+            "end_date": "2010",
+            "length": "9 months",
+            "start_months_since_1900": 1329,
+            "end_months_since_1900": 1320,
+            "length_in_months": 9
+        },
+        {
+            "name": "Gonzalo Heredia",
+            "href": "https://www.whosdatedwho.com/dating/gonzalo-heredia",
+            "relationship_type": 2,
+            "start_date": "2004",
+            "end_date": "2004",
+            "length": "-",
+            "start_months_since_1900": 1248,
+            "end_months_since_1900": 1248,
+            "length_in_months": -1
+        }
+    ],
+    "details": {
+        "First Name": "Juana",
+        "Middle Name": "NA",
+        "Last Name": "Repetto",
+        "Maiden Name": "NA",
+        "Full Name at Birth": "NA",
+        "Alternative Name": "Juanita, Juanita Repetto",
+        "Birthday": "1988",
+        "Birthplace": "Argentina",
+        "Height": "NA",
+        "Weight": "NA",
+        "Zodiac Sign": "8",
+        "Sexuality": "Straight",
+        "Religion": "1",
+        "Ethnicity": "6",
+        "Nationality": "28",
+        "Occupation": "8"
+    }
+}

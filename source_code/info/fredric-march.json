@@ -1,0 +1,77 @@
+{
+    "relationships": [
+        {
+            "name": "Carole Lombard",
+            "href": "https://www.whosdatedwho.com/dating/carole-lombard",
+            "relationship_type": 2,
+            "start_date": "Jun 1937",
+            "end_date": "Aug 1937",
+            "length": "2 months",
+            "start_months_since_1900": 449,
+            "end_months_since_1900": 451,
+            "length_in_months": 2
+        },
+        {
+            "name": "Barbara Stanwyck",
+            "href": "https://www.whosdatedwho.com/dating/barbara-stanwyck",
+            "relationship_type": 3,
+            "start_date": "Nov 1936",
+            "end_date": "28th Dec 1936",
+            "length": "1 month",
+            "start_months_since_1900": 442,
+            "end_months_since_1900": 443,
+            "length_in_months": 1
+        },
+        {
+            "name": "Florence Eldridge",
+            "href": "https://www.whosdatedwho.com/dating/florence-eldridge",
+            "relationship_type": 4,
+            "start_date": "May 1926",
+            "end_date": "Apr 1975",
+            "length": "48 years",
+            "start_months_since_1900": 316,
+            "end_months_since_1900": 903,
+            "length_in_months": 576
+        },
+        {
+            "name": "Ellis Baker",
+            "href": "https://www.whosdatedwho.com/dating/ellis-baker",
+            "relationship_type": 4,
+            "start_date": "1924",
+            "end_date": "Jan 1927",
+            "length": "3 years",
+            "start_months_since_1900": 288,
+            "end_months_since_1900": 324,
+            "length_in_months": 36
+        },
+        {
+            "name": "Miriam Hopkins",
+            "href": "https://www.whosdatedwho.com/dating/miriam-hopkins",
+            "relationship_type": 2,
+            "start_date": "",
+            "end_date": "",
+            "length": "-",
+            "start_months_since_1900": -1,
+            "end_months_since_1900": -1,
+            "length_in_months": -1
+        }
+    ],
+    "details": {
+        "First Name": "Fredric",
+        "Middle Name": "NA",
+        "Last Name": "March",
+        "Maiden Name": "NA",
+        "Full Name at Birth": "Ernest Frederick McIntyre Bickel",
+        "Alternative Name": "Freddie, Fredric March, Ernest Frederick McIntyre Bickel",
+        "Birthday": "1897",
+        "Birthplace": "USA",
+        "Height": "178",
+        "Weight": "171lbs (78 kg)",
+        "Zodiac Sign": "11",
+        "Sexuality": "Straight",
+        "Religion": "1",
+        "Ethnicity": "6",
+        "Nationality": "91",
+        "Occupation": "8"
+    }
+}

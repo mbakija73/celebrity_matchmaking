@@ -1,0 +1,66 @@
+{
+    "relationships": [
+        {
+            "name": "Gloria Swanson",
+            "href": "https://www.whosdatedwho.com/dating/gloria-swanson",
+            "relationship_type": 3,
+            "start_date": "1941",
+            "end_date": "1941",
+            "length": "-",
+            "start_months_since_1900": 492,
+            "end_months_since_1900": 492,
+            "length_in_months": -1
+        },
+        {
+            "name": "Durie Malcom",
+            "href": "https://www.whosdatedwho.com/dating/durie-malcom",
+            "relationship_type": 2,
+            "start_date": "1937",
+            "end_date": "1939",
+            "length": "2 years",
+            "start_months_since_1900": 444,
+            "end_months_since_1900": 468,
+            "length_in_months": 24
+        },
+        {
+            "name": "Carole Lombard",
+            "href": "https://www.whosdatedwho.com/dating/carole-lombard",
+            "relationship_type": 2,
+            "start_date": "",
+            "end_date": "",
+            "length": "-",
+            "start_months_since_1900": -1,
+            "end_months_since_1900": -1,
+            "length_in_months": -1
+        },
+        {
+            "name": "Greta Garbo",
+            "href": "https://www.whosdatedwho.com/dating/greta-garbo",
+            "relationship_type": 2,
+            "start_date": "",
+            "end_date": "",
+            "length": "-",
+            "start_months_since_1900": -1,
+            "end_months_since_1900": -1,
+            "length_in_months": -1
+        }
+    ],
+    "details": {
+        "First Name": "Joseph",
+        "Middle Name": "P.",
+        "Last Name": "Kennedy Jr.",
+        "Maiden Name": "NA",
+        "Full Name at Birth": "Joseph Patrick Kennedy, Jr.",
+        "Alternative Name": "Joseph P. Kennedy Jr.",
+        "Birthday": "1915",
+        "Birthplace": "Massachusetts",
+        "Height": "185",
+        "Weight": "NA",
+        "Zodiac Sign": "12",
+        "Sexuality": "Straight",
+        "Religion": "13",
+        "Ethnicity": "6",
+        "Nationality": "91",
+        "Occupation": "10"
+    }
+}

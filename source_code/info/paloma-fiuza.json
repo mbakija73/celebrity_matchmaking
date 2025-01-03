@@ -1,0 +1,66 @@
+{
+    "relationships": [
+        {
+            "name": "Facundo Gonz\u00e1lez",
+            "href": "https://www.whosdatedwho.com/dating/facundo-gonzalez",
+            "relationship_type": 2,
+            "start_date": "2015",
+            "end_date": "2019",
+            "length": "4 years",
+            "start_months_since_1900": 1380,
+            "end_months_since_1900": 1428,
+            "length_in_months": 48
+        },
+        {
+            "name": "Jenko Del R\u00edo",
+            "href": "https://www.whosdatedwho.com/dating/jenko-del-rio",
+            "relationship_type": 4,
+            "start_date": "2012",
+            "end_date": "2015",
+            "length": "3 years",
+            "start_months_since_1900": 1344,
+            "end_months_since_1900": 1380,
+            "length_in_months": 36
+        },
+        {
+            "name": "Miguel Arce",
+            "href": "https://www.whosdatedwho.com/dating/miguel-arce",
+            "relationship_type": 3,
+            "start_date": "2012",
+            "end_date": "2012",
+            "length": "-",
+            "start_months_since_1900": 1344,
+            "end_months_since_1900": 1344,
+            "length_in_months": -1
+        },
+        {
+            "name": "Thiago Cunha",
+            "href": "https://www.whosdatedwho.com/dating/thiago-cunha",
+            "relationship_type": 2,
+            "start_date": "2002",
+            "end_date": "2005",
+            "length": "3 years",
+            "start_months_since_1900": 1224,
+            "end_months_since_1900": 1260,
+            "length_in_months": 36
+        }
+    ],
+    "details": {
+        "First Name": "Paloma",
+        "Middle Name": "NA",
+        "Last Name": "Fiuza",
+        "Maiden Name": "NA",
+        "Full Name at Birth": "NA",
+        "Alternative Name": "NA",
+        "Birthday": "1982",
+        "Birthplace": "Brazil",
+        "Height": "NA",
+        "Weight": "NA",
+        "Zodiac Sign": "13",
+        "Sexuality": "Straight",
+        "Religion": "18",
+        "Ethnicity": "8",
+        "Nationality": "87",
+        "Occupation": "14"
+    }
+}

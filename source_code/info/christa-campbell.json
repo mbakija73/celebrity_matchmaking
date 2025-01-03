@@ -1,0 +1,44 @@
+{
+    "relationships": [
+        {
+            "name": "Seth MacFarlane",
+            "href": "https://www.whosdatedwho.com/dating/seth-macfarlane",
+            "relationship_type": 2,
+            "start_date": "Jul 2006",
+            "end_date": "Sep 2006",
+            "length": "2 months",
+            "start_months_since_1900": 1278,
+            "end_months_since_1900": 1280,
+            "length_in_months": 2
+        },
+        {
+            "name": "Jamie Kennedy",
+            "href": "https://www.whosdatedwho.com/dating/jamie-kennedy",
+            "relationship_type": 2,
+            "start_date": "Jun 1999",
+            "end_date": "Oct 2003",
+            "length": "4 years",
+            "start_months_since_1900": 1193,
+            "end_months_since_1900": 1245,
+            "length_in_months": 48
+        }
+    ],
+    "details": {
+        "First Name": "Christa",
+        "Middle Name": "Maria",
+        "Last Name": "Campbell",
+        "Maiden Name": "NA",
+        "Full Name at Birth": "Christa Maria Campbell",
+        "Alternative Name": "Xta",
+        "Birthday": "1972",
+        "Birthplace": "USA",
+        "Height": "173",
+        "Weight": "134lbs (61 kg)",
+        "Zodiac Sign": "6",
+        "Sexuality": "Straight",
+        "Religion": "1",
+        "Ethnicity": "6",
+        "Nationality": "91",
+        "Occupation": "8"
+    }
+}

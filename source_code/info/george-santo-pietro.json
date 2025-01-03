@@ -1,0 +1,44 @@
+{
+    "relationships": [
+        {
+            "name": "Vanna White",
+            "href": "https://www.whosdatedwho.com/dating/vanna-white",
+            "relationship_type": 4,
+            "start_date": "Jan 1990",
+            "end_date": "2002",
+            "length": "12 years",
+            "start_months_since_1900": 1080,
+            "end_months_since_1900": 1224,
+            "length_in_months": 144
+        },
+        {
+            "name": "Linda Evans",
+            "href": "https://www.whosdatedwho.com/dating/linda-evans",
+            "relationship_type": 2,
+            "start_date": "1981",
+            "end_date": "1985",
+            "length": "4 years",
+            "start_months_since_1900": 972,
+            "end_months_since_1900": 1020,
+            "length_in_months": 48
+        }
+    ],
+    "details": {
+        "First Name": "George",
+        "Middle Name": "Santo",
+        "Last Name": "Pietro",
+        "Maiden Name": "NA",
+        "Full Name at Birth": "NA",
+        "Alternative Name": "NA",
+        "Birthday": "NA",
+        "Birthplace": "NA",
+        "Height": "NA",
+        "Weight": "NA",
+        "Zodiac Sign": "2",
+        "Sexuality": "NA",
+        "Religion": "1",
+        "Ethnicity": "1",
+        "Nationality": "65",
+        "Occupation": "19"
+    }
+}

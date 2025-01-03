@@ -1,0 +1,66 @@
+{
+    "relationships": [
+        {
+            "name": "John Calvin Peoples",
+            "href": "https://www.whosdatedwho.com/dating/john-calvin-peoples",
+            "relationship_type": 4,
+            "start_date": "1973",
+            "end_date": "Apr 1999",
+            "length": "26 years",
+            "start_months_since_1900": 876,
+            "end_months_since_1900": 1191,
+            "length_in_months": 312
+        },
+        {
+            "name": "Roger Barrett",
+            "href": "https://www.whosdatedwho.com/dating/roger-barrett",
+            "relationship_type": 4,
+            "start_date": "1967",
+            "end_date": "Nov 1968",
+            "length": "1 year",
+            "start_months_since_1900": 804,
+            "end_months_since_1900": 826,
+            "length_in_months": 12
+        },
+        {
+            "name": "John Payne",
+            "href": "https://www.whosdatedwho.com/dating/john-payne",
+            "relationship_type": 2,
+            "start_date": "1942",
+            "end_date": "1943",
+            "length": "1 year",
+            "start_months_since_1900": 504,
+            "end_months_since_1900": 516,
+            "length_in_months": 12
+        },
+        {
+            "name": "Robert Waterfield",
+            "href": "https://www.whosdatedwho.com/dating/bob-waterfield",
+            "relationship_type": 4,
+            "start_date": "1938",
+            "end_date": "Jul 1968",
+            "length": "30 years",
+            "start_months_since_1900": 456,
+            "end_months_since_1900": 822,
+            "length_in_months": 360
+        }
+    ],
+    "details": {
+        "First Name": "Jane",
+        "Middle Name": "Geraldine",
+        "Last Name": "Russell",
+        "Maiden Name": "NA",
+        "Full Name at Birth": "Ernestine Jane Geraldine Russell",
+        "Alternative Name": "Jane Russel, Jane",
+        "Birthday": "1921",
+        "Birthplace": "USA",
+        "Height": "170",
+        "Weight": "NA",
+        "Zodiac Sign": "4",
+        "Sexuality": "Straight",
+        "Religion": "36",
+        "Ethnicity": "6",
+        "Nationality": "91",
+        "Occupation": "8"
+    }
+}

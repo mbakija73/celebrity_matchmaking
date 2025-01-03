@@ -1,0 +1,55 @@
+{
+    "relationships": [
+        {
+            "name": "Sadie Frost",
+            "href": "https://www.whosdatedwho.com/dating/sadie-frost",
+            "relationship_type": 3,
+            "start_date": "2001",
+            "end_date": "2001",
+            "length": "-",
+            "start_months_since_1900": 1212,
+            "end_months_since_1900": 1212,
+            "length_in_months": -1
+        },
+        {
+            "name": "Pearl Lowe",
+            "href": "https://www.whosdatedwho.com/dating/pearl-lowe",
+            "relationship_type": 4,
+            "start_date": "1995",
+            "end_date": "present",
+            "length": "29 years",
+            "start_months_since_1900": 1140,
+            "end_months_since_1900": -1,
+            "length_in_months": 348
+        },
+        {
+            "name": "Jacqui",
+            "href": "https://www.whosdatedwho.com/dating/jacqui",
+            "relationship_type": 3,
+            "start_date": "Nov 1994",
+            "end_date": "Nov 1994",
+            "length": "-",
+            "start_months_since_1900": 1138,
+            "end_months_since_1900": 1138,
+            "length_in_months": -1
+        }
+    ],
+    "details": {
+        "First Name": "Danny",
+        "Middle Name": "NA",
+        "Last Name": "Goffey",
+        "Maiden Name": "NA",
+        "Full Name at Birth": "Daniel Robert Goffey",
+        "Alternative Name": "Randy Hoo Ha",
+        "Birthday": "1974",
+        "Birthplace": "England",
+        "Height": "NA",
+        "Weight": "NA",
+        "Zodiac Sign": "9",
+        "Sexuality": "Straight",
+        "Religion": "26",
+        "Ethnicity": "6",
+        "Nationality": "8",
+        "Occupation": "1"
+    }
+}

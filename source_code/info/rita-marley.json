@@ -1,0 +1,44 @@
+{
+    "relationships": [
+        {
+            "name": "Bob Marley",
+            "href": "https://www.whosdatedwho.com/dating/bob-marley",
+            "relationship_type": 4,
+            "start_date": "1965",
+            "end_date": "11th May 1981",
+            "length": "16 years",
+            "start_months_since_1900": 780,
+            "end_months_since_1900": 976,
+            "length_in_months": 192
+        },
+        {
+            "name": "Pliers",
+            "href": "https://www.whosdatedwho.com/dating/pliers-singer",
+            "relationship_type": 1,
+            "start_date": "",
+            "end_date": "",
+            "length": "-",
+            "start_months_since_1900": -1,
+            "end_months_since_1900": -1,
+            "length_in_months": -1
+        }
+    ],
+    "details": {
+        "First Name": "Rita",
+        "Middle Name": "NA",
+        "Last Name": "Marley",
+        "Maiden Name": "Anderson",
+        "Full Name at Birth": "Alpharita Constantia Anderson",
+        "Alternative Name": "Nana Rita",
+        "Birthday": "1946",
+        "Birthplace": "Cuba",
+        "Height": "NA",
+        "Weight": "NA",
+        "Zodiac Sign": "12",
+        "Sexuality": "Straight",
+        "Religion": "9",
+        "Ethnicity": "2",
+        "Nationality": "62",
+        "Occupation": "1"
+    }
+}

@@ -1,0 +1,44 @@
+{
+    "relationships": [
+        {
+            "name": "Cantinflas",
+            "href": "https://www.whosdatedwho.com/dating/cantinflas",
+            "relationship_type": 2,
+            "start_date": "1969",
+            "end_date": "1969",
+            "length": "-",
+            "start_months_since_1900": 828,
+            "end_months_since_1900": 828,
+            "length_in_months": -1
+        },
+        {
+            "name": "Carlos Monden",
+            "href": "https://www.whosdatedwho.com/dating/carlos-monden",
+            "relationship_type": 4,
+            "start_date": "",
+            "end_date": "",
+            "length": "-",
+            "start_months_since_1900": -1,
+            "end_months_since_1900": -1,
+            "length_in_months": -1
+        }
+    ],
+    "details": {
+        "First Name": "Ir\u00e1n",
+        "Middle Name": "NA",
+        "Last Name": "Eory",
+        "Maiden Name": "NA",
+        "Full Name at Birth": "Elvira Teresa Eory Sidi",
+        "Alternative Name": "NA",
+        "Birthday": "1937",
+        "Birthplace": "Iran",
+        "Height": "NA",
+        "Weight": "NA",
+        "Zodiac Sign": "10",
+        "Sexuality": "Straight",
+        "Religion": "1",
+        "Ethnicity": "6",
+        "Nationality": "7",
+        "Occupation": "8"
+    }
+}

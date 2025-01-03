@@ -1,0 +1,55 @@
+{
+    "relationships": [
+        {
+            "name": "Benjam\u00edn Alfonso",
+            "href": "https://www.whosdatedwho.com/dating/benjamin-alfonso",
+            "relationship_type": 2,
+            "start_date": "2021",
+            "end_date": "present",
+            "length": "3 years",
+            "start_months_since_1900": 1452,
+            "end_months_since_1900": -1,
+            "length_in_months": 36
+        },
+        {
+            "name": "Fernando Alonso",
+            "href": "https://www.whosdatedwho.com/dating/fernando-alonso",
+            "relationship_type": 2,
+            "start_date": "Jun 2016",
+            "end_date": "2021",
+            "length": "4 years",
+            "start_months_since_1900": 1397,
+            "end_months_since_1900": 1452,
+            "length_in_months": 48
+        },
+        {
+            "name": "Valentino Rossi",
+            "href": "https://www.whosdatedwho.com/dating/valentino-rossi",
+            "relationship_type": 2,
+            "start_date": "2007",
+            "end_date": "Feb 2016",
+            "length": "9 years",
+            "start_months_since_1900": 1284,
+            "end_months_since_1900": 1393,
+            "length_in_months": 108
+        }
+    ],
+    "details": {
+        "First Name": "Linda",
+        "Middle Name": "NA",
+        "Last Name": "Morselli",
+        "Maiden Name": "NA",
+        "Full Name at Birth": "NA",
+        "Alternative Name": "NA",
+        "Birthday": "1988",
+        "Birthplace": "Italy",
+        "Height": "178",
+        "Weight": "NA",
+        "Zodiac Sign": "5",
+        "Sexuality": "Straight",
+        "Religion": "13",
+        "Ethnicity": "6",
+        "Nationality": "139",
+        "Occupation": "15"
+    }
+}

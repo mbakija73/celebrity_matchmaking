@@ -1,0 +1,132 @@
+{
+    "relationships": [
+        {
+            "name": "David Foster",
+            "href": "https://www.whosdatedwho.com/dating/david-foster",
+            "relationship_type": 2,
+            "start_date": "Dec 2016",
+            "end_date": "Jan 2017",
+            "length": "1 month",
+            "start_months_since_1900": 1403,
+            "end_months_since_1900": 1404,
+            "length_in_months": 1
+        },
+        {
+            "name": "John Mellencamp",
+            "href": "https://www.whosdatedwho.com/dating/john-mellencamp",
+            "relationship_type": 2,
+            "start_date": "Sep 2015",
+            "end_date": "Aug 2016",
+            "length": "11 months",
+            "start_months_since_1900": 1388,
+            "end_months_since_1900": 1399,
+            "length_in_months": 11
+        },
+        {
+            "name": "Paul McCartney",
+            "href": "https://www.whosdatedwho.com/dating/paul-mccartney",
+            "relationship_type": 3,
+            "start_date": "Aug 2007",
+            "end_date": "Aug 2007",
+            "length": "-",
+            "start_months_since_1900": 1291,
+            "end_months_since_1900": 1291,
+            "length_in_months": -1
+        },
+        {
+            "name": "Peter Cook",
+            "href": "https://www.whosdatedwho.com/dating/peter-cook",
+            "relationship_type": 4,
+            "start_date": "Apr 1996",
+            "end_date": "3rd Oct 2008",
+            "length": "12 years",
+            "start_months_since_1900": 1155,
+            "end_months_since_1900": 1305,
+            "length_in_months": 144
+        },
+        {
+            "name": "Richard Taubman",
+            "href": "https://www.whosdatedwho.com/dating/richard-taubman",
+            "relationship_type": 4,
+            "start_date": "Feb 1994",
+            "end_date": "Dec 1995",
+            "length": "1 year",
+            "start_months_since_1900": 1129,
+            "end_months_since_1900": 1151,
+            "length_in_months": 12
+        },
+        {
+            "name": "Billy Joel",
+            "href": "https://www.whosdatedwho.com/dating/billy-joel",
+            "relationship_type": 4,
+            "start_date": "Apr 1983",
+            "end_date": "25th Aug 1994",
+            "length": "11 years",
+            "start_months_since_1900": 999,
+            "end_months_since_1900": 1135,
+            "length_in_months": 132
+        },
+        {
+            "name": "Olivier Chandon De Brailles",
+            "href": "https://www.whosdatedwho.com/dating/olivier-chandon-de-brailles",
+            "relationship_type": 2,
+            "start_date": "1982",
+            "end_date": "2nd Mar 1983",
+            "length": "1 year",
+            "start_months_since_1900": 984,
+            "end_months_since_1900": 998,
+            "length_in_months": 12
+        },
+        {
+            "name": "Mike Reinhardt",
+            "href": "https://www.whosdatedwho.com/dating/mike-reinhardt",
+            "relationship_type": 2,
+            "start_date": "Aug 1980",
+            "end_date": "Oct 1980",
+            "length": "2 months",
+            "start_months_since_1900": 967,
+            "end_months_since_1900": 969,
+            "length_in_months": 2
+        },
+        {
+            "name": "Jean-Francois Allaux",
+            "href": "https://www.whosdatedwho.com/dating/jean-francois-allaux",
+            "relationship_type": 4,
+            "start_date": "1972",
+            "end_date": "1981",
+            "length": "9 years",
+            "start_months_since_1900": 864,
+            "end_months_since_1900": 972,
+            "length_in_months": 108
+        },
+        {
+            "name": "Colin Buchanan",
+            "href": "https://www.whosdatedwho.com/dating/colin-buchanan",
+            "relationship_type": 3,
+            "start_date": "",
+            "end_date": "",
+            "length": "-",
+            "start_months_since_1900": -1,
+            "end_months_since_1900": -1,
+            "length_in_months": -1
+        }
+    ],
+    "details": {
+        "First Name": "Christie",
+        "Middle Name": "Lee",
+        "Last Name": "Brinkley",
+        "Maiden Name": "Hudson",
+        "Full Name at Birth": "Christie Lee Hudson",
+        "Alternative Name": "Christie Lee Hudson, Christie Lee Brinkley, Christie Brinkley, Christine Brinkley, Christie",
+        "Birthday": "1954",
+        "Birthplace": "USA",
+        "Height": "175",
+        "Weight": "141lbs (64 kg)",
+        "Zodiac Sign": "9",
+        "Sexuality": "Straight",
+        "Religion": "1",
+        "Ethnicity": "6",
+        "Nationality": "91",
+        "Occupation": "15"
+    }
+}

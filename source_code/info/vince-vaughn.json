@@ -1,0 +1,66 @@
+{
+    "relationships": [
+        {
+            "name": "Kyla Weber",
+            "href": "https://www.whosdatedwho.com/dating/kyla-weber",
+            "relationship_type": 4,
+            "start_date": "Jun 2008",
+            "end_date": "present",
+            "length": "16 years",
+            "start_months_since_1900": 1301,
+            "end_months_since_1900": -1,
+            "length_in_months": 192
+        },
+        {
+            "name": "Jennifer Aniston",
+            "href": "https://www.whosdatedwho.com/dating/jennifer-aniston",
+            "relationship_type": 2,
+            "start_date": "Jun 2005",
+            "end_date": "Dec 2006",
+            "length": "1 year",
+            "start_months_since_1900": 1265,
+            "end_months_since_1900": 1283,
+            "length_in_months": 12
+        },
+        {
+            "name": "Anne Heche",
+            "href": "https://www.whosdatedwho.com/dating/anne-heche",
+            "relationship_type": 3,
+            "start_date": "1998",
+            "end_date": "1998",
+            "length": "-",
+            "start_months_since_1900": 1176,
+            "end_months_since_1900": 1176,
+            "length_in_months": -1
+        },
+        {
+            "name": "Joey Lauren Adams",
+            "href": "https://www.whosdatedwho.com/dating/joey-lauren-adams",
+            "relationship_type": 2,
+            "start_date": "Jul 1997",
+            "end_date": "Jun 1998",
+            "length": "11 months",
+            "start_months_since_1900": 1170,
+            "end_months_since_1900": 1181,
+            "length_in_months": 11
+        }
+    ],
+    "details": {
+        "First Name": "Vince",
+        "Middle Name": "Anthony",
+        "Last Name": "Vaughn",
+        "Maiden Name": "NA",
+        "Full Name at Birth": "Vincent Anthony Vaughn",
+        "Alternative Name": "NA",
+        "Birthday": "1970",
+        "Birthplace": "Minnesota United States",
+        "Height": "196",
+        "Weight": "NA",
+        "Zodiac Sign": "7",
+        "Sexuality": "Straight",
+        "Religion": "13",
+        "Ethnicity": "6",
+        "Nationality": "91",
+        "Occupation": "8"
+    }
+}

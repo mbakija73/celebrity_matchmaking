@@ -1,0 +1,66 @@
+{
+    "relationships": [
+        {
+            "name": "Elise LeBlanc",
+            "href": "https://www.whosdatedwho.com/dating/elise-leblanc",
+            "relationship_type": 2,
+            "start_date": "2021",
+            "end_date": "present",
+            "length": "3 years",
+            "start_months_since_1900": 1452,
+            "end_months_since_1900": -1,
+            "length_in_months": 36
+        },
+        {
+            "name": "Chelsea Hobbs",
+            "href": "https://www.whosdatedwho.com/dating/chelsea-hobbs",
+            "relationship_type": 2,
+            "start_date": "Sep 2017",
+            "end_date": "",
+            "length": "-",
+            "start_months_since_1900": 1412,
+            "end_months_since_1900": -1,
+            "length_in_months": -1
+        },
+        {
+            "name": "Emmalyn Estrada",
+            "href": "https://www.whosdatedwho.com/dating/emmalyn-estrada",
+            "relationship_type": 2,
+            "start_date": "29th Nov 2010",
+            "end_date": "Feb 2014",
+            "length": "3 years",
+            "start_months_since_1900": 1330,
+            "end_months_since_1900": 1369,
+            "length_in_months": 36
+        },
+        {
+            "name": "Mimi Gianopulos",
+            "href": "https://www.whosdatedwho.com/dating/mimi-gianopulos",
+            "relationship_type": 1,
+            "start_date": "",
+            "end_date": "",
+            "length": "-",
+            "start_months_since_1900": -1,
+            "end_months_since_1900": -1,
+            "length_in_months": -1
+        }
+    ],
+    "details": {
+        "First Name": "Jean-Luc",
+        "Middle Name": "NA",
+        "Last Name": "Bilodeau",
+        "Maiden Name": "NA",
+        "Full Name at Birth": "Jean-Luc Bilodeau",
+        "Alternative Name": "J-Biddy, Jl",
+        "Birthday": "1990",
+        "Birthplace": "Canada",
+        "Height": "177",
+        "Weight": "NA",
+        "Zodiac Sign": "5",
+        "Sexuality": "Bisexual",
+        "Religion": "1",
+        "Ethnicity": "6",
+        "Nationality": "90",
+        "Occupation": "8"
+    }
+}

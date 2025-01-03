@@ -1,0 +1,55 @@
+{
+    "relationships": [
+        {
+            "name": "Ollie Chambers",
+            "href": "https://www.whosdatedwho.com/dating/ollie-chambers",
+            "relationship_type": 2,
+            "start_date": "2020",
+            "end_date": "present",
+            "length": "4 years",
+            "start_months_since_1900": 1440,
+            "end_months_since_1900": -1,
+            "length_in_months": 48
+        },
+        {
+            "name": "James Arthur",
+            "href": "https://www.whosdatedwho.com/dating/james-arthur",
+            "relationship_type": 2,
+            "start_date": "Dec 2012",
+            "end_date": "Dec 2012",
+            "length": "-",
+            "start_months_since_1900": 1355,
+            "end_months_since_1900": 1355,
+            "length_in_months": -1
+        },
+        {
+            "name": "Richard Dinan",
+            "href": "https://www.whosdatedwho.com/dating/richard-dinan",
+            "relationship_type": 2,
+            "start_date": "Dec 2012",
+            "end_date": "",
+            "length": "-",
+            "start_months_since_1900": 1355,
+            "end_months_since_1900": -1,
+            "length_in_months": -1
+        }
+    ],
+    "details": {
+        "First Name": "Kimberley",
+        "Middle Name": "NA",
+        "Last Name": "Garner",
+        "Maiden Name": "NA",
+        "Full Name at Birth": "Kimberley Garner",
+        "Alternative Name": "Kimberley Garner, Kimberly Garner",
+        "Birthday": "1991",
+        "Birthplace": "UK",
+        "Height": "175",
+        "Weight": "117lbs (53 kg)",
+        "Zodiac Sign": "1",
+        "Sexuality": "Straight",
+        "Religion": "18",
+        "Ethnicity": "6",
+        "Nationality": "8",
+        "Occupation": "8"
+    }
+}

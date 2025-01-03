@@ -1,0 +1,44 @@
+{
+    "relationships": [
+        {
+            "name": "Chris Hesse",
+            "href": "https://www.whosdatedwho.com/dating/chris-hesse",
+            "relationship_type": 4,
+            "start_date": "Sep 2009",
+            "end_date": "present",
+            "length": "15 years",
+            "start_months_since_1900": 1316,
+            "end_months_since_1900": -1,
+            "length_in_months": 180
+        },
+        {
+            "name": "George Lucas",
+            "href": "https://www.whosdatedwho.com/dating/george-lucas",
+            "relationship_type": 2,
+            "start_date": "2000",
+            "end_date": "2003",
+            "length": "3 years",
+            "start_months_since_1900": 1200,
+            "end_months_since_1900": 1236,
+            "length_in_months": 36
+        }
+    ],
+    "details": {
+        "First Name": "Amy",
+        "Middle Name": "NA",
+        "Last Name": "Allen",
+        "Maiden Name": "NA",
+        "Full Name at Birth": "Amy E. Allen",
+        "Alternative Name": "Amy Allen",
+        "Birthday": "1976",
+        "Birthplace": "USA",
+        "Height": "173",
+        "Weight": "NA",
+        "Zodiac Sign": "5",
+        "Sexuality": "NA",
+        "Religion": "1",
+        "Ethnicity": "6",
+        "Nationality": "91",
+        "Occupation": "8"
+    }
+}

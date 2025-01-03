@@ -1,0 +1,77 @@
+{
+    "relationships": [
+        {
+            "name": "Henry Berger",
+            "href": "https://www.whosdatedwho.com/dating/henry-berger",
+            "relationship_type": 4,
+            "start_date": "Apr 1960",
+            "end_date": "25th Apr 1970",
+            "length": "10 years",
+            "start_months_since_1900": 723,
+            "end_months_since_1900": 843,
+            "length_in_months": 120
+        },
+        {
+            "name": "Buddy Adler",
+            "href": "https://www.whosdatedwho.com/dating/buddy-adler",
+            "relationship_type": 4,
+            "start_date": "1938",
+            "end_date": "12th Jul 1960",
+            "length": "22 years",
+            "start_months_since_1900": 456,
+            "end_months_since_1900": 726,
+            "length_in_months": 264
+        },
+        {
+            "name": "Nino Martini",
+            "href": "https://www.whosdatedwho.com/dating/nino-martini",
+            "relationship_type": 1,
+            "start_date": "1935",
+            "end_date": "1935",
+            "length": "-",
+            "start_months_since_1900": 420,
+            "end_months_since_1900": 420,
+            "length_in_months": -1
+        },
+        {
+            "name": "Tom Brown",
+            "href": "https://www.whosdatedwho.com/dating/tom-brown",
+            "relationship_type": 2,
+            "start_date": "Jun 1934",
+            "end_date": "Aug 1934",
+            "length": "2 months",
+            "start_months_since_1900": 413,
+            "end_months_since_1900": 415,
+            "length_in_months": 2
+        },
+        {
+            "name": "Nelson Eddy",
+            "href": "https://www.whosdatedwho.com/dating/nelson-eddy",
+            "relationship_type": 2,
+            "start_date": "",
+            "end_date": "",
+            "length": "-",
+            "start_months_since_1900": -1,
+            "end_months_since_1900": -1,
+            "length_in_months": -1
+        }
+    ],
+    "details": {
+        "First Name": "Anita",
+        "Middle Name": "NA",
+        "Last Name": "Louise",
+        "Maiden Name": "Fremault",
+        "Full Name at Birth": "Anita Louise Fremault",
+        "Alternative Name": "Anita Louise Fremault, Anita Louise",
+        "Birthday": "1915",
+        "Birthplace": "New York USA",
+        "Height": "168",
+        "Weight": "NA",
+        "Zodiac Sign": "13",
+        "Sexuality": "Straight",
+        "Religion": "1",
+        "Ethnicity": "6",
+        "Nationality": "91",
+        "Occupation": "8"
+    }
+}

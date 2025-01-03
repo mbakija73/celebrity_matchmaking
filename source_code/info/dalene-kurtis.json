@@ -1,0 +1,66 @@
+{
+    "relationships": [
+        {
+            "name": "Nick Carter",
+            "href": "https://www.whosdatedwho.com/dating/nick-carter",
+            "relationship_type": 3,
+            "start_date": "Jul 2006",
+            "end_date": "Aug 2006",
+            "length": "1 month",
+            "start_months_since_1900": 1278,
+            "end_months_since_1900": 1279,
+            "length_in_months": 1
+        },
+        {
+            "name": "A.J. McLean",
+            "href": "https://www.whosdatedwho.com/dating/a-j-mclean",
+            "relationship_type": 3,
+            "start_date": "May 2003",
+            "end_date": "May 2003",
+            "length": "-",
+            "start_months_since_1900": 1240,
+            "end_months_since_1900": 1240,
+            "length_in_months": -1
+        },
+        {
+            "name": "Michael McMahon",
+            "href": "https://www.whosdatedwho.com/dating/michael-mcmahon",
+            "relationship_type": 3,
+            "start_date": "2003",
+            "end_date": "2003",
+            "length": "-",
+            "start_months_since_1900": 1236,
+            "end_months_since_1900": 1236,
+            "length_in_months": -1
+        },
+        {
+            "name": "Hugh Hefner",
+            "href": "https://www.whosdatedwho.com/dating/hugh-m-hefner",
+            "relationship_type": 3,
+            "start_date": "2001",
+            "end_date": "2002",
+            "length": "1 year",
+            "start_months_since_1900": 1212,
+            "end_months_since_1900": 1224,
+            "length_in_months": 12
+        }
+    ],
+    "details": {
+        "First Name": "Dalene",
+        "Middle Name": "NA",
+        "Last Name": "NA",
+        "Maiden Name": "Kurtis",
+        "Full Name at Birth": "Dalene Lynn Kurhajian",
+        "Alternative Name": "Miss September 2001, Dalene Kurtis, Dalene Curtis, Darlene Curtis, Dalene Lynn Kurhajian",
+        "Birthday": "1977",
+        "Birthplace": "USA",
+        "Height": "165",
+        "Weight": "112lbs (51 kg)",
+        "Zodiac Sign": "5",
+        "Sexuality": "Straight",
+        "Religion": "1",
+        "Ethnicity": "6",
+        "Nationality": "91",
+        "Occupation": "16"
+    }
+}

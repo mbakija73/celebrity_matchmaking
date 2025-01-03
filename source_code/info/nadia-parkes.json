@@ -1,0 +1,33 @@
+{
+    "relationships": [
+        {
+            "name": "Tom Holland",
+            "href": "https://www.whosdatedwho.com/dating/tom-holland-actor",
+            "relationship_type": 2,
+            "start_date": "May 2020",
+            "end_date": "Aug 2020",
+            "length": "3 months",
+            "start_months_since_1900": 1444,
+            "end_months_since_1900": 1447,
+            "length_in_months": 3
+        }
+    ],
+    "details": {
+        "First Name": "Nadia",
+        "Middle Name": "Sofia",
+        "Last Name": "Parkes",
+        "Maiden Name": "NA",
+        "Full Name at Birth": "Nadia Sofia Parkes",
+        "Alternative Name": "Noodle",
+        "Birthday": "1995",
+        "Birthplace": "UK",
+        "Height": "167",
+        "Weight": "114lbs (52 kg)",
+        "Zodiac Sign": "13",
+        "Sexuality": "Straight",
+        "Religion": "18",
+        "Ethnicity": "6",
+        "Nationality": "8",
+        "Occupation": "8"
+    }
+}

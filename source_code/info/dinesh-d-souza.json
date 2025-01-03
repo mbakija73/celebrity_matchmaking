@@ -1,0 +1,55 @@
+{
+    "relationships": [
+        {
+            "name": "Dixie D'Souza",
+            "href": "https://www.whosdatedwho.com/dating/dixie-d-souza",
+            "relationship_type": 4,
+            "start_date": "1990",
+            "end_date": "",
+            "length": "-",
+            "start_months_since_1900": 1080,
+            "end_months_since_1900": -1,
+            "length_in_months": -1
+        },
+        {
+            "name": "Ann Coulter",
+            "href": "https://www.whosdatedwho.com/dating/ann-coulter",
+            "relationship_type": 3,
+            "start_date": "1990",
+            "end_date": "1990",
+            "length": "-",
+            "start_months_since_1900": 1080,
+            "end_months_since_1900": 1080,
+            "length_in_months": -1
+        },
+        {
+            "name": "Laura Ingraham",
+            "href": "https://www.whosdatedwho.com/dating/laura-ingraham",
+            "relationship_type": 3,
+            "start_date": "",
+            "end_date": "",
+            "length": "-",
+            "start_months_since_1900": -1,
+            "end_months_since_1900": -1,
+            "length_in_months": -1
+        }
+    ],
+    "details": {
+        "First Name": "Dinesh",
+        "Middle Name": "NA",
+        "Last Name": "D'souza",
+        "Maiden Name": "NA",
+        "Full Name at Birth": "Dinesh D'Souza",
+        "Alternative Name": "Dinesh D'Souza",
+        "Birthday": "1961",
+        "Birthplace": "India",
+        "Height": "169",
+        "Weight": "NA",
+        "Zodiac Sign": "3",
+        "Sexuality": "Straight",
+        "Religion": "18",
+        "Ethnicity": "7",
+        "Nationality": "91",
+        "Occupation": "3"
+    }
+}

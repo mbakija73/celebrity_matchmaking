@@ -1,0 +1,77 @@
+{
+    "relationships": [
+        {
+            "name": "Jamie Childs",
+            "href": "https://www.whosdatedwho.com/dating/jamie-childs",
+            "relationship_type": 2,
+            "start_date": "Feb 2022",
+            "end_date": "present",
+            "length": "2 years",
+            "start_months_since_1900": 1465,
+            "end_months_since_1900": -1,
+            "length_in_months": 24
+        },
+        {
+            "name": "Tom Hughes",
+            "href": "https://www.whosdatedwho.com/dating/tom-hughes-born-1985",
+            "relationship_type": 2,
+            "start_date": "2016",
+            "end_date": "2020",
+            "length": "4 years",
+            "start_months_since_1900": 1392,
+            "end_months_since_1900": 1440,
+            "length_in_months": 48
+        },
+        {
+            "name": "Prince Harry",
+            "href": "https://www.whosdatedwho.com/dating/prince-harry-windsor",
+            "relationship_type": 3,
+            "start_date": "Jun 2015",
+            "end_date": "Jul 2015",
+            "length": "1 month",
+            "start_months_since_1900": 1385,
+            "end_months_since_1900": 1386,
+            "length_in_months": 1
+        },
+        {
+            "name": "Richard Madden",
+            "href": "https://www.whosdatedwho.com/dating/richard-madden",
+            "relationship_type": 2,
+            "start_date": "Apr 2011",
+            "end_date": "Jan 2016",
+            "length": "4 years",
+            "start_months_since_1900": 1335,
+            "end_months_since_1900": 1392,
+            "length_in_months": 48
+        },
+        {
+            "name": "Karl Davies",
+            "href": "https://www.whosdatedwho.com/dating/karl-davies",
+            "relationship_type": 2,
+            "start_date": "2006",
+            "end_date": "2009",
+            "length": "3 years",
+            "start_months_since_1900": 1272,
+            "end_months_since_1900": 1308,
+            "length_in_months": 36
+        }
+    ],
+    "details": {
+        "First Name": "Jenna",
+        "Middle Name": "Louise",
+        "Last Name": "Coleman",
+        "Maiden Name": "NA",
+        "Full Name at Birth": "Jenna Louise Coleman",
+        "Alternative Name": "Jen, The artist formerly known as JLC, Jenna-Louise Coleman, Jenna Coleman, Jenna Louise Coleman",
+        "Birthday": "1986",
+        "Birthplace": "UK",
+        "Height": "157",
+        "Weight": "110lbs (50 kg)",
+        "Zodiac Sign": "3",
+        "Sexuality": "Straight",
+        "Religion": "18",
+        "Ethnicity": "6",
+        "Nationality": "8",
+        "Occupation": "8"
+    }
+}

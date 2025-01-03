@@ -1,0 +1,44 @@
+{
+    "relationships": [
+        {
+            "name": "Cody Simpson",
+            "href": "https://www.whosdatedwho.com/dating/cody-simpson",
+            "relationship_type": 2,
+            "start_date": "Aug 2018",
+            "end_date": "Jan 2019",
+            "length": "5 months",
+            "start_months_since_1900": 1423,
+            "end_months_since_1900": 1428,
+            "length_in_months": 5
+        },
+        {
+            "name": "Vito Basso",
+            "href": "https://www.whosdatedwho.com/dating/vito-basso",
+            "relationship_type": 2,
+            "start_date": "",
+            "end_date": "",
+            "length": "-",
+            "start_months_since_1900": -1,
+            "end_months_since_1900": -1,
+            "length_in_months": -1
+        }
+    ],
+    "details": {
+        "First Name": "Clair",
+        "Middle Name": "Catherine",
+        "Last Name": "Wuestenberg",
+        "Maiden Name": "NA",
+        "Full Name at Birth": "Clair Catherine Wuestenberg",
+        "Alternative Name": "Clair Wuestenberg, Clair Catherine Wuestenberg, Clair Westenberg, Clair Catherine",
+        "Birthday": "1995",
+        "Birthplace": "USA",
+        "Height": "175",
+        "Weight": "132lbs (60 kg)",
+        "Zodiac Sign": "1",
+        "Sexuality": "Straight",
+        "Religion": "1",
+        "Ethnicity": "6",
+        "Nationality": "91",
+        "Occupation": "15"
+    }
+}

@@ -1,0 +1,66 @@
+{
+    "relationships": [
+        {
+            "name": "William Friedkin",
+            "href": "https://www.whosdatedwho.com/dating/william-friedkin",
+            "relationship_type": 4,
+            "start_date": "1990",
+            "end_date": "present",
+            "length": "34 years",
+            "start_months_since_1900": 1080,
+            "end_months_since_1900": -1,
+            "length_in_months": 408
+        },
+        {
+            "name": "Wayne Rogers",
+            "href": "https://www.whosdatedwho.com/dating/wayne-rogers",
+            "relationship_type": 2,
+            "start_date": "1977",
+            "end_date": "1981",
+            "length": "4 years",
+            "start_months_since_1900": 924,
+            "end_months_since_1900": 972,
+            "length_in_months": 48
+        },
+        {
+            "name": "Michael L. Brownstein",
+            "href": "https://www.whosdatedwho.com/dating/michael-l-brownstein",
+            "relationship_type": 4,
+            "start_date": "1963",
+            "end_date": "1970",
+            "length": "7 years",
+            "start_months_since_1900": 756,
+            "end_months_since_1900": 840,
+            "length_in_months": 84
+        },
+        {
+            "name": "Freddie Fields",
+            "href": "https://www.whosdatedwho.com/dating/freddie-fields",
+            "relationship_type": 3,
+            "start_date": "",
+            "end_date": "",
+            "length": "-",
+            "start_months_since_1900": -1,
+            "end_months_since_1900": -1,
+            "length_in_months": -1
+        }
+    ],
+    "details": {
+        "First Name": "Sherry",
+        "Middle Name": "Lee",
+        "Last Name": "Lansing",
+        "Maiden Name": "Duhl",
+        "Full Name at Birth": "Sherry Lee Duhl",
+        "Alternative Name": "NA",
+        "Birthday": "1944",
+        "Birthplace": "U.S.",
+        "Height": "178",
+        "Weight": "NA",
+        "Zodiac Sign": "8",
+        "Sexuality": "Straight",
+        "Religion": "31",
+        "Ethnicity": "6",
+        "Nationality": "91",
+        "Occupation": "9"
+    }
+}

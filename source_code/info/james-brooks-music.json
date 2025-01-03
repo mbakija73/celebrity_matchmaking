@@ -1,0 +1,33 @@
+{
+    "relationships": [
+        {
+            "name": "Grimes",
+            "href": "https://www.whosdatedwho.com/dating/grimes-singer",
+            "relationship_type": 2,
+            "start_date": "2012",
+            "end_date": "2018",
+            "length": "6 years",
+            "start_months_since_1900": 1344,
+            "end_months_since_1900": 1416,
+            "length_in_months": 72
+        }
+    ],
+    "details": {
+        "First Name": "Edward",
+        "Middle Name": "James",
+        "Last Name": "Brooks",
+        "Maiden Name": "NA",
+        "Full Name at Birth": "Edward James Brooks",
+        "Alternative Name": "James Brooks",
+        "Birthday": "1984",
+        "Birthplace": "NA",
+        "Height": "NA",
+        "Weight": "NA",
+        "Zodiac Sign": "3",
+        "Sexuality": "NA",
+        "Religion": "1",
+        "Ethnicity": "6",
+        "Nationality": "90",
+        "Occupation": "1"
+    }
+}

@@ -1,0 +1,44 @@
+{
+    "relationships": [
+        {
+            "name": "John Legend",
+            "href": "https://www.whosdatedwho.com/dating/john-legend",
+            "relationship_type": 2,
+            "start_date": "2006",
+            "end_date": "2006",
+            "length": "-",
+            "start_months_since_1900": 1272,
+            "end_months_since_1900": 1272,
+            "length_in_months": -1
+        },
+        {
+            "name": "Pauly Shore",
+            "href": "https://www.whosdatedwho.com/dating/pauly-shore",
+            "relationship_type": 3,
+            "start_date": "2005",
+            "end_date": "2005",
+            "length": "-",
+            "start_months_since_1900": 1260,
+            "end_months_since_1900": 1260,
+            "length_in_months": -1
+        }
+    ],
+    "details": {
+        "First Name": "Wafah",
+        "Middle Name": "NA",
+        "Last Name": "Dufour",
+        "Maiden Name": "NA",
+        "Full Name at Birth": "Wafah bin Ladin",
+        "Alternative Name": "Wafah Binladin, Wafah Dufour (using her mother's last name)",
+        "Birthday": "1975",
+        "Birthplace": "USA",
+        "Height": "165",
+        "Weight": "NA",
+        "Zodiac Sign": "4",
+        "Sexuality": "Straight",
+        "Religion": "25",
+        "Ethnicity": "5",
+        "Nationality": "91",
+        "Occupation": "1"
+    }
+}

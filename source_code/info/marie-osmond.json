@@ -1,0 +1,77 @@
+{
+    "relationships": [
+        {
+            "name": "Brian Blosil",
+            "href": "https://www.whosdatedwho.com/dating/brian-blosil",
+            "relationship_type": 4,
+            "start_date": "Jul 1985",
+            "end_date": "Oct 2007",
+            "length": "22 years",
+            "start_months_since_1900": 1026,
+            "end_months_since_1900": 1293,
+            "length_in_months": 264
+        },
+        {
+            "name": "John Schneider",
+            "href": "https://www.whosdatedwho.com/dating/john-schneider",
+            "relationship_type": 2,
+            "start_date": "1981",
+            "end_date": "1982",
+            "length": "1 year",
+            "start_months_since_1900": 972,
+            "end_months_since_1900": 984,
+            "length_in_months": 12
+        },
+        {
+            "name": "Steve Craig",
+            "href": "https://www.whosdatedwho.com/dating/steve-craig",
+            "relationship_type": 4,
+            "start_date": "1981",
+            "end_date": "present",
+            "length": "43 years",
+            "start_months_since_1900": 972,
+            "end_months_since_1900": -1,
+            "length_in_months": 516
+        },
+        {
+            "name": "Andy Gibb",
+            "href": "https://www.whosdatedwho.com/dating/andy-gibb",
+            "relationship_type": 2,
+            "start_date": "1979",
+            "end_date": "1980",
+            "length": "1 year",
+            "start_months_since_1900": 948,
+            "end_months_since_1900": 960,
+            "length_in_months": 12
+        },
+        {
+            "name": "Dirk Benedict",
+            "href": "https://www.whosdatedwho.com/dating/dirk-benedict",
+            "relationship_type": 2,
+            "start_date": "1978",
+            "end_date": "1979",
+            "length": "1 year",
+            "start_months_since_1900": 936,
+            "end_months_since_1900": 948,
+            "length_in_months": 12
+        }
+    ],
+    "details": {
+        "First Name": "Olive",
+        "Middle Name": "Marie",
+        "Last Name": "Craig",
+        "Maiden Name": "Osmond",
+        "Full Name at Birth": "Olive Marie Osmond",
+        "Alternative Name": "Marie Osmond",
+        "Birthday": "1959",
+        "Birthplace": "Utah",
+        "Height": "165",
+        "Weight": "120lbs (54 kg)",
+        "Zodiac Sign": "10",
+        "Sexuality": "Straight",
+        "Religion": "20",
+        "Ethnicity": "6",
+        "Nationality": "91",
+        "Occupation": "16"
+    }
+}

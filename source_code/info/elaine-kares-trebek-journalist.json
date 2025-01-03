@@ -1,0 +1,55 @@
+{
+    "relationships": [
+        {
+            "name": "Alex Trebek",
+            "href": "https://www.whosdatedwho.com/dating/alex-trebek",
+            "relationship_type": 4,
+            "start_date": "1973",
+            "end_date": "1981",
+            "length": "8 years",
+            "start_months_since_1900": 876,
+            "end_months_since_1900": 972,
+            "length_in_months": 96
+        },
+        {
+            "name": "Louis Callei",
+            "href": "https://www.whosdatedwho.com/dating/louis-callei",
+            "relationship_type": 4,
+            "start_date": "1963",
+            "end_date": "1974",
+            "length": "11 years",
+            "start_months_since_1900": 756,
+            "end_months_since_1900": 888,
+            "length_in_months": 132
+        },
+        {
+            "name": "Peter Kares",
+            "href": "https://www.whosdatedwho.com/dating/peter-kares-3312100",
+            "relationship_type": 4,
+            "start_date": "Mar 2001",
+            "end_date": "present",
+            "length": "23 years",
+            "start_months_since_1900": 1214,
+            "end_months_since_1900": -1,
+            "length_in_months": 276
+        }
+    ],
+    "details": {
+        "First Name": "Elaine",
+        "Middle Name": "NA",
+        "Last Name": "Callei",
+        "Maiden Name": "NA",
+        "Full Name at Birth": "Elaine Callei",
+        "Alternative Name": "Elaine Callei Trebek, Elaine Trebek Kares, Elaine Callei, Elaine Howard",
+        "Birthday": "NA",
+        "Birthplace": "USA",
+        "Height": "NA",
+        "Weight": "NA",
+        "Zodiac Sign": "2",
+        "Sexuality": "Straight",
+        "Religion": "1",
+        "Ethnicity": "6",
+        "Nationality": "91",
+        "Occupation": "3"
+    }
+}

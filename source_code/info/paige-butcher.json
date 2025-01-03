@@ -1,0 +1,55 @@
+{
+    "relationships": [
+        {
+            "name": "Eddie Murphy",
+            "href": "https://www.whosdatedwho.com/dating/eddie-murphy",
+            "relationship_type": 4,
+            "start_date": "Sep 2012",
+            "end_date": "present",
+            "length": "12 years",
+            "start_months_since_1900": 1352,
+            "end_months_since_1900": -1,
+            "length_in_months": 144
+        },
+        {
+            "name": "Russell Simmons",
+            "href": "https://www.whosdatedwho.com/dating/russell-simmons",
+            "relationship_type": 2,
+            "start_date": "2010",
+            "end_date": "2011",
+            "length": "1 year",
+            "start_months_since_1900": 1320,
+            "end_months_since_1900": 1332,
+            "length_in_months": 12
+        },
+        {
+            "name": "Tyson Beckford",
+            "href": "https://www.whosdatedwho.com/dating/tyson-beckford",
+            "relationship_type": 2,
+            "start_date": "2009",
+            "end_date": "2009",
+            "length": "-",
+            "start_months_since_1900": 1308,
+            "end_months_since_1900": 1308,
+            "length_in_months": -1
+        }
+    ],
+    "details": {
+        "First Name": "Paige",
+        "Middle Name": "NA",
+        "Last Name": "Butcher",
+        "Maiden Name": "NA",
+        "Full Name at Birth": "Jacinta Paige Butcher",
+        "Alternative Name": "NA",
+        "Birthday": "1979",
+        "Birthplace": "Australia",
+        "Height": "178",
+        "Weight": "NA",
+        "Zodiac Sign": "4",
+        "Sexuality": "Straight",
+        "Religion": "13",
+        "Ethnicity": "6",
+        "Nationality": "135",
+        "Occupation": "15"
+    }
+}

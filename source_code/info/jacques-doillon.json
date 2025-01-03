@@ -1,0 +1,55 @@
+{
+    "relationships": [
+        {
+            "name": "Jane Birkin",
+            "href": "https://www.whosdatedwho.com/dating/jane-birkin",
+            "relationship_type": 2,
+            "start_date": "1980",
+            "end_date": "1992",
+            "length": "12 years",
+            "start_months_since_1900": 960,
+            "end_months_since_1900": 1104,
+            "length_in_months": 144
+        },
+        {
+            "name": "No\u00eblle Boisson",
+            "href": "https://www.whosdatedwho.com/dating/noelle-boisson",
+            "relationship_type": 2,
+            "start_date": "",
+            "end_date": "",
+            "length": "-",
+            "start_months_since_1900": -1,
+            "end_months_since_1900": -1,
+            "length_in_months": -1
+        },
+        {
+            "name": "Brune Compagnon",
+            "href": "https://www.whosdatedwho.com/dating/brune-compagnon",
+            "relationship_type": 2,
+            "start_date": "",
+            "end_date": "",
+            "length": "-",
+            "start_months_since_1900": -1,
+            "end_months_since_1900": -1,
+            "length_in_months": -1
+        }
+    ],
+    "details": {
+        "First Name": "Jacques",
+        "Middle Name": "NA",
+        "Last Name": "Doillon",
+        "Maiden Name": "NA",
+        "Full Name at Birth": "Jacques Doillon",
+        "Alternative Name": "Jacques Poyon, Jacques Doillon",
+        "Birthday": "1944",
+        "Birthplace": "France",
+        "Height": "NA",
+        "Weight": "NA",
+        "Zodiac Sign": "1",
+        "Sexuality": "Straight",
+        "Religion": "1",
+        "Ethnicity": "6",
+        "Nationality": "86",
+        "Occupation": "9"
+    }
+}

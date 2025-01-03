@@ -1,0 +1,44 @@
+{
+    "relationships": [
+        {
+            "name": "Bryan Le",
+            "href": "https://www.whosdatedwho.com/dating/ricegum",
+            "relationship_type": 2,
+            "start_date": "2019",
+            "end_date": "Nov 2019",
+            "length": "10 months",
+            "start_months_since_1900": 1428,
+            "end_months_since_1900": 1438,
+            "length_in_months": 10
+        },
+        {
+            "name": "Royce David",
+            "href": "https://www.whosdatedwho.com/dating/royce-david",
+            "relationship_type": 1,
+            "start_date": "",
+            "end_date": "",
+            "length": "-",
+            "start_months_since_1900": -1,
+            "end_months_since_1900": -1,
+            "length_in_months": -1
+        }
+    ],
+    "details": {
+        "First Name": "Abby",
+        "Middle Name": "NA",
+        "Last Name": "Rao",
+        "Maiden Name": "NA",
+        "Full Name at Birth": "Abby Rao",
+        "Alternative Name": "Abby Rao, Abby",
+        "Birthday": "1997",
+        "Birthplace": "USA",
+        "Height": "163",
+        "Weight": "124lbs (56 kg)",
+        "Zodiac Sign": "8",
+        "Sexuality": "Straight",
+        "Religion": "1",
+        "Ethnicity": "6",
+        "Nationality": "91",
+        "Occupation": "11"
+    }
+}

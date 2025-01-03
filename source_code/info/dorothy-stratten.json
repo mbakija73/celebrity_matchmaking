@@ -1,0 +1,44 @@
+{
+    "relationships": [
+        {
+            "name": "Peter Bogdanovich",
+            "href": "https://www.whosdatedwho.com/dating/peter-bogdanovich",
+            "relationship_type": 2,
+            "start_date": "1979",
+            "end_date": "Aug 1980",
+            "length": "1 year",
+            "start_months_since_1900": 948,
+            "end_months_since_1900": 967,
+            "length_in_months": 12
+        },
+        {
+            "name": "Paul Snider",
+            "href": "https://www.whosdatedwho.com/dating/paul-snider",
+            "relationship_type": 4,
+            "start_date": "1977",
+            "end_date": "1980",
+            "length": "3 years",
+            "start_months_since_1900": 924,
+            "end_months_since_1900": 960,
+            "length_in_months": 36
+        }
+    ],
+    "details": {
+        "First Name": "Dorothy",
+        "Middle Name": "Ruth",
+        "Last Name": "Stratten",
+        "Maiden Name": "Hoogstraton",
+        "Full Name at Birth": "Dorothy Ruth Hoogstraten",
+        "Alternative Name": "Miss August 1979, Dorothy Ruth Hoogstraten, Dorothy Stratten",
+        "Birthday": "1960",
+        "Birthplace": "Canada",
+        "Height": "175",
+        "Weight": "123lbs (56 kg)",
+        "Zodiac Sign": "1",
+        "Sexuality": "Straight",
+        "Religion": "1",
+        "Ethnicity": "6",
+        "Nationality": "90",
+        "Occupation": "16"
+    }
+}

@@ -1,0 +1,77 @@
+{
+    "relationships": [
+        {
+            "name": "James Gooding",
+            "href": "https://www.whosdatedwho.com/dating/james-gooding",
+            "relationship_type": 2,
+            "start_date": "2001",
+            "end_date": "2001",
+            "length": "-",
+            "start_months_since_1900": 1212,
+            "end_months_since_1900": 1212,
+            "length_in_months": -1
+        },
+        {
+            "name": "Peter Sarsgaard",
+            "href": "https://www.whosdatedwho.com/dating/peter-sarsgaard",
+            "relationship_type": 2,
+            "start_date": "2001",
+            "end_date": "2001",
+            "length": "-",
+            "start_months_since_1900": 1212,
+            "end_months_since_1900": 1212,
+            "length_in_months": -1
+        },
+        {
+            "name": "Terry Richardson",
+            "href": "https://www.whosdatedwho.com/dating/terry-richardson",
+            "relationship_type": 2,
+            "start_date": "1999",
+            "end_date": "2003",
+            "length": "4 years",
+            "start_months_since_1900": 1188,
+            "end_months_since_1900": 1236,
+            "length_in_months": 48
+        },
+        {
+            "name": "Johnny Zander",
+            "href": "https://www.whosdatedwho.com/dating/johnny-zander",
+            "relationship_type": 2,
+            "start_date": "1996",
+            "end_date": "1996",
+            "length": "-",
+            "start_months_since_1900": 1152,
+            "end_months_since_1900": 1152,
+            "length_in_months": -1
+        },
+        {
+            "name": "Leonardo DiCaprio",
+            "href": "https://www.whosdatedwho.com/dating/leonardo-dicaprio",
+            "relationship_type": 3,
+            "start_date": "1995",
+            "end_date": "1995",
+            "length": "-",
+            "start_months_since_1900": 1140,
+            "end_months_since_1900": 1140,
+            "length_in_months": -1
+        }
+    ],
+    "details": {
+        "First Name": "Shalom",
+        "Middle Name": "NA",
+        "Last Name": "NA",
+        "Maiden Name": "Harlow",
+        "Full Name at Birth": "Shalom Harlow",
+        "Alternative Name": "NA",
+        "Birthday": "1973",
+        "Birthplace": "Canada",
+        "Height": "180",
+        "Weight": "110lbs (50 kg)",
+        "Zodiac Sign": "6",
+        "Sexuality": "Straight",
+        "Religion": "1",
+        "Ethnicity": "6",
+        "Nationality": "90",
+        "Occupation": "15"
+    }
+}

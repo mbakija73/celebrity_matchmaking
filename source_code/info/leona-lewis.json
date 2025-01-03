@@ -1,0 +1,55 @@
+{
+    "relationships": [
+        {
+            "name": "Dennis Jauch",
+            "href": "https://www.whosdatedwho.com/dating/dennis-jauch",
+            "relationship_type": 4,
+            "start_date": "2010",
+            "end_date": "present",
+            "length": "14 years",
+            "start_months_since_1900": 1320,
+            "end_months_since_1900": -1,
+            "length_in_months": 168
+        },
+        {
+            "name": "Lou Al-Chamaa",
+            "href": "https://www.whosdatedwho.com/dating/lou-al-chamaa",
+            "relationship_type": 2,
+            "start_date": "2002",
+            "end_date": "Jun 2010",
+            "length": "8 years",
+            "start_months_since_1900": 1224,
+            "end_months_since_1900": 1325,
+            "length_in_months": 96
+        },
+        {
+            "name": "Tyrese Gibson",
+            "href": "https://www.whosdatedwho.com/dating/tyrese-gibson",
+            "relationship_type": 2,
+            "start_date": "",
+            "end_date": "",
+            "length": "-",
+            "start_months_since_1900": -1,
+            "end_months_since_1900": -1,
+            "length_in_months": -1
+        }
+    ],
+    "details": {
+        "First Name": "Leona",
+        "Middle Name": "Louise",
+        "Last Name": "Lewis",
+        "Maiden Name": "NA",
+        "Full Name at Birth": "Leona Louise Lewis",
+        "Alternative Name": "Leona",
+        "Birthday": "1985",
+        "Birthplace": "England",
+        "Height": "170",
+        "Weight": "135lbs (61 kg)",
+        "Zodiac Sign": "7",
+        "Sexuality": "Straight",
+        "Religion": "18",
+        "Ethnicity": "8",
+        "Nationality": "8",
+        "Occupation": "1"
+    }
+}

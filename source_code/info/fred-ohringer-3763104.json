@@ -1,0 +1,16 @@
+{
+    "relationships": [
+        {
+            "name": "Susan Anton",
+            "href": "https://www.whosdatedwho.com/dating/susan-anton",
+            "relationship_type": 2,
+            "start_date": "1985",
+            "end_date": "1990",
+            "length": "5 years",
+            "start_months_since_1900": 1020,
+            "end_months_since_1900": 1080,
+            "length_in_months": 60
+        }
+    ],
+    "details": {}
+}

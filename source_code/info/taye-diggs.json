@@ -1,0 +1,66 @@
+{
+    "relationships": [
+        {
+            "name": "Apryl Jones",
+            "href": "https://www.whosdatedwho.com/dating/apryl-jones",
+            "relationship_type": 2,
+            "start_date": "2022",
+            "end_date": "present",
+            "length": "2 years",
+            "start_months_since_1900": 1464,
+            "end_months_since_1900": -1,
+            "length_in_months": 24
+        },
+        {
+            "name": "Amanza Smith",
+            "href": "https://www.whosdatedwho.com/dating/amanza-smith-brown",
+            "relationship_type": 2,
+            "start_date": "2014",
+            "end_date": "2018",
+            "length": "4 years",
+            "start_months_since_1900": 1368,
+            "end_months_since_1900": 1416,
+            "length_in_months": 48
+        },
+        {
+            "name": "Idina Menzel",
+            "href": "https://www.whosdatedwho.com/dating/idina-menzel",
+            "relationship_type": 4,
+            "start_date": "1996",
+            "end_date": "Dec 2013",
+            "length": "17 years",
+            "start_months_since_1900": 1152,
+            "end_months_since_1900": 1367,
+            "length_in_months": 204
+        },
+        {
+            "name": "Angelina Jolie",
+            "href": "https://www.whosdatedwho.com/dating/angelina-jolie",
+            "relationship_type": 1,
+            "start_date": "",
+            "end_date": "",
+            "length": "-",
+            "start_months_since_1900": -1,
+            "end_months_since_1900": -1,
+            "length_in_months": -1
+        }
+    ],
+    "details": {
+        "First Name": "Taye",
+        "Middle Name": "NA",
+        "Last Name": "Diggs",
+        "Maiden Name": "NA",
+        "Full Name at Birth": "Scott L. Diggs",
+        "Alternative Name": "Scott L. Diggs, Taye Diggs",
+        "Birthday": "1971",
+        "Birthplace": "USA",
+        "Height": "178",
+        "Weight": "NA",
+        "Zodiac Sign": "13",
+        "Sexuality": "Straight",
+        "Religion": "1",
+        "Ethnicity": "2",
+        "Nationality": "91",
+        "Occupation": "8"
+    }
+}

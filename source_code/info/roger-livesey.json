@@ -1,0 +1,33 @@
+{
+    "relationships": [
+        {
+            "name": "Ursula Jeans",
+            "href": "https://www.whosdatedwho.com/dating/ursula-jeans",
+            "relationship_type": 4,
+            "start_date": "1937",
+            "end_date": "1973",
+            "length": "36 years",
+            "start_months_since_1900": 444,
+            "end_months_since_1900": 876,
+            "length_in_months": 432
+        }
+    ],
+    "details": {
+        "First Name": "Roger",
+        "Middle Name": "NA",
+        "Last Name": "Livesey",
+        "Maiden Name": "NA",
+        "Full Name at Birth": "NA",
+        "Alternative Name": "NA",
+        "Birthday": "1906",
+        "Birthplace": "UK",
+        "Height": "182",
+        "Weight": "NA",
+        "Zodiac Sign": "8",
+        "Sexuality": "Straight",
+        "Religion": "1",
+        "Ethnicity": "6",
+        "Nationality": "8",
+        "Occupation": "8"
+    }
+}

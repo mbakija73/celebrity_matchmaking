@@ -1,0 +1,44 @@
+{
+    "relationships": [
+        {
+            "name": "Karen Sillas",
+            "href": "https://www.whosdatedwho.com/dating/karen-sillas",
+            "relationship_type": 4,
+            "start_date": "2006",
+            "end_date": "",
+            "length": "-",
+            "start_months_since_1900": 1272,
+            "end_months_since_1900": -1,
+            "length_in_months": -1
+        },
+        {
+            "name": "Cathy Lee Crosby",
+            "href": "https://www.whosdatedwho.com/dating/cathy-lee-crosby",
+            "relationship_type": 2,
+            "start_date": "1989",
+            "end_date": "1990",
+            "length": "1 year",
+            "start_months_since_1900": 1068,
+            "end_months_since_1900": 1080,
+            "length_in_months": 12
+        }
+    ],
+    "details": {
+        "First Name": "Ivan",
+        "Middle Name": "NA",
+        "Last Name": "Menchell",
+        "Maiden Name": "NA",
+        "Full Name at Birth": "Ivan David Menchell",
+        "Alternative Name": "NA",
+        "Birthday": "1961",
+        "Birthplace": "Usa",
+        "Height": "NA",
+        "Weight": "NA",
+        "Zodiac Sign": "1",
+        "Sexuality": "NA",
+        "Religion": "31",
+        "Ethnicity": "6",
+        "Nationality": "91",
+        "Occupation": "9"
+    }
+}

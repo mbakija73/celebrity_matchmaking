@@ -1,0 +1,88 @@
+{
+    "relationships": [
+        {
+            "name": "Peter Berg",
+            "href": "https://www.whosdatedwho.com/dating/peter-berg",
+            "relationship_type": 2,
+            "start_date": "Aug 2002",
+            "end_date": "Apr 2006",
+            "length": "3 years",
+            "start_months_since_1900": 1231,
+            "end_months_since_1900": 1275,
+            "length_in_months": 36
+        },
+        {
+            "name": "Jerry O'Connell",
+            "href": "https://www.whosdatedwho.com/dating/jerry-o-connell",
+            "relationship_type": 2,
+            "start_date": "Feb 2002",
+            "end_date": "Mar 2002",
+            "length": "< 1 month",
+            "start_months_since_1900": 1225,
+            "end_months_since_1900": 1226,
+            "length_in_months": 0
+        },
+        {
+            "name": "Kip Pardue",
+            "href": "https://www.whosdatedwho.com/dating/kip-pardue",
+            "relationship_type": 2,
+            "start_date": "Jul 2000",
+            "end_date": "Jan 2002",
+            "length": "1 year",
+            "start_months_since_1900": 1206,
+            "end_months_since_1900": 1224,
+            "length_in_months": 12
+        },
+        {
+            "name": "Paul Thomas Anderson",
+            "href": "https://www.whosdatedwho.com/dating/paul-thomas-anderson",
+            "relationship_type": 2,
+            "start_date": "May 2000",
+            "end_date": "2001",
+            "length": "8 months",
+            "start_months_since_1900": 1204,
+            "end_months_since_1900": 1212,
+            "length_in_months": 8
+        },
+        {
+            "name": "Bruce Willis",
+            "href": "https://www.whosdatedwho.com/dating/bruce-willis",
+            "relationship_type": 3,
+            "start_date": "",
+            "end_date": "",
+            "length": "-",
+            "start_months_since_1900": -1,
+            "end_months_since_1900": -1,
+            "length_in_months": -1
+        },
+        {
+            "name": "Michael Burns",
+            "href": "https://www.whosdatedwho.com/dating/michael-burns",
+            "relationship_type": 2,
+            "start_date": "",
+            "end_date": "",
+            "length": "-",
+            "start_months_since_1900": -1,
+            "end_months_since_1900": -1,
+            "length_in_months": -1
+        }
+    ],
+    "details": {
+        "First Name": "Estella",
+        "Middle Name": "Dawn",
+        "Last Name": "Warren",
+        "Maiden Name": "NA",
+        "Full Name at Birth": "Estella Dawn Warren",
+        "Alternative Name": "Tellie, Estella Dawn Warren, Estella Warren",
+        "Birthday": "1978",
+        "Birthplace": "Canada",
+        "Height": "173",
+        "Weight": "130lbs (59 kg)",
+        "Zodiac Sign": "13",
+        "Sexuality": "Straight",
+        "Religion": "1",
+        "Ethnicity": "6",
+        "Nationality": "90",
+        "Occupation": "8"
+    }
+}

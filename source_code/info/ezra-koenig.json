@@ -1,0 +1,33 @@
+{
+    "relationships": [
+        {
+            "name": "Rashida Jones",
+            "href": "https://www.whosdatedwho.com/dating/rashida-jones",
+            "relationship_type": 2,
+            "start_date": "2017",
+            "end_date": "2017",
+            "length": "-",
+            "start_months_since_1900": 1404,
+            "end_months_since_1900": 1404,
+            "length_in_months": -1
+        }
+    ],
+    "details": {
+        "First Name": "Ezra",
+        "Middle Name": "Michael",
+        "Last Name": "Koenig",
+        "Maiden Name": "NA",
+        "Full Name at Birth": "Ezra Michael Koenig",
+        "Alternative Name": "Ez",
+        "Birthday": "1984",
+        "Birthplace": "USA",
+        "Height": "182",
+        "Weight": "NA",
+        "Zodiac Sign": "7",
+        "Sexuality": "NA",
+        "Religion": "31",
+        "Ethnicity": "6",
+        "Nationality": "91",
+        "Occupation": "1"
+    }
+}

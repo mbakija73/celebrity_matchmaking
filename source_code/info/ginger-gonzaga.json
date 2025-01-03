@@ -1,0 +1,44 @@
+{
+    "relationships": [
+        {
+            "name": "Jim Carrey",
+            "href": "https://www.whosdatedwho.com/dating/jim-carrey",
+            "relationship_type": 2,
+            "start_date": "Jan 2019",
+            "end_date": "Oct 2019",
+            "length": "9 months",
+            "start_months_since_1900": 1428,
+            "end_months_since_1900": 1437,
+            "length_in_months": 9
+        },
+        {
+            "name": "Jim Jefferies",
+            "href": "https://www.whosdatedwho.com/dating/jim-jefferies",
+            "relationship_type": 1,
+            "start_date": "",
+            "end_date": "",
+            "length": "-",
+            "start_months_since_1900": -1,
+            "end_months_since_1900": -1,
+            "length_in_months": -1
+        }
+    ],
+    "details": {
+        "First Name": "Ginger",
+        "Middle Name": "Tapp",
+        "Last Name": "NA",
+        "Maiden Name": "Gonzaga",
+        "Full Name at Birth": "Ginger Tapp Gonzaga",
+        "Alternative Name": "Ginger",
+        "Birthday": "1983",
+        "Birthplace": "USA",
+        "Height": "163",
+        "Weight": "110lbs (50 kg)",
+        "Zodiac Sign": "3",
+        "Sexuality": "Straight",
+        "Religion": "1",
+        "Ethnicity": "8",
+        "Nationality": "91",
+        "Occupation": "8"
+    }
+}

@@ -1,0 +1,77 @@
+{
+    "relationships": [
+        {
+            "name": "Lisa Dergan",
+            "href": "https://www.whosdatedwho.com/dating/lisa-dergan",
+            "relationship_type": 2,
+            "start_date": "2001",
+            "end_date": "2004",
+            "length": "3 years",
+            "start_months_since_1900": 1212,
+            "end_months_since_1900": 1248,
+            "length_in_months": 36
+        },
+        {
+            "name": "Jaime Bergman",
+            "href": "https://www.whosdatedwho.com/dating/jaime-bergman",
+            "relationship_type": 2,
+            "start_date": "1999",
+            "end_date": "1999",
+            "length": "-",
+            "start_months_since_1900": 1188,
+            "end_months_since_1900": 1188,
+            "length_in_months": -1
+        },
+        {
+            "name": "Houston",
+            "href": "https://www.whosdatedwho.com/dating/houston-actress",
+            "relationship_type": 3,
+            "start_date": "",
+            "end_date": "",
+            "length": "-",
+            "start_months_since_1900": -1,
+            "end_months_since_1900": -1,
+            "length_in_months": -1
+        },
+        {
+            "name": "Rebecca Bardoux",
+            "href": "https://www.whosdatedwho.com/dating/rebecca-bardoux",
+            "relationship_type": 3,
+            "start_date": "",
+            "end_date": "",
+            "length": "-",
+            "start_months_since_1900": -1,
+            "end_months_since_1900": -1,
+            "length_in_months": -1
+        },
+        {
+            "name": "Taylor Wayne",
+            "href": "https://www.whosdatedwho.com/dating/taylor-wayne",
+            "relationship_type": 3,
+            "start_date": "",
+            "end_date": "",
+            "length": "-",
+            "start_months_since_1900": -1,
+            "end_months_since_1900": -1,
+            "length_in_months": -1
+        }
+    ],
+    "details": {
+        "First Name": "Michael",
+        "Middle Name": "NA",
+        "Last Name": "Bay",
+        "Maiden Name": "NA",
+        "Full Name at Birth": "Michael Benjamin Bay",
+        "Alternative Name": "NA",
+        "Birthday": "1965",
+        "Birthplace": "CA",
+        "Height": "188",
+        "Weight": "NA",
+        "Zodiac Sign": "9",
+        "Sexuality": "NA",
+        "Religion": "31",
+        "Ethnicity": "6",
+        "Nationality": "91",
+        "Occupation": "9"
+    }
+}

@@ -1,0 +1,33 @@
+{
+    "relationships": [
+        {
+            "name": "Thomas Eakins",
+            "href": "https://www.whosdatedwho.com/dating/thomas-eakins",
+            "relationship_type": 4,
+            "start_date": "1884",
+            "end_date": "1916",
+            "length": "32 years",
+            "start_months_since_1900": -192,
+            "end_months_since_1900": 192,
+            "length_in_months": 384
+        }
+    ],
+    "details": {
+        "First Name": "Susan",
+        "Middle Name": "Hannah",
+        "Last Name": "Eakins",
+        "Maiden Name": "MacDowell",
+        "Full Name at Birth": "Susan Hannah Macdowell",
+        "Alternative Name": "Susan Hannah Macdowell Eakins, Susan Macdowell Eakins",
+        "Birthday": "1851",
+        "Birthplace": "Pennsylvania",
+        "Height": "NA",
+        "Weight": "NA",
+        "Zodiac Sign": "11",
+        "Sexuality": "Lesbian",
+        "Religion": "1",
+        "Ethnicity": "6",
+        "Nationality": "91",
+        "Occupation": "13"
+    }
+}

@@ -1,0 +1,132 @@
+{
+    "relationships": [
+        {
+            "name": "Emmy Rossum",
+            "href": "https://www.whosdatedwho.com/dating/emmy-rossum",
+            "relationship_type": 2,
+            "start_date": "Oct 2009",
+            "end_date": "Sep 2010",
+            "length": "11 months",
+            "start_months_since_1900": 1317,
+            "end_months_since_1900": 1328,
+            "length_in_months": 11
+        },
+        {
+            "name": "Whitney Casey",
+            "href": "https://www.whosdatedwho.com/dating/whitney-casey",
+            "relationship_type": 2,
+            "start_date": "2008",
+            "end_date": "2009",
+            "length": "1 year",
+            "start_months_since_1900": 1296,
+            "end_months_since_1900": 1308,
+            "length_in_months": 12
+        },
+        {
+            "name": "Trishelle Cannatella",
+            "href": "https://www.whosdatedwho.com/dating/trishelle-cannatella",
+            "relationship_type": 2,
+            "start_date": "2006",
+            "end_date": "2006",
+            "length": "-",
+            "start_months_since_1900": 1272,
+            "end_months_since_1900": 1272,
+            "length_in_months": -1
+        },
+        {
+            "name": "Samantha Mathis",
+            "href": "https://www.whosdatedwho.com/dating/samantha-mathis",
+            "relationship_type": 2,
+            "start_date": "2004",
+            "end_date": "2005",
+            "length": "1 year",
+            "start_months_since_1900": 1248,
+            "end_months_since_1900": 1260,
+            "length_in_months": 12
+        },
+        {
+            "name": "Joanna Going",
+            "href": "https://www.whosdatedwho.com/dating/joanna-going",
+            "relationship_type": 1,
+            "start_date": "2001",
+            "end_date": "2001",
+            "length": "-",
+            "start_months_since_1900": 1212,
+            "end_months_since_1900": 1212,
+            "length_in_months": -1
+        },
+        {
+            "name": "Monica Potter",
+            "href": "https://www.whosdatedwho.com/dating/monica-potter",
+            "relationship_type": 2,
+            "start_date": "1999",
+            "end_date": "1999",
+            "length": "-",
+            "start_months_since_1900": 1188,
+            "end_months_since_1900": 1188,
+            "length_in_months": -1
+        },
+        {
+            "name": "Mary-Louise Parker",
+            "href": "https://www.whosdatedwho.com/dating/mary-louise-parker",
+            "relationship_type": 2,
+            "start_date": "1997",
+            "end_date": "1998",
+            "length": "1 year",
+            "start_months_since_1900": 1164,
+            "end_months_since_1900": 1176,
+            "length_in_months": 12
+        },
+        {
+            "name": "Courteney Cox",
+            "href": "https://www.whosdatedwho.com/dating/courteney-cox",
+            "relationship_type": 2,
+            "start_date": "Dec 1996",
+            "end_date": "Feb 1997",
+            "length": "2 months",
+            "start_months_since_1900": 1163,
+            "end_months_since_1900": 1165,
+            "length_in_months": 2
+        },
+        {
+            "name": "Jennifer Aniston",
+            "href": "https://www.whosdatedwho.com/dating/jennifer-aniston",
+            "relationship_type": 3,
+            "start_date": "1995",
+            "end_date": "1995",
+            "length": "-",
+            "start_months_since_1900": 1140,
+            "end_months_since_1900": 1140,
+            "length_in_months": -1
+        },
+        {
+            "name": "Winona Ryder",
+            "href": "https://www.whosdatedwho.com/dating/winona-ryder",
+            "relationship_type": 3,
+            "start_date": "1995",
+            "end_date": "1995",
+            "length": "-",
+            "start_months_since_1900": 1140,
+            "end_months_since_1900": 1140,
+            "length_in_months": -1
+        }
+    ],
+    "details": {
+        "First Name": "Adam",
+        "Middle Name": "NA",
+        "Last Name": "Duritz",
+        "Maiden Name": "NA",
+        "Full Name at Birth": "Adam Fredric Duritz",
+        "Alternative Name": "NA",
+        "Birthday": "1964",
+        "Birthplace": "MD",
+        "Height": "183",
+        "Weight": "NA",
+        "Zodiac Sign": "12",
+        "Sexuality": "Straight",
+        "Religion": "31",
+        "Ethnicity": "6",
+        "Nationality": "91",
+        "Occupation": "1"
+    }
+}

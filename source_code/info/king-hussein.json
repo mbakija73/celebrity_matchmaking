@@ -1,0 +1,77 @@
+{
+    "relationships": [
+        {
+            "name": "Queen Noor",
+            "href": "https://www.whosdatedwho.com/dating/queen-noor",
+            "relationship_type": 4,
+            "start_date": "Jun 1977",
+            "end_date": "7th Feb 1999",
+            "length": "21 years",
+            "start_months_since_1900": 929,
+            "end_months_since_1900": 1189,
+            "length_in_months": 252
+        },
+        {
+            "name": "Alia Toukan",
+            "href": "https://www.whosdatedwho.com/dating/alia-toukan",
+            "relationship_type": 4,
+            "start_date": "May 1971",
+            "end_date": "9th Feb 1977",
+            "length": "5 years",
+            "start_months_since_1900": 856,
+            "end_months_since_1900": 925,
+            "length_in_months": 60
+        },
+        {
+            "name": "Susan Cabot",
+            "href": "https://www.whosdatedwho.com/dating/susan-cabot",
+            "relationship_type": 2,
+            "start_date": "Mar 1959",
+            "end_date": "May 1959",
+            "length": "2 months",
+            "start_months_since_1900": 710,
+            "end_months_since_1900": 712,
+            "length_in_months": 2
+        },
+        {
+            "name": "Sharifa Dina bint Abdul-Hamid",
+            "href": "https://www.whosdatedwho.com/dating/sharifa-dina-bint-abdul-hamid",
+            "relationship_type": 4,
+            "start_date": "1954",
+            "end_date": "1957",
+            "length": "3 years",
+            "start_months_since_1900": 648,
+            "end_months_since_1900": 684,
+            "length_in_months": 36
+        },
+        {
+            "name": "Princess Muna al-Hussein",
+            "href": "https://www.whosdatedwho.com/dating/princess-muna-al-hussein",
+            "relationship_type": 4,
+            "start_date": "May 1959",
+            "end_date": "21st Dec 1971",
+            "length": "12 years",
+            "start_months_since_1900": 712,
+            "end_months_since_1900": 863,
+            "length_in_months": 144
+        }
+    ],
+    "details": {
+        "First Name": "King",
+        "Middle Name": "Of",
+        "Last Name": "Hussein",
+        "Maiden Name": "NA",
+        "Full Name at Birth": "Hussein bin Talal bin Abdullah bin Hussein",
+        "Alternative Name": "NA",
+        "Birthday": "1935",
+        "Birthplace": "Jordan",
+        "Height": "163",
+        "Weight": "NA",
+        "Zodiac Sign": "5",
+        "Sexuality": "Straight",
+        "Religion": "25",
+        "Ethnicity": "8",
+        "Nationality": "23",
+        "Occupation": "18"
+    }
+}

@@ -1,0 +1,77 @@
+{
+    "relationships": [
+        {
+            "name": "Paloma Ford",
+            "href": "https://www.whosdatedwho.com/dating/paloma-ford",
+            "relationship_type": 2,
+            "start_date": "Aug 2016",
+            "end_date": "Jan 2017",
+            "length": "5 months",
+            "start_months_since_1900": 1399,
+            "end_months_since_1900": 1404,
+            "length_in_months": 5
+        },
+        {
+            "name": "Donatella Panayiotou",
+            "href": "https://www.whosdatedwho.com/dating/donatella-panayiotou",
+            "relationship_type": 3,
+            "start_date": "2015",
+            "end_date": "2015",
+            "length": "-",
+            "start_months_since_1900": 1380,
+            "end_months_since_1900": 1380,
+            "length_in_months": -1
+        },
+        {
+            "name": "Iggy Azalea",
+            "href": "https://www.whosdatedwho.com/dating/iggy-azalea",
+            "relationship_type": 2,
+            "start_date": "Oct 2013",
+            "end_date": "Jun 2016",
+            "length": "2 years",
+            "start_months_since_1900": 1365,
+            "end_months_since_1900": 1397,
+            "length_in_months": 24
+        },
+        {
+            "name": "Carol Rodriguez",
+            "href": "https://www.whosdatedwho.com/dating/carol-rodriguez",
+            "relationship_type": 2,
+            "start_date": "Sep 2006",
+            "end_date": "Nov 2012",
+            "length": "6 years",
+            "start_months_since_1900": 1280,
+            "end_months_since_1900": 1354,
+            "length_in_months": 72
+        },
+        {
+            "name": "Keonna Green",
+            "href": "https://www.whosdatedwho.com/dating/keonna-green",
+            "relationship_type": 2,
+            "start_date": "Dec 2002",
+            "end_date": "present",
+            "length": "21 years",
+            "start_months_since_1900": 1235,
+            "end_months_since_1900": -1,
+            "length_in_months": 252
+        }
+    ],
+    "details": {
+        "First Name": "Nick",
+        "Middle Name": "NA",
+        "Last Name": "Young",
+        "Maiden Name": "NA",
+        "Full Name at Birth": "Nicholas Aaron Young",
+        "Alternative Name": "Swaggy P, Nick",
+        "Birthday": "1985",
+        "Birthplace": "United States",
+        "Height": "201",
+        "Weight": "210lbs (95 kg)",
+        "Zodiac Sign": "4",
+        "Sexuality": "Straight",
+        "Religion": "18",
+        "Ethnicity": "2",
+        "Nationality": "91",
+        "Occupation": "2"
+    }
+}

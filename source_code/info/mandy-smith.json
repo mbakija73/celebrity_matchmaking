@@ -1,0 +1,66 @@
+{
+    "relationships": [
+        {
+            "name": "Ian Mosby",
+            "href": "https://www.whosdatedwho.com/dating/ian-mosby",
+            "relationship_type": 2,
+            "start_date": "2000",
+            "end_date": "May 2002",
+            "length": "2 years",
+            "start_months_since_1900": 1200,
+            "end_months_since_1900": 1228,
+            "length_in_months": 24
+        },
+        {
+            "name": "Pat Van den Hauwe",
+            "href": "https://www.whosdatedwho.com/dating/pat-van-den-hauwe",
+            "relationship_type": 4,
+            "start_date": "1993",
+            "end_date": "1995",
+            "length": "2 years",
+            "start_months_since_1900": 1116,
+            "end_months_since_1900": 1140,
+            "length_in_months": 24
+        },
+        {
+            "name": "Ben Volpeliere-Pierrot",
+            "href": "https://www.whosdatedwho.com/dating/ben-volpeliere-pierrot",
+            "relationship_type": 2,
+            "start_date": "1987",
+            "end_date": "1987",
+            "length": "-",
+            "start_months_since_1900": 1044,
+            "end_months_since_1900": 1044,
+            "length_in_months": -1
+        },
+        {
+            "name": "Bill Wyman",
+            "href": "https://www.whosdatedwho.com/dating/bill-wyman",
+            "relationship_type": 4,
+            "start_date": "Oct 1983",
+            "end_date": "Apr 1993",
+            "length": "9 years",
+            "start_months_since_1900": 1005,
+            "end_months_since_1900": 1119,
+            "length_in_months": 108
+        }
+    ],
+    "details": {
+        "First Name": "Mandy",
+        "Middle Name": "NA",
+        "Last Name": "Smith",
+        "Maiden Name": "NA",
+        "Full Name at Birth": "Amanda Louise Smith",
+        "Alternative Name": "Mandy",
+        "Birthday": "1970",
+        "Birthplace": "London",
+        "Height": "170",
+        "Weight": "NA",
+        "Zodiac Sign": "8",
+        "Sexuality": "Straight",
+        "Religion": "13",
+        "Ethnicity": "6",
+        "Nationality": "8",
+        "Occupation": "1"
+    }
+}

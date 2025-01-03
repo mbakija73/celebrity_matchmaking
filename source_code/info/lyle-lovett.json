@@ -1,0 +1,55 @@
+{
+    "relationships": [
+        {
+            "name": "April Kimble",
+            "href": "https://www.whosdatedwho.com/dating/april-kimble",
+            "relationship_type": 2,
+            "start_date": "1997",
+            "end_date": "present",
+            "length": "27 years",
+            "start_months_since_1900": 1164,
+            "end_months_since_1900": -1,
+            "length_in_months": 324
+        },
+        {
+            "name": "Julia Roberts",
+            "href": "https://www.whosdatedwho.com/dating/julia-roberts",
+            "relationship_type": 4,
+            "start_date": "Jun 1993",
+            "end_date": "1995",
+            "length": "1 year",
+            "start_months_since_1900": 1121,
+            "end_months_since_1900": 1140,
+            "length_in_months": 12
+        },
+        {
+            "name": "Ashley Judd",
+            "href": "https://www.whosdatedwho.com/dating/ashley-judd",
+            "relationship_type": 2,
+            "start_date": "1991",
+            "end_date": "1992",
+            "length": "1 year",
+            "start_months_since_1900": 1092,
+            "end_months_since_1900": 1104,
+            "length_in_months": 12
+        }
+    ],
+    "details": {
+        "First Name": "Lyle",
+        "Middle Name": "Pearce",
+        "Last Name": "Lovett",
+        "Maiden Name": "NA",
+        "Full Name at Birth": "Lyle Pearce Lovett",
+        "Alternative Name": "NA",
+        "Birthday": "1957",
+        "Birthplace": "TX",
+        "Height": "183",
+        "Weight": "NA",
+        "Zodiac Sign": "5",
+        "Sexuality": "Straight",
+        "Religion": "28",
+        "Ethnicity": "6",
+        "Nationality": "91",
+        "Occupation": "1"
+    }
+}

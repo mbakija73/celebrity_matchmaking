@@ -1,0 +1,44 @@
+{
+    "relationships": [
+        {
+            "name": "Jackson Heywood",
+            "href": "https://www.whosdatedwho.com/dating/jackson-heywood",
+            "relationship_type": 2,
+            "start_date": "Nov 2013",
+            "end_date": "Jun 2016",
+            "length": "2 years",
+            "start_months_since_1900": 1366,
+            "end_months_since_1900": 1397,
+            "length_in_months": 24
+        },
+        {
+            "name": "Colin Donnell",
+            "href": "https://www.whosdatedwho.com/dating/colin-donnell",
+            "relationship_type": 2,
+            "start_date": "2012",
+            "end_date": "2013",
+            "length": "1 year",
+            "start_months_since_1900": 1344,
+            "end_months_since_1900": 1356,
+            "length_in_months": 12
+        }
+    ],
+    "details": {
+        "First Name": "Zelda",
+        "Middle Name": "Rae",
+        "Last Name": "Williams",
+        "Maiden Name": "NA",
+        "Full Name at Birth": "Zelda Rae Williams",
+        "Alternative Name": "Zelda",
+        "Birthday": "1989",
+        "Birthplace": "USA",
+        "Height": "163",
+        "Weight": "115lbs (52 kg)",
+        "Zodiac Sign": "12",
+        "Sexuality": "Bisexual",
+        "Religion": "37",
+        "Ethnicity": "8",
+        "Nationality": "91",
+        "Occupation": "8"
+    }
+}

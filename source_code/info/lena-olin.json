@@ -1,0 +1,55 @@
+{
+    "relationships": [
+        {
+            "name": "Lasse Hallstr\u00f6m",
+            "href": "https://www.whosdatedwho.com/dating/lasse-hallstrom",
+            "relationship_type": 4,
+            "start_date": "1993",
+            "end_date": "",
+            "length": "-",
+            "start_months_since_1900": 1116,
+            "end_months_since_1900": -1,
+            "length_in_months": -1
+        },
+        {
+            "name": "Robert Redford",
+            "href": "https://www.whosdatedwho.com/dating/robert-redford",
+            "relationship_type": 2,
+            "start_date": "Nov 1989",
+            "end_date": "Apr 1990",
+            "length": "5 months",
+            "start_months_since_1900": 1078,
+            "end_months_since_1900": 1083,
+            "length_in_months": 5
+        },
+        {
+            "name": "\u00d6rjan Ramberg",
+            "href": "https://www.whosdatedwho.com/dating/orjan-ramberg",
+            "relationship_type": 2,
+            "start_date": "1983",
+            "end_date": "1984",
+            "length": "1 year",
+            "start_months_since_1900": 996,
+            "end_months_since_1900": 1008,
+            "length_in_months": 12
+        }
+    ],
+    "details": {
+        "First Name": "Lena",
+        "Middle Name": "Maria Jonna",
+        "Last Name": "Olin",
+        "Maiden Name": "NA",
+        "Full Name at Birth": "Lena Maria Jonna Olin",
+        "Alternative Name": "Lena Maria Jonna Olin, Lena Olin",
+        "Birthday": "1955",
+        "Birthplace": "Sweden",
+        "Height": "178",
+        "Weight": "135lbs (61 kg)",
+        "Zodiac Sign": "7",
+        "Sexuality": "Straight",
+        "Religion": "1",
+        "Ethnicity": "6",
+        "Nationality": "30",
+        "Occupation": "8"
+    }
+}

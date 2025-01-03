@@ -1,0 +1,88 @@
+{
+    "relationships": [
+        {
+            "name": "Natalie Portman",
+            "href": "https://www.whosdatedwho.com/dating/natalie-portman",
+            "relationship_type": 1,
+            "start_date": "May 2024",
+            "end_date": "May 2024",
+            "length": "-",
+            "start_months_since_1900": 1492,
+            "end_months_since_1900": 1492,
+            "length_in_months": -1
+        },
+        {
+            "name": "Ayo Edebiri",
+            "href": "https://www.whosdatedwho.com/dating/ayo-edebiri",
+            "relationship_type": 2,
+            "start_date": "2024",
+            "end_date": "",
+            "length": "-",
+            "start_months_since_1900": 1488,
+            "end_months_since_1900": -1,
+            "length_in_months": -1
+        },
+        {
+            "name": "Angelina Jolie",
+            "href": "https://www.whosdatedwho.com/dating/angelina-jolie",
+            "relationship_type": 3,
+            "start_date": "Jan 2023",
+            "end_date": "Jan 2023",
+            "length": "-",
+            "start_months_since_1900": 1476,
+            "end_months_since_1900": 1476,
+            "length_in_months": -1
+        },
+        {
+            "name": "Sophie Wilde",
+            "href": "https://www.whosdatedwho.com/dating/sophie-wilde",
+            "relationship_type": 2,
+            "start_date": "2023",
+            "end_date": "present",
+            "length": "1 year",
+            "start_months_since_1900": 1476,
+            "end_months_since_1900": -1,
+            "length_in_months": 12
+        },
+        {
+            "name": "Phoebe Bridgers",
+            "href": "https://www.whosdatedwho.com/dating/phoebe-bridgers",
+            "relationship_type": 2,
+            "start_date": "2020",
+            "end_date": "Dec 2022",
+            "length": "2 years",
+            "start_months_since_1900": 1440,
+            "end_months_since_1900": 1475,
+            "length_in_months": 24
+        },
+        {
+            "name": "Aoife Hinds",
+            "href": "https://www.whosdatedwho.com/dating/aoife-hinds",
+            "relationship_type": 5,
+            "start_date": "",
+            "end_date": "",
+            "length": "-",
+            "start_months_since_1900": -1,
+            "end_months_since_1900": -1,
+            "length_in_months": -1
+        }
+    ],
+    "details": {
+        "First Name": "Paul",
+        "Middle Name": "NA",
+        "Last Name": "Mescal",
+        "Maiden Name": "NA",
+        "Full Name at Birth": "Paul Mescal",
+        "Alternative Name": "NA",
+        "Birthday": "1996",
+        "Birthplace": "Ireland",
+        "Height": "180",
+        "Weight": "NA",
+        "Zodiac Sign": "9",
+        "Sexuality": "Straight",
+        "Religion": "26",
+        "Ethnicity": "6",
+        "Nationality": "117",
+        "Occupation": "8"
+    }
+}

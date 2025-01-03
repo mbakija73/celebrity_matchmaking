@@ -1,0 +1,44 @@
+{
+    "relationships": [
+        {
+            "name": "Michelle Madrigal",
+            "href": "https://www.whosdatedwho.com/dating/michelle-madrigal",
+            "relationship_type": 2,
+            "start_date": "2010",
+            "end_date": "Apr 2011",
+            "length": "1 year",
+            "start_months_since_1900": 1320,
+            "end_months_since_1900": 1335,
+            "length_in_months": 12
+        },
+        {
+            "name": "Aubrey Miles",
+            "href": "https://www.whosdatedwho.com/dating/aubrey-miles",
+            "relationship_type": 2,
+            "start_date": "2003",
+            "end_date": "2003",
+            "length": "-",
+            "start_months_since_1900": 1236,
+            "end_months_since_1900": 1236,
+            "length_in_months": -1
+        }
+    ],
+    "details": {
+        "First Name": "Jon",
+        "Middle Name": "NA",
+        "Last Name": "Hall",
+        "Maiden Name": "NA",
+        "Full Name at Birth": "Jon Hall",
+        "Alternative Name": "Jon Hall",
+        "Birthday": "NA",
+        "Birthplace": "NA",
+        "Height": "NA",
+        "Weight": "NA",
+        "Zodiac Sign": "2",
+        "Sexuality": "NA",
+        "Religion": "1",
+        "Ethnicity": "1",
+        "Nationality": "16",
+        "Occupation": "8"
+    }
+}

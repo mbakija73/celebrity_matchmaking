@@ -1,0 +1,77 @@
+{
+    "relationships": [
+        {
+            "name": "Lara Bingle",
+            "href": "https://www.whosdatedwho.com/dating/lara-bingle",
+            "relationship_type": 4,
+            "start_date": "Oct 2013",
+            "end_date": "present",
+            "length": "11 years",
+            "start_months_since_1900": 1365,
+            "end_months_since_1900": -1,
+            "length_in_months": 132
+        },
+        {
+            "name": "Sophie Monk",
+            "href": "https://www.whosdatedwho.com/dating/sophie-monk",
+            "relationship_type": 2,
+            "start_date": "May 2013",
+            "end_date": "Aug 2013",
+            "length": "3 months",
+            "start_months_since_1900": 1360,
+            "end_months_since_1900": 1363,
+            "length_in_months": 3
+        },
+        {
+            "name": "Crystal Humphries",
+            "href": "https://www.whosdatedwho.com/dating/crystal-humphries",
+            "relationship_type": 2,
+            "start_date": "Aug 2011",
+            "end_date": "2012",
+            "length": "5 months",
+            "start_months_since_1900": 1339,
+            "end_months_since_1900": 1344,
+            "length_in_months": 5
+        },
+        {
+            "name": "Natalie Mark",
+            "href": "https://www.whosdatedwho.com/dating/natalie-mark",
+            "relationship_type": 2,
+            "start_date": "Apr 2008",
+            "end_date": "Dec 2011",
+            "length": "3 years",
+            "start_months_since_1900": 1299,
+            "end_months_since_1900": 1343,
+            "length_in_months": 36
+        },
+        {
+            "name": "Maeve Dermody",
+            "href": "https://www.whosdatedwho.com/dating/maeve-dermody",
+            "relationship_type": 2,
+            "start_date": "2004",
+            "end_date": "2007",
+            "length": "3 years",
+            "start_months_since_1900": 1248,
+            "end_months_since_1900": 1284,
+            "length_in_months": 36
+        }
+    ],
+    "details": {
+        "First Name": "Sam",
+        "Middle Name": "Shane",
+        "Last Name": "Worthington",
+        "Maiden Name": "NA",
+        "Full Name at Birth": "Samuel Henry John Worthington",
+        "Alternative Name": "Sam, Sam Worthington, Samuel Henry J. Worthington, Samuel Henry John Worthington",
+        "Birthday": "1976",
+        "Birthplace": "UK",
+        "Height": "178",
+        "Weight": "176lbs (80 kg)",
+        "Zodiac Sign": "12",
+        "Sexuality": "Straight",
+        "Religion": "18",
+        "Ethnicity": "6",
+        "Nationality": "135",
+        "Occupation": "8"
+    }
+}

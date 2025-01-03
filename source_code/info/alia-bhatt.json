@@ -1,0 +1,55 @@
+{
+    "relationships": [
+        {
+            "name": "Ranbir Kapoor",
+            "href": "https://www.whosdatedwho.com/dating/ranbir-kapoor",
+            "relationship_type": 4,
+            "start_date": "2018",
+            "end_date": "present",
+            "length": "6 years",
+            "start_months_since_1900": 1416,
+            "end_months_since_1900": -1,
+            "length_in_months": 72
+        },
+        {
+            "name": "Sidharth Malhotra",
+            "href": "https://www.whosdatedwho.com/dating/sidharth-malhotra",
+            "relationship_type": 2,
+            "start_date": "",
+            "end_date": "",
+            "length": "-",
+            "start_months_since_1900": -1,
+            "end_months_since_1900": -1,
+            "length_in_months": -1
+        },
+        {
+            "name": "Sabuj Vhai",
+            "href": "https://www.whosdatedwho.com/dating/sabuj-vhai",
+            "relationship_type": 1,
+            "start_date": "",
+            "end_date": "",
+            "length": "-",
+            "start_months_since_1900": -1,
+            "end_months_since_1900": -1,
+            "length_in_months": -1
+        }
+    ],
+    "details": {
+        "First Name": "Alia",
+        "Middle Name": "NA",
+        "Last Name": "Bhatt",
+        "Maiden Name": "NA",
+        "Full Name at Birth": "Alia Bhatt",
+        "Alternative Name": "NA",
+        "Birthday": "1993",
+        "Birthplace": "India",
+        "Height": "168",
+        "Weight": "120lbs (54 kg)",
+        "Zodiac Sign": "1",
+        "Sexuality": "Straight",
+        "Religion": "27",
+        "Ethnicity": "8",
+        "Nationality": "34",
+        "Occupation": "8"
+    }
+}

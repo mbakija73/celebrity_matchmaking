@@ -1,0 +1,44 @@
+{
+    "relationships": [
+        {
+            "name": "Anne Heche",
+            "href": "https://www.whosdatedwho.com/dating/anne-heche",
+            "relationship_type": 2,
+            "start_date": "Apr 2018",
+            "end_date": "Apr 2019",
+            "length": "1 year",
+            "start_months_since_1900": 1419,
+            "end_months_since_1900": 1431,
+            "length_in_months": 12
+        },
+        {
+            "name": "Ali Adler",
+            "href": "https://www.whosdatedwho.com/dating/ali-adler",
+            "relationship_type": 2,
+            "start_date": "2013",
+            "end_date": "May 2017",
+            "length": "4 years",
+            "start_months_since_1900": 1356,
+            "end_months_since_1900": 1408,
+            "length_in_months": 48
+        }
+    ],
+    "details": {
+        "First Name": "Liz",
+        "Middle Name": "NA",
+        "Last Name": "Brixius",
+        "Maiden Name": "NA",
+        "Full Name at Birth": "Elizabeth Ann Brixius",
+        "Alternative Name": "Liz Brixius",
+        "Birthday": "1963",
+        "Birthplace": "USA",
+        "Height": "NA",
+        "Weight": "NA",
+        "Zodiac Sign": "4",
+        "Sexuality": "Lesbian",
+        "Religion": "1",
+        "Ethnicity": "6",
+        "Nationality": "91",
+        "Occupation": "3"
+    }
+}

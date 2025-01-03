@@ -1,0 +1,77 @@
+{
+    "relationships": [
+        {
+            "name": "Zach Cregger",
+            "href": "https://www.whosdatedwho.com/dating/zach-cregger",
+            "relationship_type": 4,
+            "start_date": "2013",
+            "end_date": "present",
+            "length": "11 years",
+            "start_months_since_1900": 1356,
+            "end_months_since_1900": -1,
+            "length_in_months": 132
+        },
+        {
+            "name": "Nico Tortorella",
+            "href": "https://www.whosdatedwho.com/dating/nico-tortorella",
+            "relationship_type": 2,
+            "start_date": "2009",
+            "end_date": "2012",
+            "length": "3 years",
+            "start_months_since_1900": 1308,
+            "end_months_since_1900": 1344,
+            "length_in_months": 36
+        },
+        {
+            "name": "Lucas Grabeel",
+            "href": "https://www.whosdatedwho.com/dating/lucas-grabeel",
+            "relationship_type": 2,
+            "start_date": "Oct 2006",
+            "end_date": "2009",
+            "length": "2 years",
+            "start_months_since_1900": 1281,
+            "end_months_since_1900": 1308,
+            "length_in_months": 24
+        },
+        {
+            "name": "Jesse McCartney",
+            "href": "https://www.whosdatedwho.com/dating/jesse-mccartney",
+            "relationship_type": 2,
+            "start_date": "Jun 2004",
+            "end_date": "2005",
+            "length": "7 months",
+            "start_months_since_1900": 1253,
+            "end_months_since_1900": 1260,
+            "length_in_months": 7
+        },
+        {
+            "name": "Ryan Bittle",
+            "href": "https://www.whosdatedwho.com/dating/ryan-bittle",
+            "relationship_type": 1,
+            "start_date": "",
+            "end_date": "",
+            "length": "-",
+            "start_months_since_1900": -1,
+            "end_months_since_1900": -1,
+            "length_in_months": -1
+        }
+    ],
+    "details": {
+        "First Name": "Sara",
+        "Middle Name": "Emily",
+        "Last Name": "Paxton",
+        "Maiden Name": "NA",
+        "Full Name at Birth": "Sara Emily Paxton",
+        "Alternative Name": "NA",
+        "Birthday": "1988",
+        "Birthplace": "USA",
+        "Height": "170",
+        "Weight": "115lbs (52 kg)",
+        "Zodiac Sign": "3",
+        "Sexuality": "Straight",
+        "Religion": "31",
+        "Ethnicity": "6",
+        "Nationality": "91",
+        "Occupation": "8"
+    }
+}

@@ -1,0 +1,55 @@
+{
+    "relationships": [
+        {
+            "name": "Charlie",
+            "href": "https://www.whosdatedwho.com/dating/charlie",
+            "relationship_type": 3,
+            "start_date": "1997",
+            "end_date": "1997",
+            "length": "-",
+            "start_months_since_1900": 1164,
+            "end_months_since_1900": 1164,
+            "length_in_months": -1
+        },
+        {
+            "name": "Marc Wallice",
+            "href": "https://www.whosdatedwho.com/dating/marc-wallice",
+            "relationship_type": 3,
+            "start_date": "",
+            "end_date": "",
+            "length": "-",
+            "start_months_since_1900": -1,
+            "end_months_since_1900": -1,
+            "length_in_months": -1
+        },
+        {
+            "name": "Paul Reubens",
+            "href": "https://www.whosdatedwho.com/dating/paul-reubens",
+            "relationship_type": 4,
+            "start_date": "",
+            "end_date": "",
+            "length": "-",
+            "start_months_since_1900": -1,
+            "end_months_since_1900": -1,
+            "length_in_months": -1
+        }
+    ],
+    "details": {
+        "First Name": "Brooke",
+        "Middle Name": "NA",
+        "Last Name": "Ashley",
+        "Maiden Name": "NA",
+        "Full Name at Birth": "Anne Marie Ballowe",
+        "Alternative Name": "Broke Ashley, Brook Ashley, China Lakke, China Lake, Lil Brooke, Fantasia, Anne Marie, Anne Marie Ballowe, Tae",
+        "Birthday": "1973",
+        "Birthplace": "South Korea",
+        "Height": "157",
+        "Weight": "115lbs (52 kg)",
+        "Zodiac Sign": "3",
+        "Sexuality": "Bisexual",
+        "Religion": "1",
+        "Ethnicity": "8",
+        "Nationality": "91",
+        "Occupation": "16"
+    }
+}

@@ -1,0 +1,55 @@
+{
+    "relationships": [
+        {
+            "name": "Ken Chan",
+            "href": "https://www.whosdatedwho.com/dating/ken-chan",
+            "relationship_type": 3,
+            "start_date": "Aug 2013",
+            "end_date": "Nov 2013",
+            "length": "3 months",
+            "start_months_since_1900": 1363,
+            "end_months_since_1900": 1366,
+            "length_in_months": 3
+        },
+        {
+            "name": "Jake Vargas",
+            "href": "https://www.whosdatedwho.com/dating/jake-vargas",
+            "relationship_type": 2,
+            "start_date": "2012",
+            "end_date": "2014",
+            "length": "2 years",
+            "start_months_since_1900": 1344,
+            "end_months_since_1900": 1368,
+            "length_in_months": 24
+        },
+        {
+            "name": "Derrick Monasterio",
+            "href": "https://www.whosdatedwho.com/dating/derrick-monasterio",
+            "relationship_type": 3,
+            "start_date": "Jun 2011",
+            "end_date": "Oct 2011",
+            "length": "4 months",
+            "start_months_since_1900": 1337,
+            "end_months_since_1900": 1341,
+            "length_in_months": 4
+        }
+    ],
+    "details": {
+        "First Name": "Beanca",
+        "Middle Name": "Marie Landero",
+        "Last Name": "Binene",
+        "Maiden Name": "NA",
+        "Full Name at Birth": "Beanca Marie Landero Binene",
+        "Alternative Name": "Bea Binene, Bea",
+        "Birthday": "1997",
+        "Birthplace": "Philippines",
+        "Height": "157",
+        "Weight": "121lbs (55 kg)",
+        "Zodiac Sign": "5",
+        "Sexuality": "Straight",
+        "Religion": "13",
+        "Ethnicity": "3",
+        "Nationality": "16",
+        "Occupation": "8"
+    }
+}

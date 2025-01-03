@@ -1,0 +1,110 @@
+{
+    "relationships": [
+        {
+            "name": "Marlene Dietrich",
+            "href": "https://www.whosdatedwho.com/dating/marlene-dietrich",
+            "relationship_type": 3,
+            "start_date": "1942",
+            "end_date": "1942",
+            "length": "-",
+            "start_months_since_1900": 504,
+            "end_months_since_1900": 504,
+            "length_in_months": -1
+        },
+        {
+            "name": "Norma Talmadge",
+            "href": "https://www.whosdatedwho.com/dating/norma-talmadge",
+            "relationship_type": 2,
+            "start_date": "1931",
+            "end_date": "1932",
+            "length": "1 year",
+            "start_months_since_1900": 372,
+            "end_months_since_1900": 384,
+            "length_in_months": 12
+        },
+        {
+            "name": "Jessica Sargent",
+            "href": "https://www.whosdatedwho.com/dating/jessica-sargent",
+            "relationship_type": 4,
+            "start_date": "1927",
+            "end_date": "Aug 1963",
+            "length": "36 years",
+            "start_months_since_1900": 324,
+            "end_months_since_1900": 763,
+            "length_in_months": 432
+        },
+        {
+            "name": "Katherine Young Wilson",
+            "href": "https://www.whosdatedwho.com/dating/katherine-young-wilson",
+            "relationship_type": 2,
+            "start_date": "1926",
+            "end_date": "1927",
+            "length": "1 year",
+            "start_months_since_1900": 312,
+            "end_months_since_1900": 324,
+            "length_in_months": 12
+        },
+        {
+            "name": "Mary Hay",
+            "href": "https://www.whosdatedwho.com/dating/mary-hay",
+            "relationship_type": 4,
+            "start_date": "1919",
+            "end_date": "1927",
+            "length": "8 years",
+            "start_months_since_1900": 228,
+            "end_months_since_1900": 324,
+            "length_in_months": 96
+        },
+        {
+            "name": "Barbara Bennett",
+            "href": "https://www.whosdatedwho.com/dating/barbara-bennett",
+            "relationship_type": 2,
+            "start_date": "",
+            "end_date": "",
+            "length": "-",
+            "start_months_since_1900": -1,
+            "end_months_since_1900": -1,
+            "length_in_months": -1
+        },
+        {
+            "name": "Constance Talmadge",
+            "href": "https://www.whosdatedwho.com/dating/constance-talmadge",
+            "relationship_type": 2,
+            "start_date": "",
+            "end_date": "",
+            "length": "-",
+            "start_months_since_1900": -1,
+            "end_months_since_1900": -1,
+            "length_in_months": -1
+        },
+        {
+            "name": "Adela Rogers St. Johns",
+            "href": "https://www.whosdatedwho.com/dating/adela-rogers-st-johns",
+            "relationship_type": 2,
+            "start_date": "",
+            "end_date": "",
+            "length": "-",
+            "start_months_since_1900": -1,
+            "end_months_since_1900": -1,
+            "length_in_months": -1
+        }
+    ],
+    "details": {
+        "First Name": "Richard",
+        "Middle Name": "Semler",
+        "Last Name": "Barthelmess",
+        "Maiden Name": "NA",
+        "Full Name at Birth": "Richard Semler Barthelmess",
+        "Alternative Name": "\"Dick\" (nickname)",
+        "Birthday": "1895",
+        "Birthplace": "New York City",
+        "Height": "173",
+        "Weight": "NA",
+        "Zodiac Sign": "3",
+        "Sexuality": "Straight",
+        "Religion": "1",
+        "Ethnicity": "6",
+        "Nationality": "91",
+        "Occupation": "8"
+    }
+}

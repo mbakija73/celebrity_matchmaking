@@ -1,0 +1,77 @@
+{
+    "relationships": [
+        {
+            "name": "Eva Gabor",
+            "href": "https://www.whosdatedwho.com/dating/eva-gabor",
+            "relationship_type": 2,
+            "start_date": "1985",
+            "end_date": "Jul 1995",
+            "length": "10 years",
+            "start_months_since_1900": 1020,
+            "end_months_since_1900": 1146,
+            "length_in_months": 120
+        },
+        {
+            "name": "Natalie Trundy",
+            "href": "https://www.whosdatedwho.com/dating/natalie-trundy",
+            "relationship_type": 2,
+            "start_date": "Jan 1959",
+            "end_date": "Jan 1959",
+            "length": "-",
+            "start_months_since_1900": 708,
+            "end_months_since_1900": 708,
+            "length_in_months": -1
+        },
+        {
+            "name": "Julann Griffin",
+            "href": "https://www.whosdatedwho.com/dating/julann-griffin",
+            "relationship_type": 4,
+            "start_date": "1959",
+            "end_date": "Jun 1976",
+            "length": "17 years",
+            "start_months_since_1900": 708,
+            "end_months_since_1900": 917,
+            "length_in_months": 204
+        },
+        {
+            "name": "May Wynn",
+            "href": "https://www.whosdatedwho.com/dating/may-wynn",
+            "relationship_type": 2,
+            "start_date": "Jul 1953",
+            "end_date": "Aug 1953",
+            "length": "1 month",
+            "start_months_since_1900": 642,
+            "end_months_since_1900": 643,
+            "length_in_months": 1
+        },
+        {
+            "name": "Betty Kelly",
+            "href": "https://www.whosdatedwho.com/dating/betty-kelly",
+            "relationship_type": 3,
+            "start_date": "",
+            "end_date": "",
+            "length": "-",
+            "start_months_since_1900": -1,
+            "end_months_since_1900": -1,
+            "length_in_months": -1
+        }
+    ],
+    "details": {
+        "First Name": "Merv",
+        "Middle Name": "Edward",
+        "Last Name": "Griffin",
+        "Maiden Name": "NA",
+        "Full Name at Birth": "Mervyn Edward Griffin, Jr.",
+        "Alternative Name": "NA",
+        "Birthday": "1925",
+        "Birthplace": "USA",
+        "Height": "175",
+        "Weight": "NA",
+        "Zodiac Sign": "8",
+        "Sexuality": "DISPUTED",
+        "Religion": "1",
+        "Ethnicity": "6",
+        "Nationality": "91",
+        "Occupation": "16"
+    }
+}

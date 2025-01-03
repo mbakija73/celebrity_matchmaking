@@ -1,0 +1,44 @@
+{
+    "relationships": [
+        {
+            "name": "Nia Long",
+            "href": "https://www.whosdatedwho.com/dating/nia-long",
+            "relationship_type": 2,
+            "start_date": "Jan 2008",
+            "end_date": "May 2008",
+            "length": "4 months",
+            "start_months_since_1900": 1296,
+            "end_months_since_1900": 1300,
+            "length_in_months": 4
+        },
+        {
+            "name": "Eishia Brightwell",
+            "href": "https://www.whosdatedwho.com/dating/eishia-brightwell",
+            "relationship_type": 2,
+            "start_date": "",
+            "end_date": "",
+            "length": "-",
+            "start_months_since_1900": -1,
+            "end_months_since_1900": -1,
+            "length_in_months": -1
+        }
+    ],
+    "details": {
+        "First Name": "Kevin",
+        "Middle Name": "NA",
+        "Last Name": "Phillips",
+        "Maiden Name": "NA",
+        "Full Name at Birth": "Kevin Phillips",
+        "Alternative Name": "NA",
+        "Birthday": "1981",
+        "Birthplace": "USA",
+        "Height": "NA",
+        "Weight": "NA",
+        "Zodiac Sign": "6",
+        "Sexuality": "NA",
+        "Religion": "1",
+        "Ethnicity": "2",
+        "Nationality": "91",
+        "Occupation": "8"
+    }
+}

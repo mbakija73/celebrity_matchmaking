@@ -1,0 +1,66 @@
+{
+    "relationships": [
+        {
+            "name": "Kris Donnelly",
+            "href": "https://www.whosdatedwho.com/dating/kris-donnelly",
+            "relationship_type": 2,
+            "start_date": "2017",
+            "end_date": "Apr 2018",
+            "length": "1 year",
+            "start_months_since_1900": 1404,
+            "end_months_since_1900": 1419,
+            "length_in_months": 12
+        },
+        {
+            "name": "Marcus Bent",
+            "href": "https://www.whosdatedwho.com/dating/marcus-bent",
+            "relationship_type": 2,
+            "start_date": "2003",
+            "end_date": "Apr 2009",
+            "length": "6 years",
+            "start_months_since_1900": 1236,
+            "end_months_since_1900": 1311,
+            "length_in_months": 72
+        },
+        {
+            "name": "Jermain Defoe",
+            "href": "https://www.whosdatedwho.com/dating/jermain-defoe",
+            "relationship_type": 2,
+            "start_date": "2001",
+            "end_date": "2002",
+            "length": "1 year",
+            "start_months_since_1900": 1212,
+            "end_months_since_1900": 1224,
+            "length_in_months": 12
+        },
+        {
+            "name": "Titus Bramble",
+            "href": "https://www.whosdatedwho.com/dating/titus-bramble",
+            "relationship_type": 3,
+            "start_date": "",
+            "end_date": "",
+            "length": "-",
+            "start_months_since_1900": -1,
+            "end_months_since_1900": -1,
+            "length_in_months": -1
+        }
+    ],
+    "details": {
+        "First Name": "Joanne",
+        "Middle Name": "NA",
+        "Last Name": "Beckham",
+        "Maiden Name": "NA",
+        "Full Name at Birth": "Joanne Beckham",
+        "Alternative Name": "Jo Beckham",
+        "Birthday": "1982",
+        "Birthplace": "NA",
+        "Height": "NA",
+        "Weight": "NA",
+        "Zodiac Sign": "1",
+        "Sexuality": "Straight",
+        "Religion": "18",
+        "Ethnicity": "6",
+        "Nationality": "8",
+        "Occupation": "11"
+    }
+}

@@ -1,0 +1,44 @@
+{
+    "relationships": [
+        {
+            "name": "Cody Simpson",
+            "href": "https://www.whosdatedwho.com/dating/cody-simpson",
+            "relationship_type": 2,
+            "start_date": "2022",
+            "end_date": "present",
+            "length": "2 years",
+            "start_months_since_1900": 1464,
+            "end_months_since_1900": -1,
+            "length_in_months": 24
+        },
+        {
+            "name": "Tim Adlam",
+            "href": "https://www.whosdatedwho.com/dating/tim-adlam",
+            "relationship_type": 2,
+            "start_date": "",
+            "end_date": "",
+            "length": "-",
+            "start_months_since_1900": -1,
+            "end_months_since_1900": -1,
+            "length_in_months": -1
+        }
+    ],
+    "details": {
+        "First Name": "Emma",
+        "Middle Name": "NA",
+        "Last Name": "McKeon",
+        "Maiden Name": "NA",
+        "Full Name at Birth": "Emma Jennifer McKeon",
+        "Alternative Name": "NA",
+        "Birthday": "1994",
+        "Birthplace": "Australia",
+        "Height": "178",
+        "Weight": "128lbs (58 kg)",
+        "Zodiac Sign": "4",
+        "Sexuality": "Straight",
+        "Religion": "18",
+        "Ethnicity": "6",
+        "Nationality": "135",
+        "Occupation": "2"
+    }
+}

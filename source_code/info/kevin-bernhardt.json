@@ -1,0 +1,44 @@
+{
+    "relationships": [
+        {
+            "name": "Susan Carol Oliver",
+            "href": "https://www.whosdatedwho.com/dating/susie-oliver",
+            "relationship_type": 4,
+            "start_date": "25th Dec 2003",
+            "end_date": "2009",
+            "length": "5 years",
+            "start_months_since_1900": 1247,
+            "end_months_since_1900": 1308,
+            "length_in_months": 60
+        },
+        {
+            "name": "Apollonia Kotero",
+            "href": "https://www.whosdatedwho.com/dating/apollonia-kotero",
+            "relationship_type": 4,
+            "start_date": "1988",
+            "end_date": "1996",
+            "length": "8 years",
+            "start_months_since_1900": 1056,
+            "end_months_since_1900": 1152,
+            "length_in_months": 96
+        }
+    ],
+    "details": {
+        "First Name": "Kevin",
+        "Middle Name": "NA",
+        "Last Name": "Bernhardt",
+        "Maiden Name": "NA",
+        "Full Name at Birth": "Kevin Bernhardt",
+        "Alternative Name": "NA",
+        "Birthday": "1961",
+        "Birthplace": "USA",
+        "Height": "NA",
+        "Weight": "NA",
+        "Zodiac Sign": "7",
+        "Sexuality": "Straight",
+        "Religion": "1",
+        "Ethnicity": "6",
+        "Nationality": "91",
+        "Occupation": "8"
+    }
+}

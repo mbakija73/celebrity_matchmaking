@@ -1,0 +1,44 @@
+{
+    "relationships": [
+        {
+            "name": "Nicolas Bedos",
+            "href": "https://www.whosdatedwho.com/dating/nicolas-bedos",
+            "relationship_type": 2,
+            "start_date": "2011",
+            "end_date": "2011",
+            "length": "-",
+            "start_months_since_1900": 1332,
+            "end_months_since_1900": 1332,
+            "length_in_months": -1
+        },
+        {
+            "name": "Balthazar Petrus",
+            "href": "https://www.whosdatedwho.com/dating/balthazar-petrus",
+            "relationship_type": 2,
+            "start_date": "",
+            "end_date": "",
+            "length": "-",
+            "start_months_since_1900": -1,
+            "end_months_since_1900": -1,
+            "length_in_months": -1
+        }
+    ],
+    "details": {
+        "First Name": "Mathilde",
+        "Middle Name": "NA",
+        "Last Name": "Warnier",
+        "Maiden Name": "NA",
+        "Full Name at Birth": "NA",
+        "Alternative Name": "NA",
+        "Birthday": "1991",
+        "Birthplace": "France",
+        "Height": "170",
+        "Weight": "121lbs (55 kg)",
+        "Zodiac Sign": "10",
+        "Sexuality": "Straight",
+        "Religion": "1",
+        "Ethnicity": "6",
+        "Nationality": "86",
+        "Occupation": "8"
+    }
+}

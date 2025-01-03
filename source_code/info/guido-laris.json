@@ -1,0 +1,44 @@
+{
+    "relationships": [
+        {
+            "name": "Mariana Garza",
+            "href": "https://www.whosdatedwho.com/dating/mariana-garza",
+            "relationship_type": 1,
+            "start_date": "Oct 2021",
+            "end_date": "Oct 2021",
+            "length": "-",
+            "start_months_since_1900": 1461,
+            "end_months_since_1900": 1461,
+            "length_in_months": -1
+        },
+        {
+            "name": "Maite Perroni",
+            "href": "https://www.whosdatedwho.com/dating/maite-perroni",
+            "relationship_type": 2,
+            "start_date": "2005",
+            "end_date": "2008",
+            "length": "3 years",
+            "start_months_since_1900": 1260,
+            "end_months_since_1900": 1296,
+            "length_in_months": 36
+        }
+    ],
+    "details": {
+        "First Name": "Guido",
+        "Middle Name": "NA",
+        "Last Name": "Laris",
+        "Maiden Name": "NA",
+        "Full Name at Birth": "Guido Alberto Laris Zucchetti",
+        "Alternative Name": "NA",
+        "Birthday": "1975",
+        "Birthplace": "Mexico",
+        "Height": "NA",
+        "Weight": "NA",
+        "Zodiac Sign": "11",
+        "Sexuality": "Straight",
+        "Religion": "1",
+        "Ethnicity": "6",
+        "Nationality": "7",
+        "Occupation": "1"
+    }
+}

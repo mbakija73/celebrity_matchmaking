@@ -1,0 +1,77 @@
+{
+    "relationships": [
+        {
+            "name": "Margaret Wise Brown",
+            "href": "https://www.whosdatedwho.com/dating/margaret-wise-brown",
+            "relationship_type": 2,
+            "start_date": "1940",
+            "end_date": "5th Nov 1950",
+            "length": "10 years",
+            "start_months_since_1900": 480,
+            "end_months_since_1900": 610,
+            "length_in_months": 120
+        },
+        {
+            "name": "Harrison Tweed",
+            "href": "https://www.whosdatedwho.com/dating/harrison-tweed",
+            "relationship_type": 4,
+            "start_date": "1928",
+            "end_date": "1942",
+            "length": "14 years",
+            "start_months_since_1900": 336,
+            "end_months_since_1900": 504,
+            "length_in_months": 168
+        },
+        {
+            "name": "Mercedes de Acosta",
+            "href": "https://www.whosdatedwho.com/dating/mercedes-de-acosta",
+            "relationship_type": 2,
+            "start_date": "Dec 1921",
+            "end_date": "Jan 1922",
+            "length": "1 month",
+            "start_months_since_1900": 263,
+            "end_months_since_1900": 264,
+            "length_in_months": 1
+        },
+        {
+            "name": "John Barrymore",
+            "href": "https://www.whosdatedwho.com/dating/john-barrymore",
+            "relationship_type": 4,
+            "start_date": "Aug 1919",
+            "end_date": "19th Nov 1928",
+            "length": "9 years",
+            "start_months_since_1900": 235,
+            "end_months_since_1900": 346,
+            "length_in_months": 108
+        },
+        {
+            "name": "Leonard Moorhead Thomas",
+            "href": "https://www.whosdatedwho.com/dating/leonard-moorhead-thomas",
+            "relationship_type": 4,
+            "start_date": "1909",
+            "end_date": "1919",
+            "length": "10 years",
+            "start_months_since_1900": 108,
+            "end_months_since_1900": 228,
+            "length_in_months": 120
+        }
+    ],
+    "details": {
+        "First Name": "Blanche",
+        "Middle Name": "Marie Louise",
+        "Last Name": "Oelrichs",
+        "Maiden Name": "NA",
+        "Full Name at Birth": "Blanche Marie Louise Oelrichs",
+        "Alternative Name": "Michael Strange, Blanche Marie Louise Oelrichs, Blanche Oelrichs",
+        "Birthday": "1890",
+        "Birthplace": "Rhode Island USA",
+        "Height": "NA",
+        "Weight": "NA",
+        "Zodiac Sign": "10",
+        "Sexuality": "Bisexual",
+        "Religion": "1",
+        "Ethnicity": "6",
+        "Nationality": "91",
+        "Occupation": "3"
+    }
+}

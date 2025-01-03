@@ -1,0 +1,44 @@
+{
+    "relationships": [
+        {
+            "name": "Johnny Dorelli",
+            "href": "https://www.whosdatedwho.com/dating/johnny-dorelli",
+            "relationship_type": 4,
+            "start_date": "1981",
+            "end_date": "present",
+            "length": "43 years",
+            "start_months_since_1900": 972,
+            "end_months_since_1900": -1,
+            "length_in_months": 516
+        },
+        {
+            "name": "Walter Chiari",
+            "href": "https://www.whosdatedwho.com/dating/walter-chiari",
+            "relationship_type": 2,
+            "start_date": "1977",
+            "end_date": "1978",
+            "length": "1 year",
+            "start_months_since_1900": 924,
+            "end_months_since_1900": 936,
+            "length_in_months": 12
+        }
+    ],
+    "details": {
+        "First Name": "Gloria",
+        "Middle Name": "NA",
+        "Last Name": "Guida",
+        "Maiden Name": "NA",
+        "Full Name at Birth": "Gloria Guida",
+        "Alternative Name": "Gloria Guida",
+        "Birthday": "1955",
+        "Birthplace": "Italy",
+        "Height": "NA",
+        "Weight": "NA",
+        "Zodiac Sign": "5",
+        "Sexuality": "Straight",
+        "Religion": "13",
+        "Ethnicity": "6",
+        "Nationality": "139",
+        "Occupation": "8"
+    }
+}

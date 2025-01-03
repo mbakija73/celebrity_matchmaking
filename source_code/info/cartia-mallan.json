@@ -1,0 +1,55 @@
+{
+    "relationships": [
+        {
+            "name": "Ben Chilwell",
+            "href": "https://www.whosdatedwho.com/dating/ben-chilwell",
+            "relationship_type": 2,
+            "start_date": "Dec 2022",
+            "end_date": "May 2023",
+            "length": "5 months",
+            "start_months_since_1900": 1475,
+            "end_months_since_1900": 1480,
+            "length_in_months": 5
+        },
+        {
+            "name": "Bailey Smith",
+            "href": "https://www.whosdatedwho.com/dating/bailey-smith-97924086",
+            "relationship_type": 1,
+            "start_date": "Oct 2021",
+            "end_date": "Oct 2021",
+            "length": "-",
+            "start_months_since_1900": 1461,
+            "end_months_since_1900": 1461,
+            "length_in_months": -1
+        },
+        {
+            "name": "Josh Heuston",
+            "href": "https://www.whosdatedwho.com/dating/josh-heuston",
+            "relationship_type": 2,
+            "start_date": "2018",
+            "end_date": "2020",
+            "length": "2 years",
+            "start_months_since_1900": 1416,
+            "end_months_since_1900": 1440,
+            "length_in_months": 24
+        }
+    ],
+    "details": {
+        "First Name": "Cartia",
+        "Middle Name": "NA",
+        "Last Name": "Mallan",
+        "Maiden Name": "NA",
+        "Full Name at Birth": "NA",
+        "Alternative Name": "NA",
+        "Birthday": "1998",
+        "Birthplace": "Australia",
+        "Height": "165",
+        "Weight": "123lbs (56 kg)",
+        "Zodiac Sign": "12",
+        "Sexuality": "Straight",
+        "Religion": "1",
+        "Ethnicity": "6",
+        "Nationality": "135",
+        "Occupation": "11"
+    }
+}

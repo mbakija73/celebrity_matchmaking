@@ -1,0 +1,110 @@
+{
+    "relationships": [
+        {
+            "name": "Esther Williams",
+            "href": "https://www.whosdatedwho.com/dating/esther-williams",
+            "relationship_type": 2,
+            "start_date": "1957",
+            "end_date": "1960",
+            "length": "3 years",
+            "start_months_since_1900": 684,
+            "end_months_since_1900": 720,
+            "length_in_months": 36
+        },
+        {
+            "name": "Susan Hayward",
+            "href": "https://www.whosdatedwho.com/dating/susan-hayward",
+            "relationship_type": 2,
+            "start_date": "1954",
+            "end_date": "1955",
+            "length": "1 year",
+            "start_months_since_1900": 648,
+            "end_months_since_1900": 660,
+            "length_in_months": 12
+        },
+        {
+            "name": "Mamie Van Doren",
+            "href": "https://www.whosdatedwho.com/dating/mamie-van-doren",
+            "relationship_type": 2,
+            "start_date": "1954",
+            "end_date": "1954",
+            "length": "-",
+            "start_months_since_1900": 648,
+            "end_months_since_1900": 648,
+            "length_in_months": -1
+        },
+        {
+            "name": "Julie Adams",
+            "href": "https://www.whosdatedwho.com/dating/julie-adams",
+            "relationship_type": 2,
+            "start_date": "Dec 1953",
+            "end_date": "Jan 1954",
+            "length": "1 month",
+            "start_months_since_1900": 647,
+            "end_months_since_1900": 648,
+            "length_in_months": 1
+        },
+        {
+            "name": "Eartha Kitt",
+            "href": "https://www.whosdatedwho.com/dating/eartha-kitt",
+            "relationship_type": 3,
+            "start_date": "1953",
+            "end_date": "1953",
+            "length": "-",
+            "start_months_since_1900": 636,
+            "end_months_since_1900": 636,
+            "length_in_months": -1
+        },
+        {
+            "name": "M\u00e4rta Tor\u00e9n",
+            "href": "https://www.whosdatedwho.com/dating/marta-toren",
+            "relationship_type": 2,
+            "start_date": "Apr 1951",
+            "end_date": "May 1951",
+            "length": "1 month",
+            "start_months_since_1900": 615,
+            "end_months_since_1900": 616,
+            "length_in_months": 1
+        },
+        {
+            "name": "Marjorie Hoshelle",
+            "href": "https://www.whosdatedwho.com/dating/marjorie-hoshelle",
+            "relationship_type": 4,
+            "start_date": "1946",
+            "end_date": "1954",
+            "length": "8 years",
+            "start_months_since_1900": 552,
+            "end_months_since_1900": 648,
+            "length_in_months": 96
+        },
+        {
+            "name": "Marilyn Maxwell",
+            "href": "https://www.whosdatedwho.com/dating/marilyn-maxwell",
+            "relationship_type": 2,
+            "start_date": "",
+            "end_date": "",
+            "length": "-",
+            "start_months_since_1900": -1,
+            "end_months_since_1900": -1,
+            "length_in_months": -1
+        }
+    ],
+    "details": {
+        "First Name": "Jeff",
+        "Middle Name": "NA",
+        "Last Name": "Chandler",
+        "Maiden Name": "NA",
+        "Full Name at Birth": "Ira Grossel",
+        "Alternative Name": "The silver fox, Big Gray",
+        "Birthday": "1918",
+        "Birthplace": "USA",
+        "Height": "193",
+        "Weight": "NA",
+        "Zodiac Sign": "6",
+        "Sexuality": "Straight",
+        "Religion": "31",
+        "Ethnicity": "6",
+        "Nationality": "91",
+        "Occupation": "8"
+    }
+}

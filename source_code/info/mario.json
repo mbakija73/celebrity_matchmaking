@@ -1,0 +1,44 @@
+{
+    "relationships": [
+        {
+            "name": "Kris Stephens",
+            "href": "https://www.whosdatedwho.com/dating/kris-stephens-41647335",
+            "relationship_type": 2,
+            "start_date": "2021",
+            "end_date": "present",
+            "length": "3 years",
+            "start_months_since_1900": 1452,
+            "end_months_since_1900": -1,
+            "length_in_months": 36
+        },
+        {
+            "name": "Jillian Barberie",
+            "href": "https://www.whosdatedwho.com/dating/jillian-barberie",
+            "relationship_type": 3,
+            "start_date": "2004",
+            "end_date": "2004",
+            "length": "-",
+            "start_months_since_1900": 1248,
+            "end_months_since_1900": 1248,
+            "length_in_months": -1
+        }
+    ],
+    "details": {
+        "First Name": "Mario",
+        "Middle Name": "Dewar",
+        "Last Name": "Barrett",
+        "Maiden Name": "NA",
+        "Full Name at Birth": "Mario Dewar Barrett",
+        "Alternative Name": "Boy Wonder",
+        "Birthday": "1986",
+        "Birthplace": "MD",
+        "Height": "180",
+        "Weight": "NA",
+        "Zodiac Sign": "11",
+        "Sexuality": "Straight",
+        "Religion": "18",
+        "Ethnicity": "2",
+        "Nationality": "91",
+        "Occupation": "1"
+    }
+}

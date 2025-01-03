@@ -1,0 +1,66 @@
+{
+    "relationships": [
+        {
+            "name": "Matteo Cambi",
+            "href": "https://www.whosdatedwho.com/dating/matteo-cambi",
+            "relationship_type": 2,
+            "start_date": "2004",
+            "end_date": "2004",
+            "length": "-",
+            "start_months_since_1900": 1248,
+            "end_months_since_1900": 1248,
+            "length_in_months": -1
+        },
+        {
+            "name": "Cristiano Ricciardella",
+            "href": "https://www.whosdatedwho.com/dating/cristiano-ricciardella",
+            "relationship_type": 4,
+            "start_date": "2004",
+            "end_date": "",
+            "length": "-",
+            "start_months_since_1900": 1248,
+            "end_months_since_1900": -1,
+            "length_in_months": -1
+        },
+        {
+            "name": "Alessia Fabiani",
+            "href": "https://www.whosdatedwho.com/dating/alessia-fabiani",
+            "relationship_type": 3,
+            "start_date": "2003",
+            "end_date": "2003",
+            "length": "-",
+            "start_months_since_1900": 1236,
+            "end_months_since_1900": 1236,
+            "length_in_months": -1
+        },
+        {
+            "name": "Alessandro Lukacs",
+            "href": "https://www.whosdatedwho.com/dating/alessandro-lukacs",
+            "relationship_type": 2,
+            "start_date": "2001",
+            "end_date": "2003",
+            "length": "2 years",
+            "start_months_since_1900": 1212,
+            "end_months_since_1900": 1236,
+            "length_in_months": 24
+        }
+    ],
+    "details": {
+        "First Name": "Mascia",
+        "Middle Name": "NA",
+        "Last Name": "Ferri",
+        "Maiden Name": "NA",
+        "Full Name at Birth": "NA",
+        "Alternative Name": "NA",
+        "Birthday": "1973",
+        "Birthplace": "Ravenna",
+        "Height": "170",
+        "Weight": "NA",
+        "Zodiac Sign": "12",
+        "Sexuality": "NA",
+        "Religion": "1",
+        "Ethnicity": "1",
+        "Nationality": "139",
+        "Occupation": "11"
+    }
+}

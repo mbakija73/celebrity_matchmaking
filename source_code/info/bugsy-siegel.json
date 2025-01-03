@@ -1,0 +1,121 @@
+{
+    "relationships": [
+        {
+            "name": "Marie McDonald",
+            "href": "https://www.whosdatedwho.com/dating/marie-mcdonald",
+            "relationship_type": 2,
+            "start_date": "Apr 1947",
+            "end_date": "Jun 1947",
+            "length": "2 months",
+            "start_months_since_1900": 567,
+            "end_months_since_1900": 569,
+            "length_in_months": 2
+        },
+        {
+            "name": "Dorothy Di Frasso",
+            "href": "https://www.whosdatedwho.com/dating/dorothy-di-frasso",
+            "relationship_type": 2,
+            "start_date": "1939",
+            "end_date": "1940",
+            "length": "1 year",
+            "start_months_since_1900": 468,
+            "end_months_since_1900": 480,
+            "length_in_months": 12
+        },
+        {
+            "name": "Virginia Hill",
+            "href": "https://www.whosdatedwho.com/dating/virginia-hill-born-1916",
+            "relationship_type": 2,
+            "start_date": "Feb 1937",
+            "end_date": "20th Jun 1947",
+            "length": "10 years",
+            "start_months_since_1900": 445,
+            "end_months_since_1900": 569,
+            "length_in_months": 120
+        },
+        {
+            "name": "Esta Krakower",
+            "href": "https://www.whosdatedwho.com/dating/esta-krakower",
+            "relationship_type": 4,
+            "start_date": "1927",
+            "end_date": "Aug 1946",
+            "length": "19 years",
+            "start_months_since_1900": 324,
+            "end_months_since_1900": 559,
+            "length_in_months": 228
+        },
+        {
+            "name": "Wendy Barrie",
+            "href": "https://www.whosdatedwho.com/dating/wendy-barrie",
+            "relationship_type": 2,
+            "start_date": "",
+            "end_date": "",
+            "length": "-",
+            "start_months_since_1900": -1,
+            "end_months_since_1900": -1,
+            "length_in_months": -1
+        },
+        {
+            "name": "Lana Turner",
+            "href": "https://www.whosdatedwho.com/dating/lana-turner",
+            "relationship_type": 2,
+            "start_date": "",
+            "end_date": "",
+            "length": "-",
+            "start_months_since_1900": -1,
+            "end_months_since_1900": -1,
+            "length_in_months": -1
+        },
+        {
+            "name": "Mae West",
+            "href": "https://www.whosdatedwho.com/dating/mae-west",
+            "relationship_type": 2,
+            "start_date": "",
+            "end_date": "",
+            "length": "-",
+            "start_months_since_1900": -1,
+            "end_months_since_1900": -1,
+            "length_in_months": -1
+        },
+        {
+            "name": "Ava Gardner",
+            "href": "https://www.whosdatedwho.com/dating/ava-gardner",
+            "relationship_type": 3,
+            "start_date": "",
+            "end_date": "",
+            "length": "-",
+            "start_months_since_1900": -1,
+            "end_months_since_1900": -1,
+            "length_in_months": -1
+        },
+        {
+            "name": "Jean Harlow",
+            "href": "https://www.whosdatedwho.com/dating/jean-harlow",
+            "relationship_type": 2,
+            "start_date": "",
+            "end_date": "",
+            "length": "-",
+            "start_months_since_1900": -1,
+            "end_months_since_1900": -1,
+            "length_in_months": -1
+        }
+    ],
+    "details": {
+        "First Name": "Bugsy",
+        "Middle Name": "NA",
+        "Last Name": "Siegel",
+        "Maiden Name": "NA",
+        "Full Name at Birth": "Benjamin Hymen Siegelbaum",
+        "Alternative Name": "Bugs",
+        "Birthday": "1906",
+        "Birthplace": "New York.",
+        "Height": "178",
+        "Weight": "NA",
+        "Zodiac Sign": "1",
+        "Sexuality": "Straight",
+        "Religion": "31",
+        "Ethnicity": "6",
+        "Nationality": "91",
+        "Occupation": "18"
+    }
+}

@@ -1,0 +1,88 @@
+{
+    "relationships": [
+        {
+            "name": "Novak Djokovic",
+            "href": "https://www.whosdatedwho.com/dating/novak-djokovic",
+            "relationship_type": 3,
+            "start_date": "Mar 2016",
+            "end_date": "Mar 2016",
+            "length": "-",
+            "start_months_since_1900": 1394,
+            "end_months_since_1900": 1394,
+            "length_in_months": -1
+        },
+        {
+            "name": "Ranveer Singh",
+            "href": "https://www.whosdatedwho.com/dating/ranveer-singh",
+            "relationship_type": 4,
+            "start_date": "2013",
+            "end_date": "present",
+            "length": "11 years",
+            "start_months_since_1900": 1356,
+            "end_months_since_1900": -1,
+            "length_in_months": 132
+        },
+        {
+            "name": "Siddharth Mallya",
+            "href": "https://www.whosdatedwho.com/dating/siddharth-mallya",
+            "relationship_type": 2,
+            "start_date": "Mar 2010",
+            "end_date": "",
+            "length": "-",
+            "start_months_since_1900": 1322,
+            "end_months_since_1900": -1,
+            "length_in_months": -1
+        },
+        {
+            "name": "Ranbir Kapoor",
+            "href": "https://www.whosdatedwho.com/dating/ranbir-kapoor",
+            "relationship_type": 2,
+            "start_date": "2007",
+            "end_date": "2009",
+            "length": "2 years",
+            "start_months_since_1900": 1284,
+            "end_months_since_1900": 1308,
+            "length_in_months": 24
+        },
+        {
+            "name": "Mahendra Singh Dhoni",
+            "href": "https://www.whosdatedwho.com/dating/mahendra-singh-dhoni",
+            "relationship_type": 1,
+            "start_date": "2007",
+            "end_date": "2007",
+            "length": "-",
+            "start_months_since_1900": 1284,
+            "end_months_since_1900": 1284,
+            "length_in_months": -1
+        },
+        {
+            "name": "Upen Patel",
+            "href": "https://www.whosdatedwho.com/dating/upen-patel",
+            "relationship_type": 2,
+            "start_date": "2006",
+            "end_date": "2007",
+            "length": "1 year",
+            "start_months_since_1900": 1272,
+            "end_months_since_1900": 1284,
+            "length_in_months": 12
+        }
+    ],
+    "details": {
+        "First Name": "Deepika",
+        "Middle Name": "NA",
+        "Last Name": "Padukone",
+        "Maiden Name": "NA",
+        "Full Name at Birth": "Deepika Padukone",
+        "Alternative Name": "Deepi, Deepz",
+        "Birthday": "1986",
+        "Birthplace": "Denmark",
+        "Height": "175",
+        "Weight": "132lbs (60 kg)",
+        "Zodiac Sign": "13",
+        "Sexuality": "Straight",
+        "Religion": "27",
+        "Ethnicity": "7",
+        "Nationality": "34",
+        "Occupation": "8"
+    }
+}

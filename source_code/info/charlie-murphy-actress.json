@@ -1,0 +1,44 @@
+{
+    "relationships": [
+        {
+            "name": "Sam Yates",
+            "href": "https://www.whosdatedwho.com/dating/sam-yates-theater-director",
+            "relationship_type": 2,
+            "start_date": "2019",
+            "end_date": "present",
+            "length": "5 years",
+            "start_months_since_1900": 1428,
+            "end_months_since_1900": -1,
+            "length_in_months": 60
+        },
+        {
+            "name": "Sarah Greene",
+            "href": "https://www.whosdatedwho.com/dating/sarah-greene",
+            "relationship_type": 1,
+            "start_date": "",
+            "end_date": "",
+            "length": "-",
+            "start_months_since_1900": -1,
+            "end_months_since_1900": -1,
+            "length_in_months": -1
+        }
+    ],
+    "details": {
+        "First Name": "Charlie",
+        "Middle Name": "NA",
+        "Last Name": "Murphy",
+        "Maiden Name": "NA",
+        "Full Name at Birth": "Charlotte Murphy",
+        "Alternative Name": "Charlie Murphy, Charlotte Murphy",
+        "Birthday": "1984",
+        "Birthplace": "Ireland",
+        "Height": "162",
+        "Weight": "121lbs (55 kg)",
+        "Zodiac Sign": "6",
+        "Sexuality": "Straight",
+        "Religion": "18",
+        "Ethnicity": "6",
+        "Nationality": "117",
+        "Occupation": "8"
+    }
+}

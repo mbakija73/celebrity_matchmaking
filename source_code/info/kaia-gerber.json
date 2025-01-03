@@ -1,0 +1,66 @@
+{
+    "relationships": [
+        {
+            "name": "Austin Butler",
+            "href": "https://www.whosdatedwho.com/dating/austin-butler",
+            "relationship_type": 2,
+            "start_date": "Dec 2021",
+            "end_date": "present",
+            "length": "2 years",
+            "start_months_since_1900": 1463,
+            "end_months_since_1900": -1,
+            "length_in_months": 24
+        },
+        {
+            "name": "Jacob Elordi",
+            "href": "https://www.whosdatedwho.com/dating/jacob-elordi",
+            "relationship_type": 2,
+            "start_date": "Sep 2020",
+            "end_date": "Nov 2021",
+            "length": "1 year",
+            "start_months_since_1900": 1448,
+            "end_months_since_1900": 1462,
+            "length_in_months": 12
+        },
+        {
+            "name": "Pete Davidson",
+            "href": "https://www.whosdatedwho.com/dating/pete-davidson-comedian",
+            "relationship_type": 2,
+            "start_date": "Oct 2019",
+            "end_date": "Jan 2020",
+            "length": "3 months",
+            "start_months_since_1900": 1437,
+            "end_months_since_1900": 1440,
+            "length_in_months": 3
+        },
+        {
+            "name": "Wellington Grant",
+            "href": "https://www.whosdatedwho.com/dating/wellington-grant",
+            "relationship_type": 2,
+            "start_date": "Feb 2019",
+            "end_date": "Feb 2019",
+            "length": "-",
+            "start_months_since_1900": 1429,
+            "end_months_since_1900": 1429,
+            "length_in_months": -1
+        }
+    ],
+    "details": {
+        "First Name": "Kaia",
+        "Middle Name": "Jordan",
+        "Last Name": "Gerber",
+        "Maiden Name": "NA",
+        "Full Name at Birth": "Kaia Jordan Gerber",
+        "Alternative Name": "Kaia, Kaia Gerber",
+        "Birthday": "2001",
+        "Birthplace": "United States",
+        "Height": "177",
+        "Weight": "119lbs (54 kg)",
+        "Zodiac Sign": "11",
+        "Sexuality": "Straight",
+        "Religion": "31",
+        "Ethnicity": "6",
+        "Nationality": "91",
+        "Occupation": "15"
+    }
+}

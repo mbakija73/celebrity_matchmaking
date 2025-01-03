@@ -1,0 +1,66 @@
+{
+    "relationships": [
+        {
+            "name": "David Lemanowicz",
+            "href": "https://www.whosdatedwho.com/dating/david-lemanowicz",
+            "relationship_type": 4,
+            "start_date": "2015",
+            "end_date": "present",
+            "length": "9 years",
+            "start_months_since_1900": 1380,
+            "end_months_since_1900": -1,
+            "length_in_months": 108
+        },
+        {
+            "name": "Tyler Hoechlin",
+            "href": "https://www.whosdatedwho.com/dating/tyler-hoechlin",
+            "relationship_type": 2,
+            "start_date": "Mar 2014",
+            "end_date": "May 2014",
+            "length": "2 months",
+            "start_months_since_1900": 1370,
+            "end_months_since_1900": 1372,
+            "length_in_months": 2
+        },
+        {
+            "name": "Jay Gordon",
+            "href": "https://www.whosdatedwho.com/dating/jay-gordon",
+            "relationship_type": 2,
+            "start_date": "2001",
+            "end_date": "2005",
+            "length": "4 years",
+            "start_months_since_1900": 1212,
+            "end_months_since_1900": 1260,
+            "length_in_months": 48
+        },
+        {
+            "name": "Kristoffer Polaha",
+            "href": "https://www.whosdatedwho.com/dating/kristoffer-polaha",
+            "relationship_type": 1,
+            "start_date": "",
+            "end_date": "",
+            "length": "-",
+            "start_months_since_1900": -1,
+            "end_months_since_1900": -1,
+            "length_in_months": -1
+        }
+    ],
+    "details": {
+        "First Name": "Jill",
+        "Middle Name": "Suzanne",
+        "Last Name": "Wagner",
+        "Maiden Name": "NA",
+        "Full Name at Birth": "Jill Suzanne Wagner",
+        "Alternative Name": "NA",
+        "Birthday": "1979",
+        "Birthplace": "United States",
+        "Height": "173",
+        "Weight": "126lbs (57 kg)",
+        "Zodiac Sign": "13",
+        "Sexuality": "Straight",
+        "Religion": "1",
+        "Ethnicity": "6",
+        "Nationality": "91",
+        "Occupation": "8"
+    }
+}

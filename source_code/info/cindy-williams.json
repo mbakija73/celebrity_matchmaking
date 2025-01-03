@@ -1,0 +1,77 @@
+{
+    "relationships": [
+        {
+            "name": "Bill Hudson",
+            "href": "https://www.whosdatedwho.com/dating/bill-hudson-musician",
+            "relationship_type": 4,
+            "start_date": "1981",
+            "end_date": "Dec 2000",
+            "length": "19 years",
+            "start_months_since_1900": 972,
+            "end_months_since_1900": 1211,
+            "length_in_months": 228
+        },
+        {
+            "name": "Andy Kaufman",
+            "href": "https://www.whosdatedwho.com/dating/andy-kaufman",
+            "relationship_type": 2,
+            "start_date": "1980",
+            "end_date": "1980",
+            "length": "-",
+            "start_months_since_1900": 960,
+            "end_months_since_1900": 960,
+            "length_in_months": -1
+        },
+        {
+            "name": "Michael Brandon",
+            "href": "https://www.whosdatedwho.com/dating/michael-brandon",
+            "relationship_type": 2,
+            "start_date": "1979",
+            "end_date": "1979",
+            "length": "-",
+            "start_months_since_1900": 948,
+            "end_months_since_1900": 948,
+            "length_in_months": -1
+        },
+        {
+            "name": "David L. Lander",
+            "href": "https://www.whosdatedwho.com/dating/david-l-lander",
+            "relationship_type": 2,
+            "start_date": "1976",
+            "end_date": "1976",
+            "length": "-",
+            "start_months_since_1900": 912,
+            "end_months_since_1900": 912,
+            "length_in_months": -1
+        },
+        {
+            "name": "Joseph Brooks",
+            "href": "https://www.whosdatedwho.com/dating/joseph-brooks",
+            "relationship_type": 2,
+            "start_date": "",
+            "end_date": "",
+            "length": "-",
+            "start_months_since_1900": -1,
+            "end_months_since_1900": -1,
+            "length_in_months": -1
+        }
+    ],
+    "details": {
+        "First Name": "Cindy",
+        "Middle Name": "NA",
+        "Last Name": "Williams",
+        "Maiden Name": "NA",
+        "Full Name at Birth": "Cynthia Jane Williams",
+        "Alternative Name": "Cindy Hudson, Cindy",
+        "Birthday": "1947",
+        "Birthplace": "USA",
+        "Height": "163",
+        "Weight": "128lbs (58 kg)",
+        "Zodiac Sign": "12",
+        "Sexuality": "Straight",
+        "Religion": "13",
+        "Ethnicity": "6",
+        "Nationality": "91",
+        "Occupation": "8"
+    }
+}

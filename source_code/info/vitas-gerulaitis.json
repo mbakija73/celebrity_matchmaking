@@ -1,0 +1,66 @@
+{
+    "relationships": [
+        {
+            "name": "Janet Jones",
+            "href": "https://www.whosdatedwho.com/dating/janet-jones",
+            "relationship_type": 2,
+            "start_date": "1984",
+            "end_date": "1987",
+            "length": "3 years",
+            "start_months_since_1900": 1008,
+            "end_months_since_1900": 1044,
+            "length_in_months": 36
+        },
+        {
+            "name": "Cheryl Tiegs",
+            "href": "https://www.whosdatedwho.com/dating/cheryl-tiegs",
+            "relationship_type": 3,
+            "start_date": "Feb 1978",
+            "end_date": "Feb 1978",
+            "length": "-",
+            "start_months_since_1900": 937,
+            "end_months_since_1900": 937,
+            "length_in_months": -1
+        },
+        {
+            "name": "Chris Evert",
+            "href": "https://www.whosdatedwho.com/dating/chris-evert",
+            "relationship_type": 1,
+            "start_date": "",
+            "end_date": "",
+            "length": "-",
+            "start_months_since_1900": -1,
+            "end_months_since_1900": -1,
+            "length_in_months": -1
+        },
+        {
+            "name": "Samantha Phillips",
+            "href": "https://www.whosdatedwho.com/dating/samantha-phillips",
+            "relationship_type": 2,
+            "start_date": "",
+            "end_date": "",
+            "length": "-",
+            "start_months_since_1900": -1,
+            "end_months_since_1900": -1,
+            "length_in_months": -1
+        }
+    ],
+    "details": {
+        "First Name": "Vitas",
+        "Middle Name": "Kevin",
+        "Last Name": "Gerulaitis",
+        "Maiden Name": "NA",
+        "Full Name at Birth": "Vytautas Kevin Gerulaitis",
+        "Alternative Name": "The Lithuanian Lion",
+        "Birthday": "1954",
+        "Birthplace": "USA",
+        "Height": "183",
+        "Weight": "NA",
+        "Zodiac Sign": "12",
+        "Sexuality": "Straight",
+        "Religion": "1",
+        "Ethnicity": "6",
+        "Nationality": "91",
+        "Occupation": "2"
+    }
+}

@@ -1,0 +1,55 @@
+{
+    "relationships": [
+        {
+            "name": "Andrew Watt",
+            "href": "https://www.whosdatedwho.com/dating/andrew-watt-musician",
+            "relationship_type": 2,
+            "start_date": "Jan 2020",
+            "end_date": "present",
+            "length": "4 years",
+            "start_months_since_1900": 1440,
+            "end_months_since_1900": -1,
+            "length_in_months": 48
+        },
+        {
+            "name": "Charlie Puth",
+            "href": "https://www.whosdatedwho.com/dating/charlie-puth",
+            "relationship_type": 2,
+            "start_date": "Feb 2019",
+            "end_date": "Sep 2019",
+            "length": "7 months",
+            "start_months_since_1900": 1429,
+            "end_months_since_1900": 1436,
+            "length_in_months": 7
+        },
+        {
+            "name": "Cody Simpson",
+            "href": "https://www.whosdatedwho.com/dating/cody-simpson",
+            "relationship_type": 2,
+            "start_date": "Oct 2016",
+            "end_date": "Jan 2017",
+            "length": "3 months",
+            "start_months_since_1900": 1401,
+            "end_months_since_1900": 1404,
+            "length_in_months": 3
+        }
+    ],
+    "details": {
+        "First Name": "Charlotte",
+        "Middle Name": "Sarah",
+        "Last Name": "Lawrence",
+        "Maiden Name": "NA",
+        "Full Name at Birth": "Charlotte Sarah Lawrence",
+        "Alternative Name": "Charlotte Lawrence, Charlotte Sarah Lawrence, Charlotte",
+        "Birthday": "2000",
+        "Birthplace": "USA",
+        "Height": "179",
+        "Weight": "128lbs (58 kg)",
+        "Zodiac Sign": "4",
+        "Sexuality": "Straight",
+        "Religion": "1",
+        "Ethnicity": "6",
+        "Nationality": "91",
+        "Occupation": "1"
+    }
+}

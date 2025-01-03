@@ -1,0 +1,44 @@
+{
+    "relationships": [
+        {
+            "name": "RoccStar",
+            "href": "https://www.whosdatedwho.com/dating/roccstar-41644732",
+            "relationship_type": 2,
+            "start_date": "2020",
+            "end_date": "present",
+            "length": "4 years",
+            "start_months_since_1900": 1440,
+            "end_months_since_1900": -1,
+            "length_in_months": 48
+        },
+        {
+            "name": "Tyreke Evans",
+            "href": "https://www.whosdatedwho.com/dating/tyreke-evans",
+            "relationship_type": 2,
+            "start_date": "2010",
+            "end_date": "2015",
+            "length": "5 years",
+            "start_months_since_1900": 1320,
+            "end_months_since_1900": 1380,
+            "length_in_months": 60
+        }
+    ],
+    "details": {
+        "First Name": "Angel",
+        "Middle Name": "NA",
+        "Last Name": "Brinks",
+        "Maiden Name": "NA",
+        "Full Name at Birth": "Angel Brinks",
+        "Alternative Name": "Queen of Leggings",
+        "Birthday": "1982",
+        "Birthplace": "United States",
+        "Height": "178",
+        "Weight": "132lbs (60 kg)",
+        "Zodiac Sign": "10",
+        "Sexuality": "Straight",
+        "Religion": "18",
+        "Ethnicity": "8",
+        "Nationality": "91",
+        "Occupation": "15"
+    }
+}

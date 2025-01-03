@@ -1,0 +1,55 @@
+{
+    "relationships": [
+        {
+            "name": "Joey Essex",
+            "href": "https://www.whosdatedwho.com/dating/joey-essex",
+            "relationship_type": 2,
+            "start_date": "Nov 2022",
+            "end_date": "Apr 2023",
+            "length": "5 months",
+            "start_months_since_1900": 1474,
+            "end_months_since_1900": 1479,
+            "length_in_months": 5
+        },
+        {
+            "name": "Wes Nelson",
+            "href": "https://www.whosdatedwho.com/dating/wes-nelson",
+            "relationship_type": 3,
+            "start_date": "",
+            "end_date": "",
+            "length": "-",
+            "start_months_since_1900": -1,
+            "end_months_since_1900": -1,
+            "length_in_months": -1
+        },
+        {
+            "name": "Rory McCall",
+            "href": "https://www.whosdatedwho.com/dating/rory-mccall",
+            "relationship_type": 2,
+            "start_date": "",
+            "end_date": "",
+            "length": "-",
+            "start_months_since_1900": -1,
+            "end_months_since_1900": -1,
+            "length_in_months": -1
+        }
+    ],
+    "details": {
+        "First Name": "Vanessa",
+        "Middle Name": "NA",
+        "Last Name": "Bauer",
+        "Maiden Name": "NA",
+        "Full Name at Birth": "Vanessa Putri Bauer",
+        "Alternative Name": "Vanessa Bauer, Vanessa Putri Bauer",
+        "Birthday": "1996",
+        "Birthplace": "Germany",
+        "Height": "NA",
+        "Weight": "NA",
+        "Zodiac Sign": "4",
+        "Sexuality": "Straight",
+        "Religion": "1",
+        "Ethnicity": "8",
+        "Nationality": "55",
+        "Occupation": "2"
+    }
+}

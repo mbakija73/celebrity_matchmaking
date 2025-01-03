@@ -1,0 +1,33 @@
+{
+    "relationships": [
+        {
+            "name": "Iggy",
+            "href": "https://www.whosdatedwho.com/dating/iggy",
+            "relationship_type": 4,
+            "start_date": "1977",
+            "end_date": "Dec 2017",
+            "length": "40 years",
+            "start_months_since_1900": 924,
+            "end_months_since_1900": 1415,
+            "length_in_months": 480
+        }
+    ],
+    "details": {
+        "First Name": "Andrew",
+        "Middle Name": "NA",
+        "Last Name": "Rose",
+        "Maiden Name": "NA",
+        "Full Name at Birth": "Andrew Rose",
+        "Alternative Name": "Andy Rose, Andrew Rose",
+        "Birthday": "NA",
+        "Birthplace": "London",
+        "Height": "NA",
+        "Weight": "NA",
+        "Zodiac Sign": "2",
+        "Sexuality": "Straight",
+        "Religion": "1",
+        "Ethnicity": "6",
+        "Nationality": "98",
+        "Occupation": "18"
+    }
+}

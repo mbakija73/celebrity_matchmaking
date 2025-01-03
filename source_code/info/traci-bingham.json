@@ -1,0 +1,66 @@
+{
+    "relationships": [
+        {
+            "name": "John Yarbrough",
+            "href": "https://www.whosdatedwho.com/dating/john-yarbrough",
+            "relationship_type": 2,
+            "start_date": "2001",
+            "end_date": "2009",
+            "length": "8 years",
+            "start_months_since_1900": 1212,
+            "end_months_since_1900": 1308,
+            "length_in_months": 96
+        },
+        {
+            "name": "Robb Vallier",
+            "href": "https://www.whosdatedwho.com/dating/robb-vallier",
+            "relationship_type": 4,
+            "start_date": "1995",
+            "end_date": "Jul 2000",
+            "length": "5 years",
+            "start_months_since_1900": 1140,
+            "end_months_since_1900": 1206,
+            "length_in_months": 60
+        },
+        {
+            "name": "Mark Wahlberg",
+            "href": "https://www.whosdatedwho.com/dating/mark-wahlberg",
+            "relationship_type": 2,
+            "start_date": "1991",
+            "end_date": "1991",
+            "length": "-",
+            "start_months_since_1900": 1092,
+            "end_months_since_1900": 1092,
+            "length_in_months": -1
+        },
+        {
+            "name": "Da Brat",
+            "href": "https://www.whosdatedwho.com/dating/da-brat",
+            "relationship_type": 3,
+            "start_date": "",
+            "end_date": "",
+            "length": "-",
+            "start_months_since_1900": -1,
+            "end_months_since_1900": -1,
+            "length_in_months": -1
+        }
+    ],
+    "details": {
+        "First Name": "Traci",
+        "Middle Name": "NA",
+        "Last Name": "Bingham",
+        "Maiden Name": "Smith",
+        "Full Name at Birth": "Julie Anne Smith",
+        "Alternative Name": "Julie Anne Smith, Traci Bingham, Traci A. Bingham, Tracie Bingham, Traci",
+        "Birthday": "1968",
+        "Birthplace": "USA",
+        "Height": "170",
+        "Weight": "114lbs (52 kg)",
+        "Zodiac Sign": "13",
+        "Sexuality": "Bisexual",
+        "Religion": "18",
+        "Ethnicity": "2",
+        "Nationality": "91",
+        "Occupation": "8"
+    }
+}

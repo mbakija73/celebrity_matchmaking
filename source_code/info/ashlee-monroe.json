@@ -1,0 +1,88 @@
+{
+    "relationships": [
+        {
+            "name": "James Harden",
+            "href": "https://www.whosdatedwho.com/dating/james-harden",
+            "relationship_type": 3,
+            "start_date": "Apr 2018",
+            "end_date": "Nov 2018",
+            "length": "7 months",
+            "start_months_since_1900": 1419,
+            "end_months_since_1900": 1426,
+            "length_in_months": 7
+        },
+        {
+            "name": "Will Barton",
+            "href": "https://www.whosdatedwho.com/dating/will-barton-basketball",
+            "relationship_type": 3,
+            "start_date": "Jan 2018",
+            "end_date": "Apr 2018",
+            "length": "3 months",
+            "start_months_since_1900": 1416,
+            "end_months_since_1900": 1419,
+            "length_in_months": 3
+        },
+        {
+            "name": "Tori(sflyy_)",
+            "href": "https://www.whosdatedwho.com/dating/tori-sflyy",
+            "relationship_type": 3,
+            "start_date": "May 2015",
+            "end_date": "Aug 2015",
+            "length": "3 months",
+            "start_months_since_1900": 1384,
+            "end_months_since_1900": 1387,
+            "length_in_months": 3
+        },
+        {
+            "name": "Quavo",
+            "href": "https://www.whosdatedwho.com/dating/quavo-rapper",
+            "relationship_type": 3,
+            "start_date": "Feb 2015",
+            "end_date": "Apr 2015",
+            "length": "1 month",
+            "start_months_since_1900": 1381,
+            "end_months_since_1900": 1383,
+            "length_in_months": 1
+        },
+        {
+            "name": "Lil' Wayne",
+            "href": "https://www.whosdatedwho.com/dating/lil-wayne",
+            "relationship_type": 3,
+            "start_date": "Jul 2012",
+            "end_date": "Feb 2015",
+            "length": "2 years",
+            "start_months_since_1900": 1350,
+            "end_months_since_1900": 1381,
+            "length_in_months": 24
+        },
+        {
+            "name": "King Lil G",
+            "href": "https://www.whosdatedwho.com/dating/king-lil-g-designer",
+            "relationship_type": 1,
+            "start_date": "",
+            "end_date": "",
+            "length": "-",
+            "start_months_since_1900": -1,
+            "end_months_since_1900": -1,
+            "length_in_months": -1
+        }
+    ],
+    "details": {
+        "First Name": "Ashlee",
+        "Middle Name": "NA",
+        "Last Name": "Monroe",
+        "Maiden Name": "NA",
+        "Full Name at Birth": "NA",
+        "Alternative Name": "NA",
+        "Birthday": "1986",
+        "Birthplace": "USA",
+        "Height": "165",
+        "Weight": "NA",
+        "Zodiac Sign": "6",
+        "Sexuality": "Straight",
+        "Religion": "18",
+        "Ethnicity": "8",
+        "Nationality": "91",
+        "Occupation": "16"
+    }
+}

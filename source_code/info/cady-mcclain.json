@@ -1,0 +1,44 @@
+{
+    "relationships": [
+        {
+            "name": "Jon Lindstrom",
+            "href": "https://www.whosdatedwho.com/dating/jon-lindstrom",
+            "relationship_type": 4,
+            "start_date": "2008",
+            "end_date": "Apr 2024",
+            "length": "16 years",
+            "start_months_since_1900": 1296,
+            "end_months_since_1900": 1491,
+            "length_in_months": 192
+        },
+        {
+            "name": "Mark Collier",
+            "href": "https://www.whosdatedwho.com/dating/mark-collier",
+            "relationship_type": 5,
+            "start_date": "",
+            "end_date": "",
+            "length": "-",
+            "start_months_since_1900": -1,
+            "end_months_since_1900": -1,
+            "length_in_months": -1
+        }
+    ],
+    "details": {
+        "First Name": "Cady",
+        "Middle Name": "Jo",
+        "Last Name": "Lindstrom",
+        "Maiden Name": "McClain",
+        "Full Name at Birth": "Katie Jo McClain",
+        "Alternative Name": "Katie Jo McClain, Cady McClain, Cady, Katie McClain",
+        "Birthday": "1969",
+        "Birthplace": "USA",
+        "Height": "160",
+        "Weight": "121lbs (55 kg)",
+        "Zodiac Sign": "10",
+        "Sexuality": "Straight",
+        "Religion": "18",
+        "Ethnicity": "6",
+        "Nationality": "91",
+        "Occupation": "8"
+    }
+}

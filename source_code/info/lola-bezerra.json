@@ -1,0 +1,44 @@
+{
+    "relationships": [
+        {
+            "name": "Tom\u00e1s Costantini",
+            "href": "https://www.whosdatedwho.com/dating/tomas-costantini",
+            "relationship_type": 2,
+            "start_date": "2010",
+            "end_date": "2010",
+            "length": "-",
+            "start_months_since_1900": 1320,
+            "end_months_since_1900": 1320,
+            "length_in_months": -1
+        },
+        {
+            "name": "Juan Martin del Potro",
+            "href": "https://www.whosdatedwho.com/dating/juan-martin-del-potro",
+            "relationship_type": 2,
+            "start_date": "Oct 2009",
+            "end_date": "Nov 2009",
+            "length": "1 month",
+            "start_months_since_1900": 1317,
+            "end_months_since_1900": 1318,
+            "length_in_months": 1
+        }
+    ],
+    "details": {
+        "First Name": "Lola",
+        "Middle Name": "NA",
+        "Last Name": "Bezerra",
+        "Maiden Name": "NA",
+        "Full Name at Birth": "Lola Bezerra",
+        "Alternative Name": "NA",
+        "Birthday": "NA",
+        "Birthplace": "NA",
+        "Height": "NA",
+        "Weight": "NA",
+        "Zodiac Sign": "2",
+        "Sexuality": "Straight",
+        "Religion": "1",
+        "Ethnicity": "6",
+        "Nationality": "87",
+        "Occupation": "11"
+    }
+}

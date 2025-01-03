@@ -1,0 +1,55 @@
+{
+    "relationships": [
+        {
+            "name": "Zoe Dean",
+            "href": "https://www.whosdatedwho.com/dating/zoe-dean",
+            "relationship_type": 2,
+            "start_date": "1969",
+            "end_date": "1978",
+            "length": "9 years",
+            "start_months_since_1900": 828,
+            "end_months_since_1900": 936,
+            "length_in_months": 108
+        },
+        {
+            "name": "Bron Gillan",
+            "href": "https://www.whosdatedwho.com/dating/bron-gillan",
+            "relationship_type": 4,
+            "start_date": "",
+            "end_date": "",
+            "length": "-",
+            "start_months_since_1900": -1,
+            "end_months_since_1900": -1,
+            "length_in_months": -1
+        },
+        {
+            "name": "Josette Caruso",
+            "href": "https://www.whosdatedwho.com/dating/josette-caruso",
+            "relationship_type": 3,
+            "start_date": "",
+            "end_date": "",
+            "length": "-",
+            "start_months_since_1900": -1,
+            "end_months_since_1900": -1,
+            "length_in_months": -1
+        }
+    ],
+    "details": {
+        "First Name": "Ian",
+        "Middle Name": "NA",
+        "Last Name": "Gillan",
+        "Maiden Name": "NA",
+        "Full Name at Birth": "Ian Gillan",
+        "Alternative Name": "Papa G",
+        "Birthday": "1945",
+        "Birthplace": "UK",
+        "Height": "188",
+        "Weight": "NA",
+        "Zodiac Sign": "12",
+        "Sexuality": "NA",
+        "Religion": "1",
+        "Ethnicity": "6",
+        "Nationality": "98",
+        "Occupation": "1"
+    }
+}

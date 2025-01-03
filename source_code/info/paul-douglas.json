@@ -1,0 +1,55 @@
+{
+    "relationships": [
+        {
+            "name": "Jan Sterling",
+            "href": "https://www.whosdatedwho.com/dating/jan-sterling",
+            "relationship_type": 4,
+            "start_date": "Dec 1949",
+            "end_date": "11th Sep 1959",
+            "length": "9 years",
+            "start_months_since_1900": 599,
+            "end_months_since_1900": 716,
+            "length_in_months": 108
+        },
+        {
+            "name": "Virginia Field",
+            "href": "https://www.whosdatedwho.com/dating/virginia-field",
+            "relationship_type": 4,
+            "start_date": "Dec 1940",
+            "end_date": "Oct 1946",
+            "length": "5 years",
+            "start_months_since_1900": 491,
+            "end_months_since_1900": 561,
+            "length_in_months": 60
+        },
+        {
+            "name": "Lucille Ball",
+            "href": "https://www.whosdatedwho.com/dating/lucille-ball",
+            "relationship_type": 3,
+            "start_date": "",
+            "end_date": "",
+            "length": "-",
+            "start_months_since_1900": -1,
+            "end_months_since_1900": -1,
+            "length_in_months": -1
+        }
+    ],
+    "details": {
+        "First Name": "Paul",
+        "Middle Name": "NA",
+        "Last Name": "Douglas",
+        "Maiden Name": "NA",
+        "Full Name at Birth": "Paul Douglas Fleischer",
+        "Alternative Name": "NA",
+        "Birthday": "1907",
+        "Birthplace": "USA",
+        "Height": "183",
+        "Weight": "200lbs (91 kg)",
+        "Zodiac Sign": "7",
+        "Sexuality": "Straight",
+        "Religion": "1",
+        "Ethnicity": "6",
+        "Nationality": "91",
+        "Occupation": "8"
+    }
+}

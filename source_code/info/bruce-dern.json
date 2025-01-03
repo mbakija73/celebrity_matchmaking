@@ -1,0 +1,66 @@
+{
+    "relationships": [
+        {
+            "name": "Maud Adams",
+            "href": "https://www.whosdatedwho.com/dating/maud-adams",
+            "relationship_type": 3,
+            "start_date": "1981",
+            "end_date": "1981",
+            "length": "-",
+            "start_months_since_1900": 972,
+            "end_months_since_1900": 972,
+            "length_in_months": -1
+        },
+        {
+            "name": "Andrea Beckett",
+            "href": "https://www.whosdatedwho.com/dating/andrea-beckett",
+            "relationship_type": 4,
+            "start_date": "Dec 1968",
+            "end_date": "present",
+            "length": "55 years",
+            "start_months_since_1900": 827,
+            "end_months_since_1900": -1,
+            "length_in_months": 660
+        },
+        {
+            "name": "Diane Ladd",
+            "href": "https://www.whosdatedwho.com/dating/diane-ladd",
+            "relationship_type": 4,
+            "start_date": "1959",
+            "end_date": "Jun 1969",
+            "length": "10 years",
+            "start_months_since_1900": 708,
+            "end_months_since_1900": 833,
+            "length_in_months": 120
+        },
+        {
+            "name": "Marie Dawn Pierce",
+            "href": "https://www.whosdatedwho.com/dating/marie-dawn-pierce",
+            "relationship_type": 4,
+            "start_date": "1956",
+            "end_date": "1959",
+            "length": "3 years",
+            "start_months_since_1900": 672,
+            "end_months_since_1900": 708,
+            "length_in_months": 36
+        }
+    ],
+    "details": {
+        "First Name": "Bruce",
+        "Middle Name": "MacLeish",
+        "Last Name": "Dern",
+        "Maiden Name": "NA",
+        "Full Name at Birth": "Bruce MacLeish Dern",
+        "Alternative Name": "Bruce Dern, Bruce MacLeish Dern",
+        "Birthday": "1936",
+        "Birthplace": "USA",
+        "Height": "183",
+        "Weight": "NA",
+        "Zodiac Sign": "4",
+        "Sexuality": "Straight",
+        "Religion": "1",
+        "Ethnicity": "6",
+        "Nationality": "91",
+        "Occupation": "8"
+    }
+}

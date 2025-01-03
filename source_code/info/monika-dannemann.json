@@ -1,0 +1,44 @@
+{
+    "relationships": [
+        {
+            "name": "Uli Jon Roth",
+            "href": "https://www.whosdatedwho.com/dating/uli-jon-roth",
+            "relationship_type": 2,
+            "start_date": "1970",
+            "end_date": "1996",
+            "length": "26 years",
+            "start_months_since_1900": 840,
+            "end_months_since_1900": 1152,
+            "length_in_months": 312
+        },
+        {
+            "name": "Jimi Hendrix",
+            "href": "https://www.whosdatedwho.com/dating/jimi-hendrix",
+            "relationship_type": 2,
+            "start_date": "Jan 1969",
+            "end_date": "Sep 1970",
+            "length": "1 year",
+            "start_months_since_1900": 828,
+            "end_months_since_1900": 848,
+            "length_in_months": 12
+        }
+    ],
+    "details": {
+        "First Name": "Monika",
+        "Middle Name": "NA",
+        "Last Name": "NA",
+        "Maiden Name": "Dannemann",
+        "Full Name at Birth": "Monika Dannemann",
+        "Alternative Name": "NA",
+        "Birthday": "1946",
+        "Birthplace": "D\u00fcsseldorf",
+        "Height": "NA",
+        "Weight": "NA",
+        "Zodiac Sign": "8",
+        "Sexuality": "Straight",
+        "Religion": "1",
+        "Ethnicity": "6",
+        "Nationality": "55",
+        "Occupation": "13"
+    }
+}

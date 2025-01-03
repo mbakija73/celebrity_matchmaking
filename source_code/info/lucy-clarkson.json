@@ -1,0 +1,55 @@
+{
+    "relationships": [
+        {
+            "name": "Vin Diesel",
+            "href": "https://www.whosdatedwho.com/dating/vin-diesel",
+            "relationship_type": 2,
+            "start_date": "2005",
+            "end_date": "2005",
+            "length": "-",
+            "start_months_since_1900": 1260,
+            "end_months_since_1900": 1260,
+            "length_in_months": -1
+        },
+        {
+            "name": "David Blaine",
+            "href": "https://www.whosdatedwho.com/dating/david-blaine",
+            "relationship_type": 2,
+            "start_date": "2004",
+            "end_date": "2004",
+            "length": "-",
+            "start_months_since_1900": 1248,
+            "end_months_since_1900": 1248,
+            "length_in_months": -1
+        },
+        {
+            "name": "Ritchie Neville",
+            "href": "https://www.whosdatedwho.com/dating/ritchie-neville",
+            "relationship_type": 2,
+            "start_date": "2000",
+            "end_date": "2000",
+            "length": "-",
+            "start_months_since_1900": 1200,
+            "end_months_since_1900": 1200,
+            "length_in_months": -1
+        }
+    ],
+    "details": {
+        "First Name": "Lucy",
+        "Middle Name": "NA",
+        "Last Name": "NA",
+        "Maiden Name": "Clarkson",
+        "Full Name at Birth": "Lucy Clarkson",
+        "Alternative Name": "NA",
+        "Birthday": "1982",
+        "Birthplace": "England",
+        "Height": "182",
+        "Weight": "NA",
+        "Zodiac Sign": "8",
+        "Sexuality": "Straight",
+        "Religion": "1",
+        "Ethnicity": "6",
+        "Nationality": "8",
+        "Occupation": "16"
+    }
+}

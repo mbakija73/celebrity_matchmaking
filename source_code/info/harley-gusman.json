@@ -1,0 +1,16 @@
+{
+    "relationships": [
+        {
+            "name": "Ruby Rose",
+            "href": "https://www.whosdatedwho.com/dating/ruby-rose",
+            "relationship_type": 2,
+            "start_date": "Jun 2016",
+            "end_date": "Aug 2016",
+            "length": "2 months",
+            "start_months_since_1900": 1397,
+            "end_months_since_1900": 1399,
+            "length_in_months": 2
+        }
+    ],
+    "details": {}
+}

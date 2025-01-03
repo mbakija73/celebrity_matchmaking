@@ -1,0 +1,88 @@
+{
+    "relationships": [
+        {
+            "name": "Dorothy Malone",
+            "href": "https://www.whosdatedwho.com/dating/dorothy-malone",
+            "relationship_type": 2,
+            "start_date": "Mar 1956",
+            "end_date": "Apr 1956",
+            "length": "1 month",
+            "start_months_since_1900": 674,
+            "end_months_since_1900": 675,
+            "length_in_months": 1
+        },
+        {
+            "name": "Diana Lynn",
+            "href": "https://www.whosdatedwho.com/dating/diana-lynn",
+            "relationship_type": 4,
+            "start_date": "Jan 1956",
+            "end_date": "Dec 1971",
+            "length": "15 years",
+            "start_months_since_1900": 672,
+            "end_months_since_1900": 863,
+            "length_in_months": 180
+        },
+        {
+            "name": "Rosemarie Stack",
+            "href": "https://www.whosdatedwho.com/dating/rosemarie-stack",
+            "relationship_type": 2,
+            "start_date": "Dec 1955",
+            "end_date": "Feb 1956",
+            "length": "2 months",
+            "start_months_since_1900": 671,
+            "end_months_since_1900": 673,
+            "length_in_months": 2
+        },
+        {
+            "name": "Coleen Gray",
+            "href": "https://www.whosdatedwho.com/dating/coleen-gray",
+            "relationship_type": 3,
+            "start_date": "1952",
+            "end_date": "1952",
+            "length": "-",
+            "start_months_since_1900": 624,
+            "end_months_since_1900": 624,
+            "length_in_months": -1
+        },
+        {
+            "name": "Ruth Roman",
+            "href": "https://www.whosdatedwho.com/dating/ruth-roman",
+            "relationship_type": 4,
+            "start_date": "Jul 1950",
+            "end_date": "Mar 1956",
+            "length": "5 years",
+            "start_months_since_1900": 606,
+            "end_months_since_1900": 674,
+            "length_in_months": 60
+        },
+        {
+            "name": "Lizabeth Scott",
+            "href": "https://www.whosdatedwho.com/dating/lizabeth-scott",
+            "relationship_type": 1,
+            "start_date": "",
+            "end_date": "",
+            "length": "-",
+            "start_months_since_1900": -1,
+            "end_months_since_1900": -1,
+            "length_in_months": -1
+        }
+    ],
+    "details": {
+        "First Name": "Mortimer",
+        "Middle Name": "NA",
+        "Last Name": "Hall",
+        "Maiden Name": "NA",
+        "Full Name at Birth": "NA",
+        "Alternative Name": "NA",
+        "Birthday": "1924",
+        "Birthplace": "New York",
+        "Height": "NA",
+        "Weight": "NA",
+        "Zodiac Sign": "8",
+        "Sexuality": "NA",
+        "Religion": "1",
+        "Ethnicity": "1",
+        "Nationality": "65",
+        "Occupation": "19"
+    }
+}

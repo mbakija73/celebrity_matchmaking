@@ -1,0 +1,88 @@
+{
+    "relationships": [
+        {
+            "name": "Padma Lakshmi",
+            "href": "https://www.whosdatedwho.com/dating/padma-lakshmi",
+            "relationship_type": 2,
+            "start_date": "2009",
+            "end_date": "20th Nov 2011",
+            "length": "2 years",
+            "start_months_since_1900": 1308,
+            "end_months_since_1900": 1342,
+            "length_in_months": 24
+        },
+        {
+            "name": "Allison Giannini",
+            "href": "https://www.whosdatedwho.com/dating/allison-giannini",
+            "relationship_type": 2,
+            "start_date": "2008",
+            "end_date": "2008",
+            "length": "-",
+            "start_months_since_1900": 1296,
+            "end_months_since_1900": 1296,
+            "length_in_months": -1
+        },
+        {
+            "name": "Elizabeth Hurley",
+            "href": "https://www.whosdatedwho.com/dating/elizabeth-hurley",
+            "relationship_type": 2,
+            "start_date": "2000",
+            "end_date": "2000",
+            "length": "-",
+            "start_months_since_1900": 1200,
+            "end_months_since_1900": 1200,
+            "length_in_months": -1
+        },
+        {
+            "name": "Tracy Richman",
+            "href": "https://www.whosdatedwho.com/dating/tracy-richman",
+            "relationship_type": 3,
+            "start_date": "1999",
+            "end_date": "1999",
+            "length": "-",
+            "start_months_since_1900": 1188,
+            "end_months_since_1900": 1188,
+            "length_in_months": -1
+        },
+        {
+            "name": "Princess Diana",
+            "href": "https://www.whosdatedwho.com/dating/princess-diana",
+            "relationship_type": 3,
+            "start_date": "1994",
+            "end_date": "1995",
+            "length": "1 year",
+            "start_months_since_1900": 1128,
+            "end_months_since_1900": 1140,
+            "length_in_months": 12
+        },
+        {
+            "name": "Birgit Cunningham",
+            "href": "https://www.whosdatedwho.com/dating/birgit-cunningham",
+            "relationship_type": 3,
+            "start_date": "",
+            "end_date": "",
+            "length": "-",
+            "start_months_since_1900": -1,
+            "end_months_since_1900": -1,
+            "length_in_months": -1
+        }
+    ],
+    "details": {
+        "First Name": "Theodore",
+        "Middle Name": "NA",
+        "Last Name": "Forstmann",
+        "Maiden Name": "NA",
+        "Full Name at Birth": "Theodore J. Forstmann",
+        "Alternative Name": "NA",
+        "Birthday": "1940",
+        "Birthplace": "USA",
+        "Height": "NA",
+        "Weight": "NA",
+        "Zodiac Sign": "9",
+        "Sexuality": "Straight",
+        "Religion": "1",
+        "Ethnicity": "6",
+        "Nationality": "91",
+        "Occupation": "7"
+    }
+}

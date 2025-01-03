@@ -1,0 +1,77 @@
+{
+    "relationships": [
+        {
+            "name": "Kathleen Hughes",
+            "href": "https://www.whosdatedwho.com/dating/kathleen-hughes",
+            "relationship_type": 2,
+            "start_date": "Jan 1954",
+            "end_date": "Mar 1954",
+            "length": "1 month",
+            "start_months_since_1900": 648,
+            "end_months_since_1900": 650,
+            "length_in_months": 1
+        },
+        {
+            "name": "Bella Darvi",
+            "href": "https://www.whosdatedwho.com/dating/bella-darvi",
+            "relationship_type": 2,
+            "start_date": "Dec 1953",
+            "end_date": "Jan 1954",
+            "length": "1 month",
+            "start_months_since_1900": 647,
+            "end_months_since_1900": 648,
+            "length_in_months": 1
+        },
+        {
+            "name": "Constance Smith",
+            "href": "https://www.whosdatedwho.com/dating/constance-smith",
+            "relationship_type": 2,
+            "start_date": "Aug 1953",
+            "end_date": "Aug 1953",
+            "length": "-",
+            "start_months_since_1900": 643,
+            "end_months_since_1900": 643,
+            "length_in_months": -1
+        },
+        {
+            "name": "Wanda Hendrix",
+            "href": "https://www.whosdatedwho.com/dating/wanda-hendrix",
+            "relationship_type": 3,
+            "start_date": "Mar 1951",
+            "end_date": "Apr 1951",
+            "length": "1 month",
+            "start_months_since_1900": 614,
+            "end_months_since_1900": 615,
+            "length_in_months": 1
+        },
+        {
+            "name": "Ginny Simms",
+            "href": "https://www.whosdatedwho.com/dating/ginny-simms",
+            "relationship_type": 4,
+            "start_date": "1951",
+            "end_date": "1952",
+            "length": "1 year",
+            "start_months_since_1900": 612,
+            "end_months_since_1900": 624,
+            "length_in_months": 12
+        }
+    ],
+    "details": {
+        "First Name": "Bob",
+        "Middle Name": "NA",
+        "Last Name": "Calhoun",
+        "Maiden Name": "NA",
+        "Full Name at Birth": "NA",
+        "Alternative Name": "NA",
+        "Birthday": "NA",
+        "Birthplace": "NA",
+        "Height": "NA",
+        "Weight": "NA",
+        "Zodiac Sign": "2",
+        "Sexuality": "NA",
+        "Religion": "1",
+        "Ethnicity": "1",
+        "Nationality": "65",
+        "Occupation": "19"
+    }
+}

@@ -1,0 +1,55 @@
+{
+    "relationships": [
+        {
+            "name": "George Sherwood",
+            "href": "https://www.whosdatedwho.com/dating/george-sherwood",
+            "relationship_type": 4,
+            "start_date": "May 1935",
+            "end_date": "May 1935",
+            "length": "-",
+            "start_months_since_1900": 424,
+            "end_months_since_1900": 424,
+            "length_in_months": -1
+        },
+        {
+            "name": "Jack White",
+            "href": "https://www.whosdatedwho.com/dating/jack-white-film-tv-producer",
+            "relationship_type": 4,
+            "start_date": "1927",
+            "end_date": "1931",
+            "length": "4 years",
+            "start_months_since_1900": 324,
+            "end_months_since_1900": 372,
+            "length_in_months": 48
+        },
+        {
+            "name": "Howard Hawks",
+            "href": "https://www.whosdatedwho.com/dating/howard-hawks",
+            "relationship_type": 2,
+            "start_date": "",
+            "end_date": "",
+            "length": "-",
+            "start_months_since_1900": -1,
+            "end_months_since_1900": -1,
+            "length_in_months": -1
+        }
+    ],
+    "details": {
+        "First Name": "Pauline",
+        "Middle Name": "NA",
+        "Last Name": "Starke",
+        "Maiden Name": "NA",
+        "Full Name at Birth": "NA",
+        "Alternative Name": "Pauline Starke",
+        "Birthday": "1901",
+        "Birthplace": "USA",
+        "Height": "160",
+        "Weight": "NA",
+        "Zodiac Sign": "13",
+        "Sexuality": "Straight",
+        "Religion": "1",
+        "Ethnicity": "6",
+        "Nationality": "91",
+        "Occupation": "8"
+    }
+}

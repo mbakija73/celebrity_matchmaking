@@ -1,0 +1,88 @@
+{
+    "relationships": [
+        {
+            "name": "Ryan Reynolds",
+            "href": "https://www.whosdatedwho.com/dating/ryan-reynolds",
+            "relationship_type": 4,
+            "start_date": "Oct 2011",
+            "end_date": "present",
+            "length": "13 years",
+            "start_months_since_1900": 1341,
+            "end_months_since_1900": -1,
+            "length_in_months": 156
+        },
+        {
+            "name": "Leonardo DiCaprio",
+            "href": "https://www.whosdatedwho.com/dating/leonardo-dicaprio",
+            "relationship_type": 2,
+            "start_date": "May 2011",
+            "end_date": "Oct 2011",
+            "length": "5 months",
+            "start_months_since_1900": 1336,
+            "end_months_since_1900": 1341,
+            "length_in_months": 5
+        },
+        {
+            "name": "Penn Badgley",
+            "href": "https://www.whosdatedwho.com/dating/penn-badgley",
+            "relationship_type": 2,
+            "start_date": "May 2007",
+            "end_date": "Sep 2010",
+            "length": "3 years",
+            "start_months_since_1900": 1288,
+            "end_months_since_1900": 1328,
+            "length_in_months": 36
+        },
+        {
+            "name": "Kelly Blatz",
+            "href": "https://www.whosdatedwho.com/dating/kelly-blatz",
+            "relationship_type": 2,
+            "start_date": "May 2004",
+            "end_date": "Apr 2007",
+            "length": "2 years",
+            "start_months_since_1900": 1252,
+            "end_months_since_1900": 1287,
+            "length_in_months": 24
+        },
+        {
+            "name": "DJ Snake",
+            "href": "https://www.whosdatedwho.com/dating/dj-snake",
+            "relationship_type": 1,
+            "start_date": "",
+            "end_date": "",
+            "length": "-",
+            "start_months_since_1900": -1,
+            "end_months_since_1900": -1,
+            "length_in_months": -1
+        },
+        {
+            "name": "Ryan Gosling",
+            "href": "https://www.whosdatedwho.com/dating/ryan-gosling",
+            "relationship_type": 1,
+            "start_date": "",
+            "end_date": "",
+            "length": "-",
+            "start_months_since_1900": -1,
+            "end_months_since_1900": -1,
+            "length_in_months": -1
+        }
+    ],
+    "details": {
+        "First Name": "Blake",
+        "Middle Name": "Ellender",
+        "Last Name": "Reynolds",
+        "Maiden Name": "Brown",
+        "Full Name at Birth": "Blake Ellender Brown",
+        "Alternative Name": "Blake Ellender Lively, Blake Ellender Reynolds",
+        "Birthday": "1987",
+        "Birthplace": "California",
+        "Height": "178",
+        "Weight": "135lbs (61 kg)",
+        "Zodiac Sign": "11",
+        "Sexuality": "Straight",
+        "Religion": "19",
+        "Ethnicity": "6",
+        "Nationality": "91",
+        "Occupation": "8"
+    }
+}

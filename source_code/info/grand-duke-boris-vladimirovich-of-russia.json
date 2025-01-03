@@ -1,0 +1,44 @@
+{
+    "relationships": [
+        {
+            "name": "Grand Duchess Olga",
+            "href": "https://www.whosdatedwho.com/dating/grand-duchess-olga-royalty",
+            "relationship_type": 2,
+            "start_date": "Feb 1916",
+            "end_date": "",
+            "length": "-",
+            "start_months_since_1900": 193,
+            "end_months_since_1900": -1,
+            "length_in_months": -1
+        },
+        {
+            "name": "Zinaida Rashevskaya",
+            "href": "https://www.whosdatedwho.com/dating/zinaida-rashevskaya",
+            "relationship_type": 1,
+            "start_date": "",
+            "end_date": "",
+            "length": "-",
+            "start_months_since_1900": -1,
+            "end_months_since_1900": -1,
+            "length_in_months": -1
+        }
+    ],
+    "details": {
+        "First Name": "Boris",
+        "Middle Name": "Vladimirovich",
+        "Last Name": "Romanov",
+        "Maiden Name": "NA",
+        "Full Name at Birth": "Grand Duke Boris Vladimirovich Romanov of Russia",
+        "Alternative Name": "Grand Duke Boris Vladimirovich of Russia",
+        "Birthday": "1877",
+        "Birthplace": "Russia",
+        "Height": "NA",
+        "Weight": "NA",
+        "Zodiac Sign": "6",
+        "Sexuality": "Straight",
+        "Religion": "24",
+        "Ethnicity": "6",
+        "Nationality": "9",
+        "Occupation": "18"
+    }
+}

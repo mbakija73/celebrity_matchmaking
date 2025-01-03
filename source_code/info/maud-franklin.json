@@ -1,0 +1,55 @@
+{
+    "relationships": [
+        {
+            "name": "Richard H.S. Abbott",
+            "href": "https://www.whosdatedwho.com/dating/richard-h-s-abbott",
+            "relationship_type": 4,
+            "start_date": "1911",
+            "end_date": "1941",
+            "length": "30 years",
+            "start_months_since_1900": 132,
+            "end_months_since_1900": 492,
+            "length_in_months": 360
+        },
+        {
+            "name": "John A. Little",
+            "href": "https://www.whosdatedwho.com/dating/john-a-little",
+            "relationship_type": 4,
+            "start_date": "1888",
+            "end_date": "1904",
+            "length": "16 years",
+            "start_months_since_1900": -144,
+            "end_months_since_1900": 48,
+            "length_in_months": 192
+        },
+        {
+            "name": "James Abbott McNeill Whistler",
+            "href": "https://www.whosdatedwho.com/dating/james-abbott-mcneill-whistler",
+            "relationship_type": 2,
+            "start_date": "1876",
+            "end_date": "1888",
+            "length": "12 years",
+            "start_months_since_1900": -288,
+            "end_months_since_1900": -144,
+            "length_in_months": 144
+        }
+    ],
+    "details": {
+        "First Name": "Maud",
+        "Middle Name": "NA",
+        "Last Name": "Franklin",
+        "Maiden Name": "NA",
+        "Full Name at Birth": "Maud Franklin",
+        "Alternative Name": "Maud Franklin, Mary M. Whistler, Mrs. Whistler, Clifton Lin",
+        "Birthday": "1857",
+        "Birthplace": "England",
+        "Height": "NA",
+        "Weight": "NA",
+        "Zodiac Sign": "13",
+        "Sexuality": "NA",
+        "Religion": "1",
+        "Ethnicity": "1",
+        "Nationality": "98",
+        "Occupation": "15"
+    }
+}

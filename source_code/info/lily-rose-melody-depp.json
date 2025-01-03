@@ -1,0 +1,77 @@
+{
+    "relationships": [
+        {
+            "name": "070 Shake",
+            "href": "https://www.whosdatedwho.com/dating/070-shake",
+            "relationship_type": 2,
+            "start_date": "Jan 2023",
+            "end_date": "present",
+            "length": "1 year",
+            "start_months_since_1900": 1476,
+            "end_months_since_1900": -1,
+            "length_in_months": 12
+        },
+        {
+            "name": "Austin Butler",
+            "href": "https://www.whosdatedwho.com/dating/austin-butler",
+            "relationship_type": 2,
+            "start_date": "2021",
+            "end_date": "2021",
+            "length": "-",
+            "start_months_since_1900": 1452,
+            "end_months_since_1900": 1452,
+            "length_in_months": -1
+        },
+        {
+            "name": "Timoth\u00e9e Chalamet",
+            "href": "https://www.whosdatedwho.com/dating/timothee-chalamet",
+            "relationship_type": 2,
+            "start_date": "2018",
+            "end_date": "Apr 2020",
+            "length": "2 years",
+            "start_months_since_1900": 1416,
+            "end_months_since_1900": 1443,
+            "length_in_months": 24
+        },
+        {
+            "name": "Ash Stymest",
+            "href": "https://www.whosdatedwho.com/dating/ash-stymest",
+            "relationship_type": 2,
+            "start_date": "Oct 2015",
+            "end_date": "Apr 2018",
+            "length": "2 years",
+            "start_months_since_1900": 1389,
+            "end_months_since_1900": 1419,
+            "length_in_months": 24
+        },
+        {
+            "name": "Yassine Stein",
+            "href": "https://www.whosdatedwho.com/dating/yassine-stein",
+            "relationship_type": 2,
+            "start_date": "2021",
+            "end_date": "",
+            "length": "-",
+            "start_months_since_1900": 1452,
+            "end_months_since_1900": -1,
+            "length_in_months": -1
+        }
+    ],
+    "details": {
+        "First Name": "Lily-Rose",
+        "Middle Name": "Melody",
+        "Last Name": "Depp",
+        "Maiden Name": "NA",
+        "Full Name at Birth": "Lily-Rose Melody Depp",
+        "Alternative Name": "Lily-Rose Depp, Lily Rose Depp, Lily-Rose Melody Depp",
+        "Birthday": "1999",
+        "Birthplace": "France",
+        "Height": "160",
+        "Weight": "NA",
+        "Zodiac Sign": "4",
+        "Sexuality": "Bisexual",
+        "Religion": "22",
+        "Ethnicity": "6",
+        "Nationality": "86",
+        "Occupation": "8"
+    }
+}

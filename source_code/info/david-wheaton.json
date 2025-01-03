@@ -1,0 +1,33 @@
+{
+    "relationships": [
+        {
+            "name": "Ann Coulter",
+            "href": "https://www.whosdatedwho.com/dating/ann-coulter",
+            "relationship_type": 2,
+            "start_date": "Sep 2006",
+            "end_date": "Oct 2006",
+            "length": "1 month",
+            "start_months_since_1900": 1280,
+            "end_months_since_1900": 1281,
+            "length_in_months": 1
+        }
+    ],
+    "details": {
+        "First Name": "David",
+        "Middle Name": "NA",
+        "Last Name": "Wheaton",
+        "Maiden Name": "NA",
+        "Full Name at Birth": "NA",
+        "Alternative Name": "NA",
+        "Birthday": "1969",
+        "Birthplace": "USA",
+        "Height": "193",
+        "Weight": "190lbs (86 kg)",
+        "Zodiac Sign": "4",
+        "Sexuality": "Straight",
+        "Religion": "33",
+        "Ethnicity": "6",
+        "Nationality": "91",
+        "Occupation": "16"
+    }
+}

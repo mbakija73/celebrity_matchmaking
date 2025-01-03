@@ -1,0 +1,77 @@
+{
+    "relationships": [
+        {
+            "name": "Mary Hosford",
+            "href": "https://www.whosdatedwho.com/dating/mary-hosford",
+            "relationship_type": 4,
+            "start_date": "1958",
+            "end_date": "1992",
+            "length": "34 years",
+            "start_months_since_1900": 696,
+            "end_months_since_1900": 1104,
+            "length_in_months": 408
+        },
+        {
+            "name": "Eleanore Searle",
+            "href": "https://www.whosdatedwho.com/dating/eleanore-searle",
+            "relationship_type": 4,
+            "start_date": "1940",
+            "end_date": "1958",
+            "length": "18 years",
+            "start_months_since_1900": 480,
+            "end_months_since_1900": 696,
+            "length_in_months": 216
+        },
+        {
+            "name": "Gladys Hopkins",
+            "href": "https://www.whosdatedwho.com/dating/gladys-hopkins",
+            "relationship_type": 4,
+            "start_date": "1931",
+            "end_date": "1940",
+            "length": "9 years",
+            "start_months_since_1900": 372,
+            "end_months_since_1900": 480,
+            "length_in_months": 108
+        },
+        {
+            "name": "Marie Whitney",
+            "href": "https://www.whosdatedwho.com/dating/marie-whitney",
+            "relationship_type": 4,
+            "start_date": "1923",
+            "end_date": "1929",
+            "length": "6 years",
+            "start_months_since_1900": 276,
+            "end_months_since_1900": 348,
+            "length_in_months": 72
+        },
+        {
+            "name": "Evan Burrows Fontaine",
+            "href": "https://www.whosdatedwho.com/dating/evan-burrows-fontaine",
+            "relationship_type": 2,
+            "start_date": "1920",
+            "end_date": "1922",
+            "length": "2 years",
+            "start_months_since_1900": 240,
+            "end_months_since_1900": 264,
+            "length_in_months": 24
+        }
+    ],
+    "details": {
+        "First Name": "Cornelius",
+        "Middle Name": "Vanderbilt",
+        "Last Name": "Whitney",
+        "Maiden Name": "NA",
+        "Full Name at Birth": "NA",
+        "Alternative Name": "Sonny Vanderbilt, C.V. Vanderbilt",
+        "Birthday": "1899",
+        "Birthplace": "New York",
+        "Height": "NA",
+        "Weight": "NA",
+        "Zodiac Sign": "1",
+        "Sexuality": "NA",
+        "Religion": "1",
+        "Ethnicity": "1",
+        "Nationality": "91",
+        "Occupation": "18"
+    }
+}

@@ -1,0 +1,88 @@
+{
+    "relationships": [
+        {
+            "name": "Gerry Mulligan",
+            "href": "https://www.whosdatedwho.com/dating/gerry-mulligan",
+            "relationship_type": 2,
+            "start_date": "1958",
+            "end_date": "1965",
+            "length": "7 years",
+            "start_months_since_1900": 696,
+            "end_months_since_1900": 780,
+            "length_in_months": 84
+        },
+        {
+            "name": "Sydney Chaplin",
+            "href": "https://www.whosdatedwho.com/dating/sydney-chaplin",
+            "relationship_type": 2,
+            "start_date": "1957",
+            "end_date": "1957",
+            "length": "-",
+            "start_months_since_1900": 684,
+            "end_months_since_1900": 684,
+            "length_in_months": -1
+        },
+        {
+            "name": "Peter Lawford",
+            "href": "https://www.whosdatedwho.com/dating/peter-lawford",
+            "relationship_type": 2,
+            "start_date": "1953",
+            "end_date": "1953",
+            "length": "-",
+            "start_months_since_1900": 636,
+            "end_months_since_1900": 636,
+            "length_in_months": -1
+        },
+        {
+            "name": "David Oppenheim",
+            "href": "https://www.whosdatedwho.com/dating/david-oppenheim-musician",
+            "relationship_type": 4,
+            "start_date": "Jan 1948",
+            "end_date": "Mar 1958",
+            "length": "10 years",
+            "start_months_since_1900": 576,
+            "end_months_since_1900": 698,
+            "length_in_months": 120
+        },
+        {
+            "name": "Nicholas Ray",
+            "href": "https://www.whosdatedwho.com/dating/nicholas-ray",
+            "relationship_type": 2,
+            "start_date": "1944",
+            "end_date": "1944",
+            "length": "-",
+            "start_months_since_1900": 528,
+            "end_months_since_1900": 528,
+            "length_in_months": -1
+        },
+        {
+            "name": "Dave Oppenheim",
+            "href": "https://www.whosdatedwho.com/dating/dave-oppenheim",
+            "relationship_type": 1,
+            "start_date": "0001",
+            "end_date": "0001",
+            "length": "-",
+            "start_months_since_1900": -22788,
+            "end_months_since_1900": -22788,
+            "length_in_months": -1
+        }
+    ],
+    "details": {
+        "First Name": "Judy",
+        "Middle Name": "NA",
+        "Last Name": "Holliday",
+        "Maiden Name": "Tuvim",
+        "Full Name at Birth": "Judith Tuvim",
+        "Alternative Name": "Judith Tuvim, Judy Holliday",
+        "Birthday": "1921",
+        "Birthplace": "USA",
+        "Height": "173",
+        "Weight": "132lbs (60 kg)",
+        "Zodiac Sign": "4",
+        "Sexuality": "Straight",
+        "Religion": "31",
+        "Ethnicity": "6",
+        "Nationality": "91",
+        "Occupation": "8"
+    }
+}

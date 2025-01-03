@@ -1,0 +1,44 @@
+{
+    "relationships": [
+        {
+            "name": "Jon Tenney",
+            "href": "https://www.whosdatedwho.com/dating/jon-tenney",
+            "relationship_type": 4,
+            "start_date": "May 2009",
+            "end_date": "present",
+            "length": "15 years",
+            "start_months_since_1900": 1312,
+            "end_months_since_1900": -1,
+            "length_in_months": 180
+        },
+        {
+            "name": "Rob Morrow",
+            "href": "https://www.whosdatedwho.com/dating/rob-morrow",
+            "relationship_type": 2,
+            "start_date": "1990",
+            "end_date": "1995",
+            "length": "5 years",
+            "start_months_since_1900": 1080,
+            "end_months_since_1900": 1140,
+            "length_in_months": 60
+        }
+    ],
+    "details": {
+        "First Name": "Leslie",
+        "Middle Name": "NA",
+        "Last Name": "Urdang",
+        "Maiden Name": "NA",
+        "Full Name at Birth": "Leslie R. Urdang",
+        "Alternative Name": "Leslie R. Urdang",
+        "Birthday": "1956",
+        "Birthplace": "United States",
+        "Height": "NA",
+        "Weight": "NA",
+        "Zodiac Sign": "1",
+        "Sexuality": "Straight",
+        "Religion": "1",
+        "Ethnicity": "6",
+        "Nationality": "91",
+        "Occupation": "7"
+    }
+}

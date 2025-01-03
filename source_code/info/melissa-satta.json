@@ -1,0 +1,77 @@
+{
+    "relationships": [
+        {
+            "name": "Kobe Bryant",
+            "href": "https://www.whosdatedwho.com/dating/kobe-bryant",
+            "relationship_type": 3,
+            "start_date": "Oct 2011",
+            "end_date": "Oct 2011",
+            "length": "-",
+            "start_months_since_1900": 1341,
+            "end_months_since_1900": 1341,
+            "length_in_months": -1
+        },
+        {
+            "name": "Kevin-Prince Boateng",
+            "href": "https://www.whosdatedwho.com/dating/kevin-prince-boateng",
+            "relationship_type": 4,
+            "start_date": "Oct 2011",
+            "end_date": "Dec 2020",
+            "length": "9 years",
+            "start_months_since_1900": 1341,
+            "end_months_since_1900": 1451,
+            "length_in_months": 108
+        },
+        {
+            "name": "Gianluca Vacchi",
+            "href": "https://www.whosdatedwho.com/dating/gianluca-vacchi",
+            "relationship_type": 2,
+            "start_date": "Sep 2011",
+            "end_date": "Sep 2011",
+            "length": "-",
+            "start_months_since_1900": 1340,
+            "end_months_since_1900": 1340,
+            "length_in_months": -1
+        },
+        {
+            "name": "Christian Vieri",
+            "href": "https://www.whosdatedwho.com/dating/christian-vieri",
+            "relationship_type": 2,
+            "start_date": "2006",
+            "end_date": "Apr 2011",
+            "length": "5 years",
+            "start_months_since_1900": 1272,
+            "end_months_since_1900": 1335,
+            "length_in_months": 60
+        },
+        {
+            "name": "Daniele Interrante",
+            "href": "https://www.whosdatedwho.com/dating/daniele-interrante",
+            "relationship_type": 2,
+            "start_date": "2003",
+            "end_date": "2006",
+            "length": "3 years",
+            "start_months_since_1900": 1236,
+            "end_months_since_1900": 1272,
+            "length_in_months": 36
+        }
+    ],
+    "details": {
+        "First Name": "Melissa",
+        "Middle Name": "NA",
+        "Last Name": "NA",
+        "Maiden Name": "Satta",
+        "Full Name at Birth": "Melissa Satta",
+        "Alternative Name": "NA",
+        "Birthday": "1986",
+        "Birthplace": "USA",
+        "Height": "175",
+        "Weight": "128lbs (58 kg)",
+        "Zodiac Sign": "9",
+        "Sexuality": "Straight",
+        "Religion": "1",
+        "Ethnicity": "6",
+        "Nationality": "139",
+        "Occupation": "11"
+    }
+}

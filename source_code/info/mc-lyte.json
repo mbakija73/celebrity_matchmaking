@@ -1,0 +1,88 @@
+{
+    "relationships": [
+        {
+            "name": "John Wyche",
+            "href": "https://www.whosdatedwho.com/dating/john-wyche",
+            "relationship_type": 4,
+            "start_date": "Aug 2017",
+            "end_date": "Jan 2023",
+            "length": "5 years",
+            "start_months_since_1900": 1411,
+            "end_months_since_1900": 1476,
+            "length_in_months": 60
+        },
+        {
+            "name": "Janelle Mon\u00e1e",
+            "href": "https://www.whosdatedwho.com/dating/janelle-monae",
+            "relationship_type": 3,
+            "start_date": "2015",
+            "end_date": "2015",
+            "length": "-",
+            "start_months_since_1900": 1380,
+            "end_months_since_1900": 1380,
+            "length_in_months": -1
+        },
+        {
+            "name": "Todd 1",
+            "href": "https://www.whosdatedwho.com/dating/todd-1",
+            "relationship_type": 2,
+            "start_date": "1992",
+            "end_date": "1993",
+            "length": "1 year",
+            "start_months_since_1900": 1104,
+            "end_months_since_1900": 1116,
+            "length_in_months": 12
+        },
+        {
+            "name": "Q-Tip",
+            "href": "https://www.whosdatedwho.com/dating/q-tip",
+            "relationship_type": 2,
+            "start_date": "",
+            "end_date": "",
+            "length": "-",
+            "start_months_since_1900": -1,
+            "end_months_since_1900": -1,
+            "length_in_months": -1
+        },
+        {
+            "name": "Martin Lawrence",
+            "href": "https://www.whosdatedwho.com/dating/martin-lawrence",
+            "relationship_type": 2,
+            "start_date": "",
+            "end_date": "",
+            "length": "-",
+            "start_months_since_1900": -1,
+            "end_months_since_1900": -1,
+            "length_in_months": -1
+        },
+        {
+            "name": "Tichina Arnold",
+            "href": "https://www.whosdatedwho.com/dating/tichina-arnold",
+            "relationship_type": 3,
+            "start_date": "",
+            "end_date": "",
+            "length": "-",
+            "start_months_since_1900": -1,
+            "end_months_since_1900": -1,
+            "length_in_months": -1
+        }
+    ],
+    "details": {
+        "First Name": "MC",
+        "Middle Name": "NA",
+        "Last Name": "Lyte",
+        "Maiden Name": "NA",
+        "Full Name at Birth": "Lana Michele Moorer",
+        "Alternative Name": "MC Lyte",
+        "Birthday": "1970",
+        "Birthplace": "USA",
+        "Height": "163",
+        "Weight": "146lbs (66 kg)",
+        "Zodiac Sign": "10",
+        "Sexuality": "Bisexual",
+        "Religion": "18",
+        "Ethnicity": "2",
+        "Nationality": "91",
+        "Occupation": "1"
+    }
+}

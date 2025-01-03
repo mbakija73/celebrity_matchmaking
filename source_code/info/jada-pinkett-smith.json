@@ -1,0 +1,99 @@
+{
+    "relationships": [
+        {
+            "name": "August Alsina",
+            "href": "https://www.whosdatedwho.com/dating/august-alsina",
+            "relationship_type": 2,
+            "start_date": "Aug 2017",
+            "end_date": "Feb 2019",
+            "length": "1 year",
+            "start_months_since_1900": 1411,
+            "end_months_since_1900": 1429,
+            "length_in_months": 12
+        },
+        {
+            "name": "Will Smith",
+            "href": "https://www.whosdatedwho.com/dating/will-smith",
+            "relationship_type": 4,
+            "start_date": "Aug 1995",
+            "end_date": "present",
+            "length": "29 years",
+            "start_months_since_1900": 1147,
+            "end_months_since_1900": -1,
+            "length_in_months": 348
+        },
+        {
+            "name": "Wesley Snipes",
+            "href": "https://www.whosdatedwho.com/dating/wesley-snipes",
+            "relationship_type": 2,
+            "start_date": "Feb 1993",
+            "end_date": "May 1993",
+            "length": "2 months",
+            "start_months_since_1900": 1117,
+            "end_months_since_1900": 1120,
+            "length_in_months": 2
+        },
+        {
+            "name": "Grant Hill",
+            "href": "https://www.whosdatedwho.com/dating/grant-hill",
+            "relationship_type": 2,
+            "start_date": "Apr 1992",
+            "end_date": "Jun 1995",
+            "length": "3 years",
+            "start_months_since_1900": 1107,
+            "end_months_since_1900": 1145,
+            "length_in_months": 36
+        },
+        {
+            "name": "Todd 1",
+            "href": "https://www.whosdatedwho.com/dating/todd-1",
+            "relationship_type": 3,
+            "start_date": "1992",
+            "end_date": "1992",
+            "length": "-",
+            "start_months_since_1900": 1104,
+            "end_months_since_1900": 1104,
+            "length_in_months": -1
+        },
+        {
+            "name": "Tupac Shakur",
+            "href": "https://www.whosdatedwho.com/dating/tupac-shakur",
+            "relationship_type": 2,
+            "start_date": "1986",
+            "end_date": "1988",
+            "length": "2 years",
+            "start_months_since_1900": 1032,
+            "end_months_since_1900": 1056,
+            "length_in_months": 24
+        },
+        {
+            "name": "Dalvin DeGrate",
+            "href": "https://www.whosdatedwho.com/dating/dalvin-degrate",
+            "relationship_type": 3,
+            "start_date": "",
+            "end_date": "",
+            "length": "-",
+            "start_months_since_1900": -1,
+            "end_months_since_1900": -1,
+            "length_in_months": -1
+        }
+    ],
+    "details": {
+        "First Name": "Jada",
+        "Middle Name": "Koren",
+        "Last Name": "Smith",
+        "Maiden Name": "Pinkett",
+        "Full Name at Birth": "Jada Koren Pinkett",
+        "Alternative Name": "Jada Pinket Smith, Jada Pinkett Smith, Jada Koren Pinkett-Smith",
+        "Birthday": "1971",
+        "Birthplace": "USA",
+        "Height": "152",
+        "Weight": "110lbs (50 kg)",
+        "Zodiac Sign": "11",
+        "Sexuality": "Straight",
+        "Religion": "18",
+        "Ethnicity": "8",
+        "Nationality": "91",
+        "Occupation": "8"
+    }
+}

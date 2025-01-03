@@ -1,0 +1,44 @@
+{
+    "relationships": [
+        {
+            "name": "Piotr Adamczyk",
+            "href": "https://www.whosdatedwho.com/dating/piotr-adamczyk",
+            "relationship_type": 4,
+            "start_date": "Jun 2011",
+            "end_date": "Mar 2013",
+            "length": "1 year",
+            "start_months_since_1900": 1337,
+            "end_months_since_1900": 1358,
+            "length_in_months": 12
+        },
+        {
+            "name": "Jean-Manuel Rozan",
+            "href": "https://www.whosdatedwho.com/dating/jean-manuel-rozan",
+            "relationship_type": 4,
+            "start_date": "2002",
+            "end_date": "2008",
+            "length": "6 years",
+            "start_months_since_1900": 1224,
+            "end_months_since_1900": 1296,
+            "length_in_months": 72
+        }
+    ],
+    "details": {
+        "First Name": "Katarzyna",
+        "Middle Name": "NA",
+        "Last Name": "Gwizdala",
+        "Maiden Name": "NA",
+        "Full Name at Birth": "Katarzyna Gwizda\u0142a",
+        "Alternative Name": "Kate Rozz",
+        "Birthday": "1979",
+        "Birthplace": "Poland",
+        "Height": "NA",
+        "Weight": "NA",
+        "Zodiac Sign": "2",
+        "Sexuality": "NA",
+        "Religion": "1",
+        "Ethnicity": "6",
+        "Nationality": "114",
+        "Occupation": "19"
+    }
+}

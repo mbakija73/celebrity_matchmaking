@@ -1,0 +1,44 @@
+{
+    "relationships": [
+        {
+            "name": "Jayne Sharp",
+            "href": "https://www.whosdatedwho.com/dating/jayne-sharp",
+            "relationship_type": 4,
+            "start_date": "2006",
+            "end_date": "Nov 2011",
+            "length": "5 years",
+            "start_months_since_1900": 1272,
+            "end_months_since_1900": 1342,
+            "length_in_months": 60
+        },
+        {
+            "name": "Emma Pontefract",
+            "href": "https://www.whosdatedwho.com/dating/emma-pontefract",
+            "relationship_type": 4,
+            "start_date": "2001",
+            "end_date": "1st Sep 2006",
+            "length": "5 years",
+            "start_months_since_1900": 1212,
+            "end_months_since_1900": 1280,
+            "length_in_months": 60
+        }
+    ],
+    "details": {
+        "First Name": "Dave",
+        "Middle Name": "NA",
+        "Last Name": "Vitty",
+        "Maiden Name": "NA",
+        "Full Name at Birth": "David Lloyd Vitty",
+        "Alternative Name": "Comedy Dave",
+        "Birthday": "1974",
+        "Birthplace": "Hong Kong",
+        "Height": "NA",
+        "Weight": "NA",
+        "Zodiac Sign": "3",
+        "Sexuality": "Straight",
+        "Religion": "1",
+        "Ethnicity": "1",
+        "Nationality": "8",
+        "Occupation": "16"
+    }
+}

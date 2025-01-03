@@ -1,0 +1,44 @@
+{
+    "relationships": [
+        {
+            "name": "Claude Jade",
+            "href": "https://www.whosdatedwho.com/dating/claude-jade",
+            "relationship_type": 2,
+            "start_date": "Feb 1971",
+            "end_date": "Aug 1971",
+            "length": "6 months",
+            "start_months_since_1900": 853,
+            "end_months_since_1900": 859,
+            "length_in_months": 6
+        },
+        {
+            "name": "Isabelle De Fun\u00e8s",
+            "href": "https://www.whosdatedwho.com/dating/isabelle-de-funes",
+            "relationship_type": 4,
+            "start_date": "May 1970",
+            "end_date": "Oct 1971",
+            "length": "1 year",
+            "start_months_since_1900": 844,
+            "end_months_since_1900": 861,
+            "length_in_months": 12
+        }
+    ],
+    "details": {
+        "First Name": "Michel",
+        "Middle Name": "NA",
+        "Last Name": "Duchaussoy",
+        "Maiden Name": "NA",
+        "Full Name at Birth": "Michel Ren\u00e9 Jacques Duchaussoy",
+        "Alternative Name": "NA",
+        "Birthday": "1938",
+        "Birthplace": "France",
+        "Height": "173",
+        "Weight": "NA",
+        "Zodiac Sign": "6",
+        "Sexuality": "NA",
+        "Religion": "1",
+        "Ethnicity": "6",
+        "Nationality": "86",
+        "Occupation": "8"
+    }
+}

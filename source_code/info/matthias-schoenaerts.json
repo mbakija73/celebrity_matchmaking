@@ -1,0 +1,44 @@
+{
+    "relationships": [
+        {
+            "name": "Pia Miller",
+            "href": "https://www.whosdatedwho.com/dating/pia-miller",
+            "relationship_type": 3,
+            "start_date": "Jun 2019",
+            "end_date": "Jun 2019",
+            "length": "-",
+            "start_months_since_1900": 1433,
+            "end_months_since_1900": 1433,
+            "length_in_months": -1
+        },
+        {
+            "name": "Alexandra Schouteden",
+            "href": "https://www.whosdatedwho.com/dating/alexandra-schouteden",
+            "relationship_type": 2,
+            "start_date": "2010",
+            "end_date": "Apr 2015",
+            "length": "5 years",
+            "start_months_since_1900": 1320,
+            "end_months_since_1900": 1383,
+            "length_in_months": 60
+        }
+    ],
+    "details": {
+        "First Name": "Matthias",
+        "Middle Name": "NA",
+        "Last Name": "Schoenaerts",
+        "Maiden Name": "NA",
+        "Full Name at Birth": "Matthias Schoenaerts",
+        "Alternative Name": "NA",
+        "Birthday": "1977",
+        "Birthplace": "Belgium",
+        "Height": "186",
+        "Weight": "NA",
+        "Zodiac Sign": "6",
+        "Sexuality": "Straight",
+        "Religion": "18",
+        "Ethnicity": "6",
+        "Nationality": "110",
+        "Occupation": "8"
+    }
+}

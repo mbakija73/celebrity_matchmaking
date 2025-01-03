@@ -1,0 +1,88 @@
+{
+    "relationships": [
+        {
+            "name": "Carl Jones",
+            "href": "https://www.whosdatedwho.com/dating/carl-jones",
+            "relationship_type": 2,
+            "start_date": "2013",
+            "end_date": "2013",
+            "length": "-",
+            "start_months_since_1900": 1356,
+            "end_months_since_1900": 1356,
+            "length_in_months": -1
+        },
+        {
+            "name": "Jay Electronica",
+            "href": "https://www.whosdatedwho.com/dating/jay-electronica",
+            "relationship_type": 2,
+            "start_date": "2004",
+            "end_date": "Apr 2009",
+            "length": "5 years",
+            "start_months_since_1900": 1248,
+            "end_months_since_1900": 1311,
+            "length_in_months": 60
+        },
+        {
+            "name": "The D.O.C.",
+            "href": "https://www.whosdatedwho.com/dating/the-d-o-c",
+            "relationship_type": 2,
+            "start_date": "2003",
+            "end_date": "2003",
+            "length": "-",
+            "start_months_since_1900": 1236,
+            "end_months_since_1900": 1236,
+            "length_in_months": -1
+        },
+        {
+            "name": "Common",
+            "href": "https://www.whosdatedwho.com/dating/common",
+            "relationship_type": 2,
+            "start_date": "2000",
+            "end_date": "2002",
+            "length": "2 years",
+            "start_months_since_1900": 1200,
+            "end_months_since_1900": 1224,
+            "length_in_months": 24
+        },
+        {
+            "name": "Andr\u00e9 3000",
+            "href": "https://www.whosdatedwho.com/dating/andre-benjamin",
+            "relationship_type": 2,
+            "start_date": "1996",
+            "end_date": "1997",
+            "length": "1 year",
+            "start_months_since_1900": 1152,
+            "end_months_since_1900": 1164,
+            "length_in_months": 12
+        },
+        {
+            "name": "Cytherea",
+            "href": "https://www.whosdatedwho.com/dating/cytherea",
+            "relationship_type": 3,
+            "start_date": "",
+            "end_date": "",
+            "length": "-",
+            "start_months_since_1900": -1,
+            "end_months_since_1900": -1,
+            "length_in_months": -1
+        }
+    ],
+    "details": {
+        "First Name": "Erykah",
+        "Middle Name": "NA",
+        "Last Name": "Badu",
+        "Maiden Name": "Wright",
+        "Full Name at Birth": "Erica Abi Wright",
+        "Alternative Name": "NA",
+        "Birthday": "1971",
+        "Birthplace": "USA",
+        "Height": "152",
+        "Weight": "NA",
+        "Zodiac Sign": "1",
+        "Sexuality": "Straight",
+        "Religion": "1",
+        "Ethnicity": "2",
+        "Nationality": "91",
+        "Occupation": "1"
+    }
+}

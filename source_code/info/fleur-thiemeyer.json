@@ -1,0 +1,66 @@
+{
+    "relationships": [
+        {
+            "name": "Mike Tramp",
+            "href": "https://www.whosdatedwho.com/dating/mike-tramp",
+            "relationship_type": 4,
+            "start_date": "1987",
+            "end_date": "1987",
+            "length": "-",
+            "start_months_since_1900": 1044,
+            "end_months_since_1900": 1044,
+            "length_in_months": -1
+        },
+        {
+            "name": "David Lee Roth",
+            "href": "https://www.whosdatedwho.com/dating/david-lee-roth",
+            "relationship_type": 3,
+            "start_date": "1986",
+            "end_date": "1986",
+            "length": "-",
+            "start_months_since_1900": 1032,
+            "end_months_since_1900": 1032,
+            "length_in_months": -1
+        },
+        {
+            "name": "Billy Squier",
+            "href": "https://www.whosdatedwho.com/dating/billy-squier",
+            "relationship_type": 2,
+            "start_date": "1981",
+            "end_date": "1983",
+            "length": "2 years",
+            "start_months_since_1900": 972,
+            "end_months_since_1900": 996,
+            "length_in_months": 24
+        },
+        {
+            "name": "Andy Gibb",
+            "href": "https://www.whosdatedwho.com/dating/andy-gibb",
+            "relationship_type": 3,
+            "start_date": "Jan 1978",
+            "end_date": "Mar 1978",
+            "length": "1 month",
+            "start_months_since_1900": 936,
+            "end_months_since_1900": 938,
+            "length_in_months": 1
+        }
+    ],
+    "details": {
+        "First Name": "Fleur",
+        "Middle Name": "NA",
+        "Last Name": "NA",
+        "Maiden Name": "Thiemeyer",
+        "Full Name at Birth": "Fleur Thiemeyer",
+        "Alternative Name": "NA",
+        "Birthday": "NA",
+        "Birthplace": "Australia",
+        "Height": "NA",
+        "Weight": "NA",
+        "Zodiac Sign": "2",
+        "Sexuality": "Straight",
+        "Religion": "1",
+        "Ethnicity": "6",
+        "Nationality": "135",
+        "Occupation": "9"
+    }
+}

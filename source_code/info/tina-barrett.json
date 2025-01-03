@@ -1,0 +1,66 @@
+{
+    "relationships": [
+        {
+            "name": "Paul Cashmore",
+            "href": "https://www.whosdatedwho.com/dating/paul-cashmore",
+            "relationship_type": 2,
+            "start_date": "2012",
+            "end_date": "2019",
+            "length": "7 years",
+            "start_months_since_1900": 1344,
+            "end_months_since_1900": 1428,
+            "length_in_months": 84
+        },
+        {
+            "name": "David Schwimmer",
+            "href": "https://www.whosdatedwho.com/dating/david-schwimmer",
+            "relationship_type": 2,
+            "start_date": "27th Jun 2004",
+            "end_date": "29th Jun 2004",
+            "length": "< 1 month",
+            "start_months_since_1900": 1253,
+            "end_months_since_1900": 1253,
+            "length_in_months": 0
+        },
+        {
+            "name": "Tom Hulme (Google Ventures)",
+            "href": "https://www.whosdatedwho.com/dating/tom-hulme-google-ventures",
+            "relationship_type": 2,
+            "start_date": "2002",
+            "end_date": "Mar 2004",
+            "length": "2 years",
+            "start_months_since_1900": 1224,
+            "end_months_since_1900": 1250,
+            "length_in_months": 24
+        },
+        {
+            "name": "Fred Durst",
+            "href": "https://www.whosdatedwho.com/dating/fred-durst",
+            "relationship_type": 2,
+            "start_date": "",
+            "end_date": "",
+            "length": "-",
+            "start_months_since_1900": -1,
+            "end_months_since_1900": -1,
+            "length_in_months": -1
+        }
+    ],
+    "details": {
+        "First Name": "Tina",
+        "Middle Name": "Ann",
+        "Last Name": "NA",
+        "Maiden Name": "Barrett",
+        "Full Name at Birth": "Tina Ann Barrett",
+        "Alternative Name": "Tina Bell, Teeny",
+        "Birthday": "1976",
+        "Birthplace": "England",
+        "Height": "168",
+        "Weight": "NA",
+        "Zodiac Sign": "11",
+        "Sexuality": "Straight",
+        "Religion": "1",
+        "Ethnicity": "6",
+        "Nationality": "8",
+        "Occupation": "1"
+    }
+}

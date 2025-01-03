@@ -1,0 +1,55 @@
+{
+    "relationships": [
+        {
+            "name": "Thais Porto",
+            "href": "https://www.whosdatedwho.com/dating/thais-porto",
+            "relationship_type": 2,
+            "start_date": "Dec 2012",
+            "end_date": "present",
+            "length": "11 years",
+            "start_months_since_1900": 1355,
+            "end_months_since_1900": -1,
+            "length_in_months": 132
+        },
+        {
+            "name": "Zoe Aggeliki",
+            "href": "https://www.whosdatedwho.com/dating/zoe-aggeliki",
+            "relationship_type": 2,
+            "start_date": "Nov 2012",
+            "end_date": "Nov 2012",
+            "length": "-",
+            "start_months_since_1900": 1354,
+            "end_months_since_1900": 1354,
+            "length_in_months": -1
+        },
+        {
+            "name": "Paloma Bernardi",
+            "href": "https://www.whosdatedwho.com/dating/paloma-bernardi",
+            "relationship_type": 2,
+            "start_date": "Apr 2011",
+            "end_date": "Feb 2012",
+            "length": "10 months",
+            "start_months_since_1900": 1335,
+            "end_months_since_1900": 1345,
+            "length_in_months": 10
+        }
+    ],
+    "details": {
+        "First Name": "Bernardo",
+        "Middle Name": "NA",
+        "Last Name": "Velasco",
+        "Maiden Name": "NA",
+        "Full Name at Birth": "Bernardo Velasco",
+        "Alternative Name": "Bernardo Velasco",
+        "Birthday": "1986",
+        "Birthplace": "Brasil",
+        "Height": "178",
+        "Weight": "NA",
+        "Zodiac Sign": "9",
+        "Sexuality": "NA",
+        "Religion": "1",
+        "Ethnicity": "6",
+        "Nationality": "87",
+        "Occupation": "15"
+    }
+}

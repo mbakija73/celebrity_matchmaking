@@ -1,0 +1,55 @@
+{
+    "relationships": [
+        {
+            "name": "Carolyn (dated Jon Moss)",
+            "href": "https://www.whosdatedwho.com/dating/carolyn",
+            "relationship_type": 2,
+            "start_date": "",
+            "end_date": "",
+            "length": "-",
+            "start_months_since_1900": -1,
+            "end_months_since_1900": -1,
+            "length_in_months": -1
+        },
+        {
+            "name": "Boy George",
+            "href": "https://www.whosdatedwho.com/dating/boy-george",
+            "relationship_type": 2,
+            "start_date": "",
+            "end_date": "1986",
+            "length": "-",
+            "start_months_since_1900": -1,
+            "end_months_since_1900": 1032,
+            "length_in_months": -1
+        },
+        {
+            "name": "Barbara",
+            "href": "https://www.whosdatedwho.com/dating/barbara",
+            "relationship_type": 4,
+            "start_date": "",
+            "end_date": "",
+            "length": "-",
+            "start_months_since_1900": -1,
+            "end_months_since_1900": -1,
+            "length_in_months": -1
+        }
+    ],
+    "details": {
+        "First Name": "Jon",
+        "Middle Name": "Aubrey",
+        "Last Name": "Moss",
+        "Maiden Name": "NA",
+        "Full Name at Birth": "Jonathan Aubrey Moss",
+        "Alternative Name": "NA",
+        "Birthday": "1957",
+        "Birthplace": "UK",
+        "Height": "175",
+        "Weight": "NA",
+        "Zodiac Sign": "11",
+        "Sexuality": "Bisexual",
+        "Religion": "1",
+        "Ethnicity": "6",
+        "Nationality": "98",
+        "Occupation": "1"
+    }
+}

@@ -1,0 +1,55 @@
+{
+    "relationships": [
+        {
+            "name": "Rhonda Fleming",
+            "href": "https://www.whosdatedwho.com/dating/rhonda-fleming",
+            "relationship_type": 2,
+            "start_date": "Feb 1950",
+            "end_date": "Jan 1952",
+            "length": "1 year",
+            "start_months_since_1900": 601,
+            "end_months_since_1900": 624,
+            "length_in_months": 12
+        },
+        {
+            "name": "Beryl Braithwaite",
+            "href": "https://www.whosdatedwho.com/dating/beryl-braithwaite",
+            "relationship_type": 1,
+            "start_date": "",
+            "end_date": "",
+            "length": "-",
+            "start_months_since_1900": -1,
+            "end_months_since_1900": -1,
+            "length_in_months": -1
+        },
+        {
+            "name": "Unk Wade",
+            "href": "https://www.whosdatedwho.com/dating/unk-wade",
+            "relationship_type": 4,
+            "start_date": "",
+            "end_date": "",
+            "length": "-",
+            "start_months_since_1900": -1,
+            "end_months_since_1900": -1,
+            "length_in_months": -1
+        }
+    ],
+    "details": {
+        "First Name": "John",
+        "Middle Name": "NA",
+        "Last Name": "Hart",
+        "Maiden Name": "NA",
+        "Full Name at Birth": "John Lewis Hart",
+        "Alternative Name": "John Hart, John Hilton, John Lewis Hart",
+        "Birthday": "1917",
+        "Birthplace": "USA",
+        "Height": "NA",
+        "Weight": "NA",
+        "Zodiac Sign": "6",
+        "Sexuality": "Straight",
+        "Religion": "1",
+        "Ethnicity": "6",
+        "Nationality": "91",
+        "Occupation": "8"
+    }
+}

@@ -1,0 +1,33 @@
+{
+    "relationships": [
+        {
+            "name": "Mandy Moore",
+            "href": "https://www.whosdatedwho.com/dating/mandy-moore",
+            "relationship_type": 4,
+            "start_date": "Jul 2015",
+            "end_date": "present",
+            "length": "9 years",
+            "start_months_since_1900": 1386,
+            "end_months_since_1900": -1,
+            "length_in_months": 108
+        }
+    ],
+    "details": {
+        "First Name": "Taylor",
+        "Middle Name": "Dawes",
+        "Last Name": "Goldsmith",
+        "Maiden Name": "NA",
+        "Full Name at Birth": "Taylor Dawes Goldsmith",
+        "Alternative Name": "Taylor",
+        "Birthday": "1985",
+        "Birthplace": "United States",
+        "Height": "175",
+        "Weight": "150lbs (68 kg)",
+        "Zodiac Sign": "12",
+        "Sexuality": "Straight",
+        "Religion": "1",
+        "Ethnicity": "6",
+        "Nationality": "91",
+        "Occupation": "1"
+    }
+}

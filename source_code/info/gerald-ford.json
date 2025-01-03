@@ -1,0 +1,44 @@
+{
+    "relationships": [
+        {
+            "name": "Betty Ford",
+            "href": "https://www.whosdatedwho.com/dating/betty-ford",
+            "relationship_type": 4,
+            "start_date": "1947",
+            "end_date": "26th Dec 2006",
+            "length": "60 years",
+            "start_months_since_1900": 564,
+            "end_months_since_1900": 1283,
+            "length_in_months": 720
+        },
+        {
+            "name": "Ellen Romesch",
+            "href": "https://www.whosdatedwho.com/dating/ellen-romesch",
+            "relationship_type": 2,
+            "start_date": "",
+            "end_date": "",
+            "length": "-",
+            "start_months_since_1900": -1,
+            "end_months_since_1900": -1,
+            "length_in_months": -1
+        }
+    ],
+    "details": {
+        "First Name": "Gerald",
+        "Middle Name": "Rudolph",
+        "Last Name": "Ford",
+        "Maiden Name": "NA",
+        "Full Name at Birth": "Leslie Lynch King, Jr.",
+        "Alternative Name": "Gerald Rudolff Ford, Jr., Gerald R Ford Jr, Leslie Lynch King Jr., Gerald Ford",
+        "Birthday": "1913",
+        "Birthplace": "USA",
+        "Height": "184",
+        "Weight": "NA",
+        "Zodiac Sign": "8",
+        "Sexuality": "Straight",
+        "Religion": "37",
+        "Ethnicity": "6",
+        "Nationality": "91",
+        "Occupation": "12"
+    }
+}

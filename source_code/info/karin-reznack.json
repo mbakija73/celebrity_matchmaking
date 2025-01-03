@@ -1,0 +1,55 @@
+{
+    "relationships": [
+        {
+            "name": "John Byrum",
+            "href": "https://www.whosdatedwho.com/dating/john-byrum",
+            "relationship_type": 4,
+            "start_date": "1995",
+            "end_date": "",
+            "length": "-",
+            "start_months_since_1900": 1140,
+            "end_months_since_1900": -1,
+            "length_in_months": -1
+        },
+        {
+            "name": "Peter Horton",
+            "href": "https://www.whosdatedwho.com/dating/peter-horton",
+            "relationship_type": 3,
+            "start_date": "Aug 1992",
+            "end_date": "Aug 1992",
+            "length": "-",
+            "start_months_since_1900": 1111,
+            "end_months_since_1900": 1111,
+            "length_in_months": -1
+        },
+        {
+            "name": "Kevin Costner",
+            "href": "https://www.whosdatedwho.com/dating/kevin-costner",
+            "relationship_type": 2,
+            "start_date": "",
+            "end_date": "",
+            "length": "-",
+            "start_months_since_1900": -1,
+            "end_months_since_1900": -1,
+            "length_in_months": -1
+        }
+    ],
+    "details": {
+        "First Name": "Karin",
+        "Middle Name": "NA",
+        "Last Name": "Byrum",
+        "Maiden Name": "Reznack",
+        "Full Name at Birth": "Karin Reznack",
+        "Alternative Name": "NA",
+        "Birthday": "1959",
+        "Birthplace": "Usa",
+        "Height": "168",
+        "Weight": "NA",
+        "Zodiac Sign": "7",
+        "Sexuality": "NA",
+        "Religion": "13",
+        "Ethnicity": "6",
+        "Nationality": "91",
+        "Occupation": "3"
+    }
+}

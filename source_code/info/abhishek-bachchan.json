@@ -1,0 +1,66 @@
+{
+    "relationships": [
+        {
+            "name": "Aishwarya Rai Bachchan",
+            "href": "https://www.whosdatedwho.com/dating/aishwarya-rai-bachchan",
+            "relationship_type": 4,
+            "start_date": "2006",
+            "end_date": "present",
+            "length": "18 years",
+            "start_months_since_1900": 1272,
+            "end_months_since_1900": -1,
+            "length_in_months": 216
+        },
+        {
+            "name": "Rani Mukerji",
+            "href": "https://www.whosdatedwho.com/dating/rani-mukerji",
+            "relationship_type": 2,
+            "start_date": "2005",
+            "end_date": "2007",
+            "length": "2 years",
+            "start_months_since_1900": 1260,
+            "end_months_since_1900": 1284,
+            "length_in_months": 24
+        },
+        {
+            "name": "Karisma Kapoor",
+            "href": "https://www.whosdatedwho.com/dating/karisma-kapoor",
+            "relationship_type": 2,
+            "start_date": "1999",
+            "end_date": "Feb 2003",
+            "length": "4 years",
+            "start_months_since_1900": 1188,
+            "end_months_since_1900": 1237,
+            "length_in_months": 48
+        },
+        {
+            "name": "Kareena Kapoor",
+            "href": "https://www.whosdatedwho.com/dating/kareena-kapoor",
+            "relationship_type": 1,
+            "start_date": "",
+            "end_date": "",
+            "length": "-",
+            "start_months_since_1900": -1,
+            "end_months_since_1900": -1,
+            "length_in_months": -1
+        }
+    ],
+    "details": {
+        "First Name": "Abhishek",
+        "Middle Name": "NA",
+        "Last Name": "Bachchan",
+        "Maiden Name": "NA",
+        "Full Name at Birth": "Abhishek Bachchan",
+        "Alternative Name": "Abi, Junior B, Abhi, A B, Abhishek Bachchan",
+        "Birthday": "1976",
+        "Birthplace": "India",
+        "Height": "193",
+        "Weight": "174lbs (79 kg)",
+        "Zodiac Sign": "9",
+        "Sexuality": "Straight",
+        "Religion": "27",
+        "Ethnicity": "7",
+        "Nationality": "34",
+        "Occupation": "8"
+    }
+}

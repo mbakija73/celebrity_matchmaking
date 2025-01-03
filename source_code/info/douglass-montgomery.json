@@ -1,0 +1,44 @@
+{
+    "relationships": [
+        {
+            "name": "Kay Young",
+            "href": "https://www.whosdatedwho.com/dating/kay-young",
+            "relationship_type": 4,
+            "start_date": "1952",
+            "end_date": "1966",
+            "length": "14 years",
+            "start_months_since_1900": 624,
+            "end_months_since_1900": 792,
+            "length_in_months": 168
+        },
+        {
+            "name": "Mona Maris",
+            "href": "https://www.whosdatedwho.com/dating/mona-maris",
+            "relationship_type": 2,
+            "start_date": "1937",
+            "end_date": "1937",
+            "length": "-",
+            "start_months_since_1900": 444,
+            "end_months_since_1900": 444,
+            "length_in_months": -1
+        }
+    ],
+    "details": {
+        "First Name": "Douglass",
+        "Middle Name": "NA",
+        "Last Name": "Montgomery",
+        "Maiden Name": "NA",
+        "Full Name at Birth": "Kent Douglass",
+        "Alternative Name": "NA",
+        "Birthday": "1907",
+        "Birthplace": "USA",
+        "Height": "182",
+        "Weight": "NA",
+        "Zodiac Sign": "5",
+        "Sexuality": "Bisexual",
+        "Religion": "1",
+        "Ethnicity": "6",
+        "Nationality": "91",
+        "Occupation": "8"
+    }
+}

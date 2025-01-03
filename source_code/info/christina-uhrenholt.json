@@ -1,0 +1,33 @@
+{
+    "relationships": [
+        {
+            "name": "Nick Carter",
+            "href": "https://www.whosdatedwho.com/dating/nick-carter",
+            "relationship_type": 3,
+            "start_date": "Sep 2008",
+            "end_date": "Nov 2008",
+            "length": "2 months",
+            "start_months_since_1900": 1304,
+            "end_months_since_1900": 1306,
+            "length_in_months": 2
+        }
+    ],
+    "details": {
+        "First Name": "Christina",
+        "Middle Name": "NA",
+        "Last Name": "NA",
+        "Maiden Name": "Uhrenholt",
+        "Full Name at Birth": "Christina Yasmin Uhrenholt",
+        "Alternative Name": "NA",
+        "Birthday": "1983",
+        "Birthplace": "Denmark",
+        "Height": "NA",
+        "Weight": "NA",
+        "Zodiac Sign": "11",
+        "Sexuality": "Straight",
+        "Religion": "1",
+        "Ethnicity": "6",
+        "Nationality": "50",
+        "Occupation": "15"
+    }
+}

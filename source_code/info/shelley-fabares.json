@@ -1,0 +1,55 @@
+{
+    "relationships": [
+        {
+            "name": "Mike Farrell",
+            "href": "https://www.whosdatedwho.com/dating/mike-farrell",
+            "relationship_type": 4,
+            "start_date": "1982",
+            "end_date": "",
+            "length": "-",
+            "start_months_since_1900": 984,
+            "end_months_since_1900": -1,
+            "length_in_months": -1
+        },
+        {
+            "name": "Elvis Presley",
+            "href": "https://www.whosdatedwho.com/dating/elvis-presley",
+            "relationship_type": 3,
+            "start_date": "Jun 1964",
+            "end_date": "Aug 1964",
+            "length": "2 months",
+            "start_months_since_1900": 773,
+            "end_months_since_1900": 775,
+            "length_in_months": 2
+        },
+        {
+            "name": "Lou Adler",
+            "href": "https://www.whosdatedwho.com/dating/lou-adler",
+            "relationship_type": 4,
+            "start_date": "Oct 1962",
+            "end_date": "1980",
+            "length": "17 years",
+            "start_months_since_1900": 753,
+            "end_months_since_1900": 960,
+            "length_in_months": 204
+        }
+    ],
+    "details": {
+        "First Name": "Michele",
+        "Middle Name": "Ann Marie",
+        "Last Name": "Farrell",
+        "Maiden Name": "Fabares",
+        "Full Name at Birth": "Michele Ann Marie Fabares",
+        "Alternative Name": "Shelley Fabares, Shelley Farrell, Michele Ann Marie Fabares, Michele Fabares",
+        "Birthday": "1944",
+        "Birthplace": "USA",
+        "Height": "163",
+        "Weight": "NA",
+        "Zodiac Sign": "13",
+        "Sexuality": "Straight",
+        "Religion": "1",
+        "Ethnicity": "6",
+        "Nationality": "91",
+        "Occupation": "8"
+    }
+}

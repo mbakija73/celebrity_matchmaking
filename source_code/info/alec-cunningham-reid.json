@@ -1,0 +1,33 @@
+{
+    "relationships": [
+        {
+            "name": "Doris Duke",
+            "href": "https://www.whosdatedwho.com/dating/doris-duke",
+            "relationship_type": 2,
+            "start_date": "1945",
+            "end_date": "1945",
+            "length": "-",
+            "start_months_since_1900": 540,
+            "end_months_since_1900": 540,
+            "length_in_months": -1
+        }
+    ],
+    "details": {
+        "First Name": "Alec",
+        "Middle Name": "NA",
+        "Last Name": "Cunningham-Reid",
+        "Maiden Name": "NA",
+        "Full Name at Birth": "NA",
+        "Alternative Name": "NA",
+        "Birthday": "1894",
+        "Birthplace": "England",
+        "Height": "NA",
+        "Weight": "NA",
+        "Zodiac Sign": "2",
+        "Sexuality": "NA",
+        "Religion": "1",
+        "Ethnicity": "1",
+        "Nationality": "8",
+        "Occupation": "19"
+    }
+}

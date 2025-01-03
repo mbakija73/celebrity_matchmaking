@@ -1,0 +1,33 @@
+{
+    "relationships": [
+        {
+            "name": "Spike Lee",
+            "href": "https://www.whosdatedwho.com/dating/spike-lee",
+            "relationship_type": 4,
+            "start_date": "Sep 1992",
+            "end_date": "present",
+            "length": "32 years",
+            "start_months_since_1900": 1112,
+            "end_months_since_1900": -1,
+            "length_in_months": 384
+        }
+    ],
+    "details": {
+        "First Name": "Tonya",
+        "Middle Name": "Lewis",
+        "Last Name": "Lee",
+        "Maiden Name": "NA",
+        "Full Name at Birth": "Tonya Lewis Lee",
+        "Alternative Name": "Tonya Lewis Lee",
+        "Birthday": "1966",
+        "Birthplace": "USA",
+        "Height": "169",
+        "Weight": "NA",
+        "Zodiac Sign": "1",
+        "Sexuality": "Straight",
+        "Religion": "1",
+        "Ethnicity": "8",
+        "Nationality": "91",
+        "Occupation": "9"
+    }
+}

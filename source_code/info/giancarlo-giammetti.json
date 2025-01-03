@@ -1,0 +1,33 @@
+{
+    "relationships": [
+        {
+            "name": "Valentino Garavani",
+            "href": "https://www.whosdatedwho.com/dating/valentino-garavani",
+            "relationship_type": 2,
+            "start_date": "Jul 1960",
+            "end_date": "",
+            "length": "-",
+            "start_months_since_1900": 726,
+            "end_months_since_1900": -1,
+            "length_in_months": -1
+        }
+    ],
+    "details": {
+        "First Name": "Giancarlo",
+        "Middle Name": "NA",
+        "Last Name": "Giammetti",
+        "Maiden Name": "NA",
+        "Full Name at Birth": "Giancarlo Giammetti",
+        "Alternative Name": "NA",
+        "Birthday": "1938",
+        "Birthplace": "Italy",
+        "Height": "173",
+        "Weight": "162lbs (73 kg)",
+        "Zodiac Sign": "9",
+        "Sexuality": "NA",
+        "Religion": "26",
+        "Ethnicity": "6",
+        "Nationality": "139",
+        "Occupation": "7"
+    }
+}

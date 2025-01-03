@@ -1,0 +1,55 @@
+{
+    "relationships": [
+        {
+            "name": "Thomas Doig (person)",
+            "href": "https://www.whosdatedwho.com/dating/thomas-doig-person",
+            "relationship_type": 4,
+            "start_date": "2015",
+            "end_date": "present",
+            "length": "9 years",
+            "start_months_since_1900": 1380,
+            "end_months_since_1900": -1,
+            "length_in_months": 108
+        },
+        {
+            "name": "Viggo Mortensen",
+            "href": "https://www.whosdatedwho.com/dating/viggo-mortensen-actor",
+            "relationship_type": 2,
+            "start_date": "1997",
+            "end_date": "1997",
+            "length": "-",
+            "start_months_since_1900": 1164,
+            "end_months_since_1900": 1164,
+            "length_in_months": -1
+        },
+        {
+            "name": "Rob Estes",
+            "href": "https://www.whosdatedwho.com/dating/rob-estes",
+            "relationship_type": 4,
+            "start_date": "1991",
+            "end_date": "Jul 2006",
+            "length": "15 years",
+            "start_months_since_1900": 1092,
+            "end_months_since_1900": 1278,
+            "length_in_months": 180
+        }
+    ],
+    "details": {
+        "First Name": "Josie",
+        "Middle Name": "Christine",
+        "Last Name": "Bissett",
+        "Maiden Name": "Heutmaker",
+        "Full Name at Birth": "Jolyn Christine Heutmaker",
+        "Alternative Name": "NA",
+        "Birthday": "1970",
+        "Birthplace": "Washington",
+        "Height": "170",
+        "Weight": "NA",
+        "Zodiac Sign": "10",
+        "Sexuality": "Bisexual",
+        "Religion": "18",
+        "Ethnicity": "6",
+        "Nationality": "91",
+        "Occupation": "8"
+    }
+}

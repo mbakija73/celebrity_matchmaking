@@ -1,0 +1,110 @@
+{
+    "relationships": [
+        {
+            "name": "Madison Beer",
+            "href": "https://www.whosdatedwho.com/dating/madison-beer",
+            "relationship_type": 2,
+            "start_date": "Jun 2019",
+            "end_date": "Jun 2019",
+            "length": "-",
+            "start_months_since_1900": 1433,
+            "end_months_since_1900": 1433,
+            "length_in_months": -1
+        },
+        {
+            "name": "Kendall Jenner",
+            "href": "https://www.whosdatedwho.com/dating/kendall-jenner",
+            "relationship_type": 2,
+            "start_date": "Aug 2017",
+            "end_date": "Apr 2018",
+            "length": "8 months",
+            "start_months_since_1900": 1411,
+            "end_months_since_1900": 1419,
+            "length_in_months": 8
+        },
+        {
+            "name": "Kate Upton",
+            "href": "https://www.whosdatedwho.com/dating/kate-upton",
+            "relationship_type": 3,
+            "start_date": "2013",
+            "end_date": "2013",
+            "length": "-",
+            "start_months_since_1900": 1356,
+            "end_months_since_1900": 1356,
+            "length_in_months": -1
+        },
+        {
+            "name": "Daniella Grace",
+            "href": "https://www.whosdatedwho.com/dating/daniella-grace",
+            "relationship_type": 3,
+            "start_date": "Dec 2012",
+            "end_date": "2013",
+            "length": "1 month",
+            "start_months_since_1900": 1355,
+            "end_months_since_1900": 1356,
+            "length_in_months": 1
+        },
+        {
+            "name": "Teanna Trump",
+            "href": "https://www.whosdatedwho.com/dating/teanna-trump",
+            "relationship_type": 3,
+            "start_date": "2012",
+            "end_date": "2012",
+            "length": "-",
+            "start_months_since_1900": 1344,
+            "end_months_since_1900": 1344,
+            "length_in_months": -1
+        },
+        {
+            "name": "Brynn Cameron",
+            "href": "https://www.whosdatedwho.com/dating/brynn-cameron",
+            "relationship_type": 2,
+            "start_date": "2009",
+            "end_date": "2017",
+            "length": "8 years",
+            "start_months_since_1900": 1308,
+            "end_months_since_1900": 1404,
+            "length_in_months": 96
+        },
+        {
+            "name": "Kari Klinkenborg",
+            "href": "https://www.whosdatedwho.com/dating/kari-klinkenborg",
+            "relationship_type": 3,
+            "start_date": "",
+            "end_date": "",
+            "length": "-",
+            "start_months_since_1900": -1,
+            "end_months_since_1900": -1,
+            "length_in_months": -1
+        },
+        {
+            "name": "Bethany Gerber",
+            "href": "https://www.whosdatedwho.com/dating/bethany-gerber",
+            "relationship_type": 3,
+            "start_date": "",
+            "end_date": "",
+            "length": "-",
+            "start_months_since_1900": -1,
+            "end_months_since_1900": -1,
+            "length_in_months": -1
+        }
+    ],
+    "details": {
+        "First Name": "Blake",
+        "Middle Name": "Austin",
+        "Last Name": "Griffin",
+        "Maiden Name": "NA",
+        "Full Name at Birth": "Blake Austin Griffin",
+        "Alternative Name": "Blake Austin Griffin, Blake Griffin",
+        "Birthday": "1989",
+        "Birthplace": "USA",
+        "Height": "206",
+        "Weight": "251lbs (114 kg)",
+        "Zodiac Sign": "1",
+        "Sexuality": "Straight",
+        "Religion": "18",
+        "Ethnicity": "8",
+        "Nationality": "91",
+        "Occupation": "2"
+    }
+}

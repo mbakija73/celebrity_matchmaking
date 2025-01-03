@@ -1,0 +1,44 @@
+{
+    "relationships": [
+        {
+            "name": "Alex Rodriguez",
+            "href": "https://www.whosdatedwho.com/dating/alex-rodriguez",
+            "relationship_type": 2,
+            "start_date": "Mar 2016",
+            "end_date": "Feb 2017",
+            "length": "11 months",
+            "start_months_since_1900": 1394,
+            "end_months_since_1900": 1405,
+            "length_in_months": 11
+        },
+        {
+            "name": "Sergey Brin",
+            "href": "https://www.whosdatedwho.com/dating/sergey-brin",
+            "relationship_type": 4,
+            "start_date": "2007",
+            "end_date": "Jun 2015",
+            "length": "8 years",
+            "start_months_since_1900": 1284,
+            "end_months_since_1900": 1385,
+            "length_in_months": 96
+        }
+    ],
+    "details": {
+        "First Name": "Anne",
+        "Middle Name": "NA",
+        "Last Name": "Wojcicki",
+        "Maiden Name": "NA",
+        "Full Name at Birth": "Anne E. Wojcicki",
+        "Alternative Name": "NA",
+        "Birthday": "1973",
+        "Birthplace": "USA",
+        "Height": "NA",
+        "Weight": "NA",
+        "Zodiac Sign": "12",
+        "Sexuality": "Straight",
+        "Religion": "1",
+        "Ethnicity": "6",
+        "Nationality": "91",
+        "Occupation": "7"
+    }
+}

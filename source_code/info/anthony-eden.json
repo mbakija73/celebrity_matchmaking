@@ -1,0 +1,55 @@
+{
+    "relationships": [
+        {
+            "name": "Clarissa Eden, Countess of Avon",
+            "href": "https://www.whosdatedwho.com/dating/clarissa-eden-countess-of-avon",
+            "relationship_type": 4,
+            "start_date": "1952",
+            "end_date": "1977",
+            "length": "25 years",
+            "start_months_since_1900": 624,
+            "end_months_since_1900": 924,
+            "length_in_months": 300
+        },
+        {
+            "name": "Beatrice Beckett",
+            "href": "https://www.whosdatedwho.com/dating/beatrice-beckett",
+            "relationship_type": 4,
+            "start_date": "1923",
+            "end_date": "1950",
+            "length": "27 years",
+            "start_months_since_1900": 276,
+            "end_months_since_1900": 600,
+            "length_in_months": 324
+        },
+        {
+            "name": "Frances Day",
+            "href": "https://www.whosdatedwho.com/dating/frances-day",
+            "relationship_type": 2,
+            "start_date": "",
+            "end_date": "",
+            "length": "-",
+            "start_months_since_1900": -1,
+            "end_months_since_1900": -1,
+            "length_in_months": -1
+        }
+    ],
+    "details": {
+        "First Name": "Anthony",
+        "Middle Name": "NA",
+        "Last Name": "Eden",
+        "Maiden Name": "NA",
+        "Full Name at Birth": "Robert Anthony Eden",
+        "Alternative Name": "Robert Anthony Eden, 1st Earl of Avon, Sir Anthony Eden",
+        "Birthday": "1897",
+        "Birthplace": "UK",
+        "Height": "NA",
+        "Weight": "NA",
+        "Zodiac Sign": "4",
+        "Sexuality": "Straight",
+        "Religion": "1",
+        "Ethnicity": "6",
+        "Nationality": "8",
+        "Occupation": "12"
+    }
+}

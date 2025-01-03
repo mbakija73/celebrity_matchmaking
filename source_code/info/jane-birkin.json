@@ -1,0 +1,77 @@
+{
+    "relationships": [
+        {
+            "name": "Olivier Rolin",
+            "href": "https://www.whosdatedwho.com/dating/olivier-rolin",
+            "relationship_type": 2,
+            "start_date": "1995",
+            "end_date": "1996",
+            "length": "1 year",
+            "start_months_since_1900": 1140,
+            "end_months_since_1900": 1152,
+            "length_in_months": 12
+        },
+        {
+            "name": "Jacques Doillon",
+            "href": "https://www.whosdatedwho.com/dating/jacques-doillon",
+            "relationship_type": 2,
+            "start_date": "1980",
+            "end_date": "1992",
+            "length": "12 years",
+            "start_months_since_1900": 960,
+            "end_months_since_1900": 1104,
+            "length_in_months": 144
+        },
+        {
+            "name": "Serge Gainsbourg",
+            "href": "https://www.whosdatedwho.com/dating/serge-gainsbourg",
+            "relationship_type": 4,
+            "start_date": "1968",
+            "end_date": "1981",
+            "length": "13 years",
+            "start_months_since_1900": 816,
+            "end_months_since_1900": 972,
+            "length_in_months": 156
+        },
+        {
+            "name": "Eric Swayne",
+            "href": "https://www.whosdatedwho.com/dating/eric-swayne",
+            "relationship_type": 2,
+            "start_date": "1965",
+            "end_date": "1966",
+            "length": "1 year",
+            "start_months_since_1900": 780,
+            "end_months_since_1900": 792,
+            "length_in_months": 12
+        },
+        {
+            "name": "John Barry",
+            "href": "https://www.whosdatedwho.com/dating/john-barry",
+            "relationship_type": 4,
+            "start_date": "1964",
+            "end_date": "1968",
+            "length": "4 years",
+            "start_months_since_1900": 768,
+            "end_months_since_1900": 816,
+            "length_in_months": 48
+        }
+    ],
+    "details": {
+        "First Name": "Jane",
+        "Middle Name": "Mallory",
+        "Last Name": "Birkin",
+        "Maiden Name": "NA",
+        "Full Name at Birth": "Jane Mallory Birkin",
+        "Alternative Name": "Jane Mallory Birkin, Jane Birkin, Jane",
+        "Birthday": "1946",
+        "Birthplace": "UK",
+        "Height": "170",
+        "Weight": "126lbs (57 kg)",
+        "Zodiac Sign": "6",
+        "Sexuality": "Straight",
+        "Religion": "1",
+        "Ethnicity": "6",
+        "Nationality": "8",
+        "Occupation": "1"
+    }
+}

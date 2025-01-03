@@ -1,0 +1,110 @@
+{
+    "relationships": [
+        {
+            "name": "Demi Moore",
+            "href": "https://www.whosdatedwho.com/dating/demi-moore",
+            "relationship_type": 3,
+            "start_date": "1984",
+            "end_date": "1984",
+            "length": "-",
+            "start_months_since_1900": 1008,
+            "end_months_since_1900": 1008,
+            "length_in_months": -1
+        },
+        {
+            "name": "Liza Minnelli",
+            "href": "https://www.whosdatedwho.com/dating/liza-minnelli",
+            "relationship_type": 3,
+            "start_date": "1983",
+            "end_date": "1983",
+            "length": "-",
+            "start_months_since_1900": 996,
+            "end_months_since_1900": 996,
+            "length_in_months": -1
+        },
+        {
+            "name": "Marisa Berenson",
+            "href": "https://www.whosdatedwho.com/dating/marisa-berenson",
+            "relationship_type": 3,
+            "start_date": "1980",
+            "end_date": "1980",
+            "length": "-",
+            "start_months_since_1900": 960,
+            "end_months_since_1900": 960,
+            "length_in_months": -1
+        },
+        {
+            "name": "Rose di Primo",
+            "href": "https://www.whosdatedwho.com/dating/rose-di-primo",
+            "relationship_type": 2,
+            "start_date": "1978",
+            "end_date": "1978",
+            "length": "-",
+            "start_months_since_1900": 936,
+            "end_months_since_1900": 936,
+            "length_in_months": -1
+        },
+        {
+            "name": "Monique Evans",
+            "href": "https://www.whosdatedwho.com/dating/monique-evans",
+            "relationship_type": 2,
+            "start_date": "1978",
+            "end_date": "1980",
+            "length": "2 years",
+            "start_months_since_1900": 936,
+            "end_months_since_1900": 960,
+            "length_in_months": 24
+        },
+        {
+            "name": "Vera Fischer",
+            "href": "https://www.whosdatedwho.com/dating/vera-fischer",
+            "relationship_type": 3,
+            "start_date": "1972",
+            "end_date": "1972",
+            "length": "-",
+            "start_months_since_1900": 864,
+            "end_months_since_1900": 864,
+            "length_in_months": -1
+        },
+        {
+            "name": "Maria Callas",
+            "href": "https://www.whosdatedwho.com/dating/maria-callas",
+            "relationship_type": 3,
+            "start_date": "1968",
+            "end_date": "1968",
+            "length": "-",
+            "start_months_since_1900": 816,
+            "end_months_since_1900": 816,
+            "length_in_months": -1
+        },
+        {
+            "name": "Bianca Jagger",
+            "href": "https://www.whosdatedwho.com/dating/bianca-jagger",
+            "relationship_type": 3,
+            "start_date": "",
+            "end_date": "",
+            "length": "-",
+            "start_months_since_1900": -1,
+            "end_months_since_1900": -1,
+            "length_in_months": -1
+        }
+    ],
+    "details": {
+        "First Name": "Pedro",
+        "Middle Name": "NA",
+        "Last Name": "Aguinaga",
+        "Maiden Name": "NA",
+        "Full Name at Birth": "NA",
+        "Alternative Name": "NA",
+        "Birthday": "1950",
+        "Birthplace": "Brazil",
+        "Height": "NA",
+        "Weight": "NA",
+        "Zodiac Sign": "1",
+        "Sexuality": "Straight",
+        "Religion": "1",
+        "Ethnicity": "6",
+        "Nationality": "87",
+        "Occupation": "11"
+    }
+}

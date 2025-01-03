@@ -1,0 +1,77 @@
+{
+    "relationships": [
+        {
+            "name": "Joe Salvatore",
+            "href": "https://www.whosdatedwho.com/dating/joe-salvatore",
+            "relationship_type": 2,
+            "start_date": "Jun 2011",
+            "end_date": "",
+            "length": "-",
+            "start_months_since_1900": 1337,
+            "end_months_since_1900": -1,
+            "length_in_months": -1
+        },
+        {
+            "name": "Carlos Eduardo Depieri",
+            "href": "https://www.whosdatedwho.com/dating/carlos-eduardo-depieri",
+            "relationship_type": 3,
+            "start_date": "2011",
+            "end_date": "2011",
+            "length": "-",
+            "start_months_since_1900": 1332,
+            "end_months_since_1900": 1332,
+            "length_in_months": -1
+        },
+        {
+            "name": "Peter Nyg\u00e5rd",
+            "href": "https://www.whosdatedwho.com/dating/peter-nygard",
+            "relationship_type": 2,
+            "start_date": "2008",
+            "end_date": "2008",
+            "length": "-",
+            "start_months_since_1900": 1296,
+            "end_months_since_1900": 1296,
+            "length_in_months": -1
+        },
+        {
+            "name": "Terry Kennedy",
+            "href": "https://www.whosdatedwho.com/dating/terry-kennedy",
+            "relationship_type": 3,
+            "start_date": "",
+            "end_date": "",
+            "length": "-",
+            "start_months_since_1900": -1,
+            "end_months_since_1900": -1,
+            "length_in_months": -1
+        },
+        {
+            "name": "50 Cent",
+            "href": "https://www.whosdatedwho.com/dating/50-cent",
+            "relationship_type": 3,
+            "start_date": "",
+            "end_date": "",
+            "length": "-",
+            "start_months_since_1900": -1,
+            "end_months_since_1900": -1,
+            "length_in_months": -1
+        }
+    ],
+    "details": {
+        "First Name": "Suelyn",
+        "Middle Name": "NA",
+        "Last Name": "Medeiros",
+        "Maiden Name": "NA",
+        "Full Name at Birth": "Suelyn Medeiros",
+        "Alternative Name": "Suelyn Medeiros",
+        "Birthday": "1986",
+        "Birthplace": "USA",
+        "Height": "172",
+        "Weight": "NA",
+        "Zodiac Sign": "3",
+        "Sexuality": "Straight",
+        "Religion": "1",
+        "Ethnicity": "8",
+        "Nationality": "87",
+        "Occupation": "16"
+    }
+}

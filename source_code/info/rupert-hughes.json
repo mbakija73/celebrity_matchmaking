@@ -1,0 +1,66 @@
+{
+    "relationships": [
+        {
+            "name": "Patterson Dial",
+            "href": "https://www.whosdatedwho.com/dating/patterson-dial-actress",
+            "relationship_type": 4,
+            "start_date": "1923",
+            "end_date": "Mar 1945",
+            "length": "22 years",
+            "start_months_since_1900": 276,
+            "end_months_since_1900": 542,
+            "length_in_months": 264
+        },
+        {
+            "name": "Mrs. Rupert Hughes",
+            "href": "https://www.whosdatedwho.com/dating/mrs-rupert-hughes",
+            "relationship_type": 4,
+            "start_date": "1907",
+            "end_date": "Dec 1923",
+            "length": "16 years",
+            "start_months_since_1900": 84,
+            "end_months_since_1900": 287,
+            "length_in_months": 192
+        },
+        {
+            "name": "Agnes Wheeler Hedge",
+            "href": "https://www.whosdatedwho.com/dating/agnes-wheeler-hedge",
+            "relationship_type": 4,
+            "start_date": "1892",
+            "end_date": "1904",
+            "length": "12 years",
+            "start_months_since_1900": -96,
+            "end_months_since_1900": 48,
+            "length_in_months": 144
+        },
+        {
+            "name": "Eleanor Boardman",
+            "href": "https://www.whosdatedwho.com/dating/eleanor-boardman",
+            "relationship_type": 1,
+            "start_date": "",
+            "end_date": "",
+            "length": "-",
+            "start_months_since_1900": -1,
+            "end_months_since_1900": -1,
+            "length_in_months": -1
+        }
+    ],
+    "details": {
+        "First Name": "Rupert",
+        "Middle Name": "Raleigh",
+        "Last Name": "Hughes",
+        "Maiden Name": "NA",
+        "Full Name at Birth": "Rupert Raleigh Hughes",
+        "Alternative Name": "Rupert Raleigh Hughes, Rupert Hughes",
+        "Birthday": "1872",
+        "Birthplace": "USA",
+        "Height": "NA",
+        "Weight": "NA",
+        "Zodiac Sign": "9",
+        "Sexuality": "Straight",
+        "Religion": "1",
+        "Ethnicity": "6",
+        "Nationality": "91",
+        "Occupation": "3"
+    }
+}

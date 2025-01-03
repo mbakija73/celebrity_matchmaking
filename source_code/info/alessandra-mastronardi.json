@@ -1,0 +1,55 @@
+{
+    "relationships": [
+        {
+            "name": "Ross McCall",
+            "href": "https://www.whosdatedwho.com/dating/ross-mccall",
+            "relationship_type": 2,
+            "start_date": "2017",
+            "end_date": "2021",
+            "length": "4 years",
+            "start_months_since_1900": 1404,
+            "end_months_since_1900": 1452,
+            "length_in_months": 48
+        },
+        {
+            "name": "Liam McMahon",
+            "href": "https://www.whosdatedwho.com/dating/liam-mcmahon",
+            "relationship_type": 2,
+            "start_date": "2011",
+            "end_date": "",
+            "length": "-",
+            "start_months_since_1900": 1332,
+            "end_months_since_1900": -1,
+            "length_in_months": -1
+        },
+        {
+            "name": "Vinicio Marchioni",
+            "href": "https://www.whosdatedwho.com/dating/vinicio-marchioni",
+            "relationship_type": 2,
+            "start_date": "2007",
+            "end_date": "2010",
+            "length": "3 years",
+            "start_months_since_1900": 1284,
+            "end_months_since_1900": 1320,
+            "length_in_months": 36
+        }
+    ],
+    "details": {
+        "First Name": "Alessandra",
+        "Middle Name": "Carina",
+        "Last Name": "Mastronardi",
+        "Maiden Name": "NA",
+        "Full Name at Birth": "Alessandra Carina Mastronardi",
+        "Alternative Name": "NA",
+        "Birthday": "1986",
+        "Birthplace": "Italy",
+        "Height": "165",
+        "Weight": "NA",
+        "Zodiac Sign": "9",
+        "Sexuality": "Straight",
+        "Religion": "1",
+        "Ethnicity": "6",
+        "Nationality": "139",
+        "Occupation": "8"
+    }
+}

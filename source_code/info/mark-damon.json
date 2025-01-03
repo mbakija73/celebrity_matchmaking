@@ -1,0 +1,110 @@
+{
+    "relationships": [
+        {
+            "name": "Maggie Pierce",
+            "href": "https://www.whosdatedwho.com/dating/maggie-pierce-actress",
+            "relationship_type": 3,
+            "start_date": "May 1960",
+            "end_date": "Jun 1960",
+            "length": "1 month",
+            "start_months_since_1900": 724,
+            "end_months_since_1900": 725,
+            "length_in_months": 1
+        },
+        {
+            "name": "Susan Cabot",
+            "href": "https://www.whosdatedwho.com/dating/susan-cabot",
+            "relationship_type": 2,
+            "start_date": "8th Jul 1959",
+            "end_date": "Aug 1959",
+            "length": "< 1 month",
+            "start_months_since_1900": 714,
+            "end_months_since_1900": 715,
+            "length_in_months": 0
+        },
+        {
+            "name": "Molly Bee",
+            "href": "https://www.whosdatedwho.com/dating/molly-bee",
+            "relationship_type": 2,
+            "start_date": "Nov 1958",
+            "end_date": "Dec 1958",
+            "length": "1 month",
+            "start_months_since_1900": 706,
+            "end_months_since_1900": 707,
+            "length_in_months": 1
+        },
+        {
+            "name": "Karen Sharpe",
+            "href": "https://www.whosdatedwho.com/dating/karen-sharpe",
+            "relationship_type": 2,
+            "start_date": "Aug 1955",
+            "end_date": "Aug 1955",
+            "length": "-",
+            "start_months_since_1900": 667,
+            "end_months_since_1900": 667,
+            "length_in_months": -1
+        },
+        {
+            "name": "Lynn Merrick",
+            "href": "https://www.whosdatedwho.com/dating/lynn-merrick",
+            "relationship_type": 2,
+            "start_date": "Oct 1948",
+            "end_date": "Dec 1948",
+            "length": "2 months",
+            "start_months_since_1900": 585,
+            "end_months_since_1900": 587,
+            "length_in_months": 2
+        },
+        {
+            "name": "Beverly Tyler",
+            "href": "https://www.whosdatedwho.com/dating/beverly-tyler",
+            "relationship_type": 3,
+            "start_date": "",
+            "end_date": "",
+            "length": "-",
+            "start_months_since_1900": -1,
+            "end_months_since_1900": -1,
+            "length_in_months": -1
+        },
+        {
+            "name": "Barbara Frey",
+            "href": "https://www.whosdatedwho.com/dating/barbara-frey",
+            "relationship_type": 1,
+            "start_date": "",
+            "end_date": "",
+            "length": "-",
+            "start_months_since_1900": -1,
+            "end_months_since_1900": -1,
+            "length_in_months": -1
+        },
+        {
+            "name": "Tuesday Weld",
+            "href": "https://www.whosdatedwho.com/dating/tuesday-weld",
+            "relationship_type": 2,
+            "start_date": "",
+            "end_date": "",
+            "length": "-",
+            "start_months_since_1900": -1,
+            "end_months_since_1900": -1,
+            "length_in_months": -1
+        }
+    ],
+    "details": {
+        "First Name": "Mark",
+        "Middle Name": "NA",
+        "Last Name": "Damon",
+        "Maiden Name": "NA",
+        "Full Name at Birth": "Alan Harris",
+        "Alternative Name": "NA",
+        "Birthday": "1933",
+        "Birthplace": "Illinois",
+        "Height": "181",
+        "Weight": "NA",
+        "Zodiac Sign": "3",
+        "Sexuality": "Straight",
+        "Religion": "1",
+        "Ethnicity": "6",
+        "Nationality": "91",
+        "Occupation": "8"
+    }
+}

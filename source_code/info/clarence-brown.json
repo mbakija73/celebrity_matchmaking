@@ -1,0 +1,88 @@
+{
+    "relationships": [
+        {
+            "name": "Alice Joyce",
+            "href": "https://www.whosdatedwho.com/dating/alice-joyce",
+            "relationship_type": 4,
+            "start_date": "1933",
+            "end_date": "1945",
+            "length": "12 years",
+            "start_months_since_1900": 396,
+            "end_months_since_1900": 540,
+            "length_in_months": 144
+        },
+        {
+            "name": "Dorothy Burgess",
+            "href": "https://www.whosdatedwho.com/dating/dorothy-burgess",
+            "relationship_type": 2,
+            "start_date": "1932",
+            "end_date": "1932",
+            "length": "-",
+            "start_months_since_1900": 384,
+            "end_months_since_1900": 384,
+            "length_in_months": -1
+        },
+        {
+            "name": "Sally Blane",
+            "href": "https://www.whosdatedwho.com/dating/sally-blane",
+            "relationship_type": 2,
+            "start_date": "1930",
+            "end_date": "1930",
+            "length": "-",
+            "start_months_since_1900": 360,
+            "end_months_since_1900": 360,
+            "length_in_months": -1
+        },
+        {
+            "name": "Dorothy Sebastian",
+            "href": "https://www.whosdatedwho.com/dating/dorothy-sebastian",
+            "relationship_type": 2,
+            "start_date": "1927",
+            "end_date": "1927",
+            "length": "-",
+            "start_months_since_1900": 324,
+            "end_months_since_1900": 324,
+            "length_in_months": -1
+        },
+        {
+            "name": "Ona Wilson",
+            "href": "https://www.whosdatedwho.com/dating/ona-wilson",
+            "relationship_type": 4,
+            "start_date": "",
+            "end_date": "1928",
+            "length": "-",
+            "start_months_since_1900": -1,
+            "end_months_since_1900": 336,
+            "length_in_months": -1
+        },
+        {
+            "name": "Mona Maris",
+            "href": "https://www.whosdatedwho.com/dating/mona-maris",
+            "relationship_type": 4,
+            "start_date": "",
+            "end_date": "",
+            "length": "-",
+            "start_months_since_1900": -1,
+            "end_months_since_1900": -1,
+            "length_in_months": -1
+        }
+    ],
+    "details": {
+        "First Name": "Clarence",
+        "Middle Name": "Leon",
+        "Last Name": "Brown",
+        "Maiden Name": "NA",
+        "Full Name at Birth": "Clarence Leon Brown",
+        "Alternative Name": "NA",
+        "Birthday": "1890",
+        "Birthplace": "Massachusetts",
+        "Height": "NA",
+        "Weight": "NA",
+        "Zodiac Sign": "3",
+        "Sexuality": "Straight",
+        "Religion": "1",
+        "Ethnicity": "6",
+        "Nationality": "91",
+        "Occupation": "9"
+    }
+}

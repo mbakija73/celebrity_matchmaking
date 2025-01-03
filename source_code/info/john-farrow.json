@@ -1,0 +1,66 @@
+{
+    "relationships": [
+        {
+            "name": "Gail Russell",
+            "href": "https://www.whosdatedwho.com/dating/gail-russell",
+            "relationship_type": 3,
+            "start_date": "1947",
+            "end_date": "1947",
+            "length": "-",
+            "start_months_since_1900": 564,
+            "end_months_since_1900": 564,
+            "length_in_months": -1
+        },
+        {
+            "name": "Maureen O'Sullivan",
+            "href": "https://www.whosdatedwho.com/dating/maureen-o-sullivan",
+            "relationship_type": 4,
+            "start_date": "1935",
+            "end_date": "Jan 1963",
+            "length": "28 years",
+            "start_months_since_1900": 420,
+            "end_months_since_1900": 756,
+            "length_in_months": 336
+        },
+        {
+            "name": "Felice Lewin",
+            "href": "https://www.whosdatedwho.com/dating/felice-lewin",
+            "relationship_type": 4,
+            "start_date": "18th Aug 1924",
+            "end_date": "8th Sep 1927",
+            "length": "3 years",
+            "start_months_since_1900": 295,
+            "end_months_since_1900": 332,
+            "length_in_months": 36
+        },
+        {
+            "name": "Lila Lee",
+            "href": "https://www.whosdatedwho.com/dating/lila-lee",
+            "relationship_type": 2,
+            "start_date": "",
+            "end_date": "",
+            "length": "-",
+            "start_months_since_1900": -1,
+            "end_months_since_1900": -1,
+            "length_in_months": -1
+        }
+    ],
+    "details": {
+        "First Name": "John",
+        "Middle Name": "NA",
+        "Last Name": "Farrow",
+        "Maiden Name": "NA",
+        "Full Name at Birth": "John N.B. Villiers-Farrow",
+        "Alternative Name": "NA",
+        "Birthday": "1904",
+        "Birthplace": "Australia",
+        "Height": "182",
+        "Weight": "NA",
+        "Zodiac Sign": "9",
+        "Sexuality": "Straight",
+        "Religion": "13",
+        "Ethnicity": "6",
+        "Nationality": "91",
+        "Occupation": "9"
+    }
+}

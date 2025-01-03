@@ -1,0 +1,27 @@
+{
+    "relationships": [
+        {
+            "name": "Aimee Kimber",
+            "href": "https://www.whosdatedwho.com/dating/aimee-kimber",
+            "relationship_type": 1,
+            "start_date": "",
+            "end_date": "",
+            "length": "-",
+            "start_months_since_1900": -1,
+            "end_months_since_1900": -1,
+            "length_in_months": -1
+        },
+        {
+            "name": "Holly Rickwood",
+            "href": "https://www.whosdatedwho.com/dating/holly-rickwood",
+            "relationship_type": 1,
+            "start_date": "",
+            "end_date": "",
+            "length": "-",
+            "start_months_since_1900": -1,
+            "end_months_since_1900": -1,
+            "length_in_months": -1
+        }
+    ],
+    "details": {}
+}

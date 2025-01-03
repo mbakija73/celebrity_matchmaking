@@ -1,0 +1,44 @@
+{
+    "relationships": [
+        {
+            "name": "Steven Wallack",
+            "href": "https://www.whosdatedwho.com/dating/steven-wallack",
+            "relationship_type": 4,
+            "start_date": "2006",
+            "end_date": "present",
+            "length": "18 years",
+            "start_months_since_1900": 1272,
+            "end_months_since_1900": -1,
+            "length_in_months": 216
+        },
+        {
+            "name": "Kevin Zegers",
+            "href": "https://www.whosdatedwho.com/dating/kevin-zegers",
+            "relationship_type": 2,
+            "start_date": "Mar 2001",
+            "end_date": "Jul 2007",
+            "length": "6 years",
+            "start_months_since_1900": 1214,
+            "end_months_since_1900": 1290,
+            "length_in_months": 72
+        }
+    ],
+    "details": {
+        "First Name": "Marisa",
+        "Middle Name": "Christine",
+        "Last Name": "Wallack",
+        "Maiden Name": "Coughlan",
+        "Full Name at Birth": "Marisa Christine Coughlan",
+        "Alternative Name": "Marisa Christine Coughlan, Marisa Coughlan",
+        "Birthday": "1974",
+        "Birthplace": "USA",
+        "Height": "168",
+        "Weight": "105lbs (48 kg)",
+        "Zodiac Sign": "1",
+        "Sexuality": "Straight",
+        "Religion": "1",
+        "Ethnicity": "6",
+        "Nationality": "91",
+        "Occupation": "8"
+    }
+}

@@ -1,0 +1,55 @@
+{
+    "relationships": [
+        {
+            "name": "Theresa Nelson",
+            "href": "https://www.whosdatedwho.com/dating/theresa-nelson",
+            "relationship_type": 4,
+            "start_date": "1996",
+            "end_date": "present",
+            "length": "28 years",
+            "start_months_since_1900": 1152,
+            "end_months_since_1900": -1,
+            "length_in_months": 336
+        },
+        {
+            "name": "Jodi Barrett",
+            "href": "https://www.whosdatedwho.com/dating/jodi-barrett",
+            "relationship_type": 4,
+            "start_date": "Mar 1984",
+            "end_date": "Jan 1990",
+            "length": "5 years",
+            "start_months_since_1900": 1010,
+            "end_months_since_1900": 1080,
+            "length_in_months": 60
+        },
+        {
+            "name": "Karen Ryon",
+            "href": "https://www.whosdatedwho.com/dating/karen-ryon",
+            "relationship_type": 4,
+            "start_date": "1980",
+            "end_date": "Sep 1984",
+            "length": "4 years",
+            "start_months_since_1900": 960,
+            "end_months_since_1900": 1016,
+            "length_in_months": 48
+        }
+    ],
+    "details": {
+        "First Name": "James",
+        "Middle Name": "Travis",
+        "Last Name": "Tritt",
+        "Maiden Name": "NA",
+        "Full Name at Birth": "James Travis Tritt",
+        "Alternative Name": "NA",
+        "Birthday": "1963",
+        "Birthplace": "U.S.",
+        "Height": "171",
+        "Weight": "NA",
+        "Zodiac Sign": "9",
+        "Sexuality": "Straight",
+        "Religion": "1",
+        "Ethnicity": "6",
+        "Nationality": "65",
+        "Occupation": "1"
+    }
+}

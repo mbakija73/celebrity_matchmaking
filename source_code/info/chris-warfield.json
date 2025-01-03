@@ -1,0 +1,55 @@
+{
+    "relationships": [
+        {
+            "name": "Hana Yarkoni",
+            "href": "https://www.whosdatedwho.com/dating/hana-yarkoni",
+            "relationship_type": 4,
+            "start_date": "1983",
+            "end_date": "May 1996",
+            "length": "13 years",
+            "start_months_since_1900": 996,
+            "end_months_since_1900": 1156,
+            "length_in_months": 156
+        },
+        {
+            "name": "Eve Meyer",
+            "href": "https://www.whosdatedwho.com/dating/eve-meyer",
+            "relationship_type": 4,
+            "start_date": "1968",
+            "end_date": "Mar 1970",
+            "length": "2 years",
+            "start_months_since_1900": 816,
+            "end_months_since_1900": 842,
+            "length_in_months": 24
+        },
+        {
+            "name": "Sarah Jane Trax",
+            "href": "https://www.whosdatedwho.com/dating/sarah-jane-trax",
+            "relationship_type": 4,
+            "start_date": "1950",
+            "end_date": "1950",
+            "length": "-",
+            "start_months_since_1900": 600,
+            "end_months_since_1900": 600,
+            "length_in_months": -1
+        }
+    ],
+    "details": {
+        "First Name": "Chris",
+        "Middle Name": "NA",
+        "Last Name": "Warfield",
+        "Maiden Name": "NA",
+        "Full Name at Birth": "Chris Warfield",
+        "Alternative Name": "Chris Warfield",
+        "Birthday": "1927",
+        "Birthplace": "USA",
+        "Height": "NA",
+        "Weight": "NA",
+        "Zodiac Sign": "7",
+        "Sexuality": "NA",
+        "Religion": "1",
+        "Ethnicity": "1",
+        "Nationality": "91",
+        "Occupation": "8"
+    }
+}

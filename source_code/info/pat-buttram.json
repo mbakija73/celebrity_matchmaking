@@ -1,0 +1,44 @@
+{
+    "relationships": [
+        {
+            "name": "Sheila Ryan",
+            "href": "https://www.whosdatedwho.com/dating/sheila-ryan-actress",
+            "relationship_type": 4,
+            "start_date": "1950",
+            "end_date": "4th Nov 1975",
+            "length": "25 years",
+            "start_months_since_1900": 600,
+            "end_months_since_1900": 910,
+            "length_in_months": 300
+        },
+        {
+            "name": "Dorothy McFadden",
+            "href": "https://www.whosdatedwho.com/dating/dorothy-mcfadden",
+            "relationship_type": 4,
+            "start_date": "1935",
+            "end_date": "1945",
+            "length": "10 years",
+            "start_months_since_1900": 420,
+            "end_months_since_1900": 540,
+            "length_in_months": 120
+        }
+    ],
+    "details": {
+        "First Name": "Pat",
+        "Middle Name": "Maxwell",
+        "Last Name": "Buttram",
+        "Maiden Name": "NA",
+        "Full Name at Birth": "Emmett Maxwell \"Pat\" Buttram",
+        "Alternative Name": "NA",
+        "Birthday": "1915",
+        "Birthplace": "USA",
+        "Height": "183",
+        "Weight": "NA",
+        "Zodiac Sign": "4",
+        "Sexuality": "Straight",
+        "Religion": "29",
+        "Ethnicity": "6",
+        "Nationality": "91",
+        "Occupation": "8"
+    }
+}

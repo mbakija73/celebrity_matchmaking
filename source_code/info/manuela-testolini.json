@@ -1,0 +1,55 @@
+{
+    "relationships": [
+        {
+            "name": "Eric Ben\u00e9t",
+            "href": "https://www.whosdatedwho.com/dating/eric-benet",
+            "relationship_type": 4,
+            "start_date": "2007",
+            "end_date": "present",
+            "length": "17 years",
+            "start_months_since_1900": 1284,
+            "end_months_since_1900": -1,
+            "length_in_months": 204
+        },
+        {
+            "name": "Prince",
+            "href": "https://www.whosdatedwho.com/dating/prince-musician",
+            "relationship_type": 4,
+            "start_date": "2001",
+            "end_date": "May 2006",
+            "length": "5 years",
+            "start_months_since_1900": 1212,
+            "end_months_since_1900": 1276,
+            "length_in_months": 60
+        },
+        {
+            "name": "Stephen Marshall",
+            "href": "https://www.whosdatedwho.com/dating/stephen-marshall",
+            "relationship_type": 2,
+            "start_date": "1996",
+            "end_date": "2001",
+            "length": "5 years",
+            "start_months_since_1900": 1152,
+            "end_months_since_1900": 1212,
+            "length_in_months": 60
+        }
+    ],
+    "details": {
+        "First Name": "Manuela",
+        "Middle Name": "NA",
+        "Last Name": "Testolini",
+        "Maiden Name": "NA",
+        "Full Name at Birth": "NA",
+        "Alternative Name": "Mani, Manuela Testolini Nelson",
+        "Birthday": "1976",
+        "Birthplace": "Canada",
+        "Height": "165",
+        "Weight": "NA",
+        "Zodiac Sign": "11",
+        "Sexuality": "Straight",
+        "Religion": "26",
+        "Ethnicity": "8",
+        "Nationality": "90",
+        "Occupation": "7"
+    }
+}

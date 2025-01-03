@@ -1,0 +1,44 @@
+{
+    "relationships": [
+        {
+            "name": "Andy Samberg",
+            "href": "https://www.whosdatedwho.com/dating/andy-samberg",
+            "relationship_type": 4,
+            "start_date": "Feb 2007",
+            "end_date": "present",
+            "length": "17 years",
+            "start_months_since_1900": 1285,
+            "end_months_since_1900": -1,
+            "length_in_months": 204
+        },
+        {
+            "name": "Bill Callahan",
+            "href": "https://www.whosdatedwho.com/dating/bill-callahan",
+            "relationship_type": 2,
+            "start_date": "2004",
+            "end_date": "2007",
+            "length": "3 years",
+            "start_months_since_1900": 1248,
+            "end_months_since_1900": 1284,
+            "length_in_months": 36
+        }
+    ],
+    "details": {
+        "First Name": "Joanna",
+        "Middle Name": "Caroline",
+        "Last Name": "Samberg",
+        "Maiden Name": "Newsom",
+        "Full Name at Birth": "Joanna Caroline Newsom",
+        "Alternative Name": "Joanna Newsom Samberg",
+        "Birthday": "1982",
+        "Birthplace": "California",
+        "Height": "163",
+        "Weight": "NA",
+        "Zodiac Sign": "13",
+        "Sexuality": "Straight",
+        "Religion": "1",
+        "Ethnicity": "6",
+        "Nationality": "91",
+        "Occupation": "1"
+    }
+}

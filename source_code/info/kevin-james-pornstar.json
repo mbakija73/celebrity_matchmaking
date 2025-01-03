@@ -1,0 +1,44 @@
+{
+    "relationships": [
+        {
+            "name": "Ami Rogers",
+            "href": "https://www.whosdatedwho.com/dating/ami-rogers",
+            "relationship_type": 4,
+            "start_date": "1985",
+            "end_date": "1990",
+            "length": "5 years",
+            "start_months_since_1900": 1020,
+            "end_months_since_1900": 1080,
+            "length_in_months": 60
+        },
+        {
+            "name": "Loni Sanders",
+            "href": "https://www.whosdatedwho.com/dating/loni-sanders",
+            "relationship_type": 3,
+            "start_date": "",
+            "end_date": "",
+            "length": "-",
+            "start_months_since_1900": -1,
+            "end_months_since_1900": -1,
+            "length_in_months": -1
+        }
+    ],
+    "details": {
+        "First Name": "Kevin",
+        "Middle Name": "NA",
+        "Last Name": "James",
+        "Maiden Name": "NA",
+        "Full Name at Birth": "Kevin James Gibson",
+        "Alternative Name": "Gene DuQuene, Chuck Fabrae, Kevin Abalon, Keven Jay, Chris Parker, Kevin Gibbon, Keven James, Kevin Jaye, Kevin Jay, Kevin Gibson, Kevin James, Irene Duquenne",
+        "Birthday": "1954",
+        "Birthplace": "USA",
+        "Height": "188",
+        "Weight": "NA",
+        "Zodiac Sign": "5",
+        "Sexuality": "Gay",
+        "Religion": "1",
+        "Ethnicity": "6",
+        "Nationality": "91",
+        "Occupation": "16"
+    }
+}

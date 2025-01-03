@@ -1,0 +1,33 @@
+{
+    "relationships": [
+        {
+            "name": "Cherry Vanilla",
+            "href": "https://www.whosdatedwho.com/dating/cherry-vanilla",
+            "relationship_type": 3,
+            "start_date": "1970",
+            "end_date": "1970",
+            "length": "-",
+            "start_months_since_1900": 840,
+            "end_months_since_1900": 840,
+            "length_in_months": -1
+        }
+    ],
+    "details": {
+        "First Name": "Randy",
+        "Middle Name": "Jo",
+        "Last Name": "Hobbs",
+        "Maiden Name": "NA",
+        "Full Name at Birth": "NA",
+        "Alternative Name": "NA",
+        "Birthday": "1948",
+        "Birthplace": "Indiana",
+        "Height": "NA",
+        "Weight": "NA",
+        "Zodiac Sign": "7",
+        "Sexuality": "NA",
+        "Religion": "1",
+        "Ethnicity": "6",
+        "Nationality": "91",
+        "Occupation": "1"
+    }
+}

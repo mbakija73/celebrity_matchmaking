@@ -1,0 +1,44 @@
+{
+    "relationships": [
+        {
+            "name": "Amanda Richter",
+            "href": "https://www.whosdatedwho.com/dating/amanda-richter",
+            "relationship_type": 2,
+            "start_date": "2008",
+            "end_date": "2017",
+            "length": "9 years",
+            "start_months_since_1900": 1296,
+            "end_months_since_1900": 1404,
+            "length_in_months": 108
+        },
+        {
+            "name": "Sthefany Brito",
+            "href": "https://www.whosdatedwho.com/dating/sthefany-brito",
+            "relationship_type": 2,
+            "start_date": "2004",
+            "end_date": "2007",
+            "length": "3 years",
+            "start_months_since_1900": 1248,
+            "end_months_since_1900": 1284,
+            "length_in_months": 36
+        }
+    ],
+    "details": {
+        "First Name": "Max",
+        "Middle Name": "NA",
+        "Last Name": "Fercondini",
+        "Maiden Name": "NA",
+        "Full Name at Birth": "Max Kabuklow Fercondini",
+        "Alternative Name": "NA",
+        "Birthday": "1985",
+        "Birthplace": "Brazil",
+        "Height": "183",
+        "Weight": "NA",
+        "Zodiac Sign": "11",
+        "Sexuality": "Straight",
+        "Religion": "1",
+        "Ethnicity": "6",
+        "Nationality": "87",
+        "Occupation": "8"
+    }
+}

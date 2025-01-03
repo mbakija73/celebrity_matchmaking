@@ -1,0 +1,44 @@
+{
+    "relationships": [
+        {
+            "name": "Gervonta Davis",
+            "href": "https://www.whosdatedwho.com/dating/gervonta-davis",
+            "relationship_type": 2,
+            "start_date": "Sep 2019",
+            "end_date": "Jan 2020",
+            "length": "4 months",
+            "start_months_since_1900": 1436,
+            "end_months_since_1900": 1440,
+            "length_in_months": 4
+        },
+        {
+            "name": "Floyd Mayweather Jr.",
+            "href": "https://www.whosdatedwho.com/dating/floyd-mayweather-jr",
+            "relationship_type": 2,
+            "start_date": "Mar 2016",
+            "end_date": "Mar 2018",
+            "length": "2 years",
+            "start_months_since_1900": 1394,
+            "end_months_since_1900": 1418,
+            "length_in_months": 24
+        }
+    ],
+    "details": {
+        "Full Name at Birth": "Yahaira Vianne Ochoa",
+        "First Name": "NA",
+        "Middle Name": "NA",
+        "Last Name": "NA",
+        "Maiden Name": "NA",
+        "Alternative Name": "NA",
+        "Birthday": "28th September",
+        "Birthplace": "NA",
+        "Height": "170",
+        "Weight": "NA",
+        "Zodiac Sign": "10",
+        "Sexuality": "NA",
+        "Religion": "1",
+        "Ethnicity": "8",
+        "Nationality": "65",
+        "Occupation": "19"
+    }
+}

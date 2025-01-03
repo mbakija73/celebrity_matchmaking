@@ -1,0 +1,77 @@
+{
+    "relationships": [
+        {
+            "name": "Kathalyn Jones",
+            "href": "https://www.whosdatedwho.com/dating/kathalyn-jones",
+            "relationship_type": 2,
+            "start_date": "1977",
+            "end_date": "1978",
+            "length": "1 year",
+            "start_months_since_1900": 924,
+            "end_months_since_1900": 936,
+            "length_in_months": 12
+        },
+        {
+            "name": "Sofia Kiukkonen",
+            "href": "https://www.whosdatedwho.com/dating/sofia-kiukkonen",
+            "relationship_type": 2,
+            "start_date": "1976",
+            "end_date": "1976",
+            "length": "-",
+            "start_months_since_1900": 912,
+            "end_months_since_1900": 912,
+            "length_in_months": -1
+        },
+        {
+            "name": "France Gall",
+            "href": "https://www.whosdatedwho.com/dating/france-gall",
+            "relationship_type": 2,
+            "start_date": "1967",
+            "end_date": "1967",
+            "length": "-",
+            "start_months_since_1900": 804,
+            "end_months_since_1900": 804,
+            "length_in_months": -1
+        },
+        {
+            "name": "Isabelle For\u00eat",
+            "href": "https://www.whosdatedwho.com/dating/isabelle-foret",
+            "relationship_type": 4,
+            "start_date": "1967",
+            "end_date": "1973",
+            "length": "6 years",
+            "start_months_since_1900": 804,
+            "end_months_since_1900": 876,
+            "length_in_months": 72
+        },
+        {
+            "name": "Janet Woolcoot",
+            "href": "https://www.whosdatedwho.com/dating/janet-woolcoot",
+            "relationship_type": 4,
+            "start_date": "1960",
+            "end_date": "1967",
+            "length": "7 years",
+            "start_months_since_1900": 720,
+            "end_months_since_1900": 804,
+            "length_in_months": 84
+        }
+    ],
+    "details": {
+        "First Name": "Claude",
+        "Middle Name": "NA",
+        "Last Name": "Fran\u00e7ois",
+        "Maiden Name": "NA",
+        "Full Name at Birth": "Claude Fran\u00e7ois",
+        "Alternative Name": "Cloclo",
+        "Birthday": "1939",
+        "Birthplace": "Egypt",
+        "Height": "173",
+        "Weight": "NA",
+        "Zodiac Sign": "9",
+        "Sexuality": "Straight",
+        "Religion": "1",
+        "Ethnicity": "6",
+        "Nationality": "86",
+        "Occupation": "1"
+    }
+}

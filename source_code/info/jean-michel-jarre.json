@@ -1,0 +1,88 @@
+{
+    "relationships": [
+        {
+            "name": "Gong Li",
+            "href": "https://www.whosdatedwho.com/dating/li-gong",
+            "relationship_type": 4,
+            "start_date": "2007",
+            "end_date": "present",
+            "length": "17 years",
+            "start_months_since_1900": 1284,
+            "end_months_since_1900": -1,
+            "length_in_months": 204
+        },
+        {
+            "name": "Anne Parillaud",
+            "href": "https://www.whosdatedwho.com/dating/anne-parillaud",
+            "relationship_type": 4,
+            "start_date": "2003",
+            "end_date": "Oct 2010",
+            "length": "7 years",
+            "start_months_since_1900": 1236,
+            "end_months_since_1900": 1329,
+            "length_in_months": 84
+        },
+        {
+            "name": "Isabelle Adjani",
+            "href": "https://www.whosdatedwho.com/dating/isabelle-adjani",
+            "relationship_type": 2,
+            "start_date": "Jan 2002",
+            "end_date": "Jun 2004",
+            "length": "2 years",
+            "start_months_since_1900": 1224,
+            "end_months_since_1900": 1253,
+            "length_in_months": 24
+        },
+        {
+            "name": "Odile Froument",
+            "href": "https://www.whosdatedwho.com/dating/odile-froument",
+            "relationship_type": 2,
+            "start_date": "1995",
+            "end_date": "1997",
+            "length": "2 years",
+            "start_months_since_1900": 1140,
+            "end_months_since_1900": 1164,
+            "length_in_months": 24
+        },
+        {
+            "name": "Charlotte Rampling",
+            "href": "https://www.whosdatedwho.com/dating/charlotte-rampling",
+            "relationship_type": 4,
+            "start_date": "1976",
+            "end_date": "1999",
+            "length": "23 years",
+            "start_months_since_1900": 912,
+            "end_months_since_1900": 1188,
+            "length_in_months": 276
+        },
+        {
+            "name": "Flore Guillard",
+            "href": "https://www.whosdatedwho.com/dating/flore-guillard",
+            "relationship_type": 4,
+            "start_date": "Jan 1975",
+            "end_date": "1976",
+            "length": "1 year",
+            "start_months_since_1900": 900,
+            "end_months_since_1900": 912,
+            "length_in_months": 12
+        }
+    ],
+    "details": {
+        "First Name": "Jean-Michel",
+        "Middle Name": "NA",
+        "Last Name": "Jarre",
+        "Maiden Name": "NA",
+        "Full Name at Birth": "Jean-Michel Andr\u00e9 Jarre",
+        "Alternative Name": "Jamie, Jefferson",
+        "Birthday": "1948",
+        "Birthplace": "France",
+        "Height": "180",
+        "Weight": "NA",
+        "Zodiac Sign": "11",
+        "Sexuality": "Straight",
+        "Religion": "1",
+        "Ethnicity": "6",
+        "Nationality": "86",
+        "Occupation": "1"
+    }
+}

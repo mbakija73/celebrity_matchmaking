@@ -1,0 +1,132 @@
+{
+    "relationships": [
+        {
+            "name": "John James",
+            "href": "https://www.whosdatedwho.com/dating/john-james",
+            "relationship_type": 4,
+            "start_date": "1962",
+            "end_date": "1968",
+            "length": "6 years",
+            "start_months_since_1900": 744,
+            "end_months_since_1900": 816,
+            "length_in_months": 72
+        },
+        {
+            "name": "Charles Cochran",
+            "href": "https://www.whosdatedwho.com/dating/charles-cochran",
+            "relationship_type": 4,
+            "start_date": "Jan 1961",
+            "end_date": "1962",
+            "length": "1 year",
+            "start_months_since_1900": 732,
+            "end_months_since_1900": 744,
+            "length_in_months": 12
+        },
+        {
+            "name": "Troy Donahue",
+            "href": "https://www.whosdatedwho.com/dating/troy-donahue",
+            "relationship_type": 2,
+            "start_date": "Aug 1960",
+            "end_date": "Mar 1961",
+            "length": "7 months",
+            "start_months_since_1900": 727,
+            "end_months_since_1900": 734,
+            "length_in_months": 7
+        },
+        {
+            "name": "Lindsay Crosby",
+            "href": "https://www.whosdatedwho.com/dating/lindsay-crosby",
+            "relationship_type": 2,
+            "start_date": "Feb 1959",
+            "end_date": "1959",
+            "length": "1 month",
+            "start_months_since_1900": 709,
+            "end_months_since_1900": 708,
+            "length_in_months": 1
+        },
+        {
+            "name": "Jack Webb",
+            "href": "https://www.whosdatedwho.com/dating/jack-webb",
+            "relationship_type": 2,
+            "start_date": "Apr 1958",
+            "end_date": "May 1958",
+            "length": "1 month",
+            "start_months_since_1900": 699,
+            "end_months_since_1900": 700,
+            "length_in_months": 1
+        },
+        {
+            "name": "John Ashley",
+            "href": "https://www.whosdatedwho.com/dating/john-ashley",
+            "relationship_type": 2,
+            "start_date": "1958",
+            "end_date": "1958",
+            "length": "-",
+            "start_months_since_1900": 696,
+            "end_months_since_1900": 696,
+            "length_in_months": -1
+        },
+        {
+            "name": "Vince Edwards",
+            "href": "https://www.whosdatedwho.com/dating/vince-edwards",
+            "relationship_type": 2,
+            "start_date": "Aug 1956",
+            "end_date": "Sep 1958",
+            "length": "2 years",
+            "start_months_since_1900": 679,
+            "end_months_since_1900": 704,
+            "length_in_months": 24
+        },
+        {
+            "name": "John Anderson",
+            "href": "https://www.whosdatedwho.com/dating/john-anderson",
+            "relationship_type": 3,
+            "start_date": "Apr 1956",
+            "end_date": "May 1956",
+            "length": "1 month",
+            "start_months_since_1900": 675,
+            "end_months_since_1900": 676,
+            "length_in_months": 1
+        },
+        {
+            "name": "James Westmoreland",
+            "href": "https://www.whosdatedwho.com/dating/james-westmoreland",
+            "relationship_type": 2,
+            "start_date": "1955",
+            "end_date": "1955",
+            "length": "-",
+            "start_months_since_1900": 660,
+            "end_months_since_1900": 660,
+            "length_in_months": -1
+        },
+        {
+            "name": "Peter Lawford",
+            "href": "https://www.whosdatedwho.com/dating/peter-lawford",
+            "relationship_type": 2,
+            "start_date": "1953",
+            "end_date": "1953",
+            "length": "-",
+            "start_months_since_1900": 636,
+            "end_months_since_1900": 636,
+            "length_in_months": -1
+        }
+    ],
+    "details": {
+        "First Name": "Sally",
+        "Middle Name": "Joan",
+        "Last Name": "Todd",
+        "Maiden Name": "NA",
+        "Full Name at Birth": "Sarah Joan Todd",
+        "Alternative Name": "Miss February 1957, Sally Todd, Sarah Joan Todd, Sally Jo Todd",
+        "Birthday": "1934",
+        "Birthplace": "USA",
+        "Height": "165",
+        "Weight": "110lbs (50 kg)",
+        "Zodiac Sign": "4",
+        "Sexuality": "Straight",
+        "Religion": "1",
+        "Ethnicity": "6",
+        "Nationality": "91",
+        "Occupation": "8"
+    }
+}

@@ -1,0 +1,66 @@
+{
+    "relationships": [
+        {
+            "name": "Rudolph Valentino",
+            "href": "https://www.whosdatedwho.com/dating/rudolph-valentino",
+            "relationship_type": 2,
+            "start_date": "1926",
+            "end_date": "",
+            "length": "-",
+            "start_months_since_1900": 312,
+            "end_months_since_1900": -1,
+            "length_in_months": -1
+        },
+        {
+            "name": "John Barrymore",
+            "href": "https://www.whosdatedwho.com/dating/john-barrymore",
+            "relationship_type": 2,
+            "start_date": "",
+            "end_date": "",
+            "length": "-",
+            "start_months_since_1900": -1,
+            "end_months_since_1900": -1,
+            "length_in_months": -1
+        },
+        {
+            "name": "Searle Barclay",
+            "href": "https://www.whosdatedwho.com/dating/searle-barclay",
+            "relationship_type": 4,
+            "start_date": "",
+            "end_date": "",
+            "length": "-",
+            "start_months_since_1900": -1,
+            "end_months_since_1900": -1,
+            "length_in_months": -1
+        },
+        {
+            "name": "Humphrey Bogart",
+            "href": "https://www.whosdatedwho.com/dating/humphrey-bogart",
+            "relationship_type": 3,
+            "start_date": "",
+            "end_date": "",
+            "length": "-",
+            "start_months_since_1900": -1,
+            "end_months_since_1900": -1,
+            "length_in_months": -1
+        }
+    ],
+    "details": {
+        "First Name": "Nita",
+        "Middle Name": "NA",
+        "Last Name": "Naldi",
+        "Maiden Name": "NA",
+        "Full Name at Birth": "Mary Nonna Dooley",
+        "Alternative Name": "NA",
+        "Birthday": "1894",
+        "Birthplace": "USA",
+        "Height": "170",
+        "Weight": "NA",
+        "Zodiac Sign": "5",
+        "Sexuality": "Straight",
+        "Religion": "13",
+        "Ethnicity": "6",
+        "Nationality": "91",
+        "Occupation": "8"
+    }
+}

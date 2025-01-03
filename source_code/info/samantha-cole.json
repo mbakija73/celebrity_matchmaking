@@ -1,0 +1,44 @@
+{
+    "relationships": [
+        {
+            "name": "Ethan Erickson",
+            "href": "https://www.whosdatedwho.com/dating/ethan-erickson",
+            "relationship_type": 2,
+            "start_date": "Apr 1997",
+            "end_date": "Aug 1998",
+            "length": "1 year",
+            "start_months_since_1900": 1167,
+            "end_months_since_1900": 1183,
+            "length_in_months": 12
+        },
+        {
+            "name": "Peter Cook",
+            "href": "https://www.whosdatedwho.com/dating/peter-cook",
+            "relationship_type": 2,
+            "start_date": "1997",
+            "end_date": "1997",
+            "length": "-",
+            "start_months_since_1900": 1164,
+            "end_months_since_1900": 1164,
+            "length_in_months": -1
+        }
+    ],
+    "details": {
+        "First Name": "Samantha",
+        "Middle Name": "NA",
+        "Last Name": "Cole",
+        "Maiden Name": "NA",
+        "Full Name at Birth": "Samantha Cole",
+        "Alternative Name": "NA",
+        "Birthday": "1978",
+        "Birthplace": "New York",
+        "Height": "173",
+        "Weight": "108lbs (49 kg)",
+        "Zodiac Sign": "10",
+        "Sexuality": "Straight",
+        "Religion": "13",
+        "Ethnicity": "6",
+        "Nationality": "91",
+        "Occupation": "1"
+    }
+}

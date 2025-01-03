@@ -1,0 +1,44 @@
+{
+    "relationships": [
+        {
+            "name": "Connie Chung",
+            "href": "https://www.whosdatedwho.com/dating/connie-chung",
+            "relationship_type": 4,
+            "start_date": "1984",
+            "end_date": "present",
+            "length": "40 years",
+            "start_months_since_1900": 1008,
+            "end_months_since_1900": -1,
+            "length_in_months": 480
+        },
+        {
+            "name": "Phyllis Minkoff",
+            "href": "https://www.whosdatedwho.com/dating/phyllis-minkoff",
+            "relationship_type": 4,
+            "start_date": "1962",
+            "end_date": "1969",
+            "length": "7 years",
+            "start_months_since_1900": 744,
+            "end_months_since_1900": 828,
+            "length_in_months": 84
+        }
+    ],
+    "details": {
+        "First Name": "Maury",
+        "Middle Name": "NA",
+        "Last Name": "Povich",
+        "Maiden Name": "NA",
+        "Full Name at Birth": "Maurice Richard Povich",
+        "Alternative Name": "Maury",
+        "Birthday": "1939",
+        "Birthplace": "USA",
+        "Height": "180",
+        "Weight": "NA",
+        "Zodiac Sign": "13",
+        "Sexuality": "Straight",
+        "Religion": "31",
+        "Ethnicity": "6",
+        "Nationality": "91",
+        "Occupation": "16"
+    }
+}

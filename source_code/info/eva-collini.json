@@ -1,0 +1,44 @@
+{
+    "relationships": [
+        {
+            "name": "Luca DiRisio",
+            "href": "https://www.whosdatedwho.com/dating/luca-dirisio",
+            "relationship_type": 3,
+            "start_date": "Dec 2006",
+            "end_date": "Dec 2006",
+            "length": "-",
+            "start_months_since_1900": 1283,
+            "end_months_since_1900": 1283,
+            "length_in_months": -1
+        },
+        {
+            "name": "Francesco Coco",
+            "href": "https://www.whosdatedwho.com/dating/francesco-coco",
+            "relationship_type": 2,
+            "start_date": "Jan 2005",
+            "end_date": "May 2005",
+            "length": "4 months",
+            "start_months_since_1900": 1260,
+            "end_months_since_1900": 1264,
+            "length_in_months": 4
+        }
+    ],
+    "details": {
+        "First Name": "Eva",
+        "Middle Name": "NA",
+        "Last Name": "Collini",
+        "Maiden Name": "NA",
+        "Full Name at Birth": "NA",
+        "Alternative Name": "NA",
+        "Birthday": "1984",
+        "Birthplace": "Italy",
+        "Height": "175",
+        "Weight": "NA",
+        "Zodiac Sign": "10",
+        "Sexuality": "Straight",
+        "Religion": "13",
+        "Ethnicity": "6",
+        "Nationality": "139",
+        "Occupation": "15"
+    }
+}

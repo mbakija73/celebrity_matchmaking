@@ -1,0 +1,33 @@
+{
+    "relationships": [
+        {
+            "name": "Marc Anthony",
+            "href": "https://www.whosdatedwho.com/dating/marc-anthony",
+            "relationship_type": 4,
+            "start_date": "Feb 2022",
+            "end_date": "present",
+            "length": "2 years",
+            "start_months_since_1900": 1465,
+            "end_months_since_1900": -1,
+            "length_in_months": 24
+        }
+    ],
+    "details": {
+        "First Name": "Nadia",
+        "Middle Name": "Tamara",
+        "Last Name": "Ferreira",
+        "Maiden Name": "NA",
+        "Full Name at Birth": "Nadia Tamara Ferreira",
+        "Alternative Name": "NA",
+        "Birthday": "1999",
+        "Birthplace": "Paraguay",
+        "Height": "175",
+        "Weight": "NA",
+        "Zodiac Sign": "3",
+        "Sexuality": "Straight",
+        "Religion": "1",
+        "Ethnicity": "6",
+        "Nationality": "15",
+        "Occupation": "15"
+    }
+}

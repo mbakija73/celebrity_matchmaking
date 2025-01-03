@@ -1,0 +1,44 @@
+{
+    "relationships": [
+        {
+            "name": "Clint Eastwood",
+            "href": "https://www.whosdatedwho.com/dating/clint-eastwood",
+            "relationship_type": 2,
+            "start_date": "2012",
+            "end_date": "2014",
+            "length": "2 years",
+            "start_months_since_1900": 1344,
+            "end_months_since_1900": 1368,
+            "length_in_months": 24
+        },
+        {
+            "name": "Scott Fisher (basketball)",
+            "href": "https://www.whosdatedwho.com/dating/scott-fisher-basketball-basketball",
+            "relationship_type": 4,
+            "start_date": "1995",
+            "end_date": "2013",
+            "length": "18 years",
+            "start_months_since_1900": 1140,
+            "end_months_since_1900": 1356,
+            "length_in_months": 216
+        }
+    ],
+    "details": {
+        "First Name": "Erica",
+        "Middle Name": "NA",
+        "Last Name": "Tomlinson",
+        "Maiden Name": "NA",
+        "Full Name at Birth": "Erica Tomlinson",
+        "Alternative Name": "Erica Tomlinson-Fisher, Erica Tomlinson",
+        "Birthday": "NA",
+        "Birthplace": "NA",
+        "Height": "NA",
+        "Weight": "NA",
+        "Zodiac Sign": "2",
+        "Sexuality": "NA",
+        "Religion": "1",
+        "Ethnicity": "1",
+        "Nationality": "65",
+        "Occupation": "19"
+    }
+}

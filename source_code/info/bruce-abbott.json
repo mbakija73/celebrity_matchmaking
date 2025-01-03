@@ -1,0 +1,44 @@
+{
+    "relationships": [
+        {
+            "name": "Kathleen Quinlan",
+            "href": "https://www.whosdatedwho.com/dating/kathleen-quinlan",
+            "relationship_type": 4,
+            "start_date": "1989",
+            "end_date": "present",
+            "length": "35 years",
+            "start_months_since_1900": 1068,
+            "end_months_since_1900": -1,
+            "length_in_months": 420
+        },
+        {
+            "name": "Linda Hamilton",
+            "href": "https://www.whosdatedwho.com/dating/linda-hamilton",
+            "relationship_type": 4,
+            "start_date": "1981",
+            "end_date": "28th Dec 1989",
+            "length": "8 years",
+            "start_months_since_1900": 972,
+            "end_months_since_1900": 1079,
+            "length_in_months": 96
+        }
+    ],
+    "details": {
+        "First Name": "Bruce",
+        "Middle Name": "NA",
+        "Last Name": "Abbott",
+        "Maiden Name": "NA",
+        "Full Name at Birth": "Bruce Paul Abbott",
+        "Alternative Name": "NA",
+        "Birthday": "1954",
+        "Birthplace": "USA",
+        "Height": "183",
+        "Weight": "NA",
+        "Zodiac Sign": "12",
+        "Sexuality": "Straight",
+        "Religion": "1",
+        "Ethnicity": "6",
+        "Nationality": "91",
+        "Occupation": "8"
+    }
+}

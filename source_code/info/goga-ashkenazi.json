@@ -1,0 +1,44 @@
+{
+    "relationships": [
+        {
+            "name": "Lapo Elkann",
+            "href": "https://www.whosdatedwho.com/dating/lapo-elkann",
+            "relationship_type": 2,
+            "start_date": "2012",
+            "end_date": "2013",
+            "length": "1 year",
+            "start_months_since_1900": 1344,
+            "end_months_since_1900": 1356,
+            "length_in_months": 12
+        },
+        {
+            "name": "Gerard Butler",
+            "href": "https://www.whosdatedwho.com/dating/gerard-butler",
+            "relationship_type": 2,
+            "start_date": "2010",
+            "end_date": "2010",
+            "length": "-",
+            "start_months_since_1900": 1320,
+            "end_months_since_1900": 1320,
+            "length_in_months": -1
+        }
+    ],
+    "details": {
+        "First Name": "Goga",
+        "Middle Name": "NA",
+        "Last Name": "Ashkenazi",
+        "Maiden Name": "Ashkenazi",
+        "Full Name at Birth": "Gaukhar Erkinova Berkalieva",
+        "Alternative Name": "Lady Goga",
+        "Birthday": "1980",
+        "Birthplace": "USSR",
+        "Height": "NA",
+        "Weight": "NA",
+        "Zodiac Sign": "9",
+        "Sexuality": "Straight",
+        "Religion": "1",
+        "Ethnicity": "8",
+        "Nationality": "10",
+        "Occupation": "11"
+    }
+}

@@ -1,0 +1,88 @@
+{
+    "relationships": [
+        {
+            "name": "Peter Morgan",
+            "href": "https://www.whosdatedwho.com/dating/peter-morgan",
+            "relationship_type": 2,
+            "start_date": "Jan 2021",
+            "end_date": "Feb 2021",
+            "length": "1 month",
+            "start_months_since_1900": 1452,
+            "end_months_since_1900": 1453,
+            "length_in_months": 1
+        },
+        {
+            "name": "Matthew Freud",
+            "href": "https://www.whosdatedwho.com/dating/matthew-freud-business",
+            "relationship_type": 2,
+            "start_date": "Apr 2016",
+            "end_date": "2016",
+            "length": "3 months",
+            "start_months_since_1900": 1395,
+            "end_months_since_1900": 1392,
+            "length_in_months": 3
+        },
+        {
+            "name": "Russell Brand",
+            "href": "https://www.whosdatedwho.com/dating/russell-brand",
+            "relationship_type": 2,
+            "start_date": "Sep 2013",
+            "end_date": "Sep 2014",
+            "length": "1 year",
+            "start_months_since_1900": 1364,
+            "end_months_since_1900": 1376,
+            "length_in_months": 12
+        },
+        {
+            "name": "Guy Ritchie",
+            "href": "https://www.whosdatedwho.com/dating/guy-ritchie",
+            "relationship_type": 3,
+            "start_date": "Dec 2008",
+            "end_date": "Jan 2009",
+            "length": "1 month",
+            "start_months_since_1900": 1307,
+            "end_months_since_1900": 1308,
+            "length_in_months": 1
+        },
+        {
+            "name": "Hugh Grant",
+            "href": "https://www.whosdatedwho.com/dating/hugh-grant",
+            "relationship_type": 2,
+            "start_date": "Feb 2004",
+            "end_date": "Feb 2007",
+            "length": "3 years",
+            "start_months_since_1900": 1249,
+            "end_months_since_1900": 1285,
+            "length_in_months": 36
+        },
+        {
+            "name": "Imran Khan",
+            "href": "https://www.whosdatedwho.com/dating/imran-khan-cricket",
+            "relationship_type": 4,
+            "start_date": "1995",
+            "end_date": "Jun 2004",
+            "length": "9 years",
+            "start_months_since_1900": 1140,
+            "end_months_since_1900": 1253,
+            "length_in_months": 108
+        }
+    ],
+    "details": {
+        "First Name": "Jemima",
+        "Middle Name": "Marcelle",
+        "Last Name": "Khan",
+        "Maiden Name": "Goldsmith",
+        "Full Name at Birth": "Jemima Marcelle Goldsmith",
+        "Alternative Name": "Jemima Marcelle Goldsmith, Jemima Khan, Jemima Marcelle Khan, Haiqa Khan, Jemima Goldsmith Khan, Jemima Goldsmith, Jemima",
+        "Birthday": "1974",
+        "Birthplace": "UK",
+        "Height": "157",
+        "Weight": "119lbs (54 kg)",
+        "Zodiac Sign": "9",
+        "Sexuality": "Straight",
+        "Religion": "25",
+        "Ethnicity": "6",
+        "Nationality": "8",
+        "Occupation": "9"
+    }
+}

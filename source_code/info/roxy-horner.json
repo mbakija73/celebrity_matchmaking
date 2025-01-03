@@ -1,0 +1,55 @@
+{
+    "relationships": [
+        {
+            "name": "Jack Whitehall",
+            "href": "https://www.whosdatedwho.com/dating/jack-whitehall",
+            "relationship_type": 2,
+            "start_date": "Apr 2020",
+            "end_date": "present",
+            "length": "4 years",
+            "start_months_since_1900": 1443,
+            "end_months_since_1900": -1,
+            "length_in_months": 48
+        },
+        {
+            "name": "Jake Bugg",
+            "href": "https://www.whosdatedwho.com/dating/jake-bugg",
+            "relationship_type": 2,
+            "start_date": "Oct 2016",
+            "end_date": "Dec 2019",
+            "length": "3 years",
+            "start_months_since_1900": 1401,
+            "end_months_since_1900": 1439,
+            "length_in_months": 36
+        },
+        {
+            "name": "Leonardo DiCaprio",
+            "href": "https://www.whosdatedwho.com/dating/leonardo-dicaprio",
+            "relationship_type": 2,
+            "start_date": "Apr 2016",
+            "end_date": "Jul 2016",
+            "length": "3 months",
+            "start_months_since_1900": 1395,
+            "end_months_since_1900": 1398,
+            "length_in_months": 3
+        }
+    ],
+    "details": {
+        "First Name": "Roxy",
+        "Middle Name": "NA",
+        "Last Name": "Horner",
+        "Maiden Name": "NA",
+        "Full Name at Birth": "Roxy Horner",
+        "Alternative Name": "Roxi Horner, Roxy Horner",
+        "Birthday": "1991",
+        "Birthplace": "UK",
+        "Height": "173",
+        "Weight": "NA",
+        "Zodiac Sign": "4",
+        "Sexuality": "Straight",
+        "Religion": "1",
+        "Ethnicity": "6",
+        "Nationality": "8",
+        "Occupation": "15"
+    }
+}

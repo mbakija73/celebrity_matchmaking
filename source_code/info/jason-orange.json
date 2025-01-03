@@ -1,0 +1,77 @@
+{
+    "relationships": [
+        {
+            "name": "Catherine Tate",
+            "href": "https://www.whosdatedwho.com/dating/catherine-tate",
+            "relationship_type": 2,
+            "start_date": "2011",
+            "end_date": "2012",
+            "length": "1 year",
+            "start_months_since_1900": 1332,
+            "end_months_since_1900": 1344,
+            "length_in_months": 12
+        },
+        {
+            "name": "Kathy Lloyd",
+            "href": "https://www.whosdatedwho.com/dating/kathy-lloyd",
+            "relationship_type": 2,
+            "start_date": "1995",
+            "end_date": "1995",
+            "length": "-",
+            "start_months_since_1900": 1140,
+            "end_months_since_1900": 1140,
+            "length_in_months": -1
+        },
+        {
+            "name": "Lulu",
+            "href": "https://www.whosdatedwho.com/dating/lulu-vocalist",
+            "relationship_type": 3,
+            "start_date": "1993",
+            "end_date": "1993",
+            "length": "-",
+            "start_months_since_1900": 1116,
+            "end_months_since_1900": 1116,
+            "length_in_months": -1
+        },
+        {
+            "name": "Jenny Powell",
+            "href": "https://www.whosdatedwho.com/dating/jenny-powell-273231",
+            "relationship_type": 2,
+            "start_date": "1992",
+            "end_date": "1995",
+            "length": "3 years",
+            "start_months_since_1900": 1104,
+            "end_months_since_1900": 1140,
+            "length_in_months": 36
+        },
+        {
+            "name": "Jenny Powell",
+            "href": "https://www.whosdatedwho.com/dating/jenny-powell",
+            "relationship_type": 1,
+            "start_date": "",
+            "end_date": "",
+            "length": "-",
+            "start_months_since_1900": -1,
+            "end_months_since_1900": -1,
+            "length_in_months": -1
+        }
+    ],
+    "details": {
+        "First Name": "Jason",
+        "Middle Name": "Thomas",
+        "Last Name": "Orange",
+        "Maiden Name": "NA",
+        "Full Name at Birth": "Jason Thomas Orange",
+        "Alternative Name": "Jason Thomas Orange, Jason Orange, Jay",
+        "Birthday": "1970",
+        "Birthplace": "UK",
+        "Height": "183",
+        "Weight": "NA",
+        "Zodiac Sign": "8",
+        "Sexuality": "Straight",
+        "Religion": "1",
+        "Ethnicity": "6",
+        "Nationality": "8",
+        "Occupation": "1"
+    }
+}

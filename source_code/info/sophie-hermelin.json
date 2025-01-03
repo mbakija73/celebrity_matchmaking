@@ -1,0 +1,16 @@
+{
+    "relationships": [
+        {
+            "name": "Dany Boon",
+            "href": "https://www.whosdatedwho.com/dating/dany-boon",
+            "relationship_type": 2,
+            "start_date": "1995",
+            "end_date": "1997",
+            "length": "2 years",
+            "start_months_since_1900": 1140,
+            "end_months_since_1900": 1164,
+            "length_in_months": 24
+        }
+    ],
+    "details": {}
+}

@@ -1,0 +1,66 @@
+{
+    "relationships": [
+        {
+            "name": "Coco Martin",
+            "href": "https://www.whosdatedwho.com/dating/coco-martin",
+            "relationship_type": 4,
+            "start_date": "Jan 2012",
+            "end_date": "present",
+            "length": "12 years",
+            "start_months_since_1900": 1344,
+            "end_months_since_1900": -1,
+            "length_in_months": 144
+        },
+        {
+            "name": "Enchong Dee",
+            "href": "https://www.whosdatedwho.com/dating/enchong-dee",
+            "relationship_type": 2,
+            "start_date": "2012",
+            "end_date": "Jan 2013",
+            "length": "1 year",
+            "start_months_since_1900": 1344,
+            "end_months_since_1900": 1356,
+            "length_in_months": 12
+        },
+        {
+            "name": "Diego Loyzaga",
+            "href": "https://www.whosdatedwho.com/dating/diego-loyzaga",
+            "relationship_type": 3,
+            "start_date": "2011",
+            "end_date": "2011",
+            "length": "-",
+            "start_months_since_1900": 1332,
+            "end_months_since_1900": 1332,
+            "length_in_months": -1
+        },
+        {
+            "name": "Daniel Padilla",
+            "href": "https://www.whosdatedwho.com/dating/daniel-padilla",
+            "relationship_type": 3,
+            "start_date": "Apr 2010",
+            "end_date": "Jul 2010",
+            "length": "3 months",
+            "start_months_since_1900": 1323,
+            "end_months_since_1900": 1326,
+            "length_in_months": 3
+        }
+    ],
+    "details": {
+        "First Name": "Mara",
+        "Middle Name": "Hautea",
+        "Last Name": "Schittka",
+        "Maiden Name": "NA",
+        "Full Name at Birth": "Mara Hautea Schnittka",
+        "Alternative Name": "Juls, Julia Montes, Mara, Julia Montage",
+        "Birthday": "1995",
+        "Birthplace": "Philippines",
+        "Height": "170",
+        "Weight": "140lbs (64 kg)",
+        "Zodiac Sign": "1",
+        "Sexuality": "Straight",
+        "Religion": "13",
+        "Ethnicity": "8",
+        "Nationality": "16",
+        "Occupation": "8"
+    }
+}

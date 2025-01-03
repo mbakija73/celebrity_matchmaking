@@ -1,0 +1,44 @@
+{
+    "relationships": [
+        {
+            "name": "Nick Mayo",
+            "href": "https://www.whosdatedwho.com/dating/nick-mayo-264099",
+            "relationship_type": 4,
+            "start_date": "1952",
+            "end_date": "1968",
+            "length": "16 years",
+            "start_months_since_1900": 624,
+            "end_months_since_1900": 816,
+            "length_in_months": 192
+        },
+        {
+            "name": "Lou Busch",
+            "href": "https://www.whosdatedwho.com/dating/lou-busch",
+            "relationship_type": 4,
+            "start_date": "1942",
+            "end_date": "Feb 1950",
+            "length": "8 years",
+            "start_months_since_1900": 504,
+            "end_months_since_1900": 601,
+            "length_in_months": 96
+        }
+    ],
+    "details": {
+        "First Name": "Martha",
+        "Middle Name": "Janet",
+        "Last Name": "Blair",
+        "Maiden Name": "Lafferty",
+        "Full Name at Birth": "Martha Jean Lafferty",
+        "Alternative Name": "Martha Janet Lafferty, Janet Blair, Martha Jane Lafferty, Martha Jean Lafferty",
+        "Birthday": "1921",
+        "Birthplace": "USA",
+        "Height": "NA",
+        "Weight": "NA",
+        "Zodiac Sign": "3",
+        "Sexuality": "Straight",
+        "Religion": "1",
+        "Ethnicity": "6",
+        "Nationality": "91",
+        "Occupation": "8"
+    }
+}

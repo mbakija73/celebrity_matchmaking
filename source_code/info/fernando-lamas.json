@@ -1,0 +1,121 @@
+{
+    "relationships": [
+        {
+            "name": "Esther Williams",
+            "href": "https://www.whosdatedwho.com/dating/esther-williams",
+            "relationship_type": 4,
+            "start_date": "Dec 1968",
+            "end_date": "Oct 1982",
+            "length": "13 years",
+            "start_months_since_1900": 827,
+            "end_months_since_1900": 993,
+            "length_in_months": 156
+        },
+        {
+            "name": "Cleo Moore",
+            "href": "https://www.whosdatedwho.com/dating/cleo-moore",
+            "relationship_type": 2,
+            "start_date": "May 1954",
+            "end_date": "Jun 1954",
+            "length": "1 month",
+            "start_months_since_1900": 652,
+            "end_months_since_1900": 653,
+            "length_in_months": 1
+        },
+        {
+            "name": "Mary Castle",
+            "href": "https://www.whosdatedwho.com/dating/mary-castle",
+            "relationship_type": 2,
+            "start_date": "May 1954",
+            "end_date": "Jul 1954",
+            "length": "2 months",
+            "start_months_since_1900": 652,
+            "end_months_since_1900": 654,
+            "length_in_months": 2
+        },
+        {
+            "name": "Arlene Dahl",
+            "href": "https://www.whosdatedwho.com/dating/arlene-dahl",
+            "relationship_type": 4,
+            "start_date": "1953",
+            "end_date": "Aug 1960",
+            "length": "7 years",
+            "start_months_since_1900": 636,
+            "end_months_since_1900": 727,
+            "length_in_months": 84
+        },
+        {
+            "name": "Cathy Downs",
+            "href": "https://www.whosdatedwho.com/dating/cathy-downs",
+            "relationship_type": 2,
+            "start_date": "May 1952",
+            "end_date": "Jun 1952",
+            "length": "1 month",
+            "start_months_since_1900": 628,
+            "end_months_since_1900": 629,
+            "length_in_months": 1
+        },
+        {
+            "name": "Lana Turner",
+            "href": "https://www.whosdatedwho.com/dating/lana-turner",
+            "relationship_type": 3,
+            "start_date": "1952",
+            "end_date": "1952",
+            "length": "-",
+            "start_months_since_1900": 624,
+            "end_months_since_1900": 624,
+            "length_in_months": -1
+        },
+        {
+            "name": "Ava Gardner",
+            "href": "https://www.whosdatedwho.com/dating/ava-gardner",
+            "relationship_type": 3,
+            "start_date": "1952",
+            "end_date": "1952",
+            "length": "-",
+            "start_months_since_1900": 624,
+            "end_months_since_1900": 624,
+            "length_in_months": -1
+        },
+        {
+            "name": "Lydia Barachi",
+            "href": "https://www.whosdatedwho.com/dating/lydia-barachi",
+            "relationship_type": 4,
+            "start_date": "1945",
+            "end_date": "1952",
+            "length": "7 years",
+            "start_months_since_1900": 540,
+            "end_months_since_1900": 624,
+            "length_in_months": 84
+        },
+        {
+            "name": "Perla Mux",
+            "href": "https://www.whosdatedwho.com/dating/perla-mux",
+            "relationship_type": 4,
+            "start_date": "1939",
+            "end_date": "1944",
+            "length": "5 years",
+            "start_months_since_1900": 468,
+            "end_months_since_1900": 528,
+            "length_in_months": 60
+        }
+    ],
+    "details": {
+        "First Name": "Fernando",
+        "Middle Name": "NA",
+        "Last Name": "Lamas",
+        "Maiden Name": "NA",
+        "Full Name at Birth": "Fernando \u00c1lvaro Lamas y de Santos",
+        "Alternative Name": "NA",
+        "Birthday": "1915",
+        "Birthplace": "Argentina",
+        "Height": "191",
+        "Weight": "NA",
+        "Zodiac Sign": "13",
+        "Sexuality": "Straight",
+        "Religion": "13",
+        "Ethnicity": "6",
+        "Nationality": "28",
+        "Occupation": "8"
+    }
+}

@@ -1,0 +1,66 @@
+{
+    "relationships": [
+        {
+            "name": "Deion Sanders",
+            "href": "https://www.whosdatedwho.com/dating/deion-sanders",
+            "relationship_type": 4,
+            "start_date": "1998",
+            "end_date": "2012",
+            "length": "14 years",
+            "start_months_since_1900": 1176,
+            "end_months_since_1900": 1344,
+            "length_in_months": 168
+        },
+        {
+            "name": "LL Cool J",
+            "href": "https://www.whosdatedwho.com/dating/ll-cool-j",
+            "relationship_type": 3,
+            "start_date": "1996",
+            "end_date": "1996",
+            "length": "-",
+            "start_months_since_1900": 1152,
+            "end_months_since_1900": 1152,
+            "length_in_months": -1
+        },
+        {
+            "name": "Johnny Mitchell",
+            "href": "https://www.whosdatedwho.com/dating/johnny-mitchell",
+            "relationship_type": 2,
+            "start_date": "",
+            "end_date": "",
+            "length": "-",
+            "start_months_since_1900": -1,
+            "end_months_since_1900": -1,
+            "length_in_months": -1
+        },
+        {
+            "name": "Wesley Snipes",
+            "href": "https://www.whosdatedwho.com/dating/wesley-snipes",
+            "relationship_type": 2,
+            "start_date": "",
+            "end_date": "",
+            "length": "-",
+            "start_months_since_1900": -1,
+            "end_months_since_1900": -1,
+            "length_in_months": -1
+        }
+    ],
+    "details": {
+        "First Name": "Pilar",
+        "Middle Name": "Michelle",
+        "Last Name": "Sanders",
+        "Maiden Name": "Biggers",
+        "Full Name at Birth": "Pilar Michelle Biggers",
+        "Alternative Name": "Pilar Biggers, Miss P, P-Love, Pilar Biggers-Sanders",
+        "Birthday": "1974",
+        "Birthplace": "United States",
+        "Height": "175",
+        "Weight": "129lbs (59 kg)",
+        "Zodiac Sign": "9",
+        "Sexuality": "Straight",
+        "Religion": "1",
+        "Ethnicity": "8",
+        "Nationality": "91",
+        "Occupation": "8"
+    }
+}

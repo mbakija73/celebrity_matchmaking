@@ -1,0 +1,66 @@
+{
+    "relationships": [
+        {
+            "name": "Kristin Cavallari",
+            "href": "https://www.whosdatedwho.com/dating/kristin-cavallari",
+            "relationship_type": 1,
+            "start_date": "Sep 2023",
+            "end_date": "Sep 2023",
+            "length": "-",
+            "start_months_since_1900": 1484,
+            "end_months_since_1900": 1484,
+            "length_in_months": -1
+        },
+        {
+            "name": "Megan Moroney",
+            "href": "https://www.whosdatedwho.com/dating/megan-moroney-117748450",
+            "relationship_type": 2,
+            "start_date": "Jan 2023",
+            "end_date": "present",
+            "length": "1 year",
+            "start_months_since_1900": 1476,
+            "end_months_since_1900": -1,
+            "length_in_months": 12
+        },
+        {
+            "name": "Paige Lorenze",
+            "href": "https://www.whosdatedwho.com/dating/paige-lorenze",
+            "relationship_type": 2,
+            "start_date": "2021",
+            "end_date": "Feb 2022",
+            "length": "1 year",
+            "start_months_since_1900": 1452,
+            "end_months_since_1900": 1465,
+            "length_in_months": 12
+        },
+        {
+            "name": "K.T. Smith",
+            "href": "https://www.whosdatedwho.com/dating/k-t-smith",
+            "relationship_type": 2,
+            "start_date": "",
+            "end_date": "",
+            "length": "-",
+            "start_months_since_1900": -1,
+            "end_months_since_1900": -1,
+            "length_in_months": -1
+        }
+    ],
+    "details": {
+        "First Name": "Morgan",
+        "Middle Name": "Cole",
+        "Last Name": "Wallen",
+        "Maiden Name": "NA",
+        "Full Name at Birth": "Morgan Cole Wallen",
+        "Alternative Name": "NA",
+        "Birthday": "1993",
+        "Birthplace": "USA",
+        "Height": "180",
+        "Weight": "150lbs (68 kg)",
+        "Zodiac Sign": "3",
+        "Sexuality": "Straight",
+        "Religion": "1",
+        "Ethnicity": "6",
+        "Nationality": "91",
+        "Occupation": "1"
+    }
+}

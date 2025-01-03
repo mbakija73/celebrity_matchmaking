@@ -1,0 +1,55 @@
+{
+    "relationships": [
+        {
+            "name": "Simon Curtis",
+            "href": "https://www.whosdatedwho.com/dating/simon-curtis-actor",
+            "relationship_type": 4,
+            "start_date": "Dec 1990",
+            "end_date": "present",
+            "length": "33 years",
+            "start_months_since_1900": 1091,
+            "end_months_since_1900": -1,
+            "length_in_months": 396
+        },
+        {
+            "name": "Sean Penn",
+            "href": "https://www.whosdatedwho.com/dating/sean-penn",
+            "relationship_type": 2,
+            "start_date": "May 1983",
+            "end_date": "May 1984",
+            "length": "1 year",
+            "start_months_since_1900": 1000,
+            "end_months_since_1900": 1012,
+            "length_in_months": 12
+        },
+        {
+            "name": "Timothy Hutton",
+            "href": "https://www.whosdatedwho.com/dating/timothy-hutton",
+            "relationship_type": 2,
+            "start_date": "Dec 1981",
+            "end_date": "Jan 1982",
+            "length": "1 month",
+            "start_months_since_1900": 983,
+            "end_months_since_1900": 984,
+            "length_in_months": 1
+        }
+    ],
+    "details": {
+        "First Name": "Elizabeth",
+        "Middle Name": "Lee",
+        "Last Name": "Curtis",
+        "Maiden Name": "McGovern",
+        "Full Name at Birth": "Elizabeth Lee McGovern",
+        "Alternative Name": "Elizabeth Lee McGovern, Elizabeth McGovern",
+        "Birthday": "1961",
+        "Birthplace": "USA",
+        "Height": "175",
+        "Weight": "116lbs (53 kg)",
+        "Zodiac Sign": "8",
+        "Sexuality": "Straight",
+        "Religion": "1",
+        "Ethnicity": "6",
+        "Nationality": "91",
+        "Occupation": "8"
+    }
+}

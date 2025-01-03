@@ -1,0 +1,33 @@
+{
+    "relationships": [
+        {
+            "name": "Rob Dyrdek",
+            "href": "https://www.whosdatedwho.com/dating/rob-dyrdek",
+            "relationship_type": 2,
+            "start_date": "2010",
+            "end_date": "2010",
+            "length": "-",
+            "start_months_since_1900": 1320,
+            "end_months_since_1900": 1320,
+            "length_in_months": -1
+        }
+    ],
+    "details": {
+        "First Name": "Erika",
+        "Middle Name": "NA",
+        "Last Name": "Schaefer",
+        "Maiden Name": "NA",
+        "Full Name at Birth": "Erika Ashley Schaefer",
+        "Alternative Name": "NA",
+        "Birthday": "1984",
+        "Birthplace": "New Hampshire",
+        "Height": "168",
+        "Weight": "NA",
+        "Zodiac Sign": "1",
+        "Sexuality": "Straight",
+        "Religion": "1",
+        "Ethnicity": "6",
+        "Nationality": "91",
+        "Occupation": "8"
+    }
+}

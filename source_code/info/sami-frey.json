@@ -1,0 +1,66 @@
+{
+    "relationships": [
+        {
+            "name": "Brigitte Bardot",
+            "href": "https://www.whosdatedwho.com/dating/brigitte-bardot",
+            "relationship_type": 2,
+            "start_date": "1960",
+            "end_date": "1963",
+            "length": "3 years",
+            "start_months_since_1900": 720,
+            "end_months_since_1900": 756,
+            "length_in_months": 36
+        },
+        {
+            "name": "Delphine Seyrig",
+            "href": "https://www.whosdatedwho.com/dating/delphine-seyrig",
+            "relationship_type": 2,
+            "start_date": "",
+            "end_date": "",
+            "length": "-",
+            "start_months_since_1900": -1,
+            "end_months_since_1900": -1,
+            "length_in_months": -1
+        },
+        {
+            "name": "Pascale Audret",
+            "href": "https://www.whosdatedwho.com/dating/pascale-audret",
+            "relationship_type": 2,
+            "start_date": "",
+            "end_date": "",
+            "length": "-",
+            "start_months_since_1900": -1,
+            "end_months_since_1900": -1,
+            "length_in_months": -1
+        },
+        {
+            "name": "Catherine Deneuve",
+            "href": "https://www.whosdatedwho.com/dating/catherine-deneuve",
+            "relationship_type": 2,
+            "start_date": "",
+            "end_date": "",
+            "length": "-",
+            "start_months_since_1900": -1,
+            "end_months_since_1900": -1,
+            "length_in_months": -1
+        }
+    ],
+    "details": {
+        "First Name": "Sami",
+        "Middle Name": "NA",
+        "Last Name": "Frey",
+        "Maiden Name": "NA",
+        "Full Name at Birth": "Samuel Frey",
+        "Alternative Name": "NA",
+        "Birthday": "1937",
+        "Birthplace": "France",
+        "Height": "178",
+        "Weight": "NA",
+        "Zodiac Sign": "10",
+        "Sexuality": "Straight",
+        "Religion": "1",
+        "Ethnicity": "6",
+        "Nationality": "86",
+        "Occupation": "8"
+    }
+}

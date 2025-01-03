@@ -1,0 +1,77 @@
+{
+    "relationships": [
+        {
+            "name": "John Torode",
+            "href": "https://www.whosdatedwho.com/dating/john-torode",
+            "relationship_type": 2,
+            "start_date": "2012",
+            "end_date": "2012",
+            "length": "-",
+            "start_months_since_1900": 1344,
+            "end_months_since_1900": 1344,
+            "length_in_months": -1
+        },
+        {
+            "name": "Chris Coghill",
+            "href": "https://www.whosdatedwho.com/dating/chris-coghill",
+            "relationship_type": 4,
+            "start_date": "2003",
+            "end_date": "2011",
+            "length": "8 years",
+            "start_months_since_1900": 1236,
+            "end_months_since_1900": 1332,
+            "length_in_months": 96
+        },
+        {
+            "name": "Jonny Lee Miller",
+            "href": "https://www.whosdatedwho.com/dating/jonny-lee-miller",
+            "relationship_type": 2,
+            "start_date": "2001",
+            "end_date": "2002",
+            "length": "1 year",
+            "start_months_since_1900": 1212,
+            "end_months_since_1900": 1224,
+            "length_in_months": 12
+        },
+        {
+            "name": "Trey Parker",
+            "href": "https://www.whosdatedwho.com/dating/trey-parker",
+            "relationship_type": 2,
+            "start_date": "2000",
+            "end_date": "2001",
+            "length": "1 year",
+            "start_months_since_1900": 1200,
+            "end_months_since_1900": 1212,
+            "length_in_months": 12
+        },
+        {
+            "name": "Romain Duris",
+            "href": "https://www.whosdatedwho.com/dating/romain-duris",
+            "relationship_type": 2,
+            "start_date": "1995",
+            "end_date": "1995",
+            "length": "-",
+            "start_months_since_1900": 1140,
+            "end_months_since_1900": 1140,
+            "length_in_months": -1
+        }
+    ],
+    "details": {
+        "First Name": "Lisa",
+        "Middle Name": "Tamsin",
+        "Last Name": "Faulkner",
+        "Maiden Name": "Faulkner",
+        "Full Name at Birth": "Lisa Tamsin Faulkner",
+        "Alternative Name": "Lisa Coghill",
+        "Birthday": "1972",
+        "Birthplace": "UK",
+        "Height": "163",
+        "Weight": "NA",
+        "Zodiac Sign": "9",
+        "Sexuality": "Straight",
+        "Religion": "1",
+        "Ethnicity": "6",
+        "Nationality": "8",
+        "Occupation": "8"
+    }
+}

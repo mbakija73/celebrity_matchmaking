@@ -1,0 +1,55 @@
+{
+    "relationships": [
+        {
+            "name": "Tracy Chapman",
+            "href": "https://www.whosdatedwho.com/dating/tracy-chapman",
+            "relationship_type": 2,
+            "start_date": "2010",
+            "end_date": "2010",
+            "length": "-",
+            "start_months_since_1900": 1320,
+            "end_months_since_1900": 1320,
+            "length_in_months": -1
+        },
+        {
+            "name": "Portia de Rossi",
+            "href": "https://www.whosdatedwho.com/dating/portia-de-rossi",
+            "relationship_type": 2,
+            "start_date": "1998",
+            "end_date": "2000",
+            "length": "2 years",
+            "start_months_since_1900": 1176,
+            "end_months_since_1900": 1200,
+            "length_in_months": 24
+        },
+        {
+            "name": "Rose Troche",
+            "href": "https://www.whosdatedwho.com/dating/rose-troche",
+            "relationship_type": 2,
+            "start_date": "1993",
+            "end_date": "1996",
+            "length": "3 years",
+            "start_months_since_1900": 1116,
+            "end_months_since_1900": 1152,
+            "length_in_months": 36
+        }
+    ],
+    "details": {
+        "First Name": "Guinevere",
+        "Middle Name": "NA",
+        "Last Name": "Turner",
+        "Maiden Name": "NA",
+        "Full Name at Birth": "Guinevere Jane Turner",
+        "Alternative Name": "Guin Turner, Ginnie",
+        "Birthday": "1968",
+        "Birthplace": "USA",
+        "Height": "157",
+        "Weight": "48lbs (22 kg)",
+        "Zodiac Sign": "4",
+        "Sexuality": "Lesbian",
+        "Religion": "18",
+        "Ethnicity": "6",
+        "Nationality": "91",
+        "Occupation": "8"
+    }
+}

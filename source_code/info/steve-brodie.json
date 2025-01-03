@@ -1,0 +1,44 @@
+{
+    "relationships": [
+        {
+            "name": "Claire James",
+            "href": "https://www.whosdatedwho.com/dating/claire-james",
+            "relationship_type": 2,
+            "start_date": "Apr 1948",
+            "end_date": "May 1948",
+            "length": "1 month",
+            "start_months_since_1900": 579,
+            "end_months_since_1900": 580,
+            "length_in_months": 1
+        },
+        {
+            "name": "Lois Andrews",
+            "href": "https://www.whosdatedwho.com/dating/lois-andrews",
+            "relationship_type": 4,
+            "start_date": "1945",
+            "end_date": "Mar 1950",
+            "length": "5 years",
+            "start_months_since_1900": 540,
+            "end_months_since_1900": 602,
+            "length_in_months": 60
+        }
+    ],
+    "details": {
+        "First Name": "Steve",
+        "Middle Name": "NA",
+        "Last Name": "Brodie",
+        "Maiden Name": "NA",
+        "Full Name at Birth": "NA",
+        "Alternative Name": "NA",
+        "Birthday": "1919",
+        "Birthplace": "U.S.",
+        "Height": "178",
+        "Weight": "NA",
+        "Zodiac Sign": "5",
+        "Sexuality": "NA",
+        "Religion": "1",
+        "Ethnicity": "1",
+        "Nationality": "91",
+        "Occupation": "8"
+    }
+}

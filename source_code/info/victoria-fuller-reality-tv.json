@@ -1,0 +1,77 @@
+{
+    "relationships": [
+        {
+            "name": "Will Levis",
+            "href": "https://www.whosdatedwho.com/dating/will-levis",
+            "relationship_type": 2,
+            "start_date": "2024",
+            "end_date": "present",
+            "length": "9 months",
+            "start_months_since_1900": 1488,
+            "end_months_since_1900": -1,
+            "length_in_months": 9
+        },
+        {
+            "name": "Greg Grippo",
+            "href": "https://www.whosdatedwho.com/dating/greg-grippo",
+            "relationship_type": 2,
+            "start_date": "Nov 2022",
+            "end_date": "Apr 2024",
+            "length": "1 year",
+            "start_months_since_1900": 1474,
+            "end_months_since_1900": 1491,
+            "length_in_months": 12
+        },
+        {
+            "name": "Chris Soules",
+            "href": "https://www.whosdatedwho.com/dating/chris-soules",
+            "relationship_type": 2,
+            "start_date": "Apr 2020",
+            "end_date": "Sep 2020",
+            "length": "5 months",
+            "start_months_since_1900": 1443,
+            "end_months_since_1900": 1448,
+            "length_in_months": 5
+        },
+        {
+            "name": "Johnny DePhillipo",
+            "href": "https://www.whosdatedwho.com/dating/johnny-dephillipo",
+            "relationship_type": 2,
+            "start_date": "",
+            "end_date": "Sep 2022",
+            "length": "-",
+            "start_months_since_1900": -1,
+            "end_months_since_1900": 1472,
+            "length_in_months": -1
+        },
+        {
+            "name": "Chase Rice",
+            "href": "https://www.whosdatedwho.com/dating/chase-rice",
+            "relationship_type": 2,
+            "start_date": "",
+            "end_date": "",
+            "length": "-",
+            "start_months_since_1900": -1,
+            "end_months_since_1900": -1,
+            "length_in_months": -1
+        }
+    ],
+    "details": {
+        "First Name": "Victoria",
+        "Middle Name": "Lynn",
+        "Last Name": "Fuller",
+        "Maiden Name": "NA",
+        "Full Name at Birth": "Victoria Lynn Fuller",
+        "Alternative Name": "Victoria",
+        "Birthday": "1993",
+        "Birthplace": "USA",
+        "Height": "168",
+        "Weight": "124lbs (56 kg)",
+        "Zodiac Sign": "10",
+        "Sexuality": "Straight",
+        "Religion": "1",
+        "Ethnicity": "6",
+        "Nationality": "91",
+        "Occupation": "11"
+    }
+}

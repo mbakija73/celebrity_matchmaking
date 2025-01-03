@@ -1,0 +1,66 @@
+{
+    "relationships": [
+        {
+            "name": "Leo Opazo",
+            "href": "https://www.whosdatedwho.com/dating/leo-opazo",
+            "relationship_type": 2,
+            "start_date": "Nov 2018",
+            "end_date": "present",
+            "length": "5 years",
+            "start_months_since_1900": 1426,
+            "end_months_since_1900": -1,
+            "length_in_months": 60
+        },
+        {
+            "name": "Alexis S\u00e1nchez",
+            "href": "https://www.whosdatedwho.com/dating/alexis-sanchez",
+            "relationship_type": 3,
+            "start_date": "Oct 2018",
+            "end_date": "Oct 2018",
+            "length": "-",
+            "start_months_since_1900": 1425,
+            "end_months_since_1900": 1425,
+            "length_in_months": -1
+        },
+        {
+            "name": "Abraham Garc\u00eda Arevalo",
+            "href": "https://www.whosdatedwho.com/dating/abraham-garcia-arevalo",
+            "relationship_type": 2,
+            "start_date": "2017",
+            "end_date": "Nov 2017",
+            "length": "10 months",
+            "start_months_since_1900": 1404,
+            "end_months_since_1900": 1414,
+            "length_in_months": 10
+        },
+        {
+            "name": "Tony Spina",
+            "href": "https://www.whosdatedwho.com/dating/tony-spina",
+            "relationship_type": 2,
+            "start_date": "2016",
+            "end_date": "2017",
+            "length": "1 year",
+            "start_months_since_1900": 1392,
+            "end_months_since_1900": 1404,
+            "length_in_months": 12
+        }
+    ],
+    "details": {
+        "First Name": "NA",
+        "Middle Name": "NA",
+        "Last Name": "NA",
+        "Maiden Name": "NA",
+        "Full Name at Birth": "NA",
+        "Alternative Name": "NA",
+        "Birthday": "NA",
+        "Birthplace": "NA",
+        "Height": "NA",
+        "Weight": "NA",
+        "Zodiac Sign": "2",
+        "Sexuality": "NA",
+        "Religion": "1",
+        "Ethnicity": "1",
+        "Nationality": "28",
+        "Occupation": "16"
+    }
+}

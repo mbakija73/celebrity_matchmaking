@@ -1,0 +1,77 @@
+{
+    "relationships": [
+        {
+            "name": "Monica Bellucci",
+            "href": "https://www.whosdatedwho.com/dating/monica-bellucci",
+            "relationship_type": 2,
+            "start_date": "Oct 2022",
+            "end_date": "present",
+            "length": "1 year",
+            "start_months_since_1900": 1473,
+            "end_months_since_1900": -1,
+            "length_in_months": 12
+        },
+        {
+            "name": "Eva Green",
+            "href": "https://www.whosdatedwho.com/dating/eva-green",
+            "relationship_type": 1,
+            "start_date": "Dec 2015",
+            "end_date": "Dec 2015",
+            "length": "-",
+            "start_months_since_1900": 1391,
+            "end_months_since_1900": 1391,
+            "length_in_months": -1
+        },
+        {
+            "name": "Helena Bonham Carter",
+            "href": "https://www.whosdatedwho.com/dating/helena-bonham-carter",
+            "relationship_type": 2,
+            "start_date": "Jul 2001",
+            "end_date": "2014",
+            "length": "12 years",
+            "start_months_since_1900": 1218,
+            "end_months_since_1900": 1368,
+            "length_in_months": 144
+        },
+        {
+            "name": "Lisa Marie",
+            "href": "https://www.whosdatedwho.com/dating/lisa-marie",
+            "relationship_type": 2,
+            "start_date": "Dec 1991",
+            "end_date": "Jul 2001",
+            "length": "9 years",
+            "start_months_since_1900": 1103,
+            "end_months_since_1900": 1218,
+            "length_in_months": 108
+        },
+        {
+            "name": "Lena Gieseke",
+            "href": "https://www.whosdatedwho.com/dating/lena-gieseke",
+            "relationship_type": 4,
+            "start_date": "1988",
+            "end_date": "31st Dec 1991",
+            "length": "4 years",
+            "start_months_since_1900": 1056,
+            "end_months_since_1900": 1103,
+            "length_in_months": 48
+        }
+    ],
+    "details": {
+        "First Name": "Timothy",
+        "Middle Name": "William",
+        "Last Name": "Burton",
+        "Maiden Name": "NA",
+        "Full Name at Birth": "Timothy William Burton",
+        "Alternative Name": "Tim Burton, Timothy Walter Burton",
+        "Birthday": "1958",
+        "Birthplace": "California",
+        "Height": "182",
+        "Weight": "NA",
+        "Zodiac Sign": "11",
+        "Sexuality": "Straight",
+        "Religion": "1",
+        "Ethnicity": "6",
+        "Nationality": "91",
+        "Occupation": "9"
+    }
+}

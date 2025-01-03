@@ -1,0 +1,132 @@
+{
+    "relationships": [
+        {
+            "name": "Iris Whitney",
+            "href": "https://www.whosdatedwho.com/dating/iris-whitney",
+            "relationship_type": 2,
+            "start_date": "1952",
+            "end_date": "1952",
+            "length": "-",
+            "start_months_since_1900": 624,
+            "end_months_since_1900": 624,
+            "length_in_months": -1
+        },
+        {
+            "name": "June Eckstine",
+            "href": "https://www.whosdatedwho.com/dating/june-eckstine",
+            "relationship_type": 2,
+            "start_date": "1952",
+            "end_date": "1952",
+            "length": "-",
+            "start_months_since_1900": 624,
+            "end_months_since_1900": 624,
+            "length_in_months": -1
+        },
+        {
+            "name": "Shelley Winters",
+            "href": "https://www.whosdatedwho.com/dating/shelley-winters",
+            "relationship_type": 3,
+            "start_date": "7th Nov 1950",
+            "end_date": "Dec 1950",
+            "length": "< 1 month",
+            "start_months_since_1900": 610,
+            "end_months_since_1900": 611,
+            "length_in_months": 0
+        },
+        {
+            "name": "Lana Turner",
+            "href": "https://www.whosdatedwho.com/dating/lana-turner",
+            "relationship_type": 3,
+            "start_date": "Oct 1945",
+            "end_date": "Nov 1945",
+            "length": "1 month",
+            "start_months_since_1900": 549,
+            "end_months_since_1900": 550,
+            "length_in_months": 1
+        },
+        {
+            "name": "Hedy Lamarr",
+            "href": "https://www.whosdatedwho.com/dating/hedy-lamarr",
+            "relationship_type": 3,
+            "start_date": "1942",
+            "end_date": "1942",
+            "length": "-",
+            "start_months_since_1900": 504,
+            "end_months_since_1900": 504,
+            "length_in_months": -1
+        },
+        {
+            "name": "Joan Crawford",
+            "href": "https://www.whosdatedwho.com/dating/joan-crawford",
+            "relationship_type": 3,
+            "start_date": "1940",
+            "end_date": "1940",
+            "length": "-",
+            "start_months_since_1900": 480,
+            "end_months_since_1900": 480,
+            "length_in_months": -1
+        },
+        {
+            "name": "Roberta Seidman",
+            "href": "https://www.whosdatedwho.com/dating/roberta-seidman",
+            "relationship_type": 4,
+            "start_date": "1935",
+            "end_date": "1952",
+            "length": "17 years",
+            "start_months_since_1900": 420,
+            "end_months_since_1900": 624,
+            "length_in_months": 204
+        },
+        {
+            "name": "\u00c9dith Piaf",
+            "href": "https://www.whosdatedwho.com/dating/edith-piaf",
+            "relationship_type": 2,
+            "start_date": "",
+            "end_date": "",
+            "length": "-",
+            "start_months_since_1900": -1,
+            "end_months_since_1900": -1,
+            "length_in_months": -1
+        },
+        {
+            "name": "Olivia de Havilland",
+            "href": "https://www.whosdatedwho.com/dating/olivia-de-havilland",
+            "relationship_type": 1,
+            "start_date": "",
+            "end_date": "",
+            "length": "-",
+            "start_months_since_1900": -1,
+            "end_months_since_1900": -1,
+            "length_in_months": -1
+        },
+        {
+            "name": "Ann Rutherford",
+            "href": "https://www.whosdatedwho.com/dating/ann-rutherford",
+            "relationship_type": 2,
+            "start_date": "",
+            "end_date": "",
+            "length": "-",
+            "start_months_since_1900": -1,
+            "end_months_since_1900": -1,
+            "length_in_months": -1
+        }
+    ],
+    "details": {
+        "First Name": "John",
+        "Middle Name": "Julius",
+        "Last Name": "Garfield",
+        "Maiden Name": "NA",
+        "Full Name at Birth": "Jacob Julius Garfinkle",
+        "Alternative Name": "NA",
+        "Birthday": "1913",
+        "Birthplace": "USA",
+        "Height": "170",
+        "Weight": "NA",
+        "Zodiac Sign": "1",
+        "Sexuality": "Straight",
+        "Religion": "31",
+        "Ethnicity": "6",
+        "Nationality": "91",
+        "Occupation": "8"
+    }
+}

@@ -1,0 +1,55 @@
+{
+    "relationships": [
+        {
+            "name": "Donald Trump Jr.",
+            "href": "https://www.whosdatedwho.com/dating/donald-trump-jr",
+            "relationship_type": 2,
+            "start_date": "Mar 2018",
+            "end_date": "present",
+            "length": "6 years",
+            "start_months_since_1900": 1418,
+            "end_months_since_1900": -1,
+            "length_in_months": 72
+        },
+        {
+            "name": "Eric Villency",
+            "href": "https://www.whosdatedwho.com/dating/eric-villency",
+            "relationship_type": 4,
+            "start_date": "2006",
+            "end_date": "2010",
+            "length": "4 years",
+            "start_months_since_1900": 1272,
+            "end_months_since_1900": 1320,
+            "length_in_months": 48
+        },
+        {
+            "name": "Gavin Newsom",
+            "href": "https://www.whosdatedwho.com/dating/gavin-newsom",
+            "relationship_type": 4,
+            "start_date": "2001",
+            "end_date": "Jan 2005",
+            "length": "4 years",
+            "start_months_since_1900": 1212,
+            "end_months_since_1900": 1260,
+            "length_in_months": 48
+        }
+    ],
+    "details": {
+        "First Name": "Kimberly",
+        "Middle Name": "Ann",
+        "Last Name": "Guilfoyle-Newsom",
+        "Maiden Name": "Guilfoyle",
+        "Full Name at Birth": "Kimberly Ann Guilfoyle",
+        "Alternative Name": "Kimberly Guilfoyle-Newsom, Kimberly Ann Guilfoyle, Kimberly Guilfoyle, Kimberly Ann Guilfoyle-Newsom",
+        "Birthday": "1969",
+        "Birthplace": "USA",
+        "Height": "157",
+        "Weight": "NA",
+        "Zodiac Sign": "1",
+        "Sexuality": "Straight",
+        "Religion": "13",
+        "Ethnicity": "8",
+        "Nationality": "91",
+        "Occupation": "11"
+    }
+}

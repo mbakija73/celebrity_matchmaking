@@ -1,0 +1,99 @@
+{
+    "relationships": [
+        {
+            "name": "Nicole Kidman",
+            "href": "https://www.whosdatedwho.com/dating/nicole-kidman",
+            "relationship_type": 2,
+            "start_date": "Apr 2003",
+            "end_date": "May 2003",
+            "length": "1 month",
+            "start_months_since_1900": 1239,
+            "end_months_since_1900": 1240,
+            "length_in_months": 1
+        },
+        {
+            "name": "Janet Jackson",
+            "href": "https://www.whosdatedwho.com/dating/janet-jackson",
+            "relationship_type": 2,
+            "start_date": "Apr 2001",
+            "end_date": "Jan 2002",
+            "length": "9 months",
+            "start_months_since_1900": 1215,
+            "end_months_since_1900": 1224,
+            "length_in_months": 9
+        },
+        {
+            "name": "Karrine Steffans",
+            "href": "https://www.whosdatedwho.com/dating/karrine-steffans",
+            "relationship_type": 3,
+            "start_date": "2000",
+            "end_date": "2000",
+            "length": "-",
+            "start_months_since_1900": 1200,
+            "end_months_since_1900": 1200,
+            "length_in_months": -1
+        },
+        {
+            "name": "Angie Martinez",
+            "href": "https://www.whosdatedwho.com/dating/angie-martinez",
+            "relationship_type": 2,
+            "start_date": "1998",
+            "end_date": "1998",
+            "length": "-",
+            "start_months_since_1900": 1176,
+            "end_months_since_1900": 1176,
+            "length_in_months": -1
+        },
+        {
+            "name": "Michele Daves",
+            "href": "https://www.whosdatedwho.com/dating/michele-daves",
+            "relationship_type": 4,
+            "start_date": "1989",
+            "end_date": "present",
+            "length": "35 years",
+            "start_months_since_1900": 1068,
+            "end_months_since_1900": -1,
+            "length_in_months": 420
+        },
+        {
+            "name": "Leila Arcieri",
+            "href": "https://www.whosdatedwho.com/dating/leila-arcieri",
+            "relationship_type": 3,
+            "start_date": "",
+            "end_date": "",
+            "length": "-",
+            "start_months_since_1900": -1,
+            "end_months_since_1900": -1,
+            "length_in_months": -1
+        },
+        {
+            "name": "MC Lyte",
+            "href": "https://www.whosdatedwho.com/dating/mc-lyte",
+            "relationship_type": 2,
+            "start_date": "",
+            "end_date": "",
+            "length": "-",
+            "start_months_since_1900": -1,
+            "end_months_since_1900": -1,
+            "length_in_months": -1
+        }
+    ],
+    "details": {
+        "First Name": "Q-Tip",
+        "Middle Name": "NA",
+        "Last Name": "NA",
+        "Maiden Name": "NA",
+        "Full Name at Birth": "Jonathan William Davis",
+        "Alternative Name": "Kamaal Ibn John Fareed, Abstract, MC Love Child, The Abstract, The Abstract Poetic, Tip, The Lone Ranger, The Last Zulu, Jonathan William Davis, Q-Tip",
+        "Birthday": "1970",
+        "Birthplace": "USA",
+        "Height": "184",
+        "Weight": "185lbs (84 kg)",
+        "Zodiac Sign": "7",
+        "Sexuality": "Straight",
+        "Religion": "25",
+        "Ethnicity": "2",
+        "Nationality": "91",
+        "Occupation": "1"
+    }
+}

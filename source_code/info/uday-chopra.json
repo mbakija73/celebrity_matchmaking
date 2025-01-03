@@ -1,0 +1,44 @@
+{
+    "relationships": [
+        {
+            "name": "Nargis Fakhri",
+            "href": "https://www.whosdatedwho.com/dating/nargis-fakhri",
+            "relationship_type": 2,
+            "start_date": "2014",
+            "end_date": "2017",
+            "length": "3 years",
+            "start_months_since_1900": 1368,
+            "end_months_since_1900": 1404,
+            "length_in_months": 36
+        },
+        {
+            "name": "Tanishaa Mukerji",
+            "href": "https://www.whosdatedwho.com/dating/tanisha",
+            "relationship_type": 3,
+            "start_date": "2005",
+            "end_date": "2007",
+            "length": "2 years",
+            "start_months_since_1900": 1260,
+            "end_months_since_1900": 1284,
+            "length_in_months": 24
+        }
+    ],
+    "details": {
+        "First Name": "Uday",
+        "Middle Name": "NA",
+        "Last Name": "Chopra",
+        "Maiden Name": "NA",
+        "Full Name at Birth": "Uday Chopra",
+        "Alternative Name": "Udi, Tiger",
+        "Birthday": "1973",
+        "Birthplace": "India",
+        "Height": "171",
+        "Weight": "NA",
+        "Zodiac Sign": "13",
+        "Sexuality": "Straight",
+        "Religion": "27",
+        "Ethnicity": "7",
+        "Nationality": "34",
+        "Occupation": "8"
+    }
+}

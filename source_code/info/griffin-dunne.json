@@ -1,0 +1,77 @@
+{
+    "relationships": [
+        {
+            "name": "Anna Bingeman",
+            "href": "https://www.whosdatedwho.com/dating/anna-bingeman",
+            "relationship_type": 4,
+            "start_date": "2007",
+            "end_date": "",
+            "length": "-",
+            "start_months_since_1900": 1284,
+            "end_months_since_1900": -1,
+            "length_in_months": -1
+        },
+        {
+            "name": "Sophie Dahl",
+            "href": "https://www.whosdatedwho.com/dating/sophie-dahl",
+            "relationship_type": 2,
+            "start_date": "Jan 2000",
+            "end_date": "Jan 2001",
+            "length": "1 year",
+            "start_months_since_1900": 1200,
+            "end_months_since_1900": 1212,
+            "length_in_months": 12
+        },
+        {
+            "name": "Carey Lowell",
+            "href": "https://www.whosdatedwho.com/dating/carey-lowell",
+            "relationship_type": 4,
+            "start_date": "1988",
+            "end_date": "Dec 1995",
+            "length": "7 years",
+            "start_months_since_1900": 1056,
+            "end_months_since_1900": 1151,
+            "length_in_months": 84
+        },
+        {
+            "name": "Carrie Fisher",
+            "href": "https://www.whosdatedwho.com/dating/carrie-fisher",
+            "relationship_type": 2,
+            "start_date": "1973",
+            "end_date": "1975",
+            "length": "2 years",
+            "start_months_since_1900": 876,
+            "end_months_since_1900": 900,
+            "length_in_months": 24
+        },
+        {
+            "name": "Kate Forte",
+            "href": "https://www.whosdatedwho.com/dating/kate-forte",
+            "relationship_type": 2,
+            "start_date": "",
+            "end_date": "",
+            "length": "-",
+            "start_months_since_1900": -1,
+            "end_months_since_1900": -1,
+            "length_in_months": -1
+        }
+    ],
+    "details": {
+        "First Name": "Griffin",
+        "Middle Name": "NA",
+        "Last Name": "Dunne",
+        "Maiden Name": "NA",
+        "Full Name at Birth": "Thomas Griffin Dunne",
+        "Alternative Name": "NA",
+        "Birthday": "1955",
+        "Birthplace": "USA",
+        "Height": "170",
+        "Weight": "NA",
+        "Zodiac Sign": "4",
+        "Sexuality": "Straight",
+        "Religion": "13",
+        "Ethnicity": "6",
+        "Nationality": "91",
+        "Occupation": "8"
+    }
+}

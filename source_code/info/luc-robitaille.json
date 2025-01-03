@@ -1,0 +1,44 @@
+{
+    "relationships": [
+        {
+            "name": "Stacey Toten",
+            "href": "https://www.whosdatedwho.com/dating/stacey-toten",
+            "relationship_type": 4,
+            "start_date": "1992",
+            "end_date": "present",
+            "length": "32 years",
+            "start_months_since_1900": 1104,
+            "end_months_since_1900": -1,
+            "length_in_months": 384
+        },
+        {
+            "name": "Nancy McKeon",
+            "href": "https://www.whosdatedwho.com/dating/nancy-mckeon",
+            "relationship_type": 2,
+            "start_date": "1990",
+            "end_date": "1991",
+            "length": "1 year",
+            "start_months_since_1900": 1080,
+            "end_months_since_1900": 1092,
+            "length_in_months": 12
+        }
+    ],
+    "details": {
+        "First Name": "Luc",
+        "Middle Name": "NA",
+        "Last Name": "Robitaille",
+        "Maiden Name": "NA",
+        "Full Name at Birth": "NA",
+        "Alternative Name": "NA",
+        "Birthday": "1966",
+        "Birthplace": "Quebec",
+        "Height": "185",
+        "Weight": "215lbs (98 kg)",
+        "Zodiac Sign": "9",
+        "Sexuality": "Straight",
+        "Religion": "1",
+        "Ethnicity": "6",
+        "Nationality": "90",
+        "Occupation": "2"
+    }
+}

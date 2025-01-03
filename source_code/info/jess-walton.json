@@ -1,0 +1,44 @@
+{
+    "relationships": [
+        {
+            "name": "John W. James",
+            "href": "https://www.whosdatedwho.com/dating/john-w-james",
+            "relationship_type": 4,
+            "start_date": "1979",
+            "end_date": "Aug 2021",
+            "length": "42 years",
+            "start_months_since_1900": 948,
+            "end_months_since_1900": 1459,
+            "length_in_months": 504
+        },
+        {
+            "name": "Bruce Davison",
+            "href": "https://www.whosdatedwho.com/dating/bruce-davison",
+            "relationship_type": 4,
+            "start_date": "Mar 1971",
+            "end_date": "1973",
+            "length": "1 year",
+            "start_months_since_1900": 854,
+            "end_months_since_1900": 876,
+            "length_in_months": 12
+        }
+    ],
+    "details": {
+        "First Name": "Jess",
+        "Middle Name": "NA",
+        "Last Name": "NA",
+        "Maiden Name": "Walton",
+        "Full Name at Birth": "Mary Jess Walton",
+        "Alternative Name": "Jess Walton, Jessica Walton",
+        "Birthday": "1949",
+        "Birthplace": "Michigan USA",
+        "Height": "170",
+        "Weight": "143lbs (65 kg)",
+        "Zodiac Sign": "9",
+        "Sexuality": "Straight",
+        "Religion": "18",
+        "Ethnicity": "6",
+        "Nationality": "91",
+        "Occupation": "8"
+    }
+}

@@ -1,0 +1,44 @@
+{
+    "relationships": [
+        {
+            "name": "Marianne McAndrew",
+            "href": "https://www.whosdatedwho.com/dating/marianne-mcandrew",
+            "relationship_type": 4,
+            "start_date": "1969",
+            "end_date": "",
+            "length": "-",
+            "start_months_since_1900": 828,
+            "end_months_since_1900": -1,
+            "length_in_months": -1
+        },
+        {
+            "name": "Karen Jensen",
+            "href": "https://www.whosdatedwho.com/dating/karen-jensen",
+            "relationship_type": 2,
+            "start_date": "Jun 1966",
+            "end_date": "Aug 1966",
+            "length": "2 months",
+            "start_months_since_1900": 797,
+            "end_months_since_1900": 799,
+            "length_in_months": 2
+        }
+    ],
+    "details": {
+        "First Name": "Stewart",
+        "Middle Name": "NA",
+        "Last Name": "Moss",
+        "Maiden Name": "NA",
+        "Full Name at Birth": "NA",
+        "Alternative Name": "NA",
+        "Birthday": "1938",
+        "Birthplace": "IL",
+        "Height": "NA",
+        "Weight": "NA",
+        "Zodiac Sign": "6",
+        "Sexuality": "Straight",
+        "Religion": "1",
+        "Ethnicity": "1",
+        "Nationality": "91",
+        "Occupation": "8"
+    }
+}

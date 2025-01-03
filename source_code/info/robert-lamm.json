@@ -1,0 +1,66 @@
+{
+    "relationships": [
+        {
+            "name": "Joy Kopko",
+            "href": "https://www.whosdatedwho.com/dating/joy-kopko",
+            "relationship_type": 4,
+            "start_date": "1991",
+            "end_date": "present",
+            "length": "33 years",
+            "start_months_since_1900": 1092,
+            "end_months_since_1900": -1,
+            "length_in_months": 396
+        },
+        {
+            "name": "Alex Donnelley",
+            "href": "https://www.whosdatedwho.com/dating/alex-donnelley",
+            "relationship_type": 4,
+            "start_date": "Dec 1985",
+            "end_date": "1991",
+            "length": "5 years",
+            "start_months_since_1900": 1031,
+            "end_months_since_1900": 1092,
+            "length_in_months": 60
+        },
+        {
+            "name": "Julie Nini",
+            "href": "https://www.whosdatedwho.com/dating/julie-nini",
+            "relationship_type": 4,
+            "start_date": "Mar 1976",
+            "end_date": "1981",
+            "length": "4 years",
+            "start_months_since_1900": 914,
+            "end_months_since_1900": 972,
+            "length_in_months": 48
+        },
+        {
+            "name": "Karen Lamm",
+            "href": "https://www.whosdatedwho.com/dating/karen-lamm",
+            "relationship_type": 4,
+            "start_date": "1971",
+            "end_date": "1972",
+            "length": "1 year",
+            "start_months_since_1900": 852,
+            "end_months_since_1900": 864,
+            "length_in_months": 12
+        }
+    ],
+    "details": {
+        "First Name": "Robert",
+        "Middle Name": "NA",
+        "Last Name": "Lamm",
+        "Maiden Name": "NA",
+        "Full Name at Birth": "Robert William Lamm",
+        "Alternative Name": "Bobby",
+        "Birthday": "1944",
+        "Birthplace": "USA",
+        "Height": "NA",
+        "Weight": "NA",
+        "Zodiac Sign": "10",
+        "Sexuality": "NA",
+        "Religion": "1",
+        "Ethnicity": "1",
+        "Nationality": "91",
+        "Occupation": "1"
+    }
+}

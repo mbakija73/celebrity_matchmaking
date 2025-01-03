@@ -1,0 +1,66 @@
+{
+    "relationships": [
+        {
+            "name": "Zoey Grossman",
+            "href": "https://www.whosdatedwho.com/dating/zoey-grossman",
+            "relationship_type": 2,
+            "start_date": "2012",
+            "end_date": "",
+            "length": "-",
+            "start_months_since_1900": 1344,
+            "end_months_since_1900": -1,
+            "length_in_months": -1
+        },
+        {
+            "name": "Rachel Crane",
+            "href": "https://www.whosdatedwho.com/dating/rachel-crane",
+            "relationship_type": 2,
+            "start_date": "2006",
+            "end_date": "2008",
+            "length": "2 years",
+            "start_months_since_1900": 1272,
+            "end_months_since_1900": 1296,
+            "length_in_months": 24
+        },
+        {
+            "name": "Kelly McKee",
+            "href": "https://www.whosdatedwho.com/dating/kelly-mckee",
+            "relationship_type": 2,
+            "start_date": "2005",
+            "end_date": "2006",
+            "length": "1 year",
+            "start_months_since_1900": 1260,
+            "end_months_since_1900": 1272,
+            "length_in_months": 12
+        },
+        {
+            "name": "Chelse Swain",
+            "href": "https://www.whosdatedwho.com/dating/chelse-swain",
+            "relationship_type": 3,
+            "start_date": "2000",
+            "end_date": "2001",
+            "length": "1 year",
+            "start_months_since_1900": 1200,
+            "end_months_since_1900": 1212,
+            "length_in_months": 12
+        }
+    ],
+    "details": {
+        "First Name": "Robert",
+        "Middle Name": "Coppola",
+        "Last Name": "Schwartzman",
+        "Maiden Name": "NA",
+        "Full Name at Birth": "Robert Coppola Schwartzman",
+        "Alternative Name": "Robert Coppola Schwartzman",
+        "Birthday": "1982",
+        "Birthplace": "CA",
+        "Height": "174",
+        "Weight": "NA",
+        "Zodiac Sign": "13",
+        "Sexuality": "Straight",
+        "Religion": "31",
+        "Ethnicity": "6",
+        "Nationality": "91",
+        "Occupation": "1"
+    }
+}

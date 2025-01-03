@@ -1,0 +1,66 @@
+{
+    "relationships": [
+        {
+            "name": "Wendy Worth",
+            "href": "https://www.whosdatedwho.com/dating/wendy-worth",
+            "relationship_type": 2,
+            "start_date": "1983",
+            "end_date": "",
+            "length": "-",
+            "start_months_since_1900": 996,
+            "end_months_since_1900": -1,
+            "length_in_months": -1
+        },
+        {
+            "name": "Mackenzie Phillips",
+            "href": "https://www.whosdatedwho.com/dating/mackenzie-phillips",
+            "relationship_type": 2,
+            "start_date": "Jan 1978",
+            "end_date": "Feb 1978",
+            "length": "1 month",
+            "start_months_since_1900": 936,
+            "end_months_since_1900": 937,
+            "length_in_months": 1
+        },
+        {
+            "name": "Betsy Doster",
+            "href": "https://www.whosdatedwho.com/dating/betsy-doster",
+            "relationship_type": 4,
+            "start_date": "Oct 1970",
+            "end_date": "1977",
+            "length": "6 years",
+            "start_months_since_1900": 849,
+            "end_months_since_1900": 924,
+            "length_in_months": 72
+        },
+        {
+            "name": "Millie Small",
+            "href": "https://www.whosdatedwho.com/dating/millicent-small",
+            "relationship_type": 2,
+            "start_date": "",
+            "end_date": "",
+            "length": "-",
+            "start_months_since_1900": -1,
+            "end_months_since_1900": -1,
+            "length_in_months": -1
+        }
+    ],
+    "details": {
+        "First Name": "Peter",
+        "Middle Name": "NA",
+        "Last Name": "Asher",
+        "Maiden Name": "NA",
+        "Full Name at Birth": "Peter Asher",
+        "Alternative Name": "NA",
+        "Birthday": "1944",
+        "Birthplace": "England",
+        "Height": "185",
+        "Weight": "NA",
+        "Zodiac Sign": "8",
+        "Sexuality": "Straight",
+        "Religion": "1",
+        "Ethnicity": "6",
+        "Nationality": "98",
+        "Occupation": "1"
+    }
+}

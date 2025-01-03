@@ -1,0 +1,44 @@
+{
+    "relationships": [
+        {
+            "name": "Chili Williams",
+            "href": "https://www.whosdatedwho.com/dating/chili-williams",
+            "relationship_type": 2,
+            "start_date": "1950",
+            "end_date": "1950",
+            "length": "-",
+            "start_months_since_1900": 600,
+            "end_months_since_1900": 600,
+            "length_in_months": -1
+        },
+        {
+            "name": "Peggy Moran",
+            "href": "https://www.whosdatedwho.com/dating/peggy-moran",
+            "relationship_type": 2,
+            "start_date": "1940",
+            "end_date": "1941",
+            "length": "1 year",
+            "start_months_since_1900": 480,
+            "end_months_since_1900": 492,
+            "length_in_months": 12
+        }
+    ],
+    "details": {
+        "First Name": "Mike",
+        "Middle Name": "NA",
+        "Last Name": "Stokey",
+        "Maiden Name": "NA",
+        "Full Name at Birth": "Michael William Stokey",
+        "Alternative Name": "NA",
+        "Birthday": "1918",
+        "Birthplace": "USA",
+        "Height": "NA",
+        "Weight": "NA",
+        "Zodiac Sign": "11",
+        "Sexuality": "NA",
+        "Religion": "1",
+        "Ethnicity": "6",
+        "Nationality": "91",
+        "Occupation": "3"
+    }
+}

@@ -1,0 +1,44 @@
+{
+    "relationships": [
+        {
+            "name": "Nell Tiger Free",
+            "href": "https://www.whosdatedwho.com/dating/nell-tiger-free",
+            "relationship_type": 2,
+            "start_date": "Jan 2022",
+            "end_date": "present",
+            "length": "2 years",
+            "start_months_since_1900": 1464,
+            "end_months_since_1900": -1,
+            "length_in_months": 24
+        },
+        {
+            "name": "Dua Lipa",
+            "href": "https://www.whosdatedwho.com/dating/dua-lipa",
+            "relationship_type": 2,
+            "start_date": "2015",
+            "end_date": "Jun 2019",
+            "length": "4 years",
+            "start_months_since_1900": 1380,
+            "end_months_since_1900": 1433,
+            "length_in_months": 48
+        }
+    ],
+    "details": {
+        "First Name": "Isaac",
+        "Middle Name": "NA",
+        "Last Name": "Carew",
+        "Maiden Name": "NA",
+        "Full Name at Birth": "Isaac Carew",
+        "Alternative Name": "Isaac Carew",
+        "Birthday": "1986",
+        "Birthplace": "U.K.",
+        "Height": "191",
+        "Weight": "NA",
+        "Zodiac Sign": "7",
+        "Sexuality": "Straight",
+        "Religion": "1",
+        "Ethnicity": "6",
+        "Nationality": "8",
+        "Occupation": "10"
+    }
+}

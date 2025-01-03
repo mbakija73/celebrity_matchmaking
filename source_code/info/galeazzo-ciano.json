@@ -1,0 +1,44 @@
+{
+    "relationships": [
+        {
+            "name": "Edda Mussolini",
+            "href": "https://www.whosdatedwho.com/dating/edda-mussolini",
+            "relationship_type": 4,
+            "start_date": "1930",
+            "end_date": "1930",
+            "length": "-",
+            "start_months_since_1900": 360,
+            "end_months_since_1900": 360,
+            "length_in_months": -1
+        },
+        {
+            "name": "Duchess of Windsor",
+            "href": "https://www.whosdatedwho.com/dating/duchess-of-windsor",
+            "relationship_type": 3,
+            "start_date": "1925",
+            "end_date": "1925",
+            "length": "-",
+            "start_months_since_1900": 300,
+            "end_months_since_1900": 300,
+            "length_in_months": -1
+        }
+    ],
+    "details": {
+        "First Name": "Galeazzo",
+        "Middle Name": "NA",
+        "Last Name": "Ciano",
+        "Maiden Name": "NA",
+        "Full Name at Birth": "NA",
+        "Alternative Name": "NA",
+        "Birthday": "1903",
+        "Birthplace": "Italy",
+        "Height": "NA",
+        "Weight": "NA",
+        "Zodiac Sign": "1",
+        "Sexuality": "NA",
+        "Religion": "1",
+        "Ethnicity": "1",
+        "Nationality": "139",
+        "Occupation": "11"
+    }
+}

@@ -1,0 +1,88 @@
+{
+    "relationships": [
+        {
+            "name": "Harry Richman",
+            "href": "https://www.whosdatedwho.com/dating/harry-richman",
+            "relationship_type": 2,
+            "start_date": "Jan 1966",
+            "end_date": "Feb 1966",
+            "length": "1 month",
+            "start_months_since_1900": 792,
+            "end_months_since_1900": 793,
+            "length_in_months": 1
+        },
+        {
+            "name": "Jon Hall",
+            "href": "https://www.whosdatedwho.com/dating/jon-hall",
+            "relationship_type": 2,
+            "start_date": "1954",
+            "end_date": "1958",
+            "length": "4 years",
+            "start_months_since_1900": 648,
+            "end_months_since_1900": 696,
+            "length_in_months": 48
+        },
+        {
+            "name": "Joe E. Lewis",
+            "href": "https://www.whosdatedwho.com/dating/joe-e-lewis",
+            "relationship_type": 2,
+            "start_date": "1953",
+            "end_date": "1953",
+            "length": "-",
+            "start_months_since_1900": 636,
+            "end_months_since_1900": 636,
+            "length_in_months": -1
+        },
+        {
+            "name": "J. Peverell Marley",
+            "href": "https://www.whosdatedwho.com/dating/j-peverell-marley",
+            "relationship_type": 3,
+            "start_date": "1953",
+            "end_date": "1953",
+            "length": "-",
+            "start_months_since_1900": 636,
+            "end_months_since_1900": 636,
+            "length_in_months": -1
+        },
+        {
+            "name": "Jimmy Durante",
+            "href": "https://www.whosdatedwho.com/dating/jimmy-durante",
+            "relationship_type": 2,
+            "start_date": "Dec 1949",
+            "end_date": "Mar 1950",
+            "length": "3 months",
+            "start_months_since_1900": 599,
+            "end_months_since_1900": 602,
+            "length_in_months": 3
+        },
+        {
+            "name": "William B. Williams (DJ)",
+            "href": "https://www.whosdatedwho.com/dating/william-b-williams-dj",
+            "relationship_type": 2,
+            "start_date": "1949",
+            "end_date": "1949",
+            "length": "-",
+            "start_months_since_1900": 588,
+            "end_months_since_1900": 588,
+            "length_in_months": -1
+        }
+    ],
+    "details": {
+        "First Name": "Linda",
+        "Middle Name": "NA",
+        "Last Name": "Danson",
+        "Maiden Name": "NA",
+        "Full Name at Birth": "Elizabeth V. Danson",
+        "Alternative Name": "NA",
+        "Birthday": "1926",
+        "Birthplace": "FL",
+        "Height": "NA",
+        "Weight": "NA",
+        "Zodiac Sign": "11",
+        "Sexuality": "NA",
+        "Religion": "1",
+        "Ethnicity": "6",
+        "Nationality": "91",
+        "Occupation": "14"
+    }
+}

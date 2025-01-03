@@ -1,0 +1,77 @@
+{
+    "relationships": [
+        {
+            "name": "Olive Custance",
+            "href": "https://www.whosdatedwho.com/dating/olive-custance",
+            "relationship_type": 4,
+            "start_date": "1902",
+            "end_date": "1902",
+            "length": "-",
+            "start_months_since_1900": 24,
+            "end_months_since_1900": 24,
+            "length_in_months": -1
+        },
+        {
+            "name": "George Ives (Poet)",
+            "href": "https://www.whosdatedwho.com/dating/george-ives-poet",
+            "relationship_type": 2,
+            "start_date": "1893",
+            "end_date": "",
+            "length": "-",
+            "start_months_since_1900": -84,
+            "end_months_since_1900": -1,
+            "length_in_months": -1
+        },
+        {
+            "name": "Oscar Wilde",
+            "href": "https://www.whosdatedwho.com/dating/oscar-wilde",
+            "relationship_type": 2,
+            "start_date": "Jan 1891",
+            "end_date": "",
+            "length": "-",
+            "start_months_since_1900": -108,
+            "end_months_since_1900": -1,
+            "length_in_months": -1
+        },
+        {
+            "name": "Romaine Brooks",
+            "href": "https://www.whosdatedwho.com/dating/romaine-brooks",
+            "relationship_type": 2,
+            "start_date": "",
+            "end_date": "",
+            "length": "-",
+            "start_months_since_1900": -1,
+            "end_months_since_1900": -1,
+            "length_in_months": -1
+        },
+        {
+            "name": "Samuel Steward",
+            "href": "https://www.whosdatedwho.com/dating/phil-andros",
+            "relationship_type": 3,
+            "start_date": "",
+            "end_date": "",
+            "length": "-",
+            "start_months_since_1900": -1,
+            "end_months_since_1900": -1,
+            "length_in_months": -1
+        }
+    ],
+    "details": {
+        "First Name": "Alfred",
+        "Middle Name": "Bruce",
+        "Last Name": "Douglas",
+        "Maiden Name": "NA",
+        "Full Name at Birth": "Alfred Bruce Douglas",
+        "Alternative Name": "Lord Alfred Douglas, Bosie",
+        "Birthday": "1870",
+        "Birthplace": "UK",
+        "Height": "NA",
+        "Weight": "NA",
+        "Zodiac Sign": "10",
+        "Sexuality": "Bisexual",
+        "Religion": "13",
+        "Ethnicity": "6",
+        "Nationality": "98",
+        "Occupation": "3"
+    }
+}

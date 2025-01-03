@@ -1,0 +1,33 @@
+{
+    "relationships": [
+        {
+            "name": "Wanda Hendrix",
+            "href": "https://www.whosdatedwho.com/dating/wanda-hendrix",
+            "relationship_type": 2,
+            "start_date": "Aug 1953",
+            "end_date": "Nov 1953",
+            "length": "3 months",
+            "start_months_since_1900": 643,
+            "end_months_since_1900": 646,
+            "length_in_months": 3
+        }
+    ],
+    "details": {
+        "First Name": "Jerry",
+        "Middle Name": "NA",
+        "Last Name": "Lazar",
+        "Maiden Name": "NA",
+        "Full Name at Birth": "NA",
+        "Alternative Name": "NA",
+        "Birthday": "NA",
+        "Birthplace": "NA",
+        "Height": "NA",
+        "Weight": "NA",
+        "Zodiac Sign": "2",
+        "Sexuality": "NA",
+        "Religion": "1",
+        "Ethnicity": "1",
+        "Nationality": "65",
+        "Occupation": "19"
+    }
+}

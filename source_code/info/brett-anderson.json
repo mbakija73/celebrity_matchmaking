@@ -1,0 +1,44 @@
+{
+    "relationships": [
+        {
+            "name": "Justine Frischmann",
+            "href": "https://www.whosdatedwho.com/dating/justine-frischmann",
+            "relationship_type": 2,
+            "start_date": "1989",
+            "end_date": "1991",
+            "length": "2 years",
+            "start_months_since_1900": 1068,
+            "end_months_since_1900": 1092,
+            "length_in_months": 24
+        },
+        {
+            "name": "Santucia",
+            "href": "https://www.whosdatedwho.com/dating/santucia",
+            "relationship_type": 2,
+            "start_date": "",
+            "end_date": "",
+            "length": "-",
+            "start_months_since_1900": -1,
+            "end_months_since_1900": -1,
+            "length_in_months": -1
+        }
+    ],
+    "details": {
+        "First Name": "Brett",
+        "Middle Name": "NA",
+        "Last Name": "Anderson",
+        "Maiden Name": "NA",
+        "Full Name at Birth": "Brett Lewis Anderson",
+        "Alternative Name": "Faux-ie",
+        "Birthday": "1967",
+        "Birthplace": "England",
+        "Height": "183",
+        "Weight": "NA",
+        "Zodiac Sign": "10",
+        "Sexuality": "Straight",
+        "Religion": "1",
+        "Ethnicity": "6",
+        "Nationality": "8",
+        "Occupation": "1"
+    }
+}

@@ -1,0 +1,55 @@
+{
+    "relationships": [
+        {
+            "name": "Jamie Kennedy",
+            "href": "https://www.whosdatedwho.com/dating/jamie-kennedy",
+            "relationship_type": 2,
+            "start_date": "Jan 2011",
+            "end_date": "Jan 2011",
+            "length": "-",
+            "start_months_since_1900": 1332,
+            "end_months_since_1900": 1332,
+            "length_in_months": -1
+        },
+        {
+            "name": "Stephen Dorff",
+            "href": "https://www.whosdatedwho.com/dating/stephen-dorff",
+            "relationship_type": 3,
+            "start_date": "Jan 2010",
+            "end_date": "Feb 2010",
+            "length": "1 month",
+            "start_months_since_1900": 1320,
+            "end_months_since_1900": 1321,
+            "length_in_months": 1
+        },
+        {
+            "name": "David Gironda Jr.",
+            "href": "https://www.whosdatedwho.com/dating/david-gironda-jr",
+            "relationship_type": 1,
+            "start_date": "",
+            "end_date": "",
+            "length": "-",
+            "start_months_since_1900": -1,
+            "end_months_since_1900": -1,
+            "length_in_months": -1
+        }
+    ],
+    "details": {
+        "First Name": "Nicolle",
+        "Middle Name": "Iness",
+        "Last Name": "Radzivil",
+        "Maiden Name": "NA",
+        "Full Name at Birth": "Nicolle Iness Radzivil",
+        "Alternative Name": "NA",
+        "Birthday": "1990",
+        "Birthplace": "USA",
+        "Height": "170",
+        "Weight": "115lbs (52 kg)",
+        "Zodiac Sign": "6",
+        "Sexuality": "NA",
+        "Religion": "1",
+        "Ethnicity": "6",
+        "Nationality": "91",
+        "Occupation": "8"
+    }
+}

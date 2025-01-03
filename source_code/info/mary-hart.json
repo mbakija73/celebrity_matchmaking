@@ -1,0 +1,99 @@
+{
+    "relationships": [
+        {
+            "name": "Burt Sugarman",
+            "href": "https://www.whosdatedwho.com/dating/burt-sugarman",
+            "relationship_type": 4,
+            "start_date": "1988",
+            "end_date": "",
+            "length": "-",
+            "start_months_since_1900": 1056,
+            "end_months_since_1900": -1,
+            "length_in_months": -1
+        },
+        {
+            "name": "Bruce Boxleitner",
+            "href": "https://www.whosdatedwho.com/dating/bruce-boxleitner",
+            "relationship_type": 2,
+            "start_date": "Jan 1987",
+            "end_date": "Mar 1987",
+            "length": "1 month",
+            "start_months_since_1900": 1044,
+            "end_months_since_1900": 1046,
+            "length_in_months": 1
+        },
+        {
+            "name": "Henry Bushkin",
+            "href": "https://www.whosdatedwho.com/dating/henry-bushkin",
+            "relationship_type": 2,
+            "start_date": "1987",
+            "end_date": "1987",
+            "length": "-",
+            "start_months_since_1900": 1044,
+            "end_months_since_1900": 1044,
+            "length_in_months": -1
+        },
+        {
+            "name": "Mohamed Khashoggi",
+            "href": "https://www.whosdatedwho.com/dating/mohamed-khashoggi",
+            "relationship_type": 2,
+            "start_date": "1986",
+            "end_date": "1986",
+            "length": "-",
+            "start_months_since_1900": 1032,
+            "end_months_since_1900": 1032,
+            "length_in_months": -1
+        },
+        {
+            "name": "Dean Butler",
+            "href": "https://www.whosdatedwho.com/dating/dean-butler",
+            "relationship_type": 2,
+            "start_date": "Nov 1983",
+            "end_date": "1983",
+            "length": "10 months",
+            "start_months_since_1900": 1006,
+            "end_months_since_1900": 996,
+            "length_in_months": 10
+        },
+        {
+            "name": "Lee Majors",
+            "href": "https://www.whosdatedwho.com/dating/lee-majors",
+            "relationship_type": 2,
+            "start_date": "Mar 1983",
+            "end_date": "1983",
+            "length": "1 month",
+            "start_months_since_1900": 998,
+            "end_months_since_1900": 996,
+            "length_in_months": 1
+        },
+        {
+            "name": "Terry Hart",
+            "href": "https://www.whosdatedwho.com/dating/terry-hart",
+            "relationship_type": 4,
+            "start_date": "1971",
+            "end_date": "1979",
+            "length": "8 years",
+            "start_months_since_1900": 852,
+            "end_months_since_1900": 948,
+            "length_in_months": 96
+        }
+    ],
+    "details": {
+        "First Name": "Mary",
+        "Middle Name": "Johanna",
+        "Last Name": "Hart",
+        "Maiden Name": "Harum",
+        "Full Name at Birth": "Mary Johanna Harum",
+        "Alternative Name": "NA",
+        "Birthday": "1950",
+        "Birthplace": "South Dakota",
+        "Height": "168",
+        "Weight": "121lbs (55 kg)",
+        "Zodiac Sign": "5",
+        "Sexuality": "Straight",
+        "Religion": "31",
+        "Ethnicity": "6",
+        "Nationality": "91",
+        "Occupation": "11"
+    }
+}

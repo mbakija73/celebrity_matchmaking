@@ -1,0 +1,33 @@
+{
+    "relationships": [
+        {
+            "name": "King Charles III",
+            "href": "https://www.whosdatedwho.com/dating/prince-charles",
+            "relationship_type": 2,
+            "start_date": "1969",
+            "end_date": "1972",
+            "length": "3 years",
+            "start_months_since_1900": 828,
+            "end_months_since_1900": 864,
+            "length_in_months": 36
+        }
+    ],
+    "details": {
+        "First Name": "Cindy",
+        "Middle Name": "NA",
+        "Last Name": "Buxton",
+        "Maiden Name": "NA",
+        "Full Name at Birth": "NA",
+        "Alternative Name": "NA",
+        "Birthday": "1950",
+        "Birthplace": "(1950-08-21) 21 August 1950 (age 70)",
+        "Height": "NA",
+        "Weight": "NA",
+        "Zodiac Sign": "12",
+        "Sexuality": "NA",
+        "Religion": "1",
+        "Ethnicity": "1",
+        "Nationality": "8",
+        "Occupation": "9"
+    }
+}

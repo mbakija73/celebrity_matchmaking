@@ -1,0 +1,55 @@
+{
+    "relationships": [
+        {
+            "name": "Mary Kelsey",
+            "href": "https://www.whosdatedwho.com/dating/mary-kelsey-45917142",
+            "relationship_type": 4,
+            "start_date": "1944",
+            "end_date": "1957",
+            "length": "13 years",
+            "start_months_since_1900": 528,
+            "end_months_since_1900": 684,
+            "length_in_months": 156
+        },
+        {
+            "name": "Jessie Matthews",
+            "href": "https://www.whosdatedwho.com/dating/jessie-matthews",
+            "relationship_type": 4,
+            "start_date": "1930",
+            "end_date": "3rd Jul 1943",
+            "length": "13 years",
+            "start_months_since_1900": 360,
+            "end_months_since_1900": 522,
+            "length_in_months": 156
+        },
+        {
+            "name": "Evelyn Laye",
+            "href": "https://www.whosdatedwho.com/dating/evelyn-laye",
+            "relationship_type": 4,
+            "start_date": "1926",
+            "end_date": "1930",
+            "length": "4 years",
+            "start_months_since_1900": 312,
+            "end_months_since_1900": 360,
+            "length_in_months": 48
+        }
+    ],
+    "details": {
+        "First Name": "Sonnie",
+        "Middle Name": "NA",
+        "Last Name": "Hale",
+        "Maiden Name": "NA",
+        "Full Name at Birth": "John Robert Hale-Munro",
+        "Alternative Name": "NA",
+        "Birthday": "1902",
+        "Birthplace": "UK",
+        "Height": "173",
+        "Weight": "NA",
+        "Zodiac Sign": "3",
+        "Sexuality": "NA",
+        "Religion": "1",
+        "Ethnicity": "6",
+        "Nationality": "8",
+        "Occupation": "8"
+    }
+}

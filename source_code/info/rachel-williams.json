@@ -1,0 +1,55 @@
+{
+    "relationships": [
+        {
+            "name": "Alice Temple",
+            "href": "https://www.whosdatedwho.com/dating/alice-temple",
+            "relationship_type": 2,
+            "start_date": "1995",
+            "end_date": "1995",
+            "length": "-",
+            "start_months_since_1900": 1140,
+            "end_months_since_1900": 1140,
+            "length_in_months": -1
+        },
+        {
+            "name": "Eric Goode",
+            "href": "https://www.whosdatedwho.com/dating/eric-goode",
+            "relationship_type": 2,
+            "start_date": "1990",
+            "end_date": "1993",
+            "length": "3 years",
+            "start_months_since_1900": 1080,
+            "end_months_since_1900": 1116,
+            "length_in_months": 36
+        },
+        {
+            "name": "Gilles Bensimon",
+            "href": "https://www.whosdatedwho.com/dating/gilles-bensimon",
+            "relationship_type": 3,
+            "start_date": "",
+            "end_date": "",
+            "length": "-",
+            "start_months_since_1900": -1,
+            "end_months_since_1900": -1,
+            "length_in_months": -1
+        }
+    ],
+    "details": {
+        "First Name": "Rachel",
+        "Middle Name": "NA",
+        "Last Name": "Williams",
+        "Maiden Name": "NA",
+        "Full Name at Birth": "Rachel Gilbert",
+        "Alternative Name": "Rachel Williams, Rachel Gilbert",
+        "Birthday": "1967",
+        "Birthplace": "USA",
+        "Height": "185",
+        "Weight": "140lbs (64 kg)",
+        "Zodiac Sign": "3",
+        "Sexuality": "Straight",
+        "Religion": "1",
+        "Ethnicity": "6",
+        "Nationality": "91",
+        "Occupation": "15"
+    }
+}

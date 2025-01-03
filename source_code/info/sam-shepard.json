@@ -1,0 +1,99 @@
+{
+    "relationships": [
+        {
+            "name": "Mia Kirshner",
+            "href": "https://www.whosdatedwho.com/dating/mia-kirshner",
+            "relationship_type": 2,
+            "start_date": "2014",
+            "end_date": "2015",
+            "length": "1 year",
+            "start_months_since_1900": 1368,
+            "end_months_since_1900": 1380,
+            "length_in_months": 12
+        },
+        {
+            "name": "Jessica Lange",
+            "href": "https://www.whosdatedwho.com/dating/jessica-lange",
+            "relationship_type": 2,
+            "start_date": "Nov 1981",
+            "end_date": "2009",
+            "length": "27 years",
+            "start_months_since_1900": 982,
+            "end_months_since_1900": 1308,
+            "length_in_months": 324
+        },
+        {
+            "name": "Patti Smith",
+            "href": "https://www.whosdatedwho.com/dating/patti-smith",
+            "relationship_type": 2,
+            "start_date": "1981",
+            "end_date": "1982",
+            "length": "1 year",
+            "start_months_since_1900": 972,
+            "end_months_since_1900": 984,
+            "length_in_months": 12
+        },
+        {
+            "name": "Joni Mitchell",
+            "href": "https://www.whosdatedwho.com/dating/joni-mitchell",
+            "relationship_type": 3,
+            "start_date": "1975",
+            "end_date": "1975",
+            "length": "-",
+            "start_months_since_1900": 900,
+            "end_months_since_1900": 900,
+            "length_in_months": -1
+        },
+        {
+            "name": "O-Lan Jones",
+            "href": "https://www.whosdatedwho.com/dating/o-lan-jones",
+            "relationship_type": 4,
+            "start_date": "Nov 1968",
+            "end_date": "9th Nov 1984",
+            "length": "16 years",
+            "start_months_since_1900": 826,
+            "end_months_since_1900": 1018,
+            "length_in_months": 192
+        },
+        {
+            "name": "Joyce Aaron",
+            "href": "https://www.whosdatedwho.com/dating/joyce-aaron",
+            "relationship_type": 2,
+            "start_date": "1965",
+            "end_date": "1968",
+            "length": "3 years",
+            "start_months_since_1900": 780,
+            "end_months_since_1900": 816,
+            "length_in_months": 36
+        },
+        {
+            "name": "Marisa Berenson",
+            "href": "https://www.whosdatedwho.com/dating/marisa-berenson",
+            "relationship_type": 2,
+            "start_date": "",
+            "end_date": "",
+            "length": "-",
+            "start_months_since_1900": -1,
+            "end_months_since_1900": -1,
+            "length_in_months": -1
+        }
+    ],
+    "details": {
+        "First Name": "Sam",
+        "Middle Name": "NA",
+        "Last Name": "Shepard",
+        "Maiden Name": "NA",
+        "Full Name at Birth": "Samuel Shepard Rogers III",
+        "Alternative Name": "Charlie",
+        "Birthday": "1943",
+        "Birthplace": "USA",
+        "Height": "187",
+        "Weight": "NA",
+        "Zodiac Sign": "5",
+        "Sexuality": "Straight",
+        "Religion": "1",
+        "Ethnicity": "6",
+        "Nationality": "91",
+        "Occupation": "8"
+    }
+}

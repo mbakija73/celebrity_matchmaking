@@ -1,0 +1,66 @@
+{
+    "relationships": [
+        {
+            "name": "Sara Carreira",
+            "href": "https://www.whosdatedwho.com/dating/sara-carreira",
+            "relationship_type": 2,
+            "start_date": "Jun 2020",
+            "end_date": "Dec 2020",
+            "length": "6 months",
+            "start_months_since_1900": 1445,
+            "end_months_since_1900": 1451,
+            "length_in_months": 6
+        },
+        {
+            "name": "Mafalda Castro",
+            "href": "https://www.whosdatedwho.com/dating/mafalda-castro",
+            "relationship_type": 2,
+            "start_date": "Jul 2016",
+            "end_date": "May 2020",
+            "length": "3 years",
+            "start_months_since_1900": 1398,
+            "end_months_since_1900": 1444,
+            "length_in_months": 36
+        },
+        {
+            "name": "Mikaela Lupu",
+            "href": "https://www.whosdatedwho.com/dating/mikaela-lupo",
+            "relationship_type": 2,
+            "start_date": "Aug 2014",
+            "end_date": "Jul 2016",
+            "length": "1 year",
+            "start_months_since_1900": 1375,
+            "end_months_since_1900": 1398,
+            "length_in_months": 12
+        },
+        {
+            "name": "Anita Costa",
+            "href": "https://www.whosdatedwho.com/dating/anita-costa",
+            "relationship_type": 2,
+            "start_date": "2008",
+            "end_date": "2009",
+            "length": "1 year",
+            "start_months_since_1900": 1296,
+            "end_months_since_1900": 1308,
+            "length_in_months": 12
+        }
+    ],
+    "details": {
+        "First Name": "Ivo",
+        "Middle Name": "Marcelo",
+        "Last Name": "Lucas",
+        "Maiden Name": "NA",
+        "Full Name at Birth": "Ivo Marcelo Pretorius Lucas",
+        "Alternative Name": "NA",
+        "Birthday": "1990",
+        "Birthplace": "Portugal",
+        "Height": "NA",
+        "Weight": "NA",
+        "Zodiac Sign": "11",
+        "Sexuality": "Straight",
+        "Religion": "1",
+        "Ethnicity": "8",
+        "Nationality": "77",
+        "Occupation": "8"
+    }
+}

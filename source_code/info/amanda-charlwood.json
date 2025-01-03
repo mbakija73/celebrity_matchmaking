@@ -1,0 +1,55 @@
+{
+    "relationships": [
+        {
+            "name": "David Gandy",
+            "href": "https://www.whosdatedwho.com/dating/david-gandy",
+            "relationship_type": 2,
+            "start_date": "2009",
+            "end_date": "2010",
+            "length": "1 year",
+            "start_months_since_1900": 1308,
+            "end_months_since_1900": 1320,
+            "length_in_months": 12
+        },
+        {
+            "name": "Bryan Adams",
+            "href": "https://www.whosdatedwho.com/dating/bryan-adams",
+            "relationship_type": 2,
+            "start_date": "2007",
+            "end_date": "2009",
+            "length": "2 years",
+            "start_months_since_1900": 1284,
+            "end_months_since_1900": 1308,
+            "length_in_months": 24
+        },
+        {
+            "name": "Sam Webb",
+            "href": "https://www.whosdatedwho.com/dating/sam-webb",
+            "relationship_type": 1,
+            "start_date": "",
+            "end_date": "",
+            "length": "-",
+            "start_months_since_1900": -1,
+            "end_months_since_1900": -1,
+            "length_in_months": -1
+        }
+    ],
+    "details": {
+        "First Name": "Amanda",
+        "Middle Name": "NA",
+        "Last Name": "NA",
+        "Maiden Name": "Charlwood",
+        "Full Name at Birth": "NA",
+        "Alternative Name": "NA",
+        "Birthday": "21st January",
+        "Birthplace": "NA",
+        "Height": "177",
+        "Weight": "NA",
+        "Zodiac Sign": "9",
+        "Sexuality": "Straight",
+        "Religion": "1",
+        "Ethnicity": "6",
+        "Nationality": "91",
+        "Occupation": "15"
+    }
+}

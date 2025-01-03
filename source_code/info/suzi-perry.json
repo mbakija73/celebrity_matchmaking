@@ -1,0 +1,66 @@
+{
+    "relationships": [
+        {
+            "name": "Bastien Boosten",
+            "href": "https://www.whosdatedwho.com/dating/bastien-boosten",
+            "relationship_type": 4,
+            "start_date": "2009",
+            "end_date": "present",
+            "length": "15 years",
+            "start_months_since_1900": 1308,
+            "end_months_since_1900": -1,
+            "length_in_months": 180
+        },
+        {
+            "name": "Mikey Kay",
+            "href": "https://www.whosdatedwho.com/dating/mikey-kay",
+            "relationship_type": 2,
+            "start_date": "Sep 2003",
+            "end_date": "2004",
+            "length": "4 months",
+            "start_months_since_1900": 1244,
+            "end_months_since_1900": 1248,
+            "length_in_months": 4
+        },
+        {
+            "name": "Nick Knowles",
+            "href": "https://www.whosdatedwho.com/dating/nick-knowles",
+            "relationship_type": 2,
+            "start_date": "2000",
+            "end_date": "Sep 2003",
+            "length": "3 years",
+            "start_months_since_1900": 1200,
+            "end_months_since_1900": 1244,
+            "length_in_months": 36
+        },
+        {
+            "name": "Steve Bullock",
+            "href": "https://www.whosdatedwho.com/dating/steve-bullock",
+            "relationship_type": 4,
+            "start_date": "Feb 1994",
+            "end_date": "2002",
+            "length": "7 years",
+            "start_months_since_1900": 1129,
+            "end_months_since_1900": 1224,
+            "length_in_months": 84
+        }
+    ],
+    "details": {
+        "First Name": "Suzi",
+        "Middle Name": "NA",
+        "Last Name": "Perry",
+        "Maiden Name": "NA",
+        "Full Name at Birth": "Suzanne Perry",
+        "Alternative Name": "Queen of the Pit Lane",
+        "Birthday": "1970",
+        "Birthplace": "UK",
+        "Height": "169",
+        "Weight": "123lbs (56 kg)",
+        "Zodiac Sign": "3",
+        "Sexuality": "Straight",
+        "Religion": "1",
+        "Ethnicity": "6",
+        "Nationality": "8",
+        "Occupation": "11"
+    }
+}

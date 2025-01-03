@@ -1,0 +1,66 @@
+{
+    "relationships": [
+        {
+            "name": "Melanie Griffith",
+            "href": "https://www.whosdatedwho.com/dating/melanie-griffith",
+            "relationship_type": 2,
+            "start_date": "1994",
+            "end_date": "1994",
+            "length": "-",
+            "start_months_since_1900": 1128,
+            "end_months_since_1900": 1128,
+            "length_in_months": -1
+        },
+        {
+            "name": "Emily Lloyd",
+            "href": "https://www.whosdatedwho.com/dating/emily-lloyd",
+            "relationship_type": 2,
+            "start_date": "1992",
+            "end_date": "present",
+            "length": "32 years",
+            "start_months_since_1900": 1104,
+            "end_months_since_1900": -1,
+            "length_in_months": 384
+        },
+        {
+            "name": "Julianne Phillips",
+            "href": "https://www.whosdatedwho.com/dating/julianne-phillips",
+            "relationship_type": 2,
+            "start_date": "1990",
+            "end_date": "1993",
+            "length": "3 years",
+            "start_months_since_1900": 1080,
+            "end_months_since_1900": 1116,
+            "length_in_months": 36
+        },
+        {
+            "name": "Jill Goodacre",
+            "href": "https://www.whosdatedwho.com/dating/jill-goodacre",
+            "relationship_type": 3,
+            "start_date": "",
+            "end_date": "",
+            "length": "-",
+            "start_months_since_1900": -1,
+            "end_months_since_1900": -1,
+            "length_in_months": -1
+        }
+    ],
+    "details": {
+        "First Name": "Bryan",
+        "Middle Name": "NA",
+        "Last Name": "Kestner",
+        "Maiden Name": "NA",
+        "Full Name at Birth": "NA",
+        "Alternative Name": "NA",
+        "Birthday": "1964",
+        "Birthplace": "NA",
+        "Height": "NA",
+        "Weight": "NA",
+        "Zodiac Sign": "6",
+        "Sexuality": "NA",
+        "Religion": "1",
+        "Ethnicity": "1",
+        "Nationality": "91",
+        "Occupation": "9"
+    }
+}

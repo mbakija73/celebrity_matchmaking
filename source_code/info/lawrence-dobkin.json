@@ -1,0 +1,55 @@
+{
+    "relationships": [
+        {
+            "name": "Anne Collings",
+            "href": "https://www.whosdatedwho.com/dating/anne-collings",
+            "relationship_type": 4,
+            "start_date": "1969",
+            "end_date": "Oct 2002",
+            "length": "33 years",
+            "start_months_since_1900": 828,
+            "end_months_since_1900": 1233,
+            "length_in_months": 396
+        },
+        {
+            "name": "Joanna Barnes",
+            "href": "https://www.whosdatedwho.com/dating/joanna-barnes",
+            "relationship_type": 4,
+            "start_date": "Jul 1960",
+            "end_date": "Jan 1967",
+            "length": "6 years",
+            "start_months_since_1900": 726,
+            "end_months_since_1900": 804,
+            "length_in_months": 72
+        },
+        {
+            "name": "Frances Hope Walker",
+            "href": "https://www.whosdatedwho.com/dating/frances-hope-walker",
+            "relationship_type": 4,
+            "start_date": "1941",
+            "end_date": "Jun 1960",
+            "length": "19 years",
+            "start_months_since_1900": 492,
+            "end_months_since_1900": 725,
+            "length_in_months": 228
+        }
+    ],
+    "details": {
+        "First Name": "Lawrence",
+        "Middle Name": "NA",
+        "Last Name": "Dobkin",
+        "Maiden Name": "NA",
+        "Full Name at Birth": "NA",
+        "Alternative Name": "NA",
+        "Birthday": "1919",
+        "Birthplace": "New York",
+        "Height": "180",
+        "Weight": "NA",
+        "Zodiac Sign": "11",
+        "Sexuality": "NA",
+        "Religion": "1",
+        "Ethnicity": "1",
+        "Nationality": "91",
+        "Occupation": "3"
+    }
+}

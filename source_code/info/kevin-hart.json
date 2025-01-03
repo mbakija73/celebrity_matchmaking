@@ -1,0 +1,66 @@
+{
+    "relationships": [
+        {
+            "name": "Nastassia Smith",
+            "href": "https://www.whosdatedwho.com/dating/nastassia-smith",
+            "relationship_type": 3,
+            "start_date": "Jan 2012",
+            "end_date": "Jun 2012",
+            "length": "5 months",
+            "start_months_since_1900": 1344,
+            "end_months_since_1900": 1349,
+            "length_in_months": 5
+        },
+        {
+            "name": "Eniko Parrish",
+            "href": "https://www.whosdatedwho.com/dating/eniko-parrish",
+            "relationship_type": 4,
+            "start_date": "Aug 2009",
+            "end_date": "present",
+            "length": "15 years",
+            "start_months_since_1900": 1315,
+            "end_months_since_1900": -1,
+            "length_in_months": 180
+        },
+        {
+            "name": "Torrei Hart",
+            "href": "https://www.whosdatedwho.com/dating/torrei-hart",
+            "relationship_type": 4,
+            "start_date": "Jun 2001",
+            "end_date": "Nov 2011",
+            "length": "10 years",
+            "start_months_since_1900": 1217,
+            "end_months_since_1900": 1342,
+            "length_in_months": 120
+        },
+        {
+            "name": "Simply Jess",
+            "href": "https://www.whosdatedwho.com/dating/simply-jess",
+            "relationship_type": 3,
+            "start_date": "",
+            "end_date": "",
+            "length": "-",
+            "start_months_since_1900": -1,
+            "end_months_since_1900": -1,
+            "length_in_months": -1
+        }
+    ],
+    "details": {
+        "First Name": "Kevin",
+        "Middle Name": "Darnell",
+        "Last Name": "Hart",
+        "Maiden Name": "NA",
+        "Full Name at Birth": "Kevin Darnell Hart",
+        "Alternative Name": "Lil Kev, Fridge, Franklin \"Mouse\" Finbar",
+        "Birthday": "1979",
+        "Birthplace": "USA",
+        "Height": "157",
+        "Weight": "141lbs (64 kg)",
+        "Zodiac Sign": "8",
+        "Sexuality": "Straight",
+        "Religion": "18",
+        "Ethnicity": "2",
+        "Nationality": "91",
+        "Occupation": "8"
+    }
+}

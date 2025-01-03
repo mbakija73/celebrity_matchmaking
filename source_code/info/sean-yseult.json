@@ -1,0 +1,88 @@
+{
+    "relationships": [
+        {
+            "name": "Rob Zombie",
+            "href": "https://www.whosdatedwho.com/dating/rob-zombie",
+            "relationship_type": 2,
+            "start_date": "1985",
+            "end_date": "1992",
+            "length": "7 years",
+            "start_months_since_1900": 1020,
+            "end_months_since_1900": 1104,
+            "length_in_months": 84
+        },
+        {
+            "name": "Danny Nordahl",
+            "href": "https://www.whosdatedwho.com/dating/danny-nordahl",
+            "relationship_type": 2,
+            "start_date": "",
+            "end_date": "",
+            "length": "-",
+            "start_months_since_1900": -1,
+            "end_months_since_1900": -1,
+            "length_in_months": -1
+        },
+        {
+            "name": "Al Jourgensen",
+            "href": "https://www.whosdatedwho.com/dating/al-jourgensen",
+            "relationship_type": 2,
+            "start_date": "",
+            "end_date": "",
+            "length": "-",
+            "start_months_since_1900": -1,
+            "end_months_since_1900": -1,
+            "length_in_months": -1
+        },
+        {
+            "name": "Jeordie White",
+            "href": "https://www.whosdatedwho.com/dating/jeordie-white",
+            "relationship_type": 3,
+            "start_date": "",
+            "end_date": "",
+            "length": "-",
+            "start_months_since_1900": -1,
+            "end_months_since_1900": -1,
+            "length_in_months": -1
+        },
+        {
+            "name": "Chris Lee",
+            "href": "https://www.whosdatedwho.com/dating/chris-lee",
+            "relationship_type": 4,
+            "start_date": "",
+            "end_date": "",
+            "length": "-",
+            "start_months_since_1900": -1,
+            "end_months_since_1900": -1,
+            "length_in_months": -1
+        },
+        {
+            "name": "David Wyndorf",
+            "href": "https://www.whosdatedwho.com/dating/david-wyndorf",
+            "relationship_type": 2,
+            "start_date": "",
+            "end_date": "",
+            "length": "-",
+            "start_months_since_1900": -1,
+            "end_months_since_1900": -1,
+            "length_in_months": -1
+        }
+    ],
+    "details": {
+        "First Name": "Sean",
+        "Middle Name": "NA",
+        "Last Name": "Yseult",
+        "Maiden Name": "NA",
+        "Full Name at Birth": "Shauna Reynolds",
+        "Alternative Name": "NA",
+        "Birthday": "1966",
+        "Birthplace": "USA",
+        "Height": "166",
+        "Weight": "NA",
+        "Zodiac Sign": "4",
+        "Sexuality": "Straight",
+        "Religion": "1",
+        "Ethnicity": "6",
+        "Nationality": "91",
+        "Occupation": "1"
+    }
+}

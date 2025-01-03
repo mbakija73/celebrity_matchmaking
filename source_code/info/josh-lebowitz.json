@@ -1,0 +1,44 @@
+{
+    "relationships": [
+        {
+            "name": "Ali Hillis",
+            "href": "https://www.whosdatedwho.com/dating/ali-hillis",
+            "relationship_type": 1,
+            "start_date": "2004",
+            "end_date": "2004",
+            "length": "-",
+            "start_months_since_1900": 1248,
+            "end_months_since_1900": 1248,
+            "length_in_months": -1
+        },
+        {
+            "name": "Amanda French",
+            "href": "https://www.whosdatedwho.com/dating/amanda-french",
+            "relationship_type": 2,
+            "start_date": "",
+            "end_date": "Nov 2006",
+            "length": "-",
+            "start_months_since_1900": -1,
+            "end_months_since_1900": 1282,
+            "length_in_months": -1
+        }
+    ],
+    "details": {
+        "First Name": "Josh",
+        "Middle Name": "NA",
+        "Last Name": "Lebowitz",
+        "Maiden Name": "NA",
+        "Full Name at Birth": "NA",
+        "Alternative Name": "NA",
+        "Birthday": "NA",
+        "Birthplace": "NA",
+        "Height": "NA",
+        "Weight": "NA",
+        "Zodiac Sign": "2",
+        "Sexuality": "NA",
+        "Religion": "1",
+        "Ethnicity": "1",
+        "Nationality": "65",
+        "Occupation": "19"
+    }
+}

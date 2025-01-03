@@ -1,0 +1,66 @@
+{
+    "relationships": [
+        {
+            "name": "Kartik Aaryan",
+            "href": "https://www.whosdatedwho.com/dating/kartik-aaryan",
+            "relationship_type": 2,
+            "start_date": "2020",
+            "end_date": "Jan 2021",
+            "length": "1 year",
+            "start_months_since_1900": 1440,
+            "end_months_since_1900": 1452,
+            "length_in_months": 12
+        },
+        {
+            "name": "Ishaan Khattar",
+            "href": "https://www.whosdatedwho.com/dating/ishaan-khatter",
+            "relationship_type": 2,
+            "start_date": "2017",
+            "end_date": "May 2017",
+            "length": "4 months",
+            "start_months_since_1900": 1404,
+            "end_months_since_1900": 1408,
+            "length_in_months": 4
+        },
+        {
+            "name": "Akshat Rajan",
+            "href": "https://www.whosdatedwho.com/dating/akshat-rajan",
+            "relationship_type": 2,
+            "start_date": "2016",
+            "end_date": "2017",
+            "length": "1 year",
+            "start_months_since_1900": 1392,
+            "end_months_since_1900": 1404,
+            "length_in_months": 12
+        },
+        {
+            "name": "Shikhar Pahariya",
+            "href": "https://www.whosdatedwho.com/dating/shikhar-pahariya",
+            "relationship_type": 2,
+            "start_date": "2016",
+            "end_date": "present",
+            "length": "8 years",
+            "start_months_since_1900": 1392,
+            "end_months_since_1900": -1,
+            "length_in_months": 96
+        }
+    ],
+    "details": {
+        "First Name": "Janhvi",
+        "Middle Name": "NA",
+        "Last Name": "Kapoor",
+        "Maiden Name": "NA",
+        "Full Name at Birth": "Janhvi Kapoor",
+        "Alternative Name": "Janhvi Kapoor, Jhanvi Kapoor, Janhvi, Janu, Jhanvi",
+        "Birthday": "1997",
+        "Birthplace": "India",
+        "Height": "163",
+        "Weight": "114lbs (52 kg)",
+        "Zodiac Sign": "1",
+        "Sexuality": "Straight",
+        "Religion": "1",
+        "Ethnicity": "7",
+        "Nationality": "34",
+        "Occupation": "8"
+    }
+}

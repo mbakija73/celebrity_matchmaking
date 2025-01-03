@@ -1,0 +1,44 @@
+{
+    "relationships": [
+        {
+            "name": "Billy Walker",
+            "href": "https://www.whosdatedwho.com/dating/billy-walker",
+            "relationship_type": 2,
+            "start_date": "1964",
+            "end_date": "1964",
+            "length": "-",
+            "start_months_since_1900": 768,
+            "end_months_since_1900": 768,
+            "length_in_months": -1
+        },
+        {
+            "name": "Jan Cremer",
+            "href": "https://www.whosdatedwho.com/dating/jan-cremer",
+            "relationship_type": 2,
+            "start_date": "",
+            "end_date": "",
+            "length": "-",
+            "start_months_since_1900": -1,
+            "end_months_since_1900": -1,
+            "length_in_months": -1
+        }
+    ],
+    "details": {
+        "First Name": "Melanie",
+        "Middle Name": "NA",
+        "Last Name": "Hampshire",
+        "Maiden Name": "NA",
+        "Full Name at Birth": "NA",
+        "Alternative Name": "NA",
+        "Birthday": "1943",
+        "Birthplace": "UK",
+        "Height": "177",
+        "Weight": "NA",
+        "Zodiac Sign": "2",
+        "Sexuality": "NA",
+        "Religion": "1",
+        "Ethnicity": "6",
+        "Nationality": "8",
+        "Occupation": "15"
+    }
+}

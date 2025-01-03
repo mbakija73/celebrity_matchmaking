@@ -1,0 +1,33 @@
+{
+    "relationships": [
+        {
+            "name": "Adam Levine",
+            "href": "https://www.whosdatedwho.com/dating/adam-levine",
+            "relationship_type": 3,
+            "start_date": "6th Mar 2013",
+            "end_date": "Apr 2013",
+            "length": "< 1 month",
+            "start_months_since_1900": 1358,
+            "end_months_since_1900": 1359,
+            "length_in_months": 0
+        }
+    ],
+    "details": {
+        "First Name": "Amanda",
+        "Middle Name": "NA",
+        "Last Name": "Setton",
+        "Maiden Name": "NA",
+        "Full Name at Birth": "Amanda Setton",
+        "Alternative Name": "NA",
+        "Birthday": "1985",
+        "Birthplace": "USA",
+        "Height": "165",
+        "Weight": "NA",
+        "Zodiac Sign": "6",
+        "Sexuality": "Straight",
+        "Religion": "31",
+        "Ethnicity": "6",
+        "Nationality": "91",
+        "Occupation": "8"
+    }
+}

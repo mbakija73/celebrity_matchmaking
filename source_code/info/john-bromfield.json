@@ -1,0 +1,88 @@
+{
+    "relationships": [
+        {
+            "name": "Kalantan",
+            "href": "https://www.whosdatedwho.com/dating/kalantan",
+            "relationship_type": 4,
+            "start_date": "Jan 1963",
+            "end_date": "18th Nov 2005",
+            "length": "42 years",
+            "start_months_since_1900": 756,
+            "end_months_since_1900": 1270,
+            "length_in_months": 504
+        },
+        {
+            "name": "Barbara Nichols",
+            "href": "https://www.whosdatedwho.com/dating/barbara-nichols",
+            "relationship_type": 2,
+            "start_date": "Aug 1955",
+            "end_date": "Oct 1955",
+            "length": "2 months",
+            "start_months_since_1900": 667,
+            "end_months_since_1900": 669,
+            "length_in_months": 2
+        },
+        {
+            "name": "Larri Thomas",
+            "href": "https://www.whosdatedwho.com/dating/larri-thomas",
+            "relationship_type": 4,
+            "start_date": "Aug 1954",
+            "end_date": "1962",
+            "length": "7 years",
+            "start_months_since_1900": 655,
+            "end_months_since_1900": 744,
+            "length_in_months": 84
+        },
+        {
+            "name": "Jackie Loughery",
+            "href": "https://www.whosdatedwho.com/dating/jackie-loughery",
+            "relationship_type": 3,
+            "start_date": "Jun 1954",
+            "end_date": "Jul 1954",
+            "length": "1 month",
+            "start_months_since_1900": 653,
+            "end_months_since_1900": 654,
+            "length_in_months": 1
+        },
+        {
+            "name": "Corinne Calvet",
+            "href": "https://www.whosdatedwho.com/dating/corinne-calvet",
+            "relationship_type": 4,
+            "start_date": "1947",
+            "end_date": "Oct 1954",
+            "length": "7 years",
+            "start_months_since_1900": 564,
+            "end_months_since_1900": 657,
+            "length_in_months": 84
+        },
+        {
+            "name": "Tab Hunter",
+            "href": "https://www.whosdatedwho.com/dating/tab-hunter",
+            "relationship_type": 2,
+            "start_date": "",
+            "end_date": "",
+            "length": "-",
+            "start_months_since_1900": -1,
+            "end_months_since_1900": -1,
+            "length_in_months": -1
+        }
+    ],
+    "details": {
+        "First Name": "John",
+        "Middle Name": "NA",
+        "Last Name": "Bromfield",
+        "Maiden Name": "NA",
+        "Full Name at Birth": "Farron McClain Bromfield",
+        "Alternative Name": "Johnny",
+        "Birthday": "1922",
+        "Birthplace": "USA",
+        "Height": "182",
+        "Weight": "NA",
+        "Zodiac Sign": "4",
+        "Sexuality": "Straight",
+        "Religion": "1",
+        "Ethnicity": "6",
+        "Nationality": "91",
+        "Occupation": "8"
+    }
+}

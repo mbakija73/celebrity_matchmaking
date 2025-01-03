@@ -1,0 +1,66 @@
+{
+    "relationships": [
+        {
+            "name": "Alexandra Wentworth",
+            "href": "https://www.whosdatedwho.com/dating/alexandra-wentworth",
+            "relationship_type": 4,
+            "start_date": "Apr 2001",
+            "end_date": "present",
+            "length": "23 years",
+            "start_months_since_1900": 1215,
+            "end_months_since_1900": -1,
+            "length_in_months": 276
+        },
+        {
+            "name": "Bebe Neuwirth",
+            "href": "https://www.whosdatedwho.com/dating/bebe-neuwirth",
+            "relationship_type": 2,
+            "start_date": "2000",
+            "end_date": "2000",
+            "length": "-",
+            "start_months_since_1900": 1200,
+            "end_months_since_1900": 1200,
+            "length_in_months": -1
+        },
+        {
+            "name": "Judie Aronson",
+            "href": "https://www.whosdatedwho.com/dating/judie-aronson",
+            "relationship_type": 2,
+            "start_date": "1999",
+            "end_date": "2000",
+            "length": "1 year",
+            "start_months_since_1900": 1188,
+            "end_months_since_1900": 1200,
+            "length_in_months": 12
+        },
+        {
+            "name": "Jennifer Grey",
+            "href": "https://www.whosdatedwho.com/dating/jennifer-grey",
+            "relationship_type": 2,
+            "start_date": "1992",
+            "end_date": "1992",
+            "length": "-",
+            "start_months_since_1900": 1104,
+            "end_months_since_1900": 1104,
+            "length_in_months": -1
+        }
+    ],
+    "details": {
+        "First Name": "George",
+        "Middle Name": "Robert",
+        "Last Name": "Stephanopoulos",
+        "Maiden Name": "NA",
+        "Full Name at Birth": "George Robert Stephanopoulos",
+        "Alternative Name": "NA",
+        "Birthday": "1961",
+        "Birthplace": "USA",
+        "Height": "169",
+        "Weight": "NA",
+        "Zodiac Sign": "9",
+        "Sexuality": "Straight",
+        "Religion": "24",
+        "Ethnicity": "6",
+        "Nationality": "91",
+        "Occupation": "11"
+    }
+}

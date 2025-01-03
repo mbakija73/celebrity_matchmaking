@@ -1,0 +1,66 @@
+{
+    "relationships": [
+        {
+            "name": "Monica Durant",
+            "href": "https://www.whosdatedwho.com/dating/monica-durant",
+            "relationship_type": 4,
+            "start_date": "2000",
+            "end_date": "",
+            "length": "-",
+            "start_months_since_1900": 1200,
+            "end_months_since_1900": -1,
+            "length_in_months": -1
+        },
+        {
+            "name": "Ann Taylor",
+            "href": "https://www.whosdatedwho.com/dating/ann-taylor",
+            "relationship_type": 4,
+            "start_date": "1981",
+            "end_date": "1991",
+            "length": "10 years",
+            "start_months_since_1900": 972,
+            "end_months_since_1900": 1092,
+            "length_in_months": 120
+        },
+        {
+            "name": "Melba Moore",
+            "href": "https://www.whosdatedwho.com/dating/melba-moore",
+            "relationship_type": 2,
+            "start_date": "1970",
+            "end_date": "1974",
+            "length": "4 years",
+            "start_months_since_1900": 840,
+            "end_months_since_1900": 888,
+            "length_in_months": 48
+        },
+        {
+            "name": "Pat Evans",
+            "href": "https://www.whosdatedwho.com/dating/pat-evans",
+            "relationship_type": 2,
+            "start_date": "",
+            "end_date": "",
+            "length": "-",
+            "start_months_since_1900": -1,
+            "end_months_since_1900": -1,
+            "length_in_months": -1
+        }
+    ],
+    "details": {
+        "First Name": "Clifton",
+        "Middle Name": "NA",
+        "Last Name": "Davis",
+        "Maiden Name": "NA",
+        "Full Name at Birth": "Clifton Duncan Davis",
+        "Alternative Name": "Rev. Clifton Davis",
+        "Birthday": "1945",
+        "Birthplace": "USA",
+        "Height": "183",
+        "Weight": "NA",
+        "Zodiac Sign": "10",
+        "Sexuality": "Straight",
+        "Religion": "26",
+        "Ethnicity": "8",
+        "Nationality": "91",
+        "Occupation": "8"
+    }
+}

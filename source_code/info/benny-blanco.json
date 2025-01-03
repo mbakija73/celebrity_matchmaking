@@ -1,0 +1,66 @@
+{
+    "relationships": [
+        {
+            "name": "Selena Gomez",
+            "href": "https://www.whosdatedwho.com/dating/selena-gomez",
+            "relationship_type": 2,
+            "start_date": "Jul 2023",
+            "end_date": "present",
+            "length": "1 year",
+            "start_months_since_1900": 1482,
+            "end_months_since_1900": -1,
+            "length_in_months": 12
+        },
+        {
+            "name": "Dave Burd",
+            "href": "https://www.whosdatedwho.com/dating/lil-dicky-born-1988",
+            "relationship_type": 1,
+            "start_date": "",
+            "end_date": "",
+            "length": "-",
+            "start_months_since_1900": -1,
+            "end_months_since_1900": -1,
+            "length_in_months": -1
+        },
+        {
+            "name": "Elsie Hewitt",
+            "href": "https://www.whosdatedwho.com/dating/elsie-hewitt",
+            "relationship_type": 1,
+            "start_date": "",
+            "end_date": "",
+            "length": "-",
+            "start_months_since_1900": -1,
+            "end_months_since_1900": -1,
+            "length_in_months": -1
+        },
+        {
+            "name": "Ashley",
+            "href": "https://www.whosdatedwho.com/dating/ashley-107812547",
+            "relationship_type": 2,
+            "start_date": "",
+            "end_date": "",
+            "length": "-",
+            "start_months_since_1900": -1,
+            "end_months_since_1900": -1,
+            "length_in_months": -1
+        }
+    ],
+    "details": {
+        "First Name": "Benjamin",
+        "Middle Name": "Joseph",
+        "Last Name": "Levin",
+        "Maiden Name": "NA",
+        "Full Name at Birth": "Benjamin Joseph Levin",
+        "Alternative Name": "Benny Blanco, The Hitmaker",
+        "Birthday": "1988",
+        "Birthplace": "USA",
+        "Height": "175",
+        "Weight": "181lbs (82 kg)",
+        "Zodiac Sign": "1",
+        "Sexuality": "Straight",
+        "Religion": "31",
+        "Ethnicity": "6",
+        "Nationality": "91",
+        "Occupation": "1"
+    }
+}

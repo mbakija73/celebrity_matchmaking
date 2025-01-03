@@ -1,0 +1,44 @@
+{
+    "relationships": [
+        {
+            "name": "Glen Powell",
+            "href": "https://www.whosdatedwho.com/dating/glen-powell",
+            "relationship_type": 2,
+            "start_date": "2020",
+            "end_date": "Apr 2023",
+            "length": "3 years",
+            "start_months_since_1900": 1440,
+            "end_months_since_1900": 1479,
+            "length_in_months": 36
+        },
+        {
+            "name": "Dean Bartlett",
+            "href": "https://www.whosdatedwho.com/dating/dean-bartlett",
+            "relationship_type": 1,
+            "start_date": "2018",
+            "end_date": "2018",
+            "length": "-",
+            "start_months_since_1900": 1416,
+            "end_months_since_1900": 1416,
+            "length_in_months": -1
+        }
+    ],
+    "details": {
+        "First Name": "Jehane",
+        "Middle Name": "NA",
+        "Last Name": "Paris",
+        "Maiden Name": "NA",
+        "Full Name at Birth": "Jehane-Marie Paris",
+        "Alternative Name": "Jehane 'Gigi' Paris, Jehane-Marie Paris, Jehane Paris, Gigi, Geeg, La Petite Sir\u00e8ne",
+        "Birthday": "1992",
+        "Birthplace": "USA",
+        "Height": "174",
+        "Weight": "119lbs (54 kg)",
+        "Zodiac Sign": "4",
+        "Sexuality": "Straight",
+        "Religion": "1",
+        "Ethnicity": "6",
+        "Nationality": "91",
+        "Occupation": "15"
+    }
+}

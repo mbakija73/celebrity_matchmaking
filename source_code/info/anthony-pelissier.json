@@ -1,0 +1,44 @@
+{
+    "relationships": [
+        {
+            "name": "Ursula Howells",
+            "href": "https://www.whosdatedwho.com/dating/ursula-howells",
+            "relationship_type": 4,
+            "start_date": "1967",
+            "end_date": "Apr 1988",
+            "length": "21 years",
+            "start_months_since_1900": 804,
+            "end_months_since_1900": 1059,
+            "length_in_months": 252
+        },
+        {
+            "name": "Penelope Dudley-Ward",
+            "href": "https://www.whosdatedwho.com/dating/penelope-dudley-ward",
+            "relationship_type": 4,
+            "start_date": "1938",
+            "end_date": "1944",
+            "length": "6 years",
+            "start_months_since_1900": 456,
+            "end_months_since_1900": 528,
+            "length_in_months": 72
+        }
+    ],
+    "details": {
+        "First Name": "Harry",
+        "Middle Name": "Anthony Compton",
+        "Last Name": "Pelissier",
+        "Maiden Name": "NA",
+        "Full Name at Birth": "Harry Anthony Compton Pelissier",
+        "Alternative Name": "Tony Pelissier",
+        "Birthday": "1912",
+        "Birthplace": "UK",
+        "Height": "NA",
+        "Weight": "NA",
+        "Zodiac Sign": "12",
+        "Sexuality": "Straight",
+        "Religion": "1",
+        "Ethnicity": "6",
+        "Nationality": "8",
+        "Occupation": "9"
+    }
+}

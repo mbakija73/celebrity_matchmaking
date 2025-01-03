@@ -1,0 +1,77 @@
+{
+    "relationships": [
+        {
+            "name": "Josh Bowman",
+            "href": "https://www.whosdatedwho.com/dating/josh-bowman",
+            "relationship_type": 4,
+            "start_date": "Oct 2011",
+            "end_date": "present",
+            "length": "13 years",
+            "start_months_since_1900": 1341,
+            "end_months_since_1900": -1,
+            "length_in_months": 156
+        },
+        {
+            "name": "Joseph Morgan",
+            "href": "https://www.whosdatedwho.com/dating/joseph-morgan",
+            "relationship_type": 2,
+            "start_date": "Jan 2010",
+            "end_date": "Oct 2011",
+            "length": "1 year",
+            "start_months_since_1900": 1320,
+            "end_months_since_1900": 1341,
+            "length_in_months": 12
+        },
+        {
+            "name": "Dave Annable",
+            "href": "https://www.whosdatedwho.com/dating/dave-annable",
+            "relationship_type": 2,
+            "start_date": "Jan 2007",
+            "end_date": "Jan 2008",
+            "length": "1 year",
+            "start_months_since_1900": 1284,
+            "end_months_since_1900": 1296,
+            "length_in_months": 12
+        },
+        {
+            "name": "Chris Pratt",
+            "href": "https://www.whosdatedwho.com/dating/chris-pratt",
+            "relationship_type": 2,
+            "start_date": "Dec 2004",
+            "end_date": "Jun 2006",
+            "length": "1 year",
+            "start_months_since_1900": 1259,
+            "end_months_since_1900": 1277,
+            "length_in_months": 12
+        },
+        {
+            "name": "Ben McKenzie",
+            "href": "https://www.whosdatedwho.com/dating/ben-mckenzie",
+            "relationship_type": 2,
+            "start_date": "2004",
+            "end_date": "2004",
+            "length": "-",
+            "start_months_since_1900": 1248,
+            "end_months_since_1900": 1248,
+            "length_in_months": -1
+        }
+    ],
+    "details": {
+        "First Name": "Emily",
+        "Middle Name": "Irene",
+        "Last Name": "Vancamp",
+        "Maiden Name": "NA",
+        "Full Name at Birth": "Emily Irene VanCamp",
+        "Alternative Name": "Emily Vancamp, Emily Van Camp, Emily Peyton VanCamp, Emily Irene VanCamp",
+        "Birthday": "1986",
+        "Birthplace": "Canada",
+        "Height": "173",
+        "Weight": "126lbs (57 kg)",
+        "Zodiac Sign": "3",
+        "Sexuality": "Straight",
+        "Religion": "13",
+        "Ethnicity": "6",
+        "Nationality": "90",
+        "Occupation": "8"
+    }
+}

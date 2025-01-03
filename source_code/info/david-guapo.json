@@ -1,0 +1,33 @@
+{
+    "relationships": [
+        {
+            "name": "Chenoa",
+            "href": "https://www.whosdatedwho.com/dating/chenoa",
+            "relationship_type": 2,
+            "start_date": "2017",
+            "end_date": "",
+            "length": "-",
+            "start_months_since_1900": 1404,
+            "end_months_since_1900": -1,
+            "length_in_months": -1
+        }
+    ],
+    "details": {
+        "First Name": "David",
+        "Middle Name": "NA",
+        "Last Name": "Guapo",
+        "Maiden Name": "NA",
+        "Full Name at Birth": "NA",
+        "Alternative Name": "NA",
+        "Birthday": "1980",
+        "Birthplace": "Spain",
+        "Height": "184",
+        "Weight": "NA",
+        "Zodiac Sign": "5",
+        "Sexuality": "Straight",
+        "Religion": "1",
+        "Ethnicity": "6",
+        "Nationality": "118",
+        "Occupation": "16"
+    }
+}

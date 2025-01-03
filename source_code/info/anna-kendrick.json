@@ -1,0 +1,66 @@
+{
+    "relationships": [
+        {
+            "name": "Bill Hader",
+            "href": "https://www.whosdatedwho.com/dating/bill-hader",
+            "relationship_type": 2,
+            "start_date": "Jan 2020",
+            "end_date": "Jul 2022",
+            "length": "2 years",
+            "start_months_since_1900": 1440,
+            "end_months_since_1900": 1470,
+            "length_in_months": 24
+        },
+        {
+            "name": "Ben Richardson",
+            "href": "https://www.whosdatedwho.com/dating/ben-richardson",
+            "relationship_type": 2,
+            "start_date": "Aug 2014",
+            "end_date": "Sep 2020",
+            "length": "6 years",
+            "start_months_since_1900": 1375,
+            "end_months_since_1900": 1448,
+            "length_in_months": 72
+        },
+        {
+            "name": "Jake Gyllenhaal",
+            "href": "https://www.whosdatedwho.com/dating/jake-gyllenhaal",
+            "relationship_type": 2,
+            "start_date": "2011",
+            "end_date": "2011",
+            "length": "-",
+            "start_months_since_1900": 1332,
+            "end_months_since_1900": 1332,
+            "length_in_months": -1
+        },
+        {
+            "name": "Edgar Wright",
+            "href": "https://www.whosdatedwho.com/dating/edgar-wright",
+            "relationship_type": 2,
+            "start_date": "2009",
+            "end_date": "2013",
+            "length": "4 years",
+            "start_months_since_1900": 1308,
+            "end_months_since_1900": 1356,
+            "length_in_months": 48
+        }
+    ],
+    "details": {
+        "First Name": "Anna",
+        "Middle Name": "Cooke",
+        "Last Name": "Kendrick",
+        "Maiden Name": "NA",
+        "Full Name at Birth": "Anna Cooke Kendrick",
+        "Alternative Name": "Rabies, AK47, Anna Kendricks, Anna Kendrick, Anna Cooke Kendrick",
+        "Birthday": "1985",
+        "Birthplace": "USA",
+        "Height": "157",
+        "Weight": "106lbs (48 kg)",
+        "Zodiac Sign": "12",
+        "Sexuality": "Straight",
+        "Religion": "18",
+        "Ethnicity": "6",
+        "Nationality": "91",
+        "Occupation": "8"
+    }
+}

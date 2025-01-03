@@ -1,0 +1,55 @@
+{
+    "relationships": [
+        {
+            "name": "Robert E. Petersen",
+            "href": "https://www.whosdatedwho.com/dating/robert-e-petersen",
+            "relationship_type": 3,
+            "start_date": "Jun 1959",
+            "end_date": "Jul 1959",
+            "length": "1 month",
+            "start_months_since_1900": 713,
+            "end_months_since_1900": 714,
+            "length_in_months": 1
+        },
+        {
+            "name": "Elvis Presley",
+            "href": "https://www.whosdatedwho.com/dating/elvis-presley",
+            "relationship_type": 2,
+            "start_date": "Nov 1957",
+            "end_date": "Jun 1960",
+            "length": "2 years",
+            "start_months_since_1900": 694,
+            "end_months_since_1900": 725,
+            "length_in_months": 24
+        },
+        {
+            "name": "Steve Rowland",
+            "href": "https://www.whosdatedwho.com/dating/steve-rowland",
+            "relationship_type": 2,
+            "start_date": "Oct 1954",
+            "end_date": "Jan 1957",
+            "length": "2 years",
+            "start_months_since_1900": 657,
+            "end_months_since_1900": 684,
+            "length_in_months": 24
+        }
+    ],
+    "details": {
+        "First Name": "Kathleen",
+        "Middle Name": "NA",
+        "Last Name": "Case",
+        "Maiden Name": "Walker",
+        "Full Name at Birth": "Catherine Walker",
+        "Alternative Name": "Kathleen Case, Catherine Case",
+        "Birthday": "1933",
+        "Birthplace": "USA",
+        "Height": "NA",
+        "Weight": "NA",
+        "Zodiac Sign": "12",
+        "Sexuality": "Straight",
+        "Religion": "1",
+        "Ethnicity": "6",
+        "Nationality": "91",
+        "Occupation": "8"
+    }
+}

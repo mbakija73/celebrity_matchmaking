@@ -1,0 +1,55 @@
+{
+    "relationships": [
+        {
+            "name": "Kimberly Guilfoyle",
+            "href": "https://www.whosdatedwho.com/dating/kimberly-guilfoyle",
+            "relationship_type": 2,
+            "start_date": "Mar 2018",
+            "end_date": "present",
+            "length": "6 years",
+            "start_months_since_1900": 1418,
+            "end_months_since_1900": -1,
+            "length_in_months": 72
+        },
+        {
+            "name": "Aubrey O'Day",
+            "href": "https://www.whosdatedwho.com/dating/aubrey-o-day",
+            "relationship_type": 2,
+            "start_date": "Aug 2011",
+            "end_date": "Mar 2012",
+            "length": "7 months",
+            "start_months_since_1900": 1339,
+            "end_months_since_1900": 1346,
+            "length_in_months": 7
+        },
+        {
+            "name": "Vanessa Trump",
+            "href": "https://www.whosdatedwho.com/dating/vanessa-trump",
+            "relationship_type": 4,
+            "start_date": "2003",
+            "end_date": "Mar 2018",
+            "length": "15 years",
+            "start_months_since_1900": 1236,
+            "end_months_since_1900": 1418,
+            "length_in_months": 180
+        }
+    ],
+    "details": {
+        "First Name": "Donald",
+        "Middle Name": "John",
+        "Last Name": "Trump Jr",
+        "Maiden Name": "NA",
+        "Full Name at Birth": "Donald John Trump Jr.",
+        "Alternative Name": "Don Jr, Donald Trump, Donald Trump Jr.",
+        "Birthday": "1977",
+        "Birthplace": "USA",
+        "Height": "185",
+        "Weight": "NA",
+        "Zodiac Sign": "13",
+        "Sexuality": "Straight",
+        "Religion": "13",
+        "Ethnicity": "6",
+        "Nationality": "91",
+        "Occupation": "7"
+    }
+}

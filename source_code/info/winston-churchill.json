@@ -1,0 +1,66 @@
+{
+    "relationships": [
+        {
+            "name": "Clementine Churchill",
+            "href": "https://www.whosdatedwho.com/dating/clementine-churchill",
+            "relationship_type": 4,
+            "start_date": "1906",
+            "end_date": "24th Jan 1965",
+            "length": "59 years",
+            "start_months_since_1900": 72,
+            "end_months_since_1900": 780,
+            "length_in_months": 708
+        },
+        {
+            "name": "Tallulah Bankhead",
+            "href": "https://www.whosdatedwho.com/dating/tallulah-bankhead",
+            "relationship_type": 3,
+            "start_date": "",
+            "end_date": "",
+            "length": "-",
+            "start_months_since_1900": -1,
+            "end_months_since_1900": -1,
+            "length_in_months": -1
+        },
+        {
+            "name": "Daisy Fellowes",
+            "href": "https://www.whosdatedwho.com/dating/daisy-fellowes",
+            "relationship_type": 3,
+            "start_date": "",
+            "end_date": "",
+            "length": "-",
+            "start_months_since_1900": -1,
+            "end_months_since_1900": -1,
+            "length_in_months": -1
+        },
+        {
+            "name": "Ethel Barrymore",
+            "href": "https://www.whosdatedwho.com/dating/ethel-barrymore",
+            "relationship_type": 3,
+            "start_date": "",
+            "end_date": "",
+            "length": "-",
+            "start_months_since_1900": -1,
+            "end_months_since_1900": -1,
+            "length_in_months": -1
+        }
+    ],
+    "details": {
+        "First Name": "Winston",
+        "Middle Name": "Leonard",
+        "Last Name": "Churchill",
+        "Maiden Name": "NA",
+        "Full Name at Birth": "Winston Leonard Spencer-Churchill",
+        "Alternative Name": "Sir Winston Leonard Spencer-Churchill, Winston Leonard Spencer-Churchill, Winston Spencer-Churchill, Winston Churchill",
+        "Birthday": "1874",
+        "Birthplace": "UK",
+        "Height": "169",
+        "Weight": "210lbs (95 kg)",
+        "Zodiac Sign": "6",
+        "Sexuality": "Straight",
+        "Religion": "3",
+        "Ethnicity": "6",
+        "Nationality": "8",
+        "Occupation": "12"
+    }
+}

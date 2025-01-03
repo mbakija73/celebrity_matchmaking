@@ -1,0 +1,44 @@
+{
+    "relationships": [
+        {
+            "name": "Matt Lauer",
+            "href": "https://www.whosdatedwho.com/dating/matt-lauer",
+            "relationship_type": 3,
+            "start_date": "2010",
+            "end_date": "2010",
+            "length": "-",
+            "start_months_since_1900": 1320,
+            "end_months_since_1900": 1320,
+            "length_in_months": -1
+        },
+        {
+            "name": "Joe Rhodes",
+            "href": "https://www.whosdatedwho.com/dating/joe-rhodes",
+            "relationship_type": 4,
+            "start_date": "",
+            "end_date": "present",
+            "length": "-",
+            "start_months_since_1900": -1,
+            "end_months_since_1900": -1,
+            "length_in_months": -1
+        }
+    ],
+    "details": {
+        "First Name": "Natalie",
+        "Middle Name": "Leticia",
+        "Last Name": "Morales-Rhodes",
+        "Maiden Name": "Morales",
+        "Full Name at Birth": "Natalie Leticia Morales",
+        "Alternative Name": "Natalie Leticia Morales, Natalie Morales, Natalie Morales-Rhodes",
+        "Birthday": "1972",
+        "Birthplace": "Taiwan",
+        "Height": "160",
+        "Weight": "127lbs (58 kg)",
+        "Zodiac Sign": "4",
+        "Sexuality": "Straight",
+        "Religion": "1",
+        "Ethnicity": "6",
+        "Nationality": "91",
+        "Occupation": "11"
+    }
+}

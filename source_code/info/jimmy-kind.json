@@ -1,0 +1,121 @@
+{
+    "relationships": [
+        {
+            "name": "Cicely Tyson",
+            "href": "https://www.whosdatedwho.com/dating/cicely-tyson",
+            "relationship_type": 2,
+            "start_date": "Feb 1959",
+            "end_date": "Jun 1959",
+            "length": "4 months",
+            "start_months_since_1900": 709,
+            "end_months_since_1900": 713,
+            "length_in_months": 4
+        },
+        {
+            "name": "Ava Gardner",
+            "href": "https://www.whosdatedwho.com/dating/ava-gardner",
+            "relationship_type": 2,
+            "start_date": "Aug 1958",
+            "end_date": "Mar 1959",
+            "length": "7 months",
+            "start_months_since_1900": 703,
+            "end_months_since_1900": 710,
+            "length_in_months": 7
+        },
+        {
+            "name": "Lana Turner",
+            "href": "https://www.whosdatedwho.com/dating/lana-turner",
+            "relationship_type": 2,
+            "start_date": "Mar 1953",
+            "end_date": "May 1953",
+            "length": "2 months",
+            "start_months_since_1900": 638,
+            "end_months_since_1900": 640,
+            "length_in_months": 2
+        },
+        {
+            "name": "Kate Lipscomb",
+            "href": "https://www.whosdatedwho.com/dating/kate-lipscomb",
+            "relationship_type": 2,
+            "start_date": "1950",
+            "end_date": "1950",
+            "length": "-",
+            "start_months_since_1900": 600,
+            "end_months_since_1900": 600,
+            "length_in_months": -1
+        },
+        {
+            "name": "Katherine Snow",
+            "href": "https://www.whosdatedwho.com/dating/katherine-snow",
+            "relationship_type": 2,
+            "start_date": "Feb 1949",
+            "end_date": "Mar 1950",
+            "length": "1 year",
+            "start_months_since_1900": 589,
+            "end_months_since_1900": 602,
+            "length_in_months": 12
+        },
+        {
+            "name": "Miranda Bay",
+            "href": "https://www.whosdatedwho.com/dating/miranda-bay",
+            "relationship_type": 4,
+            "start_date": "May 1947",
+            "end_date": "May 1947",
+            "length": "-",
+            "start_months_since_1900": 568,
+            "end_months_since_1900": 568,
+            "length_in_months": -1
+        },
+        {
+            "name": "Betty Kelly",
+            "href": "https://www.whosdatedwho.com/dating/betty-kelly",
+            "relationship_type": 3,
+            "start_date": "",
+            "end_date": "",
+            "length": "-",
+            "start_months_since_1900": -1,
+            "end_months_since_1900": -1,
+            "length_in_months": -1
+        },
+        {
+            "name": "Caroline John",
+            "href": "https://www.whosdatedwho.com/dating/caroline-john",
+            "relationship_type": 1,
+            "start_date": "",
+            "end_date": "",
+            "length": "-",
+            "start_months_since_1900": -1,
+            "end_months_since_1900": -1,
+            "length_in_months": -1
+        },
+        {
+            "name": "Jennifer Baker",
+            "href": "https://www.whosdatedwho.com/dating/jennifer-baker",
+            "relationship_type": 3,
+            "start_date": "",
+            "end_date": "",
+            "length": "-",
+            "start_months_since_1900": -1,
+            "end_months_since_1900": -1,
+            "length_in_months": -1
+        }
+    ],
+    "details": {
+        "First Name": "Jimmy",
+        "Middle Name": "NA",
+        "Last Name": "Kind",
+        "Maiden Name": "NA",
+        "Full Name at Birth": "John Davidson Marceau",
+        "Alternative Name": "NA",
+        "Birthday": "1921",
+        "Birthplace": "USA",
+        "Height": "183",
+        "Weight": "175lbs (79 kg)",
+        "Zodiac Sign": "13",
+        "Sexuality": "Bisexual",
+        "Religion": "31",
+        "Ethnicity": "6",
+        "Nationality": "91",
+        "Occupation": "8"
+    }
+}

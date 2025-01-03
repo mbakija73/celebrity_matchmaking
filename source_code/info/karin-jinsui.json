@@ -1,0 +1,77 @@
+{
+    "relationships": [
+        {
+            "name": "Dave East",
+            "href": "https://www.whosdatedwho.com/dating/dave-east-rapper",
+            "relationship_type": 3,
+            "start_date": "Jan 2019",
+            "end_date": "Mar 2019",
+            "length": "1 month",
+            "start_months_since_1900": 1428,
+            "end_months_since_1900": 1430,
+            "length_in_months": 1
+        },
+        {
+            "name": "Sport E. Odie",
+            "href": "https://www.whosdatedwho.com/dating/sport-e-odie",
+            "relationship_type": 2,
+            "start_date": "Dec 2018",
+            "end_date": "present",
+            "length": "5 years",
+            "start_months_since_1900": 1427,
+            "end_months_since_1900": -1,
+            "length_in_months": 60
+        },
+        {
+            "name": "Key Glock",
+            "href": "https://www.whosdatedwho.com/dating/key-glock",
+            "relationship_type": 2,
+            "start_date": "Feb 2018",
+            "end_date": "Jan 2020",
+            "length": "1 year",
+            "start_months_since_1900": 1417,
+            "end_months_since_1900": 1440,
+            "length_in_months": 12
+        },
+        {
+            "name": "Ferrari (Rapper)",
+            "href": "https://www.whosdatedwho.com/dating/ferrari-rapper",
+            "relationship_type": 2,
+            "start_date": "Jul 2017",
+            "end_date": "Jan 2018",
+            "length": "6 months",
+            "start_months_since_1900": 1410,
+            "end_months_since_1900": 1416,
+            "length_in_months": 6
+        },
+        {
+            "name": "Future",
+            "href": "https://www.whosdatedwho.com/dating/future-rapper",
+            "relationship_type": 3,
+            "start_date": "Apr 2016",
+            "end_date": "Jun 2016",
+            "length": "2 months",
+            "start_months_since_1900": 1395,
+            "end_months_since_1900": 1397,
+            "length_in_months": 2
+        }
+    ],
+    "details": {
+        "First Name": "Karin",
+        "Middle Name": "NA",
+        "Last Name": "Jinsui",
+        "Maiden Name": "NA",
+        "Full Name at Birth": "Karin Jinsui",
+        "Alternative Name": "NA",
+        "Birthday": "1994",
+        "Birthplace": "USA",
+        "Height": "170",
+        "Weight": "NA",
+        "Zodiac Sign": "5",
+        "Sexuality": "Straight",
+        "Religion": "18",
+        "Ethnicity": "8",
+        "Nationality": "91",
+        "Occupation": "16"
+    }
+}

@@ -1,0 +1,66 @@
+{
+    "relationships": [
+        {
+            "name": "Shane Farley",
+            "href": "https://www.whosdatedwho.com/dating/shane-farley",
+            "relationship_type": 2,
+            "start_date": "Aug 2015",
+            "end_date": "present",
+            "length": "9 years",
+            "start_months_since_1900": 1387,
+            "end_months_since_1900": -1,
+            "length_in_months": 108
+        },
+        {
+            "name": "Bobby Flay",
+            "href": "https://www.whosdatedwho.com/dating/bobby-flay",
+            "relationship_type": 2,
+            "start_date": "May 2015",
+            "end_date": "May 2015",
+            "length": "-",
+            "start_months_since_1900": 1384,
+            "end_months_since_1900": 1384,
+            "length_in_months": -1
+        },
+        {
+            "name": "Matt Lauer",
+            "href": "https://www.whosdatedwho.com/dating/matt-lauer",
+            "relationship_type": 3,
+            "start_date": "2011",
+            "end_date": "2011",
+            "length": "-",
+            "start_months_since_1900": 1332,
+            "end_months_since_1900": 1332,
+            "length_in_months": -1
+        },
+        {
+            "name": "Todd Thompson",
+            "href": "https://www.whosdatedwho.com/dating/todd-thompson",
+            "relationship_type": 4,
+            "start_date": "2003",
+            "end_date": "Jul 2014",
+            "length": "11 years",
+            "start_months_since_1900": 1236,
+            "end_months_since_1900": 1374,
+            "length_in_months": 132
+        }
+    ],
+    "details": {
+        "First Name": "Giada",
+        "Middle Name": "Pamela",
+        "Last Name": "De Laurentiis",
+        "Maiden Name": "NA",
+        "Full Name at Birth": "Giada Pamela De Benedetti",
+        "Alternative Name": "Giada De Laurentiis, Giada Pamela De Benedetti",
+        "Birthday": "1970",
+        "Birthplace": "Italy",
+        "Height": "157",
+        "Weight": "115lbs (52 kg)",
+        "Zodiac Sign": "12",
+        "Sexuality": "Straight",
+        "Religion": "13",
+        "Ethnicity": "6",
+        "Nationality": "139",
+        "Occupation": "10"
+    }
+}

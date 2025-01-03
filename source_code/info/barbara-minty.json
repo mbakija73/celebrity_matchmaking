@@ -1,0 +1,66 @@
+{
+    "relationships": [
+        {
+            "name": "Clint Eastwood",
+            "href": "https://www.whosdatedwho.com/dating/clint-eastwood",
+            "relationship_type": 3,
+            "start_date": "1988",
+            "end_date": "1988",
+            "length": "-",
+            "start_months_since_1900": 1056,
+            "end_months_since_1900": 1056,
+            "length_in_months": -1
+        },
+        {
+            "name": "Steve McQueen",
+            "href": "https://www.whosdatedwho.com/dating/steve-mcqueen",
+            "relationship_type": 4,
+            "start_date": "Jan 1978",
+            "end_date": "7th Nov 1980",
+            "length": "2 years",
+            "start_months_since_1900": 936,
+            "end_months_since_1900": 970,
+            "length_in_months": 24
+        },
+        {
+            "name": "Warren Beatty",
+            "href": "https://www.whosdatedwho.com/dating/warren-beatty",
+            "relationship_type": 2,
+            "start_date": "1977",
+            "end_date": "1978",
+            "length": "1 year",
+            "start_months_since_1900": 924,
+            "end_months_since_1900": 936,
+            "length_in_months": 12
+        },
+        {
+            "name": "Mike Reinhardt",
+            "href": "https://www.whosdatedwho.com/dating/mike-reinhardt",
+            "relationship_type": 2,
+            "start_date": "1970",
+            "end_date": "1974",
+            "length": "4 years",
+            "start_months_since_1900": 840,
+            "end_months_since_1900": 888,
+            "length_in_months": 48
+        }
+    ],
+    "details": {
+        "First Name": "Barbara",
+        "Middle Name": "NA",
+        "Last Name": "Minty",
+        "Maiden Name": "NA",
+        "Full Name at Birth": "Barbara Minty",
+        "Alternative Name": "Barbara Minty McQueen",
+        "Birthday": "1953",
+        "Birthplace": "USA",
+        "Height": "NA",
+        "Weight": "NA",
+        "Zodiac Sign": "4",
+        "Sexuality": "Straight",
+        "Religion": "18",
+        "Ethnicity": "6",
+        "Nationality": "91",
+        "Occupation": "15"
+    }
+}

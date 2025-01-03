@@ -1,0 +1,55 @@
+{
+    "relationships": [
+        {
+            "name": "Nikki Sixx",
+            "href": "https://www.whosdatedwho.com/dating/nikki-sixx",
+            "relationship_type": 3,
+            "start_date": "Jun 1987",
+            "end_date": "Jun 1987",
+            "length": "-",
+            "start_months_since_1900": 1049,
+            "end_months_since_1900": 1049,
+            "length_in_months": -1
+        },
+        {
+            "name": "James Newton Howard",
+            "href": "https://www.whosdatedwho.com/dating/james-newton-howard",
+            "relationship_type": 4,
+            "start_date": "1973",
+            "end_date": "1984",
+            "length": "11 years",
+            "start_months_since_1900": 876,
+            "end_months_since_1900": 1008,
+            "length_in_months": 132
+        },
+        {
+            "name": "Dave Darling",
+            "href": "https://www.whosdatedwho.com/dating/dave-darling",
+            "relationship_type": 4,
+            "start_date": "",
+            "end_date": "",
+            "length": "-",
+            "start_months_since_1900": -1,
+            "end_months_since_1900": -1,
+            "length_in_months": -1
+        }
+    ],
+    "details": {
+        "First Name": "Brie",
+        "Middle Name": "NA",
+        "Last Name": "Howard",
+        "Maiden Name": "Berry",
+        "Full Name at Birth": "Maria Lourdes Berry",
+        "Alternative Name": "Brie Brandt, Brie Brandt-Howard, Brie Howard Darling, Brie Darling, Maria Lourdes Berry",
+        "Birthday": "1949",
+        "Birthplace": "USA",
+        "Height": "NA",
+        "Weight": "NA",
+        "Zodiac Sign": "12",
+        "Sexuality": "Straight",
+        "Religion": "1",
+        "Ethnicity": "8",
+        "Nationality": "91",
+        "Occupation": "1"
+    }
+}

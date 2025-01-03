@@ -1,0 +1,88 @@
+{
+    "relationships": [
+        {
+            "name": "Valerie Varda",
+            "href": "https://www.whosdatedwho.com/dating/valerie-varda",
+            "relationship_type": 2,
+            "start_date": "Dec 1962",
+            "end_date": "Jan 1963",
+            "length": "1 month",
+            "start_months_since_1900": 755,
+            "end_months_since_1900": 756,
+            "length_in_months": 1
+        },
+        {
+            "name": "Linda Hutchings",
+            "href": "https://www.whosdatedwho.com/dating/linda-hutchings",
+            "relationship_type": 3,
+            "start_date": "Dec 1959",
+            "end_date": "Jan 1960",
+            "length": "1 month",
+            "start_months_since_1900": 719,
+            "end_months_since_1900": 720,
+            "length_in_months": 1
+        },
+        {
+            "name": "Dorothy Provine",
+            "href": "https://www.whosdatedwho.com/dating/dorothy-provine",
+            "relationship_type": 2,
+            "start_date": "Sep 1959",
+            "end_date": "Nov 1959",
+            "length": "2 months",
+            "start_months_since_1900": 716,
+            "end_months_since_1900": 718,
+            "length_in_months": 2
+        },
+        {
+            "name": "Tina Louise",
+            "href": "https://www.whosdatedwho.com/dating/tina-louise",
+            "relationship_type": 3,
+            "start_date": "Jul 1959",
+            "end_date": "Aug 1959",
+            "length": "1 month",
+            "start_months_since_1900": 714,
+            "end_months_since_1900": 715,
+            "length_in_months": 1
+        },
+        {
+            "name": "Linda Christian",
+            "href": "https://www.whosdatedwho.com/dating/linda-christian",
+            "relationship_type": 3,
+            "start_date": "Apr 1959",
+            "end_date": "Apr 1959",
+            "length": "-",
+            "start_months_since_1900": 711,
+            "end_months_since_1900": 711,
+            "length_in_months": -1
+        },
+        {
+            "name": "Mamie Van Doren",
+            "href": "https://www.whosdatedwho.com/dating/mamie-van-doren",
+            "relationship_type": 4,
+            "start_date": "Jan 1955",
+            "end_date": "22nd Mar 1961",
+            "length": "6 years",
+            "start_months_since_1900": 660,
+            "end_months_since_1900": 734,
+            "length_in_months": 72
+        }
+    ],
+    "details": {
+        "First Name": "Ray",
+        "Middle Name": "NA",
+        "Last Name": "Anthony",
+        "Maiden Name": "NA",
+        "Full Name at Birth": "Raymond Antonini",
+        "Alternative Name": "NA",
+        "Birthday": "1922",
+        "Birthplace": "USA",
+        "Height": "NA",
+        "Weight": "NA",
+        "Zodiac Sign": "13",
+        "Sexuality": "Straight",
+        "Religion": "1",
+        "Ethnicity": "6",
+        "Nationality": "91",
+        "Occupation": "1"
+    }
+}

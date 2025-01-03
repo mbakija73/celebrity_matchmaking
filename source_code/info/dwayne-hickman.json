@@ -1,0 +1,88 @@
+{
+    "relationships": [
+        {
+            "name": "Joan Roberts",
+            "href": "https://www.whosdatedwho.com/dating/joan-roberts",
+            "relationship_type": 4,
+            "start_date": "1981",
+            "end_date": "",
+            "length": "-",
+            "start_months_since_1900": 972,
+            "end_months_since_1900": -1,
+            "length_in_months": -1
+        },
+        {
+            "name": "Joanne Papile",
+            "href": "https://www.whosdatedwho.com/dating/joanne-papile",
+            "relationship_type": 4,
+            "start_date": "1976",
+            "end_date": "3rd Aug 1981",
+            "length": "5 years",
+            "start_months_since_1900": 912,
+            "end_months_since_1900": 979,
+            "length_in_months": 60
+        },
+        {
+            "name": "Darlene Tompkins",
+            "href": "https://www.whosdatedwho.com/dating/darlene-tompkins",
+            "relationship_type": 3,
+            "start_date": "Nov 1961",
+            "end_date": "Jan 1962",
+            "length": "2 months",
+            "start_months_since_1900": 742,
+            "end_months_since_1900": 744,
+            "length_in_months": 2
+        },
+        {
+            "name": "Myrna Fahey",
+            "href": "https://www.whosdatedwho.com/dating/myrna-fahey",
+            "relationship_type": 2,
+            "start_date": "Apr 1961",
+            "end_date": "May 1961",
+            "length": "1 month",
+            "start_months_since_1900": 735,
+            "end_months_since_1900": 736,
+            "length_in_months": 1
+        },
+        {
+            "name": "Carol Christensen",
+            "href": "https://www.whosdatedwho.com/dating/carol-christensen",
+            "relationship_type": 4,
+            "start_date": "1961",
+            "end_date": "7th Sep 1972",
+            "length": "11 years",
+            "start_months_since_1900": 732,
+            "end_months_since_1900": 872,
+            "length_in_months": 132
+        },
+        {
+            "name": "Sherry Jackson",
+            "href": "https://www.whosdatedwho.com/dating/sherry-jackson",
+            "relationship_type": 2,
+            "start_date": "Jan 1960",
+            "end_date": "Feb 1960",
+            "length": "1 month",
+            "start_months_since_1900": 720,
+            "end_months_since_1900": 721,
+            "length_in_months": 1
+        }
+    ],
+    "details": {
+        "First Name": "Dwayne",
+        "Middle Name": "Bernard",
+        "Last Name": "Hickman",
+        "Maiden Name": "NA",
+        "Full Name at Birth": "Dwayne Bernard Hickman",
+        "Alternative Name": "NA",
+        "Birthday": "1934",
+        "Birthplace": "USA",
+        "Height": "173",
+        "Weight": "NA",
+        "Zodiac Sign": "3",
+        "Sexuality": "Straight",
+        "Religion": "1",
+        "Ethnicity": "6",
+        "Nationality": "91",
+        "Occupation": "8"
+    }
+}

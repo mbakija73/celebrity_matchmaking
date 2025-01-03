@@ -1,0 +1,66 @@
+{
+    "relationships": [
+        {
+            "name": "Paul Kennerley",
+            "href": "https://www.whosdatedwho.com/dating/paul-kennerley-6302109",
+            "relationship_type": 4,
+            "start_date": "1984",
+            "end_date": "1993",
+            "length": "9 years",
+            "start_months_since_1900": 1008,
+            "end_months_since_1900": 1116,
+            "length_in_months": 108
+        },
+        {
+            "name": "Brian Ahern",
+            "href": "https://www.whosdatedwho.com/dating/brian-ahern",
+            "relationship_type": 4,
+            "start_date": "1975",
+            "end_date": "1984",
+            "length": "9 years",
+            "start_months_since_1900": 900,
+            "end_months_since_1900": 1008,
+            "length_in_months": 108
+        },
+        {
+            "name": "Tom Slocum",
+            "href": "https://www.whosdatedwho.com/dating/tom-slocum",
+            "relationship_type": 4,
+            "start_date": "1968",
+            "end_date": "Dec 1970",
+            "length": "2 years",
+            "start_months_since_1900": 816,
+            "end_months_since_1900": 851,
+            "length_in_months": 24
+        },
+        {
+            "name": "Gram Parsons",
+            "href": "https://www.whosdatedwho.com/dating/gram-parsons",
+            "relationship_type": 2,
+            "start_date": "",
+            "end_date": "",
+            "length": "-",
+            "start_months_since_1900": -1,
+            "end_months_since_1900": -1,
+            "length_in_months": -1
+        }
+    ],
+    "details": {
+        "First Name": "Emmylou",
+        "Middle Name": "NA",
+        "Last Name": "Harris",
+        "Maiden Name": "NA",
+        "Full Name at Birth": "Emmylou Harris",
+        "Alternative Name": "Emmy",
+        "Birthday": "1947",
+        "Birthplace": "USA",
+        "Height": "165",
+        "Weight": "127lbs (58 kg)",
+        "Zodiac Sign": "7",
+        "Sexuality": "Straight",
+        "Religion": "18",
+        "Ethnicity": "6",
+        "Nationality": "91",
+        "Occupation": "1"
+    }
+}

@@ -1,0 +1,88 @@
+{
+    "relationships": [
+        {
+            "name": "Lisa Loiacono",
+            "href": "https://www.whosdatedwho.com/dating/lisa-loiacono",
+            "relationship_type": 4,
+            "start_date": "2014",
+            "end_date": "present",
+            "length": "10 years",
+            "start_months_since_1900": 1368,
+            "end_months_since_1900": -1,
+            "length_in_months": 120
+        },
+        {
+            "name": "Jane Walker Wood",
+            "href": "https://www.whosdatedwho.com/dating/jane-walker-wood",
+            "relationship_type": 4,
+            "start_date": "1990",
+            "end_date": "28th Dec 2005",
+            "length": "16 years",
+            "start_months_since_1900": 1080,
+            "end_months_since_1900": 1271,
+            "length_in_months": 192
+        },
+        {
+            "name": "Carol Vanek",
+            "href": "https://www.whosdatedwho.com/dating/carol-vanek",
+            "relationship_type": 4,
+            "start_date": "1986",
+            "end_date": "1991",
+            "length": "5 years",
+            "start_months_since_1900": 1032,
+            "end_months_since_1900": 1092,
+            "length_in_months": 60
+        },
+        {
+            "name": "Kay Tornborg",
+            "href": "https://www.whosdatedwho.com/dating/kay-tornborg",
+            "relationship_type": 4,
+            "start_date": "1972",
+            "end_date": "1987",
+            "length": "15 years",
+            "start_months_since_1900": 864,
+            "end_months_since_1900": 1044,
+            "length_in_months": 180
+        },
+        {
+            "name": "Catherine Boyd",
+            "href": "https://www.whosdatedwho.com/dating/catherine-boyd",
+            "relationship_type": 4,
+            "start_date": "1957",
+            "end_date": "1971",
+            "length": "14 years",
+            "start_months_since_1900": 684,
+            "end_months_since_1900": 852,
+            "length_in_months": 168
+        },
+        {
+            "name": "Estelle Parsons",
+            "href": "https://www.whosdatedwho.com/dating/estelle-parsons",
+            "relationship_type": 1,
+            "start_date": "",
+            "end_date": "",
+            "length": "-",
+            "start_months_since_1900": -1,
+            "end_months_since_1900": -1,
+            "length_in_months": -1
+        }
+    ],
+    "details": {
+        "First Name": "Christopher",
+        "Middle Name": "Allen",
+        "Last Name": "Lloyd",
+        "Maiden Name": "NA",
+        "Full Name at Birth": "Christopher Allen Lloyd",
+        "Alternative Name": "NA",
+        "Birthday": "1938",
+        "Birthplace": "USA",
+        "Height": "185",
+        "Weight": "NA",
+        "Zodiac Sign": "10",
+        "Sexuality": "Straight",
+        "Religion": "1",
+        "Ethnicity": "6",
+        "Nationality": "91",
+        "Occupation": "8"
+    }
+}

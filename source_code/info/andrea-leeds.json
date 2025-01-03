@@ -1,0 +1,66 @@
+{
+    "relationships": [
+        {
+            "name": "James Roosevelt",
+            "href": "https://www.whosdatedwho.com/dating/james-roosevelt",
+            "relationship_type": 2,
+            "start_date": "Feb 1944",
+            "end_date": "Mar 1944",
+            "length": "< 1 month",
+            "start_months_since_1900": 529,
+            "end_months_since_1900": 530,
+            "length_in_months": 0
+        },
+        {
+            "name": "Robert Howard",
+            "href": "https://www.whosdatedwho.com/dating/robert-howard",
+            "relationship_type": 4,
+            "start_date": "Jun 1939",
+            "end_date": "Sep 1962",
+            "length": "23 years",
+            "start_months_since_1900": 473,
+            "end_months_since_1900": 752,
+            "length_in_months": 276
+        },
+        {
+            "name": "Jack Dunn",
+            "href": "https://www.whosdatedwho.com/dating/jack-dunn",
+            "relationship_type": 2,
+            "start_date": "Aug 1937",
+            "end_date": "May 1938",
+            "length": "9 months",
+            "start_months_since_1900": 451,
+            "end_months_since_1900": 460,
+            "length_in_months": 9
+        },
+        {
+            "name": "John Payne",
+            "href": "https://www.whosdatedwho.com/dating/john-payne",
+            "relationship_type": 2,
+            "start_date": "1936",
+            "end_date": "1936",
+            "length": "-",
+            "start_months_since_1900": 432,
+            "end_months_since_1900": 432,
+            "length_in_months": -1
+        }
+    ],
+    "details": {
+        "First Name": "Andrea",
+        "Middle Name": "NA",
+        "Last Name": "Leeds",
+        "Maiden Name": "NA",
+        "Full Name at Birth": "Antoinette Lees",
+        "Alternative Name": "NA",
+        "Birthday": "1913",
+        "Birthplace": "USA",
+        "Height": "NA",
+        "Weight": "NA",
+        "Zodiac Sign": "12",
+        "Sexuality": "Straight",
+        "Religion": "18",
+        "Ethnicity": "6",
+        "Nationality": "91",
+        "Occupation": "8"
+    }
+}

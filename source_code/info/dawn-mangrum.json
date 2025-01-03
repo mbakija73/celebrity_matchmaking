@@ -1,0 +1,55 @@
+{
+    "relationships": [
+        {
+            "name": "Lionel Richie",
+            "href": "https://www.whosdatedwho.com/dating/lionel-richie",
+            "relationship_type": 3,
+            "start_date": "Jan 1993",
+            "end_date": "Jan 1993",
+            "length": "-",
+            "start_months_since_1900": 1116,
+            "end_months_since_1900": 1116,
+            "length_in_months": -1
+        },
+        {
+            "name": "Jeff Fahey",
+            "href": "https://www.whosdatedwho.com/dating/jeff-fahey",
+            "relationship_type": 2,
+            "start_date": "Apr 1992",
+            "end_date": "Apr 1992",
+            "length": "-",
+            "start_months_since_1900": 1107,
+            "end_months_since_1900": 1107,
+            "length_in_months": -1
+        },
+        {
+            "name": "Jay Bernstein",
+            "href": "https://www.whosdatedwho.com/dating/jay-bernstein",
+            "relationship_type": 2,
+            "start_date": "1985",
+            "end_date": "1986",
+            "length": "1 year",
+            "start_months_since_1900": 1020,
+            "end_months_since_1900": 1032,
+            "length_in_months": 12
+        }
+    ],
+    "details": {
+        "First Name": "Dawn",
+        "Middle Name": "NA",
+        "Last Name": "Mangrum",
+        "Maiden Name": "NA",
+        "Full Name at Birth": "NA",
+        "Alternative Name": "NA",
+        "Birthday": "NA",
+        "Birthplace": "NA",
+        "Height": "NA",
+        "Weight": "NA",
+        "Zodiac Sign": "2",
+        "Sexuality": "NA",
+        "Religion": "1",
+        "Ethnicity": "6",
+        "Nationality": "91",
+        "Occupation": "8"
+    }
+}

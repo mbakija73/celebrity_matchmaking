@@ -1,0 +1,77 @@
+{
+    "relationships": [
+        {
+            "name": "Col. Joseph A. Howard",
+            "href": "https://www.whosdatedwho.com/dating/col-joseph-a-howard",
+            "relationship_type": 4,
+            "start_date": "Jan 1942",
+            "end_date": "May 1976",
+            "length": "34 years",
+            "start_months_since_1900": 504,
+            "end_months_since_1900": 916,
+            "length_in_months": 408
+        },
+        {
+            "name": "Ronald Reagan",
+            "href": "https://www.whosdatedwho.com/dating/ronald-reagan",
+            "relationship_type": 3,
+            "start_date": "Jan 1941",
+            "end_date": "Jul 1941",
+            "length": "6 months",
+            "start_months_since_1900": 492,
+            "end_months_since_1900": 498,
+            "length_in_months": 6
+        },
+        {
+            "name": "John Barry",
+            "href": "https://www.whosdatedwho.com/dating/john-barry",
+            "relationship_type": 2,
+            "start_date": "Apr 1939",
+            "end_date": "Jan 1942",
+            "length": "2 years",
+            "start_months_since_1900": 471,
+            "end_months_since_1900": 504,
+            "length_in_months": 24
+        },
+        {
+            "name": "Oren Haglund",
+            "href": "https://www.whosdatedwho.com/dating/oren-haglund",
+            "relationship_type": 4,
+            "start_date": "1938",
+            "end_date": "1st Apr 1939",
+            "length": "1 year",
+            "start_months_since_1900": 456,
+            "end_months_since_1900": 471,
+            "length_in_months": 12
+        },
+        {
+            "name": "Wayne Morris",
+            "href": "https://www.whosdatedwho.com/dating/wayne-morris",
+            "relationship_type": 2,
+            "start_date": "Dec 1937",
+            "end_date": "Oct 1938",
+            "length": "10 months",
+            "start_months_since_1900": 455,
+            "end_months_since_1900": 465,
+            "length_in_months": 10
+        }
+    ],
+    "details": {
+        "First Name": "Priscilla",
+        "Middle Name": "NA",
+        "Last Name": "Lane",
+        "Maiden Name": "Mullican",
+        "Full Name at Birth": "Priscilla Mullican",
+        "Alternative Name": "Pat, Priscilla Mullican, Priscilla Lane",
+        "Birthday": "1915",
+        "Birthplace": "USA",
+        "Height": "159",
+        "Weight": "107lbs (49 kg)",
+        "Zodiac Sign": "4",
+        "Sexuality": "Straight",
+        "Religion": "13",
+        "Ethnicity": "6",
+        "Nationality": "91",
+        "Occupation": "8"
+    }
+}

@@ -1,0 +1,44 @@
+{
+    "relationships": [
+        {
+            "name": "Geri Horner",
+            "href": "https://www.whosdatedwho.com/dating/geri-horner",
+            "relationship_type": 3,
+            "start_date": "Jun 2007",
+            "end_date": "Jul 2007",
+            "length": "1 month",
+            "start_months_since_1900": 1289,
+            "end_months_since_1900": 1290,
+            "length_in_months": 1
+        },
+        {
+            "name": "Gillian Anderson",
+            "href": "https://www.whosdatedwho.com/dating/gillian-anderson",
+            "relationship_type": 2,
+            "start_date": "2006",
+            "end_date": "Aug 2012",
+            "length": "6 years",
+            "start_months_since_1900": 1272,
+            "end_months_since_1900": 1351,
+            "length_in_months": 72
+        }
+    ],
+    "details": {
+        "First Name": "Mark",
+        "Middle Name": "NA",
+        "Last Name": "Griffiths",
+        "Maiden Name": "NA",
+        "Full Name at Birth": "Mark Griffiths",
+        "Alternative Name": "NA",
+        "Birthday": "NA",
+        "Birthplace": "NA",
+        "Height": "NA",
+        "Weight": "NA",
+        "Zodiac Sign": "2",
+        "Sexuality": "Straight",
+        "Religion": "1",
+        "Ethnicity": "6",
+        "Nationality": "65",
+        "Occupation": "9"
+    }
+}

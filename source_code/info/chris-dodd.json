@@ -1,0 +1,77 @@
+{
+    "relationships": [
+        {
+            "name": "Jackie Clegg",
+            "href": "https://www.whosdatedwho.com/dating/jackie-clegg",
+            "relationship_type": 4,
+            "start_date": "1996",
+            "end_date": "present",
+            "length": "28 years",
+            "start_months_since_1900": 1152,
+            "end_months_since_1900": -1,
+            "length_in_months": 336
+        },
+        {
+            "name": "Carrie Fisher",
+            "href": "https://www.whosdatedwho.com/dating/carrie-fisher",
+            "relationship_type": 2,
+            "start_date": "1985",
+            "end_date": "1986",
+            "length": "1 year",
+            "start_months_since_1900": 1020,
+            "end_months_since_1900": 1032,
+            "length_in_months": 12
+        },
+        {
+            "name": "Bianca Jagger",
+            "href": "https://www.whosdatedwho.com/dating/bianca-jagger",
+            "relationship_type": 2,
+            "start_date": "Jul 1982",
+            "end_date": "Aug 1982",
+            "length": "1 month",
+            "start_months_since_1900": 990,
+            "end_months_since_1900": 991,
+            "length_in_months": 1
+        },
+        {
+            "name": "Patricia Duff",
+            "href": "https://www.whosdatedwho.com/dating/patricia-duff",
+            "relationship_type": 2,
+            "start_date": "",
+            "end_date": "",
+            "length": "-",
+            "start_months_since_1900": -1,
+            "end_months_since_1900": -1,
+            "length_in_months": -1
+        },
+        {
+            "name": "Susan Mooney",
+            "href": "https://www.whosdatedwho.com/dating/susan-mooney-122256634",
+            "relationship_type": 4,
+            "start_date": "1968",
+            "end_date": "1982",
+            "length": "14 years",
+            "start_months_since_1900": 816,
+            "end_months_since_1900": 984,
+            "length_in_months": 168
+        }
+    ],
+    "details": {
+        "First Name": "Chris",
+        "Middle Name": "NA",
+        "Last Name": "Dodd",
+        "Maiden Name": "NA",
+        "Full Name at Birth": "Christopher John  Dodd",
+        "Alternative Name": "NA",
+        "Birthday": "1944",
+        "Birthplace": "USA",
+        "Height": "NA",
+        "Weight": "NA",
+        "Zodiac Sign": "4",
+        "Sexuality": "Straight",
+        "Religion": "13",
+        "Ethnicity": "6",
+        "Nationality": "91",
+        "Occupation": "12"
+    }
+}

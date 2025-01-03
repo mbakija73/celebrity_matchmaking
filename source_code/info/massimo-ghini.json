@@ -1,0 +1,66 @@
+{
+    "relationships": [
+        {
+            "name": "Paola Romano",
+            "href": "https://www.whosdatedwho.com/dating/paola-romano",
+            "relationship_type": 4,
+            "start_date": "1995",
+            "end_date": "",
+            "length": "-",
+            "start_months_since_1900": 1140,
+            "end_months_since_1900": -1,
+            "length_in_months": -1
+        },
+        {
+            "name": "Federica Lorrai",
+            "href": "https://www.whosdatedwho.com/dating/federica-lorrai",
+            "relationship_type": 4,
+            "start_date": "1992",
+            "end_date": "1995",
+            "length": "3 years",
+            "start_months_since_1900": 1104,
+            "end_months_since_1900": 1140,
+            "length_in_months": 36
+        },
+        {
+            "name": "Nancy Brilli",
+            "href": "https://www.whosdatedwho.com/dating/nancy-brilli",
+            "relationship_type": 4,
+            "start_date": "1987",
+            "end_date": "1990",
+            "length": "3 years",
+            "start_months_since_1900": 1044,
+            "end_months_since_1900": 1080,
+            "length_in_months": 36
+        },
+        {
+            "name": "Sabrina Ferilli",
+            "href": "https://www.whosdatedwho.com/dating/sabrina-ferilli",
+            "relationship_type": 2,
+            "start_date": "1986",
+            "end_date": "1986",
+            "length": "-",
+            "start_months_since_1900": 1032,
+            "end_months_since_1900": 1032,
+            "length_in_months": -1
+        }
+    ],
+    "details": {
+        "First Name": "Massimo",
+        "Middle Name": "NA",
+        "Last Name": "Ghini",
+        "Maiden Name": "NA",
+        "Full Name at Birth": "NA",
+        "Alternative Name": "NA",
+        "Birthday": "1954",
+        "Birthplace": "Italy",
+        "Height": "178",
+        "Weight": "NA",
+        "Zodiac Sign": "10",
+        "Sexuality": "NA",
+        "Religion": "1",
+        "Ethnicity": "1",
+        "Nationality": "139",
+        "Occupation": "8"
+    }
+}

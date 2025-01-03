@@ -1,0 +1,99 @@
+{
+    "relationships": [
+        {
+            "name": "Dave Abrams",
+            "href": "https://www.whosdatedwho.com/dating/dave-abrams",
+            "relationship_type": 4,
+            "start_date": "Sep 2014",
+            "end_date": "",
+            "length": "-",
+            "start_months_since_1900": 1376,
+            "end_months_since_1900": -1,
+            "length_in_months": -1
+        },
+        {
+            "name": "Michael Shimbo",
+            "href": "https://www.whosdatedwho.com/dating/michael-shimbo",
+            "relationship_type": 2,
+            "start_date": "Jul 2013",
+            "end_date": "Nov 2013",
+            "length": "4 months",
+            "start_months_since_1900": 1362,
+            "end_months_since_1900": 1366,
+            "length_in_months": 4
+        },
+        {
+            "name": "Jeremy Salken",
+            "href": "https://www.whosdatedwho.com/dating/jeremy-salken",
+            "relationship_type": 2,
+            "start_date": "Oct 2012",
+            "end_date": "Oct 2012",
+            "length": "-",
+            "start_months_since_1900": 1353,
+            "end_months_since_1900": 1353,
+            "length_in_months": -1
+        },
+        {
+            "name": "Noah Abrams",
+            "href": "https://www.whosdatedwho.com/dating/noah-abrams",
+            "relationship_type": 2,
+            "start_date": "Aug 2012",
+            "end_date": "Oct 2012",
+            "length": "2 months",
+            "start_months_since_1900": 1351,
+            "end_months_since_1900": 1353,
+            "length_in_months": 2
+        },
+        {
+            "name": "Peter Facinelli",
+            "href": "https://www.whosdatedwho.com/dating/peter-facinelli",
+            "relationship_type": 4,
+            "start_date": "Jun 1995",
+            "end_date": "11th Jun 2013",
+            "length": "18 years",
+            "start_months_since_1900": 1145,
+            "end_months_since_1900": 1361,
+            "length_in_months": 216
+        },
+        {
+            "name": "Daniel B. Clark",
+            "href": "https://www.whosdatedwho.com/dating/daniel-b-clark",
+            "relationship_type": 4,
+            "start_date": "Dec 1991",
+            "end_date": "Jan 1996",
+            "length": "4 years",
+            "start_months_since_1900": 1103,
+            "end_months_since_1900": 1152,
+            "length_in_months": 48
+        },
+        {
+            "name": "Jason Clark",
+            "href": "https://www.whosdatedwho.com/dating/jason-clark-author",
+            "relationship_type": 5,
+            "start_date": "Oct 2012",
+            "end_date": "Oct 2012",
+            "length": "-",
+            "start_months_since_1900": 1353,
+            "end_months_since_1900": 1353,
+            "length_in_months": -1
+        }
+    ],
+    "details": {
+        "First Name": "Jennie",
+        "Middle Name": "Eve",
+        "Last Name": "Abrams",
+        "Maiden Name": "Garth",
+        "Full Name at Birth": "Jennifer Eve Garth",
+        "Alternative Name": "Jen, Jennifer Eve Abrams, Jennie Garth",
+        "Birthday": "1972",
+        "Birthplace": "Illinois",
+        "Height": "165",
+        "Weight": "NA",
+        "Zodiac Sign": "7",
+        "Sexuality": "Straight",
+        "Religion": "13",
+        "Ethnicity": "6",
+        "Nationality": "91",
+        "Occupation": "8"
+    }
+}

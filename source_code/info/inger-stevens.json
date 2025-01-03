@@ -1,0 +1,165 @@
+{
+    "relationships": [
+        {
+            "name": "Burt Reynolds",
+            "href": "https://www.whosdatedwho.com/dating/burt-reynolds",
+            "relationship_type": 2,
+            "start_date": "Jan 1970",
+            "end_date": "30th Apr 1970",
+            "length": "3 months",
+            "start_months_since_1900": 840,
+            "end_months_since_1900": 843,
+            "length_in_months": 3
+        },
+        {
+            "name": "Anthony Quinn",
+            "href": "https://www.whosdatedwho.com/dating/anthony-quinn",
+            "relationship_type": 2,
+            "start_date": "1969",
+            "end_date": "1969",
+            "length": "-",
+            "start_months_since_1900": 828,
+            "end_months_since_1900": 828,
+            "length_in_months": -1
+        },
+        {
+            "name": "Dean Martin",
+            "href": "https://www.whosdatedwho.com/dating/dean-martin",
+            "relationship_type": 2,
+            "start_date": "1968",
+            "end_date": "1968",
+            "length": "-",
+            "start_months_since_1900": 816,
+            "end_months_since_1900": 816,
+            "length_in_months": -1
+        },
+        {
+            "name": "Clint Eastwood",
+            "href": "https://www.whosdatedwho.com/dating/clint-eastwood",
+            "relationship_type": 2,
+            "start_date": "Jun 1967",
+            "end_date": "1968",
+            "length": "7 months",
+            "start_months_since_1900": 809,
+            "end_months_since_1900": 816,
+            "length_in_months": 7
+        },
+        {
+            "name": "Tom Mankiewicz",
+            "href": "https://www.whosdatedwho.com/dating/tom-mankiewicz",
+            "relationship_type": 3,
+            "start_date": "1964",
+            "end_date": "1964",
+            "length": "-",
+            "start_months_since_1900": 768,
+            "end_months_since_1900": 768,
+            "length_in_months": -1
+        },
+        {
+            "name": "Warren Beatty",
+            "href": "https://www.whosdatedwho.com/dating/warren-beatty",
+            "relationship_type": 3,
+            "start_date": "1963",
+            "end_date": "1963",
+            "length": "-",
+            "start_months_since_1900": 756,
+            "end_months_since_1900": 756,
+            "length_in_months": -1
+        },
+        {
+            "name": "Ike Jones",
+            "href": "https://www.whosdatedwho.com/dating/ike-jones",
+            "relationship_type": 4,
+            "start_date": "Jan 1961",
+            "end_date": "30th Apr 1970",
+            "length": "9 years",
+            "start_months_since_1900": 732,
+            "end_months_since_1900": 843,
+            "length_in_months": 108
+        },
+        {
+            "name": "Harry Belafonte",
+            "href": "https://www.whosdatedwho.com/dating/harry-belafonte",
+            "relationship_type": 2,
+            "start_date": "1959",
+            "end_date": "1960",
+            "length": "1 year",
+            "start_months_since_1900": 708,
+            "end_months_since_1900": 720,
+            "length_in_months": 12
+        },
+        {
+            "name": "James Mason",
+            "href": "https://www.whosdatedwho.com/dating/james-mason",
+            "relationship_type": 3,
+            "start_date": "1958",
+            "end_date": "1958",
+            "length": "-",
+            "start_months_since_1900": 696,
+            "end_months_since_1900": 696,
+            "length_in_months": -1
+        },
+        {
+            "name": "Bing Crosby",
+            "href": "https://www.whosdatedwho.com/dating/bing-crosby",
+            "relationship_type": 3,
+            "start_date": "1957",
+            "end_date": "1957",
+            "length": "-",
+            "start_months_since_1900": 684,
+            "end_months_since_1900": 684,
+            "length_in_months": -1
+        },
+        {
+            "name": "Anthony Soglio",
+            "href": "https://www.whosdatedwho.com/dating/anthony-soglio",
+            "relationship_type": 4,
+            "start_date": "Feb 1954",
+            "end_date": "18th Aug 1958",
+            "length": "4 years",
+            "start_months_since_1900": 649,
+            "end_months_since_1900": 703,
+            "length_in_months": 48
+        },
+        {
+            "name": "Vic Damone",
+            "href": "https://www.whosdatedwho.com/dating/vic-damone",
+            "relationship_type": 3,
+            "start_date": "",
+            "end_date": "",
+            "length": "-",
+            "start_months_since_1900": -1,
+            "end_months_since_1900": -1,
+            "length_in_months": -1
+        },
+        {
+            "name": "Mario Lanza",
+            "href": "https://www.whosdatedwho.com/dating/mario-lanza",
+            "relationship_type": 2,
+            "start_date": "",
+            "end_date": "",
+            "length": "-",
+            "start_months_since_1900": -1,
+            "end_months_since_1900": -1,
+            "length_in_months": -1
+        }
+    ],
+    "details": {
+        "First Name": "Inger",
+        "Middle Name": "NA",
+        "Last Name": "Stevens",
+        "Maiden Name": "Stensland",
+        "Full Name at Birth": "Inger Stensland",
+        "Alternative Name": "Kay Palmer, Inger Stevens, Inger Stensland",
+        "Birthday": "1934",
+        "Birthplace": "Sweden",
+        "Height": "168",
+        "Weight": "NA",
+        "Zodiac Sign": "10",
+        "Sexuality": "Straight",
+        "Religion": "1",
+        "Ethnicity": "6",
+        "Nationality": "30",
+        "Occupation": "8"
+    }
+}

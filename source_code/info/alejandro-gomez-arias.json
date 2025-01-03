@@ -1,0 +1,33 @@
+{
+    "relationships": [
+        {
+            "name": "Frida Kahlo",
+            "href": "https://www.whosdatedwho.com/dating/frida-kahlo",
+            "relationship_type": 2,
+            "start_date": "1922",
+            "end_date": "1926",
+            "length": "4 years",
+            "start_months_since_1900": 264,
+            "end_months_since_1900": 312,
+            "length_in_months": 48
+        }
+    ],
+    "details": {
+        "First Name": "Alejandro",
+        "Middle Name": "Gomez",
+        "Last Name": "Arias",
+        "Maiden Name": "NA",
+        "Full Name at Birth": "Alejandro Gomez Arias",
+        "Alternative Name": "Alejandro Gomez Arias",
+        "Birthday": "NA",
+        "Birthplace": "NA",
+        "Height": "NA",
+        "Weight": "NA",
+        "Zodiac Sign": "2",
+        "Sexuality": "NA",
+        "Religion": "1",
+        "Ethnicity": "1",
+        "Nationality": "7",
+        "Occupation": "19"
+    }
+}

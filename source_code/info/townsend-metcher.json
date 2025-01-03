@@ -1,0 +1,44 @@
+{
+    "relationships": [
+        {
+            "name": "Carole Landis",
+            "href": "https://www.whosdatedwho.com/dating/carole-landis",
+            "relationship_type": 2,
+            "start_date": "1941",
+            "end_date": "1941",
+            "length": "-",
+            "start_months_since_1900": 492,
+            "end_months_since_1900": 492,
+            "length_in_months": -1
+        },
+        {
+            "name": "Constance Talmadge",
+            "href": "https://www.whosdatedwho.com/dating/constance-talmadge",
+            "relationship_type": 4,
+            "start_date": "May 1928",
+            "end_date": "5th Jan 1939",
+            "length": "10 years",
+            "start_months_since_1900": 340,
+            "end_months_since_1900": 468,
+            "length_in_months": 120
+        }
+    ],
+    "details": {
+        "First Name": "Townsend",
+        "Middle Name": "NA",
+        "Last Name": "Metcher",
+        "Maiden Name": "NA",
+        "Full Name at Birth": "NA",
+        "Alternative Name": "NA",
+        "Birthday": "NA",
+        "Birthplace": "NA",
+        "Height": "NA",
+        "Weight": "NA",
+        "Zodiac Sign": "2",
+        "Sexuality": "NA",
+        "Religion": "1",
+        "Ethnicity": "1",
+        "Nationality": "65",
+        "Occupation": "19"
+    }
+}

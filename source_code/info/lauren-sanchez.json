@@ -1,0 +1,99 @@
+{
+    "relationships": [
+        {
+            "name": "Jeff Bezos",
+            "href": "https://www.whosdatedwho.com/dating/jeff-bezos",
+            "relationship_type": 2,
+            "start_date": "May 2018",
+            "end_date": "present",
+            "length": "6 years",
+            "start_months_since_1900": 1420,
+            "end_months_since_1900": -1,
+            "length_in_months": 72
+        },
+        {
+            "name": "Patrick Whitesell",
+            "href": "https://www.whosdatedwho.com/dating/patrick-whitesell",
+            "relationship_type": 4,
+            "start_date": "2004",
+            "end_date": "2019",
+            "length": "15 years",
+            "start_months_since_1900": 1248,
+            "end_months_since_1900": 1428,
+            "length_in_months": 180
+        },
+        {
+            "name": "Henry Simmons",
+            "href": "https://www.whosdatedwho.com/dating/henry-simmons",
+            "relationship_type": 2,
+            "start_date": "2002",
+            "end_date": "2003",
+            "length": "1 year",
+            "start_months_since_1900": 1224,
+            "end_months_since_1900": 1236,
+            "length_in_months": 12
+        },
+        {
+            "name": "Derek Fisher",
+            "href": "https://www.whosdatedwho.com/dating/derek-fisher",
+            "relationship_type": 2,
+            "start_date": "2001",
+            "end_date": "2002",
+            "length": "1 year",
+            "start_months_since_1900": 1212,
+            "end_months_since_1900": 1224,
+            "length_in_months": 12
+        },
+        {
+            "name": "Tony Gonzalez",
+            "href": "https://www.whosdatedwho.com/dating/tony-gonzalez",
+            "relationship_type": 2,
+            "start_date": "2000",
+            "end_date": "2001",
+            "length": "1 year",
+            "start_months_since_1900": 1200,
+            "end_months_since_1900": 1212,
+            "length_in_months": 12
+        },
+        {
+            "name": "Anthony Miller",
+            "href": "https://www.whosdatedwho.com/dating/anthony-miller-football-american",
+            "relationship_type": 2,
+            "start_date": "1996",
+            "end_date": "2000",
+            "length": "4 years",
+            "start_months_since_1900": 1152,
+            "end_months_since_1900": 1200,
+            "length_in_months": 48
+        },
+        {
+            "name": "Rory Markas",
+            "href": "https://www.whosdatedwho.com/dating/rory-markas",
+            "relationship_type": 2,
+            "start_date": "",
+            "end_date": "",
+            "length": "-",
+            "start_months_since_1900": -1,
+            "end_months_since_1900": -1,
+            "length_in_months": -1
+        }
+    ],
+    "details": {
+        "First Name": "Lauren",
+        "Middle Name": "NA",
+        "Last Name": "Whitesell",
+        "Maiden Name": "S\u00e1nchez",
+        "Full Name at Birth": "Wendy Lauren S\u00e1nchez",
+        "Alternative Name": "NA",
+        "Birthday": "1969",
+        "Birthplace": "USA",
+        "Height": "160",
+        "Weight": "118lbs (54 kg)",
+        "Zodiac Sign": "6",
+        "Sexuality": "Straight",
+        "Religion": "13",
+        "Ethnicity": "8",
+        "Nationality": "91",
+        "Occupation": "9"
+    }
+}

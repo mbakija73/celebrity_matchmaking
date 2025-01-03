@@ -1,0 +1,66 @@
+{
+    "relationships": [
+        {
+            "name": "Jamie Murray",
+            "href": "https://www.whosdatedwho.com/dating/jamie-murray",
+            "relationship_type": 2,
+            "start_date": "2005",
+            "end_date": "2005",
+            "length": "-",
+            "start_months_since_1900": 1260,
+            "end_months_since_1900": 1260,
+            "length_in_months": -1
+        },
+        {
+            "name": "Michael McMahon",
+            "href": "https://www.whosdatedwho.com/dating/michael-mcmahon",
+            "relationship_type": 3,
+            "start_date": "2005",
+            "end_date": "2005",
+            "length": "-",
+            "start_months_since_1900": 1260,
+            "end_months_since_1900": 1260,
+            "length_in_months": -1
+        },
+        {
+            "name": "David Giuntoli",
+            "href": "https://www.whosdatedwho.com/dating/david-giuntoli",
+            "relationship_type": 2,
+            "start_date": "2003",
+            "end_date": "2004",
+            "length": "1 year",
+            "start_months_since_1900": 1236,
+            "end_months_since_1900": 1248,
+            "length_in_months": 12
+        },
+        {
+            "name": "T.J. Lavin",
+            "href": "https://www.whosdatedwho.com/dating/t-j-lavin",
+            "relationship_type": 3,
+            "start_date": "",
+            "end_date": "",
+            "length": "-",
+            "start_months_since_1900": -1,
+            "end_months_since_1900": -1,
+            "length_in_months": -1
+        }
+    ],
+    "details": {
+        "First Name": "Cara",
+        "Middle Name": "NA",
+        "Last Name": "Zavaleta",
+        "Maiden Name": "NA",
+        "Full Name at Birth": "NA",
+        "Alternative Name": "Miss November 2004",
+        "Birthday": "1980",
+        "Birthplace": "USA",
+        "Height": "168",
+        "Weight": "118lbs (54 kg)",
+        "Zodiac Sign": "4",
+        "Sexuality": "Straight",
+        "Religion": "1",
+        "Ethnicity": "8",
+        "Nationality": "91",
+        "Occupation": "16"
+    }
+}

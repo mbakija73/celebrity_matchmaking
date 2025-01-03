@@ -1,0 +1,66 @@
+{
+    "relationships": [
+        {
+            "name": "Thal\u00eda",
+            "href": "https://www.whosdatedwho.com/dating/thalia",
+            "relationship_type": 4,
+            "start_date": "1999",
+            "end_date": "present",
+            "length": "25 years",
+            "start_months_since_1900": 1188,
+            "end_months_since_1900": -1,
+            "length_in_months": 300
+        },
+        {
+            "name": "Mariah Carey",
+            "href": "https://www.whosdatedwho.com/dating/mariah-carey",
+            "relationship_type": 4,
+            "start_date": "20th May 1991",
+            "end_date": "5th Mar 1998",
+            "length": "6 years",
+            "start_months_since_1900": 1096,
+            "end_months_since_1900": 1178,
+            "length_in_months": 72
+        },
+        {
+            "name": "Terri Garber",
+            "href": "https://www.whosdatedwho.com/dating/terri-garber",
+            "relationship_type": 2,
+            "start_date": "1981",
+            "end_date": "1981",
+            "length": "-",
+            "start_months_since_1900": 972,
+            "end_months_since_1900": 972,
+            "length_in_months": -1
+        },
+        {
+            "name": "Lisa Clark (I)",
+            "href": "https://www.whosdatedwho.com/dating/lisa-clark-i",
+            "relationship_type": 4,
+            "start_date": "1970",
+            "end_date": "1990",
+            "length": "20 years",
+            "start_months_since_1900": 840,
+            "end_months_since_1900": 1080,
+            "length_in_months": 240
+        }
+    ],
+    "details": {
+        "First Name": "Tommy",
+        "Middle Name": "Daniel",
+        "Last Name": "Mottola",
+        "Maiden Name": "NA",
+        "Full Name at Birth": "Thomas Daniel Mottola",
+        "Alternative Name": "Tommy Mottola",
+        "Birthday": "1949",
+        "Birthplace": "U.S.",
+        "Height": "173",
+        "Weight": "NA",
+        "Zodiac Sign": "8",
+        "Sexuality": "Straight",
+        "Religion": "1",
+        "Ethnicity": "6",
+        "Nationality": "91",
+        "Occupation": "7"
+    }
+}

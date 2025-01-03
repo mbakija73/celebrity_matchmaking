@@ -1,0 +1,44 @@
+{
+    "relationships": [
+        {
+            "name": "Iris D\u00edaz",
+            "href": "https://www.whosdatedwho.com/dating/iris-diaz",
+            "relationship_type": 2,
+            "start_date": "",
+            "end_date": "",
+            "length": "-",
+            "start_months_since_1900": -1,
+            "end_months_since_1900": -1,
+            "length_in_months": -1
+        },
+        {
+            "name": "Blanca Su\u00e1rez",
+            "href": "https://www.whosdatedwho.com/dating/blanca-suarez",
+            "relationship_type": 2,
+            "start_date": "",
+            "end_date": "present",
+            "length": "-",
+            "start_months_since_1900": -1,
+            "end_months_since_1900": -1,
+            "length_in_months": -1
+        }
+    ],
+    "details": {
+        "First Name": "Javier",
+        "Middle Name": "NA",
+        "Last Name": "Rey",
+        "Maiden Name": "NA",
+        "Full Name at Birth": "NA",
+        "Alternative Name": "NA",
+        "Birthday": "1980",
+        "Birthplace": "Spain",
+        "Height": "NA",
+        "Weight": "NA",
+        "Zodiac Sign": "1",
+        "Sexuality": "NA",
+        "Religion": "1",
+        "Ethnicity": "1",
+        "Nationality": "118",
+        "Occupation": "8"
+    }
+}

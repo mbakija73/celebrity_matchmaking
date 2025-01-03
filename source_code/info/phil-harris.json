@@ -1,0 +1,55 @@
+{
+    "relationships": [
+        {
+            "name": "Alice Faye",
+            "href": "https://www.whosdatedwho.com/dating/alice-faye",
+            "relationship_type": 4,
+            "start_date": "Mar 1941",
+            "end_date": "11th Aug 1995",
+            "length": "54 years",
+            "start_months_since_1900": 494,
+            "end_months_since_1900": 1147,
+            "length_in_months": 648
+        },
+        {
+            "name": "Bobbe Arnst",
+            "href": "https://www.whosdatedwho.com/dating/bobbe-arnst",
+            "relationship_type": 3,
+            "start_date": "1932",
+            "end_date": "1933",
+            "length": "1 year",
+            "start_months_since_1900": 384,
+            "end_months_since_1900": 396,
+            "length_in_months": 12
+        },
+        {
+            "name": "Marcia Ralston",
+            "href": "https://www.whosdatedwho.com/dating/marcia-ralston",
+            "relationship_type": 4,
+            "start_date": "1926",
+            "end_date": "Sep 1940",
+            "length": "14 years",
+            "start_months_since_1900": 312,
+            "end_months_since_1900": 488,
+            "length_in_months": 168
+        }
+    ],
+    "details": {
+        "First Name": "Phil",
+        "Middle Name": "NA",
+        "Last Name": "Harris",
+        "Maiden Name": "NA",
+        "Full Name at Birth": "Wonga Philip Harris",
+        "Alternative Name": "NA",
+        "Birthday": "1904",
+        "Birthplace": "Indiana",
+        "Height": "NA",
+        "Weight": "NA",
+        "Zodiac Sign": "8",
+        "Sexuality": "Straight",
+        "Religion": "1",
+        "Ethnicity": "6",
+        "Nationality": "91",
+        "Occupation": "11"
+    }
+}

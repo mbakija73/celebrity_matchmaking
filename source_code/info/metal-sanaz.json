@@ -1,0 +1,44 @@
+{
+    "relationships": [
+        {
+            "name": "Dave Mustaine",
+            "href": "https://www.whosdatedwho.com/dating/dave-mustaine",
+            "relationship_type": 3,
+            "start_date": "2010",
+            "end_date": "2010",
+            "length": "-",
+            "start_months_since_1900": 1320,
+            "end_months_since_1900": 1320,
+            "length_in_months": -1
+        },
+        {
+            "name": "Dave Navarro",
+            "href": "https://www.whosdatedwho.com/dating/dave-navarro",
+            "relationship_type": 3,
+            "start_date": "",
+            "end_date": "",
+            "length": "-",
+            "start_months_since_1900": -1,
+            "end_months_since_1900": -1,
+            "length_in_months": -1
+        }
+    ],
+    "details": {
+        "First Name": "Metal",
+        "Middle Name": "NA",
+        "Last Name": "Sanaz",
+        "Maiden Name": "NA",
+        "Full Name at Birth": "Sanaz Valizadeh",
+        "Alternative Name": "NA",
+        "Birthday": "NA",
+        "Birthplace": "NA",
+        "Height": "165",
+        "Weight": "NA",
+        "Zodiac Sign": "2",
+        "Sexuality": "Bisexual",
+        "Religion": "1",
+        "Ethnicity": "5",
+        "Nationality": "91",
+        "Occupation": "11"
+    }
+}

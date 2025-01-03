@@ -1,0 +1,33 @@
+{
+    "relationships": [
+        {
+            "name": "Joey Fatone",
+            "href": "https://www.whosdatedwho.com/dating/joey-fatone",
+            "relationship_type": 2,
+            "start_date": "1992",
+            "end_date": "1993",
+            "length": "1 year",
+            "start_months_since_1900": 1104,
+            "end_months_since_1900": 1116,
+            "length_in_months": 12
+        }
+    ],
+    "details": {
+        "First Name": "Jennifer",
+        "Middle Name": "Joy",
+        "Last Name": "McGill",
+        "Maiden Name": "NA",
+        "Full Name at Birth": "Jennifer Joy McGill",
+        "Alternative Name": "Red, Jenn, McSkillz",
+        "Birthday": "1977",
+        "Birthplace": "USA",
+        "Height": "168",
+        "Weight": "128lbs (58 kg)",
+        "Zodiac Sign": "8",
+        "Sexuality": "Straight",
+        "Religion": "1",
+        "Ethnicity": "6",
+        "Nationality": "91",
+        "Occupation": "1"
+    }
+}

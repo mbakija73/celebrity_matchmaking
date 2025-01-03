@@ -1,0 +1,55 @@
+{
+    "relationships": [
+        {
+            "name": "David Carradine",
+            "href": "https://www.whosdatedwho.com/dating/david-carradine",
+            "relationship_type": 4,
+            "start_date": "Nov 2003",
+            "end_date": "Jun 2009",
+            "length": "5 years",
+            "start_months_since_1900": 1246,
+            "end_months_since_1900": 1313,
+            "length_in_months": 60
+        },
+        {
+            "name": "Dana Richard Bierman",
+            "href": "https://www.whosdatedwho.com/dating/dana-richard-bierman",
+            "relationship_type": 4,
+            "start_date": "Oct 1992",
+            "end_date": "Dec 2000",
+            "length": "8 years",
+            "start_months_since_1900": 1113,
+            "end_months_since_1900": 1211,
+            "length_in_months": 96
+        },
+        {
+            "name": "Marc Eckelberry",
+            "href": "https://www.whosdatedwho.com/dating/marc-eckelberry",
+            "relationship_type": 4,
+            "start_date": "1988",
+            "end_date": "1991",
+            "length": "3 years",
+            "start_months_since_1900": 1056,
+            "end_months_since_1900": 1092,
+            "length_in_months": 36
+        }
+    ],
+    "details": {
+        "First Name": "Anne",
+        "Middle Name": "Kirstie",
+        "Last Name": "Carradine",
+        "Maiden Name": "Fraser",
+        "Full Name at Birth": "Anne Kirstie Fraser",
+        "Alternative Name": "Anne Kirstie Fraser, Annie Carradine, Anne Fraser Bierman, Anne Bierman, Annie Bierman",
+        "Birthday": "1960",
+        "Birthplace": "USA",
+        "Height": "NA",
+        "Weight": "NA",
+        "Zodiac Sign": "6",
+        "Sexuality": "Straight",
+        "Religion": "1",
+        "Ethnicity": "6",
+        "Nationality": "91",
+        "Occupation": "9"
+    }
+}

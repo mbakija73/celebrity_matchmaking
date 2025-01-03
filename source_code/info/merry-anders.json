@@ -1,0 +1,44 @@
+{
+    "relationships": [
+        {
+            "name": "Richard Benedict",
+            "href": "https://www.whosdatedwho.com/dating/richard-benedict",
+            "relationship_type": 4,
+            "start_date": "1985",
+            "end_date": "28th Oct 2012",
+            "length": "27 years",
+            "start_months_since_1900": 1020,
+            "end_months_since_1900": 1353,
+            "length_in_months": 324
+        },
+        {
+            "name": "John G. Stephens",
+            "href": "https://www.whosdatedwho.com/dating/john-g-stephens",
+            "relationship_type": 4,
+            "start_date": "Feb 1955",
+            "end_date": "Dec 1956",
+            "length": "1 year",
+            "start_months_since_1900": 661,
+            "end_months_since_1900": 683,
+            "length_in_months": 12
+        }
+    ],
+    "details": {
+        "First Name": "Merry",
+        "Middle Name": "NA",
+        "Last Name": "Anders",
+        "Maiden Name": "NA",
+        "Full Name at Birth": "Mary Helen Anderson",
+        "Alternative Name": "Merry A. Benedict",
+        "Birthday": "1932",
+        "Birthplace": "USA",
+        "Height": "163",
+        "Weight": "NA",
+        "Zodiac Sign": "4",
+        "Sexuality": "Straight",
+        "Religion": "1",
+        "Ethnicity": "6",
+        "Nationality": "91",
+        "Occupation": "8"
+    }
+}

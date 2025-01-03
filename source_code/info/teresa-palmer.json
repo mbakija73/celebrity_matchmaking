@@ -1,0 +1,88 @@
+{
+    "relationships": [
+        {
+            "name": "Mark Webber",
+            "href": "https://www.whosdatedwho.com/dating/mark-webber",
+            "relationship_type": 4,
+            "start_date": "Nov 2012",
+            "end_date": "present",
+            "length": "11 years",
+            "start_months_since_1900": 1354,
+            "end_months_since_1900": -1,
+            "length_in_months": 132
+        },
+        {
+            "name": "Scott Speedman",
+            "href": "https://www.whosdatedwho.com/dating/scott-speedman",
+            "relationship_type": 2,
+            "start_date": "Jan 2011",
+            "end_date": "Sep 2012",
+            "length": "1 year",
+            "start_months_since_1900": 1332,
+            "end_months_since_1900": 1352,
+            "length_in_months": 12
+        },
+        {
+            "name": "Russell Brand",
+            "href": "https://www.whosdatedwho.com/dating/russell-brand",
+            "relationship_type": 2,
+            "start_date": "Jun 2008",
+            "end_date": "Sep 2008",
+            "length": "3 months",
+            "start_months_since_1900": 1301,
+            "end_months_since_1900": 1304,
+            "length_in_months": 3
+        },
+        {
+            "name": "Adam Brody",
+            "href": "https://www.whosdatedwho.com/dating/adam-brody",
+            "relationship_type": 3,
+            "start_date": "Jan 2008",
+            "end_date": "Feb 2008",
+            "length": "1 month",
+            "start_months_since_1900": 1296,
+            "end_months_since_1900": 1297,
+            "length_in_months": 1
+        },
+        {
+            "name": "Topher Grace",
+            "href": "https://www.whosdatedwho.com/dating/topher-grace",
+            "relationship_type": 2,
+            "start_date": "2007",
+            "end_date": "Mar 2011",
+            "length": "4 years",
+            "start_months_since_1900": 1284,
+            "end_months_since_1900": 1334,
+            "length_in_months": 48
+        },
+        {
+            "name": "Stuart Dew",
+            "href": "https://www.whosdatedwho.com/dating/stuart-dew",
+            "relationship_type": 2,
+            "start_date": "Mar 2005",
+            "end_date": "2007",
+            "length": "1 year",
+            "start_months_since_1900": 1262,
+            "end_months_since_1900": 1284,
+            "length_in_months": 12
+        }
+    ],
+    "details": {
+        "First Name": "Teresa",
+        "Middle Name": "Mary",
+        "Last Name": "NA",
+        "Maiden Name": "Palmer",
+        "Full Name at Birth": "Teresa Mary Palmer",
+        "Alternative Name": "Tez, Tezza, Teresa Mary Palmer",
+        "Birthday": "1986",
+        "Birthplace": "Australia",
+        "Height": "168",
+        "Weight": "128lbs (58 kg)",
+        "Zodiac Sign": "1",
+        "Sexuality": "Straight",
+        "Religion": "13",
+        "Ethnicity": "6",
+        "Nationality": "135",
+        "Occupation": "8"
+    }
+}

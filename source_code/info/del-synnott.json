@@ -1,0 +1,33 @@
+{
+    "relationships": [
+        {
+            "name": "Keira Knightley",
+            "href": "https://www.whosdatedwho.com/dating/keira-knightley",
+            "relationship_type": 2,
+            "start_date": "Sep 2000",
+            "end_date": "Nov 2003",
+            "length": "3 years",
+            "start_months_since_1900": 1208,
+            "end_months_since_1900": 1246,
+            "length_in_months": 36
+        }
+    ],
+    "details": {
+        "First Name": "Del",
+        "Middle Name": "NA",
+        "Last Name": "Synnott",
+        "Maiden Name": "NA",
+        "Full Name at Birth": "NA",
+        "Alternative Name": "NA",
+        "Birthday": "1977",
+        "Birthplace": "Ireland",
+        "Height": "NA",
+        "Weight": "NA",
+        "Zodiac Sign": "10",
+        "Sexuality": "Straight",
+        "Religion": "1",
+        "Ethnicity": "6",
+        "Nationality": "8",
+        "Occupation": "8"
+    }
+}

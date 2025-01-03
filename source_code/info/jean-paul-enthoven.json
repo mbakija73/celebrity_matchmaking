@@ -1,0 +1,33 @@
+{
+    "relationships": [
+        {
+            "name": "Carla Bruni",
+            "href": "https://www.whosdatedwho.com/dating/carla-bruni",
+            "relationship_type": 2,
+            "start_date": "1999",
+            "end_date": "2000",
+            "length": "1 year",
+            "start_months_since_1900": 1188,
+            "end_months_since_1900": 1200,
+            "length_in_months": 12
+        }
+    ],
+    "details": {
+        "First Name": "Jean-Paul",
+        "Middle Name": "NA",
+        "Last Name": "Enthoven",
+        "Maiden Name": "NA",
+        "Full Name at Birth": "NA",
+        "Alternative Name": "NA",
+        "Birthday": "1949",
+        "Birthplace": "NA",
+        "Height": "NA",
+        "Weight": "NA",
+        "Zodiac Sign": "13",
+        "Sexuality": "Straight",
+        "Religion": "1",
+        "Ethnicity": "6",
+        "Nationality": "86",
+        "Occupation": "11"
+    }
+}

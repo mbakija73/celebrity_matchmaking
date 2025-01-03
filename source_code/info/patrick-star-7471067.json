@@ -1,0 +1,33 @@
+{
+    "relationships": [
+        {
+            "name": "Unknown",
+            "href": "https://www.whosdatedwho.com/dating/unknown-profile",
+            "relationship_type": 2,
+            "start_date": "May 1999",
+            "end_date": "",
+            "length": "-",
+            "start_months_since_1900": 1192,
+            "end_months_since_1900": -1,
+            "length_in_months": -1
+        }
+    ],
+    "details": {
+        "First Name": "Patrick",
+        "Middle Name": "NA",
+        "Last Name": "Star",
+        "Maiden Name": "NA",
+        "Full Name at Birth": "Patrick Star",
+        "Alternative Name": "Pat",
+        "Birthday": "NA",
+        "Birthplace": "Bikini Bottom",
+        "Height": "NA",
+        "Weight": "NA",
+        "Zodiac Sign": "7",
+        "Sexuality": "NA",
+        "Religion": "1",
+        "Ethnicity": "1",
+        "Nationality": "65",
+        "Occupation": "19"
+    }
+}

@@ -1,0 +1,44 @@
+{
+    "relationships": [
+        {
+            "name": "Jake Marlin",
+            "href": "https://www.whosdatedwho.com/dating/jake-marlin",
+            "relationship_type": 4,
+            "start_date": "2014",
+            "end_date": "present",
+            "length": "10 years",
+            "start_months_since_1900": 1368,
+            "end_months_since_1900": -1,
+            "length_in_months": 120
+        },
+        {
+            "name": "Jason Aldean",
+            "href": "https://www.whosdatedwho.com/dating/jason-aldean",
+            "relationship_type": 4,
+            "start_date": "1994",
+            "end_date": "Jan 2014",
+            "length": "20 years",
+            "start_months_since_1900": 1128,
+            "end_months_since_1900": 1368,
+            "length_in_months": 240
+        }
+    ],
+    "details": {
+        "First Name": "Jessica",
+        "Middle Name": "NA",
+        "Last Name": "Marlin",
+        "Maiden Name": "Ussery",
+        "Full Name at Birth": "Jessica Ann Ussery",
+        "Alternative Name": "NA",
+        "Birthday": "1979",
+        "Birthplace": "USA",
+        "Height": "163",
+        "Weight": "127lbs (58 kg)",
+        "Zodiac Sign": "10",
+        "Sexuality": "Straight",
+        "Religion": "1",
+        "Ethnicity": "6",
+        "Nationality": "91",
+        "Occupation": "18"
+    }
+}

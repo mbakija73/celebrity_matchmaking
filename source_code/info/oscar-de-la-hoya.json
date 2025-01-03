@@ -1,0 +1,77 @@
+{
+    "relationships": [
+        {
+            "name": "Millie Corretjer",
+            "href": "https://www.whosdatedwho.com/dating/millie-corretjer",
+            "relationship_type": 2,
+            "start_date": "Oct 2000",
+            "end_date": "2018",
+            "length": "17 years",
+            "start_months_since_1900": 1209,
+            "end_months_since_1900": 1416,
+            "length_in_months": 204
+        },
+        {
+            "name": "Paris Hilton",
+            "href": "https://www.whosdatedwho.com/dating/paris-hilton",
+            "relationship_type": 2,
+            "start_date": "Jun 2000",
+            "end_date": "Aug 2000",
+            "length": "2 months",
+            "start_months_since_1900": 1205,
+            "end_months_since_1900": 1207,
+            "length_in_months": 2
+        },
+        {
+            "name": "Shanna Moakler",
+            "href": "https://www.whosdatedwho.com/dating/shanna-moakler",
+            "relationship_type": 2,
+            "start_date": "1998",
+            "end_date": "2000",
+            "length": "2 years",
+            "start_months_since_1900": 1176,
+            "end_months_since_1900": 1200,
+            "length_in_months": 24
+        },
+        {
+            "name": "Angelicque Mcqueen",
+            "href": "https://www.whosdatedwho.com/dating/angelicque-mcqueen",
+            "relationship_type": 2,
+            "start_date": "1997",
+            "end_date": "1999",
+            "length": "2 years",
+            "start_months_since_1900": 1164,
+            "end_months_since_1900": 1188,
+            "length_in_months": 24
+        },
+        {
+            "name": "Layla Roberts",
+            "href": "https://www.whosdatedwho.com/dating/layla-roberts",
+            "relationship_type": 3,
+            "start_date": "",
+            "end_date": "",
+            "length": "-",
+            "start_months_since_1900": -1,
+            "end_months_since_1900": -1,
+            "length_in_months": -1
+        }
+    ],
+    "details": {
+        "First Name": "Oscar",
+        "Middle Name": "NA",
+        "Last Name": "De La Hoya",
+        "Maiden Name": "NA",
+        "Full Name at Birth": "Oscar De La Hoya",
+        "Alternative Name": "Golden Boy",
+        "Birthday": "1973",
+        "Birthplace": "CA",
+        "Height": "179",
+        "Weight": "147lbs (67 kg)",
+        "Zodiac Sign": "9",
+        "Sexuality": "Straight",
+        "Religion": "18",
+        "Ethnicity": "8",
+        "Nationality": "91",
+        "Occupation": "2"
+    }
+}

@@ -1,0 +1,88 @@
+{
+    "relationships": [
+        {
+            "name": "Frank Calcagnini",
+            "href": "https://www.whosdatedwho.com/dating/frank-calcagnini",
+            "relationship_type": 2,
+            "start_date": "May 1993",
+            "end_date": "1998",
+            "length": "4 years",
+            "start_months_since_1900": 1120,
+            "end_months_since_1900": 1176,
+            "length_in_months": 48
+        },
+        {
+            "name": "Oscar Lerman",
+            "href": "https://www.whosdatedwho.com/dating/oscar-lerman",
+            "relationship_type": 4,
+            "start_date": "1965",
+            "end_date": "May 1992",
+            "length": "27 years",
+            "start_months_since_1900": 780,
+            "end_months_since_1900": 1108,
+            "length_in_months": 324
+        },
+        {
+            "name": "Wallace Austin",
+            "href": "https://www.whosdatedwho.com/dating/wallace-austin",
+            "relationship_type": 4,
+            "start_date": "1958",
+            "end_date": "May 1965",
+            "length": "7 years",
+            "start_months_since_1900": 696,
+            "end_months_since_1900": 784,
+            "length_in_months": 84
+        },
+        {
+            "name": "Marlon Brando",
+            "href": "https://www.whosdatedwho.com/dating/marlon-brando",
+            "relationship_type": 3,
+            "start_date": "1952",
+            "end_date": "1952",
+            "length": "-",
+            "start_months_since_1900": 624,
+            "end_months_since_1900": 624,
+            "length_in_months": -1
+        },
+        {
+            "name": "Terence Stamp",
+            "href": "https://www.whosdatedwho.com/dating/terence-stamp",
+            "relationship_type": 2,
+            "start_date": "",
+            "end_date": "",
+            "length": "-",
+            "start_months_since_1900": -1,
+            "end_months_since_1900": -1,
+            "length_in_months": -1
+        },
+        {
+            "name": "Larry Hagman",
+            "href": "https://www.whosdatedwho.com/dating/larry-hagman",
+            "relationship_type": 3,
+            "start_date": "",
+            "end_date": "",
+            "length": "-",
+            "start_months_since_1900": -1,
+            "end_months_since_1900": -1,
+            "length_in_months": -1
+        }
+    ],
+    "details": {
+        "First Name": "Jackie",
+        "Middle Name": "Jill",
+        "Last Name": "Collins",
+        "Maiden Name": "NA",
+        "Full Name at Birth": "Jacqueline Jill Collins",
+        "Alternative Name": "Jackie Collins",
+        "Birthday": "1937",
+        "Birthplace": "England",
+        "Height": "170",
+        "Weight": "NA",
+        "Zodiac Sign": "10",
+        "Sexuality": "Straight",
+        "Religion": "1",
+        "Ethnicity": "6",
+        "Nationality": "8",
+        "Occupation": "3"
+    }
+}

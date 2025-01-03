@@ -1,0 +1,33 @@
+{
+    "relationships": [
+        {
+            "name": "Peter Lawford",
+            "href": "https://www.whosdatedwho.com/dating/peter-lawford",
+            "relationship_type": 4,
+            "start_date": "1975",
+            "end_date": "Jan 1977",
+            "length": "2 years",
+            "start_months_since_1900": 900,
+            "end_months_since_1900": 924,
+            "length_in_months": 24
+        }
+    ],
+    "details": {
+        "First Name": "Deborah",
+        "Middle Name": "NA",
+        "Last Name": "Gould",
+        "Maiden Name": "NA",
+        "Full Name at Birth": "NA",
+        "Alternative Name": "Deborah Lawford",
+        "Birthday": "NA",
+        "Birthplace": "NA",
+        "Height": "NA",
+        "Weight": "NA",
+        "Zodiac Sign": "2",
+        "Sexuality": "NA",
+        "Religion": "1",
+        "Ethnicity": "6",
+        "Nationality": "65",
+        "Occupation": "18"
+    }
+}

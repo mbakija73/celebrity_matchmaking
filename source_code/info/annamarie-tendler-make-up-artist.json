@@ -1,0 +1,44 @@
+{
+    "relationships": [
+        {
+            "name": "John Mulaney",
+            "href": "https://www.whosdatedwho.com/dating/john-mulaney",
+            "relationship_type": 4,
+            "start_date": "2014",
+            "end_date": "Jan 2022",
+            "length": "8 years",
+            "start_months_since_1900": 1368,
+            "end_months_since_1900": 1464,
+            "length_in_months": 96
+        },
+        {
+            "name": "Nicholas Tran",
+            "href": "https://www.whosdatedwho.com/dating/nicholas-tran-chef",
+            "relationship_type": 2,
+            "start_date": "Feb 2023",
+            "end_date": "present",
+            "length": "1 year",
+            "start_months_since_1900": 1477,
+            "end_months_since_1900": -1,
+            "length_in_months": 12
+        }
+    ],
+    "details": {
+        "First Name": "Annamarie",
+        "Middle Name": "NA",
+        "Last Name": "Tendler",
+        "Maiden Name": "NA",
+        "Full Name at Birth": "Annamarie Tendler",
+        "Alternative Name": "Annamarie Tendler Mulaney, Annamarie Tendler, Annamarie",
+        "Birthday": "1985",
+        "Birthplace": "USA",
+        "Height": "168",
+        "Weight": "124lbs (56 kg)",
+        "Zodiac Sign": "4",
+        "Sexuality": "Straight",
+        "Religion": "31",
+        "Ethnicity": "6",
+        "Nationality": "91",
+        "Occupation": "9"
+    }
+}

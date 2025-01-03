@@ -1,0 +1,55 @@
+{
+    "relationships": [
+        {
+            "name": "Hugh Grant",
+            "href": "https://www.whosdatedwho.com/dating/hugh-grant",
+            "relationship_type": 3,
+            "start_date": "2007",
+            "end_date": "2007",
+            "length": "-",
+            "start_months_since_1900": 1284,
+            "end_months_since_1900": 1284,
+            "length_in_months": -1
+        },
+        {
+            "name": "Josh Hartnett",
+            "href": "https://www.whosdatedwho.com/dating/josh-hartnett",
+            "relationship_type": 2,
+            "start_date": "Nov 2006",
+            "end_date": "Nov 2006",
+            "length": "-",
+            "start_months_since_1900": 1282,
+            "end_months_since_1900": 1282,
+            "length_in_months": -1
+        },
+        {
+            "name": "Jamie Campbell",
+            "href": "https://www.whosdatedwho.com/dating/jamie-campbell",
+            "relationship_type": 4,
+            "start_date": "",
+            "end_date": "present",
+            "length": "-",
+            "start_months_since_1900": -1,
+            "end_months_since_1900": -1,
+            "length_in_months": -1
+        }
+    ],
+    "details": {
+        "First Name": "Amber Diane",
+        "Middle Name": "NA",
+        "Last Name": "Sainsbury",
+        "Maiden Name": "NA",
+        "Full Name at Birth": "Amber Sainsbury",
+        "Alternative Name": "Amber Campbell",
+        "Birthday": "1978",
+        "Birthplace": "New Zealand",
+        "Height": "170",
+        "Weight": "NA",
+        "Zodiac Sign": "11",
+        "Sexuality": "Straight",
+        "Religion": "1",
+        "Ethnicity": "6",
+        "Nationality": "72",
+        "Occupation": "8"
+    }
+}

@@ -1,0 +1,77 @@
+{
+    "relationships": [
+        {
+            "name": "Johnny Manziel",
+            "href": "https://www.whosdatedwho.com/dating/johnny-manziel",
+            "relationship_type": 2,
+            "start_date": "2024",
+            "end_date": "present",
+            "length": "8 months",
+            "start_months_since_1900": 1488,
+            "end_months_since_1900": -1,
+            "length_in_months": 8
+        },
+        {
+            "name": "Logan Paul",
+            "href": "https://www.whosdatedwho.com/dating/logan-paul-internet-celebrity",
+            "relationship_type": 2,
+            "start_date": "May 2020",
+            "end_date": "Feb 2021",
+            "length": "9 months",
+            "start_months_since_1900": 1444,
+            "end_months_since_1900": 1453,
+            "length_in_months": 9
+        },
+        {
+            "name": "Brody Jenner",
+            "href": "https://www.whosdatedwho.com/dating/brody-jenner",
+            "relationship_type": 2,
+            "start_date": "Aug 2019",
+            "end_date": "Oct 2019",
+            "length": "2 months",
+            "start_months_since_1900": 1435,
+            "end_months_since_1900": 1437,
+            "length_in_months": 2
+        },
+        {
+            "name": "Tyga",
+            "href": "https://www.whosdatedwho.com/dating/tyga",
+            "relationship_type": 1,
+            "start_date": "2017",
+            "end_date": "2017",
+            "length": "-",
+            "start_months_since_1900": 1404,
+            "end_months_since_1900": 1404,
+            "length_in_months": -1
+        },
+        {
+            "name": "Mike Stud",
+            "href": "https://www.whosdatedwho.com/dating/mike-stud",
+            "relationship_type": 2,
+            "start_date": "12th Nov 2015",
+            "end_date": "Jan 2019",
+            "length": "3 years",
+            "start_months_since_1900": 1390,
+            "end_months_since_1900": 1428,
+            "length_in_months": 36
+        }
+    ],
+    "details": {
+        "First Name": "Josie",
+        "Middle Name": "Marie",
+        "Last Name": "Canseco",
+        "Maiden Name": "NA",
+        "Full Name at Birth": "Josiphene Marie Canseco",
+        "Alternative Name": "Josie Marie Canseco, Josie Canseco, Josiphene Marie Canseco, Josie, Jos",
+        "Birthday": "1996",
+        "Birthplace": "USA",
+        "Height": "175",
+        "Weight": "119lbs (54 kg)",
+        "Zodiac Sign": "5",
+        "Sexuality": "Straight",
+        "Religion": "1",
+        "Ethnicity": "8",
+        "Nationality": "91",
+        "Occupation": "15"
+    }
+}

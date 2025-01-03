@@ -1,0 +1,77 @@
+{
+    "relationships": [
+        {
+            "name": "Peregrine Pearson",
+            "href": "https://www.whosdatedwho.com/dating/peregrine-pearson",
+            "relationship_type": 2,
+            "start_date": "2024",
+            "end_date": "present",
+            "length": "9 months",
+            "start_months_since_1900": 1488,
+            "end_months_since_1900": -1,
+            "length_in_months": 9
+        },
+        {
+            "name": "Joe Jonas",
+            "href": "https://www.whosdatedwho.com/dating/joe-jonas",
+            "relationship_type": 4,
+            "start_date": "Oct 2016",
+            "end_date": "Sep 2023",
+            "length": "6 years",
+            "start_months_since_1900": 1401,
+            "end_months_since_1900": 1484,
+            "length_in_months": 72
+        },
+        {
+            "name": "Tye Sheridan",
+            "href": "https://www.whosdatedwho.com/dating/tye-sheridan",
+            "relationship_type": 3,
+            "start_date": "Sep 2015",
+            "end_date": "Sep 2015",
+            "length": "-",
+            "start_months_since_1900": 1388,
+            "end_months_since_1900": 1388,
+            "length_in_months": -1
+        },
+        {
+            "name": "Thomas Mann",
+            "href": "https://www.whosdatedwho.com/dating/thomas-mann",
+            "relationship_type": 3,
+            "start_date": "Aug 2014",
+            "end_date": "Aug 2014",
+            "length": "-",
+            "start_months_since_1900": 1375,
+            "end_months_since_1900": 1375,
+            "length_in_months": -1
+        },
+        {
+            "name": "James McVey",
+            "href": "https://www.whosdatedwho.com/dating/james-mcvey",
+            "relationship_type": 2,
+            "start_date": "May 2014",
+            "end_date": "Jul 2014",
+            "length": "2 months",
+            "start_months_since_1900": 1372,
+            "end_months_since_1900": 1374,
+            "length_in_months": 2
+        }
+    ],
+    "details": {
+        "First Name": "Sophie",
+        "Middle Name": "Belinda",
+        "Last Name": "Jonas",
+        "Maiden Name": "Turner",
+        "Full Name at Birth": "Sophie Belinda Turner",
+        "Alternative Name": "Sophie Belinda Jonas, Sophie Belinda Turner, Sophie Turner, Sophie, Sophie Jonas",
+        "Birthday": "1996",
+        "Birthplace": "UK",
+        "Height": "175",
+        "Weight": "134lbs (61 kg)",
+        "Zodiac Sign": "1",
+        "Sexuality": "Bisexual",
+        "Religion": "13",
+        "Ethnicity": "6",
+        "Nationality": "8",
+        "Occupation": "8"
+    }
+}

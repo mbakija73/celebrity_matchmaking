@@ -1,0 +1,44 @@
+{
+    "relationships": [
+        {
+            "name": "Aston Merrygold",
+            "href": "https://www.whosdatedwho.com/dating/aston-merrygold",
+            "relationship_type": 3,
+            "start_date": "Jan 2012",
+            "end_date": "Jan 2012",
+            "length": "-",
+            "start_months_since_1900": 1344,
+            "end_months_since_1900": 1344,
+            "length_in_months": -1
+        },
+        {
+            "name": "Matthew Mills",
+            "href": "https://www.whosdatedwho.com/dating/matthew-mills",
+            "relationship_type": 2,
+            "start_date": "2008",
+            "end_date": "2009",
+            "length": "1 year",
+            "start_months_since_1900": 1296,
+            "end_months_since_1900": 1308,
+            "length_in_months": 12
+        }
+    ],
+    "details": {
+        "First Name": "Emma",
+        "Middle Name": "Catherine",
+        "Last Name": "Rigby",
+        "Maiden Name": "NA",
+        "Full Name at Birth": "Emma Catherine Rigby",
+        "Alternative Name": "Emma Catherine Rigby, Emma Rigby",
+        "Birthday": "1989",
+        "Birthplace": "UK",
+        "Height": "168",
+        "Weight": "127lbs (58 kg)",
+        "Zodiac Sign": "10",
+        "Sexuality": "Straight",
+        "Religion": "18",
+        "Ethnicity": "6",
+        "Nationality": "8",
+        "Occupation": "8"
+    }
+}

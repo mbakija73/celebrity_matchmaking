@@ -1,0 +1,33 @@
+{
+    "relationships": [
+        {
+            "name": "Liam Hemsworth",
+            "href": "https://www.whosdatedwho.com/dating/liam-hemsworth",
+            "relationship_type": 2,
+            "start_date": "Sep 2019",
+            "end_date": "Feb 2020",
+            "length": "5 months",
+            "start_months_since_1900": 1436,
+            "end_months_since_1900": 1441,
+            "length_in_months": 5
+        }
+    ],
+    "details": {
+        "First Name": "Maddison",
+        "Middle Name": "Amy",
+        "Last Name": "Brown",
+        "Maiden Name": "NA",
+        "Full Name at Birth": "Maddison Amy Brown",
+        "Alternative Name": "Maddie, Madd, Maddison Amy Brown, Maddison Brown",
+        "Birthday": "1997",
+        "Birthplace": "Australia",
+        "Height": "178",
+        "Weight": "128lbs (58 kg)",
+        "Zodiac Sign": "3",
+        "Sexuality": "Straight",
+        "Religion": "1",
+        "Ethnicity": "6",
+        "Nationality": "135",
+        "Occupation": "8"
+    }
+}

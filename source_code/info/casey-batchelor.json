@@ -1,0 +1,77 @@
+{
+    "relationships": [
+        {
+            "name": "Rogan O'Connor",
+            "href": "https://www.whosdatedwho.com/dating/rogan-o-connor",
+            "relationship_type": 2,
+            "start_date": "Oct 2015",
+            "end_date": "Nov 2015",
+            "length": "1 month",
+            "start_months_since_1900": 1389,
+            "end_months_since_1900": 1390,
+            "length_in_months": 1
+        },
+        {
+            "name": "Lee Ryan",
+            "href": "https://www.whosdatedwho.com/dating/lee-ryan",
+            "relationship_type": 3,
+            "start_date": "Jan 2014",
+            "end_date": "Jan 2014",
+            "length": "-",
+            "start_months_since_1900": 1368,
+            "end_months_since_1900": 1368,
+            "length_in_months": -1
+        },
+        {
+            "name": "Peter Andre",
+            "href": "https://www.whosdatedwho.com/dating/peter-andre",
+            "relationship_type": 3,
+            "start_date": "",
+            "end_date": "",
+            "length": "-",
+            "start_months_since_1900": -1,
+            "end_months_since_1900": -1,
+            "length_in_months": -1
+        },
+        {
+            "name": "Will.i.am",
+            "href": "https://www.whosdatedwho.com/dating/will-i-am",
+            "relationship_type": 2,
+            "start_date": "",
+            "end_date": "",
+            "length": "-",
+            "start_months_since_1900": -1,
+            "end_months_since_1900": -1,
+            "length_in_months": -1
+        },
+        {
+            "name": "Jermain Defoe",
+            "href": "https://www.whosdatedwho.com/dating/jermain-defoe",
+            "relationship_type": 3,
+            "start_date": "",
+            "end_date": "",
+            "length": "-",
+            "start_months_since_1900": -1,
+            "end_months_since_1900": -1,
+            "length_in_months": -1
+        }
+    ],
+    "details": {
+        "First Name": "Casey",
+        "Middle Name": "NA",
+        "Last Name": "NA",
+        "Maiden Name": "Batchelor",
+        "Full Name at Birth": "Casey Kim Batchelor",
+        "Alternative Name": "Casey Kim Batchelor, Casey Batchelor",
+        "Birthday": "1984",
+        "Birthplace": "England",
+        "Height": "160",
+        "Weight": "NA",
+        "Zodiac Sign": "10",
+        "Sexuality": "Straight",
+        "Religion": "1",
+        "Ethnicity": "6",
+        "Nationality": "8",
+        "Occupation": "16"
+    }
+}

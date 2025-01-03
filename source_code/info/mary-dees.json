@@ -1,0 +1,66 @@
+{
+    "relationships": [
+        {
+            "name": "Buck Jones",
+            "href": "https://www.whosdatedwho.com/dating/buck-jones",
+            "relationship_type": 2,
+            "start_date": "Nov 1937",
+            "end_date": "Dec 1937",
+            "length": "1 month",
+            "start_months_since_1900": 454,
+            "end_months_since_1900": 455,
+            "length_in_months": 1
+        },
+        {
+            "name": "Bruce Cabot",
+            "href": "https://www.whosdatedwho.com/dating/bruce-cabot",
+            "relationship_type": 2,
+            "start_date": "Jul 1937",
+            "end_date": "1942",
+            "length": "4 years",
+            "start_months_since_1900": 450,
+            "end_months_since_1900": 504,
+            "length_in_months": 48
+        },
+        {
+            "name": "Jack Dempsey",
+            "href": "https://www.whosdatedwho.com/dating/jack-dempsey",
+            "relationship_type": 2,
+            "start_date": "",
+            "end_date": "",
+            "length": "-",
+            "start_months_since_1900": -1,
+            "end_months_since_1900": -1,
+            "length_in_months": -1
+        },
+        {
+            "name": "Johnny Roselli",
+            "href": "https://www.whosdatedwho.com/dating/johnny-roselli",
+            "relationship_type": 2,
+            "start_date": "",
+            "end_date": "",
+            "length": "-",
+            "start_months_since_1900": -1,
+            "end_months_since_1900": -1,
+            "length_in_months": -1
+        }
+    ],
+    "details": {
+        "First Name": "Mary",
+        "Middle Name": "NA",
+        "Last Name": "Dees",
+        "Maiden Name": "NA",
+        "Full Name at Birth": "Mary Ella Dees",
+        "Alternative Name": "NA",
+        "Birthday": "1911",
+        "Birthplace": "USA",
+        "Height": "NA",
+        "Weight": "NA",
+        "Zodiac Sign": "11",
+        "Sexuality": "Straight",
+        "Religion": "1",
+        "Ethnicity": "6",
+        "Nationality": "91",
+        "Occupation": "8"
+    }
+}

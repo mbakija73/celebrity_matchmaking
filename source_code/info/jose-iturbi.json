@@ -1,0 +1,77 @@
+{
+    "relationships": [
+        {
+            "name": "Abigail Adams",
+            "href": "https://www.whosdatedwho.com/dating/abigail-adams",
+            "relationship_type": 2,
+            "start_date": "Nov 1944",
+            "end_date": "Feb 1945",
+            "length": "3 months",
+            "start_months_since_1900": 538,
+            "end_months_since_1900": 541,
+            "length_in_months": 3
+        },
+        {
+            "name": "Marlene Dietrich",
+            "href": "https://www.whosdatedwho.com/dating/marlene-dietrich",
+            "relationship_type": 3,
+            "start_date": "1944",
+            "end_date": "1944",
+            "length": "-",
+            "start_months_since_1900": 528,
+            "end_months_since_1900": 528,
+            "length_in_months": -1
+        },
+        {
+            "name": "Ruth Chatterton",
+            "href": "https://www.whosdatedwho.com/dating/ruth-chatterton",
+            "relationship_type": 2,
+            "start_date": "1935",
+            "end_date": "1935",
+            "length": "-",
+            "start_months_since_1900": 420,
+            "end_months_since_1900": 420,
+            "length_in_months": -1
+        },
+        {
+            "name": "Mar\u00eda Giner De Los Santos",
+            "href": "https://www.whosdatedwho.com/dating/maria-giner-de-los-santos",
+            "relationship_type": 4,
+            "start_date": "1916",
+            "end_date": "1928",
+            "length": "12 years",
+            "start_months_since_1900": 192,
+            "end_months_since_1900": 336,
+            "length_in_months": 144
+        },
+        {
+            "name": "Marion Seabury",
+            "href": "https://www.whosdatedwho.com/dating/marion-seabury",
+            "relationship_type": 2,
+            "start_date": "",
+            "end_date": "",
+            "length": "-",
+            "start_months_since_1900": -1,
+            "end_months_since_1900": -1,
+            "length_in_months": -1
+        }
+    ],
+    "details": {
+        "First Name": "Jose",
+        "Middle Name": "NA",
+        "Last Name": "Iturbi",
+        "Maiden Name": "NA",
+        "Full Name at Birth": "NA",
+        "Alternative Name": "NA",
+        "Birthday": "1895",
+        "Birthplace": "Spain",
+        "Height": "NA",
+        "Weight": "NA",
+        "Zodiac Sign": "6",
+        "Sexuality": "Straight",
+        "Religion": "1",
+        "Ethnicity": "6",
+        "Nationality": "118",
+        "Occupation": "1"
+    }
+}

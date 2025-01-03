@@ -1,0 +1,55 @@
+{
+    "relationships": [
+        {
+            "name": "Amber Davies",
+            "href": "https://www.whosdatedwho.com/dating/amber-davies",
+            "relationship_type": 3,
+            "start_date": "Feb 2018",
+            "end_date": "Feb 2018",
+            "length": "-",
+            "start_months_since_1900": 1417,
+            "end_months_since_1900": 1417,
+            "length_in_months": -1
+        },
+        {
+            "name": "Kady McDermott",
+            "href": "https://www.whosdatedwho.com/dating/kady-mcdermott",
+            "relationship_type": 2,
+            "start_date": "Jun 2016",
+            "end_date": "2017",
+            "length": "7 months",
+            "start_months_since_1900": 1397,
+            "end_months_since_1900": 1404,
+            "length_in_months": 7
+        },
+        {
+            "name": "Zara Holland",
+            "href": "https://www.whosdatedwho.com/dating/zara-holland",
+            "relationship_type": 1,
+            "start_date": "",
+            "end_date": "",
+            "length": "-",
+            "start_months_since_1900": -1,
+            "end_months_since_1900": -1,
+            "length_in_months": -1
+        }
+    ],
+    "details": {
+        "First Name": "Scott",
+        "Middle Name": "Alexander",
+        "Last Name": "Thomas",
+        "Maiden Name": "NA",
+        "Full Name at Birth": "Scott Alexander Thomas",
+        "Alternative Name": "NA",
+        "Birthday": "1988",
+        "Birthplace": "UK",
+        "Height": "191",
+        "Weight": "NA",
+        "Zodiac Sign": "12",
+        "Sexuality": "Straight",
+        "Religion": "26",
+        "Ethnicity": "6",
+        "Nationality": "8",
+        "Occupation": "11"
+    }
+}

@@ -1,0 +1,44 @@
+{
+    "relationships": [
+        {
+            "name": "Alexandra Paul",
+            "href": "https://www.whosdatedwho.com/dating/alexandra-paul",
+            "relationship_type": 2,
+            "start_date": "1987",
+            "end_date": "1988",
+            "length": "1 year",
+            "start_months_since_1900": 1044,
+            "end_months_since_1900": 1056,
+            "length_in_months": 12
+        },
+        {
+            "name": "Kelly McGillis",
+            "href": "https://www.whosdatedwho.com/dating/kelly-mcgillis",
+            "relationship_type": 2,
+            "start_date": "1986",
+            "end_date": "1987",
+            "length": "1 year",
+            "start_months_since_1900": 1032,
+            "end_months_since_1900": 1044,
+            "length_in_months": 12
+        }
+    ],
+    "details": {
+        "First Name": "Barry",
+        "Middle Name": "NA",
+        "Last Name": "Tubb",
+        "Maiden Name": "NA",
+        "Full Name at Birth": "Barry York Tubb",
+        "Alternative Name": "NA",
+        "Birthday": "1963",
+        "Birthplace": "Texas",
+        "Height": "NA",
+        "Weight": "NA",
+        "Zodiac Sign": "9",
+        "Sexuality": "Straight",
+        "Religion": "1",
+        "Ethnicity": "6",
+        "Nationality": "91",
+        "Occupation": "8"
+    }
+}

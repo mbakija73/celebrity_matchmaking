@@ -1,0 +1,44 @@
+{
+    "relationships": [
+        {
+            "name": "Ted North",
+            "href": "https://www.whosdatedwho.com/dating/ted-north",
+            "relationship_type": 2,
+            "start_date": "Sep 1949",
+            "end_date": "Oct 1949",
+            "length": "1 month",
+            "start_months_since_1900": 596,
+            "end_months_since_1900": 597,
+            "length_in_months": 1
+        },
+        {
+            "name": "David Street",
+            "href": "https://www.whosdatedwho.com/dating/david-street",
+            "relationship_type": 2,
+            "start_date": "1946",
+            "end_date": "1947",
+            "length": "1 year",
+            "start_months_since_1900": 552,
+            "end_months_since_1900": 564,
+            "length_in_months": 12
+        }
+    ],
+    "details": {
+        "First Name": "Patricia",
+        "Middle Name": "Lee",
+        "Last Name": "Williams",
+        "Maiden Name": "NA",
+        "Full Name at Birth": "Patricia Lee Williams",
+        "Alternative Name": "Patricia Lee Williams, Patricia Williams, Pat Williams",
+        "Birthday": "1932",
+        "Birthplace": "Washington USA",
+        "Height": "NA",
+        "Weight": "NA",
+        "Zodiac Sign": "12",
+        "Sexuality": "Straight",
+        "Religion": "1",
+        "Ethnicity": "8",
+        "Nationality": "91",
+        "Occupation": "8"
+    }
+}

@@ -1,0 +1,44 @@
+{
+    "relationships": [
+        {
+            "name": "Theo Rossi",
+            "href": "https://www.whosdatedwho.com/dating/theo-rossi",
+            "relationship_type": 2,
+            "start_date": "Feb 2010",
+            "end_date": "2013",
+            "length": "2 years",
+            "start_months_since_1900": 1321,
+            "end_months_since_1900": 1356,
+            "length_in_months": 24
+        },
+        {
+            "name": "Cary Brothers",
+            "href": "https://www.whosdatedwho.com/dating/cary-brothers",
+            "relationship_type": 2,
+            "start_date": "2007",
+            "end_date": "2007",
+            "length": "-",
+            "start_months_since_1900": 1284,
+            "end_months_since_1900": 1284,
+            "length_in_months": -1
+        }
+    ],
+    "details": {
+        "First Name": "Sarah",
+        "Middle Name": "Elizabeth",
+        "Last Name": "Jones",
+        "Maiden Name": "NA",
+        "Full Name at Birth": "Sarah Elizabeth Jones",
+        "Alternative Name": "Jonesy, Sarah Elizabeth Jones, Sarah Jones",
+        "Birthday": "1983",
+        "Birthplace": "USA",
+        "Height": "160",
+        "Weight": "121lbs (55 kg)",
+        "Zodiac Sign": "8",
+        "Sexuality": "Straight",
+        "Religion": "1",
+        "Ethnicity": "6",
+        "Nationality": "91",
+        "Occupation": "8"
+    }
+}

@@ -1,0 +1,77 @@
+{
+    "relationships": [
+        {
+            "name": "Doris Dowling",
+            "href": "https://www.whosdatedwho.com/dating/doris-dowling",
+            "relationship_type": 2,
+            "start_date": "1945",
+            "end_date": "1945",
+            "length": "-",
+            "start_months_since_1900": 540,
+            "end_months_since_1900": 540,
+            "length_in_months": -1
+        },
+        {
+            "name": "Audrey Young",
+            "href": "https://www.whosdatedwho.com/dating/audrey-young",
+            "relationship_type": 4,
+            "start_date": "Nov 1944",
+            "end_date": "27th Mar 2002",
+            "length": "57 years",
+            "start_months_since_1900": 538,
+            "end_months_since_1900": 1226,
+            "length_in_months": 684
+        },
+        {
+            "name": "Hedy Lamarr",
+            "href": "https://www.whosdatedwho.com/dating/hedy-lamarr",
+            "relationship_type": 3,
+            "start_date": "1940",
+            "end_date": "1940",
+            "length": "-",
+            "start_months_since_1900": 480,
+            "end_months_since_1900": 480,
+            "length_in_months": -1
+        },
+        {
+            "name": "Judith Coppicus Iribe",
+            "href": "https://www.whosdatedwho.com/dating/judith-coppicus-iribe",
+            "relationship_type": 4,
+            "start_date": "1935",
+            "end_date": "1946",
+            "length": "11 years",
+            "start_months_since_1900": 420,
+            "end_months_since_1900": 552,
+            "length_in_months": 132
+        },
+        {
+            "name": "Yvonne De Carlo",
+            "href": "https://www.whosdatedwho.com/dating/yvonne-de-carlo",
+            "relationship_type": 3,
+            "start_date": "",
+            "end_date": "",
+            "length": "-",
+            "start_months_since_1900": -1,
+            "end_months_since_1900": -1,
+            "length_in_months": -1
+        }
+    ],
+    "details": {
+        "First Name": "Billy",
+        "Middle Name": "NA",
+        "Last Name": "Wilder",
+        "Maiden Name": "NA",
+        "Full Name at Birth": "Samuel Wilder",
+        "Alternative Name": "The Viennese Pixie",
+        "Birthday": "1906",
+        "Birthplace": "Austria",
+        "Height": "180",
+        "Weight": "NA",
+        "Zodiac Sign": "8",
+        "Sexuality": "Straight",
+        "Religion": "31",
+        "Ethnicity": "6",
+        "Nationality": "44",
+        "Occupation": "9"
+    }
+}

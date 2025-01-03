@@ -1,0 +1,110 @@
+{
+    "relationships": [
+        {
+            "name": "Francesca Eastwood",
+            "href": "https://www.whosdatedwho.com/dating/francesca-eastwood",
+            "relationship_type": 3,
+            "start_date": "2016",
+            "end_date": "2016",
+            "length": "-",
+            "start_months_since_1900": 1392,
+            "end_months_since_1900": 1392,
+            "length_in_months": -1
+        },
+        {
+            "name": "Britney Spears",
+            "href": "https://www.whosdatedwho.com/dating/britney-spears",
+            "relationship_type": 2,
+            "start_date": "Sep 2015",
+            "end_date": "Feb 2016",
+            "length": "5 months",
+            "start_months_since_1900": 1388,
+            "end_months_since_1900": 1393,
+            "length_in_months": 5
+        },
+        {
+            "name": "Demi Moore",
+            "href": "https://www.whosdatedwho.com/dating/demi-moore",
+            "relationship_type": 3,
+            "start_date": "2013",
+            "end_date": "2013",
+            "length": "-",
+            "start_months_since_1900": 1356,
+            "end_months_since_1900": 1356,
+            "length_in_months": -1
+        },
+        {
+            "name": "Jennifer Aniston",
+            "href": "https://www.whosdatedwho.com/dating/jennifer-aniston",
+            "relationship_type": 3,
+            "start_date": "Sep 2010",
+            "end_date": "Sep 2010",
+            "length": "-",
+            "start_months_since_1900": 1328,
+            "end_months_since_1900": 1328,
+            "length_in_months": -1
+        },
+        {
+            "name": "Hayden Panettiere",
+            "href": "https://www.whosdatedwho.com/dating/hayden-panettiere",
+            "relationship_type": 3,
+            "start_date": "Aug 2009",
+            "end_date": "Sep 2009",
+            "length": "1 month",
+            "start_months_since_1900": 1315,
+            "end_months_since_1900": 1316,
+            "length_in_months": 1
+        },
+        {
+            "name": "Rumer Willis",
+            "href": "https://www.whosdatedwho.com/dating/rumer-willis",
+            "relationship_type": 3,
+            "start_date": "2007",
+            "end_date": "2007",
+            "length": "-",
+            "start_months_since_1900": 1284,
+            "end_months_since_1900": 1284,
+            "length_in_months": -1
+        },
+        {
+            "name": "Paris Hilton",
+            "href": "https://www.whosdatedwho.com/dating/paris-hilton",
+            "relationship_type": 3,
+            "start_date": "Nov 2006",
+            "end_date": "Nov 2006",
+            "length": "-",
+            "start_months_since_1900": 1282,
+            "end_months_since_1900": 1282,
+            "length_in_months": -1
+        },
+        {
+            "name": "Lindsay Lohan",
+            "href": "https://www.whosdatedwho.com/dating/lindsay-lohan",
+            "relationship_type": 2,
+            "start_date": "Aug 2006",
+            "end_date": "Oct 2006",
+            "length": "2 months",
+            "start_months_since_1900": 1279,
+            "end_months_since_1900": 1281,
+            "length_in_months": 2
+        }
+    ],
+    "details": {
+        "First Name": "Harry",
+        "Middle Name": "Kaitlyn",
+        "Last Name": "Morton",
+        "Maiden Name": "NA",
+        "Full Name at Birth": "Harry Kaitlyn Morton",
+        "Alternative Name": "NA",
+        "Birthday": "1981",
+        "Birthplace": "UK",
+        "Height": "175",
+        "Weight": "160lbs (73 kg)",
+        "Zodiac Sign": "7",
+        "Sexuality": "Straight",
+        "Religion": "18",
+        "Ethnicity": "6",
+        "Nationality": "91",
+        "Occupation": "7"
+    }
+}

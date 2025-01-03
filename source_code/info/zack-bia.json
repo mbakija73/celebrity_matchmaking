@@ -1,0 +1,55 @@
+{
+    "relationships": [
+        {
+            "name": "Olivia Rodrigo",
+            "href": "https://www.whosdatedwho.com/dating/olivia-rodrigo",
+            "relationship_type": 2,
+            "start_date": "Feb 2022",
+            "end_date": "Aug 2022",
+            "length": "6 months",
+            "start_months_since_1900": 1465,
+            "end_months_since_1900": 1471,
+            "length_in_months": 6
+        },
+        {
+            "name": "Madelyn Cline",
+            "href": "https://www.whosdatedwho.com/dating/madelyn-cline",
+            "relationship_type": 3,
+            "start_date": "Dec 2021",
+            "end_date": "Jan 2022",
+            "length": "1 month",
+            "start_months_since_1900": 1463,
+            "end_months_since_1900": 1464,
+            "length_in_months": 1
+        },
+        {
+            "name": "Madison Beer",
+            "href": "https://www.whosdatedwho.com/dating/madison-beer",
+            "relationship_type": 2,
+            "start_date": "Oct 2017",
+            "end_date": "Apr 2019",
+            "length": "1 year",
+            "start_months_since_1900": 1413,
+            "end_months_since_1900": 1431,
+            "length_in_months": 12
+        }
+    ],
+    "details": {
+        "First Name": "Zack",
+        "Middle Name": "NA",
+        "Last Name": "Bia",
+        "Maiden Name": "NA",
+        "Full Name at Birth": "Zack Bialabos",
+        "Alternative Name": "Zack Bia, Zack",
+        "Birthday": "1996",
+        "Birthplace": "USA",
+        "Height": "173",
+        "Weight": "148lbs (67 kg)",
+        "Zodiac Sign": "4",
+        "Sexuality": "Straight",
+        "Religion": "1",
+        "Ethnicity": "6",
+        "Nationality": "91",
+        "Occupation": "1"
+    }
+}

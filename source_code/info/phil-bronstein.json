@@ -1,0 +1,55 @@
+{
+    "relationships": [
+        {
+            "name": "Jerry Hall",
+            "href": "https://www.whosdatedwho.com/dating/jerry-hall",
+            "relationship_type": 3,
+            "start_date": "2005",
+            "end_date": "2005",
+            "length": "-",
+            "start_months_since_1900": 1260,
+            "end_months_since_1900": 1260,
+            "length_in_months": -1
+        },
+        {
+            "name": "Kamala Harris",
+            "href": "https://www.whosdatedwho.com/dating/kamala-harris-politician",
+            "relationship_type": 3,
+            "start_date": "2004",
+            "end_date": "2004",
+            "length": "-",
+            "start_months_since_1900": 1248,
+            "end_months_since_1900": 1248,
+            "length_in_months": -1
+        },
+        {
+            "name": "Sharon Stone",
+            "href": "https://www.whosdatedwho.com/dating/sharon-stone",
+            "relationship_type": 4,
+            "start_date": "1998",
+            "end_date": "29th Jan 2004",
+            "length": "6 years",
+            "start_months_since_1900": 1176,
+            "end_months_since_1900": 1248,
+            "length_in_months": 72
+        }
+    ],
+    "details": {
+        "First Name": "Phil",
+        "Middle Name": "NA",
+        "Last Name": "Bronstein",
+        "Maiden Name": "NA",
+        "Full Name at Birth": "NA",
+        "Alternative Name": "NA",
+        "Birthday": "1950",
+        "Birthplace": "United States",
+        "Height": "NA",
+        "Weight": "NA",
+        "Zodiac Sign": "10",
+        "Sexuality": "Straight",
+        "Religion": "1",
+        "Ethnicity": "6",
+        "Nationality": "91",
+        "Occupation": "11"
+    }
+}

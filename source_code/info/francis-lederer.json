@@ -1,0 +1,66 @@
+{
+    "relationships": [
+        {
+            "name": "Marion Irvine",
+            "href": "https://www.whosdatedwho.com/dating/marion-irvine",
+            "relationship_type": 4,
+            "start_date": "May 1941",
+            "end_date": "2000",
+            "length": "58 years",
+            "start_months_since_1900": 496,
+            "end_months_since_1900": 1200,
+            "length_in_months": 696
+        },
+        {
+            "name": "Margo",
+            "href": "https://www.whosdatedwho.com/dating/margo",
+            "relationship_type": 4,
+            "start_date": "1936",
+            "end_date": "1940",
+            "length": "4 years",
+            "start_months_since_1900": 432,
+            "end_months_since_1900": 480,
+            "length_in_months": 48
+        },
+        {
+            "name": "Ada Nejedly",
+            "href": "https://www.whosdatedwho.com/dating/ada-nejedly",
+            "relationship_type": 4,
+            "start_date": "",
+            "end_date": "",
+            "length": "-",
+            "start_months_since_1900": -1,
+            "end_months_since_1900": -1,
+            "length_in_months": -1
+        },
+        {
+            "name": "Joan Bennett",
+            "href": "https://www.whosdatedwho.com/dating/joan-bennett",
+            "relationship_type": 2,
+            "start_date": "",
+            "end_date": "",
+            "length": "-",
+            "start_months_since_1900": -1,
+            "end_months_since_1900": -1,
+            "length_in_months": -1
+        }
+    ],
+    "details": {
+        "First Name": "Francis",
+        "Middle Name": "NA",
+        "Last Name": "Lederer",
+        "Maiden Name": "NA",
+        "Full Name at Birth": "Frantisek Lederer",
+        "Alternative Name": "NA",
+        "Birthday": "1899",
+        "Birthplace": "Austria-Hungary",
+        "Height": "183",
+        "Weight": "170lbs (77 kg)",
+        "Zodiac Sign": "5",
+        "Sexuality": "Straight",
+        "Religion": "31",
+        "Ethnicity": "6",
+        "Nationality": "44",
+        "Occupation": "8"
+    }
+}

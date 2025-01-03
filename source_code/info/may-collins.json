@@ -1,0 +1,44 @@
+{
+    "relationships": [
+        {
+            "name": "Charles Chaplin",
+            "href": "https://www.whosdatedwho.com/dating/charles-chaplin",
+            "relationship_type": 2,
+            "start_date": "1921",
+            "end_date": "1922",
+            "length": "1 year",
+            "start_months_since_1900": 252,
+            "end_months_since_1900": 264,
+            "length_in_months": 12
+        },
+        {
+            "name": "Richard Dix",
+            "href": "https://www.whosdatedwho.com/dating/richard-dix",
+            "relationship_type": 2,
+            "start_date": "1920",
+            "end_date": "1921",
+            "length": "1 year",
+            "start_months_since_1900": 240,
+            "end_months_since_1900": 252,
+            "length_in_months": 12
+        }
+    ],
+    "details": {
+        "First Name": "May",
+        "Middle Name": "NA",
+        "Last Name": "Collins",
+        "Maiden Name": "NA",
+        "Full Name at Birth": "NA",
+        "Alternative Name": "NA",
+        "Birthday": "1905",
+        "Birthplace": "USA",
+        "Height": "NA",
+        "Weight": "NA",
+        "Zodiac Sign": "2",
+        "Sexuality": "Straight",
+        "Religion": "1",
+        "Ethnicity": "6",
+        "Nationality": "91",
+        "Occupation": "8"
+    }
+}

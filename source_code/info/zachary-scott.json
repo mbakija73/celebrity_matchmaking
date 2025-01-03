@@ -1,0 +1,55 @@
+{
+    "relationships": [
+        {
+            "name": "Ruth Ford",
+            "href": "https://www.whosdatedwho.com/dating/ruth-ford",
+            "relationship_type": 4,
+            "start_date": "1952",
+            "end_date": "Oct 1965",
+            "length": "13 years",
+            "start_months_since_1900": 624,
+            "end_months_since_1900": 789,
+            "length_in_months": 156
+        },
+        {
+            "name": "Elaine Anderson",
+            "href": "https://www.whosdatedwho.com/dating/elaine-anderson",
+            "relationship_type": 4,
+            "start_date": "1933",
+            "end_date": "21st Dec 1950",
+            "length": "17 years",
+            "start_months_since_1900": 396,
+            "end_months_since_1900": 611,
+            "length_in_months": 204
+        },
+        {
+            "name": "Alfred Lunt",
+            "href": "https://www.whosdatedwho.com/dating/alfred-lunt",
+            "relationship_type": 3,
+            "start_date": "",
+            "end_date": "",
+            "length": "-",
+            "start_months_since_1900": -1,
+            "end_months_since_1900": -1,
+            "length_in_months": -1
+        }
+    ],
+    "details": {
+        "First Name": "Zachary",
+        "Middle Name": "NA",
+        "Last Name": "Scott",
+        "Maiden Name": "NA",
+        "Full Name at Birth": "Zachary Thomson Scott Jr.",
+        "Alternative Name": "Zack, Zachary Scott, Zachary Thomson Scott Jr.",
+        "Birthday": "1914",
+        "Birthplace": "USA",
+        "Height": "185",
+        "Weight": "NA",
+        "Zodiac Sign": "9",
+        "Sexuality": "Bisexual",
+        "Religion": "1",
+        "Ethnicity": "6",
+        "Nationality": "91",
+        "Occupation": "8"
+    }
+}

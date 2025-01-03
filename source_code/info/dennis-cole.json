@@ -1,0 +1,99 @@
+{
+    "relationships": [
+        {
+            "name": "BarBara Luna",
+            "href": "https://www.whosdatedwho.com/dating/barbara-luna",
+            "relationship_type": 2,
+            "start_date": "May 1981",
+            "end_date": "Jun 1981",
+            "length": "1 month",
+            "start_months_since_1900": 976,
+            "end_months_since_1900": 977,
+            "length_in_months": 1
+        },
+        {
+            "name": "Jaclyn Smith",
+            "href": "https://www.whosdatedwho.com/dating/jaclyn-smith",
+            "relationship_type": 4,
+            "start_date": "Jun 1977",
+            "end_date": "23rd Jul 1981",
+            "length": "4 years",
+            "start_months_since_1900": 929,
+            "end_months_since_1900": 978,
+            "length_in_months": 48
+        },
+        {
+            "name": "Diane Dye",
+            "href": "https://www.whosdatedwho.com/dating/diane-dye",
+            "relationship_type": 2,
+            "start_date": "1970",
+            "end_date": "1970",
+            "length": "-",
+            "start_months_since_1900": 840,
+            "end_months_since_1900": 840,
+            "length_in_months": -1
+        },
+        {
+            "name": "Sally Bergeron",
+            "href": "https://www.whosdatedwho.com/dating/sally-bergeron",
+            "relationship_type": 4,
+            "start_date": "1958",
+            "end_date": "1965",
+            "length": "7 years",
+            "start_months_since_1900": 696,
+            "end_months_since_1900": 780,
+            "length_in_months": 84
+        },
+        {
+            "name": "Deana Martin",
+            "href": "https://www.whosdatedwho.com/dating/deana-martin",
+            "relationship_type": 2,
+            "start_date": "",
+            "end_date": "",
+            "length": "-",
+            "start_months_since_1900": -1,
+            "end_months_since_1900": -1,
+            "length_in_months": -1
+        },
+        {
+            "name": "Quinn O'Hara",
+            "href": "https://www.whosdatedwho.com/dating/quinn-o-hara",
+            "relationship_type": 3,
+            "start_date": "",
+            "end_date": "",
+            "length": "-",
+            "start_months_since_1900": -1,
+            "end_months_since_1900": -1,
+            "length_in_months": -1
+        },
+        {
+            "name": "Carole Curb Nemoy",
+            "href": "https://www.whosdatedwho.com/dating/carole-curb-nemoy",
+            "relationship_type": 2,
+            "start_date": "",
+            "end_date": "",
+            "length": "-",
+            "start_months_since_1900": -1,
+            "end_months_since_1900": -1,
+            "length_in_months": -1
+        }
+    ],
+    "details": {
+        "First Name": "Dennis",
+        "Middle Name": "NA",
+        "Last Name": "Cole",
+        "Maiden Name": "NA",
+        "Full Name at Birth": "Dennis Lee Cole",
+        "Alternative Name": "NA",
+        "Birthday": "1940",
+        "Birthplace": "USA",
+        "Height": "188",
+        "Weight": "NA",
+        "Zodiac Sign": "8",
+        "Sexuality": "Straight",
+        "Religion": "1",
+        "Ethnicity": "6",
+        "Nationality": "91",
+        "Occupation": "8"
+    }
+}

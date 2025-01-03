@@ -1,0 +1,99 @@
+{
+    "relationships": [
+        {
+            "name": "Hayley Wood",
+            "href": "https://www.whosdatedwho.com/dating/hayley-wood-model",
+            "relationship_type": 2,
+            "start_date": "Oct 2008",
+            "end_date": "Aug 2009",
+            "length": "10 months",
+            "start_months_since_1900": 1305,
+            "end_months_since_1900": 1315,
+            "length_in_months": 10
+        },
+        {
+            "name": "Paris Hilton",
+            "href": "https://www.whosdatedwho.com/dating/paris-hilton",
+            "relationship_type": 3,
+            "start_date": "Sep 2007",
+            "end_date": "Sep 2007",
+            "length": "-",
+            "start_months_since_1900": 1292,
+            "end_months_since_1900": 1292,
+            "length_in_months": -1
+        },
+        {
+            "name": "Jessica Stam",
+            "href": "https://www.whosdatedwho.com/dating/jessica-stam",
+            "relationship_type": 2,
+            "start_date": "May 2007",
+            "end_date": "Aug 2007",
+            "length": "3 months",
+            "start_months_since_1900": 1288,
+            "end_months_since_1900": 1291,
+            "length_in_months": 3
+        },
+        {
+            "name": "Mandy Moore",
+            "href": "https://www.whosdatedwho.com/dating/mandy-moore",
+            "relationship_type": 2,
+            "start_date": "Jan 2007",
+            "end_date": "Mar 2007",
+            "length": "1 month",
+            "start_months_since_1900": 1284,
+            "end_months_since_1900": 1286,
+            "length_in_months": 1
+        },
+        {
+            "name": "Alessandra Ambrosio",
+            "href": "https://www.whosdatedwho.com/dating/alessandra-ambrosio",
+            "relationship_type": 2,
+            "start_date": "Aug 2006",
+            "end_date": "Sep 2006",
+            "length": "1 month",
+            "start_months_since_1900": 1279,
+            "end_months_since_1900": 1280,
+            "length_in_months": 1
+        },
+        {
+            "name": "Lauren Hastings",
+            "href": "https://www.whosdatedwho.com/dating/lauren-hastings",
+            "relationship_type": 2,
+            "start_date": "Aug 2006",
+            "end_date": "Nov 2006",
+            "length": "3 months",
+            "start_months_since_1900": 1279,
+            "end_months_since_1900": 1282,
+            "length_in_months": 3
+        },
+        {
+            "name": "Nicole Richie",
+            "href": "https://www.whosdatedwho.com/dating/nicole-richie",
+            "relationship_type": 2,
+            "start_date": "Jan 2004",
+            "end_date": "May 2006",
+            "length": "2 years",
+            "start_months_since_1900": 1248,
+            "end_months_since_1900": 1276,
+            "length_in_months": 24
+        }
+    ],
+    "details": {
+        "First Name": "Adam",
+        "Middle Name": "Michael",
+        "Last Name": "Goldstein",
+        "Maiden Name": "NA",
+        "Full Name at Birth": "Adam Michael Goldstein",
+        "Alternative Name": "DJ Am",
+        "Birthday": "1973",
+        "Birthplace": "USA",
+        "Height": "NA",
+        "Weight": "NA",
+        "Zodiac Sign": "7",
+        "Sexuality": "Straight",
+        "Religion": "31",
+        "Ethnicity": "6",
+        "Nationality": "91",
+        "Occupation": "1"
+    }
+}

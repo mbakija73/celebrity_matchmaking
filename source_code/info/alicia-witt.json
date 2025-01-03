@@ -1,0 +1,55 @@
+{
+    "relationships": [
+        {
+            "name": "Ben Folds",
+            "href": "https://www.whosdatedwho.com/dating/ben-folds",
+            "relationship_type": 2,
+            "start_date": "2012",
+            "end_date": "present",
+            "length": "12 years",
+            "start_months_since_1900": 1344,
+            "end_months_since_1900": -1,
+            "length_in_months": 144
+        },
+        {
+            "name": "Nathan Foulger",
+            "href": "https://www.whosdatedwho.com/dating/nathan-foulger",
+            "relationship_type": 4,
+            "start_date": "1999",
+            "end_date": "2006",
+            "length": "7 years",
+            "start_months_since_1900": 1188,
+            "end_months_since_1900": 1272,
+            "length_in_months": 84
+        },
+        {
+            "name": "Peter Krause",
+            "href": "https://www.whosdatedwho.com/dating/peter-krause",
+            "relationship_type": 2,
+            "start_date": "1995",
+            "end_date": "1999",
+            "length": "4 years",
+            "start_months_since_1900": 1140,
+            "end_months_since_1900": 1188,
+            "length_in_months": 48
+        }
+    ],
+    "details": {
+        "First Name": "Alicia",
+        "Middle Name": "Roanne",
+        "Last Name": "Wit",
+        "Maiden Name": "Witt",
+        "Full Name at Birth": "Alicia Roanne Witt",
+        "Alternative Name": "Alicia Roanne Witt, Alicia Witt",
+        "Birthday": "1975",
+        "Birthplace": "Massachusetts USA",
+        "Height": "174",
+        "Weight": "128lbs (58 kg)",
+        "Zodiac Sign": "12",
+        "Sexuality": "Straight",
+        "Religion": "1",
+        "Ethnicity": "6",
+        "Nationality": "91",
+        "Occupation": "8"
+    }
+}

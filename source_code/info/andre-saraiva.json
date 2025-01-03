@@ -1,0 +1,44 @@
+{
+    "relationships": [
+        {
+            "name": "Uffie",
+            "href": "https://www.whosdatedwho.com/dating/uffie",
+            "relationship_type": 4,
+            "start_date": "2008",
+            "end_date": "Jul 2009",
+            "length": "1 year",
+            "start_months_since_1900": 1296,
+            "end_months_since_1900": 1314,
+            "length_in_months": 12
+        },
+        {
+            "name": "Emma de Caunes",
+            "href": "https://www.whosdatedwho.com/dating/emma-de-caunes",
+            "relationship_type": 1,
+            "start_date": "",
+            "end_date": "",
+            "length": "-",
+            "start_months_since_1900": -1,
+            "end_months_since_1900": -1,
+            "length_in_months": -1
+        }
+    ],
+    "details": {
+        "First Name": "Andr\u00e9",
+        "Middle Name": "NA",
+        "Last Name": "Saraiva",
+        "Maiden Name": "NA",
+        "Full Name at Birth": "NA",
+        "Alternative Name": "NA",
+        "Birthday": "1970",
+        "Birthplace": "Sweden",
+        "Height": "NA",
+        "Weight": "NA",
+        "Zodiac Sign": "2",
+        "Sexuality": "Straight",
+        "Religion": "26",
+        "Ethnicity": "6",
+        "Nationality": "86",
+        "Occupation": "13"
+    }
+}

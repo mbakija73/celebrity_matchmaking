@@ -1,0 +1,77 @@
+{
+    "relationships": [
+        {
+            "name": "John Minoli",
+            "href": "https://www.whosdatedwho.com/dating/john-minoli",
+            "relationship_type": 4,
+            "start_date": "2002",
+            "end_date": "May 2004",
+            "length": "2 years",
+            "start_months_since_1900": 1224,
+            "end_months_since_1900": 1252,
+            "length_in_months": 24
+        },
+        {
+            "name": "Timothy Delarm",
+            "href": "https://www.whosdatedwho.com/dating/timothy-delarm",
+            "relationship_type": 4,
+            "start_date": "Jun 1997",
+            "end_date": "Jun 1998",
+            "length": "1 year",
+            "start_months_since_1900": 1169,
+            "end_months_since_1900": 1181,
+            "length_in_months": 12
+        },
+        {
+            "name": "Prince",
+            "href": "https://www.whosdatedwho.com/dating/prince-musician",
+            "relationship_type": 3,
+            "start_date": "1985",
+            "end_date": "1985",
+            "length": "-",
+            "start_months_since_1900": 1020,
+            "end_months_since_1900": 1020,
+            "length_in_months": -1
+        },
+        {
+            "name": "Robert Light",
+            "href": "https://www.whosdatedwho.com/dating/robert-light",
+            "relationship_type": 4,
+            "start_date": "Jan 1984",
+            "end_date": "Jul 1986",
+            "length": "2 years",
+            "start_months_since_1900": 1008,
+            "end_months_since_1900": 1038,
+            "length_in_months": 24
+        },
+        {
+            "name": "Sandi Easton",
+            "href": "https://www.whosdatedwho.com/dating/sandi-easton",
+            "relationship_type": 4,
+            "start_date": "1979",
+            "end_date": "1980",
+            "length": "1 year",
+            "start_months_since_1900": 948,
+            "end_months_since_1900": 960,
+            "length_in_months": 12
+        }
+    ],
+    "details": {
+        "First Name": "Sheena",
+        "Middle Name": "Shirley",
+        "Last Name": "Easton",
+        "Maiden Name": "NA",
+        "Full Name at Birth": "Sheena Shirley Orr",
+        "Alternative Name": "Sheena Easton",
+        "Birthday": "1959",
+        "Birthplace": "UK",
+        "Height": "155",
+        "Weight": "117lbs (53 kg)",
+        "Zodiac Sign": "3",
+        "Sexuality": "Straight",
+        "Religion": "1",
+        "Ethnicity": "6",
+        "Nationality": "131",
+        "Occupation": "1"
+    }
+}

@@ -1,0 +1,44 @@
+{
+    "relationships": [
+        {
+            "name": "Sebastian Stan",
+            "href": "https://www.whosdatedwho.com/dating/sebastian-stan",
+            "relationship_type": 2,
+            "start_date": "Jul 2014",
+            "end_date": "2016",
+            "length": "1 year",
+            "start_months_since_1900": 1374,
+            "end_months_since_1900": 1392,
+            "length_in_months": 12
+        },
+        {
+            "name": "Justin Chatwin",
+            "href": "https://www.whosdatedwho.com/dating/justin-chatwin",
+            "relationship_type": 3,
+            "start_date": "2007",
+            "end_date": "2007",
+            "length": "-",
+            "start_months_since_1900": 1284,
+            "end_months_since_1900": 1284,
+            "length_in_months": -1
+        }
+    ],
+    "details": {
+        "First Name": "Margarita",
+        "Middle Name": "Vladimirovna",
+        "Last Name": "Levieva",
+        "Maiden Name": "NA",
+        "Full Name at Birth": "Margarita Vladimirovna Levieva",
+        "Alternative Name": "Margarita Vladimirovna Levieva, \u041c\u0430\u0440\u0433\u0430\u0440\u0438\u0301\u0442\u0430 \u0412\u043b\u0430\u0434\u0438\u0301\u043c\u0438\u0440\u043e\u0432\u043d\u0430 \u041b\u0435\u0432\u0438\u0301\u0435\u0432\u0430, Margarita Levieva, Margarita",
+        "Birthday": "1980",
+        "Birthplace": "Soviet Union",
+        "Height": "168",
+        "Weight": "119lbs (54 kg)",
+        "Zodiac Sign": "9",
+        "Sexuality": "Straight",
+        "Religion": "31",
+        "Ethnicity": "6",
+        "Nationality": "9",
+        "Occupation": "8"
+    }
+}

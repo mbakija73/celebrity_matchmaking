@@ -1,0 +1,55 @@
+{
+    "relationships": [
+        {
+            "name": "ErikaFBaby",
+            "href": "https://www.whosdatedwho.com/dating/erikafbaby",
+            "relationship_type": 2,
+            "start_date": "Jan 2016",
+            "end_date": "",
+            "length": "-",
+            "start_months_since_1900": 1392,
+            "end_months_since_1900": -1,
+            "length_in_months": -1
+        },
+        {
+            "name": "Lil' Kim",
+            "href": "https://www.whosdatedwho.com/dating/lil-kim",
+            "relationship_type": 2,
+            "start_date": "May 2012",
+            "end_date": "Dec 2015",
+            "length": "3 years",
+            "start_months_since_1900": 1348,
+            "end_months_since_1900": 1391,
+            "length_in_months": 36
+        },
+        {
+            "name": "Millie Colon",
+            "href": "https://www.whosdatedwho.com/dating/millie-colon",
+            "relationship_type": 2,
+            "start_date": "2009",
+            "end_date": "2009",
+            "length": "-",
+            "start_months_since_1900": 1308,
+            "end_months_since_1900": 1308,
+            "length_in_months": -1
+        }
+    ],
+    "details": {
+        "First Name": "Peoples",
+        "Middle Name": "NA",
+        "Last Name": "Hernandez",
+        "Maiden Name": "NA",
+        "Full Name at Birth": "NA",
+        "Alternative Name": "NA",
+        "Birthday": "NA",
+        "Birthplace": "NA",
+        "Height": "NA",
+        "Weight": "NA",
+        "Zodiac Sign": "2",
+        "Sexuality": "Straight",
+        "Religion": "1",
+        "Ethnicity": "2",
+        "Nationality": "91",
+        "Occupation": "1"
+    }
+}

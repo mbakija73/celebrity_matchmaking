@@ -1,0 +1,55 @@
+{
+    "relationships": [
+        {
+            "name": "Jack Donnelly",
+            "href": "https://www.whosdatedwho.com/dating/jack-donnelly",
+            "relationship_type": 4,
+            "start_date": "Oct 2017",
+            "end_date": "",
+            "length": "-",
+            "start_months_since_1900": 1413,
+            "end_months_since_1900": -1,
+            "length_in_months": -1
+        },
+        {
+            "name": "Colin Egglesfield",
+            "href": "https://www.whosdatedwho.com/dating/colin-egglesfield",
+            "relationship_type": 2,
+            "start_date": "Mar 2014",
+            "end_date": "2015",
+            "length": "10 months",
+            "start_months_since_1900": 1370,
+            "end_months_since_1900": 1380,
+            "length_in_months": 10
+        },
+        {
+            "name": "Roberto Zincone",
+            "href": "https://www.whosdatedwho.com/dating/roberto-zincone",
+            "relationship_type": 4,
+            "start_date": "2003",
+            "end_date": "Nov 2013",
+            "length": "10 years",
+            "start_months_since_1900": 1236,
+            "end_months_since_1900": 1366,
+            "length_in_months": 120
+        }
+    ],
+    "details": {
+        "First Name": "Malin",
+        "Middle Name": "Maria",
+        "Last Name": "Akerman",
+        "Maiden Name": "\u00c5kerman",
+        "Full Name at Birth": "Malin Maria \u00c5kerman",
+        "Alternative Name": "Malin Ackerman, Malin Akerma, Malin \u00c5kerman, Malin Maria \u00c5kerman",
+        "Birthday": "1978",
+        "Birthplace": "Sweden",
+        "Height": "171",
+        "Weight": "123lbs (56 kg)",
+        "Zodiac Sign": "3",
+        "Sexuality": "Straight",
+        "Religion": "16",
+        "Ethnicity": "6",
+        "Nationality": "30",
+        "Occupation": "8"
+    }
+}

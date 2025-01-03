@@ -1,0 +1,77 @@
+{
+    "relationships": [
+        {
+            "name": "Gia Scala",
+            "href": "https://www.whosdatedwho.com/dating/gia-scala",
+            "relationship_type": 2,
+            "start_date": "Feb 1971",
+            "end_date": "Feb 1971",
+            "length": "-",
+            "start_months_since_1900": 853,
+            "end_months_since_1900": 853,
+            "length_in_months": -1
+        },
+        {
+            "name": "Katharine Thalberg",
+            "href": "https://www.whosdatedwho.com/dating/katharine-thalberg",
+            "relationship_type": 4,
+            "start_date": "1960",
+            "end_date": "1973",
+            "length": "13 years",
+            "start_months_since_1900": 720,
+            "end_months_since_1900": 876,
+            "length_in_months": 156
+        },
+        {
+            "name": "Carol Lee Ladd",
+            "href": "https://www.whosdatedwho.com/dating/carol-lee-ladd",
+            "relationship_type": 4,
+            "start_date": "1954",
+            "end_date": "Apr 1956",
+            "length": "2 years",
+            "start_months_since_1900": 648,
+            "end_months_since_1900": 675,
+            "length_in_months": 24
+        },
+        {
+            "name": "Elaine Stewart",
+            "href": "https://www.whosdatedwho.com/dating/elaine-stewart",
+            "relationship_type": 2,
+            "start_date": "Mar 1953",
+            "end_date": "Apr 1953",
+            "length": "1 month",
+            "start_months_since_1900": 638,
+            "end_months_since_1900": 639,
+            "length_in_months": 1
+        },
+        {
+            "name": "Pier Angeli",
+            "href": "https://www.whosdatedwho.com/dating/pier-angeli",
+            "relationship_type": 2,
+            "start_date": "Jun 1951",
+            "end_date": "Jul 1951",
+            "length": "1 month",
+            "start_months_since_1900": 617,
+            "end_months_since_1900": 618,
+            "length_in_months": 1
+        }
+    ],
+    "details": {
+        "First Name": "Richard",
+        "Middle Name": "Norman",
+        "Last Name": "Anderson",
+        "Maiden Name": "NA",
+        "Full Name at Birth": "Richard Norman Anderson",
+        "Alternative Name": "NA",
+        "Birthday": "1926",
+        "Birthplace": "New Jersey",
+        "Height": "193",
+        "Weight": "NA",
+        "Zodiac Sign": "12",
+        "Sexuality": "Straight",
+        "Religion": "1",
+        "Ethnicity": "6",
+        "Nationality": "91",
+        "Occupation": "8"
+    }
+}

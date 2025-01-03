@@ -1,0 +1,44 @@
+{
+    "relationships": [
+        {
+            "name": "Joy Taylor",
+            "href": "https://www.whosdatedwho.com/dating/joy-taylor",
+            "relationship_type": 2,
+            "start_date": "Sep 2018",
+            "end_date": "Sep 2018",
+            "length": "-",
+            "start_months_since_1900": 1424,
+            "end_months_since_1900": 1424,
+            "length_in_months": -1
+        },
+        {
+            "name": "Jennifer Freeman",
+            "href": "https://www.whosdatedwho.com/dating/jennifer-freeman",
+            "relationship_type": 4,
+            "start_date": "Apr 2008",
+            "end_date": "Nov 2010",
+            "length": "2 years",
+            "start_months_since_1900": 1299,
+            "end_months_since_1900": 1330,
+            "length_in_months": 24
+        }
+    ],
+    "details": {
+        "First Name": "Earl",
+        "Middle Name": "Joseph",
+        "Last Name": "Watson",
+        "Maiden Name": "NA",
+        "Full Name at Birth": "Earl Joseph Watson Jr.",
+        "Alternative Name": "NA",
+        "Birthday": "1979",
+        "Birthplace": "Kansas",
+        "Height": "185",
+        "Weight": "195lbs (88 kg)",
+        "Zodiac Sign": "4",
+        "Sexuality": "Straight",
+        "Religion": "1",
+        "Ethnicity": "2",
+        "Nationality": "91",
+        "Occupation": "2"
+    }
+}

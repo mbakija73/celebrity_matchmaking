@@ -1,0 +1,33 @@
+{
+    "relationships": [
+        {
+            "name": "Duncan Grant",
+            "href": "https://www.whosdatedwho.com/dating/duncan-grant",
+            "relationship_type": 1,
+            "start_date": "1946",
+            "end_date": "1978",
+            "length": "32 years",
+            "start_months_since_1900": 552,
+            "end_months_since_1900": 936,
+            "length_in_months": 384
+        }
+    ],
+    "details": {
+        "First Name": "Paul",
+        "Middle Name": "NA",
+        "Last Name": "Roche",
+        "Maiden Name": "NA",
+        "Full Name at Birth": "NA",
+        "Alternative Name": "NA",
+        "Birthday": "1916",
+        "Birthplace": "India",
+        "Height": "NA",
+        "Weight": "NA",
+        "Zodiac Sign": "10",
+        "Sexuality": "Bisexual",
+        "Religion": "1",
+        "Ethnicity": "6",
+        "Nationality": "8",
+        "Occupation": "3"
+    }
+}

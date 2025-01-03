@@ -1,0 +1,55 @@
+{
+    "relationships": [
+        {
+            "name": "Michael Wilding",
+            "href": "https://www.whosdatedwho.com/dating/michael-wilding",
+            "relationship_type": 4,
+            "start_date": "1963",
+            "end_date": "13th Jan 1976",
+            "length": "13 years",
+            "start_months_since_1900": 756,
+            "end_months_since_1900": 912,
+            "length_in_months": 156
+        },
+        {
+            "name": "Laurence Harvey",
+            "href": "https://www.whosdatedwho.com/dating/laurence-harvey",
+            "relationship_type": 4,
+            "start_date": "1957",
+            "end_date": "1961",
+            "length": "4 years",
+            "start_months_since_1900": 684,
+            "end_months_since_1900": 732,
+            "length_in_months": 48
+        },
+        {
+            "name": "Max Reinhardt",
+            "href": "https://www.whosdatedwho.com/dating/max-reinhardt",
+            "relationship_type": 4,
+            "start_date": "1947",
+            "end_date": "1955",
+            "length": "8 years",
+            "start_months_since_1900": 564,
+            "end_months_since_1900": 660,
+            "length_in_months": 96
+        }
+    ],
+    "details": {
+        "First Name": "Margaret",
+        "Middle Name": "NA",
+        "Last Name": "Leighton",
+        "Maiden Name": "NA",
+        "Full Name at Birth": "NA",
+        "Alternative Name": "Margaret Leighton CBE",
+        "Birthday": "1922",
+        "Birthplace": "UK",
+        "Height": "179",
+        "Weight": "NA",
+        "Zodiac Sign": "1",
+        "Sexuality": "Straight",
+        "Religion": "1",
+        "Ethnicity": "6",
+        "Nationality": "8",
+        "Occupation": "8"
+    }
+}

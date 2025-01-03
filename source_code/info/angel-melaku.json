@@ -1,0 +1,44 @@
+{
+    "relationships": [
+        {
+            "name": "King Los",
+            "href": "https://www.whosdatedwho.com/dating/king-los-rapper",
+            "relationship_type": 2,
+            "start_date": "Apr 2006",
+            "end_date": "present",
+            "length": "18 years",
+            "start_months_since_1900": 1275,
+            "end_months_since_1900": -1,
+            "length_in_months": 216
+        },
+        {
+            "name": "Jeezy",
+            "href": "https://www.whosdatedwho.com/dating/jeezy",
+            "relationship_type": 1,
+            "start_date": "",
+            "end_date": "",
+            "length": "-",
+            "start_months_since_1900": -1,
+            "end_months_since_1900": -1,
+            "length_in_months": -1
+        }
+    ],
+    "details": {
+        "First Name": "Angel",
+        "Middle Name": "Lola",
+        "Last Name": "Melaku",
+        "Maiden Name": "NA",
+        "Full Name at Birth": "Fershgenet Melaku",
+        "Alternative Name": "Angel Lola Luv, Lola Luv, LoLa Monroe, Fershgenet Melaku, Angel Melaku",
+        "Birthday": "1986",
+        "Birthplace": "Ethiopia",
+        "Height": "165",
+        "Weight": "NA",
+        "Zodiac Sign": "5",
+        "Sexuality": "Bisexual",
+        "Religion": "1",
+        "Ethnicity": "8",
+        "Nationality": "71",
+        "Occupation": "16"
+    }
+}

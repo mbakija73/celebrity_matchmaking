@@ -1,0 +1,77 @@
+{
+    "relationships": [
+        {
+            "name": "Don Terry",
+            "href": "https://www.whosdatedwho.com/dating/don-terry",
+            "relationship_type": 2,
+            "start_date": "1938",
+            "end_date": "1938",
+            "length": "-",
+            "start_months_since_1900": 456,
+            "end_months_since_1900": 456,
+            "length_in_months": -1
+        },
+        {
+            "name": "James Stewart",
+            "href": "https://www.whosdatedwho.com/dating/james-stewart",
+            "relationship_type": 3,
+            "start_date": "Mar 1936",
+            "end_date": "Apr 1936",
+            "length": "1 month",
+            "start_months_since_1900": 434,
+            "end_months_since_1900": 435,
+            "length_in_months": 1
+        },
+        {
+            "name": "David Niven",
+            "href": "https://www.whosdatedwho.com/dating/david-niven",
+            "relationship_type": 2,
+            "start_date": "Jan 1935",
+            "end_date": "Mar 1935",
+            "length": "1 month",
+            "start_months_since_1900": 420,
+            "end_months_since_1900": 422,
+            "length_in_months": 1
+        },
+        {
+            "name": "Bugsy Siegel",
+            "href": "https://www.whosdatedwho.com/dating/bugsy-siegel",
+            "relationship_type": 2,
+            "start_date": "",
+            "end_date": "",
+            "length": "-",
+            "start_months_since_1900": -1,
+            "end_months_since_1900": -1,
+            "length_in_months": -1
+        },
+        {
+            "name": "David Meyer",
+            "href": "https://www.whosdatedwho.com/dating/david-meyer",
+            "relationship_type": 4,
+            "start_date": "",
+            "end_date": "",
+            "length": "-",
+            "start_months_since_1900": -1,
+            "end_months_since_1900": -1,
+            "length_in_months": -1
+        }
+    ],
+    "details": {
+        "First Name": "Wendy",
+        "Middle Name": "NA",
+        "Last Name": "Barrie",
+        "Maiden Name": "Jenkins",
+        "Full Name at Birth": "Marguerite Wendy Jenkins",
+        "Alternative Name": "Marguerite Wendy Jenkins, Wendy Barry",
+        "Birthday": "1912",
+        "Birthplace": "China",
+        "Height": "165",
+        "Weight": "NA",
+        "Zodiac Sign": "7",
+        "Sexuality": "Straight",
+        "Religion": "1",
+        "Ethnicity": "6",
+        "Nationality": "8",
+        "Occupation": "8"
+    }
+}

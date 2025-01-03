@@ -1,0 +1,66 @@
+{
+    "relationships": [
+        {
+            "name": "Daria Zhukova",
+            "href": "https://www.whosdatedwho.com/dating/daria-zhukova",
+            "relationship_type": 2,
+            "start_date": "2006",
+            "end_date": "2017",
+            "length": "11 years",
+            "start_months_since_1900": 1272,
+            "end_months_since_1900": 1404,
+            "length_in_months": 132
+        },
+        {
+            "name": "Irina Abramovich",
+            "href": "https://www.whosdatedwho.com/dating/irina-abramovich",
+            "relationship_type": 4,
+            "start_date": "1990",
+            "end_date": "2007",
+            "length": "17 years",
+            "start_months_since_1900": 1080,
+            "end_months_since_1900": 1284,
+            "length_in_months": 204
+        },
+        {
+            "name": "Olga Yurevna Lysova",
+            "href": "https://www.whosdatedwho.com/dating/olga-yurevna-lysova",
+            "relationship_type": 4,
+            "start_date": "1987",
+            "end_date": "1990",
+            "length": "3 years",
+            "start_months_since_1900": 1044,
+            "end_months_since_1900": 1080,
+            "length_in_months": 36
+        },
+        {
+            "name": "Olya Abramovich",
+            "href": "https://www.whosdatedwho.com/dating/olya-abramovich",
+            "relationship_type": 1,
+            "start_date": "",
+            "end_date": "",
+            "length": "-",
+            "start_months_since_1900": -1,
+            "end_months_since_1900": -1,
+            "length_in_months": -1
+        }
+    ],
+    "details": {
+        "First Name": "Roman",
+        "Middle Name": "NA",
+        "Last Name": "Abramovich",
+        "Maiden Name": "NA",
+        "Full Name at Birth": "Roman Arkadievich Abramovich",
+        "Alternative Name": "Kgb",
+        "Birthday": "1966",
+        "Birthplace": "Russia",
+        "Height": "NA",
+        "Weight": "NA",
+        "Zodiac Sign": "5",
+        "Sexuality": "Straight",
+        "Religion": "31",
+        "Ethnicity": "6",
+        "Nationality": "9",
+        "Occupation": "7"
+    }
+}

@@ -1,0 +1,66 @@
+{
+    "relationships": [
+        {
+            "name": "Rodney Peete",
+            "href": "https://www.whosdatedwho.com/dating/rodney-peete",
+            "relationship_type": 4,
+            "start_date": "Jun 1993",
+            "end_date": "present",
+            "length": "31 years",
+            "start_months_since_1900": 1121,
+            "end_months_since_1900": -1,
+            "length_in_months": 372
+        },
+        {
+            "name": "Johnny Depp",
+            "href": "https://www.whosdatedwho.com/dating/johnny-depp",
+            "relationship_type": 3,
+            "start_date": "1990",
+            "end_date": "1990",
+            "length": "-",
+            "start_months_since_1900": 1080,
+            "end_months_since_1900": 1080,
+            "length_in_months": -1
+        },
+        {
+            "name": "Jason Patric",
+            "href": "https://www.whosdatedwho.com/dating/jason-patric",
+            "relationship_type": 2,
+            "start_date": "Nov 1987",
+            "end_date": "Jan 1988",
+            "length": "2 months",
+            "start_months_since_1900": 1054,
+            "end_months_since_1900": 1056,
+            "length_in_months": 2
+        },
+        {
+            "name": "Rick Fox",
+            "href": "https://www.whosdatedwho.com/dating/rick-fox",
+            "relationship_type": 1,
+            "start_date": "",
+            "end_date": "",
+            "length": "-",
+            "start_months_since_1900": -1,
+            "end_months_since_1900": -1,
+            "length_in_months": -1
+        }
+    ],
+    "details": {
+        "First Name": "Holly",
+        "Middle Name": "Elizabeth",
+        "Last Name": "Peete",
+        "Maiden Name": "Robinson",
+        "Full Name at Birth": "Holly Elizabeth Robinson",
+        "Alternative Name": "Holly Elizabeth Robinson Peete",
+        "Birthday": "1964",
+        "Birthplace": "Pennsylvania",
+        "Height": "163",
+        "Weight": "115lbs (52 kg)",
+        "Zodiac Sign": "11",
+        "Sexuality": "Straight",
+        "Religion": "1",
+        "Ethnicity": "2",
+        "Nationality": "91",
+        "Occupation": "8"
+    }
+}

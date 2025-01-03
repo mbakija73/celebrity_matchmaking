@@ -1,0 +1,66 @@
+{
+    "relationships": [
+        {
+            "name": "Mr. X (Sarah Symonds ex-lover)",
+            "href": "https://www.whosdatedwho.com/dating/mr-x-sarah-symonds-ex-lover",
+            "relationship_type": 2,
+            "start_date": "May 2004",
+            "end_date": "2006",
+            "length": "1 year",
+            "start_months_since_1900": 1252,
+            "end_months_since_1900": 1272,
+            "length_in_months": 12
+        },
+        {
+            "name": "Gordon Ramsay",
+            "href": "https://www.whosdatedwho.com/dating/gordon-ramsay",
+            "relationship_type": 2,
+            "start_date": "Oct 2001",
+            "end_date": "Nov 2008",
+            "length": "7 years",
+            "start_months_since_1900": 1221,
+            "end_months_since_1900": 1306,
+            "length_in_months": 84
+        },
+        {
+            "name": "Jeffrey Archer",
+            "href": "https://www.whosdatedwho.com/dating/jeffrey-archer",
+            "relationship_type": 2,
+            "start_date": "1997",
+            "end_date": "1997",
+            "length": "-",
+            "start_months_since_1900": 1164,
+            "end_months_since_1900": 1164,
+            "length_in_months": -1
+        },
+        {
+            "name": "Jim Davidson",
+            "href": "https://www.whosdatedwho.com/dating/jim-davidson-comic",
+            "relationship_type": 2,
+            "start_date": "",
+            "end_date": "",
+            "length": "-",
+            "start_months_since_1900": -1,
+            "end_months_since_1900": -1,
+            "length_in_months": -1
+        }
+    ],
+    "details": {
+        "First Name": "Sarah",
+        "Middle Name": "J.",
+        "Last Name": "Symonds",
+        "Maiden Name": "NA",
+        "Full Name at Birth": "Sarah J. Symonds",
+        "Alternative Name": "Ms. Risotto Homewrecker",
+        "Birthday": "1969",
+        "Birthplace": "South Wales",
+        "Height": "NA",
+        "Weight": "NA",
+        "Zodiac Sign": "2",
+        "Sexuality": "Straight",
+        "Religion": "1",
+        "Ethnicity": "6",
+        "Nationality": "8",
+        "Occupation": "11"
+    }
+}

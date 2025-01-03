@@ -1,0 +1,33 @@
+{
+    "relationships": [
+        {
+            "name": "Jim Brown",
+            "href": "https://www.whosdatedwho.com/dating/jim-brown",
+            "relationship_type": 4,
+            "start_date": "1997",
+            "end_date": "May 2023",
+            "length": "26 years",
+            "start_months_since_1900": 1164,
+            "end_months_since_1900": 1480,
+            "length_in_months": 312
+        }
+    ],
+    "details": {
+        "First Name": "Monique",
+        "Middle Name": "NA",
+        "Last Name": "Brown",
+        "Maiden Name": "NA",
+        "Full Name at Birth": "NA",
+        "Alternative Name": "NA",
+        "Birthday": "NA",
+        "Birthplace": "NA",
+        "Height": "NA",
+        "Weight": "NA",
+        "Zodiac Sign": "2",
+        "Sexuality": "NA",
+        "Religion": "1",
+        "Ethnicity": "1",
+        "Nationality": "65",
+        "Occupation": "19"
+    }
+}

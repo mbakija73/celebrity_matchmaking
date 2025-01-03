@@ -1,0 +1,44 @@
+{
+    "relationships": [
+        {
+            "name": "Lauren Conrad",
+            "href": "https://www.whosdatedwho.com/dating/lauren-conrad",
+            "relationship_type": 2,
+            "start_date": "Jul 2008",
+            "end_date": "Jun 2011",
+            "length": "2 years",
+            "start_months_since_1900": 1302,
+            "end_months_since_1900": 1337,
+            "length_in_months": 24
+        },
+        {
+            "name": "Beau Garrett",
+            "href": "https://www.whosdatedwho.com/dating/beau-garrett",
+            "relationship_type": 2,
+            "start_date": "Jan 2007",
+            "end_date": "2007",
+            "length": "-",
+            "start_months_since_1900": 1284,
+            "end_months_since_1900": 1284,
+            "length_in_months": -1
+        }
+    ],
+    "details": {
+        "First Name": "Kyle",
+        "Middle Name": "Alan",
+        "Last Name": "Howard",
+        "Maiden Name": "NA",
+        "Full Name at Birth": "Kyle Alan Howard",
+        "Alternative Name": "NA",
+        "Birthday": "1978",
+        "Birthplace": "Colorado",
+        "Height": "NA",
+        "Weight": "NA",
+        "Zodiac Sign": "7",
+        "Sexuality": "Straight",
+        "Religion": "1",
+        "Ethnicity": "6",
+        "Nationality": "91",
+        "Occupation": "8"
+    }
+}

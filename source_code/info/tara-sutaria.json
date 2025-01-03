@@ -1,0 +1,66 @@
+{
+    "relationships": [
+        {
+            "name": "Kartik Aaryan",
+            "href": "https://www.whosdatedwho.com/dating/kartik-aaryan",
+            "relationship_type": 1,
+            "start_date": "Oct 2023",
+            "end_date": "Oct 2023",
+            "length": "-",
+            "start_months_since_1900": 1485,
+            "end_months_since_1900": 1485,
+            "length_in_months": -1
+        },
+        {
+            "name": "Arunoday Singh",
+            "href": "https://www.whosdatedwho.com/dating/arunoday-singh",
+            "relationship_type": 1,
+            "start_date": "2023",
+            "end_date": "2023",
+            "length": "-",
+            "start_months_since_1900": 1476,
+            "end_months_since_1900": 1476,
+            "length_in_months": -1
+        },
+        {
+            "name": "Aadar Jain",
+            "href": "https://www.whosdatedwho.com/dating/aadar-jain",
+            "relationship_type": 2,
+            "start_date": "2019",
+            "end_date": "2022",
+            "length": "3 years",
+            "start_months_since_1900": 1428,
+            "end_months_since_1900": 1464,
+            "length_in_months": 36
+        },
+        {
+            "name": "Rohan Mehra",
+            "href": "https://www.whosdatedwho.com/dating/rohan-mehra",
+            "relationship_type": 2,
+            "start_date": "",
+            "end_date": "",
+            "length": "-",
+            "start_months_since_1900": -1,
+            "end_months_since_1900": -1,
+            "length_in_months": -1
+        }
+    ],
+    "details": {
+        "First Name": "Tara",
+        "Middle Name": "NA",
+        "Last Name": "Sutaria",
+        "Maiden Name": "NA",
+        "Full Name at Birth": "NA",
+        "Alternative Name": "Tara",
+        "Birthday": "1995",
+        "Birthplace": "India",
+        "Height": "168",
+        "Weight": "119lbs (54 kg)",
+        "Zodiac Sign": "5",
+        "Sexuality": "Straight",
+        "Religion": "27",
+        "Ethnicity": "7",
+        "Nationality": "34",
+        "Occupation": "8"
+    }
+}

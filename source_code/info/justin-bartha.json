@@ -1,0 +1,77 @@
+{
+    "relationships": [
+        {
+            "name": "Lia Smith",
+            "href": "https://www.whosdatedwho.com/dating/lia-smith",
+            "relationship_type": 4,
+            "start_date": "Oct 2012",
+            "end_date": "present",
+            "length": "11 years",
+            "start_months_since_1900": 1353,
+            "end_months_since_1900": -1,
+            "length_in_months": 132
+        },
+        {
+            "name": "Ashley Olsen",
+            "href": "https://www.whosdatedwho.com/dating/ashley-olsen",
+            "relationship_type": 2,
+            "start_date": "May 2008",
+            "end_date": "Mar 2011",
+            "length": "2 years",
+            "start_months_since_1900": 1300,
+            "end_months_since_1900": 1334,
+            "length_in_months": 24
+        },
+        {
+            "name": "Lydia Hearst",
+            "href": "https://www.whosdatedwho.com/dating/lydia-hearst",
+            "relationship_type": 2,
+            "start_date": "Aug 2006",
+            "end_date": "Aug 2007",
+            "length": "1 year",
+            "start_months_since_1900": 1279,
+            "end_months_since_1900": 1291,
+            "length_in_months": 12
+        },
+        {
+            "name": "Stephanie Sieber",
+            "href": "https://www.whosdatedwho.com/dating/stephanie-sieber",
+            "relationship_type": 2,
+            "start_date": "Jan 2005",
+            "end_date": "May 2005",
+            "length": "4 months",
+            "start_months_since_1900": 1260,
+            "end_months_since_1900": 1264,
+            "length_in_months": 4
+        },
+        {
+            "name": "Andrew Rannells",
+            "href": "https://www.whosdatedwho.com/dating/andrew-rannells",
+            "relationship_type": 5,
+            "start_date": "",
+            "end_date": "",
+            "length": "-",
+            "start_months_since_1900": -1,
+            "end_months_since_1900": -1,
+            "length_in_months": -1
+        }
+    ],
+    "details": {
+        "First Name": "Justin",
+        "Middle Name": "Lee",
+        "Last Name": "Bartha",
+        "Maiden Name": "NA",
+        "Full Name at Birth": "Justin Lee Bartha",
+        "Alternative Name": "NA",
+        "Birthday": "1978",
+        "Birthplace": "Florida",
+        "Height": "173",
+        "Weight": "NA",
+        "Zodiac Sign": "8",
+        "Sexuality": "Straight",
+        "Religion": "31",
+        "Ethnicity": "6",
+        "Nationality": "91",
+        "Occupation": "8"
+    }
+}

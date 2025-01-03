@@ -1,0 +1,77 @@
+{
+    "relationships": [
+        {
+            "name": "Roberto Martinez",
+            "href": "https://www.whosdatedwho.com/dating/roberto-martinez",
+            "relationship_type": 2,
+            "start_date": "2012",
+            "end_date": "present",
+            "length": "12 years",
+            "start_months_since_1900": 1344,
+            "end_months_since_1900": -1,
+            "length_in_months": 144
+        },
+        {
+            "name": "Jeff Dye",
+            "href": "https://www.whosdatedwho.com/dating/jeff-dye",
+            "relationship_type": 2,
+            "start_date": "2009",
+            "end_date": "2012",
+            "length": "3 years",
+            "start_months_since_1900": 1308,
+            "end_months_since_1900": 1344,
+            "length_in_months": 36
+        },
+        {
+            "name": "Ryan Seacrest",
+            "href": "https://www.whosdatedwho.com/dating/ryan-seacrest",
+            "relationship_type": 3,
+            "start_date": "Dec 2008",
+            "end_date": "Dec 2008",
+            "length": "-",
+            "start_months_since_1900": 1307,
+            "end_months_since_1900": 1307,
+            "length_in_months": -1
+        },
+        {
+            "name": "Marco Andretti",
+            "href": "https://www.whosdatedwho.com/dating/marco-andretti",
+            "relationship_type": 2,
+            "start_date": "2007",
+            "end_date": "2007",
+            "length": "-",
+            "start_months_since_1900": 1284,
+            "end_months_since_1900": 1284,
+            "length_in_months": -1
+        },
+        {
+            "name": "Kevin Pereira",
+            "href": "https://www.whosdatedwho.com/dating/kevin-pereira",
+            "relationship_type": 3,
+            "start_date": "",
+            "end_date": "",
+            "length": "-",
+            "start_months_since_1900": -1,
+            "end_months_since_1900": -1,
+            "length_in_months": -1
+        }
+    ],
+    "details": {
+        "First Name": "Sara",
+        "Middle Name": "Jean",
+        "Last Name": "Underwood",
+        "Maiden Name": "NA",
+        "Full Name at Birth": "Sara Jean Underwood",
+        "Alternative Name": "Miss July, Bustice, The Kunoichi Ninja Warrior, The Muse of News, Lum the Invader Girl, The News Canary, Esquire's Hottest Woman of 2012, The Playboy Playmate of the Century, Kunoichi Ninja Warrior",
+        "Birthday": "1984",
+        "Birthplace": "USA",
+        "Height": "160",
+        "Weight": "103lbs (47 kg)",
+        "Zodiac Sign": "7",
+        "Sexuality": "Straight",
+        "Religion": "1",
+        "Ethnicity": "6",
+        "Nationality": "91",
+        "Occupation": "16"
+    }
+}

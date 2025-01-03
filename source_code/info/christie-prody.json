@@ -1,0 +1,33 @@
+{
+    "relationships": [
+        {
+            "name": "O.J. Simpson",
+            "href": "https://www.whosdatedwho.com/dating/o-j-simpson",
+            "relationship_type": 2,
+            "start_date": "1997",
+            "end_date": "2008",
+            "length": "11 years",
+            "start_months_since_1900": 1164,
+            "end_months_since_1900": 1296,
+            "length_in_months": 132
+        }
+    ],
+    "details": {
+        "First Name": "Christie",
+        "Middle Name": "NA",
+        "Last Name": "Prody",
+        "Maiden Name": "NA",
+        "Full Name at Birth": "NA",
+        "Alternative Name": "Christine Prody",
+        "Birthday": "1975",
+        "Birthplace": "USA",
+        "Height": "NA",
+        "Weight": "NA",
+        "Zodiac Sign": "7",
+        "Sexuality": "Straight",
+        "Religion": "1",
+        "Ethnicity": "6",
+        "Nationality": "91",
+        "Occupation": "11"
+    }
+}

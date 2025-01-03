@@ -1,0 +1,88 @@
+{
+    "relationships": [
+        {
+            "name": "Ashlee Simpson",
+            "href": "https://www.whosdatedwho.com/dating/ashlee-simpson",
+            "relationship_type": 4,
+            "start_date": "Jun 2013",
+            "end_date": "present",
+            "length": "11 years",
+            "start_months_since_1900": 1361,
+            "end_months_since_1900": -1,
+            "length_in_months": 132
+        },
+        {
+            "name": "Rita Ora",
+            "href": "https://www.whosdatedwho.com/dating/rita-ora",
+            "relationship_type": 3,
+            "start_date": "Jan 2013",
+            "end_date": "Feb 2013",
+            "length": "1 month",
+            "start_months_since_1900": 1356,
+            "end_months_since_1900": 1357,
+            "length_in_months": 1
+        },
+        {
+            "name": "Cora Skinner",
+            "href": "https://www.whosdatedwho.com/dating/cora-skinner",
+            "relationship_type": 2,
+            "start_date": "2009",
+            "end_date": "2012",
+            "length": "3 years",
+            "start_months_since_1900": 1308,
+            "end_months_since_1900": 1344,
+            "length_in_months": 36
+        },
+        {
+            "name": "Lindsay Lohan",
+            "href": "https://www.whosdatedwho.com/dating/lindsay-lohan",
+            "relationship_type": 3,
+            "start_date": "Jan 2008",
+            "end_date": "Jan 2008",
+            "length": "-",
+            "start_months_since_1900": 1296,
+            "end_months_since_1900": 1296,
+            "length_in_months": -1
+        },
+        {
+            "name": "Aubrey O'Day",
+            "href": "https://www.whosdatedwho.com/dating/aubrey-o-day",
+            "relationship_type": 2,
+            "start_date": "Aug 2007",
+            "end_date": "Feb 2008",
+            "length": "6 months",
+            "start_months_since_1900": 1291,
+            "end_months_since_1900": 1297,
+            "length_in_months": 6
+        },
+        {
+            "name": "Kim Kardashian",
+            "href": "https://www.whosdatedwho.com/dating/kim-kardashian",
+            "relationship_type": 3,
+            "start_date": "May 2007",
+            "end_date": "Jun 2007",
+            "length": "1 month",
+            "start_months_since_1900": 1288,
+            "end_months_since_1900": 1289,
+            "length_in_months": 1
+        }
+    ],
+    "details": {
+        "First Name": "Evan",
+        "Middle Name": "Olav",
+        "Last Name": "Ross",
+        "Maiden Name": "NA",
+        "Full Name at Birth": "Evan Olav Naess",
+        "Alternative Name": "Evan Olav Ross",
+        "Birthday": "1988",
+        "Birthplace": "USA",
+        "Height": "185",
+        "Weight": "159lbs (72 kg)",
+        "Zodiac Sign": "11",
+        "Sexuality": "Straight",
+        "Religion": "18",
+        "Ethnicity": "8",
+        "Nationality": "91",
+        "Occupation": "8"
+    }
+}

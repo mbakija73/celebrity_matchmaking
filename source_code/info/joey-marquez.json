@@ -1,0 +1,66 @@
+{
+    "relationships": [
+        {
+            "name": "Jean Garcia",
+            "href": "https://www.whosdatedwho.com/dating/jean-garcia",
+            "relationship_type": 3,
+            "start_date": "2006",
+            "end_date": "2006",
+            "length": "-",
+            "start_months_since_1900": 1272,
+            "end_months_since_1900": 1272,
+            "length_in_months": -1
+        },
+        {
+            "name": "Alicia Mayer",
+            "href": "https://www.whosdatedwho.com/dating/alicia-mayer",
+            "relationship_type": 2,
+            "start_date": "2005",
+            "end_date": "2006",
+            "length": "1 year",
+            "start_months_since_1900": 1260,
+            "end_months_since_1900": 1272,
+            "length_in_months": 12
+        },
+        {
+            "name": "Kris Aquino",
+            "href": "https://www.whosdatedwho.com/dating/kris-aquino",
+            "relationship_type": 2,
+            "start_date": "2003",
+            "end_date": "2003",
+            "length": "-",
+            "start_months_since_1900": 1236,
+            "end_months_since_1900": 1236,
+            "length_in_months": -1
+        },
+        {
+            "name": "Alma Moreno",
+            "href": "https://www.whosdatedwho.com/dating/alma-moreno",
+            "relationship_type": 4,
+            "start_date": "1990",
+            "end_date": "2002",
+            "length": "12 years",
+            "start_months_since_1900": 1080,
+            "end_months_since_1900": 1224,
+            "length_in_months": 144
+        }
+    ],
+    "details": {
+        "First Name": "Joey",
+        "Middle Name": "NA",
+        "Last Name": "Marquez",
+        "Maiden Name": "NA",
+        "Full Name at Birth": "Mayor Joey Marquez",
+        "Alternative Name": "Tsong, Joey, Mayor Joey",
+        "Birthday": "1957",
+        "Birthplace": "Philippines",
+        "Height": "188",
+        "Weight": "NA",
+        "Zodiac Sign": "10",
+        "Sexuality": "Straight",
+        "Religion": "13",
+        "Ethnicity": "8",
+        "Nationality": "16",
+        "Occupation": "8"
+    }
+}

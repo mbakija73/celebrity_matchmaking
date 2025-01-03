@@ -1,0 +1,55 @@
+{
+    "relationships": [
+        {
+            "name": "LeVar Burton",
+            "href": "https://www.whosdatedwho.com/dating/levar-burton",
+            "relationship_type": 2,
+            "start_date": "Feb 1980",
+            "end_date": "May 1980",
+            "length": "3 months",
+            "start_months_since_1900": 961,
+            "end_months_since_1900": 964,
+            "length_in_months": 3
+        },
+        {
+            "name": "Ray Buktenica",
+            "href": "https://www.whosdatedwho.com/dating/ray-buktenica",
+            "relationship_type": 2,
+            "start_date": "",
+            "end_date": "",
+            "length": "-",
+            "start_months_since_1900": -1,
+            "end_months_since_1900": -1,
+            "length_in_months": -1
+        },
+        {
+            "name": "Randolph Mantooth",
+            "href": "https://www.whosdatedwho.com/dating/randolph-mantooth",
+            "relationship_type": 2,
+            "start_date": "",
+            "end_date": "",
+            "length": "-",
+            "start_months_since_1900": -1,
+            "end_months_since_1900": -1,
+            "length_in_months": -1
+        }
+    ],
+    "details": {
+        "First Name": "Joyce",
+        "Middle Name": "Anne",
+        "Last Name": "Dewitt",
+        "Maiden Name": "NA",
+        "Full Name at Birth": "Joyce Anne DeWitt",
+        "Alternative Name": "Joycey, First Lady of the Dinner Theatre, Joyce Anne DeWitt, Joyce DeWitt",
+        "Birthday": "1949",
+        "Birthplace": "USA",
+        "Height": "161",
+        "Weight": "121lbs (55 kg)",
+        "Zodiac Sign": "3",
+        "Sexuality": "Straight",
+        "Religion": "18",
+        "Ethnicity": "6",
+        "Nationality": "91",
+        "Occupation": "8"
+    }
+}

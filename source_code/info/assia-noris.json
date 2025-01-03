@@ -1,0 +1,66 @@
+{
+    "relationships": [
+        {
+            "name": "Mario Camerini",
+            "href": "https://www.whosdatedwho.com/dating/mario-camerini",
+            "relationship_type": 4,
+            "start_date": "1940",
+            "end_date": "1943",
+            "length": "3 years",
+            "start_months_since_1900": 480,
+            "end_months_since_1900": 516,
+            "length_in_months": 36
+        },
+        {
+            "name": "Roberto Rossellini",
+            "href": "https://www.whosdatedwho.com/dating/roberto-rossellini",
+            "relationship_type": 4,
+            "start_date": "1934",
+            "end_date": "1936",
+            "length": "2 years",
+            "start_months_since_1900": 408,
+            "end_months_since_1900": 432,
+            "length_in_months": 24
+        },
+        {
+            "name": "Jacob Pelster",
+            "href": "https://www.whosdatedwho.com/dating/jacob-pelster",
+            "relationship_type": 4,
+            "start_date": "",
+            "end_date": "",
+            "length": "-",
+            "start_months_since_1900": -1,
+            "end_months_since_1900": -1,
+            "length_in_months": -1
+        },
+        {
+            "name": "Tony Habib",
+            "href": "https://www.whosdatedwho.com/dating/tony-habib",
+            "relationship_type": 2,
+            "start_date": "",
+            "end_date": "",
+            "length": "-",
+            "start_months_since_1900": -1,
+            "end_months_since_1900": -1,
+            "length_in_months": -1
+        }
+    ],
+    "details": {
+        "First Name": "Assia",
+        "Middle Name": "NA",
+        "Last Name": "Noris",
+        "Maiden Name": "NA",
+        "Full Name at Birth": "Anastasia Noris von Gerzfeld",
+        "Alternative Name": "Anastasija Nikolaevna Herzfeld, \u0410\u043d\u0430\u0441\u0442\u0430\u0441\u0438\u044f \u041d\u0438\u043a\u043e\u043b\u0430\u0435\u0432\u043d\u0430 \u0444\u043e\u043d \u0413\u0435\u0440\u0446\u0444\u0435\u043b\u044c\u0434",
+        "Birthday": "1912",
+        "Birthplace": "Russia",
+        "Height": "NA",
+        "Weight": "NA",
+        "Zodiac Sign": "9",
+        "Sexuality": "NA",
+        "Religion": "1",
+        "Ethnicity": "6",
+        "Nationality": "9",
+        "Occupation": "8"
+    }
+}

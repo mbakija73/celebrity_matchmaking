@@ -1,0 +1,33 @@
+{
+    "relationships": [
+        {
+            "name": "Q-Tip",
+            "href": "https://www.whosdatedwho.com/dating/q-tip",
+            "relationship_type": 4,
+            "start_date": "1989",
+            "end_date": "present",
+            "length": "35 years",
+            "start_months_since_1900": 1068,
+            "end_months_since_1900": -1,
+            "length_in_months": 420
+        }
+    ],
+    "details": {
+        "First Name": "Michele",
+        "Middle Name": "NA",
+        "Last Name": "Daves",
+        "Maiden Name": "NA",
+        "Full Name at Birth": "NA",
+        "Alternative Name": "NA",
+        "Birthday": "1961",
+        "Birthplace": "NA",
+        "Height": "NA",
+        "Weight": "NA",
+        "Zodiac Sign": "10",
+        "Sexuality": "NA",
+        "Religion": "1",
+        "Ethnicity": "1",
+        "Nationality": "65",
+        "Occupation": "8"
+    }
+}

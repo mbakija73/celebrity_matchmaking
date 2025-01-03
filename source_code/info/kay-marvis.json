@@ -1,0 +1,44 @@
+{
+    "relationships": [
+        {
+            "name": "Groucho Marx",
+            "href": "https://www.whosdatedwho.com/dating/groucho-marx",
+            "relationship_type": 4,
+            "start_date": "Feb 1944",
+            "end_date": "May 1951",
+            "length": "7 years",
+            "start_months_since_1900": 529,
+            "end_months_since_1900": 616,
+            "length_in_months": 84
+        },
+        {
+            "name": "Leo Gorcey",
+            "href": "https://www.whosdatedwho.com/dating/leo-gorcey",
+            "relationship_type": 4,
+            "start_date": "May 1938",
+            "end_date": "1944",
+            "length": "5 years",
+            "start_months_since_1900": 460,
+            "end_months_since_1900": 528,
+            "length_in_months": 60
+        }
+    ],
+    "details": {
+        "First Name": "Kay",
+        "Middle Name": "NA",
+        "Last Name": "Marvis",
+        "Maiden Name": "NA",
+        "Full Name at Birth": "Kay Marvis Gorcey",
+        "Alternative Name": "NA",
+        "Birthday": "1923",
+        "Birthplace": "NA",
+        "Height": "NA",
+        "Weight": "NA",
+        "Zodiac Sign": "11",
+        "Sexuality": "NA",
+        "Religion": "1",
+        "Ethnicity": "6",
+        "Nationality": "65",
+        "Occupation": "14"
+    }
+}

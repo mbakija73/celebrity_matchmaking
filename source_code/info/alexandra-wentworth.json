@@ -1,0 +1,33 @@
+{
+    "relationships": [
+        {
+            "name": "George Stephanopoulos",
+            "href": "https://www.whosdatedwho.com/dating/george-stephanopoulos",
+            "relationship_type": 4,
+            "start_date": "Apr 2001",
+            "end_date": "present",
+            "length": "23 years",
+            "start_months_since_1900": 1215,
+            "end_months_since_1900": -1,
+            "length_in_months": 276
+        }
+    ],
+    "details": {
+        "First Name": "Alexandra",
+        "Middle Name": "Elliott",
+        "Last Name": "Stephanopoulos",
+        "Maiden Name": "Wentworth",
+        "Full Name at Birth": "Alexandra Elliott Wentworth",
+        "Alternative Name": "Ali, Ali Wentworth, Alexandra Wentworth, Alexandra Elliott Wentworth",
+        "Birthday": "1965",
+        "Birthplace": "USA",
+        "Height": "170",
+        "Weight": "NA",
+        "Zodiac Sign": "13",
+        "Sexuality": "Straight",
+        "Religion": "1",
+        "Ethnicity": "6",
+        "Nationality": "91",
+        "Occupation": "8"
+    }
+}

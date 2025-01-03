@@ -1,0 +1,44 @@
+{
+    "relationships": [
+        {
+            "name": "Miller McCormick",
+            "href": "https://www.whosdatedwho.com/dating/miller-mccormick",
+            "relationship_type": 2,
+            "start_date": "Feb 2021",
+            "end_date": "present",
+            "length": "3 years",
+            "start_months_since_1900": 1453,
+            "end_months_since_1900": -1,
+            "length_in_months": 36
+        },
+        {
+            "name": "Pete Davidson",
+            "href": "https://www.whosdatedwho.com/dating/pete-davidson-comedian",
+            "relationship_type": 2,
+            "start_date": "Apr 2016",
+            "end_date": "May 2018",
+            "length": "2 years",
+            "start_months_since_1900": 1395,
+            "end_months_since_1900": 1420,
+            "length_in_months": 24
+        }
+    ],
+    "details": {
+        "First Name": "Cazzie",
+        "Middle Name": "Laurel",
+        "Last Name": "David",
+        "Maiden Name": "NA",
+        "Full Name at Birth": "Cazzie Laurel David",
+        "Alternative Name": "Cazzie David, Cazzie",
+        "Birthday": "1994",
+        "Birthplace": "USA",
+        "Height": "168",
+        "Weight": "114lbs (52 kg)",
+        "Zodiac Sign": "3",
+        "Sexuality": "Straight",
+        "Religion": "1",
+        "Ethnicity": "6",
+        "Nationality": "91",
+        "Occupation": "8"
+    }
+}

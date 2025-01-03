@@ -1,0 +1,66 @@
+{
+    "relationships": [
+        {
+            "name": "London On Da Track",
+            "href": "https://www.whosdatedwho.com/dating/london-on-da-track",
+            "relationship_type": 2,
+            "start_date": "Jan 2022",
+            "end_date": "present",
+            "length": "2 years",
+            "start_months_since_1900": 1464,
+            "end_months_since_1900": -1,
+            "length_in_months": 24
+        },
+        {
+            "name": "Tarik \"Rvssian\" Johnston",
+            "href": "https://www.whosdatedwho.com/dating/tarik-rvssian-johnston",
+            "relationship_type": 2,
+            "start_date": "Mar 2019",
+            "end_date": "",
+            "length": "-",
+            "start_months_since_1900": 1430,
+            "end_months_since_1900": -1,
+            "length_in_months": -1
+        },
+        {
+            "name": "Leon Bailey",
+            "href": "https://www.whosdatedwho.com/dating/leon-bailey",
+            "relationship_type": 3,
+            "start_date": "Jan 2019",
+            "end_date": "Jan 2019",
+            "length": "-",
+            "start_months_since_1900": 1428,
+            "end_months_since_1900": 1428,
+            "length_in_months": -1
+        },
+        {
+            "name": "Romeich",
+            "href": "https://www.whosdatedwho.com/dating/romeich",
+            "relationship_type": 2,
+            "start_date": "Nov 2017",
+            "end_date": "Sep 2018",
+            "length": "10 months",
+            "start_months_since_1900": 1414,
+            "end_months_since_1900": 1424,
+            "length_in_months": 10
+        }
+    ],
+    "details": {
+        "First Name": "Shenseea",
+        "Middle Name": "NA",
+        "Last Name": "NA",
+        "Maiden Name": "NA",
+        "Full Name at Birth": "Chinsea Linda Lee",
+        "Alternative Name": "Shenseea",
+        "Birthday": "1996",
+        "Birthplace": "Jamaica",
+        "Height": "170",
+        "Weight": "146lbs (66 kg)",
+        "Zodiac Sign": "10",
+        "Sexuality": "Straight",
+        "Religion": "18",
+        "Ethnicity": "8",
+        "Nationality": "62",
+        "Occupation": "1"
+    }
+}

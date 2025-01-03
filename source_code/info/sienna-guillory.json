@@ -1,0 +1,44 @@
+{
+    "relationships": [
+        {
+            "name": "Enzo Cilenti",
+            "href": "https://www.whosdatedwho.com/dating/enzo-cilenti",
+            "relationship_type": 4,
+            "start_date": "2000",
+            "end_date": "present",
+            "length": "24 years",
+            "start_months_since_1900": 1200,
+            "end_months_since_1900": -1,
+            "length_in_months": 288
+        },
+        {
+            "name": "Nick Moran",
+            "href": "https://www.whosdatedwho.com/dating/nick-moran",
+            "relationship_type": 4,
+            "start_date": "1996",
+            "end_date": "2000",
+            "length": "4 years",
+            "start_months_since_1900": 1152,
+            "end_months_since_1900": 1200,
+            "length_in_months": 48
+        }
+    ],
+    "details": {
+        "First Name": "Sienna",
+        "Middle Name": "Tiggy",
+        "Last Name": "NA",
+        "Maiden Name": "Guillory",
+        "Full Name at Birth": "Sienna Tiggy Guillory",
+        "Alternative Name": "NA",
+        "Birthday": "1975",
+        "Birthplace": "UK",
+        "Height": "168",
+        "Weight": "105lbs (48 kg)",
+        "Zodiac Sign": "1",
+        "Sexuality": "Straight",
+        "Religion": "18",
+        "Ethnicity": "6",
+        "Nationality": "8",
+        "Occupation": "8"
+    }
+}

@@ -1,0 +1,44 @@
+{
+    "relationships": [
+        {
+            "name": "Carolina Papaleo",
+            "href": "https://www.whosdatedwho.com/dating/carolina-papaleo",
+            "relationship_type": 2,
+            "start_date": "1996",
+            "end_date": "1997",
+            "length": "1 year",
+            "start_months_since_1900": 1152,
+            "end_months_since_1900": 1164,
+            "length_in_months": 12
+        },
+        {
+            "name": "Patricia Echegoyen",
+            "href": "https://www.whosdatedwho.com/dating/patricia-echegoyen",
+            "relationship_type": 2,
+            "start_date": "1994",
+            "end_date": "1996",
+            "length": "2 years",
+            "start_months_since_1900": 1128,
+            "end_months_since_1900": 1152,
+            "length_in_months": 24
+        }
+    ],
+    "details": {
+        "First Name": "Jean",
+        "Middle Name": "Pierre",
+        "Last Name": "Noher",
+        "Maiden Name": "NA",
+        "Full Name at Birth": "NA",
+        "Alternative Name": "NA",
+        "Birthday": "1956",
+        "Birthplace": "France",
+        "Height": "NA",
+        "Weight": "NA",
+        "Zodiac Sign": "3",
+        "Sexuality": "Straight",
+        "Religion": "1",
+        "Ethnicity": "6",
+        "Nationality": "86",
+        "Occupation": "8"
+    }
+}

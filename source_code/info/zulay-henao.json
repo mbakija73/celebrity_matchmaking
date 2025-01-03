@@ -1,0 +1,55 @@
+{
+    "relationships": [
+        {
+            "name": "Kevin Connolly",
+            "href": "https://www.whosdatedwho.com/dating/kevin-connolly",
+            "relationship_type": 2,
+            "start_date": "2019",
+            "end_date": "present",
+            "length": "5 years",
+            "start_months_since_1900": 1428,
+            "end_months_since_1900": -1,
+            "length_in_months": 60
+        },
+        {
+            "name": "Joel Rush",
+            "href": "https://www.whosdatedwho.com/dating/joel-rush",
+            "relationship_type": 2,
+            "start_date": "Oct 2014",
+            "end_date": "2017",
+            "length": "2 years",
+            "start_months_since_1900": 1377,
+            "end_months_since_1900": 1404,
+            "length_in_months": 24
+        },
+        {
+            "name": "Terrence Howard",
+            "href": "https://www.whosdatedwho.com/dating/terrence-howard",
+            "relationship_type": 2,
+            "start_date": "2008",
+            "end_date": "2010",
+            "length": "2 years",
+            "start_months_since_1900": 1296,
+            "end_months_since_1900": 1320,
+            "length_in_months": 24
+        }
+    ],
+    "details": {
+        "First Name": "Zulay",
+        "Middle Name": "NA",
+        "Last Name": "NA",
+        "Maiden Name": "Henao",
+        "Full Name at Birth": "Zulay Henao",
+        "Alternative Name": "NA",
+        "Birthday": "1979",
+        "Birthplace": "Colombia",
+        "Height": "165",
+        "Weight": "110lbs (50 kg)",
+        "Zodiac Sign": "7",
+        "Sexuality": "Straight",
+        "Religion": "1",
+        "Ethnicity": "8",
+        "Nationality": "91",
+        "Occupation": "8"
+    }
+}

@@ -1,0 +1,99 @@
+{
+    "relationships": [
+        {
+            "name": "Angie Dickinson",
+            "href": "https://www.whosdatedwho.com/dating/angie-dickinson",
+            "relationship_type": 2,
+            "start_date": "Jul 1962",
+            "end_date": "Aug 1962",
+            "length": "1 month",
+            "start_months_since_1900": 750,
+            "end_months_since_1900": 751,
+            "length_in_months": 1
+        },
+        {
+            "name": "Wanda Hendrix",
+            "href": "https://www.whosdatedwho.com/dating/wanda-hendrix",
+            "relationship_type": 2,
+            "start_date": "Oct 1959",
+            "end_date": "Jan 1961",
+            "length": "1 year",
+            "start_months_since_1900": 717,
+            "end_months_since_1900": 732,
+            "length_in_months": 12
+        },
+        {
+            "name": "Jarma Lewis",
+            "href": "https://www.whosdatedwho.com/dating/jarma-lewis",
+            "relationship_type": 3,
+            "start_date": "Oct 1955",
+            "end_date": "Oct 1955",
+            "length": "-",
+            "start_months_since_1900": 669,
+            "end_months_since_1900": 669,
+            "length_in_months": -1
+        },
+        {
+            "name": "Elaine Stewart",
+            "href": "https://www.whosdatedwho.com/dating/elaine-stewart",
+            "relationship_type": 3,
+            "start_date": "Jul 1953",
+            "end_date": "Sep 1953",
+            "length": "2 months",
+            "start_months_since_1900": 642,
+            "end_months_since_1900": 644,
+            "length_in_months": 2
+        },
+        {
+            "name": "Susan Cabot",
+            "href": "https://www.whosdatedwho.com/dating/susan-cabot",
+            "relationship_type": 2,
+            "start_date": "17th Oct 1952",
+            "end_date": "Nov 1952",
+            "length": "< 1 month",
+            "start_months_since_1900": 633,
+            "end_months_since_1900": 634,
+            "length_in_months": 0
+        },
+        {
+            "name": "Jane Nigh",
+            "href": "https://www.whosdatedwho.com/dating/jane-nigh",
+            "relationship_type": 2,
+            "start_date": "Jun 1950",
+            "end_date": "Jun 1950",
+            "length": "-",
+            "start_months_since_1900": 605,
+            "end_months_since_1900": 605,
+            "length_in_months": -1
+        },
+        {
+            "name": "Mamie Van Doren",
+            "href": "https://www.whosdatedwho.com/dating/mamie-van-doren",
+            "relationship_type": 2,
+            "start_date": "",
+            "end_date": "",
+            "length": "-",
+            "start_months_since_1900": -1,
+            "end_months_since_1900": -1,
+            "length_in_months": -1
+        }
+    ],
+    "details": {
+        "First Name": "Johnny",
+        "Middle Name": "NA",
+        "Last Name": "Grant",
+        "Maiden Name": "NA",
+        "Full Name at Birth": "Johnny Grant",
+        "Alternative Name": "NA",
+        "Birthday": "1923",
+        "Birthplace": "",
+        "Height": "157",
+        "Weight": "NA",
+        "Zodiac Sign": "3",
+        "Sexuality": "Straight",
+        "Religion": "13",
+        "Ethnicity": "6",
+        "Nationality": "91",
+        "Occupation": "16"
+    }
+}

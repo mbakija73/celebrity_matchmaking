@@ -1,0 +1,55 @@
+{
+    "relationships": [
+        {
+            "name": "Carmelo Anthony",
+            "href": "https://www.whosdatedwho.com/dating/carmelo-anthony",
+            "relationship_type": 3,
+            "start_date": "Jun 2016",
+            "end_date": "Dec 2016",
+            "length": "6 months",
+            "start_months_since_1900": 1397,
+            "end_months_since_1900": 1403,
+            "length_in_months": 6
+        },
+        {
+            "name": "Ryan Henry",
+            "href": "https://www.whosdatedwho.com/dating/ryan-henry",
+            "relationship_type": 2,
+            "start_date": "",
+            "end_date": "",
+            "length": "-",
+            "start_months_since_1900": -1,
+            "end_months_since_1900": -1,
+            "length_in_months": -1
+        },
+        {
+            "name": "Lil Durk",
+            "href": "https://www.whosdatedwho.com/dating/lil-durk",
+            "relationship_type": 1,
+            "start_date": "",
+            "end_date": "",
+            "length": "-",
+            "start_months_since_1900": -1,
+            "end_months_since_1900": -1,
+            "length_in_months": -1
+        }
+    ],
+    "details": {
+        "Full Name at Birth": "Mia Angel Burks",
+        "First Name": "NA",
+        "Middle Name": "NA",
+        "Last Name": "NA",
+        "Maiden Name": "NA",
+        "Alternative Name": "NA",
+        "Birthday": "NA",
+        "Birthplace": "NA",
+        "Height": "NA",
+        "Weight": "NA",
+        "Zodiac Sign": "2",
+        "Sexuality": "NA",
+        "Religion": "1",
+        "Ethnicity": "1",
+        "Nationality": "91",
+        "Occupation": "18"
+    }
+}

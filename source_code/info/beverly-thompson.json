@@ -1,0 +1,55 @@
+{
+    "relationships": [
+        {
+            "name": "Jon Hall",
+            "href": "https://www.whosdatedwho.com/dating/jon-hall",
+            "relationship_type": 3,
+            "start_date": "Dec 1958",
+            "end_date": "Dec 1958",
+            "length": "-",
+            "start_months_since_1900": 707,
+            "end_months_since_1900": 707,
+            "length_in_months": -1
+        },
+        {
+            "name": "Richard Greene",
+            "href": "https://www.whosdatedwho.com/dating/richard-greene",
+            "relationship_type": 2,
+            "start_date": "Aug 1952",
+            "end_date": "Aug 1952",
+            "length": "-",
+            "start_months_since_1900": 631,
+            "end_months_since_1900": 631,
+            "length_in_months": -1
+        },
+        {
+            "name": "Dean Jagger",
+            "href": "https://www.whosdatedwho.com/dating/dean-jagger",
+            "relationship_type": 3,
+            "start_date": "Jan 1946",
+            "end_date": "Feb 1946",
+            "length": "1 month",
+            "start_months_since_1900": 552,
+            "end_months_since_1900": 553,
+            "length_in_months": 1
+        }
+    ],
+    "details": {
+        "First Name": "Beverly",
+        "Middle Name": "NA",
+        "Last Name": "Thompson",
+        "Maiden Name": "NA",
+        "Full Name at Birth": "Beverly E. Thompson",
+        "Alternative Name": "NA",
+        "Birthday": "1925",
+        "Birthplace": "USA",
+        "Height": "NA",
+        "Weight": "NA",
+        "Zodiac Sign": "4",
+        "Sexuality": "Straight",
+        "Religion": "1",
+        "Ethnicity": "6",
+        "Nationality": "91",
+        "Occupation": "8"
+    }
+}

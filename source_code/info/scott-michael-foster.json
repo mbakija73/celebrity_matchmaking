@@ -1,0 +1,55 @@
+{
+    "relationships": [
+        {
+            "name": "Laura Prepon",
+            "href": "https://www.whosdatedwho.com/dating/laura-prepon",
+            "relationship_type": 2,
+            "start_date": "Oct 2008",
+            "end_date": "Nov 2013",
+            "length": "5 years",
+            "start_months_since_1900": 1305,
+            "end_months_since_1900": 1366,
+            "length_in_months": 60
+        },
+        {
+            "name": "Spencer Grammer",
+            "href": "https://www.whosdatedwho.com/dating/spencer-grammer",
+            "relationship_type": 2,
+            "start_date": "2007",
+            "end_date": "2008",
+            "length": "1 year",
+            "start_months_since_1900": 1284,
+            "end_months_since_1900": 1296,
+            "length_in_months": 12
+        },
+        {
+            "name": "Jessy Schram",
+            "href": "https://www.whosdatedwho.com/dating/jessy-schram",
+            "relationship_type": 1,
+            "start_date": "",
+            "end_date": "",
+            "length": "-",
+            "start_months_since_1900": -1,
+            "end_months_since_1900": -1,
+            "length_in_months": -1
+        }
+    ],
+    "details": {
+        "First Name": "Scott",
+        "Middle Name": "Michael",
+        "Last Name": "Foster",
+        "Maiden Name": "NA",
+        "Full Name at Birth": "Scott Michael Foster",
+        "Alternative Name": "Scott Foster, Scott M. Foster",
+        "Birthday": "1985",
+        "Birthplace": "USA",
+        "Height": "188",
+        "Weight": "176lbs (80 kg)",
+        "Zodiac Sign": "1",
+        "Sexuality": "Straight",
+        "Religion": "18",
+        "Ethnicity": "6",
+        "Nationality": "91",
+        "Occupation": "8"
+    }
+}

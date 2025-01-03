@@ -1,0 +1,77 @@
+{
+    "relationships": [
+        {
+            "name": "Mark Hildebrandt",
+            "href": "https://www.whosdatedwho.com/dating/mark-hildebrandt",
+            "relationship_type": 2,
+            "start_date": "2008",
+            "end_date": "2008",
+            "length": "-",
+            "start_months_since_1900": 1296,
+            "end_months_since_1900": 1296,
+            "length_in_months": -1
+        },
+        {
+            "name": "Matthew McConaughey",
+            "href": "https://www.whosdatedwho.com/dating/matthew-mcconaughey",
+            "relationship_type": 2,
+            "start_date": "May 2007",
+            "end_date": "Jun 2007",
+            "length": "1 month",
+            "start_months_since_1900": 1288,
+            "end_months_since_1900": 1289,
+            "length_in_months": 1
+        },
+        {
+            "name": "Gerard Butler",
+            "href": "https://www.whosdatedwho.com/dating/gerard-butler",
+            "relationship_type": 3,
+            "start_date": "Jun 2005",
+            "end_date": "Jun 2005",
+            "length": "-",
+            "start_months_since_1900": 1265,
+            "end_months_since_1900": 1265,
+            "length_in_months": -1
+        },
+        {
+            "name": "Boris Becker",
+            "href": "https://www.whosdatedwho.com/dating/boris-becker",
+            "relationship_type": 2,
+            "start_date": "Feb 1990",
+            "end_date": "1993",
+            "length": "2 years",
+            "start_months_since_1900": 1081,
+            "end_months_since_1900": 1116,
+            "length_in_months": 24
+        },
+        {
+            "name": "Slade Smiley",
+            "href": "https://www.whosdatedwho.com/dating/slade-smiley",
+            "relationship_type": 2,
+            "start_date": "",
+            "end_date": "",
+            "length": "-",
+            "start_months_since_1900": -1,
+            "end_months_since_1900": -1,
+            "length_in_months": -1
+        }
+    ],
+    "details": {
+        "First Name": "Cassandra",
+        "Middle Name": "NA",
+        "Last Name": "NA",
+        "Maiden Name": "Hepburn",
+        "Full Name at Birth": "Cassandra Hepburn",
+        "Alternative Name": "NA",
+        "Birthday": "1977",
+        "Birthplace": "Philippines",
+        "Height": "174",
+        "Weight": "NA",
+        "Zodiac Sign": "7",
+        "Sexuality": "Straight",
+        "Religion": "5",
+        "Ethnicity": "8",
+        "Nationality": "91",
+        "Occupation": "8"
+    }
+}

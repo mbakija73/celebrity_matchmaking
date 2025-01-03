@@ -1,0 +1,121 @@
+{
+    "relationships": [
+        {
+            "name": "Amy Jackson",
+            "href": "https://www.whosdatedwho.com/dating/amy-jackson",
+            "relationship_type": 4,
+            "start_date": "Dec 2021",
+            "end_date": "present",
+            "length": "2 years",
+            "start_months_since_1900": 1463,
+            "end_months_since_1900": -1,
+            "length_in_months": 24
+        },
+        {
+            "name": "Tamara Francesconi",
+            "href": "https://www.whosdatedwho.com/dating/tamara-francesconi",
+            "relationship_type": 2,
+            "start_date": "Oct 2019",
+            "end_date": "Sep 2021",
+            "length": "1 year",
+            "start_months_since_1900": 1437,
+            "end_months_since_1900": 1460,
+            "length_in_months": 12
+        },
+        {
+            "name": "Jessica Serfaty",
+            "href": "https://www.whosdatedwho.com/dating/jessica-serfaty",
+            "relationship_type": 2,
+            "start_date": "May 2017",
+            "end_date": "Sep 2018",
+            "length": "1 year",
+            "start_months_since_1900": 1408,
+            "end_months_since_1900": 1424,
+            "length_in_months": 12
+        },
+        {
+            "name": "Phoebe Tonkin",
+            "href": "https://www.whosdatedwho.com/dating/phoebe-tonkin",
+            "relationship_type": 2,
+            "start_date": "Jan 2011",
+            "end_date": "Mar 2011",
+            "length": "1 month",
+            "start_months_since_1900": 1332,
+            "end_months_since_1900": 1334,
+            "length_in_months": 1
+        },
+        {
+            "name": "Jessica Szohr",
+            "href": "https://www.whosdatedwho.com/dating/jessica-szohr",
+            "relationship_type": 2,
+            "start_date": "Dec 2008",
+            "end_date": "Aug 2010",
+            "length": "1 year",
+            "start_months_since_1900": 1307,
+            "end_months_since_1900": 1327,
+            "length_in_months": 12
+        },
+        {
+            "name": "Drew Barrymore",
+            "href": "https://www.whosdatedwho.com/dating/drew-barrymore",
+            "relationship_type": 3,
+            "start_date": "Sep 2008",
+            "end_date": "Sep 2008",
+            "length": "-",
+            "start_months_since_1900": 1304,
+            "end_months_since_1900": 1304,
+            "length_in_months": -1
+        },
+        {
+            "name": "Alison Mosshart",
+            "href": "https://www.whosdatedwho.com/dating/alison-mosshart",
+            "relationship_type": 3,
+            "start_date": "Aug 2008",
+            "end_date": "Sep 2008",
+            "length": "1 month",
+            "start_months_since_1900": 1303,
+            "end_months_since_1900": 1304,
+            "length_in_months": 1
+        },
+        {
+            "name": "Brittany",
+            "href": "https://www.whosdatedwho.com/dating/brittany-actress",
+            "relationship_type": 1,
+            "start_date": "",
+            "end_date": "",
+            "length": "-",
+            "start_months_since_1900": -1,
+            "end_months_since_1900": -1,
+            "length_in_months": -1
+        },
+        {
+            "name": "Kristina Cohen",
+            "href": "https://www.whosdatedwho.com/dating/kristina-cohen",
+            "relationship_type": 1,
+            "start_date": "",
+            "end_date": "",
+            "length": "-",
+            "start_months_since_1900": -1,
+            "end_months_since_1900": -1,
+            "length_in_months": -1
+        }
+    ],
+    "details": {
+        "First Name": "Edward",
+        "Middle Name": "Jack",
+        "Last Name": "Westwick",
+        "Maiden Name": "NA",
+        "Full Name at Birth": "Edward Jack Westwick",
+        "Alternative Name": "Ed Westwick",
+        "Birthday": "1987",
+        "Birthplace": "England",
+        "Height": "177",
+        "Weight": "NA",
+        "Zodiac Sign": "8",
+        "Sexuality": "Straight",
+        "Religion": "18",
+        "Ethnicity": "6",
+        "Nationality": "8",
+        "Occupation": "8"
+    }
+}

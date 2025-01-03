@@ -1,0 +1,55 @@
+{
+    "relationships": [
+        {
+            "name": "Paul Salas",
+            "href": "https://www.whosdatedwho.com/dating/paul-salas",
+            "relationship_type": 2,
+            "start_date": "Nov 2021",
+            "end_date": "Nov 2021",
+            "length": "-",
+            "start_months_since_1900": 1462,
+            "end_months_since_1900": 1462,
+            "length_in_months": -1
+        },
+        {
+            "name": "Louie Pedroso",
+            "href": "https://www.whosdatedwho.com/dating/louie-pedroso",
+            "relationship_type": 2,
+            "start_date": "2014",
+            "end_date": "2017",
+            "length": "3 years",
+            "start_months_since_1900": 1368,
+            "end_months_since_1900": 1404,
+            "length_in_months": 36
+        },
+        {
+            "name": "Michelle Dee",
+            "href": "https://www.whosdatedwho.com/dating/michelle-dee",
+            "relationship_type": 1,
+            "start_date": "",
+            "end_date": "",
+            "length": "-",
+            "start_months_since_1900": -1,
+            "end_months_since_1900": -1,
+            "length_in_months": -1
+        }
+    ],
+    "details": {
+        "First Name": "Mikee",
+        "Middle Name": "NA",
+        "Last Name": "Quintos",
+        "Maiden Name": "NA",
+        "Full Name at Birth": "Mikaela Marie Javier Quintos",
+        "Alternative Name": "Mikee, Mikee Quintos",
+        "Birthday": "1997",
+        "Birthplace": "Philippines",
+        "Height": "160",
+        "Weight": "110lbs (50 kg)",
+        "Zodiac Sign": "6",
+        "Sexuality": "Straight",
+        "Religion": "13",
+        "Ethnicity": "3",
+        "Nationality": "16",
+        "Occupation": "8"
+    }
+}

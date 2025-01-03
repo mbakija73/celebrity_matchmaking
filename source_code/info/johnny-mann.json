@@ -1,0 +1,44 @@
+{
+    "relationships": [
+        {
+            "name": "Betty J. Mann",
+            "href": "https://www.whosdatedwho.com/dating/betty-j-mann",
+            "relationship_type": 4,
+            "start_date": "Aug 1982",
+            "end_date": "",
+            "length": "-",
+            "start_months_since_1900": 991,
+            "end_months_since_1900": -1,
+            "length_in_months": -1
+        },
+        {
+            "name": "Lori Nelson",
+            "href": "https://www.whosdatedwho.com/dating/lori-nelson",
+            "relationship_type": 4,
+            "start_date": "Aug 1961",
+            "end_date": "Apr 1973",
+            "length": "11 years",
+            "start_months_since_1900": 739,
+            "end_months_since_1900": 879,
+            "length_in_months": 132
+        }
+    ],
+    "details": {
+        "First Name": "Johnny",
+        "Middle Name": "NA",
+        "Last Name": "Mann",
+        "Maiden Name": "NA",
+        "Full Name at Birth": "NA",
+        "Alternative Name": "NA",
+        "Birthday": "1928",
+        "Birthplace": "Maryland",
+        "Height": "NA",
+        "Weight": "NA",
+        "Zodiac Sign": "11",
+        "Sexuality": "NA",
+        "Religion": "1",
+        "Ethnicity": "1",
+        "Nationality": "91",
+        "Occupation": "1"
+    }
+}

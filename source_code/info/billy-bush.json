@@ -1,0 +1,44 @@
+{
+    "relationships": [
+        {
+            "name": "Tinsley Mortimer",
+            "href": "https://www.whosdatedwho.com/dating/tinsley-mortimer",
+            "relationship_type": 2,
+            "start_date": "Jun 2019",
+            "end_date": "Aug 2019",
+            "length": "2 months",
+            "start_months_since_1900": 1433,
+            "end_months_since_1900": 1435,
+            "length_in_months": 2
+        },
+        {
+            "name": "Sydney Davis",
+            "href": "https://www.whosdatedwho.com/dating/sydney-davis",
+            "relationship_type": 4,
+            "start_date": "1997",
+            "end_date": "Sep 2017",
+            "length": "20 years",
+            "start_months_since_1900": 1164,
+            "end_months_since_1900": 1412,
+            "length_in_months": 240
+        }
+    ],
+    "details": {
+        "First Name": "Billy",
+        "Middle Name": "Hall",
+        "Last Name": "Bush",
+        "Maiden Name": "NA",
+        "Full Name at Birth": "William Hall Bush",
+        "Alternative Name": "Bushy",
+        "Birthday": "1971",
+        "Birthplace": "USA",
+        "Height": "175",
+        "Weight": "NA",
+        "Zodiac Sign": "10",
+        "Sexuality": "Straight",
+        "Religion": "1",
+        "Ethnicity": "6",
+        "Nationality": "91",
+        "Occupation": "11"
+    }
+}

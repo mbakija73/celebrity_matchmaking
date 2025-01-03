@@ -1,0 +1,55 @@
+{
+    "relationships": [
+        {
+            "name": "Samuel Robertson",
+            "href": "https://www.whosdatedwho.com/dating/samuel-robertson",
+            "relationship_type": 3,
+            "start_date": "2019",
+            "end_date": "2019",
+            "length": "-",
+            "start_months_since_1900": 1428,
+            "end_months_since_1900": 1428,
+            "length_in_months": -1
+        },
+        {
+            "name": "Gareth Gates",
+            "href": "https://www.whosdatedwho.com/dating/gareth-gates",
+            "relationship_type": 2,
+            "start_date": "2013",
+            "end_date": "Aug 2019",
+            "length": "6 years",
+            "start_months_since_1900": 1356,
+            "end_months_since_1900": 1435,
+            "length_in_months": 72
+        },
+        {
+            "name": "Iwan Lewis",
+            "href": "https://www.whosdatedwho.com/dating/iwan-lewis-actor",
+            "relationship_type": 4,
+            "start_date": "Oct 2022",
+            "end_date": "present",
+            "length": "2 years",
+            "start_months_since_1900": 1473,
+            "end_months_since_1900": -1,
+            "length_in_months": 24
+        }
+    ],
+    "details": {
+        "First Name": "Faye",
+        "Middle Name": "Alicia",
+        "Last Name": "Brookes",
+        "Maiden Name": "NA",
+        "Full Name at Birth": "Faye Alicia Brookes",
+        "Alternative Name": "NA",
+        "Birthday": "1987",
+        "Birthplace": "UK",
+        "Height": "163",
+        "Weight": "NA",
+        "Zodiac Sign": "11",
+        "Sexuality": "Straight",
+        "Religion": "1",
+        "Ethnicity": "6",
+        "Nationality": "8",
+        "Occupation": "8"
+    }
+}

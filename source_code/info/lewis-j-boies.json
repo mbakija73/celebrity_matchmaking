@@ -1,0 +1,33 @@
+{
+    "relationships": [
+        {
+            "name": "Hedy Lamarr",
+            "href": "https://www.whosdatedwho.com/dating/hedy-lamarr",
+            "relationship_type": 4,
+            "start_date": "Mar 1962",
+            "end_date": "Jun 1965",
+            "length": "3 years",
+            "start_months_since_1900": 746,
+            "end_months_since_1900": 785,
+            "length_in_months": 36
+        }
+    ],
+    "details": {
+        "First Name": "Lewis",
+        "Middle Name": "J.",
+        "Last Name": "Boies",
+        "Maiden Name": "NA",
+        "Full Name at Birth": "NA",
+        "Alternative Name": "NA",
+        "Birthday": "1919",
+        "Birthplace": "NA",
+        "Height": "NA",
+        "Weight": "NA",
+        "Zodiac Sign": "2",
+        "Sexuality": "Straight",
+        "Religion": "1",
+        "Ethnicity": "6",
+        "Nationality": "91",
+        "Occupation": "17"
+    }
+}

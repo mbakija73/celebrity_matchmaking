@@ -1,0 +1,77 @@
+{
+    "relationships": [
+        {
+            "name": "Nancy Valen",
+            "href": "https://www.whosdatedwho.com/dating/nancy-valen",
+            "relationship_type": 4,
+            "start_date": "1993",
+            "end_date": "present",
+            "length": "31 years",
+            "start_months_since_1900": 1116,
+            "end_months_since_1900": -1,
+            "length_in_months": 372
+        },
+        {
+            "name": "Janet Jones",
+            "href": "https://www.whosdatedwho.com/dating/janet-jones",
+            "relationship_type": 2,
+            "start_date": "1982",
+            "end_date": "1982",
+            "length": "-",
+            "start_months_since_1900": 984,
+            "end_months_since_1900": 984,
+            "length_in_months": -1
+        },
+        {
+            "name": "Catherine Bach",
+            "href": "https://www.whosdatedwho.com/dating/catherine-bach",
+            "relationship_type": 2,
+            "start_date": "Jan 1981",
+            "end_date": "Mar 1981",
+            "length": "1 month",
+            "start_months_since_1900": 972,
+            "end_months_since_1900": 974,
+            "length_in_months": 1
+        },
+        {
+            "name": "Valerie Perrine",
+            "href": "https://www.whosdatedwho.com/dating/valerie-perrine",
+            "relationship_type": 2,
+            "start_date": "1977",
+            "end_date": "1977",
+            "length": "-",
+            "start_months_since_1900": 924,
+            "end_months_since_1900": 924,
+            "length_in_months": -1
+        },
+        {
+            "name": "Ursula Andress",
+            "href": "https://www.whosdatedwho.com/dating/ursula-andress",
+            "relationship_type": 2,
+            "start_date": "",
+            "end_date": "",
+            "length": "-",
+            "start_months_since_1900": -1,
+            "end_months_since_1900": -1,
+            "length_in_months": -1
+        }
+    ],
+    "details": {
+        "First Name": "Nels",
+        "Middle Name": "NA",
+        "Last Name": "Van Patten",
+        "Maiden Name": "NA",
+        "Full Name at Birth": "Nels Van Patten",
+        "Alternative Name": "NA",
+        "Birthday": "1955",
+        "Birthplace": "NA",
+        "Height": "NA",
+        "Weight": "NA",
+        "Zodiac Sign": "13",
+        "Sexuality": "Straight",
+        "Religion": "13",
+        "Ethnicity": "6",
+        "Nationality": "91",
+        "Occupation": "8"
+    }
+}

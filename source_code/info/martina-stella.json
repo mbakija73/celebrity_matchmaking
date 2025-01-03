@@ -1,0 +1,66 @@
+{
+    "relationships": [
+        {
+            "name": "Primo Reggiani",
+            "href": "https://www.whosdatedwho.com/dating/primo-reggiani",
+            "relationship_type": 2,
+            "start_date": "2007",
+            "end_date": "2011",
+            "length": "4 years",
+            "start_months_since_1900": 1284,
+            "end_months_since_1900": 1332,
+            "length_in_months": 48
+        },
+        {
+            "name": "Lapo Elkann",
+            "href": "https://www.whosdatedwho.com/dating/lapo-elkann",
+            "relationship_type": 2,
+            "start_date": "Jul 2003",
+            "end_date": "Oct 2005",
+            "length": "2 years",
+            "start_months_since_1900": 1242,
+            "end_months_since_1900": 1269,
+            "length_in_months": 24
+        },
+        {
+            "name": "Valentino Rossi",
+            "href": "https://www.whosdatedwho.com/dating/valentino-rossi",
+            "relationship_type": 2,
+            "start_date": "Mar 2002",
+            "end_date": "Oct 2002",
+            "length": "7 months",
+            "start_months_since_1900": 1226,
+            "end_months_since_1900": 1233,
+            "length_in_months": 7
+        },
+        {
+            "name": "Cesare Cremonini",
+            "href": "https://www.whosdatedwho.com/dating/cesare-cremonini",
+            "relationship_type": 3,
+            "start_date": "2002",
+            "end_date": "2002",
+            "length": "-",
+            "start_months_since_1900": 1224,
+            "end_months_since_1900": 1224,
+            "length_in_months": -1
+        }
+    ],
+    "details": {
+        "First Name": "Martina",
+        "Middle Name": "NA",
+        "Last Name": "Stella",
+        "Maiden Name": "NA",
+        "Full Name at Birth": "NA",
+        "Alternative Name": "NA",
+        "Birthday": "1984",
+        "Birthplace": "Italy",
+        "Height": "163",
+        "Weight": "NA",
+        "Zodiac Sign": "6",
+        "Sexuality": "Straight",
+        "Religion": "18",
+        "Ethnicity": "6",
+        "Nationality": "139",
+        "Occupation": "8"
+    }
+}

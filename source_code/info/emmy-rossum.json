@@ -1,0 +1,110 @@
+{
+    "relationships": [
+        {
+            "name": "Sam Esmail",
+            "href": "https://www.whosdatedwho.com/dating/sam-esmail",
+            "relationship_type": 4,
+            "start_date": "Oct 2013",
+            "end_date": "present",
+            "length": "11 years",
+            "start_months_since_1900": 1365,
+            "end_months_since_1900": -1,
+            "length_in_months": 132
+        },
+        {
+            "name": "Tyler Jacob Moore",
+            "href": "https://www.whosdatedwho.com/dating/tyler-jacob-moore",
+            "relationship_type": 2,
+            "start_date": "Apr 2011",
+            "end_date": "Jul 2013",
+            "length": "2 years",
+            "start_months_since_1900": 1335,
+            "end_months_since_1900": 1362,
+            "length_in_months": 24
+        },
+        {
+            "name": "Adam Duritz",
+            "href": "https://www.whosdatedwho.com/dating/adam-duritz",
+            "relationship_type": 2,
+            "start_date": "Oct 2009",
+            "end_date": "Sep 2010",
+            "length": "11 months",
+            "start_months_since_1900": 1317,
+            "end_months_since_1900": 1328,
+            "length_in_months": 11
+        },
+        {
+            "name": "Justin Siegel",
+            "href": "https://www.whosdatedwho.com/dating/justin-siegel",
+            "relationship_type": 4,
+            "start_date": "14th Mar 2007",
+            "end_date": "28th Dec 2010",
+            "length": "3 years",
+            "start_months_since_1900": 1286,
+            "end_months_since_1900": 1331,
+            "length_in_months": 36
+        },
+        {
+            "name": "Chris Evans",
+            "href": "https://www.whosdatedwho.com/dating/chris-evans",
+            "relationship_type": 3,
+            "start_date": "Mar 2007",
+            "end_date": "Mar 2007",
+            "length": "-",
+            "start_months_since_1900": 1286,
+            "end_months_since_1900": 1286,
+            "length_in_months": -1
+        },
+        {
+            "name": "Milo Ventimiglia",
+            "href": "https://www.whosdatedwho.com/dating/milo-ventimiglia",
+            "relationship_type": 3,
+            "start_date": "Feb 2007",
+            "end_date": "Feb 2007",
+            "length": "-",
+            "start_months_since_1900": 1285,
+            "end_months_since_1900": 1285,
+            "length_in_months": -1
+        },
+        {
+            "name": "Topher Grace",
+            "href": "https://www.whosdatedwho.com/dating/topher-grace",
+            "relationship_type": 2,
+            "start_date": "Aug 2005",
+            "end_date": "Feb 2007",
+            "length": "1 year",
+            "start_months_since_1900": 1267,
+            "end_months_since_1900": 1285,
+            "length_in_months": 12
+        },
+        {
+            "name": "David Wildenstein",
+            "href": "https://www.whosdatedwho.com/dating/david-wildenstein",
+            "relationship_type": 2,
+            "start_date": "Jan 2005",
+            "end_date": "Jul 2005",
+            "length": "6 months",
+            "start_months_since_1900": 1260,
+            "end_months_since_1900": 1266,
+            "length_in_months": 6
+        }
+    ],
+    "details": {
+        "First Name": "Emmanuelle",
+        "Middle Name": "Grey",
+        "Last Name": "Rossum",
+        "Maiden Name": "NA",
+        "Full Name at Birth": "Emmanuelle Grey Rossum",
+        "Alternative Name": "Em, Emmy Grey",
+        "Birthday": "1986",
+        "Birthplace": "New York",
+        "Height": "173",
+        "Weight": "120lbs (54 kg)",
+        "Zodiac Sign": "11",
+        "Sexuality": "Straight",
+        "Religion": "31",
+        "Ethnicity": "6",
+        "Nationality": "91",
+        "Occupation": "8"
+    }
+}

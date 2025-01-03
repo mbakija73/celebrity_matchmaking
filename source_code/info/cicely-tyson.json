@@ -1,0 +1,55 @@
+{
+    "relationships": [
+        {
+            "name": "Miles Davis",
+            "href": "https://www.whosdatedwho.com/dating/miles-davis",
+            "relationship_type": 4,
+            "start_date": "1970",
+            "end_date": "1988",
+            "length": "18 years",
+            "start_months_since_1900": 840,
+            "end_months_since_1900": 1056,
+            "length_in_months": 216
+        },
+        {
+            "name": "Jimmy Kind",
+            "href": "https://www.whosdatedwho.com/dating/jimmy-kind",
+            "relationship_type": 2,
+            "start_date": "Feb 1959",
+            "end_date": "Jun 1959",
+            "length": "4 months",
+            "start_months_since_1900": 709,
+            "end_months_since_1900": 713,
+            "length_in_months": 4
+        },
+        {
+            "name": "Billy Dee Williams",
+            "href": "https://www.whosdatedwho.com/dating/billy-dee-williams",
+            "relationship_type": 4,
+            "start_date": "Jun 1954",
+            "end_date": "Dec 1966",
+            "length": "12 years",
+            "start_months_since_1900": 653,
+            "end_months_since_1900": 803,
+            "length_in_months": 144
+        }
+    ],
+    "details": {
+        "First Name": "Cicely",
+        "Middle Name": "Louise",
+        "Last Name": "Tyson",
+        "Maiden Name": "NA",
+        "Full Name at Birth": "Cecily Louise Tyson",
+        "Alternative Name": "Cicely L. Tyson, Cicely Tyson, Cecily Louise Tyson, Cicely Louise Tyson, Cecily Tyson, Cecily L. Tyson",
+        "Birthday": "1924",
+        "Birthplace": "USA",
+        "Height": "161",
+        "Weight": "NA",
+        "Zodiac Sign": "6",
+        "Sexuality": "Straight",
+        "Religion": "18",
+        "Ethnicity": "2",
+        "Nationality": "91",
+        "Occupation": "8"
+    }
+}

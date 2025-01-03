@@ -1,0 +1,44 @@
+{
+    "relationships": [
+        {
+            "name": "Eiza Gonz\u00e1lez",
+            "href": "https://www.whosdatedwho.com/dating/eiza-gonzalez",
+            "relationship_type": 2,
+            "start_date": "Jul 2011",
+            "end_date": "Jun 2013",
+            "length": "1 year",
+            "start_months_since_1900": 1338,
+            "end_months_since_1900": 1361,
+            "length_in_months": 12
+        },
+        {
+            "name": "Belinda Peregr\u00edn",
+            "href": "https://www.whosdatedwho.com/dating/belinda",
+            "relationship_type": 2,
+            "start_date": "Jun 2008",
+            "end_date": "Jun 2008",
+            "length": "-",
+            "start_months_since_1900": 1301,
+            "end_months_since_1900": 1301,
+            "length_in_months": -1
+        }
+    ],
+    "details": {
+        "First Name": "Pepe",
+        "Middle Name": "NA",
+        "Last Name": "Diaz",
+        "Maiden Name": "NA",
+        "Full Name at Birth": "NA",
+        "Alternative Name": "NA",
+        "Birthday": "1975",
+        "Birthplace": "NA",
+        "Height": "180",
+        "Weight": "NA",
+        "Zodiac Sign": "3",
+        "Sexuality": "Straight",
+        "Religion": "1",
+        "Ethnicity": "6",
+        "Nationality": "87",
+        "Occupation": "7"
+    }
+}

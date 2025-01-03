@@ -1,0 +1,77 @@
+{
+    "relationships": [
+        {
+            "name": "Gloria Vanderbilt",
+            "href": "https://www.whosdatedwho.com/dating/gloria-vanderbilt",
+            "relationship_type": 2,
+            "start_date": "2000",
+            "end_date": "2000",
+            "length": "-",
+            "start_months_since_1900": 1200,
+            "end_months_since_1900": 1200,
+            "length_in_months": -1
+        },
+        {
+            "name": "Genevieve Young",
+            "href": "https://www.whosdatedwho.com/dating/genevieve-young",
+            "relationship_type": 4,
+            "start_date": "1973",
+            "end_date": "1979",
+            "length": "6 years",
+            "start_months_since_1900": 876,
+            "end_months_since_1900": 948,
+            "length_in_months": 72
+        },
+        {
+            "name": "Elizabeth Campbell",
+            "href": "https://www.whosdatedwho.com/dating/elizabeth-campbell",
+            "relationship_type": 4,
+            "start_date": "1962",
+            "end_date": "1973",
+            "length": "11 years",
+            "start_months_since_1900": 744,
+            "end_months_since_1900": 876,
+            "length_in_months": 132
+        },
+        {
+            "name": "Sally Alvis",
+            "href": "https://www.whosdatedwho.com/dating/sally-alvis",
+            "relationship_type": 4,
+            "start_date": "1933",
+            "end_date": "1961",
+            "length": "28 years",
+            "start_months_since_1900": 396,
+            "end_months_since_1900": 732,
+            "length_in_months": 336
+        },
+        {
+            "name": "Dorothy Kilgallen",
+            "href": "https://www.whosdatedwho.com/dating/dorothy-kilgallen",
+            "relationship_type": 2,
+            "start_date": "",
+            "end_date": "",
+            "length": "-",
+            "start_months_since_1900": -1,
+            "end_months_since_1900": -1,
+            "length_in_months": -1
+        }
+    ],
+    "details": {
+        "First Name": "Gordon",
+        "Middle Name": "NA",
+        "Last Name": "Parks",
+        "Maiden Name": "NA",
+        "Full Name at Birth": "Gordon Alexander Parks",
+        "Alternative Name": "NA",
+        "Birthday": "1912",
+        "Birthplace": "Kansas",
+        "Height": "NA",
+        "Weight": "NA",
+        "Zodiac Sign": "6",
+        "Sexuality": "Straight",
+        "Religion": "1",
+        "Ethnicity": "2",
+        "Nationality": "91",
+        "Occupation": "13"
+    }
+}

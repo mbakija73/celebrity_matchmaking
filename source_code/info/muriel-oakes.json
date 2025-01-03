@@ -1,0 +1,33 @@
+{
+    "relationships": [
+        {
+            "name": "Robert Ames",
+            "href": "https://www.whosdatedwho.com/dating/robert-ames",
+            "relationship_type": 4,
+            "start_date": "Jan 1926",
+            "end_date": "Nov 1930",
+            "length": "4 years",
+            "start_months_since_1900": 312,
+            "end_months_since_1900": 370,
+            "length_in_months": 48
+        }
+    ],
+    "details": {
+        "First Name": "Muriel",
+        "Middle Name": "NA",
+        "Last Name": "Oakes",
+        "Maiden Name": "NA",
+        "Full Name at Birth": "NA",
+        "Alternative Name": "NA",
+        "Birthday": "NA",
+        "Birthplace": "NA",
+        "Height": "NA",
+        "Weight": "NA",
+        "Zodiac Sign": "2",
+        "Sexuality": "NA",
+        "Religion": "1",
+        "Ethnicity": "1",
+        "Nationality": "65",
+        "Occupation": "19"
+    }
+}

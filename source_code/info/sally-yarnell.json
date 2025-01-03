@@ -1,0 +1,55 @@
+{
+    "relationships": [
+        {
+            "name": "Brad Dexter",
+            "href": "https://www.whosdatedwho.com/dating/brad-dexter",
+            "relationship_type": 2,
+            "start_date": "Aug 1955",
+            "end_date": "Sep 1955",
+            "length": "1 month",
+            "start_months_since_1900": 667,
+            "end_months_since_1900": 668,
+            "length_in_months": 1
+        },
+        {
+            "name": "Mickey Rooney",
+            "href": "https://www.whosdatedwho.com/dating/mickey-rooney",
+            "relationship_type": 3,
+            "start_date": "Aug 1943",
+            "end_date": "Aug 1943",
+            "length": "-",
+            "start_months_since_1900": 523,
+            "end_months_since_1900": 523,
+            "length_in_months": -1
+        },
+        {
+            "name": "John Howard",
+            "href": "https://www.whosdatedwho.com/dating/john-howard",
+            "relationship_type": 2,
+            "start_date": "Mar 1943",
+            "end_date": "Jun 1943",
+            "length": "3 months",
+            "start_months_since_1900": 518,
+            "end_months_since_1900": 521,
+            "length_in_months": 3
+        }
+    ],
+    "details": {
+        "First Name": "Sally",
+        "Middle Name": "NA",
+        "Last Name": "Yarnell",
+        "Maiden Name": "NA",
+        "Full Name at Birth": "Sally Yarnell",
+        "Alternative Name": "NA",
+        "Birthday": "1915",
+        "Birthplace": "New York",
+        "Height": "NA",
+        "Weight": "NA",
+        "Zodiac Sign": "3",
+        "Sexuality": "NA",
+        "Religion": "1",
+        "Ethnicity": "6",
+        "Nationality": "91",
+        "Occupation": "8"
+    }
+}

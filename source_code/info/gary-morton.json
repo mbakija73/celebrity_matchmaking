@@ -1,0 +1,55 @@
+{
+    "relationships": [
+        {
+            "name": "Lucille Ball",
+            "href": "https://www.whosdatedwho.com/dating/lucille-ball",
+            "relationship_type": 4,
+            "start_date": "19th Nov 1961",
+            "end_date": "26th Apr 1989",
+            "length": "27 years",
+            "start_months_since_1900": 742,
+            "end_months_since_1900": 1071,
+            "length_in_months": 324
+        },
+        {
+            "name": "Cleo Moore",
+            "href": "https://www.whosdatedwho.com/dating/cleo-moore",
+            "relationship_type": 2,
+            "start_date": "Feb 1957",
+            "end_date": "Mar 1957",
+            "length": "< 1 month",
+            "start_months_since_1900": 685,
+            "end_months_since_1900": 686,
+            "length_in_months": 0
+        },
+        {
+            "name": "Susan Morrow",
+            "href": "https://www.whosdatedwho.com/dating/susan-morrow",
+            "relationship_type": 4,
+            "start_date": "Dec 1952",
+            "end_date": "Jul 1957",
+            "length": "4 years",
+            "start_months_since_1900": 635,
+            "end_months_since_1900": 690,
+            "length_in_months": 48
+        }
+    ],
+    "details": {
+        "First Name": "Gary",
+        "Middle Name": "NA",
+        "Last Name": "Morton",
+        "Maiden Name": "NA",
+        "Full Name at Birth": "Morton Goldaper",
+        "Alternative Name": "NA",
+        "Birthday": "1924",
+        "Birthplace": "USA",
+        "Height": "NA",
+        "Weight": "NA",
+        "Zodiac Sign": "6",
+        "Sexuality": "Straight",
+        "Religion": "31",
+        "Ethnicity": "6",
+        "Nationality": "91",
+        "Occupation": "9"
+    }
+}

@@ -1,0 +1,88 @@
+{
+    "relationships": [
+        {
+            "name": "Stevie J",
+            "href": "https://www.whosdatedwho.com/dating/stevie-j",
+            "relationship_type": 4,
+            "start_date": "Jul 2016",
+            "end_date": "Nov 2021",
+            "length": "5 years",
+            "start_months_since_1900": 1398,
+            "end_months_since_1900": 1462,
+            "length_in_months": 60
+        },
+        {
+            "name": "Missy Elliott",
+            "href": "https://www.whosdatedwho.com/dating/missy-elliott",
+            "relationship_type": 3,
+            "start_date": "1999",
+            "end_date": "1999",
+            "length": "-",
+            "start_months_since_1900": 1188,
+            "end_months_since_1900": 1188,
+            "length_in_months": -1
+        },
+        {
+            "name": "Todd Russaw",
+            "href": "https://www.whosdatedwho.com/dating/todd-russaw",
+            "relationship_type": 4,
+            "start_date": "1997",
+            "end_date": "2011",
+            "length": "14 years",
+            "start_months_since_1900": 1164,
+            "end_months_since_1900": 1332,
+            "length_in_months": 168
+        },
+        {
+            "name": "Tupac Shakur",
+            "href": "https://www.whosdatedwho.com/dating/tupac-shakur",
+            "relationship_type": 3,
+            "start_date": "Oct 1995",
+            "end_date": "Nov 1995",
+            "length": "1 month",
+            "start_months_since_1900": 1149,
+            "end_months_since_1900": 1150,
+            "length_in_months": 1
+        },
+        {
+            "name": "The Notorious B.I.G.",
+            "href": "https://www.whosdatedwho.com/dating/the-notorious-b-i-g",
+            "relationship_type": 4,
+            "start_date": "Jul 1994",
+            "end_date": "9th Mar 1997",
+            "length": "2 years",
+            "start_months_since_1900": 1134,
+            "end_months_since_1900": 1166,
+            "length_in_months": 24
+        },
+        {
+            "name": "Kiyamma Griffin",
+            "href": "https://www.whosdatedwho.com/dating/kiyamma-griffin",
+            "relationship_type": 2,
+            "start_date": "1992",
+            "end_date": "1993",
+            "length": "1 year",
+            "start_months_since_1900": 1104,
+            "end_months_since_1900": 1116,
+            "length_in_months": 12
+        }
+    ],
+    "details": {
+        "First Name": "Faith",
+        "Middle Name": "Renee",
+        "Last Name": "Evans",
+        "Maiden Name": "NA",
+        "Full Name at Birth": "Faith Ren\u00e9e Evans",
+        "Alternative Name": "Faith Ren\u00e9e Evans, Faith Evans",
+        "Birthday": "1973",
+        "Birthplace": "USA",
+        "Height": "168",
+        "Weight": "123lbs (56 kg)",
+        "Zodiac Sign": "4",
+        "Sexuality": "Bisexual",
+        "Religion": "18",
+        "Ethnicity": "8",
+        "Nationality": "91",
+        "Occupation": "1"
+    }
+}

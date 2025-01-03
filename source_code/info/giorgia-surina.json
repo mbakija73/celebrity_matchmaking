@@ -1,0 +1,55 @@
+{
+    "relationships": [
+        {
+            "name": "Nicolas Vaporidis",
+            "href": "https://www.whosdatedwho.com/dating/nicolas-vaporidis",
+            "relationship_type": 4,
+            "start_date": "2011",
+            "end_date": "",
+            "length": "-",
+            "start_months_since_1900": 1332,
+            "end_months_since_1900": -1,
+            "length_in_months": -1
+        },
+        {
+            "name": "Tiziano Ferro",
+            "href": "https://www.whosdatedwho.com/dating/tiziano-ferro",
+            "relationship_type": 2,
+            "start_date": "2005",
+            "end_date": "2006",
+            "length": "1 year",
+            "start_months_since_1900": 1260,
+            "end_months_since_1900": 1272,
+            "length_in_months": 12
+        },
+        {
+            "name": "Daniele Liotti",
+            "href": "https://www.whosdatedwho.com/dating/daniele-liotti",
+            "relationship_type": 1,
+            "start_date": "",
+            "end_date": "",
+            "length": "-",
+            "start_months_since_1900": -1,
+            "end_months_since_1900": -1,
+            "length_in_months": -1
+        }
+    ],
+    "details": {
+        "First Name": "Giorgia",
+        "Middle Name": "NA",
+        "Last Name": "Surina",
+        "Maiden Name": "NA",
+        "Full Name at Birth": "NA",
+        "Alternative Name": "NA",
+        "Birthday": "1975",
+        "Birthplace": "Milan",
+        "Height": "170",
+        "Weight": "NA",
+        "Zodiac Sign": "1",
+        "Sexuality": "Straight",
+        "Religion": "1",
+        "Ethnicity": "6",
+        "Nationality": "139",
+        "Occupation": "1"
+    }
+}

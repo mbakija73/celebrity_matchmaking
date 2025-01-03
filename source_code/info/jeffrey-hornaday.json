@@ -1,0 +1,44 @@
+{
+    "relationships": [
+        {
+            "name": "Madonna",
+            "href": "https://www.whosdatedwho.com/dating/madonna",
+            "relationship_type": 3,
+            "start_date": "1988",
+            "end_date": "1988",
+            "length": "-",
+            "start_months_since_1900": 1056,
+            "end_months_since_1900": 1056,
+            "length_in_months": -1
+        },
+        {
+            "name": "Lesley Ann Warren",
+            "href": "https://www.whosdatedwho.com/dating/lesley-ann-warren",
+            "relationship_type": 2,
+            "start_date": "1977",
+            "end_date": "1985",
+            "length": "8 years",
+            "start_months_since_1900": 924,
+            "end_months_since_1900": 1020,
+            "length_in_months": 96
+        }
+    ],
+    "details": {
+        "First Name": "Jeffrey",
+        "Middle Name": "NA",
+        "Last Name": "Hornaday",
+        "Maiden Name": "NA",
+        "Full Name at Birth": "NA",
+        "Alternative Name": "NA",
+        "Birthday": "NA",
+        "Birthplace": "NA",
+        "Height": "NA",
+        "Weight": "NA",
+        "Zodiac Sign": "2",
+        "Sexuality": "NA",
+        "Religion": "1",
+        "Ethnicity": "1",
+        "Nationality": "65",
+        "Occupation": "19"
+    }
+}

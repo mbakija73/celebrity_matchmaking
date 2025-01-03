@@ -1,0 +1,44 @@
+{
+    "relationships": [
+        {
+            "name": "Marie de Villepin",
+            "href": "https://www.whosdatedwho.com/dating/marie-de-villepin",
+            "relationship_type": 2,
+            "start_date": "2007",
+            "end_date": "2007",
+            "length": "-",
+            "start_months_since_1900": 1284,
+            "end_months_since_1900": 1284,
+            "length_in_months": -1
+        },
+        {
+            "name": "Sylvie Bourdon",
+            "href": "https://www.whosdatedwho.com/dating/sylvie-bourdon",
+            "relationship_type": 2,
+            "start_date": "Jan 1999",
+            "end_date": "2000",
+            "length": "1 year",
+            "start_months_since_1900": 1188,
+            "end_months_since_1900": 1200,
+            "length_in_months": 12
+        }
+    ],
+    "details": {
+        "First Name": "Amelie",
+        "Middle Name": "NA",
+        "Last Name": "Mauresmo",
+        "Maiden Name": "NA",
+        "Full Name at Birth": "Am\u00e9lie Simone Mauresmo",
+        "Alternative Name": "NA",
+        "Birthday": "1979",
+        "Birthplace": "France",
+        "Height": "175",
+        "Weight": "150lbs (68 kg)",
+        "Zodiac Sign": "8",
+        "Sexuality": "Lesbian",
+        "Religion": "1",
+        "Ethnicity": "6",
+        "Nationality": "86",
+        "Occupation": "2"
+    }
+}

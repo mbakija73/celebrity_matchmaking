@@ -1,0 +1,88 @@
+{
+    "relationships": [
+        {
+            "name": "Jenn Grijalva",
+            "href": "https://www.whosdatedwho.com/dating/jenn-grijalva",
+            "relationship_type": 2,
+            "start_date": "2008",
+            "end_date": "2009",
+            "length": "1 year",
+            "start_months_since_1900": 1296,
+            "end_months_since_1900": 1308,
+            "length_in_months": 12
+        },
+        {
+            "name": "Veronica Portillo",
+            "href": "https://www.whosdatedwho.com/dating/veronica-portillo",
+            "relationship_type": 2,
+            "start_date": "2005",
+            "end_date": "2005",
+            "length": "-",
+            "start_months_since_1900": 1260,
+            "end_months_since_1900": 1260,
+            "length_in_months": -1
+        },
+        {
+            "name": "Abram Boise",
+            "href": "https://www.whosdatedwho.com/dating/abram-boise",
+            "relationship_type": 3,
+            "start_date": "2003",
+            "end_date": "2003",
+            "length": "-",
+            "start_months_since_1900": 1236,
+            "end_months_since_1900": 1236,
+            "length_in_months": -1
+        },
+        {
+            "name": "Aneesa Ferreira",
+            "href": "https://www.whosdatedwho.com/dating/aneesa-ferreira",
+            "relationship_type": 2,
+            "start_date": "2002",
+            "end_date": "2002",
+            "length": "-",
+            "start_months_since_1900": 1224,
+            "end_months_since_1900": 1224,
+            "length_in_months": -1
+        },
+        {
+            "name": "Darrell Taylor",
+            "href": "https://www.whosdatedwho.com/dating/darrell-taylor",
+            "relationship_type": 3,
+            "start_date": "",
+            "end_date": "",
+            "length": "-",
+            "start_months_since_1900": -1,
+            "end_months_since_1900": -1,
+            "length_in_months": -1
+        },
+        {
+            "name": "Amy Ashton",
+            "href": "https://www.whosdatedwho.com/dating/amy-ashton",
+            "relationship_type": 2,
+            "start_date": "",
+            "end_date": "",
+            "length": "-",
+            "start_months_since_1900": -1,
+            "end_months_since_1900": -1,
+            "length_in_months": -1
+        }
+    ],
+    "details": {
+        "First Name": "Rachel",
+        "Middle Name": "NA",
+        "Last Name": "Robinson",
+        "Maiden Name": "NA",
+        "Full Name at Birth": "Rachel Robinson",
+        "Alternative Name": "NA",
+        "Birthday": "1983",
+        "Birthplace": "USA",
+        "Height": "170",
+        "Weight": "NA",
+        "Zodiac Sign": "9",
+        "Sexuality": "Lesbian",
+        "Religion": "31",
+        "Ethnicity": "6",
+        "Nationality": "91",
+        "Occupation": "11"
+    }
+}

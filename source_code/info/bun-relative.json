@@ -1,0 +1,44 @@
+{
+    "relationships": [
+        {
+            "name": "Leah Dizon",
+            "href": "https://www.whosdatedwho.com/dating/leah-dizon",
+            "relationship_type": 4,
+            "start_date": "2008",
+            "end_date": "Oct 2010",
+            "length": "2 years",
+            "start_months_since_1900": 1296,
+            "end_months_since_1900": 1329,
+            "length_in_months": 24
+        },
+        {
+            "name": "BoA",
+            "href": "https://www.whosdatedwho.com/dating/boa",
+            "relationship_type": 2,
+            "start_date": "",
+            "end_date": "",
+            "length": "-",
+            "start_months_since_1900": -1,
+            "end_months_since_1900": -1,
+            "length_in_months": -1
+        }
+    ],
+    "details": {
+        "First Name": "Bun",
+        "Middle Name": "NA",
+        "Last Name": "NA",
+        "Maiden Name": "NA",
+        "Full Name at Birth": "NA",
+        "Alternative Name": "NA",
+        "Birthday": "1978",
+        "Birthplace": "NA",
+        "Height": "NA",
+        "Weight": "NA",
+        "Zodiac Sign": "2",
+        "Sexuality": "Straight",
+        "Religion": "1",
+        "Ethnicity": "3",
+        "Nationality": "79",
+        "Occupation": "18"
+    }
+}

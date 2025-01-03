@@ -1,0 +1,77 @@
+{
+    "relationships": [
+        {
+            "name": "Diana Balfour",
+            "href": "https://www.whosdatedwho.com/dating/diana-balfour",
+            "relationship_type": 4,
+            "start_date": "1976",
+            "end_date": "Jun 1989",
+            "length": "13 years",
+            "start_months_since_1900": 912,
+            "end_months_since_1900": 1073,
+            "length_in_months": 156
+        },
+        {
+            "name": "Fran Jeffries",
+            "href": "https://www.whosdatedwho.com/dating/fran-jeffries",
+            "relationship_type": 4,
+            "start_date": "Nov 1964",
+            "end_date": "Dec 1970",
+            "length": "6 years",
+            "start_months_since_1900": 778,
+            "end_months_since_1900": 851,
+            "length_in_months": 72
+        },
+        {
+            "name": "Kim Novak",
+            "href": "https://www.whosdatedwho.com/dating/kim-novak",
+            "relationship_type": 2,
+            "start_date": "Mar 1962",
+            "end_date": "Sep 1964",
+            "length": "2 years",
+            "start_months_since_1900": 746,
+            "end_months_since_1900": 776,
+            "length_in_months": 24
+        },
+        {
+            "name": "Barbara Bushman",
+            "href": "https://www.whosdatedwho.com/dating/barbara-bushman",
+            "relationship_type": 4,
+            "start_date": "1950",
+            "end_date": "Feb 1960",
+            "length": "10 years",
+            "start_months_since_1900": 600,
+            "end_months_since_1900": 721,
+            "length_in_months": 120
+        },
+        {
+            "name": "Susan Peters",
+            "href": "https://www.whosdatedwho.com/dating/susan-peters",
+            "relationship_type": 4,
+            "start_date": "Jul 1942",
+            "end_date": "Sep 1948",
+            "length": "6 years",
+            "start_months_since_1900": 510,
+            "end_months_since_1900": 584,
+            "length_in_months": 72
+        }
+    ],
+    "details": {
+        "First Name": "Richard",
+        "Middle Name": "NA",
+        "Last Name": "Quine",
+        "Maiden Name": "NA",
+        "Full Name at Birth": "Richard Quine",
+        "Alternative Name": "Richard Quine",
+        "Birthday": "1920",
+        "Birthplace": "Michigan USA",
+        "Height": "NA",
+        "Weight": "NA",
+        "Zodiac Sign": "5",
+        "Sexuality": "Straight",
+        "Religion": "1",
+        "Ethnicity": "6",
+        "Nationality": "91",
+        "Occupation": "8"
+    }
+}

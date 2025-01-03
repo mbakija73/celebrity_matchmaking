@@ -1,0 +1,66 @@
+{
+    "relationships": [
+        {
+            "name": "Chanelle Mauricette",
+            "href": "https://www.whosdatedwho.com/dating/chanelle-mauricette",
+            "relationship_type": 1,
+            "start_date": "2020",
+            "end_date": "2020",
+            "length": "-",
+            "start_months_since_1900": 1440,
+            "end_months_since_1900": 1440,
+            "length_in_months": -1
+        },
+        {
+            "name": "Pamela Anderson",
+            "href": "https://www.whosdatedwho.com/dating/pamela-anderson",
+            "relationship_type": 2,
+            "start_date": "Feb 2017",
+            "end_date": "Jun 2019",
+            "length": "2 years",
+            "start_months_since_1900": 1405,
+            "end_months_since_1900": 1433,
+            "length_in_months": 24
+        },
+        {
+            "name": "Sidonie Biemont",
+            "href": "https://www.whosdatedwho.com/dating/sidonie-biemont",
+            "relationship_type": 2,
+            "start_date": "2011",
+            "end_date": "Jun 2017",
+            "length": "6 years",
+            "start_months_since_1900": 1332,
+            "end_months_since_1900": 1409,
+            "length_in_months": 72
+        },
+        {
+            "name": "Chloe Sims",
+            "href": "https://www.whosdatedwho.com/dating/chloe-sims",
+            "relationship_type": 1,
+            "start_date": "",
+            "end_date": "",
+            "length": "-",
+            "start_months_since_1900": -1,
+            "end_months_since_1900": -1,
+            "length_in_months": -1
+        }
+    ],
+    "details": {
+        "First Name": "Adil",
+        "Middle Name": "NA",
+        "Last Name": "Rami",
+        "Maiden Name": "NA",
+        "Full Name at Birth": "Adil Rami",
+        "Alternative Name": "Adil Rami",
+        "Birthday": "1985",
+        "Birthplace": "France",
+        "Height": "191",
+        "Weight": "NA",
+        "Zodiac Sign": "13",
+        "Sexuality": "Straight",
+        "Religion": "1",
+        "Ethnicity": "5",
+        "Nationality": "86",
+        "Occupation": "2"
+    }
+}

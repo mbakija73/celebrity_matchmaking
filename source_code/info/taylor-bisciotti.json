@@ -1,0 +1,44 @@
+{
+    "relationships": [
+        {
+            "name": "Justin Herbert",
+            "href": "https://www.whosdatedwho.com/dating/justin-herbert",
+            "relationship_type": 1,
+            "start_date": "2021",
+            "end_date": "2021",
+            "length": "-",
+            "start_months_since_1900": 1452,
+            "end_months_since_1900": 1452,
+            "length_in_months": -1
+        },
+        {
+            "name": "Brian McFayden",
+            "href": "https://www.whosdatedwho.com/dating/brian-mcfayden",
+            "relationship_type": 2,
+            "start_date": "",
+            "end_date": "",
+            "length": "-",
+            "start_months_since_1900": -1,
+            "end_months_since_1900": -1,
+            "length_in_months": -1
+        }
+    ],
+    "details": {
+        "First Name": "Taylor",
+        "Middle Name": "NA",
+        "Last Name": "Bisciotti",
+        "Maiden Name": "NA",
+        "Full Name at Birth": "NA",
+        "Alternative Name": "NA",
+        "Birthday": "1991",
+        "Birthplace": "USA",
+        "Height": "173",
+        "Weight": "134lbs (61 kg)",
+        "Zodiac Sign": "10",
+        "Sexuality": "Straight",
+        "Religion": "1",
+        "Ethnicity": "6",
+        "Nationality": "91",
+        "Occupation": "3"
+    }
+}

@@ -1,0 +1,44 @@
+{
+    "relationships": [
+        {
+            "name": "Charlotte Tomlinson",
+            "href": "https://www.whosdatedwho.com/dating/lottie-tomlinson",
+            "relationship_type": 2,
+            "start_date": "May 2020",
+            "end_date": "present",
+            "length": "4 years",
+            "start_months_since_1900": 1444,
+            "end_months_since_1900": -1,
+            "length_in_months": 48
+        },
+        {
+            "name": "Caroline Flack",
+            "href": "https://www.whosdatedwho.com/dating/caroline-flack",
+            "relationship_type": 2,
+            "start_date": "Aug 2019",
+            "end_date": "Feb 2020",
+            "length": "6 months",
+            "start_months_since_1900": 1435,
+            "end_months_since_1900": 1441,
+            "length_in_months": 6
+        }
+    ],
+    "details": {
+        "First Name": "Lewis",
+        "Middle Name": "Steven E.",
+        "Last Name": "Burton",
+        "Maiden Name": "NA",
+        "Full Name at Birth": "Lewis Steven E. Burton",
+        "Alternative Name": "NA",
+        "Birthday": "1992",
+        "Birthplace": "UK",
+        "Height": "193",
+        "Weight": "NA",
+        "Zodiac Sign": "7",
+        "Sexuality": "NA",
+        "Religion": "1",
+        "Ethnicity": "6",
+        "Nationality": "8",
+        "Occupation": "2"
+    }
+}

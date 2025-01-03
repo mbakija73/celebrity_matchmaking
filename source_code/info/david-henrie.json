@@ -1,0 +1,55 @@
+{
+    "relationships": [
+        {
+            "name": "Maria Cahill",
+            "href": "https://www.whosdatedwho.com/dating/maria-cahill",
+            "relationship_type": 4,
+            "start_date": "2014",
+            "end_date": "present",
+            "length": "10 years",
+            "start_months_since_1900": 1368,
+            "end_months_since_1900": -1,
+            "length_in_months": 120
+        },
+        {
+            "name": "Elle McLemore",
+            "href": "https://www.whosdatedwho.com/dating/elle-mclemore",
+            "relationship_type": 2,
+            "start_date": "May 2010",
+            "end_date": "Jul 2010",
+            "length": "2 months",
+            "start_months_since_1900": 1324,
+            "end_months_since_1900": 1326,
+            "length_in_months": 2
+        },
+        {
+            "name": "Lucy Hale",
+            "href": "https://www.whosdatedwho.com/dating/lucy-hale",
+            "relationship_type": 2,
+            "start_date": "Jan 2007",
+            "end_date": "Mar 2009",
+            "length": "2 years",
+            "start_months_since_1900": 1284,
+            "end_months_since_1900": 1310,
+            "length_in_months": 24
+        }
+    ],
+    "details": {
+        "First Name": "David",
+        "Middle Name": "Clayton",
+        "Last Name": "Henrie",
+        "Maiden Name": "NA",
+        "Full Name at Birth": "David Clayton Henrie",
+        "Alternative Name": "Dave Henrie",
+        "Birthday": "1989",
+        "Birthplace": "USA",
+        "Height": "180",
+        "Weight": "154lbs (70 kg)",
+        "Zodiac Sign": "8",
+        "Sexuality": "Straight",
+        "Religion": "3",
+        "Ethnicity": "6",
+        "Nationality": "91",
+        "Occupation": "8"
+    }
+}

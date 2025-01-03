@@ -1,0 +1,66 @@
+{
+    "relationships": [
+        {
+            "name": "Joe Wade",
+            "href": "https://www.whosdatedwho.com/dating/joe-wade",
+            "relationship_type": 2,
+            "start_date": "1944",
+            "end_date": "1944",
+            "length": "-",
+            "start_months_since_1900": 528,
+            "end_months_since_1900": 528,
+            "length_in_months": -1
+        },
+        {
+            "name": "Henry Fonda",
+            "href": "https://www.whosdatedwho.com/dating/henry-fonda",
+            "relationship_type": 4,
+            "start_date": "1935",
+            "end_date": "Apr 1950",
+            "length": "15 years",
+            "start_months_since_1900": 420,
+            "end_months_since_1900": 603,
+            "length_in_months": 180
+        },
+        {
+            "name": "George Tuttle Brokaw",
+            "href": "https://www.whosdatedwho.com/dating/george-tuttle-brokaw",
+            "relationship_type": 4,
+            "start_date": "Jan 1931",
+            "end_date": "Jan 1931",
+            "length": "-",
+            "start_months_since_1900": 372,
+            "end_months_since_1900": 372,
+            "length_in_months": -1
+        },
+        {
+            "name": "George Brokaw",
+            "href": "https://www.whosdatedwho.com/dating/george-brokaw",
+            "relationship_type": 4,
+            "start_date": "1928",
+            "end_date": "1935",
+            "length": "7 years",
+            "start_months_since_1900": 336,
+            "end_months_since_1900": 420,
+            "length_in_months": 84
+        }
+    ],
+    "details": {
+        "First Name": "Frances",
+        "Middle Name": "Ford",
+        "Last Name": "Seymour",
+        "Maiden Name": "NA",
+        "Full Name at Birth": "Frances Ford Seymour",
+        "Alternative Name": "Frances Ford Seymour Fonda",
+        "Birthday": "1908",
+        "Birthplace": "Canada",
+        "Height": "NA",
+        "Weight": "NA",
+        "Zodiac Sign": "7",
+        "Sexuality": "Straight",
+        "Religion": "1",
+        "Ethnicity": "6",
+        "Nationality": "90",
+        "Occupation": "11"
+    }
+}

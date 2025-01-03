@@ -1,0 +1,55 @@
+{
+    "relationships": [
+        {
+            "name": "Maj Hagman",
+            "href": "https://www.whosdatedwho.com/dating/maj-axelsson",
+            "relationship_type": 4,
+            "start_date": "1953",
+            "end_date": "23rd Nov 2012",
+            "length": "59 years",
+            "start_months_since_1900": 636,
+            "end_months_since_1900": 1354,
+            "length_in_months": 708
+        },
+        {
+            "name": "Joan Collins",
+            "href": "https://www.whosdatedwho.com/dating/joan-collins",
+            "relationship_type": 2,
+            "start_date": "Oct 1949",
+            "end_date": "1950",
+            "length": "3 months",
+            "start_months_since_1900": 597,
+            "end_months_since_1900": 600,
+            "length_in_months": 3
+        },
+        {
+            "name": "Jackie Collins",
+            "href": "https://www.whosdatedwho.com/dating/jackie-collins",
+            "relationship_type": 3,
+            "start_date": "",
+            "end_date": "",
+            "length": "-",
+            "start_months_since_1900": -1,
+            "end_months_since_1900": -1,
+            "length_in_months": -1
+        }
+    ],
+    "details": {
+        "First Name": "Larry",
+        "Middle Name": "Martin",
+        "Last Name": "Hagman",
+        "Maiden Name": "NA",
+        "Full Name at Birth": "Larry Martin Hageman",
+        "Alternative Name": "Mad Monk of Malibu, Hag",
+        "Birthday": "1931",
+        "Birthplace": "United States",
+        "Height": "185",
+        "Weight": "NA",
+        "Zodiac Sign": "11",
+        "Sexuality": "Straight",
+        "Religion": "1",
+        "Ethnicity": "6",
+        "Nationality": "91",
+        "Occupation": "8"
+    }
+}

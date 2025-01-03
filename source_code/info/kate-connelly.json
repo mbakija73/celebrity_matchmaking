@@ -1,0 +1,33 @@
+{
+    "relationships": [
+        {
+            "name": "Bobby Flay",
+            "href": "https://www.whosdatedwho.com/dating/bobby-flay",
+            "relationship_type": 4,
+            "start_date": "1994",
+            "end_date": "1999",
+            "length": "5 years",
+            "start_months_since_1900": 1128,
+            "end_months_since_1900": 1188,
+            "length_in_months": 60
+        }
+    ],
+    "details": {
+        "First Name": "Kate",
+        "Middle Name": "NA",
+        "Last Name": "Connelly",
+        "Maiden Name": "NA",
+        "Full Name at Birth": "NA",
+        "Alternative Name": "NA",
+        "Birthday": "1964",
+        "Birthplace": "USA",
+        "Height": "NA",
+        "Weight": "NA",
+        "Zodiac Sign": "7",
+        "Sexuality": "NA",
+        "Religion": "1",
+        "Ethnicity": "1",
+        "Nationality": "91",
+        "Occupation": "11"
+    }
+}

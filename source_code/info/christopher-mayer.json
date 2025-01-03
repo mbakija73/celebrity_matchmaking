@@ -1,0 +1,66 @@
+{
+    "relationships": [
+        {
+            "name": "Catherine Irvine",
+            "href": "https://www.whosdatedwho.com/dating/catherine-irvine",
+            "relationship_type": 2,
+            "start_date": "2006",
+            "end_date": "23rd Jul 2011",
+            "length": "5 years",
+            "start_months_since_1900": 1272,
+            "end_months_since_1900": 1338,
+            "length_in_months": 60
+        },
+        {
+            "name": "Shauna Sullivan",
+            "href": "https://www.whosdatedwho.com/dating/shauna-sullivan",
+            "relationship_type": 4,
+            "start_date": "1987",
+            "end_date": "2006",
+            "length": "19 years",
+            "start_months_since_1900": 1044,
+            "end_months_since_1900": 1272,
+            "length_in_months": 228
+        },
+        {
+            "name": "Eileen Davidson",
+            "href": "https://www.whosdatedwho.com/dating/eileen-davidson",
+            "relationship_type": 4,
+            "start_date": "1984",
+            "end_date": "Dec 1988",
+            "length": "4 years",
+            "start_months_since_1900": 1008,
+            "end_months_since_1900": 1067,
+            "length_in_months": 48
+        },
+        {
+            "name": "Teri Copley",
+            "href": "https://www.whosdatedwho.com/dating/teri-copley",
+            "relationship_type": 4,
+            "start_date": "1981",
+            "end_date": "1984",
+            "length": "3 years",
+            "start_months_since_1900": 972,
+            "end_months_since_1900": 1008,
+            "length_in_months": 36
+        }
+    ],
+    "details": {
+        "First Name": "Christopher",
+        "Middle Name": "Charles",
+        "Last Name": "Mayer",
+        "Maiden Name": "NA",
+        "Full Name at Birth": "George Charles Mayer III",
+        "Alternative Name": "Chip Mayer",
+        "Birthday": "1955",
+        "Birthplace": "USA",
+        "Height": "187",
+        "Weight": "NA",
+        "Zodiac Sign": "3",
+        "Sexuality": "Straight",
+        "Religion": "1",
+        "Ethnicity": "6",
+        "Nationality": "91",
+        "Occupation": "8"
+    }
+}

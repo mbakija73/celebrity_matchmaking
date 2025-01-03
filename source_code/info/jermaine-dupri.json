@@ -1,0 +1,77 @@
+{
+    "relationships": [
+        {
+            "name": "Kimmy Maxx",
+            "href": "https://www.whosdatedwho.com/dating/kimmy-maxx",
+            "relationship_type": 2,
+            "start_date": "Mar 2016",
+            "end_date": "Jun 2016",
+            "length": "3 months",
+            "start_months_since_1900": 1394,
+            "end_months_since_1900": 1397,
+            "length_in_months": 3
+        },
+        {
+            "name": "Sarai Jones (Other)",
+            "href": "https://www.whosdatedwho.com/dating/sarai-jones-other",
+            "relationship_type": 3,
+            "start_date": "Nov 2009",
+            "end_date": "Dec 2009",
+            "length": "1 month",
+            "start_months_since_1900": 1318,
+            "end_months_since_1900": 1319,
+            "length_in_months": 1
+        },
+        {
+            "name": "Janet Jackson",
+            "href": "https://www.whosdatedwho.com/dating/janet-jackson",
+            "relationship_type": 2,
+            "start_date": "Apr 2002",
+            "end_date": "Jul 2009",
+            "length": "7 years",
+            "start_months_since_1900": 1227,
+            "end_months_since_1900": 1314,
+            "length_in_months": 84
+        },
+        {
+            "name": "Kandi Burruss",
+            "href": "https://www.whosdatedwho.com/dating/kandi-burruss",
+            "relationship_type": 2,
+            "start_date": "1998",
+            "end_date": "1998",
+            "length": "-",
+            "start_months_since_1900": 1176,
+            "end_months_since_1900": 1176,
+            "length_in_months": -1
+        },
+        {
+            "name": "Pam Sweat",
+            "href": "https://www.whosdatedwho.com/dating/pam-sweat",
+            "relationship_type": 2,
+            "start_date": "",
+            "end_date": "",
+            "length": "-",
+            "start_months_since_1900": -1,
+            "end_months_since_1900": -1,
+            "length_in_months": -1
+        }
+    ],
+    "details": {
+        "First Name": "Jermaine",
+        "Middle Name": "NA",
+        "Last Name": "Dupri",
+        "Maiden Name": "NA",
+        "Full Name at Birth": "Jermaine Dupri Mauldin",
+        "Alternative Name": "JD, Don Chi Chi",
+        "Birthday": "1972",
+        "Birthplace": "USA",
+        "Height": "163",
+        "Weight": "NA",
+        "Zodiac Sign": "11",
+        "Sexuality": "Straight",
+        "Religion": "13",
+        "Ethnicity": "2",
+        "Nationality": "91",
+        "Occupation": "1"
+    }
+}

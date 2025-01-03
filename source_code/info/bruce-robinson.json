@@ -1,0 +1,44 @@
+{
+    "relationships": [
+        {
+            "name": "Sophie Windham",
+            "href": "https://www.whosdatedwho.com/dating/sophie-windham",
+            "relationship_type": 4,
+            "start_date": "1984",
+            "end_date": "",
+            "length": "-",
+            "start_months_since_1900": 1008,
+            "end_months_since_1900": -1,
+            "length_in_months": -1
+        },
+        {
+            "name": "Lesley-Anne Down",
+            "href": "https://www.whosdatedwho.com/dating/lesley-anne-down",
+            "relationship_type": 2,
+            "start_date": "1969",
+            "end_date": "1979",
+            "length": "10 years",
+            "start_months_since_1900": 828,
+            "end_months_since_1900": 948,
+            "length_in_months": 120
+        }
+    ],
+    "details": {
+        "First Name": "Bruce",
+        "Middle Name": "NA",
+        "Last Name": "Robinson",
+        "Maiden Name": "NA",
+        "Full Name at Birth": "NA",
+        "Alternative Name": "NA",
+        "Birthday": "1946",
+        "Birthplace": "England",
+        "Height": "NA",
+        "Weight": "NA",
+        "Zodiac Sign": "3",
+        "Sexuality": "NA",
+        "Religion": "1",
+        "Ethnicity": "6",
+        "Nationality": "98",
+        "Occupation": "8"
+    }
+}

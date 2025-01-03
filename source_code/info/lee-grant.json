@@ -1,0 +1,66 @@
+{
+    "relationships": [
+        {
+            "name": "Warren Beatty",
+            "href": "https://www.whosdatedwho.com/dating/warren-beatty",
+            "relationship_type": 2,
+            "start_date": "1974",
+            "end_date": "1974",
+            "length": "-",
+            "start_months_since_1900": 888,
+            "end_months_since_1900": 888,
+            "length_in_months": -1
+        },
+        {
+            "name": "Joseph Feury",
+            "href": "https://www.whosdatedwho.com/dating/joseph-feury",
+            "relationship_type": 4,
+            "start_date": "1962",
+            "end_date": "present",
+            "length": "62 years",
+            "start_months_since_1900": 744,
+            "end_months_since_1900": -1,
+            "length_in_months": 744
+        },
+        {
+            "name": "Arnold Manoff",
+            "href": "https://www.whosdatedwho.com/dating/arnold-manoff",
+            "relationship_type": 4,
+            "start_date": "1951",
+            "end_date": "1960",
+            "length": "9 years",
+            "start_months_since_1900": 612,
+            "end_months_since_1900": 720,
+            "length_in_months": 108
+        },
+        {
+            "name": "Gene Lyons",
+            "href": "https://www.whosdatedwho.com/dating/gene-lyons",
+            "relationship_type": 2,
+            "start_date": "",
+            "end_date": "",
+            "length": "-",
+            "start_months_since_1900": -1,
+            "end_months_since_1900": -1,
+            "length_in_months": -1
+        }
+    ],
+    "details": {
+        "First Name": "Lee",
+        "Middle Name": "NA",
+        "Last Name": "Grant",
+        "Maiden Name": "NA",
+        "Full Name at Birth": "Lyova Haskell Rosenthal",
+        "Alternative Name": "NA",
+        "Birthday": "1927",
+        "Birthplace": "NY",
+        "Height": "NA",
+        "Weight": "NA",
+        "Zodiac Sign": "5",
+        "Sexuality": "Straight",
+        "Religion": "31",
+        "Ethnicity": "6",
+        "Nationality": "91",
+        "Occupation": "8"
+    }
+}

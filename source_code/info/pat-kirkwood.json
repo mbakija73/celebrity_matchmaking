@@ -1,0 +1,88 @@
+{
+    "relationships": [
+        {
+            "name": "Peter Knight",
+            "href": "https://www.whosdatedwho.com/dating/peter-knight",
+            "relationship_type": 4,
+            "start_date": "1981",
+            "end_date": "Dec 2007",
+            "length": "26 years",
+            "start_months_since_1900": 972,
+            "end_months_since_1900": 1295,
+            "length_in_months": 312
+        },
+        {
+            "name": "Hubert Gregg",
+            "href": "https://www.whosdatedwho.com/dating/hubert-gregg",
+            "relationship_type": 4,
+            "start_date": "1956",
+            "end_date": "1979",
+            "length": "23 years",
+            "start_months_since_1900": 672,
+            "end_months_since_1900": 948,
+            "length_in_months": 276
+        },
+        {
+            "name": "Spiro De Spero Gabriele",
+            "href": "https://www.whosdatedwho.com/dating/spiro-de-spero-gabriele",
+            "relationship_type": 4,
+            "start_date": "Feb 1952",
+            "end_date": "1954",
+            "length": "1 year",
+            "start_months_since_1900": 625,
+            "end_months_since_1900": 648,
+            "length_in_months": 12
+        },
+        {
+            "name": "Prince Philip",
+            "href": "https://www.whosdatedwho.com/dating/prince-philip",
+            "relationship_type": 3,
+            "start_date": "Oct 1948",
+            "end_date": "Oct 1948",
+            "length": "-",
+            "start_months_since_1900": 585,
+            "end_months_since_1900": 585,
+            "length_in_months": -1
+        },
+        {
+            "name": "John Lister",
+            "href": "https://www.whosdatedwho.com/dating/john-lister",
+            "relationship_type": 4,
+            "start_date": "",
+            "end_date": "1939",
+            "length": "-",
+            "start_months_since_1900": -1,
+            "end_months_since_1900": 468,
+            "length_in_months": -1
+        },
+        {
+            "name": "Danny Kaye",
+            "href": "https://www.whosdatedwho.com/dating/danny-kaye",
+            "relationship_type": 2,
+            "start_date": "",
+            "end_date": "",
+            "length": "-",
+            "start_months_since_1900": -1,
+            "end_months_since_1900": -1,
+            "length_in_months": -1
+        }
+    ],
+    "details": {
+        "First Name": "Pat",
+        "Middle Name": "NA",
+        "Last Name": "Kirkwood",
+        "Maiden Name": "NA",
+        "Full Name at Birth": "Patricia Kirkwood",
+        "Alternative Name": "`Pat`",
+        "Birthday": "1921",
+        "Birthplace": "England",
+        "Height": "NA",
+        "Weight": "NA",
+        "Zodiac Sign": "9",
+        "Sexuality": "Straight",
+        "Religion": "1",
+        "Ethnicity": "6",
+        "Nationality": "8",
+        "Occupation": "8"
+    }
+}

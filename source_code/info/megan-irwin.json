@@ -1,0 +1,66 @@
+{
+    "relationships": [
+        {
+            "name": "Skeet Ulrich",
+            "href": "https://www.whosdatedwho.com/dating/skeet-ulrich",
+            "relationship_type": 2,
+            "start_date": "May 2020",
+            "end_date": "Aug 2020",
+            "length": "3 months",
+            "start_months_since_1900": 1444,
+            "end_months_since_1900": 1447,
+            "length_in_months": 3
+        },
+        {
+            "name": "Scott Disick",
+            "href": "https://www.whosdatedwho.com/dating/scott-disick",
+            "relationship_type": 3,
+            "start_date": "May 2016",
+            "end_date": "Oct 2020",
+            "length": "4 years",
+            "start_months_since_1900": 1396,
+            "end_months_since_1900": 1449,
+            "length_in_months": 48
+        },
+        {
+            "name": "Jordan Barrett",
+            "href": "https://www.whosdatedwho.com/dating/jordan-barrett-model",
+            "relationship_type": 2,
+            "start_date": "Apr 2016",
+            "end_date": "Dec 2016",
+            "length": "8 months",
+            "start_months_since_1900": 1395,
+            "end_months_since_1900": 1403,
+            "length_in_months": 8
+        },
+        {
+            "name": "Steven Kelly",
+            "href": "https://www.whosdatedwho.com/dating/steven-kelly-7340699",
+            "relationship_type": 2,
+            "start_date": "2014",
+            "end_date": "2016",
+            "length": "2 years",
+            "start_months_since_1900": 1368,
+            "end_months_since_1900": 1392,
+            "length_in_months": 24
+        }
+    ],
+    "details": {
+        "First Name": "Megan",
+        "Middle Name": "Blake",
+        "Last Name": "Irwin",
+        "Maiden Name": "NA",
+        "Full Name at Birth": "Megan Blake Irwin",
+        "Alternative Name": "Megan Blake Irwin, Megan Irwin",
+        "Birthday": "1992",
+        "Birthplace": "Australia",
+        "Height": "173",
+        "Weight": "126lbs (57 kg)",
+        "Zodiac Sign": "8",
+        "Sexuality": "Straight",
+        "Religion": "1",
+        "Ethnicity": "6",
+        "Nationality": "135",
+        "Occupation": "15"
+    }
+}

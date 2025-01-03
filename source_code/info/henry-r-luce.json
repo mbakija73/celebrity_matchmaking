@@ -1,0 +1,44 @@
+{
+    "relationships": [
+        {
+            "name": "Clare Boothe Luce",
+            "href": "https://www.whosdatedwho.com/dating/clare-boothe-luce",
+            "relationship_type": 4,
+            "start_date": "1935",
+            "end_date": "1967",
+            "length": "32 years",
+            "start_months_since_1900": 420,
+            "end_months_since_1900": 804,
+            "length_in_months": 384
+        },
+        {
+            "name": "Lila Hotz",
+            "href": "https://www.whosdatedwho.com/dating/lila-hotz",
+            "relationship_type": 4,
+            "start_date": "1919",
+            "end_date": "1935",
+            "length": "16 years",
+            "start_months_since_1900": 228,
+            "end_months_since_1900": 420,
+            "length_in_months": 192
+        }
+    ],
+    "details": {
+        "First Name": "Henry",
+        "Middle Name": "R.",
+        "Last Name": "Luce",
+        "Maiden Name": "NA",
+        "Full Name at Birth": "Henry Robinson Luce II",
+        "Alternative Name": "NA",
+        "Birthday": "NA",
+        "Birthplace": "NA",
+        "Height": "NA",
+        "Weight": "NA",
+        "Zodiac Sign": "2",
+        "Sexuality": "NA",
+        "Religion": "1",
+        "Ethnicity": "1",
+        "Nationality": "91",
+        "Occupation": "3"
+    }
+}

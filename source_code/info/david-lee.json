@@ -1,0 +1,44 @@
+{
+    "relationships": [
+        {
+            "name": "Caroline Wozniacki",
+            "href": "https://www.whosdatedwho.com/dating/caroline-wozniacki",
+            "relationship_type": 4,
+            "start_date": "Dec 2015",
+            "end_date": "present",
+            "length": "8 years",
+            "start_months_since_1900": 1391,
+            "end_months_since_1900": -1,
+            "length_in_months": 96
+        },
+        {
+            "name": "Sabina Gadecki",
+            "href": "https://www.whosdatedwho.com/dating/sabina-gadecki",
+            "relationship_type": 2,
+            "start_date": "2004",
+            "end_date": "2014",
+            "length": "10 years",
+            "start_months_since_1900": 1248,
+            "end_months_since_1900": 1368,
+            "length_in_months": 120
+        }
+    ],
+    "details": {
+        "First Name": "David",
+        "Middle Name": "NA",
+        "Last Name": "Lee",
+        "Maiden Name": "NA",
+        "Full Name at Birth": "David Lee",
+        "Alternative Name": "NA",
+        "Birthday": "1983",
+        "Birthplace": "Missouri",
+        "Height": "206",
+        "Weight": "249lbs (113 kg)",
+        "Zodiac Sign": "3",
+        "Sexuality": "Straight",
+        "Religion": "1",
+        "Ethnicity": "6",
+        "Nationality": "91",
+        "Occupation": "2"
+    }
+}

@@ -1,0 +1,55 @@
+{
+    "relationships": [
+        {
+            "name": "Bianca King",
+            "href": "https://www.whosdatedwho.com/dating/bianca-king",
+            "relationship_type": 2,
+            "start_date": "2007",
+            "end_date": "2009",
+            "length": "2 years",
+            "start_months_since_1900": 1284,
+            "end_months_since_1900": 1308,
+            "length_in_months": 24
+        },
+        {
+            "name": "Louise Delos Reyes",
+            "href": "https://www.whosdatedwho.com/dating/louise-de-los-reyes",
+            "relationship_type": 2,
+            "start_date": "2016",
+            "end_date": "2017",
+            "length": "1 year",
+            "start_months_since_1900": 1392,
+            "end_months_since_1900": 1404,
+            "length_in_months": 12
+        },
+        {
+            "name": "Claire Nery",
+            "href": "https://www.whosdatedwho.com/dating/claire-nery",
+            "relationship_type": 4,
+            "start_date": "2017",
+            "end_date": "present",
+            "length": "7 years",
+            "start_months_since_1900": 1404,
+            "end_months_since_1900": -1,
+            "length_in_months": 84
+        }
+    ],
+    "details": {
+        "First Name": "Champ",
+        "Middle Name": "Lui",
+        "Last Name": "Liu-Pio",
+        "Maiden Name": "NA",
+        "Full Name at Birth": "Arthur Bernard Dolino Lui Pio",
+        "Alternative Name": "Champ, Champ of Hale, Champ Lui Pio, Champ Pio",
+        "Birthday": "1982",
+        "Birthplace": "Philippines",
+        "Height": "NA",
+        "Weight": "NA",
+        "Zodiac Sign": "9",
+        "Sexuality": "Straight",
+        "Religion": "36",
+        "Ethnicity": "3",
+        "Nationality": "16",
+        "Occupation": "1"
+    }
+}

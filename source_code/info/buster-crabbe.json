@@ -1,0 +1,55 @@
+{
+    "relationships": [
+        {
+            "name": "Betty Grable",
+            "href": "https://www.whosdatedwho.com/dating/betty-grable",
+            "relationship_type": 3,
+            "start_date": "1937",
+            "end_date": "1937",
+            "length": "-",
+            "start_months_since_1900": 444,
+            "end_months_since_1900": 444,
+            "length_in_months": -1
+        },
+        {
+            "name": "Ida Lupino",
+            "href": "https://www.whosdatedwho.com/dating/ida-lupino",
+            "relationship_type": 2,
+            "start_date": "1936",
+            "end_date": "1937",
+            "length": "1 year",
+            "start_months_since_1900": 432,
+            "end_months_since_1900": 444,
+            "length_in_months": 12
+        },
+        {
+            "name": "Adah Held",
+            "href": "https://www.whosdatedwho.com/dating/adah-held",
+            "relationship_type": 4,
+            "start_date": "1933",
+            "end_date": "Apr 1983",
+            "length": "50 years",
+            "start_months_since_1900": 396,
+            "end_months_since_1900": 999,
+            "length_in_months": 600
+        }
+    ],
+    "details": {
+        "First Name": "Clarence",
+        "Middle Name": "Linden",
+        "Last Name": "Crabbe II",
+        "Maiden Name": "NA",
+        "Full Name at Birth": "Clarence Linden Crabbe II",
+        "Alternative Name": "Buster Crabbe, Clarence Linden Crabbe II, Buster Crabbve, Larry Crabbe, Larry (Buster) Crabbe",
+        "Birthday": "1908",
+        "Birthplace": "USA",
+        "Height": "160",
+        "Weight": "NA",
+        "Zodiac Sign": "9",
+        "Sexuality": "Straight",
+        "Religion": "12",
+        "Ethnicity": "6",
+        "Nationality": "91",
+        "Occupation": "8"
+    }
+}

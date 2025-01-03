@@ -1,0 +1,44 @@
+{
+    "relationships": [
+        {
+            "name": "Liz Marsland",
+            "href": "https://www.whosdatedwho.com/dating/liz-marsland",
+            "relationship_type": 2,
+            "start_date": "2007",
+            "end_date": "2011",
+            "length": "4 years",
+            "start_months_since_1900": 1284,
+            "end_months_since_1900": 1332,
+            "length_in_months": 48
+        },
+        {
+            "name": "Sammy Winward",
+            "href": "https://www.whosdatedwho.com/dating/sammy-winward",
+            "relationship_type": 2,
+            "start_date": "2007",
+            "end_date": "2007",
+            "length": "-",
+            "start_months_since_1900": 1284,
+            "end_months_since_1900": 1284,
+            "length_in_months": -1
+        }
+    ],
+    "details": {
+        "First Name": "Kelvin",
+        "Middle Name": "NA",
+        "Last Name": "Fletcher",
+        "Maiden Name": "NA",
+        "Full Name at Birth": "NA",
+        "Alternative Name": "NA",
+        "Birthday": "1984",
+        "Birthplace": "England",
+        "Height": "175",
+        "Weight": "NA",
+        "Zodiac Sign": "13",
+        "Sexuality": "NA",
+        "Religion": "1",
+        "Ethnicity": "1",
+        "Nationality": "8",
+        "Occupation": "2"
+    }
+}

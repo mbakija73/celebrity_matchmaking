@@ -1,0 +1,77 @@
+{
+    "relationships": [
+        {
+            "name": "Clint Eastwood",
+            "href": "https://www.whosdatedwho.com/dating/clint-eastwood",
+            "relationship_type": 3,
+            "start_date": "Jan 2019",
+            "end_date": "Jan 2019",
+            "length": "-",
+            "start_months_since_1900": 1428,
+            "end_months_since_1900": 1428,
+            "length_in_months": -1
+        },
+        {
+            "name": "Nicolas Berggruen",
+            "href": "https://www.whosdatedwho.com/dating/nicolas-berggruen",
+            "relationship_type": 2,
+            "start_date": "Dec 2018",
+            "end_date": "Dec 2018",
+            "length": "-",
+            "start_months_since_1900": 1427,
+            "end_months_since_1900": 1427,
+            "length_in_months": -1
+        },
+        {
+            "name": "Eli Roth",
+            "href": "https://www.whosdatedwho.com/dating/eli-roth",
+            "relationship_type": 3,
+            "start_date": "Aug 2018",
+            "end_date": "Aug 2018",
+            "length": "-",
+            "start_months_since_1900": 1423,
+            "end_months_since_1900": 1423,
+            "length_in_months": -1
+        },
+        {
+            "name": "Al Pacino",
+            "href": "https://www.whosdatedwho.com/dating/al-pacino",
+            "relationship_type": 2,
+            "start_date": "2018",
+            "end_date": "Sep 2023",
+            "length": "5 years",
+            "start_months_since_1900": 1416,
+            "end_months_since_1900": 1484,
+            "length_in_months": 60
+        },
+        {
+            "name": "Mick Jagger",
+            "href": "https://www.whosdatedwho.com/dating/mick-jagger",
+            "relationship_type": 3,
+            "start_date": "2017",
+            "end_date": "2018",
+            "length": "1 year",
+            "start_months_since_1900": 1404,
+            "end_months_since_1900": 1416,
+            "length_in_months": 12
+        }
+    ],
+    "details": {
+        "First Name": "Noor",
+        "Middle Name": "NA",
+        "Last Name": "Alfallah",
+        "Maiden Name": "NA",
+        "Full Name at Birth": "Noor Alfallah",
+        "Alternative Name": "Noor Alfallah",
+        "Birthday": "1993",
+        "Birthplace": "Kuwait",
+        "Height": "NA",
+        "Weight": "NA",
+        "Zodiac Sign": "6",
+        "Sexuality": "NA",
+        "Religion": "1",
+        "Ethnicity": "5",
+        "Nationality": "103",
+        "Occupation": "9"
+    }
+}

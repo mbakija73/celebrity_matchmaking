@@ -1,0 +1,132 @@
+{
+    "relationships": [
+        {
+            "name": "Howard Austen",
+            "href": "https://www.whosdatedwho.com/dating/howard-austen-33668894",
+            "relationship_type": 2,
+            "start_date": "1950",
+            "end_date": "2003",
+            "length": "53 years",
+            "start_months_since_1900": 600,
+            "end_months_since_1900": 1236,
+            "length_in_months": 636
+        },
+        {
+            "name": "Jack Kerouac",
+            "href": "https://www.whosdatedwho.com/dating/jack-kerouac",
+            "relationship_type": 2,
+            "start_date": "1949",
+            "end_date": "1949",
+            "length": "-",
+            "start_months_since_1900": 588,
+            "end_months_since_1900": 588,
+            "length_in_months": -1
+        },
+        {
+            "name": "Diana Lynn",
+            "href": "https://www.whosdatedwho.com/dating/diana-lynn",
+            "relationship_type": 2,
+            "start_date": "1949",
+            "end_date": "1950",
+            "length": "1 year",
+            "start_months_since_1900": 588,
+            "end_months_since_1900": 600,
+            "length_in_months": 12
+        },
+        {
+            "name": "Ana\u00efs Nin",
+            "href": "https://www.whosdatedwho.com/dating/anais-nin",
+            "relationship_type": 2,
+            "start_date": "1946",
+            "end_date": "1946",
+            "length": "-",
+            "start_months_since_1900": 552,
+            "end_months_since_1900": 552,
+            "length_in_months": -1
+        },
+        {
+            "name": "Jimmie Trimble",
+            "href": "https://www.whosdatedwho.com/dating/jimmie-trimble",
+            "relationship_type": 2,
+            "start_date": "1937",
+            "end_date": "1945",
+            "length": "8 years",
+            "start_months_since_1900": 444,
+            "end_months_since_1900": 540,
+            "length_in_months": 96
+        },
+        {
+            "name": "Alice Denham",
+            "href": "https://www.whosdatedwho.com/dating/alice-denham",
+            "relationship_type": 3,
+            "start_date": "",
+            "end_date": "",
+            "length": "-",
+            "start_months_since_1900": -1,
+            "end_months_since_1900": -1,
+            "length_in_months": -1
+        },
+        {
+            "name": "Denham Fouts",
+            "href": "https://www.whosdatedwho.com/dating/denham-fouts",
+            "relationship_type": 3,
+            "start_date": "",
+            "end_date": "",
+            "length": "-",
+            "start_months_since_1900": -1,
+            "end_months_since_1900": -1,
+            "length_in_months": -1
+        },
+        {
+            "name": "Joanne Woodward",
+            "href": "https://www.whosdatedwho.com/dating/joanne-woodward",
+            "relationship_type": 2,
+            "start_date": "",
+            "end_date": "",
+            "length": "-",
+            "start_months_since_1900": -1,
+            "end_months_since_1900": -1,
+            "length_in_months": -1
+        },
+        {
+            "name": "Tom Hatcher",
+            "href": "https://www.whosdatedwho.com/dating/tom-hatcher",
+            "relationship_type": 2,
+            "start_date": "",
+            "end_date": "",
+            "length": "-",
+            "start_months_since_1900": -1,
+            "end_months_since_1900": -1,
+            "length_in_months": -1
+        },
+        {
+            "name": "Francesco Scavullo",
+            "href": "https://www.whosdatedwho.com/dating/francesco-scavullo",
+            "relationship_type": 1,
+            "start_date": "",
+            "end_date": "",
+            "length": "-",
+            "start_months_since_1900": -1,
+            "end_months_since_1900": -1,
+            "length_in_months": -1
+        }
+    ],
+    "details": {
+        "First Name": "Gore",
+        "Middle Name": "Luther",
+        "Last Name": "Vidal",
+        "Maiden Name": "NA",
+        "Full Name at Birth": "Eugene Louis Vidal",
+        "Alternative Name": "Eugene Luther Gore Vidal",
+        "Birthday": "1925",
+        "Birthplace": "USA",
+        "Height": "182",
+        "Weight": "NA",
+        "Zodiac Sign": "10",
+        "Sexuality": "Bisexual",
+        "Religion": "22",
+        "Ethnicity": "6",
+        "Nationality": "91",
+        "Occupation": "3"
+    }
+}

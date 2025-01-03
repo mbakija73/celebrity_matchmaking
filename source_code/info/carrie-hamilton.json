@@ -1,0 +1,55 @@
+{
+    "relationships": [
+        {
+            "name": "Mark Templin",
+            "href": "https://www.whosdatedwho.com/dating/mark-templin",
+            "relationship_type": 4,
+            "start_date": "1993",
+            "end_date": "1998",
+            "length": "5 years",
+            "start_months_since_1900": 1116,
+            "end_months_since_1900": 1176,
+            "length_in_months": 60
+        },
+        {
+            "name": "Michael Des Barres",
+            "href": "https://www.whosdatedwho.com/dating/michael-des-barres",
+            "relationship_type": 2,
+            "start_date": "1988",
+            "end_date": "1988",
+            "length": "-",
+            "start_months_since_1900": 1056,
+            "end_months_since_1900": 1056,
+            "length_in_months": -1
+        },
+        {
+            "name": "Fergie Frederiksen",
+            "href": "https://www.whosdatedwho.com/dating/dennis-frederiksen",
+            "relationship_type": 2,
+            "start_date": "",
+            "end_date": "",
+            "length": "-",
+            "start_months_since_1900": -1,
+            "end_months_since_1900": -1,
+            "length_in_months": -1
+        }
+    ],
+    "details": {
+        "First Name": "Carrie",
+        "Middle Name": "Louise",
+        "Last Name": "Hamilton",
+        "Maiden Name": "NA",
+        "Full Name at Birth": "Carrie Louise Hamilton",
+        "Alternative Name": "NA",
+        "Birthday": "1963",
+        "Birthplace": "USA",
+        "Height": "NA",
+        "Weight": "NA",
+        "Zodiac Sign": "6",
+        "Sexuality": "Straight",
+        "Religion": "1",
+        "Ethnicity": "6",
+        "Nationality": "91",
+        "Occupation": "8"
+    }
+}

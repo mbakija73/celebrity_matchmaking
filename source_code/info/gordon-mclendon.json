@@ -1,0 +1,44 @@
+{
+    "relationships": [
+        {
+            "name": "Susan Stafford",
+            "href": "https://www.whosdatedwho.com/dating/susan-stafford",
+            "relationship_type": 4,
+            "start_date": "1973",
+            "end_date": "1973",
+            "length": "-",
+            "start_months_since_1900": 876,
+            "end_months_since_1900": 876,
+            "length_in_months": -1
+        },
+        {
+            "name": "Gay Noe",
+            "href": "https://www.whosdatedwho.com/dating/gay-noe",
+            "relationship_type": 4,
+            "start_date": "1943",
+            "end_date": "1943",
+            "length": "-",
+            "start_months_since_1900": 516,
+            "end_months_since_1900": 516,
+            "length_in_months": -1
+        }
+    ],
+    "details": {
+        "First Name": "Gordon",
+        "Middle Name": "NA",
+        "Last Name": "McLendon",
+        "Maiden Name": "NA",
+        "Full Name at Birth": "NA",
+        "Alternative Name": "The Maverick of Radio",
+        "Birthday": "1921",
+        "Birthplace": "USA",
+        "Height": "NA",
+        "Weight": "NA",
+        "Zodiac Sign": "4",
+        "Sexuality": "NA",
+        "Religion": "1",
+        "Ethnicity": "1",
+        "Nationality": "91",
+        "Occupation": "7"
+    }
+}

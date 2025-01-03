@@ -1,0 +1,165 @@
+{
+    "relationships": [
+        {
+            "name": "Sid Vicious",
+            "href": "https://www.whosdatedwho.com/dating/sid-vicious",
+            "relationship_type": 2,
+            "start_date": "1977",
+            "end_date": "Oct 1978",
+            "length": "1 year",
+            "start_months_since_1900": 924,
+            "end_months_since_1900": 945,
+            "length_in_months": 12
+        },
+        {
+            "name": "Ronnie Wood",
+            "href": "https://www.whosdatedwho.com/dating/ron-wood",
+            "relationship_type": 3,
+            "start_date": "1975",
+            "end_date": "1975",
+            "length": "-",
+            "start_months_since_1900": 900,
+            "end_months_since_1900": 900,
+            "length_in_months": -1
+        },
+        {
+            "name": "David Johansen",
+            "href": "https://www.whosdatedwho.com/dating/david-johansen",
+            "relationship_type": 3,
+            "start_date": "1975",
+            "end_date": "1975",
+            "length": "-",
+            "start_months_since_1900": 900,
+            "end_months_since_1900": 900,
+            "length_in_months": -1
+        },
+        {
+            "name": "Richard Hell",
+            "href": "https://www.whosdatedwho.com/dating/richard-hell",
+            "relationship_type": 2,
+            "start_date": "1975",
+            "end_date": "1975",
+            "length": "-",
+            "start_months_since_1900": 900,
+            "end_months_since_1900": 900,
+            "length_in_months": -1
+        },
+        {
+            "name": "Jerry Nolan",
+            "href": "https://www.whosdatedwho.com/dating/jerry-nolan",
+            "relationship_type": 1,
+            "start_date": "",
+            "end_date": "",
+            "length": "-",
+            "start_months_since_1900": -1,
+            "end_months_since_1900": -1,
+            "length_in_months": -1
+        },
+        {
+            "name": "Iggy Pop",
+            "href": "https://www.whosdatedwho.com/dating/iggy-pop",
+            "relationship_type": 3,
+            "start_date": "",
+            "end_date": "",
+            "length": "-",
+            "start_months_since_1900": -1,
+            "end_months_since_1900": -1,
+            "length_in_months": -1
+        },
+        {
+            "name": "Johnny Thunders",
+            "href": "https://www.whosdatedwho.com/dating/johnny-thunders",
+            "relationship_type": 3,
+            "start_date": "",
+            "end_date": "",
+            "length": "-",
+            "start_months_since_1900": -1,
+            "end_months_since_1900": -1,
+            "length_in_months": -1
+        },
+        {
+            "name": "Dee Dee Ramone",
+            "href": "https://www.whosdatedwho.com/dating/dee-dee-ramone",
+            "relationship_type": 3,
+            "start_date": "",
+            "end_date": "",
+            "length": "-",
+            "start_months_since_1900": -1,
+            "end_months_since_1900": -1,
+            "length_in_months": -1
+        },
+        {
+            "name": "Tom Hamilton",
+            "href": "https://www.whosdatedwho.com/dating/tom-hamilton",
+            "relationship_type": 3,
+            "start_date": "",
+            "end_date": "",
+            "length": "-",
+            "start_months_since_1900": -1,
+            "end_months_since_1900": -1,
+            "length_in_months": -1
+        },
+        {
+            "name": "Brad Whitford",
+            "href": "https://www.whosdatedwho.com/dating/brad-whitford",
+            "relationship_type": 3,
+            "start_date": "",
+            "end_date": "",
+            "length": "-",
+            "start_months_since_1900": -1,
+            "end_months_since_1900": -1,
+            "length_in_months": -1
+        },
+        {
+            "name": "Sylvain Sylvain",
+            "href": "https://www.whosdatedwho.com/dating/sylvain-sylvain",
+            "relationship_type": 3,
+            "start_date": "",
+            "end_date": "",
+            "length": "-",
+            "start_months_since_1900": -1,
+            "end_months_since_1900": -1,
+            "length_in_months": -1
+        },
+        {
+            "name": "Eliot Kidd",
+            "href": "https://www.whosdatedwho.com/dating/eliot-kidd",
+            "relationship_type": 3,
+            "start_date": "",
+            "end_date": "",
+            "length": "-",
+            "start_months_since_1900": -1,
+            "end_months_since_1900": -1,
+            "length_in_months": -1
+        },
+        {
+            "name": "Keith Richards",
+            "href": "https://www.whosdatedwho.com/dating/keith-richards",
+            "relationship_type": 3,
+            "start_date": "",
+            "end_date": "",
+            "length": "-",
+            "start_months_since_1900": -1,
+            "end_months_since_1900": -1,
+            "length_in_months": -1
+        }
+    ],
+    "details": {
+        "First Name": "Nancy",
+        "Middle Name": "Laura",
+        "Last Name": "NA",
+        "Maiden Name": "Spungen",
+        "Full Name at Birth": "Nancy Laura Spungen",
+        "Alternative Name": "Nauseating Nancy",
+        "Birthday": "1958",
+        "Birthplace": "USA",
+        "Height": "155",
+        "Weight": "NA",
+        "Zodiac Sign": "1",
+        "Sexuality": "Straight",
+        "Religion": "31",
+        "Ethnicity": "6",
+        "Nationality": "91",
+        "Occupation": "18"
+    }
+}

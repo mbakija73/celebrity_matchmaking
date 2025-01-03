@@ -1,0 +1,154 @@
+{
+    "relationships": [
+        {
+            "name": "Liv Tyler",
+            "href": "https://www.whosdatedwho.com/dating/liv-tyler",
+            "relationship_type": 2,
+            "start_date": "Sep 2008",
+            "end_date": "Feb 2009",
+            "length": "5 months",
+            "start_months_since_1900": 1304,
+            "end_months_since_1900": 1309,
+            "length_in_months": 5
+        },
+        {
+            "name": "Sheryl Crow",
+            "href": "https://www.whosdatedwho.com/dating/sheryl-crow",
+            "relationship_type": 2,
+            "start_date": "2007",
+            "end_date": "2008",
+            "length": "1 year",
+            "start_months_since_1900": 1284,
+            "end_months_since_1900": 1296,
+            "length_in_months": 12
+        },
+        {
+            "name": "Nicole Kidman",
+            "href": "https://www.whosdatedwho.com/dating/nicole-kidman",
+            "relationship_type": 2,
+            "start_date": "Nov 2004",
+            "end_date": "Jun 2005",
+            "length": "7 months",
+            "start_months_since_1900": 1258,
+            "end_months_since_1900": 1265,
+            "length_in_months": 7
+        },
+        {
+            "name": "Brooke Burns",
+            "href": "https://www.whosdatedwho.com/dating/brooke-burns",
+            "relationship_type": 2,
+            "start_date": "Jan 2003",
+            "end_date": "Jul 2003",
+            "length": "6 months",
+            "start_months_since_1900": 1236,
+            "end_months_since_1900": 1242,
+            "length_in_months": 6
+        },
+        {
+            "name": "Naomi Campbell",
+            "href": "https://www.whosdatedwho.com/dating/naomi-campbell",
+            "relationship_type": 3,
+            "start_date": "2003",
+            "end_date": "2003",
+            "length": "-",
+            "start_months_since_1900": 1236,
+            "end_months_since_1900": 1236,
+            "length_in_months": -1
+        },
+        {
+            "name": "Elizabeth Hurley",
+            "href": "https://www.whosdatedwho.com/dating/elizabeth-hurley",
+            "relationship_type": 2,
+            "start_date": "Aug 2000",
+            "end_date": "Nov 2001",
+            "length": "1 year",
+            "start_months_since_1900": 1207,
+            "end_months_since_1900": 1222,
+            "length_in_months": 12
+        },
+        {
+            "name": "Farrah Fawcett",
+            "href": "https://www.whosdatedwho.com/dating/farrah-fawcett",
+            "relationship_type": 2,
+            "start_date": "1997",
+            "end_date": "1997",
+            "length": "-",
+            "start_months_since_1900": 1164,
+            "end_months_since_1900": 1164,
+            "length_in_months": -1
+        },
+        {
+            "name": "Denice D. Lewis",
+            "href": "https://www.whosdatedwho.com/dating/denice-d-lewis",
+            "relationship_type": 2,
+            "start_date": "1994",
+            "end_date": "1994",
+            "length": "-",
+            "start_months_since_1900": 1128,
+            "end_months_since_1900": 1128,
+            "length_in_months": -1
+        },
+        {
+            "name": "Sharon Stone",
+            "href": "https://www.whosdatedwho.com/dating/sharon-stone",
+            "relationship_type": 2,
+            "start_date": "1991",
+            "end_date": "1991",
+            "length": "-",
+            "start_months_since_1900": 1092,
+            "end_months_since_1900": 1092,
+            "length_in_months": -1
+        },
+        {
+            "name": "Tracy Richman",
+            "href": "https://www.whosdatedwho.com/dating/tracy-richman",
+            "relationship_type": 2,
+            "start_date": "1986",
+            "end_date": "1999",
+            "length": "13 years",
+            "start_months_since_1900": 1032,
+            "end_months_since_1900": 1188,
+            "length_in_months": 156
+        },
+        {
+            "name": "Janice Dickinson",
+            "href": "https://www.whosdatedwho.com/dating/janice-dickinson",
+            "relationship_type": 2,
+            "start_date": "",
+            "end_date": "",
+            "length": "-",
+            "start_months_since_1900": -1,
+            "end_months_since_1900": -1,
+            "length_in_months": -1
+        },
+        {
+            "name": "Uma Thurman",
+            "href": "https://www.whosdatedwho.com/dating/uma-thurman",
+            "relationship_type": 2,
+            "start_date": "",
+            "end_date": "",
+            "length": "-",
+            "start_months_since_1900": -1,
+            "end_months_since_1900": -1,
+            "length_in_months": -1
+        }
+    ],
+    "details": {
+        "First Name": "Steve",
+        "Middle Name": "Leo",
+        "Last Name": "Bing",
+        "Maiden Name": "NA",
+        "Full Name at Birth": "Stephen Leo Bing",
+        "Alternative Name": "NA",
+        "Birthday": "1965",
+        "Birthplace": "USA",
+        "Height": "193",
+        "Weight": "NA",
+        "Zodiac Sign": "7",
+        "Sexuality": "Straight",
+        "Religion": "1",
+        "Ethnicity": "6",
+        "Nationality": "91",
+        "Occupation": "7"
+    }
+}

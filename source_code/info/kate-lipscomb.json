@@ -1,0 +1,44 @@
+{
+    "relationships": [
+        {
+            "name": "Mike Du Bell",
+            "href": "https://www.whosdatedwho.com/dating/mike-du-bell",
+            "relationship_type": 4,
+            "start_date": "1961",
+            "end_date": "1965",
+            "length": "4 years",
+            "start_months_since_1900": 732,
+            "end_months_since_1900": 780,
+            "length_in_months": 48
+        },
+        {
+            "name": "Jimmy Kind",
+            "href": "https://www.whosdatedwho.com/dating/jimmy-kind",
+            "relationship_type": 2,
+            "start_date": "1950",
+            "end_date": "1950",
+            "length": "-",
+            "start_months_since_1900": 600,
+            "end_months_since_1900": 600,
+            "length_in_months": -1
+        }
+    ],
+    "details": {
+        "First Name": "Kate",
+        "Middle Name": "NA",
+        "Last Name": "Lipscomb",
+        "Maiden Name": "NA",
+        "Full Name at Birth": "NA",
+        "Alternative Name": "NA",
+        "Birthday": "1927",
+        "Birthplace": "Virginia",
+        "Height": "155",
+        "Weight": "NA",
+        "Zodiac Sign": "13",
+        "Sexuality": "Straight",
+        "Religion": "18",
+        "Ethnicity": "6",
+        "Nationality": "91",
+        "Occupation": "8"
+    }
+}

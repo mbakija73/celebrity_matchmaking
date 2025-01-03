@@ -1,0 +1,66 @@
+{
+    "relationships": [
+        {
+            "name": "Skyler Samuels",
+            "href": "https://www.whosdatedwho.com/dating/skyler-samuels",
+            "relationship_type": 4,
+            "start_date": "2017",
+            "end_date": "present",
+            "length": "7 years",
+            "start_months_since_1900": 1404,
+            "end_months_since_1900": -1,
+            "length_in_months": 84
+        },
+        {
+            "name": "Carlson Young",
+            "href": "https://www.whosdatedwho.com/dating/carlson-young",
+            "relationship_type": 2,
+            "start_date": "Aug 2012",
+            "end_date": "Jul 2013",
+            "length": "11 months",
+            "start_months_since_1900": 1351,
+            "end_months_since_1900": 1362,
+            "length_in_months": 11
+        },
+        {
+            "name": "Kayslee Collins",
+            "href": "https://www.whosdatedwho.com/dating/kayslee-collins",
+            "relationship_type": 2,
+            "start_date": "2010",
+            "end_date": "2012",
+            "length": "2 years",
+            "start_months_since_1900": 1320,
+            "end_months_since_1900": 1344,
+            "length_in_months": 24
+        },
+        {
+            "name": "Debby Ryan",
+            "href": "https://www.whosdatedwho.com/dating/debby-ryan",
+            "relationship_type": 2,
+            "start_date": "2010",
+            "end_date": "Feb 2010",
+            "length": "1 month",
+            "start_months_since_1900": 1320,
+            "end_months_since_1900": 1321,
+            "length_in_months": 1
+        }
+    ],
+    "details": {
+        "First Name": "Lucas",
+        "Middle Name": "Daniel",
+        "Last Name": "Till",
+        "Maiden Name": "NA",
+        "Full Name at Birth": "Lucas Daniel Till",
+        "Alternative Name": "Luc",
+        "Birthday": "1990",
+        "Birthplace": "USA",
+        "Height": "178",
+        "Weight": "NA",
+        "Zodiac Sign": "12",
+        "Sexuality": "Straight",
+        "Religion": "18",
+        "Ethnicity": "6",
+        "Nationality": "91",
+        "Occupation": "8"
+    }
+}

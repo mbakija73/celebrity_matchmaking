@@ -1,0 +1,44 @@
+{
+    "relationships": [
+        {
+            "name": "Brian Donlevy",
+            "href": "https://www.whosdatedwho.com/dating/brian-donlevy",
+            "relationship_type": 4,
+            "start_date": "1964",
+            "end_date": "2nd Apr 1972",
+            "length": "8 years",
+            "start_months_since_1900": 768,
+            "end_months_since_1900": 867,
+            "length_in_months": 96
+        },
+        {
+            "name": "Bela Lugosi",
+            "href": "https://www.whosdatedwho.com/dating/bela-lugosi",
+            "relationship_type": 4,
+            "start_date": "1931",
+            "end_date": "17th Jul 1953",
+            "length": "22 years",
+            "start_months_since_1900": 372,
+            "end_months_since_1900": 642,
+            "length_in_months": 264
+        }
+    ],
+    "details": {
+        "First Name": "Lillian",
+        "Middle Name": "NA",
+        "Last Name": "Lugosi",
+        "Maiden Name": "NA",
+        "Full Name at Birth": "NA",
+        "Alternative Name": "NA",
+        "Birthday": "NA",
+        "Birthplace": "NA",
+        "Height": "NA",
+        "Weight": "NA",
+        "Zodiac Sign": "2",
+        "Sexuality": "Straight",
+        "Religion": "18",
+        "Ethnicity": "6",
+        "Nationality": "91",
+        "Occupation": "18"
+    }
+}

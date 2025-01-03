@@ -1,0 +1,44 @@
+{
+    "relationships": [
+        {
+            "name": "Kim Tae-yong",
+            "href": "https://www.whosdatedwho.com/dating/tae-yong-kim",
+            "relationship_type": 4,
+            "start_date": "2013",
+            "end_date": "present",
+            "length": "11 years",
+            "start_months_since_1900": 1356,
+            "end_months_since_1900": -1,
+            "length_in_months": 132
+        },
+        {
+            "name": "Tony Leung Chiu-wai",
+            "href": "https://www.whosdatedwho.com/dating/tony-chiu-wai-leung",
+            "relationship_type": 3,
+            "start_date": "2007",
+            "end_date": "2007",
+            "length": "-",
+            "start_months_since_1900": 1284,
+            "end_months_since_1900": 1284,
+            "length_in_months": -1
+        }
+    ],
+    "details": {
+        "First Name": "Tang",
+        "Middle Name": "NA",
+        "Last Name": "Wei",
+        "Maiden Name": "NA",
+        "Full Name at Birth": "NA",
+        "Alternative Name": "Tang Wei, \u6e6f\u552f",
+        "Birthday": "1979",
+        "Birthplace": "China",
+        "Height": "172",
+        "Weight": "NA",
+        "Zodiac Sign": "10",
+        "Sexuality": "Straight",
+        "Religion": "1",
+        "Ethnicity": "3",
+        "Nationality": "74",
+        "Occupation": "8"
+    }
+}

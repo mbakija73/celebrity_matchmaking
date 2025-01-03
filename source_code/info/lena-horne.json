@@ -1,0 +1,99 @@
+{
+    "relationships": [
+        {
+            "name": "Lennie Hayton",
+            "href": "https://www.whosdatedwho.com/dating/lennie-hayton",
+            "relationship_type": 4,
+            "start_date": "1946",
+            "end_date": "24th Apr 1971",
+            "length": "25 years",
+            "start_months_since_1900": 552,
+            "end_months_since_1900": 855,
+            "length_in_months": 300
+        },
+        {
+            "name": "Billy Eckstine",
+            "href": "https://www.whosdatedwho.com/dating/billy-eckstine",
+            "relationship_type": 2,
+            "start_date": "1944",
+            "end_date": "1944",
+            "length": "-",
+            "start_months_since_1900": 528,
+            "end_months_since_1900": 528,
+            "length_in_months": -1
+        },
+        {
+            "name": "Joe Louis",
+            "href": "https://www.whosdatedwho.com/dating/joe-louis",
+            "relationship_type": 2,
+            "start_date": "1941",
+            "end_date": "1949",
+            "length": "8 years",
+            "start_months_since_1900": 492,
+            "end_months_since_1900": 588,
+            "length_in_months": 96
+        },
+        {
+            "name": "Louis Jones",
+            "href": "https://www.whosdatedwho.com/dating/louis-jones",
+            "relationship_type": 4,
+            "start_date": "1935",
+            "end_date": "Jun 1944",
+            "length": "9 years",
+            "start_months_since_1900": 420,
+            "end_months_since_1900": 533,
+            "length_in_months": 108
+        },
+        {
+            "name": "Orson Welles",
+            "href": "https://www.whosdatedwho.com/dating/orson-welles",
+            "relationship_type": 3,
+            "start_date": "",
+            "end_date": "",
+            "length": "-",
+            "start_months_since_1900": -1,
+            "end_months_since_1900": -1,
+            "length_in_months": -1
+        },
+        {
+            "name": "George Jessel",
+            "href": "https://www.whosdatedwho.com/dating/george-jessel",
+            "relationship_type": 2,
+            "start_date": "",
+            "end_date": "",
+            "length": "-",
+            "start_months_since_1900": -1,
+            "end_months_since_1900": -1,
+            "length_in_months": -1
+        },
+        {
+            "name": "Billy Strayhorn",
+            "href": "https://www.whosdatedwho.com/dating/billy-strayhorn",
+            "relationship_type": 2,
+            "start_date": "",
+            "end_date": "",
+            "length": "-",
+            "start_months_since_1900": -1,
+            "end_months_since_1900": -1,
+            "length_in_months": -1
+        }
+    ],
+    "details": {
+        "First Name": "Lena",
+        "Middle Name": "Mary Calhoun",
+        "Last Name": "Horne",
+        "Maiden Name": "NA",
+        "Full Name at Birth": "Lena Mary Calhoun Horne",
+        "Alternative Name": "NA",
+        "Birthday": "1917",
+        "Birthplace": "USA",
+        "Height": "170",
+        "Weight": "120lbs (54 kg)",
+        "Zodiac Sign": "8",
+        "Sexuality": "Straight",
+        "Religion": "19",
+        "Ethnicity": "8",
+        "Nationality": "91",
+        "Occupation": "1"
+    }
+}

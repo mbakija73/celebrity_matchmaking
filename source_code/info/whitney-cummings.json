@@ -1,0 +1,55 @@
+{
+    "relationships": [
+        {
+            "name": "Miles Skinner",
+            "href": "https://www.whosdatedwho.com/dating/miles-skinner",
+            "relationship_type": 2,
+            "start_date": "2018",
+            "end_date": "2020",
+            "length": "2 years",
+            "start_months_since_1900": 1416,
+            "end_months_since_1900": 1440,
+            "length_in_months": 24
+        },
+        {
+            "name": "Kerry Rhodes",
+            "href": "https://www.whosdatedwho.com/dating/kerry-rhodes",
+            "relationship_type": 2,
+            "start_date": "2014",
+            "end_date": "2014",
+            "length": "-",
+            "start_months_since_1900": 1368,
+            "end_months_since_1900": 1368,
+            "length_in_months": -1
+        },
+        {
+            "name": "Peter Berg",
+            "href": "https://www.whosdatedwho.com/dating/peter-berg",
+            "relationship_type": 2,
+            "start_date": "Jun 2012",
+            "end_date": "Oct 2013",
+            "length": "1 year",
+            "start_months_since_1900": 1349,
+            "end_months_since_1900": 1365,
+            "length_in_months": 12
+        }
+    ],
+    "details": {
+        "First Name": "Whitney",
+        "Middle Name": "Ann",
+        "Last Name": "Cummings",
+        "Maiden Name": "NA",
+        "Full Name at Birth": "Whitney Ann Cummings",
+        "Alternative Name": "Whitney",
+        "Birthday": "1982",
+        "Birthplace": "USA",
+        "Height": "178",
+        "Weight": "132lbs (60 kg)",
+        "Zodiac Sign": "11",
+        "Sexuality": "Straight",
+        "Religion": "18",
+        "Ethnicity": "6",
+        "Nationality": "91",
+        "Occupation": "16"
+    }
+}

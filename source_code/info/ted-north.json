@@ -1,0 +1,77 @@
+{
+    "relationships": [
+        {
+            "name": "Pat Williams",
+            "href": "https://www.whosdatedwho.com/dating/pat-williams",
+            "relationship_type": 2,
+            "start_date": "Sep 1949",
+            "end_date": "Oct 1949",
+            "length": "1 month",
+            "start_months_since_1900": 596,
+            "end_months_since_1900": 597,
+            "length_in_months": 1
+        },
+        {
+            "name": "Audrey Totter",
+            "href": "https://www.whosdatedwho.com/dating/audrey-totter",
+            "relationship_type": 2,
+            "start_date": "Jan 1947",
+            "end_date": "Mar 1947",
+            "length": "1 month",
+            "start_months_since_1900": 564,
+            "end_months_since_1900": 566,
+            "length_in_months": 1
+        },
+        {
+            "name": "Sonja Henie",
+            "href": "https://www.whosdatedwho.com/dating/sonja-henie",
+            "relationship_type": 2,
+            "start_date": "1947",
+            "end_date": "1947",
+            "length": "-",
+            "start_months_since_1900": 564,
+            "end_months_since_1900": 564,
+            "length_in_months": -1
+        },
+        {
+            "name": "Mary Beth Hughes",
+            "href": "https://www.whosdatedwho.com/dating/mary-beth-hughes",
+            "relationship_type": 4,
+            "start_date": "Jul 1941",
+            "end_date": "Oct 1947",
+            "length": "6 years",
+            "start_months_since_1900": 498,
+            "end_months_since_1900": 573,
+            "length_in_months": 72
+        },
+        {
+            "name": "Marilyn Maxwell",
+            "href": "https://www.whosdatedwho.com/dating/marilyn-maxwell",
+            "relationship_type": 2,
+            "start_date": "",
+            "end_date": "",
+            "length": "-",
+            "start_months_since_1900": -1,
+            "end_months_since_1900": -1,
+            "length_in_months": -1
+        }
+    ],
+    "details": {
+        "First Name": "Ted",
+        "Middle Name": "NA",
+        "Last Name": "North",
+        "Maiden Name": "NA",
+        "Full Name at Birth": "Edward Ernest Steinel",
+        "Alternative Name": "Michael North, Edward J. Steinel, Edward Ernest Steinel, Edward E. Steinel, Ted North",
+        "Birthday": "1916",
+        "Birthplace": "USA",
+        "Height": "NA",
+        "Weight": "NA",
+        "Zodiac Sign": "10",
+        "Sexuality": "Straight",
+        "Religion": "1",
+        "Ethnicity": "6",
+        "Nationality": "91",
+        "Occupation": "8"
+    }
+}

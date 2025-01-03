@@ -1,0 +1,77 @@
+{
+    "relationships": [
+        {
+            "name": "Ben English",
+            "href": "https://www.whosdatedwho.com/dating/ben-english",
+            "relationship_type": 2,
+            "start_date": "1995",
+            "end_date": "1995",
+            "length": "-",
+            "start_months_since_1900": 1140,
+            "end_months_since_1900": 1140,
+            "length_in_months": -1
+        },
+        {
+            "name": "Tiffany Towers",
+            "href": "https://www.whosdatedwho.com/dating/tiffany-towers",
+            "relationship_type": 3,
+            "start_date": "",
+            "end_date": "",
+            "length": "-",
+            "start_months_since_1900": -1,
+            "end_months_since_1900": -1,
+            "length_in_months": -1
+        },
+        {
+            "name": "Julian",
+            "href": "https://www.whosdatedwho.com/dating/julian",
+            "relationship_type": 3,
+            "start_date": "",
+            "end_date": "",
+            "length": "-",
+            "start_months_since_1900": -1,
+            "end_months_since_1900": -1,
+            "length_in_months": -1
+        },
+        {
+            "name": "Mark Davis",
+            "href": "https://www.whosdatedwho.com/dating/mark-davis",
+            "relationship_type": 3,
+            "start_date": "",
+            "end_date": "",
+            "length": "-",
+            "start_months_since_1900": -1,
+            "end_months_since_1900": -1,
+            "length_in_months": -1
+        },
+        {
+            "name": "Rocco Siffredi",
+            "href": "https://www.whosdatedwho.com/dating/rocco-siffredi",
+            "relationship_type": 3,
+            "start_date": "",
+            "end_date": "",
+            "length": "-",
+            "start_months_since_1900": -1,
+            "end_months_since_1900": -1,
+            "length_in_months": -1
+        }
+    ],
+    "details": {
+        "First Name": "Tawny",
+        "Middle Name": "NA",
+        "Last Name": "Peaks",
+        "Maiden Name": "NA",
+        "Full Name at Birth": "Michele Ann Laird",
+        "Alternative Name": "Helene, Tawnee Peaks, Michele Ann Laird, Tawney Peaks",
+        "Birthday": "1970",
+        "Birthplace": "USA",
+        "Height": "152",
+        "Weight": "120lbs (54 kg)",
+        "Zodiac Sign": "3",
+        "Sexuality": "Bisexual",
+        "Religion": "1",
+        "Ethnicity": "6",
+        "Nationality": "91",
+        "Occupation": "16"
+    }
+}

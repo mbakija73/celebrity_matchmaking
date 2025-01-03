@@ -1,0 +1,66 @@
+{
+    "relationships": [
+        {
+            "name": "Tara Fowler",
+            "href": "https://www.whosdatedwho.com/dating/tara-fowler",
+            "relationship_type": 4,
+            "start_date": "2005",
+            "end_date": "present",
+            "length": "19 years",
+            "start_months_since_1900": 1260,
+            "end_months_since_1900": -1,
+            "length_in_months": 228
+        },
+        {
+            "name": "Kamala Harris",
+            "href": "https://www.whosdatedwho.com/dating/kamala-harris-politician",
+            "relationship_type": 3,
+            "start_date": "2001",
+            "end_date": "2001",
+            "length": "-",
+            "start_months_since_1900": 1212,
+            "end_months_since_1900": 1212,
+            "length_in_months": -1
+        },
+        {
+            "name": "Grace Morley",
+            "href": "https://www.whosdatedwho.com/dating/grace-morley",
+            "relationship_type": 4,
+            "start_date": "1992",
+            "end_date": "1992",
+            "length": "-",
+            "start_months_since_1900": 1104,
+            "end_months_since_1900": 1104,
+            "length_in_months": -1
+        },
+        {
+            "name": "Rochele See",
+            "href": "https://www.whosdatedwho.com/dating/rochele-see",
+            "relationship_type": 4,
+            "start_date": "1981",
+            "end_date": "1989",
+            "length": "8 years",
+            "start_months_since_1900": 972,
+            "end_months_since_1900": 1068,
+            "length_in_months": 96
+        }
+    ],
+    "details": {
+        "First Name": "Montel",
+        "Middle Name": "NA",
+        "Last Name": "Williams",
+        "Maiden Name": "NA",
+        "Full Name at Birth": "Montel Brian Anthony Williams",
+        "Alternative Name": "NA",
+        "Birthday": "1956",
+        "Birthplace": "USA",
+        "Height": "188",
+        "Weight": "NA",
+        "Zodiac Sign": "8",
+        "Sexuality": "Straight",
+        "Religion": "1",
+        "Ethnicity": "2",
+        "Nationality": "91",
+        "Occupation": "8"
+    }
+}

@@ -1,0 +1,33 @@
+{
+    "relationships": [
+        {
+            "name": "Evan Seinfeld",
+            "href": "https://www.whosdatedwho.com/dating/evan-seinfeld",
+            "relationship_type": 2,
+            "start_date": "Dec 2009",
+            "end_date": "present",
+            "length": "14 years",
+            "start_months_since_1900": 1319,
+            "end_months_since_1900": -1,
+            "length_in_months": 168
+        }
+    ],
+    "details": {
+        "First Name": "Lupe",
+        "Middle Name": "NA",
+        "Last Name": "Fuentes",
+        "Maiden Name": "NA",
+        "Full Name at Birth": "Zuleidy Piedrahita Vergara",
+        "Alternative Name": "Little Lupe, Zuleidy, Zuleydy Piedrahita, Lupe Fuentes",
+        "Birthday": "1987",
+        "Birthplace": "Canary Islands",
+        "Height": "145",
+        "Weight": "79lbs (36 kg)",
+        "Zodiac Sign": "9",
+        "Sexuality": "Bisexual",
+        "Religion": "1",
+        "Ethnicity": "8",
+        "Nationality": "133",
+        "Occupation": "16"
+    }
+}

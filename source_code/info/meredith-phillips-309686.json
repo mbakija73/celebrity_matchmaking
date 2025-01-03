@@ -1,0 +1,55 @@
+{
+    "relationships": [
+        {
+            "name": "Michael Broady",
+            "href": "https://www.whosdatedwho.com/dating/michael-broady-118463489",
+            "relationship_type": 4,
+            "start_date": "2010",
+            "end_date": "present",
+            "length": "14 years",
+            "start_months_since_1900": 1320,
+            "end_months_since_1900": -1,
+            "length_in_months": 168
+        },
+        {
+            "name": "Ian McKee",
+            "href": "https://www.whosdatedwho.com/dating/ian-mckee",
+            "relationship_type": 2,
+            "start_date": "2004",
+            "end_date": "2005",
+            "length": "1 year",
+            "start_months_since_1900": 1248,
+            "end_months_since_1900": 1260,
+            "length_in_months": 12
+        },
+        {
+            "name": "Bob Guiney",
+            "href": "https://www.whosdatedwho.com/dating/bob-guiney",
+            "relationship_type": 1,
+            "start_date": "2004",
+            "end_date": "2004",
+            "length": "-",
+            "start_months_since_1900": 1248,
+            "end_months_since_1900": 1248,
+            "length_in_months": -1
+        }
+    ],
+    "details": {
+        "First Name": "Meredith",
+        "Middle Name": "NA",
+        "Last Name": "Phillips",
+        "Maiden Name": "NA",
+        "Full Name at Birth": "Meredith Phillips",
+        "Alternative Name": "Meredith Phillips",
+        "Birthday": "1974",
+        "Birthplace": "USA",
+        "Height": "NA",
+        "Weight": "NA",
+        "Zodiac Sign": "11",
+        "Sexuality": "NA",
+        "Religion": "1",
+        "Ethnicity": "1",
+        "Nationality": "91",
+        "Occupation": "11"
+    }
+}

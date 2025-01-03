@@ -1,0 +1,66 @@
+{
+    "relationships": [
+        {
+            "name": "Brooklyn Peltz Beckham",
+            "href": "https://www.whosdatedwho.com/dating/brooklyn-beckham",
+            "relationship_type": 4,
+            "start_date": "Oct 2019",
+            "end_date": "present",
+            "length": "5 years",
+            "start_months_since_1900": 1437,
+            "end_months_since_1900": -1,
+            "length_in_months": 60
+        },
+        {
+            "name": "Anwar Hadid",
+            "href": "https://www.whosdatedwho.com/dating/anwar-hadid",
+            "relationship_type": 2,
+            "start_date": "Jan 2017",
+            "end_date": "May 2018",
+            "length": "1 year",
+            "start_months_since_1900": 1404,
+            "end_months_since_1900": 1420,
+            "length_in_months": 12
+        },
+        {
+            "name": "Justin Bieber",
+            "href": "https://www.whosdatedwho.com/dating/justin-bieber",
+            "relationship_type": 2,
+            "start_date": "May 2016",
+            "end_date": "Jul 2016",
+            "length": "2 months",
+            "start_months_since_1900": 1396,
+            "end_months_since_1900": 1398,
+            "length_in_months": 2
+        },
+        {
+            "name": "Dan Stevens",
+            "href": "https://www.whosdatedwho.com/dating/dan-stevens",
+            "relationship_type": 1,
+            "start_date": "",
+            "end_date": "",
+            "length": "-",
+            "start_months_since_1900": -1,
+            "end_months_since_1900": -1,
+            "length_in_months": -1
+        }
+    ],
+    "details": {
+        "First Name": "Nicola",
+        "Middle Name": "Anne",
+        "Last Name": "Peltz",
+        "Maiden Name": "Beckham",
+        "Full Name at Birth": "Nicola Anne Peltz Beckham",
+        "Alternative Name": "Nicky",
+        "Birthday": "1995",
+        "Birthplace": "U.S.",
+        "Height": "168",
+        "Weight": "120lbs (54 kg)",
+        "Zodiac Sign": "13",
+        "Sexuality": "Straight",
+        "Religion": "31",
+        "Ethnicity": "6",
+        "Nationality": "91",
+        "Occupation": "8"
+    }
+}

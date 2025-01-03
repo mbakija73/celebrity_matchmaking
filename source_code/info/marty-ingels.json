@@ -1,0 +1,33 @@
+{
+    "relationships": [
+        {
+            "name": "Shirley Jones",
+            "href": "https://www.whosdatedwho.com/dating/shirley-jones",
+            "relationship_type": 4,
+            "start_date": "13th Nov 1977",
+            "end_date": "21st Oct 2015",
+            "length": "37 years",
+            "start_months_since_1900": 934,
+            "end_months_since_1900": 1389,
+            "length_in_months": 444
+        }
+    ],
+    "details": {
+        "First Name": "Marty",
+        "Middle Name": "NA",
+        "Last Name": "Ingels",
+        "Maiden Name": "NA",
+        "Full Name at Birth": "Martin Ingerman",
+        "Alternative Name": "Martin Ingerman, Marty Ingels",
+        "Birthday": "1936",
+        "Birthplace": "New York USA",
+        "Height": "NA",
+        "Weight": "NA",
+        "Zodiac Sign": "1",
+        "Sexuality": "Straight",
+        "Religion": "31",
+        "Ethnicity": "6",
+        "Nationality": "91",
+        "Occupation": "8"
+    }
+}

@@ -1,0 +1,66 @@
+{
+    "relationships": [
+        {
+            "name": "Jason Alexander",
+            "href": "https://www.whosdatedwho.com/dating/jason-alexander-spouse",
+            "relationship_type": 2,
+            "start_date": "Nov 2012",
+            "end_date": "2012",
+            "length": "10 months",
+            "start_months_since_1900": 1354,
+            "end_months_since_1900": 1344,
+            "length_in_months": 10
+        },
+        {
+            "name": "Quentin Tarantino",
+            "href": "https://www.whosdatedwho.com/dating/quentin-tarantino",
+            "relationship_type": 2,
+            "start_date": "2005",
+            "end_date": "2005",
+            "length": "-",
+            "start_months_since_1900": 1260,
+            "end_months_since_1900": 1260,
+            "length_in_months": -1
+        },
+        {
+            "name": "Kevin Federline",
+            "href": "https://www.whosdatedwho.com/dating/kevin-federline",
+            "relationship_type": 2,
+            "start_date": "Jan 2000",
+            "end_date": "Mar 2004",
+            "length": "4 years",
+            "start_months_since_1900": 1200,
+            "end_months_since_1900": 1250,
+            "length_in_months": 48
+        },
+        {
+            "name": "Corey A. Jackson",
+            "href": "https://www.whosdatedwho.com/dating/corey-a-jackson",
+            "relationship_type": 2,
+            "start_date": "1992",
+            "end_date": "1996",
+            "length": "4 years",
+            "start_months_since_1900": 1104,
+            "end_months_since_1900": 1152,
+            "length_in_months": 48
+        }
+    ],
+    "details": {
+        "First Name": "Shar",
+        "Middle Name": "NA",
+        "Last Name": "Jackson",
+        "Maiden Name": "NA",
+        "Full Name at Birth": "Sharisse Jackson",
+        "Alternative Name": "Sharisse Jackson, Shar Jackson",
+        "Birthday": "1976",
+        "Birthplace": "USA",
+        "Height": "168",
+        "Weight": "128lbs (58 kg)",
+        "Zodiac Sign": "11",
+        "Sexuality": "Straight",
+        "Religion": "18",
+        "Ethnicity": "8",
+        "Nationality": "91",
+        "Occupation": "8"
+    }
+}

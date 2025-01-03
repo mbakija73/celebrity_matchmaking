@@ -1,0 +1,55 @@
+{
+    "relationships": [
+        {
+            "name": "Erik Estrada",
+            "href": "https://www.whosdatedwho.com/dating/erik-estrada",
+            "relationship_type": 2,
+            "start_date": "2006",
+            "end_date": "2008",
+            "length": "2 years",
+            "start_months_since_1900": 1272,
+            "end_months_since_1900": 1296,
+            "length_in_months": 24
+        },
+        {
+            "name": "Fernando Carrillo",
+            "href": "https://www.whosdatedwho.com/dating/fernando-carrillo",
+            "relationship_type": 2,
+            "start_date": "",
+            "end_date": "",
+            "length": "-",
+            "start_months_since_1900": -1,
+            "end_months_since_1900": -1,
+            "length_in_months": -1
+        },
+        {
+            "name": "Puerto Rican",
+            "href": "https://www.whosdatedwho.com/dating/puerto-rican",
+            "relationship_type": 2,
+            "start_date": "",
+            "end_date": "",
+            "length": "-",
+            "start_months_since_1900": -1,
+            "end_months_since_1900": -1,
+            "length_in_months": -1
+        }
+    ],
+    "details": {
+        "First Name": "Julia",
+        "Middle Name": "Haydee",
+        "Last Name": "Mora",
+        "Maiden Name": "NA",
+        "Full Name at Birth": "Julia Haydee Mora Maza",
+        "Alternative Name": "Julia Haydee Mora Maza, Julia Mora",
+        "Birthday": "1972",
+        "Birthplace": "El Salvador",
+        "Height": "165",
+        "Weight": "NA",
+        "Zodiac Sign": "10",
+        "Sexuality": "Straight",
+        "Religion": "18",
+        "Ethnicity": "6",
+        "Nationality": "102",
+        "Occupation": "15"
+    }
+}

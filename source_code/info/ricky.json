@@ -1,0 +1,66 @@
+{
+    "relationships": [
+        {
+            "name": "Jesse Jane",
+            "href": "https://www.whosdatedwho.com/dating/jesse-jane",
+            "relationship_type": 4,
+            "start_date": "2005",
+            "end_date": "2012",
+            "length": "7 years",
+            "start_months_since_1900": 1260,
+            "end_months_since_1900": 1344,
+            "length_in_months": 84
+        },
+        {
+            "name": "Nikita Denise",
+            "href": "https://www.whosdatedwho.com/dating/nikita-denise",
+            "relationship_type": 3,
+            "start_date": "2001",
+            "end_date": "2001",
+            "length": "-",
+            "start_months_since_1900": 1212,
+            "end_months_since_1900": 1212,
+            "length_in_months": -1
+        },
+        {
+            "name": "Savanna Samson",
+            "href": "https://www.whosdatedwho.com/dating/savanna-samson",
+            "relationship_type": 3,
+            "start_date": "",
+            "end_date": "",
+            "length": "-",
+            "start_months_since_1900": -1,
+            "end_months_since_1900": -1,
+            "length_in_months": -1
+        },
+        {
+            "name": "Tawny Roberts",
+            "href": "https://www.whosdatedwho.com/dating/tawny-roberts",
+            "relationship_type": 2,
+            "start_date": "",
+            "end_date": "",
+            "length": "-",
+            "start_months_since_1900": -1,
+            "end_months_since_1900": -1,
+            "length_in_months": -1
+        }
+    ],
+    "details": {
+        "First Name": "Rick",
+        "Middle Name": "NA",
+        "Last Name": "Patrick",
+        "Maiden Name": "NA",
+        "Full Name at Birth": "NA",
+        "Alternative Name": "Rick Roberts",
+        "Birthday": "1976",
+        "Birthplace": "United States",
+        "Height": "206",
+        "Weight": "NA",
+        "Zodiac Sign": "12",
+        "Sexuality": "Straight",
+        "Religion": "1",
+        "Ethnicity": "6",
+        "Nationality": "91",
+        "Occupation": "16"
+    }
+}

@@ -1,0 +1,77 @@
+{
+    "relationships": [
+        {
+            "name": "Seal",
+            "href": "https://www.whosdatedwho.com/dating/seal",
+            "relationship_type": 2,
+            "start_date": "Mar 2002",
+            "end_date": "Apr 2002",
+            "length": "1 month",
+            "start_months_since_1900": 1226,
+            "end_months_since_1900": 1227,
+            "length_in_months": 1
+        },
+        {
+            "name": "Giorgio Veroni",
+            "href": "https://www.whosdatedwho.com/dating/giorgio-veroni",
+            "relationship_type": 4,
+            "start_date": "Apr 1995",
+            "end_date": "",
+            "length": "-",
+            "start_months_since_1900": 1143,
+            "end_months_since_1900": -1,
+            "length_in_months": -1
+        },
+        {
+            "name": "Charlie Sheen",
+            "href": "https://www.whosdatedwho.com/dating/charlie-sheen",
+            "relationship_type": 3,
+            "start_date": "1994",
+            "end_date": "1994",
+            "length": "-",
+            "start_months_since_1900": 1128,
+            "end_months_since_1900": 1128,
+            "length_in_months": -1
+        },
+        {
+            "name": "Michael Stone",
+            "href": "https://www.whosdatedwho.com/dating/michael-stone",
+            "relationship_type": 2,
+            "start_date": "1994",
+            "end_date": "1995",
+            "length": "1 year",
+            "start_months_since_1900": 1128,
+            "end_months_since_1900": 1140,
+            "length_in_months": 12
+        },
+        {
+            "name": "William Gerhauser",
+            "href": "https://www.whosdatedwho.com/dating/william-gerhauser",
+            "relationship_type": 2,
+            "start_date": "1985",
+            "end_date": "1993",
+            "length": "8 years",
+            "start_months_since_1900": 1020,
+            "end_months_since_1900": 1116,
+            "length_in_months": 96
+        }
+    ],
+    "details": {
+        "First Name": "Tamara",
+        "Middle Name": "Jane",
+        "Last Name": "Veroni",
+        "Maiden Name": "Beckwith",
+        "Full Name at Birth": "Tamara Jane Beckwith",
+        "Alternative Name": "NA",
+        "Birthday": "1970",
+        "Birthplace": "UK",
+        "Height": "NA",
+        "Weight": "NA",
+        "Zodiac Sign": "7",
+        "Sexuality": "Straight",
+        "Religion": "1",
+        "Ethnicity": "6",
+        "Nationality": "8",
+        "Occupation": "11"
+    }
+}

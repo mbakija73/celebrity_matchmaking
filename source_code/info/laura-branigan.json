@@ -1,0 +1,55 @@
+{
+    "relationships": [
+        {
+            "name": "Ahmet Ertegun",
+            "href": "https://www.whosdatedwho.com/dating/ahmet-ertegun",
+            "relationship_type": 2,
+            "start_date": "1979",
+            "end_date": "1979",
+            "length": "-",
+            "start_months_since_1900": 948,
+            "end_months_since_1900": 948,
+            "length_in_months": -1
+        },
+        {
+            "name": "Lawrence Kruteck",
+            "href": "https://www.whosdatedwho.com/dating/lawrence-kruteck",
+            "relationship_type": 4,
+            "start_date": "",
+            "end_date": "",
+            "length": "-",
+            "start_months_since_1900": -1,
+            "end_months_since_1900": -1,
+            "length_in_months": -1
+        },
+        {
+            "name": "Paul Stanley",
+            "href": "https://www.whosdatedwho.com/dating/paul-stanley",
+            "relationship_type": 3,
+            "start_date": "",
+            "end_date": "",
+            "length": "-",
+            "start_months_since_1900": -1,
+            "end_months_since_1900": -1,
+            "length_in_months": -1
+        }
+    ],
+    "details": {
+        "First Name": "Laura",
+        "Middle Name": "Ann",
+        "Last Name": "NA",
+        "Maiden Name": "Branigan",
+        "Full Name at Birth": "Laura Ann Branigan",
+        "Alternative Name": "NA",
+        "Birthday": "1952",
+        "Birthplace": "USA",
+        "Height": "NA",
+        "Weight": "NA",
+        "Zodiac Sign": "8",
+        "Sexuality": "Straight",
+        "Religion": "1",
+        "Ethnicity": "6",
+        "Nationality": "91",
+        "Occupation": "1"
+    }
+}

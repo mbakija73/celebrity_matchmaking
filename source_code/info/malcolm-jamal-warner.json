@@ -1,0 +1,55 @@
+{
+    "relationships": [
+        {
+            "name": "Regina King",
+            "href": "https://www.whosdatedwho.com/dating/regina-king",
+            "relationship_type": 2,
+            "start_date": "Jan 2011",
+            "end_date": "Mar 2013",
+            "length": "2 years",
+            "start_months_since_1900": 1332,
+            "end_months_since_1900": 1358,
+            "length_in_months": 24
+        },
+        {
+            "name": "Karen Malina White",
+            "href": "https://www.whosdatedwho.com/dating/karen-malina-white",
+            "relationship_type": 2,
+            "start_date": "2000",
+            "end_date": "2007",
+            "length": "7 years",
+            "start_months_since_1900": 1200,
+            "end_months_since_1900": 1284,
+            "length_in_months": 84
+        },
+        {
+            "name": "Michelle Thomas",
+            "href": "https://www.whosdatedwho.com/dating/michelle-thomas",
+            "relationship_type": 2,
+            "start_date": "Jan 1988",
+            "end_date": "1994",
+            "length": "6 years",
+            "start_months_since_1900": 1056,
+            "end_months_since_1900": 1128,
+            "length_in_months": 72
+        }
+    ],
+    "details": {
+        "First Name": "Malcolm-Jamal",
+        "Middle Name": "NA",
+        "Last Name": "Warner",
+        "Maiden Name": "NA",
+        "Full Name at Birth": "Malcolm-Jamal Warner",
+        "Alternative Name": "Malcolm Jamal Warner",
+        "Birthday": "1970",
+        "Birthplace": "USA",
+        "Height": "180",
+        "Weight": "NA",
+        "Zodiac Sign": "12",
+        "Sexuality": "NA",
+        "Religion": "1",
+        "Ethnicity": "2",
+        "Nationality": "91",
+        "Occupation": "8"
+    }
+}

@@ -1,0 +1,99 @@
+{
+    "relationships": [
+        {
+            "name": "Stanley Kramer",
+            "href": "https://www.whosdatedwho.com/dating/stanley-kramer",
+            "relationship_type": 4,
+            "start_date": "1964",
+            "end_date": "Jan 2001",
+            "length": "37 years",
+            "start_months_since_1900": 768,
+            "end_months_since_1900": 1212,
+            "length_in_months": 444
+        },
+        {
+            "name": "Chester Marshall",
+            "href": "https://www.whosdatedwho.com/dating/chester-marshall",
+            "relationship_type": 4,
+            "start_date": "Aug 1957",
+            "end_date": "May 1961",
+            "length": "3 years",
+            "start_months_since_1900": 691,
+            "end_months_since_1900": 736,
+            "length_in_months": 36
+        },
+        {
+            "name": "Bob Neal",
+            "href": "https://www.whosdatedwho.com/dating/bob-neal",
+            "relationship_type": 1,
+            "start_date": "Jul 1957",
+            "end_date": "Jul 1957",
+            "length": "-",
+            "start_months_since_1900": 690,
+            "end_months_since_1900": 690,
+            "length_in_months": -1
+        },
+        {
+            "name": "Victor Mature",
+            "href": "https://www.whosdatedwho.com/dating/victor-mature",
+            "relationship_type": 2,
+            "start_date": "Dec 1956",
+            "end_date": "Dec 1956",
+            "length": "-",
+            "start_months_since_1900": 683,
+            "end_months_since_1900": 683,
+            "length_in_months": -1
+        },
+        {
+            "name": "Perry Lopez",
+            "href": "https://www.whosdatedwho.com/dating/perry-lopez",
+            "relationship_type": 2,
+            "start_date": "Nov 1955",
+            "end_date": "Nov 1955",
+            "length": "-",
+            "start_months_since_1900": 670,
+            "end_months_since_1900": 670,
+            "length_in_months": -1
+        },
+        {
+            "name": "Mark Damon",
+            "href": "https://www.whosdatedwho.com/dating/mark-damon",
+            "relationship_type": 2,
+            "start_date": "Aug 1955",
+            "end_date": "Aug 1955",
+            "length": "-",
+            "start_months_since_1900": 667,
+            "end_months_since_1900": 667,
+            "length_in_months": -1
+        },
+        {
+            "name": "Robert Stack",
+            "href": "https://www.whosdatedwho.com/dating/robert-stack",
+            "relationship_type": 2,
+            "start_date": "",
+            "end_date": "",
+            "length": "-",
+            "start_months_since_1900": -1,
+            "end_months_since_1900": -1,
+            "length_in_months": -1
+        }
+    ],
+    "details": {
+        "First Name": "Karen",
+        "Middle Name": "Kay",
+        "Last Name": "NA",
+        "Maiden Name": "Sharpe",
+        "Full Name at Birth": "Karen Kay Sharpe",
+        "Alternative Name": "NA",
+        "Birthday": "1934",
+        "Birthplace": "Texas",
+        "Height": "157",
+        "Weight": "NA",
+        "Zodiac Sign": "11",
+        "Sexuality": "Straight",
+        "Religion": "1",
+        "Ethnicity": "6",
+        "Nationality": "91",
+        "Occupation": "8"
+    }
+}

@@ -1,0 +1,44 @@
+{
+    "relationships": [
+        {
+            "name": "Ingmar Bergman",
+            "href": "https://www.whosdatedwho.com/dating/ingmar-bergman",
+            "relationship_type": 4,
+            "start_date": "1971",
+            "end_date": "1995",
+            "length": "24 years",
+            "start_months_since_1900": 852,
+            "end_months_since_1900": 1140,
+            "length_in_months": 288
+        },
+        {
+            "name": "Jan-Carl von Rosen",
+            "href": "https://www.whosdatedwho.com/dating/jan-carl-von-rosen",
+            "relationship_type": 4,
+            "start_date": "1953",
+            "end_date": "1971",
+            "length": "18 years",
+            "start_months_since_1900": 636,
+            "end_months_since_1900": 852,
+            "length_in_months": 216
+        }
+    ],
+    "details": {
+        "First Name": "Ingrid",
+        "Middle Name": "NA",
+        "Last Name": "von Rosen",
+        "Maiden Name": "Karlebo",
+        "Full Name at Birth": "Ingrid Karlebo",
+        "Alternative Name": "Ingrid von Rosen, Ingrid Bergman, Ingrid Karlebo, Ingrid Karlebo von Rosen Bergman",
+        "Birthday": "1930",
+        "Birthplace": "Sweden",
+        "Height": "NA",
+        "Weight": "NA",
+        "Zodiac Sign": "13",
+        "Sexuality": "NA",
+        "Religion": "1",
+        "Ethnicity": "1",
+        "Nationality": "30",
+        "Occupation": "8"
+    }
+}

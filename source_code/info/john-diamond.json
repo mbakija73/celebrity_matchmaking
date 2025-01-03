@@ -1,0 +1,33 @@
+{
+    "relationships": [
+        {
+            "name": "Nigella Lawson",
+            "href": "https://www.whosdatedwho.com/dating/nigella-lawson",
+            "relationship_type": 4,
+            "start_date": "1986",
+            "end_date": "2nd Mar 2001",
+            "length": "15 years",
+            "start_months_since_1900": 1032,
+            "end_months_since_1900": 1214,
+            "length_in_months": 180
+        }
+    ],
+    "details": {
+        "First Name": "John",
+        "Middle Name": "Ashton",
+        "Last Name": "Diamond",
+        "Maiden Name": "NA",
+        "Full Name at Birth": "John Ashton Diamond",
+        "Alternative Name": "The John Diamond - Oral Cancer Foundation, The Diamond geezer, The John Diamond Voice Laboratory at the Royal Marsden Hospital",
+        "Birthday": "1953",
+        "Birthplace": "UK",
+        "Height": "183",
+        "Weight": "185lbs (84 kg)",
+        "Zodiac Sign": "3",
+        "Sexuality": "Straight",
+        "Religion": "26",
+        "Ethnicity": "6",
+        "Nationality": "98",
+        "Occupation": "3"
+    }
+}

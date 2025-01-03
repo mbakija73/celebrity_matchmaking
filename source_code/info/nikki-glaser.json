@@ -1,0 +1,77 @@
+{
+    "relationships": [
+        {
+            "name": "Bobby Bones",
+            "href": "https://www.whosdatedwho.com/dating/bobby-bones-radio-personality",
+            "relationship_type": 3,
+            "start_date": "Sep 2018",
+            "end_date": "Sep 2018",
+            "length": "-",
+            "start_months_since_1900": 1424,
+            "end_months_since_1900": 1424,
+            "length_in_months": -1
+        },
+        {
+            "name": "Dan Soder",
+            "href": "https://www.whosdatedwho.com/dating/dan-soder",
+            "relationship_type": 2,
+            "start_date": "2016",
+            "end_date": "2016",
+            "length": "-",
+            "start_months_since_1900": 1392,
+            "end_months_since_1900": 1392,
+            "length_in_months": -1
+        },
+        {
+            "name": "Pete Lee",
+            "href": "https://www.whosdatedwho.com/dating/pete-lee",
+            "relationship_type": 2,
+            "start_date": "",
+            "end_date": "",
+            "length": "-",
+            "start_months_since_1900": -1,
+            "end_months_since_1900": -1,
+            "length_in_months": -1
+        },
+        {
+            "name": "Mike Recine",
+            "href": "https://www.whosdatedwho.com/dating/mike-recine",
+            "relationship_type": 3,
+            "start_date": "",
+            "end_date": "",
+            "length": "-",
+            "start_months_since_1900": -1,
+            "end_months_since_1900": -1,
+            "length_in_months": -1
+        },
+        {
+            "name": "Chris Convy",
+            "href": "https://www.whosdatedwho.com/dating/chris-convy-109141476",
+            "relationship_type": 2,
+            "start_date": "",
+            "end_date": "",
+            "length": "-",
+            "start_months_since_1900": -1,
+            "end_months_since_1900": -1,
+            "length_in_months": -1
+        }
+    ],
+    "details": {
+        "First Name": "Nikki",
+        "Middle Name": "NA",
+        "Last Name": "Glaser",
+        "Maiden Name": "NA",
+        "Full Name at Birth": "Nicole Rene Glaser",
+        "Alternative Name": "Nikki Glaser, Nicole Rene Glaser, Nikki, Grandma Jennifer",
+        "Birthday": "1984",
+        "Birthplace": "USA",
+        "Height": "175",
+        "Weight": "126lbs (57 kg)",
+        "Zodiac Sign": "4",
+        "Sexuality": "Straight",
+        "Religion": "1",
+        "Ethnicity": "6",
+        "Nationality": "91",
+        "Occupation": "16"
+    }
+}

@@ -1,0 +1,99 @@
+{
+    "relationships": [
+        {
+            "name": "Erin Fleming",
+            "href": "https://www.whosdatedwho.com/dating/erin-fleming",
+            "relationship_type": 2,
+            "start_date": "1970",
+            "end_date": "Aug 1977",
+            "length": "7 years",
+            "start_months_since_1900": 840,
+            "end_months_since_1900": 931,
+            "length_in_months": 84
+        },
+        {
+            "name": "Kathleen Hughes",
+            "href": "https://www.whosdatedwho.com/dating/kathleen-hughes",
+            "relationship_type": 3,
+            "start_date": "Nov 1953",
+            "end_date": "Jan 1954",
+            "length": "2 months",
+            "start_months_since_1900": 646,
+            "end_months_since_1900": 648,
+            "length_in_months": 2
+        },
+        {
+            "name": "Eden Hartford",
+            "href": "https://www.whosdatedwho.com/dating/eden-hartford",
+            "relationship_type": 4,
+            "start_date": "Sep 1953",
+            "end_date": "4th Dec 1969",
+            "length": "16 years",
+            "start_months_since_1900": 644,
+            "end_months_since_1900": 839,
+            "length_in_months": 192
+        },
+        {
+            "name": "Karen Steele",
+            "href": "https://www.whosdatedwho.com/dating/karen-steele",
+            "relationship_type": 2,
+            "start_date": "Jul 1950",
+            "end_date": "Aug 1953",
+            "length": "3 years",
+            "start_months_since_1900": 606,
+            "end_months_since_1900": 643,
+            "length_in_months": 36
+        },
+        {
+            "name": "Kay Marvis",
+            "href": "https://www.whosdatedwho.com/dating/kay-marvis",
+            "relationship_type": 4,
+            "start_date": "Feb 1944",
+            "end_date": "May 1951",
+            "length": "7 years",
+            "start_months_since_1900": 529,
+            "end_months_since_1900": 616,
+            "length_in_months": 84
+        },
+        {
+            "name": "Ruth Johnson",
+            "href": "https://www.whosdatedwho.com/dating/ruth-johnson",
+            "relationship_type": 4,
+            "start_date": "Feb 1919",
+            "end_date": "Jul 1942",
+            "length": "23 years",
+            "start_months_since_1900": 229,
+            "end_months_since_1900": 510,
+            "length_in_months": 276
+        },
+        {
+            "name": "Tallulah Bankhead",
+            "href": "https://www.whosdatedwho.com/dating/tallulah-bankhead",
+            "relationship_type": 2,
+            "start_date": "",
+            "end_date": "",
+            "length": "-",
+            "start_months_since_1900": -1,
+            "end_months_since_1900": -1,
+            "length_in_months": -1
+        }
+    ],
+    "details": {
+        "First Name": "Groucho",
+        "Middle Name": "Henry",
+        "Last Name": "Marx",
+        "Maiden Name": "NA",
+        "Full Name at Birth": "Julius Henry Marx",
+        "Alternative Name": "Julius Henry \"Groucho\" Marx",
+        "Birthday": "1890",
+        "Birthplace": "USA",
+        "Height": "173",
+        "Weight": "NA",
+        "Zodiac Sign": "10",
+        "Sexuality": "Straight",
+        "Religion": "31",
+        "Ethnicity": "6",
+        "Nationality": "91",
+        "Occupation": "8"
+    }
+}

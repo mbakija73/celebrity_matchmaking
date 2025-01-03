@@ -1,0 +1,77 @@
+{
+    "relationships": [
+        {
+            "name": "Zoe Naylor",
+            "href": "https://www.whosdatedwho.com/dating/zoe-naylor",
+            "relationship_type": 2,
+            "start_date": "2010",
+            "end_date": "present",
+            "length": "14 years",
+            "start_months_since_1900": 1320,
+            "end_months_since_1900": -1,
+            "length_in_months": 168
+        },
+        {
+            "name": "Vanessa Gray",
+            "href": "https://www.whosdatedwho.com/dating/vanessa-gray",
+            "relationship_type": 3,
+            "start_date": "Aug 2008",
+            "end_date": "Aug 2008",
+            "length": "-",
+            "start_months_since_1900": 1303,
+            "end_months_since_1900": 1303,
+            "length_in_months": -1
+        },
+        {
+            "name": "Peta Wilson",
+            "href": "https://www.whosdatedwho.com/dating/peta-wilson",
+            "relationship_type": 2,
+            "start_date": "Sep 2007",
+            "end_date": "2008",
+            "length": "4 months",
+            "start_months_since_1900": 1292,
+            "end_months_since_1900": 1296,
+            "length_in_months": 4
+        },
+        {
+            "name": "Melinda Medich",
+            "href": "https://www.whosdatedwho.com/dating/melinda-medich",
+            "relationship_type": 4,
+            "start_date": "2003",
+            "end_date": "2005",
+            "length": "2 years",
+            "start_months_since_1900": 1236,
+            "end_months_since_1900": 1260,
+            "length_in_months": 24
+        },
+        {
+            "name": "Danielle Cormack",
+            "href": "https://www.whosdatedwho.com/dating/danielle-cormack",
+            "relationship_type": 1,
+            "start_date": "",
+            "end_date": "",
+            "length": "-",
+            "start_months_since_1900": -1,
+            "end_months_since_1900": -1,
+            "length_in_months": -1
+        }
+    ],
+    "details": {
+        "First Name": "Aaron",
+        "Middle Name": "NA",
+        "Last Name": "Jeffery",
+        "Maiden Name": "NA",
+        "Full Name at Birth": "Aaron C. Jeffery",
+        "Alternative Name": "NA",
+        "Birthday": "1969",
+        "Birthplace": "New Zealand",
+        "Height": "196",
+        "Weight": "NA",
+        "Zodiac Sign": "11",
+        "Sexuality": "Straight",
+        "Religion": "1",
+        "Ethnicity": "6",
+        "Nationality": "72",
+        "Occupation": "8"
+    }
+}

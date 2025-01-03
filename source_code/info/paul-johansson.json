@@ -1,0 +1,77 @@
+{
+    "relationships": [
+        {
+            "name": "Julia Jones",
+            "href": "https://www.whosdatedwho.com/dating/julia-jones",
+            "relationship_type": 2,
+            "start_date": "2009",
+            "end_date": "2009",
+            "length": "-",
+            "start_months_since_1900": 1308,
+            "end_months_since_1900": 1308,
+            "length_in_months": -1
+        },
+        {
+            "name": "Katherine Bailess",
+            "href": "https://www.whosdatedwho.com/dating/katherine-bailess",
+            "relationship_type": 2,
+            "start_date": "2005",
+            "end_date": "2006",
+            "length": "1 year",
+            "start_months_since_1900": 1260,
+            "end_months_since_1900": 1272,
+            "length_in_months": 12
+        },
+        {
+            "name": "Gabriela Oltean",
+            "href": "https://www.whosdatedwho.com/dating/gabriela-oltean",
+            "relationship_type": 4,
+            "start_date": "2001",
+            "end_date": "2005",
+            "length": "4 years",
+            "start_months_since_1900": 1212,
+            "end_months_since_1900": 1260,
+            "length_in_months": 48
+        },
+        {
+            "name": "Kim Henderson",
+            "href": "https://www.whosdatedwho.com/dating/kim-henderson",
+            "relationship_type": 2,
+            "start_date": "Mar 1992",
+            "end_date": "1993",
+            "length": "10 months",
+            "start_months_since_1900": 1106,
+            "end_months_since_1900": 1116,
+            "length_in_months": 10
+        },
+        {
+            "name": "Kelly Rutherford",
+            "href": "https://www.whosdatedwho.com/dating/kelly-rutherford",
+            "relationship_type": 3,
+            "start_date": "Jun 1989",
+            "end_date": "Jun 1989",
+            "length": "-",
+            "start_months_since_1900": 1073,
+            "end_months_since_1900": 1073,
+            "length_in_months": -1
+        }
+    ],
+    "details": {
+        "First Name": "Paul",
+        "Middle Name": "Joseph",
+        "Last Name": "Johansson",
+        "Maiden Name": "NA",
+        "Full Name at Birth": "Paul Joseph Otto Johansson",
+        "Alternative Name": "NA",
+        "Birthday": "1964",
+        "Birthplace": "USA",
+        "Height": "188",
+        "Weight": "NA",
+        "Zodiac Sign": "9",
+        "Sexuality": "Straight",
+        "Religion": "1",
+        "Ethnicity": "6",
+        "Nationality": "91",
+        "Occupation": "8"
+    }
+}

@@ -1,0 +1,55 @@
+{
+    "relationships": [
+        {
+            "name": "Tom Fraud",
+            "href": "https://www.whosdatedwho.com/dating/tom-fraud",
+            "relationship_type": 2,
+            "start_date": "2021",
+            "end_date": "",
+            "length": "-",
+            "start_months_since_1900": 1452,
+            "end_months_since_1900": -1,
+            "length_in_months": -1
+        },
+        {
+            "name": "Nick Hardy",
+            "href": "https://www.whosdatedwho.com/dating/nick-hardy-113582635",
+            "relationship_type": 4,
+            "start_date": "2021",
+            "end_date": "present",
+            "length": "3 years",
+            "start_months_since_1900": 1452,
+            "end_months_since_1900": -1,
+            "length_in_months": 36
+        },
+        {
+            "name": "Mario Cimarro",
+            "href": "https://www.whosdatedwho.com/dating/mario-cimarro",
+            "relationship_type": 2,
+            "start_date": "2008",
+            "end_date": "2013",
+            "length": "5 years",
+            "start_months_since_1900": 1296,
+            "end_months_since_1900": 1356,
+            "length_in_months": 60
+        }
+    ],
+    "details": {
+        "First Name": "Vanessa",
+        "Middle Name": "Qui\u00f1ones",
+        "Last Name": "Villela",
+        "Maiden Name": "Romo",
+        "Full Name at Birth": "Vanessa Qui\u00f1ones Romo",
+        "Alternative Name": "Fotki Vanessy Villeli, Vanessa Villela, Vannessa, Vannesa Villela, Vannessa Villela, Vanessa Qui\u00f1ones Romo, Vanessa Qui\u00f1ones Romo Villela",
+        "Birthday": "1978",
+        "Birthplace": "Mexico",
+        "Height": "164",
+        "Weight": "110lbs (50 kg)",
+        "Zodiac Sign": "9",
+        "Sexuality": "Straight",
+        "Religion": "1",
+        "Ethnicity": "6",
+        "Nationality": "7",
+        "Occupation": "8"
+    }
+}

@@ -1,0 +1,33 @@
+{
+    "relationships": [
+        {
+            "name": "Doris Duke",
+            "href": "https://www.whosdatedwho.com/dating/doris-duke",
+            "relationship_type": 4,
+            "start_date": "1935",
+            "end_date": "1943",
+            "length": "8 years",
+            "start_months_since_1900": 420,
+            "end_months_since_1900": 516,
+            "length_in_months": 96
+        }
+    ],
+    "details": {
+        "First Name": "James",
+        "Middle Name": "H.R.",
+        "Last Name": "Cromwell",
+        "Maiden Name": "NA",
+        "Full Name at Birth": "James Henry Roberts Cromwell",
+        "Alternative Name": "James H. R. Cromwell, James Henry Roberts Cromwell, James Cromwell",
+        "Birthday": "1896",
+        "Birthplace": "New York USA",
+        "Height": "NA",
+        "Weight": "NA",
+        "Zodiac Sign": "4",
+        "Sexuality": "Straight",
+        "Religion": "1",
+        "Ethnicity": "6",
+        "Nationality": "91",
+        "Occupation": "12"
+    }
+}

@@ -1,0 +1,44 @@
+{
+    "relationships": [
+        {
+            "name": "Luis Miguel",
+            "href": "https://www.whosdatedwho.com/dating/luis-miguel",
+            "relationship_type": 2,
+            "start_date": "2022",
+            "end_date": "present",
+            "length": "2 years",
+            "start_months_since_1900": 1464,
+            "end_months_since_1900": -1,
+            "length_in_months": 24
+        },
+        {
+            "name": "Enrique Ponce",
+            "href": "https://www.whosdatedwho.com/dating/enrique-ponce",
+            "relationship_type": 4,
+            "start_date": "",
+            "end_date": "",
+            "length": "-",
+            "start_months_since_1900": -1,
+            "end_months_since_1900": -1,
+            "length_in_months": -1
+        }
+    ],
+    "details": {
+        "First Name": "Paloma",
+        "Middle Name": "NA",
+        "Last Name": "Cuevas",
+        "Maiden Name": "NA",
+        "Full Name at Birth": "Paloma Cuevas D\u00edaz",
+        "Alternative Name": "NA",
+        "Birthday": "1972",
+        "Birthplace": "Spain",
+        "Height": "NA",
+        "Weight": "NA",
+        "Zodiac Sign": "11",
+        "Sexuality": "NA",
+        "Religion": "1",
+        "Ethnicity": "1",
+        "Nationality": "118",
+        "Occupation": "15"
+    }
+}

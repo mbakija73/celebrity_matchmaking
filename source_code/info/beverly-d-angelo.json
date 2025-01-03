@@ -1,0 +1,110 @@
+{
+    "relationships": [
+        {
+            "name": "Al Pacino",
+            "href": "https://www.whosdatedwho.com/dating/al-pacino",
+            "relationship_type": 2,
+            "start_date": "Mar 1997",
+            "end_date": "Jan 2003",
+            "length": "5 years",
+            "start_months_since_1900": 1166,
+            "end_months_since_1900": 1236,
+            "length_in_months": 60
+        },
+        {
+            "name": "Damian Chapa",
+            "href": "https://www.whosdatedwho.com/dating/damian-chapa",
+            "relationship_type": 2,
+            "start_date": "Jan 1994",
+            "end_date": "Mar 1994",
+            "length": "1 month",
+            "start_months_since_1900": 1128,
+            "end_months_since_1900": 1130,
+            "length_in_months": 1
+        },
+        {
+            "name": "Scott Baio",
+            "href": "https://www.whosdatedwho.com/dating/scott-baio",
+            "relationship_type": 2,
+            "start_date": "1994",
+            "end_date": "1995",
+            "length": "1 year",
+            "start_months_since_1900": 1128,
+            "end_months_since_1900": 1140,
+            "length_in_months": 12
+        },
+        {
+            "name": "Anton Furst",
+            "href": "https://www.whosdatedwho.com/dating/anton-furst",
+            "relationship_type": 2,
+            "start_date": "1987",
+            "end_date": "Oct 1991",
+            "length": "4 years",
+            "start_months_since_1900": 1044,
+            "end_months_since_1900": 1101,
+            "length_in_months": 48
+        },
+        {
+            "name": "Neil Jordan",
+            "href": "https://www.whosdatedwho.com/dating/neil-jordan",
+            "relationship_type": 2,
+            "start_date": "1985",
+            "end_date": "1991",
+            "length": "6 years",
+            "start_months_since_1900": 1020,
+            "end_months_since_1900": 1092,
+            "length_in_months": 72
+        },
+        {
+            "name": "Lorenzo Salviati",
+            "href": "https://www.whosdatedwho.com/dating/lorenzo-salviati",
+            "relationship_type": 4,
+            "start_date": "1981",
+            "end_date": "1995",
+            "length": "14 years",
+            "start_months_since_1900": 972,
+            "end_months_since_1900": 1140,
+            "length_in_months": 168
+        },
+        {
+            "name": "Milos Forman",
+            "href": "https://www.whosdatedwho.com/dating/milos-forman",
+            "relationship_type": 2,
+            "start_date": "1979",
+            "end_date": "1981",
+            "length": "2 years",
+            "start_months_since_1900": 948,
+            "end_months_since_1900": 972,
+            "length_in_months": 24
+        },
+        {
+            "name": "Sam Kinison",
+            "href": "https://www.whosdatedwho.com/dating/sam-kinison",
+            "relationship_type": 2,
+            "start_date": "",
+            "end_date": "",
+            "length": "-",
+            "start_months_since_1900": -1,
+            "end_months_since_1900": -1,
+            "length_in_months": -1
+        }
+    ],
+    "details": {
+        "First Name": "Beverly",
+        "Middle Name": "Heather",
+        "Last Name": "Dangelo",
+        "Maiden Name": "D' Angelo",
+        "Full Name at Birth": "Beverly Heather D`Angelo",
+        "Alternative Name": "Beverly D'Angelo, Beverly Heather D`Angelo, Beverly",
+        "Birthday": "1951",
+        "Birthplace": "USA",
+        "Height": "157",
+        "Weight": "135lbs (61 kg)",
+        "Zodiac Sign": "5",
+        "Sexuality": "Straight",
+        "Religion": "18",
+        "Ethnicity": "6",
+        "Nationality": "91",
+        "Occupation": "8"
+    }
+}

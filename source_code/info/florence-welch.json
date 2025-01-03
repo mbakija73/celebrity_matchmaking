@@ -1,0 +1,66 @@
+{
+    "relationships": [
+        {
+            "name": "Felix White",
+            "href": "https://www.whosdatedwho.com/dating/felix-white-musician",
+            "relationship_type": 2,
+            "start_date": "2016",
+            "end_date": "present",
+            "length": "8 years",
+            "start_months_since_1900": 1392,
+            "end_months_since_1900": -1,
+            "length_in_months": 96
+        },
+        {
+            "name": "James Nesbitt",
+            "href": "https://www.whosdatedwho.com/dating/james-nesbitt",
+            "relationship_type": 2,
+            "start_date": "Jan 2012",
+            "end_date": "2015",
+            "length": "3 years",
+            "start_months_since_1900": 1344,
+            "end_months_since_1900": 1380,
+            "length_in_months": 36
+        },
+        {
+            "name": "Stuart Hammond",
+            "href": "https://www.whosdatedwho.com/dating/stuart-hammond",
+            "relationship_type": 2,
+            "start_date": "2007",
+            "end_date": "2011",
+            "length": "4 years",
+            "start_months_since_1900": 1284,
+            "end_months_since_1900": 1332,
+            "length_in_months": 48
+        },
+        {
+            "name": "Isabella Summers",
+            "href": "https://www.whosdatedwho.com/dating/isabella-summers",
+            "relationship_type": 1,
+            "start_date": "",
+            "end_date": "",
+            "length": "-",
+            "start_months_since_1900": -1,
+            "end_months_since_1900": -1,
+            "length_in_months": -1
+        }
+    ],
+    "details": {
+        "First Name": "Florence",
+        "Middle Name": "Leontine Mary",
+        "Last Name": "Welch",
+        "Maiden Name": "NA",
+        "Full Name at Birth": "Florence Leontine Mary Welch",
+        "Alternative Name": "Florence Welch, Flor, Florence Leontine Mary Welch",
+        "Birthday": "1986",
+        "Birthplace": "England UK",
+        "Height": "175",
+        "Weight": "135lbs (61 kg)",
+        "Zodiac Sign": "11",
+        "Sexuality": "DISPUTED",
+        "Religion": "37",
+        "Ethnicity": "6",
+        "Nationality": "8",
+        "Occupation": "1"
+    }
+}

@@ -1,0 +1,66 @@
+{
+    "relationships": [
+        {
+            "name": "Ike Turner",
+            "href": "https://www.whosdatedwho.com/dating/ike-turner",
+            "relationship_type": 3,
+            "start_date": "1979",
+            "end_date": "1979",
+            "length": "-",
+            "start_months_since_1900": 948,
+            "end_months_since_1900": 948,
+            "length_in_months": -1
+        },
+        {
+            "name": "Maurice White",
+            "href": "https://www.whosdatedwho.com/dating/maurice-white",
+            "relationship_type": 3,
+            "start_date": "",
+            "end_date": "",
+            "length": "-",
+            "start_months_since_1900": -1,
+            "end_months_since_1900": -1,
+            "length_in_months": -1
+        },
+        {
+            "name": "Ledisi",
+            "href": "https://www.whosdatedwho.com/dating/ledisi-anibade-young",
+            "relationship_type": 3,
+            "start_date": "",
+            "end_date": "",
+            "length": "-",
+            "start_months_since_1900": -1,
+            "end_months_since_1900": -1,
+            "length_in_months": -1
+        },
+        {
+            "name": "Richard Holland (songwriter)",
+            "href": "https://www.whosdatedwho.com/dating/richard-holland-songwriter",
+            "relationship_type": 4,
+            "start_date": "",
+            "end_date": "",
+            "length": "-",
+            "start_months_since_1900": -1,
+            "end_months_since_1900": -1,
+            "length_in_months": -1
+        }
+    ],
+    "details": {
+        "First Name": "Chaka",
+        "Middle Name": "NA",
+        "Last Name": "Khan",
+        "Maiden Name": "NA",
+        "Full Name at Birth": "Yvette Marie Stevens",
+        "Alternative Name": "Chaka Adunne Aduffe Hodarhi Karifi Khan, Queen of Funk, Chaka Adunne Aduffe Yemoja Hodarhi Karifi Khan",
+        "Birthday": "1953",
+        "Birthplace": "USA",
+        "Height": "163",
+        "Weight": "165lbs (75 kg)",
+        "Zodiac Sign": "7",
+        "Sexuality": "Bisexual",
+        "Religion": "13",
+        "Ethnicity": "2",
+        "Nationality": "91",
+        "Occupation": "1"
+    }
+}

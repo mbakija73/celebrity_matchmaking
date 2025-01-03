@@ -1,0 +1,44 @@
+{
+    "relationships": [
+        {
+            "name": "Jeffrey Wright",
+            "href": "https://www.whosdatedwho.com/dating/jeffrey-wright",
+            "relationship_type": 4,
+            "start_date": "2000",
+            "end_date": "2014",
+            "length": "14 years",
+            "start_months_since_1900": 1200,
+            "end_months_since_1900": 1368,
+            "length_in_months": 168
+        },
+        {
+            "name": "Tricky",
+            "href": "https://www.whosdatedwho.com/dating/tricky",
+            "relationship_type": 4,
+            "start_date": "1997",
+            "end_date": "2000",
+            "length": "3 years",
+            "start_months_since_1900": 1164,
+            "end_months_since_1900": 1200,
+            "length_in_months": 36
+        }
+    ],
+    "details": {
+        "First Name": "Carmen",
+        "Middle Name": "Elizabeth",
+        "Last Name": "Ejogo",
+        "Maiden Name": "NA",
+        "Full Name at Birth": "Carmen Elizabeth Ejogo",
+        "Alternative Name": "Carmen Elizabeth Ejogo, Carmen Ejogo, Carmen",
+        "Birthday": "1973",
+        "Birthplace": "UK",
+        "Height": "168",
+        "Weight": "121lbs (55 kg)",
+        "Zodiac Sign": "10",
+        "Sexuality": "Straight",
+        "Religion": "1",
+        "Ethnicity": "8",
+        "Nationality": "8",
+        "Occupation": "8"
+    }
+}

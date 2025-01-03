@@ -1,0 +1,77 @@
+{
+    "relationships": [
+        {
+            "name": "Feid",
+            "href": "https://www.whosdatedwho.com/dating/feid",
+            "relationship_type": 2,
+            "start_date": "2023",
+            "end_date": "present",
+            "length": "1 year",
+            "start_months_since_1900": 1476,
+            "end_months_since_1900": -1,
+            "length_in_months": 12
+        },
+        {
+            "name": "James Rodr\u00edguez",
+            "href": "https://www.whosdatedwho.com/dating/james-rodriguez-footballer",
+            "relationship_type": 1,
+            "start_date": "2022",
+            "end_date": "2022",
+            "length": "-",
+            "start_months_since_1900": 1464,
+            "end_months_since_1900": 1464,
+            "length_in_months": -1
+        },
+        {
+            "name": "Anuel AA",
+            "href": "https://www.whosdatedwho.com/dating/anuel-aa",
+            "relationship_type": 2,
+            "start_date": "Aug 2018",
+            "end_date": "Sep 2020",
+            "length": "2 years",
+            "start_months_since_1900": 1423,
+            "end_months_since_1900": 1448,
+            "length_in_months": 24
+        },
+        {
+            "name": "Bull nene",
+            "href": "https://www.whosdatedwho.com/dating/bull-nene",
+            "relationship_type": 2,
+            "start_date": "Feb 2018",
+            "end_date": "Sep 2018",
+            "length": "7 months",
+            "start_months_since_1900": 1417,
+            "end_months_since_1900": 1424,
+            "length_in_months": 7
+        },
+        {
+            "name": "J Balvin",
+            "href": "https://www.whosdatedwho.com/dating/j-balvin",
+            "relationship_type": 1,
+            "start_date": "Jun 2017",
+            "end_date": "Jun 2017",
+            "length": "-",
+            "start_months_since_1900": 1409,
+            "end_months_since_1900": 1409,
+            "length_in_months": -1
+        }
+    ],
+    "details": {
+        "First Name": "Karol",
+        "Middle Name": "NA",
+        "Last Name": "G",
+        "Maiden Name": "NA",
+        "Full Name at Birth": "Carolina Giraldo Navarro",
+        "Alternative Name": "Karol G, Carolina Giraldo Navarro, Carolina Giraldo Rivera",
+        "Birthday": "1991",
+        "Birthplace": "Colombia",
+        "Height": "160",
+        "Weight": "110lbs (50 kg)",
+        "Zodiac Sign": "9",
+        "Sexuality": "Straight",
+        "Religion": "1",
+        "Ethnicity": "8",
+        "Nationality": "133",
+        "Occupation": "1"
+    }
+}

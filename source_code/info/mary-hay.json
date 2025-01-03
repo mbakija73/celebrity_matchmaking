@@ -1,0 +1,55 @@
+{
+    "relationships": [
+        {
+            "name": "Richard Hastings",
+            "href": "https://www.whosdatedwho.com/dating/richard-hastings-594385",
+            "relationship_type": 4,
+            "start_date": "1938",
+            "end_date": "1952",
+            "length": "14 years",
+            "start_months_since_1900": 456,
+            "end_months_since_1900": 624,
+            "length_in_months": 168
+        },
+        {
+            "name": "Vivian Cullinan Bath",
+            "href": "https://www.whosdatedwho.com/dating/vivian-cullinan-bath",
+            "relationship_type": 4,
+            "start_date": "1926",
+            "end_date": "1926",
+            "length": "-",
+            "start_months_since_1900": 312,
+            "end_months_since_1900": 312,
+            "length_in_months": -1
+        },
+        {
+            "name": "Richard Barthelmess",
+            "href": "https://www.whosdatedwho.com/dating/richard-barthelmess",
+            "relationship_type": 4,
+            "start_date": "1919",
+            "end_date": "1927",
+            "length": "8 years",
+            "start_months_since_1900": 228,
+            "end_months_since_1900": 324,
+            "length_in_months": 96
+        }
+    ],
+    "details": {
+        "First Name": "Mary",
+        "Middle Name": "NA",
+        "Last Name": "Hay",
+        "Maiden Name": "Caldwell",
+        "Full Name at Birth": "Mary Hay Caldwell",
+        "Alternative Name": "NA",
+        "Birthday": "1901",
+        "Birthplace": "Texas",
+        "Height": "NA",
+        "Weight": "NA",
+        "Zodiac Sign": "12",
+        "Sexuality": "Straight",
+        "Religion": "1",
+        "Ethnicity": "6",
+        "Nationality": "91",
+        "Occupation": "8"
+    }
+}

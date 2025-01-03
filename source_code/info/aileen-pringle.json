@@ -1,0 +1,88 @@
+{
+    "relationships": [
+        {
+            "name": "James M. Cain",
+            "href": "https://www.whosdatedwho.com/dating/james-m-cain",
+            "relationship_type": 4,
+            "start_date": "1944",
+            "end_date": "1946",
+            "length": "2 years",
+            "start_months_since_1900": 528,
+            "end_months_since_1900": 552,
+            "length_in_months": 24
+        },
+        {
+            "name": "James Cain",
+            "href": "https://www.whosdatedwho.com/dating/james-cain",
+            "relationship_type": 4,
+            "start_date": "1943",
+            "end_date": "1946",
+            "length": "3 years",
+            "start_months_since_1900": 516,
+            "end_months_since_1900": 552,
+            "length_in_months": 36
+        },
+        {
+            "name": "George Gershwin",
+            "href": "https://www.whosdatedwho.com/dating/george-gershwin",
+            "relationship_type": 2,
+            "start_date": "1930",
+            "end_date": "1931",
+            "length": "1 year",
+            "start_months_since_1900": 360,
+            "end_months_since_1900": 372,
+            "length_in_months": 12
+        },
+        {
+            "name": "H.L. Mencken",
+            "href": "https://www.whosdatedwho.com/dating/h-l-mencken",
+            "relationship_type": 2,
+            "start_date": "1926",
+            "end_date": "1929",
+            "length": "3 years",
+            "start_months_since_1900": 312,
+            "end_months_since_1900": 348,
+            "length_in_months": 36
+        },
+        {
+            "name": "Rudolph Valentino",
+            "href": "https://www.whosdatedwho.com/dating/rudolph-valentino",
+            "relationship_type": 3,
+            "start_date": "1920",
+            "end_date": "1920",
+            "length": "-",
+            "start_months_since_1900": 240,
+            "end_months_since_1900": 240,
+            "length_in_months": -1
+        },
+        {
+            "name": "Charles Mckenzie Pringle",
+            "href": "https://www.whosdatedwho.com/dating/charles-mckenzie-pringle",
+            "relationship_type": 4,
+            "start_date": "1915",
+            "end_date": "1926",
+            "length": "11 years",
+            "start_months_since_1900": 180,
+            "end_months_since_1900": 312,
+            "length_in_months": 132
+        }
+    ],
+    "details": {
+        "First Name": "Aileen",
+        "Middle Name": "NA",
+        "Last Name": "Pringle",
+        "Maiden Name": "NA",
+        "Full Name at Birth": "Aileen Bisbee",
+        "Alternative Name": "Aileen Savage",
+        "Birthday": "1895",
+        "Birthplace": "USA",
+        "Height": "163",
+        "Weight": "NA",
+        "Zodiac Sign": "8",
+        "Sexuality": "Straight",
+        "Religion": "1",
+        "Ethnicity": "6",
+        "Nationality": "91",
+        "Occupation": "8"
+    }
+}

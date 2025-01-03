@@ -1,0 +1,44 @@
+{
+    "relationships": [
+        {
+            "name": "Bruce Springsteen",
+            "href": "https://www.whosdatedwho.com/dating/bruce-springsteen",
+            "relationship_type": 4,
+            "start_date": "1988",
+            "end_date": "present",
+            "length": "36 years",
+            "start_months_since_1900": 1056,
+            "end_months_since_1900": -1,
+            "length_in_months": 432
+        },
+        {
+            "name": "Tom Cruise",
+            "href": "https://www.whosdatedwho.com/dating/tom-cruise",
+            "relationship_type": 2,
+            "start_date": "Sep 1985",
+            "end_date": "Nov 1985",
+            "length": "2 months",
+            "start_months_since_1900": 1028,
+            "end_months_since_1900": 1030,
+            "length_in_months": 2
+        }
+    ],
+    "details": {
+        "First Name": "Patti",
+        "Middle Name": "NA",
+        "Last Name": "Scialfa",
+        "Maiden Name": "NA",
+        "Full Name at Birth": "Vivienne Patricia Scialfa",
+        "Alternative Name": "NA",
+        "Birthday": "1953",
+        "Birthplace": "USA",
+        "Height": "175",
+        "Weight": "NA",
+        "Zodiac Sign": "12",
+        "Sexuality": "Straight",
+        "Religion": "1",
+        "Ethnicity": "6",
+        "Nationality": "91",
+        "Occupation": "1"
+    }
+}

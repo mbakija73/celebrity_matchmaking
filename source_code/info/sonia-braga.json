@@ -1,0 +1,99 @@
+{
+    "relationships": [
+        {
+            "name": "Clint Eastwood",
+            "href": "https://www.whosdatedwho.com/dating/clint-eastwood",
+            "relationship_type": 2,
+            "start_date": "Apr 1990",
+            "end_date": "Jul 1990",
+            "length": "3 months",
+            "start_months_since_1900": 1083,
+            "end_months_since_1900": 1086,
+            "length_in_months": 3
+        },
+        {
+            "name": "Robert Redford",
+            "href": "https://www.whosdatedwho.com/dating/robert-redford",
+            "relationship_type": 2,
+            "start_date": "Jun 1987",
+            "end_date": "Apr 1988",
+            "length": "10 months",
+            "start_months_since_1900": 1049,
+            "end_months_since_1900": 1059,
+            "length_in_months": 10
+        },
+        {
+            "name": "David Lee Roth",
+            "href": "https://www.whosdatedwho.com/dating/david-lee-roth",
+            "relationship_type": 2,
+            "start_date": "1984",
+            "end_date": "1985",
+            "length": "1 year",
+            "start_months_since_1900": 1008,
+            "end_months_since_1900": 1020,
+            "length_in_months": 12
+        },
+        {
+            "name": "Chico Anysio",
+            "href": "https://www.whosdatedwho.com/dating/chico-anysio",
+            "relationship_type": 3,
+            "start_date": "1981",
+            "end_date": "1981",
+            "length": "-",
+            "start_months_since_1900": 972,
+            "end_months_since_1900": 972,
+            "length_in_months": -1
+        },
+        {
+            "name": "Caetano Veloso",
+            "href": "https://www.whosdatedwho.com/dating/caetano-veloso",
+            "relationship_type": 2,
+            "start_date": "1981",
+            "end_date": "1981",
+            "length": "-",
+            "start_months_since_1900": 972,
+            "end_months_since_1900": 972,
+            "length_in_months": -1
+        },
+        {
+            "name": "Armando B\u00f3gus",
+            "href": "https://www.whosdatedwho.com/dating/armando-bogus",
+            "relationship_type": 2,
+            "start_date": "1974",
+            "end_date": "1975",
+            "length": "1 year",
+            "start_months_since_1900": 888,
+            "end_months_since_1900": 900,
+            "length_in_months": 12
+        },
+        {
+            "name": "Pat Metheny",
+            "href": "https://www.whosdatedwho.com/dating/pat-metheny",
+            "relationship_type": 2,
+            "start_date": "",
+            "end_date": "",
+            "length": "-",
+            "start_months_since_1900": -1,
+            "end_months_since_1900": -1,
+            "length_in_months": -1
+        }
+    ],
+    "details": {
+        "First Name": "Sonia",
+        "Middle Name": "Maria",
+        "Last Name": "Braga",
+        "Maiden Name": "Campos Braga",
+        "Full Name at Birth": "Sonia Maria Campos Braga",
+        "Alternative Name": "S\u00f4nia Maria Campos Braga, S\u00f4nia Campos Braga, Sonia Braga, The Brazilian Bombshell",
+        "Birthday": "1950",
+        "Birthplace": "Brazil",
+        "Height": "157",
+        "Weight": "63lbs (29 kg)",
+        "Zodiac Sign": "4",
+        "Sexuality": "Straight",
+        "Religion": "13",
+        "Ethnicity": "8",
+        "Nationality": "87",
+        "Occupation": "8"
+    }
+}

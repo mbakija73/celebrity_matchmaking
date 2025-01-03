@@ -1,0 +1,66 @@
+{
+    "relationships": [
+        {
+            "name": "Ian Murray",
+            "href": "https://www.whosdatedwho.com/dating/ian-murray",
+            "relationship_type": 4,
+            "start_date": "1998",
+            "end_date": "present",
+            "length": "26 years",
+            "start_months_since_1900": 1176,
+            "end_months_since_1900": -1,
+            "length_in_months": 312
+        },
+        {
+            "name": "Barry Tubb",
+            "href": "https://www.whosdatedwho.com/dating/barry-tubb",
+            "relationship_type": 2,
+            "start_date": "1987",
+            "end_date": "1988",
+            "length": "1 year",
+            "start_months_since_1900": 1044,
+            "end_months_since_1900": 1056,
+            "length_in_months": 12
+        },
+        {
+            "name": "Eric Stoltz",
+            "href": "https://www.whosdatedwho.com/dating/eric-stoltz",
+            "relationship_type": 2,
+            "start_date": "1986",
+            "end_date": "1986",
+            "length": "-",
+            "start_months_since_1900": 1032,
+            "end_months_since_1900": 1032,
+            "length_in_months": -1
+        },
+        {
+            "name": "William Ostrander",
+            "href": "https://www.whosdatedwho.com/dating/william-ostrander",
+            "relationship_type": 2,
+            "start_date": "Feb 1983",
+            "end_date": "1985",
+            "length": "1 year",
+            "start_months_since_1900": 997,
+            "end_months_since_1900": 1020,
+            "length_in_months": 12
+        }
+    ],
+    "details": {
+        "First Name": "Alexandra",
+        "Middle Name": "Elizabeth",
+        "Last Name": "Paul",
+        "Maiden Name": "Paul",
+        "Full Name at Birth": "Alexandra Elizabeth Paul",
+        "Alternative Name": "Alexandra Elizabeth Paul, Alexandra Paul",
+        "Birthday": "1963",
+        "Birthplace": "USA",
+        "Height": "178",
+        "Weight": "128lbs (58 kg)",
+        "Zodiac Sign": "12",
+        "Sexuality": "Straight",
+        "Religion": "22",
+        "Ethnicity": "6",
+        "Nationality": "91",
+        "Occupation": "8"
+    }
+}

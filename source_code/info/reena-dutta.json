@@ -1,0 +1,33 @@
+{
+    "relationships": [
+        {
+            "name": "Aamir Khan",
+            "href": "https://www.whosdatedwho.com/dating/aamir-khan",
+            "relationship_type": 4,
+            "start_date": "Apr 1986",
+            "end_date": "Dec 2002",
+            "length": "16 years",
+            "start_months_since_1900": 1035,
+            "end_months_since_1900": 1235,
+            "length_in_months": 192
+        }
+    ],
+    "details": {
+        "First Name": "Reena",
+        "Middle Name": "NA",
+        "Last Name": "Dutta",
+        "Maiden Name": "NA",
+        "Full Name at Birth": "NA",
+        "Alternative Name": "NA",
+        "Birthday": "1968",
+        "Birthplace": "India",
+        "Height": "163",
+        "Weight": "136lbs (62 kg)",
+        "Zodiac Sign": "11",
+        "Sexuality": "Straight",
+        "Religion": "27",
+        "Ethnicity": "7",
+        "Nationality": "34",
+        "Occupation": "9"
+    }
+}

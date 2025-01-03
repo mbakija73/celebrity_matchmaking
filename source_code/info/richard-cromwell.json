@@ -1,0 +1,88 @@
+{
+    "relationships": [
+        {
+            "name": "Angela Lansbury",
+            "href": "https://www.whosdatedwho.com/dating/angela-lansbury",
+            "relationship_type": 4,
+            "start_date": "May 1945",
+            "end_date": "11th Sep 1946",
+            "length": "1 year",
+            "start_months_since_1900": 544,
+            "end_months_since_1900": 560,
+            "length_in_months": 12
+        },
+        {
+            "name": "Dorothy Burgess",
+            "href": "https://www.whosdatedwho.com/dating/dorothy-burgess",
+            "relationship_type": 1,
+            "start_date": "1936",
+            "end_date": "1936",
+            "length": "-",
+            "start_months_since_1900": 432,
+            "end_months_since_1900": 432,
+            "length_in_months": -1
+        },
+        {
+            "name": "Mary Carlisle",
+            "href": "https://www.whosdatedwho.com/dating/mary-carlisle",
+            "relationship_type": 2,
+            "start_date": "1935",
+            "end_date": "1935",
+            "length": "-",
+            "start_months_since_1900": 420,
+            "end_months_since_1900": 420,
+            "length_in_months": -1
+        },
+        {
+            "name": "George Cukor",
+            "href": "https://www.whosdatedwho.com/dating/george-cukor",
+            "relationship_type": 3,
+            "start_date": "",
+            "end_date": "",
+            "length": "-",
+            "start_months_since_1900": -1,
+            "end_months_since_1900": -1,
+            "length_in_months": -1
+        },
+        {
+            "name": "Gordon Oliver",
+            "href": "https://www.whosdatedwho.com/dating/gordon-oliver",
+            "relationship_type": 3,
+            "start_date": "",
+            "end_date": "",
+            "length": "-",
+            "start_months_since_1900": -1,
+            "end_months_since_1900": -1,
+            "length_in_months": -1
+        },
+        {
+            "name": "George Keane",
+            "href": "https://www.whosdatedwho.com/dating/george-keane-born-1995",
+            "relationship_type": 2,
+            "start_date": "",
+            "end_date": "",
+            "length": "-",
+            "start_months_since_1900": -1,
+            "end_months_since_1900": -1,
+            "length_in_months": -1
+        }
+    ],
+    "details": {
+        "First Name": "Richard",
+        "Middle Name": "Melvin",
+        "Last Name": "Cromwell",
+        "Maiden Name": "NA",
+        "Full Name at Birth": "LeRoy Melvin Radabaugh",
+        "Alternative Name": "NA",
+        "Birthday": "1910",
+        "Birthplace": "USA",
+        "Height": "178",
+        "Weight": "NA",
+        "Zodiac Sign": "13",
+        "Sexuality": "Gay",
+        "Religion": "1",
+        "Ethnicity": "6",
+        "Nationality": "91",
+        "Occupation": "8"
+    }
+}

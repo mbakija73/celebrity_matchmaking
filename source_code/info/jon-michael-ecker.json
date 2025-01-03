@@ -1,0 +1,44 @@
+{
+    "relationships": [
+        {
+            "name": "B\u00e1rbara Mori",
+            "href": "https://www.whosdatedwho.com/dating/barbara-mori",
+            "relationship_type": 2,
+            "start_date": "Sep 2012",
+            "end_date": "Apr 2014",
+            "length": "1 year",
+            "start_months_since_1900": 1352,
+            "end_months_since_1900": 1371,
+            "length_in_months": 12
+        },
+        {
+            "name": "Ingrid Martz",
+            "href": "https://www.whosdatedwho.com/dating/ingrid-martz",
+            "relationship_type": 2,
+            "start_date": "2006",
+            "end_date": "Oct 2010",
+            "length": "4 years",
+            "start_months_since_1900": 1272,
+            "end_months_since_1900": 1329,
+            "length_in_months": 48
+        }
+    ],
+    "details": {
+        "First Name": "Jon",
+        "Middle Name": "Michael",
+        "Last Name": "Ecker",
+        "Maiden Name": "NA",
+        "Full Name at Birth": "John Michael Ecker",
+        "Alternative Name": "Jon Ecker",
+        "Birthday": "1983",
+        "Birthplace": "USA",
+        "Height": "180",
+        "Weight": "NA",
+        "Zodiac Sign": "1",
+        "Sexuality": "Straight",
+        "Religion": "1",
+        "Ethnicity": "6",
+        "Nationality": "91",
+        "Occupation": "8"
+    }
+}

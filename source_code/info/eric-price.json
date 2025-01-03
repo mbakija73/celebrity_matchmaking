@@ -1,0 +1,66 @@
+{
+    "relationships": [
+        {
+            "name": "Nicole Sheridan",
+            "href": "https://www.whosdatedwho.com/dating/nicole-sheridan",
+            "relationship_type": 3,
+            "start_date": "2000",
+            "end_date": "2000",
+            "length": "-",
+            "start_months_since_1900": 1200,
+            "end_months_since_1900": 1200,
+            "length_in_months": -1
+        },
+        {
+            "name": "Jill Kelly",
+            "href": "https://www.whosdatedwho.com/dating/jill-kelly",
+            "relationship_type": 2,
+            "start_date": "1996",
+            "end_date": "1996",
+            "length": "-",
+            "start_months_since_1900": 1152,
+            "end_months_since_1900": 1152,
+            "length_in_months": -1
+        },
+        {
+            "name": "Jenna Jameson",
+            "href": "https://www.whosdatedwho.com/dating/jenna-jameson",
+            "relationship_type": 2,
+            "start_date": "1995",
+            "end_date": "1995",
+            "length": "-",
+            "start_months_since_1900": 1140,
+            "end_months_since_1900": 1140,
+            "length_in_months": -1
+        },
+        {
+            "name": "Paula Price",
+            "href": "https://www.whosdatedwho.com/dating/paula-price",
+            "relationship_type": 4,
+            "start_date": "",
+            "end_date": "",
+            "length": "-",
+            "start_months_since_1900": -1,
+            "end_months_since_1900": -1,
+            "length_in_months": -1
+        }
+    ],
+    "details": {
+        "First Name": "Eric",
+        "Middle Name": "NA",
+        "Last Name": "Price",
+        "Maiden Name": "NA",
+        "Full Name at Birth": "NA",
+        "Alternative Name": "NA",
+        "Birthday": "1963",
+        "Birthplace": "Usa",
+        "Height": "NA",
+        "Weight": "NA",
+        "Zodiac Sign": "8",
+        "Sexuality": "Straight",
+        "Religion": "1",
+        "Ethnicity": "1",
+        "Nationality": "91",
+        "Occupation": "16"
+    }
+}

@@ -1,0 +1,44 @@
+{
+    "relationships": [
+        {
+            "name": "Jessicka",
+            "href": "https://www.whosdatedwho.com/dating/jessicka",
+            "relationship_type": 3,
+            "start_date": "1999",
+            "end_date": "1999",
+            "length": "-",
+            "start_months_since_1900": 1188,
+            "end_months_since_1900": 1188,
+            "length_in_months": -1
+        },
+        {
+            "name": "Keanu Reeves",
+            "href": "https://www.whosdatedwho.com/dating/keanu-reeves",
+            "relationship_type": 2,
+            "start_date": "1998",
+            "end_date": "2000",
+            "length": "2 years",
+            "start_months_since_1900": 1176,
+            "end_months_since_1900": 1200,
+            "length_in_months": 24
+        }
+    ],
+    "details": {
+        "First Name": "Jennifer",
+        "Middle Name": "Maria",
+        "Last Name": "NA",
+        "Maiden Name": "Syme",
+        "Full Name at Birth": "Jennifer Maria Syme",
+        "Alternative Name": "Jennifer Maria Syme, Jennifer Syme",
+        "Birthday": "1972",
+        "Birthplace": "USA",
+        "Height": "173",
+        "Weight": "NA",
+        "Zodiac Sign": "6",
+        "Sexuality": "Bisexual",
+        "Religion": "22",
+        "Ethnicity": "8",
+        "Nationality": "91",
+        "Occupation": "8"
+    }
+}

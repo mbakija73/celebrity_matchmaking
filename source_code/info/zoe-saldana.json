@@ -1,0 +1,77 @@
+{
+    "relationships": [
+        {
+            "name": "Marco Perego",
+            "href": "https://www.whosdatedwho.com/dating/marco-perego",
+            "relationship_type": 4,
+            "start_date": "Mar 2013",
+            "end_date": "present",
+            "length": "11 years",
+            "start_months_since_1900": 1358,
+            "end_months_since_1900": -1,
+            "length_in_months": 132
+        },
+        {
+            "name": "Bradley Cooper",
+            "href": "https://www.whosdatedwho.com/dating/bradley-cooper",
+            "relationship_type": 2,
+            "start_date": "Dec 2011",
+            "end_date": "Dec 2012",
+            "length": "1 year",
+            "start_months_since_1900": 1343,
+            "end_months_since_1900": 1355,
+            "length_in_months": 12
+        },
+        {
+            "name": "Keith Britton",
+            "href": "https://www.whosdatedwho.com/dating/keith-britton",
+            "relationship_type": 2,
+            "start_date": "2000",
+            "end_date": "Nov 2011",
+            "length": "11 years",
+            "start_months_since_1900": 1200,
+            "end_months_since_1900": 1342,
+            "length_in_months": 132
+        },
+        {
+            "name": "James Gunn",
+            "href": "https://www.whosdatedwho.com/dating/james-gunn",
+            "relationship_type": 1,
+            "start_date": "",
+            "end_date": "",
+            "length": "-",
+            "start_months_since_1900": -1,
+            "end_months_since_1900": -1,
+            "length_in_months": -1
+        },
+        {
+            "name": "Robert Pattinson",
+            "href": "https://www.whosdatedwho.com/dating/robert-pattinson",
+            "relationship_type": 1,
+            "start_date": "",
+            "end_date": "",
+            "length": "-",
+            "start_months_since_1900": -1,
+            "end_months_since_1900": -1,
+            "length_in_months": -1
+        }
+    ],
+    "details": {
+        "First Name": "Zoe",
+        "Middle Name": "Yadira",
+        "Last Name": "Saldana-Perego",
+        "Maiden Name": "Nazario",
+        "Full Name at Birth": "Zoe Yadira Zalda\u00f1a Nazario",
+        "Alternative Name": "Zoe Saldana-Perego",
+        "Birthday": "1978",
+        "Birthplace": "USA",
+        "Height": "170",
+        "Weight": "115lbs (52 kg)",
+        "Zodiac Sign": "4",
+        "Sexuality": "Straight",
+        "Religion": "13",
+        "Ethnicity": "8",
+        "Nationality": "91",
+        "Occupation": "8"
+    }
+}

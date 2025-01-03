@@ -1,0 +1,88 @@
+{
+    "relationships": [
+        {
+            "name": "Sara McKinnon",
+            "href": "https://www.whosdatedwho.com/dating/sara-mckinnon",
+            "relationship_type": 2,
+            "start_date": "Feb 2020",
+            "end_date": "present",
+            "length": "4 years",
+            "start_months_since_1900": 1441,
+            "end_months_since_1900": -1,
+            "length_in_months": 48
+        },
+        {
+            "name": "Madeline Grant",
+            "href": "https://www.whosdatedwho.com/dating/madeline-grant",
+            "relationship_type": 2,
+            "start_date": "2019",
+            "end_date": "2020",
+            "length": "1 year",
+            "start_months_since_1900": 1428,
+            "end_months_since_1900": 1440,
+            "length_in_months": 12
+        },
+        {
+            "name": "Kirsty Gallacher",
+            "href": "https://www.whosdatedwho.com/dating/kirsty-gallacher",
+            "relationship_type": 2,
+            "start_date": "2018",
+            "end_date": "2018",
+            "length": "-",
+            "start_months_since_1900": 1416,
+            "end_months_since_1900": 1416,
+            "length_in_months": -1
+        },
+        {
+            "name": "Lilah Parsons",
+            "href": "https://www.whosdatedwho.com/dating/lilah-parsons",
+            "relationship_type": 2,
+            "start_date": "2017",
+            "end_date": "2018",
+            "length": "1 year",
+            "start_months_since_1900": 1404,
+            "end_months_since_1900": 1416,
+            "length_in_months": 12
+        },
+        {
+            "name": "Billie Piper",
+            "href": "https://www.whosdatedwho.com/dating/billie-piper",
+            "relationship_type": 4,
+            "start_date": "Jan 2007",
+            "end_date": "24th Mar 2016",
+            "length": "9 years",
+            "start_months_since_1900": 1284,
+            "end_months_since_1900": 1394,
+            "length_in_months": 108
+        },
+        {
+            "name": "Vogue Williams",
+            "href": "https://www.whosdatedwho.com/dating/vogue-williams",
+            "relationship_type": 1,
+            "start_date": "",
+            "end_date": "",
+            "length": "-",
+            "start_months_since_1900": -1,
+            "end_months_since_1900": -1,
+            "length_in_months": -1
+        }
+    ],
+    "details": {
+        "First Name": "Lawrence",
+        "Middle Name": "Paul",
+        "Last Name": "Fox",
+        "Maiden Name": "NA",
+        "Full Name at Birth": "Laurence Paul Fox",
+        "Alternative Name": "Lawrence Fox",
+        "Birthday": "1978",
+        "Birthplace": "England",
+        "Height": "191",
+        "Weight": "NA",
+        "Zodiac Sign": "4",
+        "Sexuality": "Straight",
+        "Religion": "1",
+        "Ethnicity": "6",
+        "Nationality": "8",
+        "Occupation": "8"
+    }
+}

@@ -1,0 +1,66 @@
+{
+    "relationships": [
+        {
+            "name": "Hilary Rhoda",
+            "href": "https://www.whosdatedwho.com/dating/hilary-rhoda",
+            "relationship_type": 4,
+            "start_date": "Sep 2009",
+            "end_date": "Jul 2022",
+            "length": "12 years",
+            "start_months_since_1900": 1316,
+            "end_months_since_1900": 1470,
+            "length_in_months": 144
+        },
+        {
+            "name": "Elisha Cuthbert",
+            "href": "https://www.whosdatedwho.com/dating/elisha-cuthbert",
+            "relationship_type": 2,
+            "start_date": "Nov 2005",
+            "end_date": "Aug 2007",
+            "length": "1 year",
+            "start_months_since_1900": 1270,
+            "end_months_since_1900": 1291,
+            "length_in_months": 12
+        },
+        {
+            "name": "Rachel Hunter",
+            "href": "https://www.whosdatedwho.com/dating/rachel-hunter",
+            "relationship_type": 2,
+            "start_date": "2004",
+            "end_date": "Jun 2005",
+            "length": "1 year",
+            "start_months_since_1900": 1248,
+            "end_months_since_1900": 1265,
+            "length_in_months": 12
+        },
+        {
+            "name": "Andy Cohen",
+            "href": "https://www.whosdatedwho.com/dating/andy-cohen",
+            "relationship_type": 1,
+            "start_date": "",
+            "end_date": "",
+            "length": "-",
+            "start_months_since_1900": -1,
+            "end_months_since_1900": -1,
+            "length_in_months": -1
+        }
+    ],
+    "details": {
+        "First Name": "Sean",
+        "Middle Name": "NA",
+        "Last Name": "Avery",
+        "Maiden Name": "NA",
+        "Full Name at Birth": "Sean Christopher Avery",
+        "Alternative Name": "Aves",
+        "Birthday": "1980",
+        "Birthplace": "Canada",
+        "Height": "178",
+        "Weight": "195lbs (88 kg)",
+        "Zodiac Sign": "7",
+        "Sexuality": "Bisexual",
+        "Religion": "1",
+        "Ethnicity": "6",
+        "Nationality": "90",
+        "Occupation": "2"
+    }
+}

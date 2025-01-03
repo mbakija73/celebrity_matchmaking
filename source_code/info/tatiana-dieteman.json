@@ -1,0 +1,44 @@
+{
+    "relationships": [
+        {
+            "name": "Koa Smith",
+            "href": "https://www.whosdatedwho.com/dating/koa-smith",
+            "relationship_type": 2,
+            "start_date": "Feb 2022",
+            "end_date": "Feb 2022",
+            "length": "-",
+            "start_months_since_1900": 1465,
+            "end_months_since_1900": 1465,
+            "length_in_months": -1
+        },
+        {
+            "name": "Tobey Maguire",
+            "href": "https://www.whosdatedwho.com/dating/tobey-maguire",
+            "relationship_type": 2,
+            "start_date": "Mar 2018",
+            "end_date": "2021",
+            "length": "2 years",
+            "start_months_since_1900": 1418,
+            "end_months_since_1900": 1452,
+            "length_in_months": 24
+        }
+    ],
+    "details": {
+        "First Name": "Tatiana",
+        "Middle Name": "NA",
+        "Last Name": "Dieteman",
+        "Maiden Name": "NA",
+        "Full Name at Birth": "Tatiana Dieteman",
+        "Alternative Name": "Tatiana Dieteman",
+        "Birthday": "1992",
+        "Birthplace": "USA",
+        "Height": "177",
+        "Weight": "NA",
+        "Zodiac Sign": "8",
+        "Sexuality": "NA",
+        "Religion": "1",
+        "Ethnicity": "6",
+        "Nationality": "91",
+        "Occupation": "15"
+    }
+}

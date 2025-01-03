@@ -1,0 +1,44 @@
+{
+    "relationships": [
+        {
+            "name": "William Levy",
+            "href": "https://www.whosdatedwho.com/dating/william-levy",
+            "relationship_type": 2,
+            "start_date": "Jun 2003",
+            "end_date": "Dec 2014",
+            "length": "11 years",
+            "start_months_since_1900": 1241,
+            "end_months_since_1900": 1379,
+            "length_in_months": 132
+        },
+        {
+            "name": "Erick Elias",
+            "href": "https://www.whosdatedwho.com/dating/erick-elias",
+            "relationship_type": 2,
+            "start_date": "Jun 2003",
+            "end_date": "Jun 2003",
+            "length": "-",
+            "start_months_since_1900": 1241,
+            "end_months_since_1900": 1241,
+            "length_in_months": -1
+        }
+    ],
+    "details": {
+        "First Name": "Elizabeth",
+        "Middle Name": "NA",
+        "Last Name": "Gutierrez",
+        "Maiden Name": "NA",
+        "Full Name at Birth": "Elizabeth Guti\u00e9rrez Nev\u00e1rez",
+        "Alternative Name": "Ely, Elizabeth Gutierrez",
+        "Birthday": "1979",
+        "Birthplace": "USA",
+        "Height": "175",
+        "Weight": "119lbs (54 kg)",
+        "Zodiac Sign": "7",
+        "Sexuality": "Straight",
+        "Religion": "13",
+        "Ethnicity": "8",
+        "Nationality": "91",
+        "Occupation": "8"
+    }
+}

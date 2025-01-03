@@ -1,0 +1,33 @@
+{
+    "relationships": [
+        {
+            "name": "John Legend",
+            "href": "https://www.whosdatedwho.com/dating/john-legend",
+            "relationship_type": 4,
+            "start_date": "Jan 2007",
+            "end_date": "present",
+            "length": "17 years",
+            "start_months_since_1900": 1284,
+            "end_months_since_1900": -1,
+            "length_in_months": 204
+        }
+    ],
+    "details": {
+        "First Name": "Christine",
+        "Middle Name": "Diane",
+        "Last Name": "Legend",
+        "Maiden Name": "Teigen",
+        "Full Name at Birth": "Christine Diane Teigen",
+        "Alternative Name": "Chrissy, Christie, Christine Stephens, Foul Mouth",
+        "Birthday": "1985",
+        "Birthplace": "USA",
+        "Height": "173",
+        "Weight": "NA",
+        "Zodiac Sign": "6",
+        "Sexuality": "Straight",
+        "Religion": "1",
+        "Ethnicity": "8",
+        "Nationality": "91",
+        "Occupation": "15"
+    }
+}

@@ -1,0 +1,55 @@
+{
+    "relationships": [
+        {
+            "name": "Harry Styles",
+            "href": "https://www.whosdatedwho.com/dating/harry-styles",
+            "relationship_type": 2,
+            "start_date": "Jun 2023",
+            "end_date": "May 2024",
+            "length": "11 months",
+            "start_months_since_1900": 1481,
+            "end_months_since_1900": 1492,
+            "length_in_months": 11
+        },
+        {
+            "name": "Timoth\u00e9e Chalamet",
+            "href": "https://www.whosdatedwho.com/dating/timothee-chalamet",
+            "relationship_type": 1,
+            "start_date": "2022",
+            "end_date": "2022",
+            "length": "-",
+            "start_months_since_1900": 1464,
+            "end_months_since_1900": 1464,
+            "length_in_months": -1
+        },
+        {
+            "name": "Lucas Hedges",
+            "href": "https://www.whosdatedwho.com/dating/lucas-hedges",
+            "relationship_type": 2,
+            "start_date": "2018",
+            "end_date": "2018",
+            "length": "-",
+            "start_months_since_1900": 1416,
+            "end_months_since_1900": 1416,
+            "length_in_months": -1
+        }
+    ],
+    "details": {
+        "First Name": "Taylor",
+        "Middle Name": "NA",
+        "Last Name": "Russell",
+        "Maiden Name": "McKenzie",
+        "Full Name at Birth": "Taylor Russell McKenzie",
+        "Alternative Name": "Russ, Tmac, Tay, Taylor Russell, Taylor Russell McKenzie",
+        "Birthday": "1994",
+        "Birthplace": "Canada",
+        "Height": "164",
+        "Weight": "128lbs (58 kg)",
+        "Zodiac Sign": "8",
+        "Sexuality": "Straight",
+        "Religion": "18",
+        "Ethnicity": "8",
+        "Nationality": "90",
+        "Occupation": "8"
+    }
+}

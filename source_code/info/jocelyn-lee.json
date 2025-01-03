@@ -1,0 +1,88 @@
+{
+    "relationships": [
+        {
+            "name": "James Seymour",
+            "href": "https://www.whosdatedwho.com/dating/james-seymour",
+            "relationship_type": 4,
+            "start_date": "1934",
+            "end_date": "1941",
+            "length": "7 years",
+            "start_months_since_1900": 408,
+            "end_months_since_1900": 492,
+            "length_in_months": 84
+        },
+        {
+            "name": "George Raft",
+            "href": "https://www.whosdatedwho.com/dating/george-raft",
+            "relationship_type": 3,
+            "start_date": "Feb 1933",
+            "end_date": "Feb 1933",
+            "length": "-",
+            "start_months_since_1900": 397,
+            "end_months_since_1900": 397,
+            "length_in_months": -1
+        },
+        {
+            "name": "Gilbert Roland",
+            "href": "https://www.whosdatedwho.com/dating/gilbert-roland",
+            "relationship_type": 2,
+            "start_date": "1926",
+            "end_date": "1926",
+            "length": "-",
+            "start_months_since_1900": 312,
+            "end_months_since_1900": 312,
+            "length_in_months": -1
+        },
+        {
+            "name": "H.B. Warner",
+            "href": "https://www.whosdatedwho.com/dating/h-b-warner",
+            "relationship_type": 2,
+            "start_date": "1926",
+            "end_date": "1926",
+            "length": "-",
+            "start_months_since_1900": 312,
+            "end_months_since_1900": 312,
+            "length_in_months": -1
+        },
+        {
+            "name": "Luther Reed",
+            "href": "https://www.whosdatedwho.com/dating/luther-reed",
+            "relationship_type": 4,
+            "start_date": "1926",
+            "end_date": "1930",
+            "length": "4 years",
+            "start_months_since_1900": 312,
+            "end_months_since_1900": 360,
+            "length_in_months": 48
+        },
+        {
+            "name": "Henry Lehrman",
+            "href": "https://www.whosdatedwho.com/dating/henry-lehrman",
+            "relationship_type": 4,
+            "start_date": "1922",
+            "end_date": "Dec 1924",
+            "length": "2 years",
+            "start_months_since_1900": 264,
+            "end_months_since_1900": 299,
+            "length_in_months": 24
+        }
+    ],
+    "details": {
+        "First Name": "Mary",
+        "Middle Name": "Alice",
+        "Last Name": "Jocelyn Lee",
+        "Maiden Name": "Simpson",
+        "Full Name at Birth": "Mary Alice Simpson",
+        "Alternative Name": "Mary Alice Simpson, Jocelyn Lee, Jocelyn Leigh",
+        "Birthday": "1902",
+        "Birthplace": "USA",
+        "Height": "NA",
+        "Weight": "NA",
+        "Zodiac Sign": "4",
+        "Sexuality": "Straight",
+        "Religion": "1",
+        "Ethnicity": "6",
+        "Nationality": "91",
+        "Occupation": "8"
+    }
+}

@@ -1,0 +1,55 @@
+{
+    "relationships": [
+        {
+            "name": "Richard Widmark",
+            "href": "https://www.whosdatedwho.com/dating/richard-widmark",
+            "relationship_type": 4,
+            "start_date": "1998",
+            "end_date": "Mar 2008",
+            "length": "10 years",
+            "start_months_since_1900": 1176,
+            "end_months_since_1900": 1298,
+            "length_in_months": 120
+        },
+        {
+            "name": "Howard Taylor (i)",
+            "href": "https://www.whosdatedwho.com/dating/howard-taylor-i",
+            "relationship_type": 4,
+            "start_date": "1956",
+            "end_date": "Jun 1961",
+            "length": "5 years",
+            "start_months_since_1900": 672,
+            "end_months_since_1900": 737,
+            "length_in_months": 60
+        },
+        {
+            "name": "Henry Fonda",
+            "href": "https://www.whosdatedwho.com/dating/henry-fonda",
+            "relationship_type": 4,
+            "start_date": "Dec 1949",
+            "end_date": "May 1956",
+            "length": "6 years",
+            "start_months_since_1900": 599,
+            "end_months_since_1900": 676,
+            "length_in_months": 72
+        }
+    ],
+    "details": {
+        "First Name": "Susan",
+        "Middle Name": "Blanchard",
+        "Last Name": "Fonda",
+        "Maiden Name": "Jacobson",
+        "Full Name at Birth": "Susan Blanchard Jacobson",
+        "Alternative Name": "Susan Blanchard, Susan Blanchard Jacobson, Susan Jacobson",
+        "Birthday": "1928",
+        "Birthplace": "USA",
+        "Height": "NA",
+        "Weight": "NA",
+        "Zodiac Sign": "1",
+        "Sexuality": "Straight",
+        "Religion": "1",
+        "Ethnicity": "6",
+        "Nationality": "91",
+        "Occupation": "8"
+    }
+}

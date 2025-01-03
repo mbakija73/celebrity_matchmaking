@@ -1,0 +1,154 @@
+{
+    "relationships": [
+        {
+            "name": "Lisa Meyers",
+            "href": "https://www.whosdatedwho.com/dating/lisa-meyers",
+            "relationship_type": 4,
+            "start_date": "1982",
+            "end_date": "",
+            "length": "-",
+            "start_months_since_1900": 984,
+            "end_months_since_1900": -1,
+            "length_in_months": -1
+        },
+        {
+            "name": "Jane Fonda",
+            "href": "https://www.whosdatedwho.com/dating/jane-fonda",
+            "relationship_type": 2,
+            "start_date": "Jan 1981",
+            "end_date": "Apr 1981",
+            "length": "3 months",
+            "start_months_since_1900": 972,
+            "end_months_since_1900": 975,
+            "length_in_months": 3
+        },
+        {
+            "name": "Andrea De Portago",
+            "href": "https://www.whosdatedwho.com/dating/andrea-de-portago",
+            "relationship_type": 2,
+            "start_date": "1980",
+            "end_date": "1980",
+            "length": "-",
+            "start_months_since_1900": 960,
+            "end_months_since_1900": 960,
+            "length_in_months": -1
+        },
+        {
+            "name": "Barbra Streisand",
+            "href": "https://www.whosdatedwho.com/dating/barbra-streisand",
+            "relationship_type": 2,
+            "start_date": "1976",
+            "end_date": "1976",
+            "length": "-",
+            "start_months_since_1900": 912,
+            "end_months_since_1900": 912,
+            "length_in_months": -1
+        },
+        {
+            "name": "Carly Simon",
+            "href": "https://www.whosdatedwho.com/dating/carly-simon",
+            "relationship_type": 2,
+            "start_date": "1972",
+            "end_date": "1972",
+            "length": "-",
+            "start_months_since_1900": 864,
+            "end_months_since_1900": 864,
+            "length_in_months": -1
+        },
+        {
+            "name": "Rita Coolidge",
+            "href": "https://www.whosdatedwho.com/dating/rita-coolidge",
+            "relationship_type": 4,
+            "start_date": "1972",
+            "end_date": "Jun 1980",
+            "length": "8 years",
+            "start_months_since_1900": 864,
+            "end_months_since_1900": 965,
+            "length_in_months": 96
+        },
+        {
+            "name": "Samantha Eggar",
+            "href": "https://www.whosdatedwho.com/dating/samantha-eggar",
+            "relationship_type": 2,
+            "start_date": "May 1971",
+            "end_date": "Oct 1971",
+            "length": "5 months",
+            "start_months_since_1900": 856,
+            "end_months_since_1900": 861,
+            "length_in_months": 5
+        },
+        {
+            "name": "Joan Baez",
+            "href": "https://www.whosdatedwho.com/dating/joan-baez",
+            "relationship_type": 3,
+            "start_date": "1970",
+            "end_date": "1971",
+            "length": "1 year",
+            "start_months_since_1900": 840,
+            "end_months_since_1900": 852,
+            "length_in_months": 12
+        },
+        {
+            "name": "Janis Joplin",
+            "href": "https://www.whosdatedwho.com/dating/janis-joplin",
+            "relationship_type": 2,
+            "start_date": "1969",
+            "end_date": "1969",
+            "length": "-",
+            "start_months_since_1900": 828,
+            "end_months_since_1900": 828,
+            "length_in_months": -1
+        },
+        {
+            "name": "Fran Beir",
+            "href": "https://www.whosdatedwho.com/dating/fran-beir",
+            "relationship_type": 4,
+            "start_date": "1959",
+            "end_date": "Aug 1973",
+            "length": "14 years",
+            "start_months_since_1900": 708,
+            "end_months_since_1900": 883,
+            "length_in_months": 168
+        },
+        {
+            "name": "Patti Davis",
+            "href": "https://www.whosdatedwho.com/dating/patti-davis",
+            "relationship_type": 3,
+            "start_date": "",
+            "end_date": "",
+            "length": "-",
+            "start_months_since_1900": -1,
+            "end_months_since_1900": -1,
+            "length_in_months": -1
+        },
+        {
+            "name": "Cherry Vanilla",
+            "href": "https://www.whosdatedwho.com/dating/cherry-vanilla",
+            "relationship_type": 3,
+            "start_date": "",
+            "end_date": "",
+            "length": "-",
+            "start_months_since_1900": -1,
+            "end_months_since_1900": -1,
+            "length_in_months": -1
+        }
+    ],
+    "details": {
+        "First Name": "Kris",
+        "Middle Name": "NA",
+        "Last Name": "Kristofferson",
+        "Maiden Name": "NA",
+        "Full Name at Birth": "Kristoffer Kristian Kristofferson",
+        "Alternative Name": "NA",
+        "Birthday": "1936",
+        "Birthplace": "USA",
+        "Height": "178",
+        "Weight": "NA",
+        "Zodiac Sign": "8",
+        "Sexuality": "Straight",
+        "Religion": "13",
+        "Ethnicity": "6",
+        "Nationality": "91",
+        "Occupation": "8"
+    }
+}

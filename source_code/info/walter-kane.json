@@ -1,0 +1,88 @@
+{
+    "relationships": [
+        {
+            "name": "Dorothy Martinson",
+            "href": "https://www.whosdatedwho.com/dating/dorothy-martinson",
+            "relationship_type": 2,
+            "start_date": "Sep 1957",
+            "end_date": "Nov 1957",
+            "length": "2 months",
+            "start_months_since_1900": 692,
+            "end_months_since_1900": 694,
+            "length_in_months": 2
+        },
+        {
+            "name": "Lynn Bari",
+            "href": "https://www.whosdatedwho.com/dating/lynn-bari",
+            "relationship_type": 4,
+            "start_date": "Oct 1938",
+            "end_date": "26th Nov 1943",
+            "length": "5 years",
+            "start_months_since_1900": 465,
+            "end_months_since_1900": 526,
+            "length_in_months": 60
+        },
+        {
+            "name": "Anita Colby",
+            "href": "https://www.whosdatedwho.com/dating/anita-colby",
+            "relationship_type": 2,
+            "start_date": "1936",
+            "end_date": "Apr 1937",
+            "length": "1 year",
+            "start_months_since_1900": 432,
+            "end_months_since_1900": 447,
+            "length_in_months": 12
+        },
+        {
+            "name": "Jeanne Carmen",
+            "href": "https://www.whosdatedwho.com/dating/jeanne-carmen",
+            "relationship_type": 3,
+            "start_date": "",
+            "end_date": "",
+            "length": "-",
+            "start_months_since_1900": -1,
+            "end_months_since_1900": -1,
+            "length_in_months": -1
+        },
+        {
+            "name": "Phyllis Brooks",
+            "href": "https://www.whosdatedwho.com/dating/phyllis-brooks",
+            "relationship_type": 3,
+            "start_date": "",
+            "end_date": "",
+            "length": "-",
+            "start_months_since_1900": -1,
+            "end_months_since_1900": -1,
+            "length_in_months": -1
+        },
+        {
+            "name": "Peggy Fears",
+            "href": "https://www.whosdatedwho.com/dating/peggy-fears",
+            "relationship_type": 2,
+            "start_date": "",
+            "end_date": "",
+            "length": "-",
+            "start_months_since_1900": -1,
+            "end_months_since_1900": -1,
+            "length_in_months": -1
+        }
+    ],
+    "details": {
+        "First Name": "Walter",
+        "Middle Name": "NA",
+        "Last Name": "Kane",
+        "Maiden Name": "NA",
+        "Full Name at Birth": "NA",
+        "Alternative Name": "NA",
+        "Birthday": "NA",
+        "Birthplace": "NA",
+        "Height": "NA",
+        "Weight": "NA",
+        "Zodiac Sign": "2",
+        "Sexuality": "NA",
+        "Religion": "1",
+        "Ethnicity": "1",
+        "Nationality": "65",
+        "Occupation": "19"
+    }
+}

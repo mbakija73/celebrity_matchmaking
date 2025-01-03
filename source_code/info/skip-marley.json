@@ -1,0 +1,44 @@
+{
+    "relationships": [
+        {
+            "name": "Kate Moss",
+            "href": "https://www.whosdatedwho.com/dating/kate-moss",
+            "relationship_type": 2,
+            "start_date": "2024",
+            "end_date": "present",
+            "length": "9 months",
+            "start_months_since_1900": 1488,
+            "end_months_since_1900": -1,
+            "length_in_months": 9
+        },
+        {
+            "name": "H.E.R.",
+            "href": "https://www.whosdatedwho.com/dating/h-e-r-actress",
+            "relationship_type": 1,
+            "start_date": "Aug 2020",
+            "end_date": "Aug 2020",
+            "length": "-",
+            "start_months_since_1900": 1447,
+            "end_months_since_1900": 1447,
+            "length_in_months": -1
+        }
+    ],
+    "details": {
+        "First Name": "Skip",
+        "Middle Name": "NA",
+        "Last Name": "Marley",
+        "Maiden Name": "NA",
+        "Full Name at Birth": "Skip Marley Minto",
+        "Alternative Name": "Skip",
+        "Birthday": "1996",
+        "Birthplace": "Jamaica",
+        "Height": "178",
+        "Weight": "150lbs (68 kg)",
+        "Zodiac Sign": "4",
+        "Sexuality": "Straight",
+        "Religion": "1",
+        "Ethnicity": "8",
+        "Nationality": "62",
+        "Occupation": "1"
+    }
+}

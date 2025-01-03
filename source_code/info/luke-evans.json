@@ -1,0 +1,88 @@
+{
+    "relationships": [
+        {
+            "name": "Fran Thomas",
+            "href": "https://www.whosdatedwho.com/dating/fran-thomas",
+            "relationship_type": 2,
+            "start_date": "Dec 2022",
+            "end_date": "present",
+            "length": "1 year",
+            "start_months_since_1900": 1475,
+            "end_months_since_1900": -1,
+            "length_in_months": 12
+        },
+        {
+            "name": "Rafael Olarra",
+            "href": "https://www.whosdatedwho.com/dating/rafael-olarra-art-director",
+            "relationship_type": 2,
+            "start_date": "2019",
+            "end_date": "Oct 2020",
+            "length": "1 year",
+            "start_months_since_1900": 1428,
+            "end_months_since_1900": 1449,
+            "length_in_months": 12
+        },
+        {
+            "name": "Victor Turpin",
+            "href": "https://www.whosdatedwho.com/dating/victor-turpin",
+            "relationship_type": 2,
+            "start_date": "Feb 2018",
+            "end_date": "Jun 2019",
+            "length": "1 year",
+            "start_months_since_1900": 1417,
+            "end_months_since_1900": 1433,
+            "length_in_months": 12
+        },
+        {
+            "name": "Jon Kortajarena",
+            "href": "https://www.whosdatedwho.com/dating/jon-kortajarena",
+            "relationship_type": 2,
+            "start_date": "2014",
+            "end_date": "",
+            "length": "-",
+            "start_months_since_1900": 1368,
+            "end_months_since_1900": -1,
+            "length_in_months": -1
+        },
+        {
+            "name": "Holly Goodchild",
+            "href": "https://www.whosdatedwho.com/dating/holly-goodchild",
+            "relationship_type": 3,
+            "start_date": "2010",
+            "end_date": "2010",
+            "length": "-",
+            "start_months_since_1900": 1320,
+            "end_months_since_1900": 1320,
+            "length_in_months": -1
+        },
+        {
+            "name": "Indiana Evans",
+            "href": "https://www.whosdatedwho.com/dating/indiana-evans",
+            "relationship_type": 3,
+            "start_date": "2008",
+            "end_date": "2008",
+            "length": "-",
+            "start_months_since_1900": 1296,
+            "end_months_since_1900": 1296,
+            "length_in_months": -1
+        }
+    ],
+    "details": {
+        "First Name": "Luke",
+        "Middle Name": "George",
+        "Last Name": "Evans",
+        "Maiden Name": "NA",
+        "Full Name at Birth": "Luke George Evans",
+        "Alternative Name": "Luke George Evans, Luke Evans",
+        "Birthday": "1979",
+        "Birthplace": "UK",
+        "Height": "183",
+        "Weight": "175lbs (79 kg)",
+        "Zodiac Sign": "7",
+        "Sexuality": "Gay",
+        "Religion": "18",
+        "Ethnicity": "6",
+        "Nationality": "83",
+        "Occupation": "8"
+    }
+}

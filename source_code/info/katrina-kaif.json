@@ -1,0 +1,55 @@
+{
+    "relationships": [
+        {
+            "name": "Vicky Kaushal",
+            "href": "https://www.whosdatedwho.com/dating/vicky-kaushal",
+            "relationship_type": 4,
+            "start_date": "May 2019",
+            "end_date": "present",
+            "length": "5 years",
+            "start_months_since_1900": 1432,
+            "end_months_since_1900": -1,
+            "length_in_months": 60
+        },
+        {
+            "name": "Ranbir Kapoor",
+            "href": "https://www.whosdatedwho.com/dating/ranbir-kapoor",
+            "relationship_type": 2,
+            "start_date": "2012",
+            "end_date": "10th Jan 2016",
+            "length": "4 years",
+            "start_months_since_1900": 1344,
+            "end_months_since_1900": 1392,
+            "length_in_months": 48
+        },
+        {
+            "name": "Salman Khan",
+            "href": "https://www.whosdatedwho.com/dating/salman-khan",
+            "relationship_type": 2,
+            "start_date": "2003",
+            "end_date": "2010",
+            "length": "7 years",
+            "start_months_since_1900": 1236,
+            "end_months_since_1900": 1320,
+            "length_in_months": 84
+        }
+    ],
+    "details": {
+        "First Name": "Katrina",
+        "Middle Name": "NA",
+        "Last Name": "Kaif",
+        "Maiden Name": "NA",
+        "Full Name at Birth": "Katrina Turquotte Kaif",
+        "Alternative Name": "\u0915\u0948\u091f\u0930\u0940\u0928\u093e \u0915\u0948\u092b\u093c, Katz, Katty Kaif, Kat, Katty, Katrina Turquotte, Katrina Turcotte, Katrina Kaif, Katrina Turquotte Kaif",
+        "Birthday": "1983",
+        "Birthplace": "British Hong Kong",
+        "Height": "169",
+        "Weight": "127lbs (58 kg)",
+        "Zodiac Sign": "8",
+        "Sexuality": "Straight",
+        "Religion": "26",
+        "Ethnicity": "8",
+        "Nationality": "8",
+        "Occupation": "8"
+    }
+}

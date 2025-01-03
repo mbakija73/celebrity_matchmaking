@@ -1,0 +1,66 @@
+{
+    "relationships": [
+        {
+            "name": "Brigitte Bardot",
+            "href": "https://www.whosdatedwho.com/dating/brigitte-bardot",
+            "relationship_type": 2,
+            "start_date": "1957",
+            "end_date": "1957",
+            "length": "-",
+            "start_months_since_1900": 684,
+            "end_months_since_1900": 684,
+            "length_in_months": -1
+        },
+        {
+            "name": "Monique Nicolas",
+            "href": "https://www.whosdatedwho.com/dating/monique-nicolas",
+            "relationship_type": 4,
+            "start_date": "",
+            "end_date": "",
+            "length": "-",
+            "start_months_since_1900": -1,
+            "end_months_since_1900": -1,
+            "length_in_months": -1
+        },
+        {
+            "name": "Kitty St-John",
+            "href": "https://www.whosdatedwho.com/dating/kitty-st-john",
+            "relationship_type": 4,
+            "start_date": "",
+            "end_date": "",
+            "length": "-",
+            "start_months_since_1900": -1,
+            "end_months_since_1900": -1,
+            "length_in_months": -1
+        },
+        {
+            "name": "Janet Woollacoot",
+            "href": "https://www.whosdatedwho.com/dating/janet-woollacoot",
+            "relationship_type": 2,
+            "start_date": "",
+            "end_date": "",
+            "length": "-",
+            "start_months_since_1900": -1,
+            "end_months_since_1900": -1,
+            "length_in_months": -1
+        }
+    ],
+    "details": {
+        "First Name": "Gilbert",
+        "Middle Name": "NA",
+        "Last Name": "B\u00e9caud",
+        "Maiden Name": "NA",
+        "Full Name at Birth": "Francois Silly",
+        "Alternative Name": "Monsieur 100.000 Volts, Monsieur Dynamite, The Atomic Bomb, Monsieur 100, 000 Volts",
+        "Birthday": "1927",
+        "Birthplace": "France",
+        "Height": "NA",
+        "Weight": "NA",
+        "Zodiac Sign": "5",
+        "Sexuality": "Straight",
+        "Religion": "1",
+        "Ethnicity": "6",
+        "Nationality": "86",
+        "Occupation": "1"
+    }
+}

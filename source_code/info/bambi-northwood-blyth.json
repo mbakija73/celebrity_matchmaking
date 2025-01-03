@@ -1,0 +1,44 @@
+{
+    "relationships": [
+        {
+            "name": "Thomas Cocquerel",
+            "href": "https://www.whosdatedwho.com/dating/thomas-cocquerel",
+            "relationship_type": 2,
+            "start_date": "Jul 2020",
+            "end_date": "present",
+            "length": "4 years",
+            "start_months_since_1900": 1446,
+            "end_months_since_1900": -1,
+            "length_in_months": 48
+        },
+        {
+            "name": "Dan Single",
+            "href": "https://www.whosdatedwho.com/dating/dan-single",
+            "relationship_type": 4,
+            "start_date": "2009",
+            "end_date": "16th Jan 2018",
+            "length": "9 years",
+            "start_months_since_1900": 1308,
+            "end_months_since_1900": 1416,
+            "length_in_months": 108
+        }
+    ],
+    "details": {
+        "First Name": "Bambi",
+        "Middle Name": "NA",
+        "Last Name": "Northwood-Blyth",
+        "Maiden Name": "NA",
+        "Full Name at Birth": "Stephanie Bambi Northwood Blythe",
+        "Alternative Name": "Bambi Northwood-Blyth",
+        "Birthday": "1991",
+        "Birthplace": "Australia",
+        "Height": "170",
+        "Weight": "NA",
+        "Zodiac Sign": "5",
+        "Sexuality": "Straight",
+        "Religion": "1",
+        "Ethnicity": "6",
+        "Nationality": "135",
+        "Occupation": "15"
+    }
+}

@@ -1,0 +1,44 @@
+{
+    "relationships": [
+        {
+            "name": "Julia Roberts",
+            "href": "https://www.whosdatedwho.com/dating/julia-roberts",
+            "relationship_type": 2,
+            "start_date": "1996",
+            "end_date": "1996",
+            "length": "-",
+            "start_months_since_1900": 1152,
+            "end_months_since_1900": 1152,
+            "length_in_months": -1
+        },
+        {
+            "name": "Mary-Louise Parker",
+            "href": "https://www.whosdatedwho.com/dating/mary-louise-parker",
+            "relationship_type": 2,
+            "start_date": "1992",
+            "end_date": "1995",
+            "length": "3 years",
+            "start_months_since_1900": 1104,
+            "end_months_since_1900": 1140,
+            "length_in_months": 36
+        }
+    ],
+    "details": {
+        "First Name": "Pat",
+        "Middle Name": "NA",
+        "Last Name": "Mannochia",
+        "Maiden Name": "NA",
+        "Full Name at Birth": "Patrick Mannochia",
+        "Alternative Name": "NA",
+        "Birthday": "NA",
+        "Birthplace": "Rhode Island",
+        "Height": "NA",
+        "Weight": "NA",
+        "Zodiac Sign": "2",
+        "Sexuality": "Straight",
+        "Religion": "1",
+        "Ethnicity": "6",
+        "Nationality": "91",
+        "Occupation": "18"
+    }
+}

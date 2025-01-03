@@ -1,0 +1,77 @@
+{
+    "relationships": [
+        {
+            "name": "Natalie Joy",
+            "href": "https://www.whosdatedwho.com/dating/natalie-joy-nurse",
+            "relationship_type": 4,
+            "start_date": "2020",
+            "end_date": "present",
+            "length": "4 years",
+            "start_months_since_1900": 1440,
+            "end_months_since_1900": -1,
+            "length_in_months": 48
+        },
+        {
+            "name": "Vanessa Grimaldi",
+            "href": "https://www.whosdatedwho.com/dating/vanessa-grimaldi",
+            "relationship_type": 2,
+            "start_date": "13th Mar 2017",
+            "end_date": "25th Aug 2017",
+            "length": "5 months",
+            "start_months_since_1900": 1406,
+            "end_months_since_1900": 1411,
+            "length_in_months": 5
+        },
+        {
+            "name": "Rachel Lindsay",
+            "href": "https://www.whosdatedwho.com/dating/rachel-lindsay",
+            "relationship_type": 2,
+            "start_date": "Sep 2016",
+            "end_date": "Oct 2016",
+            "length": "1 month",
+            "start_months_since_1900": 1400,
+            "end_months_since_1900": 1401,
+            "length_in_months": 1
+        },
+        {
+            "name": "Jennifer Saviano",
+            "href": "https://www.whosdatedwho.com/dating/jennifer-saviano",
+            "relationship_type": 2,
+            "start_date": "",
+            "end_date": "",
+            "length": "-",
+            "start_months_since_1900": -1,
+            "end_months_since_1900": -1,
+            "length_in_months": -1
+        },
+        {
+            "name": "Corinne Olympios",
+            "href": "https://www.whosdatedwho.com/dating/corinne-olympios",
+            "relationship_type": 1,
+            "start_date": "",
+            "end_date": "",
+            "length": "-",
+            "start_months_since_1900": -1,
+            "end_months_since_1900": -1,
+            "length_in_months": -1
+        }
+    ],
+    "details": {
+        "First Name": "Nick",
+        "Middle Name": "NA",
+        "Last Name": "Viall",
+        "Maiden Name": "NA",
+        "Full Name at Birth": "Nicholas Joseph Viall",
+        "Alternative Name": "Nick Viall, Nicholas Joseph Viall",
+        "Birthday": "1980",
+        "Birthplace": "USA",
+        "Height": "188",
+        "Weight": "NA",
+        "Zodiac Sign": "10",
+        "Sexuality": "Straight",
+        "Religion": "1",
+        "Ethnicity": "6",
+        "Nationality": "91",
+        "Occupation": "11"
+    }
+}

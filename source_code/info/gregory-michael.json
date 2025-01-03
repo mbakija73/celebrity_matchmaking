@@ -1,0 +1,88 @@
+{
+    "relationships": [
+        {
+            "name": "Chelsea Heath",
+            "href": "https://www.whosdatedwho.com/dating/chelsea-heath",
+            "relationship_type": 1,
+            "start_date": "2011",
+            "end_date": "2010",
+            "length": "1 year",
+            "start_months_since_1900": 1332,
+            "end_months_since_1900": 1320,
+            "length_in_months": 12
+        },
+        {
+            "name": "Natasha Barnard",
+            "href": "https://www.whosdatedwho.com/dating/natasha-barnard",
+            "relationship_type": 2,
+            "start_date": "2009",
+            "end_date": "2010",
+            "length": "1 year",
+            "start_months_since_1900": 1308,
+            "end_months_since_1900": 1320,
+            "length_in_months": 12
+        },
+        {
+            "name": "Angie Cole",
+            "href": "https://www.whosdatedwho.com/dating/angie-cole",
+            "relationship_type": 2,
+            "start_date": "2007",
+            "end_date": "2009",
+            "length": "2 years",
+            "start_months_since_1900": 1284,
+            "end_months_since_1900": 1308,
+            "length_in_months": 24
+        },
+        {
+            "name": "Skyler Shaye",
+            "href": "https://www.whosdatedwho.com/dating/skyler-shaye",
+            "relationship_type": 3,
+            "start_date": "2006",
+            "end_date": "2006",
+            "length": "-",
+            "start_months_since_1900": 1272,
+            "end_months_since_1900": 1272,
+            "length_in_months": -1
+        },
+        {
+            "name": "Alicja Bachleda",
+            "href": "https://www.whosdatedwho.com/dating/alicja-bachleda",
+            "relationship_type": 1,
+            "start_date": "",
+            "end_date": "",
+            "length": "-",
+            "start_months_since_1900": -1,
+            "end_months_since_1900": -1,
+            "length_in_months": -1
+        },
+        {
+            "name": "Vienna Girardi",
+            "href": "https://www.whosdatedwho.com/dating/vienna-girardi",
+            "relationship_type": 3,
+            "start_date": "",
+            "end_date": "2010",
+            "length": "-",
+            "start_months_since_1900": -1,
+            "end_months_since_1900": 1320,
+            "length_in_months": -1
+        }
+    ],
+    "details": {
+        "First Name": "Gregory",
+        "Middle Name": "NA",
+        "Last Name": "Michael",
+        "Maiden Name": "NA",
+        "Full Name at Birth": "Gregory Michael",
+        "Alternative Name": "NA",
+        "Birthday": "1981",
+        "Birthplace": "USA",
+        "Height": "183",
+        "Weight": "NA",
+        "Zodiac Sign": "4",
+        "Sexuality": "Straight",
+        "Religion": "13",
+        "Ethnicity": "6",
+        "Nationality": "91",
+        "Occupation": "8"
+    }
+}

@@ -1,0 +1,55 @@
+{
+    "relationships": [
+        {
+            "name": "Cristiano Ronaldo",
+            "href": "https://www.whosdatedwho.com/dating/cristiano-ronaldo",
+            "relationship_type": 3,
+            "start_date": "May 2014",
+            "end_date": "Jul 2014",
+            "length": "2 months",
+            "start_months_since_1900": 1372,
+            "end_months_since_1900": 1374,
+            "length_in_months": 2
+        },
+        {
+            "name": "Leonardo DiCaprio",
+            "href": "https://www.whosdatedwho.com/dating/leonardo-dicaprio",
+            "relationship_type": 2,
+            "start_date": "Feb 2013",
+            "end_date": "May 2013",
+            "length": "2 months",
+            "start_months_since_1900": 1357,
+            "end_months_since_1900": 1360,
+            "length_in_months": 2
+        },
+        {
+            "name": "Gerard Butler",
+            "href": "https://www.whosdatedwho.com/dating/gerard-butler",
+            "relationship_type": 1,
+            "start_date": "",
+            "end_date": "",
+            "length": "-",
+            "start_months_since_1900": -1,
+            "end_months_since_1900": -1,
+            "length_in_months": -1
+        }
+    ],
+    "details": {
+        "First Name": "Alesia",
+        "Middle Name": "NA",
+        "Last Name": "Riabenkova",
+        "Maiden Name": "NA",
+        "Full Name at Birth": "NA",
+        "Alternative Name": "NA",
+        "Birthday": "1992",
+        "Birthplace": "NA",
+        "Height": "180",
+        "Weight": "120lbs (54 kg)",
+        "Zodiac Sign": "10",
+        "Sexuality": "Straight",
+        "Religion": "1",
+        "Ethnicity": "6",
+        "Nationality": "91",
+        "Occupation": "8"
+    }
+}

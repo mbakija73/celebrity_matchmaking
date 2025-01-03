@@ -1,0 +1,44 @@
+{
+    "relationships": [
+        {
+            "name": "Carol Fanjul",
+            "href": "https://www.whosdatedwho.com/dating/carol-fanjul",
+            "relationship_type": 2,
+            "start_date": "2012",
+            "end_date": "present",
+            "length": "12 years",
+            "start_months_since_1900": 1344,
+            "end_months_since_1900": -1,
+            "length_in_months": 144
+        },
+        {
+            "name": "Sheron Menezzes",
+            "href": "https://www.whosdatedwho.com/dating/sheron-menezzes",
+            "relationship_type": 2,
+            "start_date": "Jun 2008",
+            "end_date": "Feb 2009",
+            "length": "8 months",
+            "start_months_since_1900": 1301,
+            "end_months_since_1900": 1309,
+            "length_in_months": 8
+        }
+    ],
+    "details": {
+        "First Name": "Miguel",
+        "Middle Name": "Pesce",
+        "Last Name": "Thire",
+        "Maiden Name": "NA",
+        "Full Name at Birth": "Miguel Pesce Thir\u00e9",
+        "Alternative Name": "NA",
+        "Birthday": "1982",
+        "Birthplace": "Brazil",
+        "Height": "NA",
+        "Weight": "NA",
+        "Zodiac Sign": "8",
+        "Sexuality": "Straight",
+        "Religion": "1",
+        "Ethnicity": "6",
+        "Nationality": "87",
+        "Occupation": "8"
+    }
+}

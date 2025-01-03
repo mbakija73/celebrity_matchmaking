@@ -1,0 +1,44 @@
+{
+    "relationships": [
+        {
+            "name": "Nicole O'Brien",
+            "href": "https://www.whosdatedwho.com/dating/nicole-o-brien-102074380",
+            "relationship_type": 2,
+            "start_date": "Sep 2019",
+            "end_date": "2020",
+            "length": "4 months",
+            "start_months_since_1900": 1436,
+            "end_months_since_1900": 1440,
+            "length_in_months": 4
+        },
+        {
+            "name": "Chloe Veitch",
+            "href": "https://www.whosdatedwho.com/dating/chloe-veitch",
+            "relationship_type": 3,
+            "start_date": "2019",
+            "end_date": "2019",
+            "length": "-",
+            "start_months_since_1900": 1428,
+            "end_months_since_1900": 1428,
+            "length_in_months": -1
+        }
+    ],
+    "details": {
+        "First Name": "Bryce",
+        "Middle Name": "David",
+        "Last Name": "Hirschberg",
+        "Maiden Name": "NA",
+        "Full Name at Birth": "Bryce David Hirschberg",
+        "Alternative Name": "Bryce Hirschberg, Bryce David Hirschberg",
+        "Birthday": "1990",
+        "Birthplace": "USA",
+        "Height": "178",
+        "Weight": "NA",
+        "Zodiac Sign": "4",
+        "Sexuality": "NA",
+        "Religion": "1",
+        "Ethnicity": "1",
+        "Nationality": "91",
+        "Occupation": "9"
+    }
+}

@@ -1,0 +1,77 @@
+{
+    "relationships": [
+        {
+            "name": "Dale Robertson",
+            "href": "https://www.whosdatedwho.com/dating/dale-robertson",
+            "relationship_type": 4,
+            "start_date": "Jan 1954",
+            "end_date": "1958",
+            "length": "4 years",
+            "start_months_since_1900": 648,
+            "end_months_since_1900": 696,
+            "length_in_months": 48
+        },
+        {
+            "name": "Bing Crosby",
+            "href": "https://www.whosdatedwho.com/dating/bing-crosby",
+            "relationship_type": 2,
+            "start_date": "Oct 1953",
+            "end_date": "Oct 1954",
+            "length": "1 year",
+            "start_months_since_1900": 645,
+            "end_months_since_1900": 657,
+            "length_in_months": 12
+        },
+        {
+            "name": "Conrad Hilton Jr.",
+            "href": "https://www.whosdatedwho.com/dating/conrad-hilton-jr",
+            "relationship_type": 2,
+            "start_date": "Oct 1952",
+            "end_date": "Feb 1954",
+            "length": "1 year",
+            "start_months_since_1900": 633,
+            "end_months_since_1900": 649,
+            "length_in_months": 12
+        },
+        {
+            "name": "G. David Schine",
+            "href": "https://www.whosdatedwho.com/dating/g-david-schine",
+            "relationship_type": 3,
+            "start_date": "Jun 1952",
+            "end_date": "Jul 1952",
+            "length": "1 month",
+            "start_months_since_1900": 629,
+            "end_months_since_1900": 630,
+            "length_in_months": 1
+        },
+        {
+            "name": "Adolph Zukor",
+            "href": "https://www.whosdatedwho.com/dating/adolph-zukor",
+            "relationship_type": 3,
+            "start_date": "Apr 1951",
+            "end_date": "May 1951",
+            "length": "1 month",
+            "start_months_since_1900": 615,
+            "end_months_since_1900": 616,
+            "length_in_months": 1
+        }
+    ],
+    "details": {
+        "First Name": "Mary",
+        "Middle Name": "NA",
+        "Last Name": "NA",
+        "Maiden Name": "Murphy",
+        "Full Name at Birth": "Mary Murphy",
+        "Alternative Name": "NA",
+        "Birthday": "1931",
+        "Birthplace": "District of Columbia",
+        "Height": "163",
+        "Weight": "NA",
+        "Zodiac Sign": "9",
+        "Sexuality": "Straight",
+        "Religion": "19",
+        "Ethnicity": "6",
+        "Nationality": "91",
+        "Occupation": "8"
+    }
+}

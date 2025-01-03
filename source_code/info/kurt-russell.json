@@ -1,0 +1,44 @@
+{
+    "relationships": [
+        {
+            "name": "Goldie Hawn",
+            "href": "https://www.whosdatedwho.com/dating/goldie-hawn",
+            "relationship_type": 2,
+            "start_date": "Feb 1983",
+            "end_date": "Feb 1983",
+            "length": "-",
+            "start_months_since_1900": 997,
+            "end_months_since_1900": 997,
+            "length_in_months": -1
+        },
+        {
+            "name": "Season Hubley",
+            "href": "https://www.whosdatedwho.com/dating/season-hubley",
+            "relationship_type": 4,
+            "start_date": "Aug 1978",
+            "end_date": "May 1983",
+            "length": "4 years",
+            "start_months_since_1900": 943,
+            "end_months_since_1900": 1000,
+            "length_in_months": 48
+        }
+    ],
+    "details": {
+        "First Name": "Kurt",
+        "Middle Name": "Vogel",
+        "Last Name": "Russell",
+        "Maiden Name": "NA",
+        "Full Name at Birth": "Kurt Vogel Russell",
+        "Alternative Name": "Kurt Vogel Russell, Kurt Russell",
+        "Birthday": "1951",
+        "Birthplace": "USA",
+        "Height": "180",
+        "Weight": "NA",
+        "Zodiac Sign": "1",
+        "Sexuality": "Straight",
+        "Religion": "16",
+        "Ethnicity": "6",
+        "Nationality": "91",
+        "Occupation": "8"
+    }
+}

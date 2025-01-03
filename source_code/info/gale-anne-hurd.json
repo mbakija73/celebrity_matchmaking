@@ -1,0 +1,55 @@
+{
+    "relationships": [
+        {
+            "name": "Jonathan Hensleigh",
+            "href": "https://www.whosdatedwho.com/dating/jonathan-hensleigh",
+            "relationship_type": 4,
+            "start_date": "1994",
+            "end_date": "present",
+            "length": "30 years",
+            "start_months_since_1900": 1128,
+            "end_months_since_1900": -1,
+            "length_in_months": 360
+        },
+        {
+            "name": "Brian De Palma",
+            "href": "https://www.whosdatedwho.com/dating/brian-de-palma",
+            "relationship_type": 4,
+            "start_date": "1990",
+            "end_date": "1993",
+            "length": "3 years",
+            "start_months_since_1900": 1080,
+            "end_months_since_1900": 1116,
+            "length_in_months": 36
+        },
+        {
+            "name": "James Cameron",
+            "href": "https://www.whosdatedwho.com/dating/james-cameron",
+            "relationship_type": 4,
+            "start_date": "1984",
+            "end_date": "1989",
+            "length": "5 years",
+            "start_months_since_1900": 1008,
+            "end_months_since_1900": 1068,
+            "length_in_months": 60
+        }
+    ],
+    "details": {
+        "First Name": "Gale",
+        "Middle Name": "Anne",
+        "Last Name": "NA",
+        "Maiden Name": "Hurd",
+        "Full Name at Birth": "Gale Anne Hurd",
+        "Alternative Name": "First Lady of Sci-Fi",
+        "Birthday": "1955",
+        "Birthplace": "USA",
+        "Height": "163",
+        "Weight": "NA",
+        "Zodiac Sign": "5",
+        "Sexuality": "Straight",
+        "Religion": "1",
+        "Ethnicity": "6",
+        "Nationality": "91",
+        "Occupation": "9"
+    }
+}

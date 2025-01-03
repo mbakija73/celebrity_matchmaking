@@ -1,0 +1,88 @@
+{
+    "relationships": [
+        {
+            "name": "Tom Ellis",
+            "href": "https://www.whosdatedwho.com/dating/tom-ellis",
+            "relationship_type": 4,
+            "start_date": "Jun 2005",
+            "end_date": "Aug 2013",
+            "length": "8 years",
+            "start_months_since_1900": 1265,
+            "end_months_since_1900": 1363,
+            "length_in_months": 96
+        },
+        {
+            "name": "Leo Gregory",
+            "href": "https://www.whosdatedwho.com/dating/leo-gregory",
+            "relationship_type": 3,
+            "start_date": "2004",
+            "end_date": "2004",
+            "length": "-",
+            "start_months_since_1900": 1248,
+            "end_months_since_1900": 1248,
+            "length_in_months": -1
+        },
+        {
+            "name": "Jamie Baker",
+            "href": "https://www.whosdatedwho.com/dating/jamie-baker",
+            "relationship_type": 2,
+            "start_date": "Dec 2003",
+            "end_date": "Mar 2004",
+            "length": "3 months",
+            "start_months_since_1900": 1247,
+            "end_months_since_1900": 1250,
+            "length_in_months": 3
+        },
+        {
+            "name": "Nigel Harman",
+            "href": "https://www.whosdatedwho.com/dating/nigel-harman",
+            "relationship_type": 2,
+            "start_date": "2003",
+            "end_date": "2003",
+            "length": "-",
+            "start_months_since_1900": 1236,
+            "end_months_since_1900": 1236,
+            "length_in_months": -1
+        },
+        {
+            "name": "Steve Ellington",
+            "href": "https://www.whosdatedwho.com/dating/steve-ellington",
+            "relationship_type": 2,
+            "start_date": "2000",
+            "end_date": "Jul 2003",
+            "length": "3 years",
+            "start_months_since_1900": 1200,
+            "end_months_since_1900": 1242,
+            "length_in_months": 36
+        },
+        {
+            "name": "Marty Benson",
+            "href": "https://www.whosdatedwho.com/dating/marty-benson",
+            "relationship_type": 2,
+            "start_date": "1999",
+            "end_date": "2000",
+            "length": "1 year",
+            "start_months_since_1900": 1188,
+            "end_months_since_1900": 1200,
+            "length_in_months": 12
+        }
+    ],
+    "details": {
+        "First Name": "Tamzin",
+        "Middle Name": "Maria",
+        "Last Name": "Outhwaite",
+        "Maiden Name": "NA",
+        "Full Name at Birth": "Tamzin Maria Outwaite",
+        "Alternative Name": "Tamzin Maria Outhwaite, Tamzin Oofwaite, Tasmin Outhwaite, Tamsin Outhwaite, Tammi Outhwaite",
+        "Birthday": "1970",
+        "Birthplace": "UK",
+        "Height": "173",
+        "Weight": "123lbs (56 kg)",
+        "Zodiac Sign": "5",
+        "Sexuality": "Straight",
+        "Religion": "18",
+        "Ethnicity": "6",
+        "Nationality": "8",
+        "Occupation": "8"
+    }
+}

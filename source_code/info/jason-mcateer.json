@@ -1,0 +1,55 @@
+{
+    "relationships": [
+        {
+            "name": "Donna Air",
+            "href": "https://www.whosdatedwho.com/dating/donna-air",
+            "relationship_type": 2,
+            "start_date": "1999",
+            "end_date": "1999",
+            "length": "-",
+            "start_months_since_1900": 1188,
+            "end_months_since_1900": 1188,
+            "length_in_months": -1
+        },
+        {
+            "name": "Lisa Barbuscia",
+            "href": "https://www.whosdatedwho.com/dating/lisa-barbuscia",
+            "relationship_type": 3,
+            "start_date": "Mar 1998",
+            "end_date": "Mar 1998",
+            "length": "-",
+            "start_months_since_1900": 1178,
+            "end_months_since_1900": 1178,
+            "length_in_months": -1
+        },
+        {
+            "name": "Melanie C",
+            "href": "https://www.whosdatedwho.com/dating/melanie-chisholm",
+            "relationship_type": 2,
+            "start_date": "Jan 1998",
+            "end_date": "1998",
+            "length": "-",
+            "start_months_since_1900": 1176,
+            "end_months_since_1900": 1176,
+            "length_in_months": -1
+        }
+    ],
+    "details": {
+        "First Name": "Jason",
+        "Middle Name": "NA",
+        "Last Name": "McAteer",
+        "Maiden Name": "NA",
+        "Full Name at Birth": "Jason Wynne McAteer",
+        "Alternative Name": "NA",
+        "Birthday": "1971",
+        "Birthplace": "UK",
+        "Height": "180",
+        "Weight": "NA",
+        "Zodiac Sign": "4",
+        "Sexuality": "Straight",
+        "Religion": "1",
+        "Ethnicity": "6",
+        "Nationality": "8",
+        "Occupation": "2"
+    }
+}

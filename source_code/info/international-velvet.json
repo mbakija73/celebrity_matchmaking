@@ -1,0 +1,44 @@
+{
+    "relationships": [
+        {
+            "name": "David Croland",
+            "href": "https://www.whosdatedwho.com/dating/david-croland",
+            "relationship_type": 2,
+            "start_date": "Jun 1966",
+            "end_date": "1968",
+            "length": "1 year",
+            "start_months_since_1900": 797,
+            "end_months_since_1900": 816,
+            "length_in_months": 12
+        },
+        {
+            "name": "Gerard Malanga",
+            "href": "https://www.whosdatedwho.com/dating/gerard-malanga",
+            "relationship_type": 2,
+            "start_date": "Mar 1966",
+            "end_date": "-1",
+            "length": "1967 years",
+            "start_months_since_1900": 794,
+            "end_months_since_1900": -1,
+            "length_in_months": -1
+        }
+    ],
+    "details": {
+        "First Name": "International",
+        "Middle Name": "NA",
+        "Last Name": "Velvet",
+        "Maiden Name": "Bottomly",
+        "Full Name at Birth": "Susan Bottomly",
+        "Alternative Name": "Susan Bottomly",
+        "Birthday": "1949",
+        "Birthplace": "Massachusetts",
+        "Height": "180",
+        "Weight": "NA",
+        "Zodiac Sign": "2",
+        "Sexuality": "Straight",
+        "Religion": "1",
+        "Ethnicity": "6",
+        "Nationality": "98",
+        "Occupation": "8"
+    }
+}

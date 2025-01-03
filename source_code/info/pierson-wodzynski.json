@@ -1,0 +1,44 @@
+{
+    "relationships": [
+        {
+            "name": "Brent Rivera",
+            "href": "https://www.whosdatedwho.com/dating/brent-rivera",
+            "relationship_type": 2,
+            "start_date": "Dec 2019",
+            "end_date": "Jan 2023",
+            "length": "3 years",
+            "start_months_since_1900": 1439,
+            "end_months_since_1900": 1476,
+            "length_in_months": 36
+        },
+        {
+            "name": "Leonardo DiCaprio",
+            "href": "https://www.whosdatedwho.com/dating/leonardo-dicaprio",
+            "relationship_type": 1,
+            "start_date": "",
+            "end_date": "",
+            "length": "-",
+            "start_months_since_1900": -1,
+            "end_months_since_1900": -1,
+            "length_in_months": -1
+        }
+    ],
+    "details": {
+        "First Name": "Pierson",
+        "Middle Name": "NA",
+        "Last Name": "Wodzynski",
+        "Maiden Name": "NA",
+        "Full Name at Birth": "Pierson Rivera",
+        "Alternative Name": "Pierson, Perison, Person, Asher Cade, Pierson Rivera",
+        "Birthday": "1999",
+        "Birthplace": "USA",
+        "Height": "173",
+        "Weight": "132lbs (60 kg)",
+        "Zodiac Sign": "9",
+        "Sexuality": "Straight",
+        "Religion": "18",
+        "Ethnicity": "6",
+        "Nationality": "91",
+        "Occupation": "11"
+    }
+}

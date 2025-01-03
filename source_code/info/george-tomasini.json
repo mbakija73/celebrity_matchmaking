@@ -1,0 +1,33 @@
+{
+    "relationships": [
+        {
+            "name": "Mary Brian",
+            "href": "https://www.whosdatedwho.com/dating/mary-brian",
+            "relationship_type": 4,
+            "start_date": "1947",
+            "end_date": "Nov 1964",
+            "length": "17 years",
+            "start_months_since_1900": 564,
+            "end_months_since_1900": 778,
+            "length_in_months": 204
+        }
+    ],
+    "details": {
+        "First Name": "George",
+        "Middle Name": "NA",
+        "Last Name": "Tomasini",
+        "Maiden Name": "NA",
+        "Full Name at Birth": "George Tomasini",
+        "Alternative Name": "NA",
+        "Birthday": "1909",
+        "Birthplace": "Massachusetts",
+        "Height": "NA",
+        "Weight": "NA",
+        "Zodiac Sign": "7",
+        "Sexuality": "Straight",
+        "Religion": "1",
+        "Ethnicity": "1",
+        "Nationality": "91",
+        "Occupation": "3"
+    }
+}

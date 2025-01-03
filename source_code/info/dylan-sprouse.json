@@ -1,0 +1,66 @@
+{
+    "relationships": [
+        {
+            "name": "Barbara Palvin",
+            "href": "https://www.whosdatedwho.com/dating/barbara-palvin",
+            "relationship_type": 4,
+            "start_date": "Jun 2018",
+            "end_date": "present",
+            "length": "6 years",
+            "start_months_since_1900": 1421,
+            "end_months_since_1900": -1,
+            "length_in_months": 72
+        },
+        {
+            "name": "Dayna Frazer",
+            "href": "https://www.whosdatedwho.com/dating/dayna-frazer",
+            "relationship_type": 2,
+            "start_date": "Feb 2014",
+            "end_date": "Aug 2017",
+            "length": "3 years",
+            "start_months_since_1900": 1369,
+            "end_months_since_1900": 1411,
+            "length_in_months": 36
+        },
+        {
+            "name": "Kara Crane",
+            "href": "https://www.whosdatedwho.com/dating/kara-crane",
+            "relationship_type": 2,
+            "start_date": "Feb 2010",
+            "end_date": "Nov 2010",
+            "length": "9 months",
+            "start_months_since_1900": 1321,
+            "end_months_since_1900": 1330,
+            "length_in_months": 9
+        },
+        {
+            "name": "Miley Cyrus",
+            "href": "https://www.whosdatedwho.com/dating/miley-cyrus",
+            "relationship_type": 2,
+            "start_date": "2006",
+            "end_date": "2006",
+            "length": "-",
+            "start_months_since_1900": 1272,
+            "end_months_since_1900": 1272,
+            "length_in_months": -1
+        }
+    ],
+    "details": {
+        "First Name": "Dylan",
+        "Middle Name": "Thomas",
+        "Last Name": "Sprouse",
+        "Maiden Name": "NA",
+        "Full Name at Birth": "Dylan Thomas Sprouse",
+        "Alternative Name": "Dylan Sprouse",
+        "Birthday": "1992",
+        "Birthplace": "Italy",
+        "Height": "178",
+        "Weight": "145lbs (66 kg)",
+        "Zodiac Sign": "12",
+        "Sexuality": "Straight",
+        "Religion": "26",
+        "Ethnicity": "6",
+        "Nationality": "91",
+        "Occupation": "8"
+    }
+}

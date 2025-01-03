@@ -1,0 +1,77 @@
+{
+    "relationships": [
+        {
+            "name": "David Groh",
+            "href": "https://www.whosdatedwho.com/dating/david-groh",
+            "relationship_type": 2,
+            "start_date": "Jul 1974",
+            "end_date": "Sep 1974",
+            "length": "2 months",
+            "start_months_since_1900": 894,
+            "end_months_since_1900": 896,
+            "length_in_months": 2
+        },
+        {
+            "name": "Elvis Presley",
+            "href": "https://www.whosdatedwho.com/dating/elvis-presley",
+            "relationship_type": 2,
+            "start_date": "Jul 1965",
+            "end_date": "Jul 1965",
+            "length": "-",
+            "start_months_since_1900": 786,
+            "end_months_since_1900": 786,
+            "length_in_months": -1
+        },
+        {
+            "name": "John Leyton",
+            "href": "https://www.whosdatedwho.com/dating/john-leyton",
+            "relationship_type": 2,
+            "start_date": "Mar 1965",
+            "end_date": "May 1965",
+            "length": "2 months",
+            "start_months_since_1900": 782,
+            "end_months_since_1900": 784,
+            "length_in_months": 2
+        },
+        {
+            "name": "Sidney Luft",
+            "href": "https://www.whosdatedwho.com/dating/sidney-luft",
+            "relationship_type": 2,
+            "start_date": "",
+            "end_date": "",
+            "length": "-",
+            "start_months_since_1900": -1,
+            "end_months_since_1900": -1,
+            "length_in_months": -1
+        },
+        {
+            "name": "Bernard Hill",
+            "href": "https://www.whosdatedwho.com/dating/bernard-hill",
+            "relationship_type": 4,
+            "start_date": "1976",
+            "end_date": "1977",
+            "length": "1 year",
+            "start_months_since_1900": 912,
+            "end_months_since_1900": 924,
+            "length_in_months": 12
+        }
+    ],
+    "details": {
+        "First Name": "Marianna",
+        "Middle Name": "NA",
+        "Last Name": "Hill",
+        "Maiden Name": "Schwarzkopf",
+        "Full Name at Birth": "Marianna Schwarzkopf",
+        "Alternative Name": "Mariana Schwarzkopf, Marianna Hill, Marianna Schwarzkopf, Mariana Hill, Marianne Hill",
+        "Birthday": "1942",
+        "Birthplace": "USA",
+        "Height": "163",
+        "Weight": "119lbs (54 kg)",
+        "Zodiac Sign": "9",
+        "Sexuality": "Straight",
+        "Religion": "1",
+        "Ethnicity": "6",
+        "Nationality": "91",
+        "Occupation": "8"
+    }
+}

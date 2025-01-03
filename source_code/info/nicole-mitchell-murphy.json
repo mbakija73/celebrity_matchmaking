@@ -1,0 +1,66 @@
+{
+    "relationships": [
+        {
+            "name": "Nick Cannon",
+            "href": "https://www.whosdatedwho.com/dating/nick-cannon",
+            "relationship_type": 3,
+            "start_date": "Feb 2015",
+            "end_date": "Feb 2015",
+            "length": "-",
+            "start_months_since_1900": 1381,
+            "end_months_since_1900": 1381,
+            "length_in_months": -1
+        },
+        {
+            "name": "Michael Strahan",
+            "href": "https://www.whosdatedwho.com/dating/michael-strahan",
+            "relationship_type": 2,
+            "start_date": "Oct 2007",
+            "end_date": "Jul 2014",
+            "length": "6 years",
+            "start_months_since_1900": 1293,
+            "end_months_since_1900": 1374,
+            "length_in_months": 72
+        },
+        {
+            "name": "Michael Jordan",
+            "href": "https://www.whosdatedwho.com/dating/michael-jordan",
+            "relationship_type": 3,
+            "start_date": "2007",
+            "end_date": "2007",
+            "length": "-",
+            "start_months_since_1900": 1284,
+            "end_months_since_1900": 1284,
+            "length_in_months": -1
+        },
+        {
+            "name": "Eddie Murphy",
+            "href": "https://www.whosdatedwho.com/dating/eddie-murphy",
+            "relationship_type": 4,
+            "start_date": "Sep 1988",
+            "end_date": "17th Apr 2006",
+            "length": "17 years",
+            "start_months_since_1900": 1064,
+            "end_months_since_1900": 1275,
+            "length_in_months": 204
+        }
+    ],
+    "details": {
+        "First Name": "Nicole",
+        "Middle Name": "Ronnette",
+        "Last Name": "Murphy",
+        "Maiden Name": "Mitchell",
+        "Full Name at Birth": "Nicole Ronnette Mitchell",
+        "Alternative Name": "Nicole Murphy, Nicole Mitchell Murphy, Nicole Mitchell, Niki Murphy, Niki, Nicole Ronnette Mitchell",
+        "Birthday": "1968",
+        "Birthplace": "USA",
+        "Height": "178",
+        "Weight": "142lbs (64 kg)",
+        "Zodiac Sign": "13",
+        "Sexuality": "Straight",
+        "Religion": "1",
+        "Ethnicity": "8",
+        "Nationality": "91",
+        "Occupation": "15"
+    }
+}

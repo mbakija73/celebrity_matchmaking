@@ -1,0 +1,66 @@
+{
+    "relationships": [
+        {
+            "name": "Landon Pigg",
+            "href": "https://www.whosdatedwho.com/dating/landon-pigg",
+            "relationship_type": 2,
+            "start_date": "2010",
+            "end_date": "2014",
+            "length": "4 years",
+            "start_months_since_1900": 1320,
+            "end_months_since_1900": 1368,
+            "length_in_months": 48
+        },
+        {
+            "name": "Dov Tiefenbach",
+            "href": "https://www.whosdatedwho.com/dating/dov-tiefenbach",
+            "relationship_type": 2,
+            "start_date": "2008",
+            "end_date": "2008",
+            "length": "-",
+            "start_months_since_1900": 1296,
+            "end_months_since_1900": 1296,
+            "length_in_months": -1
+        },
+        {
+            "name": "Haley Joel Osment",
+            "href": "https://www.whosdatedwho.com/dating/haley-joel-osment",
+            "relationship_type": 3,
+            "start_date": "2002",
+            "end_date": "2002",
+            "length": "-",
+            "start_months_since_1900": 1224,
+            "end_months_since_1900": 1224,
+            "length_in_months": -1
+        },
+        {
+            "name": "Peter Krause",
+            "href": "https://www.whosdatedwho.com/dating/peter-krause",
+            "relationship_type": 1,
+            "start_date": "",
+            "end_date": "",
+            "length": "-",
+            "start_months_since_1900": -1,
+            "end_months_since_1900": -1,
+            "length_in_months": -1
+        }
+    ],
+    "details": {
+        "First Name": "Mae",
+        "Middle Name": "Margaret",
+        "Last Name": "Whitman",
+        "Maiden Name": "NA",
+        "Full Name at Birth": "Mae Margaret Whitman",
+        "Alternative Name": "Mae",
+        "Birthday": "1988",
+        "Birthplace": "USA",
+        "Height": "157",
+        "Weight": "114lbs (52 kg)",
+        "Zodiac Sign": "4",
+        "Sexuality": "Straight",
+        "Religion": "1",
+        "Ethnicity": "6",
+        "Nationality": "91",
+        "Occupation": "8"
+    }
+}

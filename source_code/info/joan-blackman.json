@@ -1,0 +1,77 @@
+{
+    "relationships": [
+        {
+            "name": "Rockne Tarkington",
+            "href": "https://www.whosdatedwho.com/dating/rockne-tarkington",
+            "relationship_type": 4,
+            "start_date": "Jan 1967",
+            "end_date": "Oct 1970",
+            "length": "3 years",
+            "start_months_since_1900": 804,
+            "end_months_since_1900": 849,
+            "length_in_months": 36
+        },
+        {
+            "name": "Hampton Fancher",
+            "href": "https://www.whosdatedwho.com/dating/hampton-fancher",
+            "relationship_type": 2,
+            "start_date": "Jan 1961",
+            "end_date": "Dec 1966",
+            "length": "5 years",
+            "start_months_since_1900": 732,
+            "end_months_since_1900": 803,
+            "length_in_months": 60
+        },
+        {
+            "name": "Joby Baker",
+            "href": "https://www.whosdatedwho.com/dating/joby-baker",
+            "relationship_type": 4,
+            "start_date": "Jan 1958",
+            "end_date": "18th Nov 1961",
+            "length": "3 years",
+            "start_months_since_1900": 696,
+            "end_months_since_1900": 742,
+            "length_in_months": 36
+        },
+        {
+            "name": "Frank Sinatra",
+            "href": "https://www.whosdatedwho.com/dating/frank-sinatra",
+            "relationship_type": 3,
+            "start_date": "Dec 1956",
+            "end_date": "Dec 1956",
+            "length": "-",
+            "start_months_since_1900": 683,
+            "end_months_since_1900": 683,
+            "length_in_months": -1
+        },
+        {
+            "name": "Stash Klossowski",
+            "href": "https://www.whosdatedwho.com/dating/stash-de-rola",
+            "relationship_type": 2,
+            "start_date": "",
+            "end_date": "",
+            "length": "-",
+            "start_months_since_1900": -1,
+            "end_months_since_1900": -1,
+            "length_in_months": -1
+        }
+    ],
+    "details": {
+        "First Name": "Joan",
+        "Middle Name": "May",
+        "Last Name": "NA",
+        "Maiden Name": "Blackman",
+        "Full Name at Birth": "Joan May Blackman",
+        "Alternative Name": "Joan May Blackman, Joan Blackman",
+        "Birthday": "1938",
+        "Birthplace": "USA",
+        "Height": "168",
+        "Weight": "121lbs (55 kg)",
+        "Zodiac Sign": "3",
+        "Sexuality": "Straight",
+        "Religion": "1",
+        "Ethnicity": "6",
+        "Nationality": "91",
+        "Occupation": "8"
+    }
+}

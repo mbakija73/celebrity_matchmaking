@@ -1,0 +1,33 @@
+{
+    "relationships": [
+        {
+            "name": "Houston",
+            "href": "https://www.whosdatedwho.com/dating/houston-actress",
+            "relationship_type": 3,
+            "start_date": "1996",
+            "end_date": "1996",
+            "length": "-",
+            "start_months_since_1900": 1152,
+            "end_months_since_1900": 1152,
+            "length_in_months": -1
+        }
+    ],
+    "details": {
+        "First Name": "Anna",
+        "Middle Name": "Marie",
+        "Last Name": "Malle",
+        "Maiden Name": "Stout",
+        "Full Name at Birth": "Anna Marie Stout",
+        "Alternative Name": "Anna Malle, Anna Marie Stout, Hotop-Stout, Anna Marie Hotop",
+        "Birthday": "1967",
+        "Birthplace": "Illinois USA",
+        "Height": "170",
+        "Weight": "115lbs (52 kg)",
+        "Zodiac Sign": "11",
+        "Sexuality": "NA",
+        "Religion": "1",
+        "Ethnicity": "6",
+        "Nationality": "91",
+        "Occupation": "16"
+    }
+}

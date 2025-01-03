@@ -1,0 +1,77 @@
+{
+    "relationships": [
+        {
+            "name": "Danny Scholl",
+            "href": "https://www.whosdatedwho.com/dating/danny-scholl",
+            "relationship_type": 4,
+            "start_date": "1965",
+            "end_date": "1965",
+            "length": "-",
+            "start_months_since_1900": 780,
+            "end_months_since_1900": 780,
+            "length_in_months": -1
+        },
+        {
+            "name": "George Marshall",
+            "href": "https://www.whosdatedwho.com/dating/george-marshall",
+            "relationship_type": 4,
+            "start_date": "1936",
+            "end_date": "1958",
+            "length": "22 years",
+            "start_months_since_1900": 432,
+            "end_months_since_1900": 696,
+            "length_in_months": 264
+        },
+        {
+            "name": "Walter Morosco",
+            "href": "https://www.whosdatedwho.com/dating/walter-morosco",
+            "relationship_type": 4,
+            "start_date": "1924",
+            "end_date": "1934",
+            "length": "10 years",
+            "start_months_since_1900": 288,
+            "end_months_since_1900": 408,
+            "length_in_months": 120
+        },
+        {
+            "name": "Clark Gable",
+            "href": "https://www.whosdatedwho.com/dating/clark-gable",
+            "relationship_type": 2,
+            "start_date": "1924",
+            "end_date": "1925",
+            "length": "1 year",
+            "start_months_since_1900": 288,
+            "end_months_since_1900": 300,
+            "length_in_months": 12
+        },
+        {
+            "name": "Webster Campbell",
+            "href": "https://www.whosdatedwho.com/dating/webster-campbell",
+            "relationship_type": 4,
+            "start_date": "1920",
+            "end_date": "1923",
+            "length": "3 years",
+            "start_months_since_1900": 240,
+            "end_months_since_1900": 276,
+            "length_in_months": 36
+        }
+    ],
+    "details": {
+        "First Name": "Corinne",
+        "Middle Name": "Mae",
+        "Last Name": "Griffith",
+        "Maiden Name": "NA",
+        "Full Name at Birth": "Corinne Mae Griffin",
+        "Alternative Name": "Corinne Mae Griffin, Corinne Griffin",
+        "Birthday": "1894",
+        "Birthplace": "USA",
+        "Height": "168",
+        "Weight": "NA",
+        "Zodiac Sign": "5",
+        "Sexuality": "Straight",
+        "Religion": "12",
+        "Ethnicity": "6",
+        "Nationality": "91",
+        "Occupation": "8"
+    }
+}

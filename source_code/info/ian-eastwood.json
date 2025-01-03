@@ -1,0 +1,44 @@
+{
+    "relationships": [
+        {
+            "name": "Leslie Grace",
+            "href": "https://www.whosdatedwho.com/dating/leslie-grace",
+            "relationship_type": 2,
+            "start_date": "2019",
+            "end_date": "present",
+            "length": "5 years",
+            "start_months_since_1900": 1428,
+            "end_months_since_1900": -1,
+            "length_in_months": 60
+        },
+        {
+            "name": "Megan Batoon",
+            "href": "https://www.whosdatedwho.com/dating/megan-batoon",
+            "relationship_type": 2,
+            "start_date": "2014",
+            "end_date": "2016",
+            "length": "2 years",
+            "start_months_since_1900": 1368,
+            "end_months_since_1900": 1392,
+            "length_in_months": 24
+        }
+    ],
+    "details": {
+        "First Name": "Ian",
+        "Middle Name": "Anthony",
+        "Last Name": "Eastwood",
+        "Maiden Name": "NA",
+        "Full Name at Birth": "Ian Anthony Eastwood",
+        "Alternative Name": "NA",
+        "Birthday": "1993",
+        "Birthplace": "USA",
+        "Height": "178",
+        "Weight": "141lbs (64 kg)",
+        "Zodiac Sign": "7",
+        "Sexuality": "NA",
+        "Religion": "1",
+        "Ethnicity": "1",
+        "Nationality": "91",
+        "Occupation": "14"
+    }
+}

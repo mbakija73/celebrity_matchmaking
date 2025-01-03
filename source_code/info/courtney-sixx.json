@@ -1,0 +1,44 @@
+{
+    "relationships": [
+        {
+            "name": "Nikki Sixx",
+            "href": "https://www.whosdatedwho.com/dating/nikki-sixx",
+            "relationship_type": 4,
+            "start_date": "Dec 2010",
+            "end_date": "present",
+            "length": "13 years",
+            "start_months_since_1900": 1331,
+            "end_months_since_1900": -1,
+            "length_in_months": 156
+        },
+        {
+            "name": "Adrian Grenier",
+            "href": "https://www.whosdatedwho.com/dating/adrian-grenier",
+            "relationship_type": 3,
+            "start_date": "Sep 2010",
+            "end_date": "Dec 2010",
+            "length": "3 months",
+            "start_months_since_1900": 1328,
+            "end_months_since_1900": 1331,
+            "length_in_months": 3
+        }
+    ],
+    "details": {
+        "First Name": "Courtney",
+        "Middle Name": "Erica",
+        "Last Name": "Sixx",
+        "Maiden Name": "Bingham",
+        "Full Name at Birth": "Courtney Erica Bingham",
+        "Alternative Name": "Courtney Sixx",
+        "Birthday": "1985",
+        "Birthplace": "USA",
+        "Height": "178",
+        "Weight": "NA",
+        "Zodiac Sign": "11",
+        "Sexuality": "Straight",
+        "Religion": "1",
+        "Ethnicity": "6",
+        "Nationality": "91",
+        "Occupation": "15"
+    }
+}

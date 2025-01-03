@@ -1,0 +1,44 @@
+{
+    "relationships": [
+        {
+            "name": "Keke Palmer",
+            "href": "https://www.whosdatedwho.com/dating/keke-palmer",
+            "relationship_type": 2,
+            "start_date": "Jan 2024",
+            "end_date": "present",
+            "length": "8 months",
+            "start_months_since_1900": 1488,
+            "end_months_since_1900": -1,
+            "length_in_months": 8
+        },
+        {
+            "name": "Julieanna Marie Goddard",
+            "href": "https://www.whosdatedwho.com/dating/julieanna-marie-goddard",
+            "relationship_type": 2,
+            "start_date": "Jul 2021",
+            "end_date": "Jul 2022",
+            "length": "1 year",
+            "start_months_since_1900": 1458,
+            "end_months_since_1900": 1470,
+            "length_in_months": 12
+        }
+    ],
+    "details": {
+        "Birthday": "1994",
+        "First Name": "NA",
+        "Middle Name": "NA",
+        "Last Name": "NA",
+        "Maiden Name": "NA",
+        "Full Name at Birth": "NA",
+        "Alternative Name": "NA",
+        "Birthplace": "Louisiana",
+        "Height": "185",
+        "Weight": "224lbs (102 kg)",
+        "Zodiac Sign": "12",
+        "Sexuality": "NA",
+        "Religion": "1",
+        "Ethnicity": "1",
+        "Nationality": "65",
+        "Occupation": "2"
+    }
+}

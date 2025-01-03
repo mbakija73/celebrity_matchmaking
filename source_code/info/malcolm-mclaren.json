@@ -1,0 +1,44 @@
+{
+    "relationships": [
+        {
+            "name": "Lauren Hutton",
+            "href": "https://www.whosdatedwho.com/dating/lauren-hutton",
+            "relationship_type": 2,
+            "start_date": "1985",
+            "end_date": "1989",
+            "length": "4 years",
+            "start_months_since_1900": 1020,
+            "end_months_since_1900": 1068,
+            "length_in_months": 48
+        },
+        {
+            "name": "Vivienne Westwood",
+            "href": "https://www.whosdatedwho.com/dating/vivienne-westwood",
+            "relationship_type": 2,
+            "start_date": "",
+            "end_date": "",
+            "length": "-",
+            "start_months_since_1900": -1,
+            "end_months_since_1900": -1,
+            "length_in_months": -1
+        }
+    ],
+    "details": {
+        "First Name": "Malcolm",
+        "Middle Name": "Robert Andrew",
+        "Last Name": "McLaren",
+        "Maiden Name": "NA",
+        "Full Name at Birth": "Malcolm Robert Andrew McLaren",
+        "Alternative Name": "The Artfull Dodger, McLaren",
+        "Birthday": "1946",
+        "Birthplace": "England",
+        "Height": "NA",
+        "Weight": "NA",
+        "Zodiac Sign": "9",
+        "Sexuality": "Straight",
+        "Religion": "1",
+        "Ethnicity": "6",
+        "Nationality": "8",
+        "Occupation": "9"
+    }
+}

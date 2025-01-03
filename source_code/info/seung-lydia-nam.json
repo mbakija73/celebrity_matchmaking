@@ -1,0 +1,33 @@
+{
+    "relationships": [
+        {
+            "name": "The-Dream",
+            "href": "https://www.whosdatedwho.com/dating/the-dream",
+            "relationship_type": 2,
+            "start_date": "Oct 2011",
+            "end_date": "Apr 2013",
+            "length": "1 year",
+            "start_months_since_1900": 1341,
+            "end_months_since_1900": 1359,
+            "length_in_months": 12
+        }
+    ],
+    "details": {
+        "First Name": "Lydia",
+        "Middle Name": "Seung",
+        "Last Name": "Nam",
+        "Maiden Name": "NA",
+        "Full Name at Birth": "Lydia Seung Nam",
+        "Alternative Name": "NA",
+        "Birthday": "NA",
+        "Birthplace": "NA",
+        "Height": "NA",
+        "Weight": "NA",
+        "Zodiac Sign": "2",
+        "Sexuality": "NA",
+        "Religion": "1",
+        "Ethnicity": "1",
+        "Nationality": "65",
+        "Occupation": "19"
+    }
+}

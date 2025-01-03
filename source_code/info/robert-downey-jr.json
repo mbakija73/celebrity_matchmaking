@@ -1,0 +1,88 @@
+{
+    "relationships": [
+        {
+            "name": "Susan Downey",
+            "href": "https://www.whosdatedwho.com/dating/susan-downey",
+            "relationship_type": 4,
+            "start_date": "Aug 2003",
+            "end_date": "present",
+            "length": "21 years",
+            "start_months_since_1900": 1243,
+            "end_months_since_1900": -1,
+            "length_in_months": 252
+        },
+        {
+            "name": "Calista Flockhart",
+            "href": "https://www.whosdatedwho.com/dating/calista-flockhart",
+            "relationship_type": 2,
+            "start_date": "2000",
+            "end_date": "2000",
+            "length": "-",
+            "start_months_since_1900": 1200,
+            "end_months_since_1900": 1200,
+            "length_in_months": -1
+        },
+        {
+            "name": "Marisa Tomei",
+            "href": "https://www.whosdatedwho.com/dating/marisa-tomei",
+            "relationship_type": 2,
+            "start_date": "Aug 1993",
+            "end_date": "Dec 1993",
+            "length": "4 months",
+            "start_months_since_1900": 1123,
+            "end_months_since_1900": 1127,
+            "length_in_months": 4
+        },
+        {
+            "name": "Deborah Falconer",
+            "href": "https://www.whosdatedwho.com/dating/deborah-falconer",
+            "relationship_type": 4,
+            "start_date": "Apr 1992",
+            "end_date": "2001",
+            "length": "8 years",
+            "start_months_since_1900": 1107,
+            "end_months_since_1900": 1212,
+            "length_in_months": 96
+        },
+        {
+            "name": "Sarah Jessica Parker",
+            "href": "https://www.whosdatedwho.com/dating/sarah-jessica-parker",
+            "relationship_type": 2,
+            "start_date": "Apr 1984",
+            "end_date": "Jul 1991",
+            "length": "7 years",
+            "start_months_since_1900": 1011,
+            "end_months_since_1900": 1098,
+            "length_in_months": 84
+        },
+        {
+            "name": "Jennifer Jason Leigh",
+            "href": "https://www.whosdatedwho.com/dating/jennifer-jason-leigh",
+            "relationship_type": 3,
+            "start_date": "",
+            "end_date": "",
+            "length": "-",
+            "start_months_since_1900": -1,
+            "end_months_since_1900": -1,
+            "length_in_months": -1
+        }
+    ],
+    "details": {
+        "First Name": "Robert",
+        "Middle Name": "John",
+        "Last Name": "Downey",
+        "Maiden Name": "NA",
+        "Full Name at Birth": "Robert John Downey Jr.",
+        "Alternative Name": "Rdj, Bob, Robert John Elias, Jr., Robert John Downey Jr., Robert Downey Jr.",
+        "Birthday": "1965",
+        "Birthplace": "USA",
+        "Height": "172",
+        "Weight": "172lbs (78 kg)",
+        "Zodiac Sign": "7",
+        "Sexuality": "Straight",
+        "Religion": "26",
+        "Ethnicity": "6",
+        "Nationality": "91",
+        "Occupation": "8"
+    }
+}

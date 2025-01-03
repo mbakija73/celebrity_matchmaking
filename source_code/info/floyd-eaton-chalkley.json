@@ -1,0 +1,33 @@
+{
+    "relationships": [
+        {
+            "name": "Susan Hayward",
+            "href": "https://www.whosdatedwho.com/dating/susan-hayward",
+            "relationship_type": 4,
+            "start_date": "Feb 1956",
+            "end_date": "9th Jan 1966",
+            "length": "9 years",
+            "start_months_since_1900": 673,
+            "end_months_since_1900": 792,
+            "length_in_months": 108
+        }
+    ],
+    "details": {
+        "First Name": "Floyd",
+        "Middle Name": "Eaton",
+        "Last Name": "Chalkley",
+        "Maiden Name": "NA",
+        "Full Name at Birth": "NA",
+        "Alternative Name": "Eaton Chalkley",
+        "Birthday": "1908",
+        "Birthplace": "NA",
+        "Height": "NA",
+        "Weight": "NA",
+        "Zodiac Sign": "2",
+        "Sexuality": "NA",
+        "Religion": "1",
+        "Ethnicity": "1",
+        "Nationality": "65",
+        "Occupation": "7"
+    }
+}

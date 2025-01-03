@@ -1,0 +1,33 @@
+{
+    "relationships": [
+        {
+            "name": "Lily James",
+            "href": "https://www.whosdatedwho.com/dating/lily-james",
+            "relationship_type": 2,
+            "start_date": "Feb 2021",
+            "end_date": "Feb 2023",
+            "length": "2 years",
+            "start_months_since_1900": 1453,
+            "end_months_since_1900": 1477,
+            "length_in_months": 24
+        }
+    ],
+    "details": {
+        "First Name": "Michael",
+        "Middle Name": "NA",
+        "Last Name": "Shuman",
+        "Maiden Name": "NA",
+        "Full Name at Birth": "NA",
+        "Alternative Name": "Mikey Shoes",
+        "Birthday": "1985",
+        "Birthplace": "USA",
+        "Height": "178",
+        "Weight": "NA",
+        "Zodiac Sign": "12",
+        "Sexuality": "Straight",
+        "Religion": "26",
+        "Ethnicity": "6",
+        "Nationality": "91",
+        "Occupation": "1"
+    }
+}

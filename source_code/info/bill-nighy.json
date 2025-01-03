@@ -1,0 +1,44 @@
+{
+    "relationships": [
+        {
+            "name": "Anna Wintour",
+            "href": "https://www.whosdatedwho.com/dating/anna-wintour",
+            "relationship_type": 2,
+            "start_date": "2020",
+            "end_date": "present",
+            "length": "4 years",
+            "start_months_since_1900": 1440,
+            "end_months_since_1900": -1,
+            "length_in_months": 48
+        },
+        {
+            "name": "Diana Quick",
+            "href": "https://www.whosdatedwho.com/dating/diana-quick",
+            "relationship_type": 2,
+            "start_date": "1981",
+            "end_date": "Aug 2008",
+            "length": "27 years",
+            "start_months_since_1900": 972,
+            "end_months_since_1900": 1303,
+            "length_in_months": 324
+        }
+    ],
+    "details": {
+        "First Name": "William",
+        "Middle Name": "Francis",
+        "Last Name": "Nighy",
+        "Maiden Name": "NA",
+        "Full Name at Birth": "William Francis Nighy",
+        "Alternative Name": "Bill Nighy",
+        "Birthday": "1949",
+        "Birthplace": "UK",
+        "Height": "188",
+        "Weight": "178lbs (81 kg)",
+        "Zodiac Sign": "6",
+        "Sexuality": "Straight",
+        "Religion": "26",
+        "Ethnicity": "6",
+        "Nationality": "8",
+        "Occupation": "8"
+    }
+}

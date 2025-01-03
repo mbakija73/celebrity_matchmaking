@@ -1,0 +1,44 @@
+{
+    "relationships": [
+        {
+            "name": "Larry Fitzgerald",
+            "href": "https://www.whosdatedwho.com/dating/larry-fitzgerald",
+            "relationship_type": 3,
+            "start_date": "2006",
+            "end_date": "2006",
+            "length": "-",
+            "start_months_since_1900": 1272,
+            "end_months_since_1900": 1272,
+            "length_in_months": -1
+        },
+        {
+            "name": "Mike Piazza",
+            "href": "https://www.whosdatedwho.com/dating/mike-piazza",
+            "relationship_type": 2,
+            "start_date": "1999",
+            "end_date": "2000",
+            "length": "1 year",
+            "start_months_since_1900": 1188,
+            "end_months_since_1900": 1200,
+            "length_in_months": 12
+        }
+    ],
+    "details": {
+        "First Name": "Angela",
+        "Middle Name": "NA",
+        "Last Name": "Nazario",
+        "Maiden Name": "NA",
+        "Full Name at Birth": "NA",
+        "Alternative Name": "NA",
+        "Birthday": "1970",
+        "Birthplace": "US",
+        "Height": "NA",
+        "Weight": "NA",
+        "Zodiac Sign": "11",
+        "Sexuality": "NA",
+        "Religion": "1",
+        "Ethnicity": "8",
+        "Nationality": "91",
+        "Occupation": "2"
+    }
+}

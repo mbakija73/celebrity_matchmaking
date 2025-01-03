@@ -1,0 +1,44 @@
+{
+    "relationships": [
+        {
+            "name": "Ellen Barkin",
+            "href": "https://www.whosdatedwho.com/dating/ellen-barkin",
+            "relationship_type": 2,
+            "start_date": "Dec 2010",
+            "end_date": "Dec 2011",
+            "length": "1 year",
+            "start_months_since_1900": 1331,
+            "end_months_since_1900": 1343,
+            "length_in_months": 12
+        },
+        {
+            "name": "Ashley Levinson",
+            "href": "https://www.whosdatedwho.com/dating/ashley-levinson-93817415",
+            "relationship_type": 4,
+            "start_date": "",
+            "end_date": "present",
+            "length": "-",
+            "start_months_since_1900": -1,
+            "end_months_since_1900": -1,
+            "length_in_months": -1
+        }
+    ],
+    "details": {
+        "First Name": "Sam",
+        "Middle Name": "NA",
+        "Last Name": "Levinson",
+        "Maiden Name": "NA",
+        "Full Name at Birth": "Samuel Levinson",
+        "Alternative Name": "NA",
+        "Birthday": "1985",
+        "Birthplace": "USA",
+        "Height": "NA",
+        "Weight": "NA",
+        "Zodiac Sign": "13",
+        "Sexuality": "NA",
+        "Religion": "1",
+        "Ethnicity": "1",
+        "Nationality": "91",
+        "Occupation": "8"
+    }
+}

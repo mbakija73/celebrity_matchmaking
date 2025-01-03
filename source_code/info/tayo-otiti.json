@@ -1,0 +1,33 @@
+{
+    "relationships": [
+        {
+            "name": "John Legend",
+            "href": "https://www.whosdatedwho.com/dating/john-legend",
+            "relationship_type": 3,
+            "start_date": "Jul 2006",
+            "end_date": "Jul 2006",
+            "length": "-",
+            "start_months_since_1900": 1278,
+            "end_months_since_1900": 1278,
+            "length_in_months": -1
+        }
+    ],
+    "details": {
+        "First Name": "Tayo",
+        "Middle Name": "NA",
+        "Last Name": "Otiti",
+        "Maiden Name": "NA",
+        "Full Name at Birth": "NA",
+        "Alternative Name": "NA",
+        "Birthday": "NA",
+        "Birthplace": "NA",
+        "Height": "NA",
+        "Weight": "NA",
+        "Zodiac Sign": "2",
+        "Sexuality": "NA",
+        "Religion": "1",
+        "Ethnicity": "2",
+        "Nationality": "99",
+        "Occupation": "15"
+    }
+}

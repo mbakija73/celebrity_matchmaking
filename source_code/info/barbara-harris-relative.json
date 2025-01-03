@@ -1,0 +1,66 @@
+{
+    "relationships": [
+        {
+            "name": "David Jaynes",
+            "href": "https://www.whosdatedwho.com/dating/david-jaynes-born-1952",
+            "relationship_type": 4,
+            "start_date": "2001",
+            "end_date": "",
+            "length": "-",
+            "start_months_since_1900": 1212,
+            "end_months_since_1900": -1,
+            "length_in_months": -1
+        },
+        {
+            "name": "Richard Cohen",
+            "href": "https://www.whosdatedwho.com/dating/richard-cohen",
+            "relationship_type": 2,
+            "start_date": "1993",
+            "end_date": "1993",
+            "length": "-",
+            "start_months_since_1900": 1116,
+            "end_months_since_1900": 1116,
+            "length_in_months": -1
+        },
+        {
+            "name": "Kirk Kerkorian",
+            "href": "https://www.whosdatedwho.com/dating/kirk-kerkorian",
+            "relationship_type": 2,
+            "start_date": "1988",
+            "end_date": "1988",
+            "length": "-",
+            "start_months_since_1900": 1056,
+            "end_months_since_1900": 1056,
+            "length_in_months": -1
+        },
+        {
+            "name": "Cary Grant",
+            "href": "https://www.whosdatedwho.com/dating/cary-grant",
+            "relationship_type": 4,
+            "start_date": "1981",
+            "end_date": "29th Nov 1986",
+            "length": "5 years",
+            "start_months_since_1900": 972,
+            "end_months_since_1900": 1042,
+            "length_in_months": 60
+        }
+    ],
+    "details": {
+        "First Name": "Barbara",
+        "Middle Name": "NA",
+        "Last Name": "Harris",
+        "Maiden Name": "NA",
+        "Full Name at Birth": "Barbara Harris",
+        "Alternative Name": "Barbara Grant, Barbara Harris",
+        "Birthday": "1950",
+        "Birthplace": "Dares Salaam",
+        "Height": "NA",
+        "Weight": "NA",
+        "Zodiac Sign": "2",
+        "Sexuality": "Straight",
+        "Religion": "1",
+        "Ethnicity": "6",
+        "Nationality": "91",
+        "Occupation": "18"
+    }
+}

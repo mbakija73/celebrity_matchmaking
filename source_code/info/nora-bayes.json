@@ -1,0 +1,44 @@
+{
+    "relationships": [
+        {
+            "name": "W.C. Fields",
+            "href": "https://www.whosdatedwho.com/dating/w-c-fields",
+            "relationship_type": 2,
+            "start_date": "1915",
+            "end_date": "1915",
+            "length": "-",
+            "start_months_since_1900": 180,
+            "end_months_since_1900": 180,
+            "length_in_months": -1
+        },
+        {
+            "name": "Jack Norworth",
+            "href": "https://www.whosdatedwho.com/dating/jack-norworth",
+            "relationship_type": 4,
+            "start_date": "1908",
+            "end_date": "1913",
+            "length": "5 years",
+            "start_months_since_1900": 96,
+            "end_months_since_1900": 156,
+            "length_in_months": 60
+        }
+    ],
+    "details": {
+        "First Name": "Nora",
+        "Middle Name": "NA",
+        "Last Name": "Bayes",
+        "Maiden Name": "NA",
+        "Full Name at Birth": "Leonora Goldberg",
+        "Alternative Name": "Dora Goldberg, Nora Bayes Friedland",
+        "Birthday": "1880",
+        "Birthplace": "Illinois",
+        "Height": "NA",
+        "Weight": "NA",
+        "Zodiac Sign": "10",
+        "Sexuality": "Straight",
+        "Religion": "31",
+        "Ethnicity": "6",
+        "Nationality": "91",
+        "Occupation": "14"
+    }
+}

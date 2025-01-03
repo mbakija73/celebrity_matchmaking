@@ -1,0 +1,44 @@
+{
+    "relationships": [
+        {
+            "name": "Doug Murray",
+            "href": "https://www.whosdatedwho.com/dating/doug-murray",
+            "relationship_type": 2,
+            "start_date": "2008",
+            "end_date": "2010",
+            "length": "2 years",
+            "start_months_since_1900": 1296,
+            "end_months_since_1900": 1320,
+            "length_in_months": 24
+        },
+        {
+            "name": "Tara Conner",
+            "href": "https://www.whosdatedwho.com/dating/tara-conner",
+            "relationship_type": 3,
+            "start_date": "2006",
+            "end_date": "2008",
+            "length": "2 years",
+            "start_months_since_1900": 1272,
+            "end_months_since_1900": 1296,
+            "length_in_months": 24
+        }
+    ],
+    "details": {
+        "First Name": "Katie",
+        "Middle Name": "Amanda",
+        "Last Name": "Blair",
+        "Maiden Name": "NA",
+        "Full Name at Birth": "Katherine Amanda Blair",
+        "Alternative Name": "Katie Blair",
+        "Birthday": "1987",
+        "Birthplace": "USA",
+        "Height": "165",
+        "Weight": "NA",
+        "Zodiac Sign": "13",
+        "Sexuality": "DISPUTED",
+        "Religion": "1",
+        "Ethnicity": "6",
+        "Nationality": "91",
+        "Occupation": "15"
+    }
+}

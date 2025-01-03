@@ -1,0 +1,55 @@
+{
+    "relationships": [
+        {
+            "name": "Peter Legler",
+            "href": "https://www.whosdatedwho.com/dating/peter-legler",
+            "relationship_type": 2,
+            "start_date": "Oct 2012",
+            "end_date": "Oct 2012",
+            "length": "-",
+            "start_months_since_1900": 1353,
+            "end_months_since_1900": 1353,
+            "length_in_months": -1
+        },
+        {
+            "name": "Orlando Bloom",
+            "href": "https://www.whosdatedwho.com/dating/orlando-bloom",
+            "relationship_type": 3,
+            "start_date": "2007",
+            "end_date": "2007",
+            "length": "-",
+            "start_months_since_1900": 1284,
+            "end_months_since_1900": 1284,
+            "length_in_months": -1
+        },
+        {
+            "name": "Chiwetel Ejiofor",
+            "href": "https://www.whosdatedwho.com/dating/chiwetel-ejiofor",
+            "relationship_type": 2,
+            "start_date": "2000",
+            "end_date": "2007",
+            "length": "7 years",
+            "start_months_since_1900": 1200,
+            "end_months_since_1900": 1284,
+            "length_in_months": 84
+        }
+    ],
+    "details": {
+        "First Name": "Naomie",
+        "Middle Name": "Melanie",
+        "Last Name": "Harris",
+        "Maiden Name": "NA",
+        "Full Name at Birth": "Naomie Melanie Harris",
+        "Alternative Name": "NA",
+        "Birthday": "1976",
+        "Birthplace": "England",
+        "Height": "173",
+        "Weight": "132lbs (60 kg)",
+        "Zodiac Sign": "11",
+        "Sexuality": "Straight",
+        "Religion": "16",
+        "Ethnicity": "2",
+        "Nationality": "8",
+        "Occupation": "8"
+    }
+}

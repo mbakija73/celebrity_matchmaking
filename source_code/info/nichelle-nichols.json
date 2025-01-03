@@ -1,0 +1,66 @@
+{
+    "relationships": [
+        {
+            "name": "Burgess Meredith",
+            "href": "https://www.whosdatedwho.com/dating/burgess-meredith",
+            "relationship_type": 2,
+            "start_date": "1961",
+            "end_date": "1961",
+            "length": "-",
+            "start_months_since_1900": 732,
+            "end_months_since_1900": 732,
+            "length_in_months": -1
+        },
+        {
+            "name": "Foster Johnson",
+            "href": "https://www.whosdatedwho.com/dating/foster-johnson",
+            "relationship_type": 4,
+            "start_date": "1951",
+            "end_date": "1951",
+            "length": "-",
+            "start_months_since_1900": 612,
+            "end_months_since_1900": 612,
+            "length_in_months": -1
+        },
+        {
+            "name": "Sammy Davis Jr.",
+            "href": "https://www.whosdatedwho.com/dating/sammy-davis-jr",
+            "relationship_type": 2,
+            "start_date": "",
+            "end_date": "",
+            "length": "-",
+            "start_months_since_1900": -1,
+            "end_months_since_1900": -1,
+            "length_in_months": -1
+        },
+        {
+            "name": "Gene Roddenberry",
+            "href": "https://www.whosdatedwho.com/dating/gene-roddenberry",
+            "relationship_type": 2,
+            "start_date": "",
+            "end_date": "",
+            "length": "-",
+            "start_months_since_1900": -1,
+            "end_months_since_1900": -1,
+            "length_in_months": -1
+        }
+    ],
+    "details": {
+        "First Name": "Nichelle",
+        "Middle Name": "NA",
+        "Last Name": "NA",
+        "Maiden Name": "Nichols",
+        "Full Name at Birth": "Grace Dell Nichols",
+        "Alternative Name": "Grace Nichols, Grace Dell Nichols, Nichelle Nichols",
+        "Birthday": "1932",
+        "Birthplace": "USA",
+        "Height": "165",
+        "Weight": "119lbs (54 kg)",
+        "Zodiac Sign": "13",
+        "Sexuality": "Straight",
+        "Religion": "1",
+        "Ethnicity": "2",
+        "Nationality": "91",
+        "Occupation": "8"
+    }
+}

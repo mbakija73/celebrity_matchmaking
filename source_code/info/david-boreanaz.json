@@ -1,0 +1,88 @@
+{
+    "relationships": [
+        {
+            "name": "Rachel Uchitel",
+            "href": "https://www.whosdatedwho.com/dating/rachel-uchitel",
+            "relationship_type": 3,
+            "start_date": "May 2009",
+            "end_date": "Aug 2009",
+            "length": "3 months",
+            "start_months_since_1900": 1312,
+            "end_months_since_1900": 1315,
+            "length_in_months": 3
+        },
+        {
+            "name": "Jaime Bergman",
+            "href": "https://www.whosdatedwho.com/dating/jaime-bergman",
+            "relationship_type": 4,
+            "start_date": "Jun 2000",
+            "end_date": "present",
+            "length": "24 years",
+            "start_months_since_1900": 1205,
+            "end_months_since_1900": -1,
+            "length_in_months": 288
+        },
+        {
+            "name": "Sarah Michelle Gellar",
+            "href": "https://www.whosdatedwho.com/dating/sarah-michelle-gellar",
+            "relationship_type": 2,
+            "start_date": "1998",
+            "end_date": "1999",
+            "length": "1 year",
+            "start_months_since_1900": 1176,
+            "end_months_since_1900": 1188,
+            "length_in_months": 12
+        },
+        {
+            "name": "Ingrid Quinn",
+            "href": "https://www.whosdatedwho.com/dating/ingrid-quinn",
+            "relationship_type": 4,
+            "start_date": "1994",
+            "end_date": "10th Oct 1999",
+            "length": "5 years",
+            "start_months_since_1900": 1128,
+            "end_months_since_1900": 1197,
+            "length_in_months": 60
+        },
+        {
+            "name": "Catalina Guirado",
+            "href": "https://www.whosdatedwho.com/dating/catalina-guirado",
+            "relationship_type": 3,
+            "start_date": "",
+            "end_date": "",
+            "length": "-",
+            "start_months_since_1900": -1,
+            "end_months_since_1900": -1,
+            "length_in_months": -1
+        },
+        {
+            "name": "Unknown",
+            "href": "https://www.whosdatedwho.com/dating/unknown-profile",
+            "relationship_type": 3,
+            "start_date": "2010",
+            "end_date": "2010",
+            "length": "-",
+            "start_months_since_1900": 1320,
+            "end_months_since_1900": 1320,
+            "length_in_months": -1
+        }
+    ],
+    "details": {
+        "First Name": "David",
+        "Middle Name": "Paul",
+        "Last Name": "Boreanaz",
+        "Maiden Name": "NA",
+        "Full Name at Birth": "David Paul Boreanaz",
+        "Alternative Name": "Dave, David Paul Boreanaz, David Patrick Boreanaz",
+        "Birthday": "1969",
+        "Birthplace": "USA",
+        "Height": "185",
+        "Weight": "NA",
+        "Zodiac Sign": "3",
+        "Sexuality": "Straight",
+        "Religion": "13",
+        "Ethnicity": "6",
+        "Nationality": "91",
+        "Occupation": "8"
+    }
+}

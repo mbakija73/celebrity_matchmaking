@@ -1,0 +1,121 @@
+{
+    "relationships": [
+        {
+            "name": "Demi Moore",
+            "href": "https://www.whosdatedwho.com/dating/demi-moore",
+            "relationship_type": 3,
+            "start_date": "2012",
+            "end_date": "2012",
+            "length": "-",
+            "start_months_since_1900": 1344,
+            "end_months_since_1900": 1344,
+            "length_in_months": -1
+        },
+        {
+            "name": "Lindsay Lohan",
+            "href": "https://www.whosdatedwho.com/dating/lindsay-lohan",
+            "relationship_type": 3,
+            "start_date": "2012",
+            "end_date": "2012",
+            "length": "-",
+            "start_months_since_1900": 1344,
+            "end_months_since_1900": 1344,
+            "length_in_months": -1
+        },
+        {
+            "name": "Audrey Gelman",
+            "href": "https://www.whosdatedwho.com/dating/audrey-gelman",
+            "relationship_type": 2,
+            "start_date": "2010",
+            "end_date": "2013",
+            "length": "3 years",
+            "start_months_since_1900": 1320,
+            "end_months_since_1900": 1356,
+            "length_in_months": 36
+        },
+        {
+            "name": "Alex Bolotow",
+            "href": "https://www.whosdatedwho.com/dating/alex-bolotow",
+            "relationship_type": 4,
+            "start_date": "2004",
+            "end_date": "present",
+            "length": "20 years",
+            "start_months_since_1900": 1248,
+            "end_months_since_1900": -1,
+            "length_in_months": 240
+        },
+        {
+            "name": "Susan Eldridge",
+            "href": "https://www.whosdatedwho.com/dating/susan-eldridge",
+            "relationship_type": 2,
+            "start_date": "2003",
+            "end_date": "2003",
+            "length": "-",
+            "start_months_since_1900": 1236,
+            "end_months_since_1900": 1236,
+            "length_in_months": -1
+        },
+        {
+            "name": "Shalom Harlow",
+            "href": "https://www.whosdatedwho.com/dating/shalom-harlow",
+            "relationship_type": 2,
+            "start_date": "1999",
+            "end_date": "2003",
+            "length": "4 years",
+            "start_months_since_1900": 1188,
+            "end_months_since_1900": 1236,
+            "length_in_months": 48
+        },
+        {
+            "name": "Nikki Uberti",
+            "href": "https://www.whosdatedwho.com/dating/nikki-uberti",
+            "relationship_type": 4,
+            "start_date": "1996",
+            "end_date": "1999",
+            "length": "3 years",
+            "start_months_since_1900": 1152,
+            "end_months_since_1900": 1188,
+            "length_in_months": 36
+        },
+        {
+            "name": "Avy Scott",
+            "href": "https://www.whosdatedwho.com/dating/avy-scott",
+            "relationship_type": 3,
+            "start_date": "",
+            "end_date": "",
+            "length": "-",
+            "start_months_since_1900": -1,
+            "end_months_since_1900": -1,
+            "length_in_months": -1
+        },
+        {
+            "name": "Vanessa del Rio",
+            "href": "https://www.whosdatedwho.com/dating/vanessa-del-rio",
+            "relationship_type": 3,
+            "start_date": "",
+            "end_date": "",
+            "length": "-",
+            "start_months_since_1900": -1,
+            "end_months_since_1900": -1,
+            "length_in_months": -1
+        }
+    ],
+    "details": {
+        "First Name": "Terry",
+        "Middle Name": "NA",
+        "Last Name": "Richardson",
+        "Maiden Name": "NA",
+        "Full Name at Birth": "Terrance Richardson",
+        "Alternative Name": "Uncle Terry",
+        "Birthday": "1965",
+        "Birthplace": "USA",
+        "Height": "NA",
+        "Weight": "NA",
+        "Zodiac Sign": "12",
+        "Sexuality": "Straight",
+        "Religion": "1",
+        "Ethnicity": "6",
+        "Nationality": "91",
+        "Occupation": "13"
+    }
+}

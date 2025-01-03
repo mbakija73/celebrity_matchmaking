@@ -1,0 +1,88 @@
+{
+    "relationships": [
+        {
+            "name": "Ben Cura",
+            "href": "https://www.whosdatedwho.com/dating/ben-cura",
+            "relationship_type": 2,
+            "start_date": "Jan 2017",
+            "end_date": "Mar 2020",
+            "length": "3 years",
+            "start_months_since_1900": 1404,
+            "end_months_since_1900": 1442,
+            "length_in_months": 36
+        },
+        {
+            "name": "Max Benitz",
+            "href": "https://www.whosdatedwho.com/dating/max-benitz",
+            "relationship_type": 2,
+            "start_date": "2014",
+            "end_date": "2017",
+            "length": "3 years",
+            "start_months_since_1900": 1368,
+            "end_months_since_1900": 1404,
+            "length_in_months": 36
+        },
+        {
+            "name": "Tom Cruise",
+            "href": "https://www.whosdatedwho.com/dating/tom-cruise",
+            "relationship_type": 3,
+            "start_date": "2013",
+            "end_date": "2013",
+            "length": "-",
+            "start_months_since_1900": 1356,
+            "end_months_since_1900": 1356,
+            "length_in_months": -1
+        },
+        {
+            "name": "Danny Huston",
+            "href": "https://www.whosdatedwho.com/dating/danny-huston",
+            "relationship_type": 2,
+            "start_date": "Jan 2012",
+            "end_date": "Aug 2013",
+            "length": "1 year",
+            "start_months_since_1900": 1344,
+            "end_months_since_1900": 1363,
+            "length_in_months": 12
+        },
+        {
+            "name": "Damian Gabrielle",
+            "href": "https://www.whosdatedwho.com/dating/damian-gabrielle",
+            "relationship_type": 4,
+            "start_date": "2006",
+            "end_date": "2007",
+            "length": "1 year",
+            "start_months_since_1900": 1272,
+            "end_months_since_1900": 1284,
+            "length_in_months": 12
+        },
+        {
+            "name": "Cedric Van Mol",
+            "href": "https://www.whosdatedwho.com/dating/cedric-van-mol",
+            "relationship_type": 4,
+            "start_date": "2000",
+            "end_date": "2004",
+            "length": "4 years",
+            "start_months_since_1900": 1200,
+            "end_months_since_1900": 1248,
+            "length_in_months": 48
+        }
+    ],
+    "details": {
+        "First Name": "Olga",
+        "Middle Name": "Konstantinovna",
+        "Last Name": "NA",
+        "Maiden Name": "Kurylenko",
+        "Full Name at Birth": "Olga Konstantynivna Kurylenko",
+        "Alternative Name": "\u041e\u043b\u044c\u0433\u0430 \u041a\u0443\u0440\u0438\u043b\u0435\u043d\u043a\u043e, \u041a\u0443\u0440\u0438\u043b\u0435\u043d\u043a\u043e \u041e\u043b\u044c\u0433\u0430 \u041a\u043e\u043d\u0441\u0442\u0430\u043d\u0442\u0438\u043d\u043e\u0432\u043d\u0430, Olga Kostantinivna Kurylenko, Olga Kurylenko, \u041e\u043b\u044c\u0433\u0430 \u041a\u043e\u0441\u0442\u044f\u043d\u0442\u0438\u043d\u0456\u0432\u043d\u0430 \u041a\u0443\u0440\u0438\u043b\u0435\u043d\u043a\u043e, Olga Konstantinovna Kurylenko",
+        "Birthday": "1979",
+        "Birthplace": "Ukraine",
+        "Height": "175",
+        "Weight": "117lbs (53 kg)",
+        "Zodiac Sign": "5",
+        "Sexuality": "Straight",
+        "Religion": "3",
+        "Ethnicity": "6",
+        "Nationality": "29",
+        "Occupation": "8"
+    }
+}

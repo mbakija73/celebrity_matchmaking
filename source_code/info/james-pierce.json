@@ -1,0 +1,44 @@
+{
+    "relationships": [
+        {
+            "name": "Joan Burroughs",
+            "href": "https://www.whosdatedwho.com/dating/joan-burroughs",
+            "relationship_type": 4,
+            "start_date": "1928",
+            "end_date": "1928",
+            "length": "-",
+            "start_months_since_1900": 336,
+            "end_months_since_1900": 336,
+            "length_in_months": -1
+        },
+        {
+            "name": "Edna Murphy",
+            "href": "https://www.whosdatedwho.com/dating/edna-murphy",
+            "relationship_type": 2,
+            "start_date": "",
+            "end_date": "",
+            "length": "-",
+            "start_months_since_1900": -1,
+            "end_months_since_1900": -1,
+            "length_in_months": -1
+        }
+    ],
+    "details": {
+        "First Name": "James",
+        "Middle Name": "NA",
+        "Last Name": "Pierce",
+        "Maiden Name": "NA",
+        "Full Name at Birth": "James Hubert Pierce",
+        "Alternative Name": "NA",
+        "Birthday": "1900",
+        "Birthplace": "United States",
+        "Height": "193",
+        "Weight": "NA",
+        "Zodiac Sign": "12",
+        "Sexuality": "Straight",
+        "Religion": "1",
+        "Ethnicity": "6",
+        "Nationality": "91",
+        "Occupation": "8"
+    }
+}

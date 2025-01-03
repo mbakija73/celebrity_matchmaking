@@ -1,0 +1,55 @@
+{
+    "relationships": [
+        {
+            "name": "Andrea Pezzi",
+            "href": "https://www.whosdatedwho.com/dating/andrea-pezzi",
+            "relationship_type": 2,
+            "start_date": "2007",
+            "end_date": "2021",
+            "length": "14 years",
+            "start_months_since_1900": 1284,
+            "end_months_since_1900": 1452,
+            "length_in_months": 168
+        },
+        {
+            "name": "Nicolas Vaporidis",
+            "href": "https://www.whosdatedwho.com/dating/nicolas-vaporidis",
+            "relationship_type": 2,
+            "start_date": "2006",
+            "end_date": "2007",
+            "length": "1 year",
+            "start_months_since_1900": 1272,
+            "end_months_since_1900": 1284,
+            "length_in_months": 12
+        },
+        {
+            "name": "Primo Reggiani",
+            "href": "https://www.whosdatedwho.com/dating/primo-reggiani",
+            "relationship_type": 2,
+            "start_date": "",
+            "end_date": "",
+            "length": "-",
+            "start_months_since_1900": -1,
+            "end_months_since_1900": -1,
+            "length_in_months": -1
+        }
+    ],
+    "details": {
+        "First Name": "Cristiana",
+        "Middle Name": "NA",
+        "Last Name": "Capotondi",
+        "Maiden Name": "NA",
+        "Full Name at Birth": "Cristiana Capotondi",
+        "Alternative Name": "Cristiana Capotondi, Cristiana",
+        "Birthday": "1980",
+        "Birthplace": "Italy",
+        "Height": "164",
+        "Weight": "114lbs (52 kg)",
+        "Zodiac Sign": "11",
+        "Sexuality": "Straight",
+        "Religion": "1",
+        "Ethnicity": "6",
+        "Nationality": "139",
+        "Occupation": "8"
+    }
+}

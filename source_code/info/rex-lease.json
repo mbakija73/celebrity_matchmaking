@@ -1,0 +1,66 @@
+{
+    "relationships": [
+        {
+            "name": "Esther Muir",
+            "href": "https://www.whosdatedwho.com/dating/esther-muir",
+            "relationship_type": 2,
+            "start_date": "1932",
+            "end_date": "1932",
+            "length": "-",
+            "start_months_since_1900": 384,
+            "end_months_since_1900": 384,
+            "length_in_months": -1
+        },
+        {
+            "name": "Eleanor Hunt",
+            "href": "https://www.whosdatedwho.com/dating/eleanor-hunt",
+            "relationship_type": 4,
+            "start_date": "1931",
+            "end_date": "1931",
+            "length": "-",
+            "start_months_since_1900": 372,
+            "end_months_since_1900": 372,
+            "length_in_months": -1
+        },
+        {
+            "name": "Charlotte Merriam",
+            "href": "https://www.whosdatedwho.com/dating/charlotte-merriam",
+            "relationship_type": 4,
+            "start_date": "1931",
+            "end_date": "1931",
+            "length": "-",
+            "start_months_since_1900": 372,
+            "end_months_since_1900": 372,
+            "length_in_months": -1
+        },
+        {
+            "name": "Joan Burroughs",
+            "href": "https://www.whosdatedwho.com/dating/joan-burroughs",
+            "relationship_type": 2,
+            "start_date": "",
+            "end_date": "",
+            "length": "-",
+            "start_months_since_1900": -1,
+            "end_months_since_1900": -1,
+            "length_in_months": -1
+        }
+    ],
+    "details": {
+        "First Name": "Rex",
+        "Middle Name": "NA",
+        "Last Name": "Lease",
+        "Maiden Name": "NA",
+        "Full Name at Birth": "NA",
+        "Alternative Name": "NA",
+        "Birthday": "1903",
+        "Birthplace": "U.S.",
+        "Height": "178",
+        "Weight": "NA",
+        "Zodiac Sign": "9",
+        "Sexuality": "Straight",
+        "Religion": "1",
+        "Ethnicity": "6",
+        "Nationality": "91",
+        "Occupation": "8"
+    }
+}

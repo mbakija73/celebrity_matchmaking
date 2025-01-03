@@ -1,0 +1,33 @@
+{
+    "relationships": [
+        {
+            "name": "Elvis Presley",
+            "href": "https://www.whosdatedwho.com/dating/elvis-presley",
+            "relationship_type": 2,
+            "start_date": "Jul 1957",
+            "end_date": "Aug 1962",
+            "length": "5 years",
+            "start_months_since_1900": 690,
+            "end_months_since_1900": 751,
+            "length_in_months": 60
+        }
+    ],
+    "details": {
+        "First Name": "Anita",
+        "Middle Name": "Marie",
+        "Last Name": "Wood",
+        "Maiden Name": "NA",
+        "Full Name at Birth": "Anita Marie Wood",
+        "Alternative Name": "Little Bitty",
+        "Birthday": "1938",
+        "Birthplace": "NA",
+        "Height": "NA",
+        "Weight": "NA",
+        "Zodiac Sign": "4",
+        "Sexuality": "NA",
+        "Religion": "1",
+        "Ethnicity": "1",
+        "Nationality": "91",
+        "Occupation": "11"
+    }
+}

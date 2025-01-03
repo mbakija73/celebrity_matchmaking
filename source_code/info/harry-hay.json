@@ -1,0 +1,77 @@
+{
+    "relationships": [
+        {
+            "name": "John Burnside",
+            "href": "https://www.whosdatedwho.com/dating/john-burnside",
+            "relationship_type": 2,
+            "start_date": "1963",
+            "end_date": "Oct 2002",
+            "length": "39 years",
+            "start_months_since_1900": 756,
+            "end_months_since_1900": 1233,
+            "length_in_months": 468
+        },
+        {
+            "name": "Jorn Kamgren",
+            "href": "https://www.whosdatedwho.com/dating/jorn-kamgren",
+            "relationship_type": 2,
+            "start_date": "1952",
+            "end_date": "1962",
+            "length": "10 years",
+            "start_months_since_1900": 624,
+            "end_months_since_1900": 744,
+            "length_in_months": 120
+        },
+        {
+            "name": "Rudi Gernreich",
+            "href": "https://www.whosdatedwho.com/dating/rudi-gernreich",
+            "relationship_type": 2,
+            "start_date": "1950",
+            "end_date": "1952",
+            "length": "2 years",
+            "start_months_since_1900": 600,
+            "end_months_since_1900": 624,
+            "length_in_months": 24
+        },
+        {
+            "name": "Anita Platky",
+            "href": "https://www.whosdatedwho.com/dating/anita-platky",
+            "relationship_type": 4,
+            "start_date": "1938",
+            "end_date": "1951",
+            "length": "13 years",
+            "start_months_since_1900": 456,
+            "end_months_since_1900": 612,
+            "length_in_months": 156
+        },
+        {
+            "name": "Will Geer",
+            "href": "https://www.whosdatedwho.com/dating/will-geer",
+            "relationship_type": 2,
+            "start_date": "1932",
+            "end_date": "1934",
+            "length": "2 years",
+            "start_months_since_1900": 384,
+            "end_months_since_1900": 408,
+            "length_in_months": 24
+        }
+    ],
+    "details": {
+        "First Name": "Harry",
+        "Middle Name": "NA",
+        "Last Name": "Hay",
+        "Maiden Name": "NA",
+        "Full Name at Birth": "NA",
+        "Alternative Name": "NA",
+        "Birthday": "1912",
+        "Birthplace": "England",
+        "Height": "NA",
+        "Weight": "NA",
+        "Zodiac Sign": "7",
+        "Sexuality": "Gay",
+        "Religion": "1",
+        "Ethnicity": "6",
+        "Nationality": "91",
+        "Occupation": "12"
+    }
+}

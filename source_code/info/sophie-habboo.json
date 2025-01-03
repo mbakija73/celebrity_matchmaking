@@ -1,0 +1,44 @@
+{
+    "relationships": [
+        {
+            "name": "Jamie Laing",
+            "href": "https://www.whosdatedwho.com/dating/jamie-laing",
+            "relationship_type": 4,
+            "start_date": "Apr 2019",
+            "end_date": "present",
+            "length": "5 years",
+            "start_months_since_1900": 1431,
+            "end_months_since_1900": -1,
+            "length_in_months": 60
+        },
+        {
+            "name": "Charlie Brake",
+            "href": "https://www.whosdatedwho.com/dating/charlie-brake",
+            "relationship_type": 3,
+            "start_date": "Feb 2019",
+            "end_date": "Feb 2019",
+            "length": "-",
+            "start_months_since_1900": 1429,
+            "end_months_since_1900": 1429,
+            "length_in_months": -1
+        }
+    ],
+    "details": {
+        "First Name": "Sophie",
+        "Middle Name": "NA",
+        "Last Name": "Habboo",
+        "Maiden Name": "NA",
+        "Full Name at Birth": "Sophie Habboo",
+        "Alternative Name": "Sophie Habboo",
+        "Birthday": "1993",
+        "Birthplace": "UK",
+        "Height": "NA",
+        "Weight": "NA",
+        "Zodiac Sign": "10",
+        "Sexuality": "Straight",
+        "Religion": "1",
+        "Ethnicity": "6",
+        "Nationality": "8",
+        "Occupation": "11"
+    }
+}

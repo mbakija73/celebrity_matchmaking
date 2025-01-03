@@ -1,0 +1,55 @@
+{
+    "relationships": [
+        {
+            "name": "Lauren Bacall",
+            "href": "https://www.whosdatedwho.com/dating/lauren-bacall",
+            "relationship_type": 3,
+            "start_date": "Feb 1979",
+            "end_date": "Apr 1979",
+            "length": "1 month",
+            "start_months_since_1900": 949,
+            "end_months_since_1900": 951,
+            "length_in_months": 1
+        },
+        {
+            "name": "Lois Clarke",
+            "href": "https://www.whosdatedwho.com/dating/lois-clarke",
+            "relationship_type": 4,
+            "start_date": "3rd Aug 1956",
+            "end_date": "19th Jul 2014",
+            "length": "57 years",
+            "start_months_since_1900": 679,
+            "end_months_since_1900": 1374,
+            "length_in_months": 684
+        },
+        {
+            "name": "Gloria Pall",
+            "href": "https://www.whosdatedwho.com/dating/gloria-pall",
+            "relationship_type": 2,
+            "start_date": "Jun 1955",
+            "end_date": "Sep 1955",
+            "length": "3 months",
+            "start_months_since_1900": 665,
+            "end_months_since_1900": 668,
+            "length_in_months": 3
+        }
+    ],
+    "details": {
+        "First Name": "James",
+        "Middle Name": "NA",
+        "Last Name": "Garner",
+        "Maiden Name": "NA",
+        "Full Name at Birth": "James Scott Baumgarner",
+        "Alternative Name": "James Scott Baumgarner, James Garner",
+        "Birthday": "1928",
+        "Birthplace": "USA",
+        "Height": "188",
+        "Weight": "215lbs (98 kg)",
+        "Zodiac Sign": "7",
+        "Sexuality": "Straight",
+        "Religion": "1",
+        "Ethnicity": "6",
+        "Nationality": "91",
+        "Occupation": "8"
+    }
+}

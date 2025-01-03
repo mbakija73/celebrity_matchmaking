@@ -1,0 +1,55 @@
+{
+    "relationships": [
+        {
+            "name": "Jennifer Lawrence",
+            "href": "https://www.whosdatedwho.com/dating/jennifer-lawrence",
+            "relationship_type": 2,
+            "start_date": "Sep 2016",
+            "end_date": "Oct 2017",
+            "length": "1 year",
+            "start_months_since_1900": 1400,
+            "end_months_since_1900": 1413,
+            "length_in_months": 12
+        },
+        {
+            "name": "Brandon Milbradt",
+            "href": "https://www.whosdatedwho.com/dating/brandi-ann-milbradt",
+            "relationship_type": 2,
+            "start_date": "2012",
+            "end_date": "2015",
+            "length": "3 years",
+            "start_months_since_1900": 1344,
+            "end_months_since_1900": 1380,
+            "length_in_months": 36
+        },
+        {
+            "name": "Rachel Weisz",
+            "href": "https://www.whosdatedwho.com/dating/rachel-weisz",
+            "relationship_type": 2,
+            "start_date": "Oct 2001",
+            "end_date": "Sep 2010",
+            "length": "8 years",
+            "start_months_since_1900": 1221,
+            "end_months_since_1900": 1328,
+            "length_in_months": 96
+        }
+    ],
+    "details": {
+        "First Name": "Darren",
+        "Middle Name": "S.",
+        "Last Name": "Aronofsky",
+        "Maiden Name": "NA",
+        "Full Name at Birth": "Darren S. Aronofsky",
+        "Alternative Name": "Darren Aronofsky, Darren S. Aronofsky",
+        "Birthday": "1969",
+        "Birthplace": "New York  USA",
+        "Height": "183",
+        "Weight": "NA",
+        "Zodiac Sign": "9",
+        "Sexuality": "Straight",
+        "Religion": "22",
+        "Ethnicity": "6",
+        "Nationality": "91",
+        "Occupation": "9"
+    }
+}

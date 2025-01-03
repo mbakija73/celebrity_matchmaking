@@ -1,0 +1,55 @@
+{
+    "relationships": [
+        {
+            "name": "Joe Cappuccio",
+            "href": "https://www.whosdatedwho.com/dating/joe-cappuccio",
+            "relationship_type": 4,
+            "start_date": "2006",
+            "end_date": "Aug 2014",
+            "length": "8 years",
+            "start_months_since_1900": 1272,
+            "end_months_since_1900": 1375,
+            "length_in_months": 96
+        },
+        {
+            "name": "John Callahan",
+            "href": "https://www.whosdatedwho.com/dating/john-callahan",
+            "relationship_type": 4,
+            "start_date": "1995",
+            "end_date": "2004",
+            "length": "9 years",
+            "start_months_since_1900": 1140,
+            "end_months_since_1900": 1248,
+            "length_in_months": 108
+        },
+        {
+            "name": "John O'Hurley",
+            "href": "https://www.whosdatedwho.com/dating/john-o-hurley",
+            "relationship_type": 4,
+            "start_date": "1991",
+            "end_date": "1994",
+            "length": "3 years",
+            "start_months_since_1900": 1092,
+            "end_months_since_1900": 1128,
+            "length_in_months": 36
+        }
+    ],
+    "details": {
+        "First Name": "Eva",
+        "Middle Name": "Maria",
+        "Last Name": "La Rue",
+        "Maiden Name": "LaRuy",
+        "Full Name at Birth": "Eva Maria LaRuy",
+        "Alternative Name": "Eva Maria LaRue, Eva Maria LaRuy, Eva LaRue, Eva La Rue, Eva LaRue Callahan, Eva La Rue Callahan, Eva",
+        "Birthday": "1966",
+        "Birthplace": "USA",
+        "Height": "171",
+        "Weight": "119lbs (54 kg)",
+        "Zodiac Sign": "13",
+        "Sexuality": "Straight",
+        "Religion": "8",
+        "Ethnicity": "8",
+        "Nationality": "91",
+        "Occupation": "8"
+    }
+}

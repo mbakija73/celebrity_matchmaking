@@ -1,0 +1,55 @@
+{
+    "relationships": [
+        {
+            "name": "Carmen McRae",
+            "href": "https://www.whosdatedwho.com/dating/carmen-mcrae",
+            "relationship_type": 3,
+            "start_date": "",
+            "end_date": "",
+            "length": "-",
+            "start_months_since_1900": -1,
+            "end_months_since_1900": -1,
+            "length_in_months": -1
+        },
+        {
+            "name": "Ethel Waters",
+            "href": "https://www.whosdatedwho.com/dating/ethel-waters",
+            "relationship_type": 2,
+            "start_date": "",
+            "end_date": "",
+            "length": "-",
+            "start_months_since_1900": -1,
+            "end_months_since_1900": -1,
+            "length_in_months": -1
+        },
+        {
+            "name": "Billy Eckstine",
+            "href": "https://www.whosdatedwho.com/dating/billy-eckstine",
+            "relationship_type": 3,
+            "start_date": "",
+            "end_date": "",
+            "length": "-",
+            "start_months_since_1900": -1,
+            "end_months_since_1900": -1,
+            "length_in_months": -1
+        }
+    ],
+    "details": {
+        "First Name": "Count",
+        "Middle Name": "NA",
+        "Last Name": "Basie",
+        "Maiden Name": "NA",
+        "Full Name at Birth": "William James Basie",
+        "Alternative Name": "The Count, The Kid from Red Bank, William Allen Basie",
+        "Birthday": "1904",
+        "Birthplace": "USA",
+        "Height": "NA",
+        "Weight": "NA",
+        "Zodiac Sign": "12",
+        "Sexuality": "DISPUTED",
+        "Religion": "1",
+        "Ethnicity": "2",
+        "Nationality": "91",
+        "Occupation": "1"
+    }
+}

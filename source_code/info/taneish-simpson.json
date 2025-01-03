@@ -1,0 +1,33 @@
+{
+    "relationships": [
+        {
+            "name": "Usain Bolt",
+            "href": "https://www.whosdatedwho.com/dating/usain-bolt",
+            "relationship_type": 2,
+            "start_date": "2010",
+            "end_date": "2010",
+            "length": "-",
+            "start_months_since_1900": 1320,
+            "end_months_since_1900": 1320,
+            "length_in_months": -1
+        }
+    ],
+    "details": {
+        "First Name": "Taneish",
+        "Middle Name": "NA",
+        "Last Name": "Simpson",
+        "Maiden Name": "NA",
+        "Full Name at Birth": "NA",
+        "Alternative Name": "Taneish 'Lava' Simpson",
+        "Birthday": "1984",
+        "Birthplace": "Jamaica",
+        "Height": "NA",
+        "Weight": "NA",
+        "Zodiac Sign": "6",
+        "Sexuality": "Straight",
+        "Religion": "1",
+        "Ethnicity": "2",
+        "Nationality": "62",
+        "Occupation": "11"
+    }
+}

@@ -1,0 +1,77 @@
+{
+    "relationships": [
+        {
+            "name": "Miriam Hopkins",
+            "href": "https://www.whosdatedwho.com/dating/miriam-hopkins",
+            "relationship_type": 2,
+            "start_date": "1932",
+            "end_date": "1932",
+            "length": "-",
+            "start_months_since_1900": 384,
+            "end_months_since_1900": 384,
+            "length_in_months": -1
+        },
+        {
+            "name": "Elizabeth Hill",
+            "href": "https://www.whosdatedwho.com/dating/elizabeth-hill",
+            "relationship_type": 4,
+            "start_date": "1932",
+            "end_date": "1st Nov 1982",
+            "length": "50 years",
+            "start_months_since_1900": 384,
+            "end_months_since_1900": 994,
+            "length_in_months": 600
+        },
+        {
+            "name": "Eleanor Boardman",
+            "href": "https://www.whosdatedwho.com/dating/eleanor-boardman",
+            "relationship_type": 4,
+            "start_date": "1925",
+            "end_date": "Apr 1934",
+            "length": "9 years",
+            "start_months_since_1900": 300,
+            "end_months_since_1900": 411,
+            "length_in_months": 108
+        },
+        {
+            "name": "Florence Vidor",
+            "href": "https://www.whosdatedwho.com/dating/florence-vidor",
+            "relationship_type": 4,
+            "start_date": "1913",
+            "end_date": "Jul 1926",
+            "length": "13 years",
+            "start_months_since_1900": 156,
+            "end_months_since_1900": 318,
+            "length_in_months": 156
+        },
+        {
+            "name": "Colleen Moore",
+            "href": "https://www.whosdatedwho.com/dating/colleen-moore",
+            "relationship_type": 2,
+            "start_date": "",
+            "end_date": "",
+            "length": "-",
+            "start_months_since_1900": -1,
+            "end_months_since_1900": -1,
+            "length_in_months": -1
+        }
+    ],
+    "details": {
+        "First Name": "King",
+        "Middle Name": "NA",
+        "Last Name": "NA",
+        "Maiden Name": "NA",
+        "Full Name at Birth": "King Wallis Vidor",
+        "Alternative Name": "King Wallis Vidor, King Vidor, King W. Vidor",
+        "Birthday": "1894",
+        "Birthplace": "Texas USA",
+        "Height": "182",
+        "Weight": "NA",
+        "Zodiac Sign": "9",
+        "Sexuality": "Straight",
+        "Religion": "12",
+        "Ethnicity": "6",
+        "Nationality": "91",
+        "Occupation": "9"
+    }
+}

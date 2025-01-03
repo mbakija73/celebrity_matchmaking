@@ -1,0 +1,44 @@
+{
+    "relationships": [
+        {
+            "name": "Jacques Nathan",
+            "href": "https://www.whosdatedwho.com/dating/jacques-nathan",
+            "relationship_type": 2,
+            "start_date": "2010",
+            "end_date": "2010",
+            "length": "-",
+            "start_months_since_1900": 1320,
+            "end_months_since_1900": 1320,
+            "length_in_months": -1
+        },
+        {
+            "name": "Luke Pasqualino",
+            "href": "https://www.whosdatedwho.com/dating/luke-pasqualino",
+            "relationship_type": 1,
+            "start_date": "",
+            "end_date": "",
+            "length": "-",
+            "start_months_since_1900": -1,
+            "end_months_since_1900": -1,
+            "length_in_months": -1
+        }
+    ],
+    "details": {
+        "First Name": "Klariza",
+        "Middle Name": "NA",
+        "Last Name": "Clayton",
+        "Maiden Name": "NA",
+        "Full Name at Birth": "Klariza Clayton",
+        "Alternative Name": "NA",
+        "Birthday": "1989",
+        "Birthplace": "Hong Kong",
+        "Height": "160",
+        "Weight": "NA",
+        "Zodiac Sign": "1",
+        "Sexuality": "Straight",
+        "Religion": "1",
+        "Ethnicity": "8",
+        "Nationality": "8",
+        "Occupation": "8"
+    }
+}

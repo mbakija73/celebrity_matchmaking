@@ -1,0 +1,44 @@
+{
+    "relationships": [
+        {
+            "name": "Jim Jones",
+            "href": "https://www.whosdatedwho.com/dating/jim-jones",
+            "relationship_type": 2,
+            "start_date": "May 2004",
+            "end_date": "present",
+            "length": "20 years",
+            "start_months_since_1900": 1252,
+            "end_months_since_1900": -1,
+            "length_in_months": 240
+        },
+        {
+            "name": "Jay-Z",
+            "href": "https://www.whosdatedwho.com/dating/jay-z",
+            "relationship_type": 3,
+            "start_date": "",
+            "end_date": "",
+            "length": "-",
+            "start_months_since_1900": -1,
+            "end_months_since_1900": -1,
+            "length_in_months": -1
+        }
+    ],
+    "details": {
+        "First Name": "Christine",
+        "Middle Name": "NA",
+        "Last Name": "Lampkin",
+        "Maiden Name": "NA",
+        "Full Name at Birth": "Christine Lampkin",
+        "Alternative Name": "NA",
+        "Birthday": "1971",
+        "Birthplace": "USA",
+        "Height": "165",
+        "Weight": "NA",
+        "Zodiac Sign": "3",
+        "Sexuality": "Straight",
+        "Religion": "18",
+        "Ethnicity": "8",
+        "Nationality": "91",
+        "Occupation": "11"
+    }
+}

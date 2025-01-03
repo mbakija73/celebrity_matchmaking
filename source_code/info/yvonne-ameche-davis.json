@@ -1,0 +1,44 @@
+{
+    "relationships": [
+        {
+            "name": "Glenn Davis",
+            "href": "https://www.whosdatedwho.com/dating/glenn-davis",
+            "relationship_type": 4,
+            "start_date": "1995",
+            "end_date": "9th Mar 2005",
+            "length": "10 years",
+            "start_months_since_1900": 1140,
+            "end_months_since_1900": 1262,
+            "length_in_months": 120
+        },
+        {
+            "name": "Alan Ameche",
+            "href": "https://www.whosdatedwho.com/dating/alan-ameche",
+            "relationship_type": 4,
+            "start_date": "1952",
+            "end_date": "1988",
+            "length": "36 years",
+            "start_months_since_1900": 624,
+            "end_months_since_1900": 1056,
+            "length_in_months": 432
+        }
+    ],
+    "details": {
+        "First Name": "Yvonne",
+        "Middle Name": "NA",
+        "Last Name": "Ameche",
+        "Maiden Name": "NA",
+        "Full Name at Birth": "Yvonne Molinaro",
+        "Alternative Name": "Yvonne Ameche Davis",
+        "Birthday": "NA",
+        "Birthplace": "NA",
+        "Height": "NA",
+        "Weight": "NA",
+        "Zodiac Sign": "2",
+        "Sexuality": "Straight",
+        "Religion": "1",
+        "Ethnicity": "6",
+        "Nationality": "91",
+        "Occupation": "18"
+    }
+}

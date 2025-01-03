@@ -1,0 +1,55 @@
+{
+    "relationships": [
+        {
+            "name": "Skeet Ulrich",
+            "href": "https://www.whosdatedwho.com/dating/skeet-ulrich",
+            "relationship_type": 2,
+            "start_date": "2015",
+            "end_date": "Nov 2017",
+            "length": "2 years",
+            "start_months_since_1900": 1380,
+            "end_months_since_1900": 1414,
+            "length_in_months": 24
+        },
+        {
+            "name": "James Marsden",
+            "href": "https://www.whosdatedwho.com/dating/james-marsden",
+            "relationship_type": 2,
+            "start_date": "Sep 2011",
+            "end_date": "2012",
+            "length": "4 months",
+            "start_months_since_1900": 1340,
+            "end_months_since_1900": 1344,
+            "length_in_months": 4
+        },
+        {
+            "name": "Chris Santos",
+            "href": "https://www.whosdatedwho.com/dating/chris-santos",
+            "relationship_type": 2,
+            "start_date": "2010",
+            "end_date": "2012",
+            "length": "2 years",
+            "start_months_since_1900": 1320,
+            "end_months_since_1900": 1344,
+            "length_in_months": 24
+        }
+    ],
+    "details": {
+        "First Name": "Rose",
+        "Middle Name": "NA",
+        "Last Name": "Costa",
+        "Maiden Name": "NA",
+        "Full Name at Birth": "Rose Costa",
+        "Alternative Name": "NA",
+        "Birthday": "1988",
+        "Birthplace": "Brazil",
+        "Height": "177",
+        "Weight": "140lbs (64 kg)",
+        "Zodiac Sign": "1",
+        "Sexuality": "Straight",
+        "Religion": "18",
+        "Ethnicity": "8",
+        "Nationality": "87",
+        "Occupation": "15"
+    }
+}

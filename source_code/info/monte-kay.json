@@ -1,0 +1,66 @@
+{
+    "relationships": [
+        {
+            "name": "Carol Speed",
+            "href": "https://www.whosdatedwho.com/dating/carol-speed",
+            "relationship_type": 2,
+            "start_date": "1974",
+            "end_date": "1976",
+            "length": "2 years",
+            "start_months_since_1900": 888,
+            "end_months_since_1900": 912,
+            "length_in_months": 24
+        },
+        {
+            "name": "Diahann Carroll",
+            "href": "https://www.whosdatedwho.com/dating/diahann-carroll",
+            "relationship_type": 4,
+            "start_date": "1955",
+            "end_date": "1963",
+            "length": "8 years",
+            "start_months_since_1900": 660,
+            "end_months_since_1900": 756,
+            "length_in_months": 96
+        },
+        {
+            "name": "Roberta Kay",
+            "href": "https://www.whosdatedwho.com/dating/roberta-kay",
+            "relationship_type": 4,
+            "start_date": "",
+            "end_date": "",
+            "length": "-",
+            "start_months_since_1900": -1,
+            "end_months_since_1900": -1,
+            "length_in_months": -1
+        },
+        {
+            "name": "Carol Lynley",
+            "href": "https://www.whosdatedwho.com/dating/carol-lynley",
+            "relationship_type": 2,
+            "start_date": "",
+            "end_date": "",
+            "length": "-",
+            "start_months_since_1900": -1,
+            "end_months_since_1900": -1,
+            "length_in_months": -1
+        }
+    ],
+    "details": {
+        "First Name": "Monte",
+        "Middle Name": "NA",
+        "Last Name": "Kay",
+        "Maiden Name": "NA",
+        "Full Name at Birth": "Monte Kay",
+        "Alternative Name": "NA",
+        "Birthday": "1924",
+        "Birthplace": "USA",
+        "Height": "NA",
+        "Weight": "NA",
+        "Zodiac Sign": "11",
+        "Sexuality": "Straight",
+        "Religion": "1",
+        "Ethnicity": "6",
+        "Nationality": "91",
+        "Occupation": "9"
+    }
+}

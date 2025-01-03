@@ -1,0 +1,55 @@
+{
+    "relationships": [
+        {
+            "name": "Peter Strauss",
+            "href": "https://www.whosdatedwho.com/dating/peter-strauss",
+            "relationship_type": 4,
+            "start_date": "Dec 1997",
+            "end_date": "present",
+            "length": "26 years",
+            "start_months_since_1900": 1175,
+            "end_months_since_1900": -1,
+            "length_in_months": 312
+        },
+        {
+            "name": "Arnold Schwarzenegger",
+            "href": "https://www.whosdatedwho.com/dating/arnold-schwarzenegger",
+            "relationship_type": 3,
+            "start_date": "Mar 1989",
+            "end_date": "Aug 1989",
+            "length": "5 months",
+            "start_months_since_1900": 1070,
+            "end_months_since_1900": 1075,
+            "length_in_months": 5
+        },
+        {
+            "name": "David Caruso",
+            "href": "https://www.whosdatedwho.com/dating/david-caruso",
+            "relationship_type": 4,
+            "start_date": "1981",
+            "end_date": "1989",
+            "length": "8 years",
+            "start_months_since_1900": 972,
+            "end_months_since_1900": 1068,
+            "length_in_months": 96
+        }
+    ],
+    "details": {
+        "First Name": "Rachel",
+        "Middle Name": "NA",
+        "Last Name": "Strauss",
+        "Maiden Name": "Ticotin",
+        "Full Name at Birth": "Rachel Ticotin",
+        "Alternative Name": "Rachel Ticotin",
+        "Birthday": "1958",
+        "Birthplace": "United States",
+        "Height": "170",
+        "Weight": "NA",
+        "Zodiac Sign": "5",
+        "Sexuality": "Straight",
+        "Religion": "1",
+        "Ethnicity": "8",
+        "Nationality": "91",
+        "Occupation": "8"
+    }
+}

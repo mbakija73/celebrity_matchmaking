@@ -1,0 +1,55 @@
+{
+    "relationships": [
+        {
+            "name": "Chris Evans",
+            "href": "https://www.whosdatedwho.com/dating/chris-evans",
+            "relationship_type": 2,
+            "start_date": "2015",
+            "end_date": "2015",
+            "length": "-",
+            "start_months_since_1900": 1380,
+            "end_months_since_1900": 1380,
+            "length_in_months": -1
+        },
+        {
+            "name": "Tim Tebow",
+            "href": "https://www.whosdatedwho.com/dating/tim-tebow",
+            "relationship_type": 1,
+            "start_date": "2009",
+            "end_date": "2009",
+            "length": "-",
+            "start_months_since_1900": 1308,
+            "end_months_since_1900": 1308,
+            "length_in_months": -1
+        },
+        {
+            "name": "Daniel Hooper",
+            "href": "https://www.whosdatedwho.com/dating/daniel-hooper",
+            "relationship_type": 2,
+            "start_date": "2002",
+            "end_date": "2002",
+            "length": "-",
+            "start_months_since_1900": 1224,
+            "end_months_since_1900": 1224,
+            "length_in_months": -1
+        }
+    ],
+    "details": {
+        "First Name": "Lucy",
+        "Middle Name": "Katherine",
+        "Last Name": "Pinder",
+        "Maiden Name": "NA",
+        "Full Name at Birth": "Lucy Katherine Pinder",
+        "Alternative Name": "Lucy Katherine Pinder, Lucy Pinder, Lucy",
+        "Birthday": "1983",
+        "Birthplace": "UK",
+        "Height": "165",
+        "Weight": "130lbs (59 kg)",
+        "Zodiac Sign": "6",
+        "Sexuality": "Straight",
+        "Religion": "1",
+        "Ethnicity": "6",
+        "Nationality": "8",
+        "Occupation": "8"
+    }
+}

@@ -1,0 +1,88 @@
+{
+    "relationships": [
+        {
+            "name": "John Mellencamp",
+            "href": "https://www.whosdatedwho.com/dating/john-mellencamp",
+            "relationship_type": 2,
+            "start_date": "Nov 2010",
+            "end_date": "Oct 2019",
+            "length": "8 years",
+            "start_months_since_1900": 1330,
+            "end_months_since_1900": 1437,
+            "length_in_months": 96
+        },
+        {
+            "name": "Matthew Perry",
+            "href": "https://www.whosdatedwho.com/dating/matthew-perry",
+            "relationship_type": 3,
+            "start_date": "2007",
+            "end_date": "2007",
+            "length": "-",
+            "start_months_since_1900": 1284,
+            "end_months_since_1900": 1284,
+            "length_in_months": -1
+        },
+        {
+            "name": "John Cusack",
+            "href": "https://www.whosdatedwho.com/dating/john-cusack",
+            "relationship_type": 2,
+            "start_date": "2002",
+            "end_date": "2003",
+            "length": "1 year",
+            "start_months_since_1900": 1224,
+            "end_months_since_1900": 1236,
+            "length_in_months": 12
+        },
+        {
+            "name": "Russell Crowe",
+            "href": "https://www.whosdatedwho.com/dating/russell-crowe",
+            "relationship_type": 2,
+            "start_date": "Nov 1999",
+            "end_date": "Jan 2001",
+            "length": "1 year",
+            "start_months_since_1900": 1198,
+            "end_months_since_1900": 1212,
+            "length_in_months": 12
+        },
+        {
+            "name": "Dennis Quaid",
+            "href": "https://www.whosdatedwho.com/dating/dennis-quaid",
+            "relationship_type": 4,
+            "start_date": "May 1987",
+            "end_date": "Jul 2001",
+            "length": "14 years",
+            "start_months_since_1900": 1048,
+            "end_months_since_1900": 1218,
+            "length_in_months": 168
+        },
+        {
+            "name": "Anthony Edwards",
+            "href": "https://www.whosdatedwho.com/dating/anthony-edwards",
+            "relationship_type": 2,
+            "start_date": "1986",
+            "end_date": "1987",
+            "length": "1 year",
+            "start_months_since_1900": 1032,
+            "end_months_since_1900": 1044,
+            "length_in_months": 12
+        }
+    ],
+    "details": {
+        "First Name": "Margaret",
+        "Middle Name": "Mary Emily Anne",
+        "Last Name": "Ryan",
+        "Maiden Name": "NA",
+        "Full Name at Birth": "Margaret Mary Emily Anne Hyra",
+        "Alternative Name": "Margaret Mary Emily Anne Hyra, Margaret Mary Emily Hyra, Meg Ryan, Meg",
+        "Birthday": "1961",
+        "Birthplace": "USA",
+        "Height": "173",
+        "Weight": "126lbs (57 kg)",
+        "Zodiac Sign": "5",
+        "Sexuality": "Straight",
+        "Religion": "16",
+        "Ethnicity": "6",
+        "Nationality": "91",
+        "Occupation": "8"
+    }
+}

@@ -1,0 +1,33 @@
+{
+    "relationships": [
+        {
+            "name": "Fred Durst",
+            "href": "https://www.whosdatedwho.com/dating/fred-durst",
+            "relationship_type": 4,
+            "start_date": "Jan 2008",
+            "end_date": "Feb 2010",
+            "length": "2 years",
+            "start_months_since_1900": 1296,
+            "end_months_since_1900": 1321,
+            "length_in_months": 24
+        }
+    ],
+    "details": {
+        "First Name": "Esther",
+        "Middle Name": "NA",
+        "Last Name": "Nazarov",
+        "Maiden Name": "NA",
+        "Full Name at Birth": "Esther Nazarov",
+        "Alternative Name": "NA",
+        "Birthday": "NA",
+        "Birthplace": "NA",
+        "Height": "NA",
+        "Weight": "NA",
+        "Zodiac Sign": "2",
+        "Sexuality": "Straight",
+        "Religion": "1",
+        "Ethnicity": "6",
+        "Nationality": "65",
+        "Occupation": "11"
+    }
+}

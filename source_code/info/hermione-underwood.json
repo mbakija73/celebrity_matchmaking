@@ -1,0 +1,44 @@
+{
+    "relationships": [
+        {
+            "name": "Seal",
+            "href": "https://www.whosdatedwho.com/dating/seal",
+            "relationship_type": 3,
+            "start_date": "Apr 2015",
+            "end_date": "Jun 2015",
+            "length": "2 months",
+            "start_months_since_1900": 1383,
+            "end_months_since_1900": 1385,
+            "length_in_months": 2
+        },
+        {
+            "name": "Oliver Curtis",
+            "href": "https://www.whosdatedwho.com/dating/oliver-curtis",
+            "relationship_type": 2,
+            "start_date": "2009",
+            "end_date": "2009",
+            "length": "-",
+            "start_months_since_1900": 1308,
+            "end_months_since_1900": 1308,
+            "length_in_months": -1
+        }
+    ],
+    "details": {
+        "First Name": "Hermione",
+        "Middle Name": "Olivia",
+        "Last Name": "Underwood",
+        "Maiden Name": "NA",
+        "Full Name at Birth": "Olivia Underwood",
+        "Alternative Name": "Hermione Olivia Underwood, Olivia Hermione Underwood",
+        "Birthday": "NA",
+        "Birthplace": "NA",
+        "Height": "NA",
+        "Weight": "NA",
+        "Zodiac Sign": "2",
+        "Sexuality": "NA",
+        "Religion": "1",
+        "Ethnicity": "1",
+        "Nationality": "135",
+        "Occupation": "3"
+    }
+}

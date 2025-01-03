@@ -1,0 +1,44 @@
+{
+    "relationships": [
+        {
+            "name": "James Martin",
+            "href": "https://www.whosdatedwho.com/dating/james-martin",
+            "relationship_type": 2,
+            "start_date": "Mar 2024",
+            "end_date": "present",
+            "length": "6 months",
+            "start_months_since_1900": 1490,
+            "end_months_since_1900": -1,
+            "length_in_months": 6
+        },
+        {
+            "name": "Arun Nayar",
+            "href": "https://www.whosdatedwho.com/dating/arun-nayar",
+            "relationship_type": 4,
+            "start_date": "2012",
+            "end_date": "2017",
+            "length": "5 years",
+            "start_months_since_1900": 1344,
+            "end_months_since_1900": 1404,
+            "length_in_months": 60
+        }
+    ],
+    "details": {
+        "Occupation": "15",
+        "First Name": "NA",
+        "Middle Name": "NA",
+        "Last Name": "NA",
+        "Maiden Name": "NA",
+        "Full Name at Birth": "NA",
+        "Alternative Name": "NA",
+        "Birthday": "NA",
+        "Birthplace": "NA",
+        "Height": "NA",
+        "Weight": "NA",
+        "Zodiac Sign": "2",
+        "Sexuality": "NA",
+        "Religion": "1",
+        "Ethnicity": "1",
+        "Nationality": "65"
+    }
+}

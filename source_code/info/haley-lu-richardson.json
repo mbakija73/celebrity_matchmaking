@@ -1,0 +1,44 @@
+{
+    "relationships": [
+        {
+            "name": "Evan Peters",
+            "href": "https://www.whosdatedwho.com/dating/evan-peters",
+            "relationship_type": 1,
+            "start_date": "Feb 2023",
+            "end_date": "Feb 2023",
+            "length": "-",
+            "start_months_since_1900": 1477,
+            "end_months_since_1900": 1477,
+            "length_in_months": -1
+        },
+        {
+            "name": "Brett Dier",
+            "href": "https://www.whosdatedwho.com/dating/brett-dier",
+            "relationship_type": 2,
+            "start_date": "Jan 2014",
+            "end_date": "2020",
+            "length": "6 years",
+            "start_months_since_1900": 1368,
+            "end_months_since_1900": 1440,
+            "length_in_months": 72
+        }
+    ],
+    "details": {
+        "First Name": "Haley",
+        "Middle Name": "Lu",
+        "Last Name": "Richardson",
+        "Maiden Name": "NA",
+        "Full Name at Birth": "Haley Lu Richardson",
+        "Alternative Name": "Haley",
+        "Birthday": "1995",
+        "Birthplace": "USA",
+        "Height": "157",
+        "Weight": "110lbs (50 kg)",
+        "Zodiac Sign": "1",
+        "Sexuality": "Straight",
+        "Religion": "1",
+        "Ethnicity": "6",
+        "Nationality": "91",
+        "Occupation": "8"
+    }
+}

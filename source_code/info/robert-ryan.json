@@ -1,0 +1,55 @@
+{
+    "relationships": [
+        {
+            "name": "Maureen O'Sullivan",
+            "href": "https://www.whosdatedwho.com/dating/maureen-o-sullivan",
+            "relationship_type": 2,
+            "start_date": "1968",
+            "end_date": "Jul 1973",
+            "length": "5 years",
+            "start_months_since_1900": 816,
+            "end_months_since_1900": 882,
+            "length_in_months": 60
+        },
+        {
+            "name": "Merle Oberon",
+            "href": "https://www.whosdatedwho.com/dating/merle-oberon",
+            "relationship_type": 2,
+            "start_date": "1947",
+            "end_date": "1947",
+            "length": "-",
+            "start_months_since_1900": 564,
+            "end_months_since_1900": 564,
+            "length_in_months": -1
+        },
+        {
+            "name": "Jessica Cadwalader",
+            "href": "https://www.whosdatedwho.com/dating/jessica-cadwalader",
+            "relationship_type": 4,
+            "start_date": "1938",
+            "end_date": "May 1972",
+            "length": "34 years",
+            "start_months_since_1900": 456,
+            "end_months_since_1900": 868,
+            "length_in_months": 408
+        }
+    ],
+    "details": {
+        "First Name": "Robert",
+        "Middle Name": "Bushnell",
+        "Last Name": "Ryan",
+        "Maiden Name": "NA",
+        "Full Name at Birth": "Robert Bushnell Ryan",
+        "Alternative Name": "Robert Bushnell Ryan, Robert Ryan",
+        "Birthday": "1909",
+        "Birthplace": "USA",
+        "Height": "193",
+        "Weight": "NA",
+        "Zodiac Sign": "5",
+        "Sexuality": "Straight",
+        "Religion": "1",
+        "Ethnicity": "6",
+        "Nationality": "91",
+        "Occupation": "8"
+    }
+}

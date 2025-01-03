@@ -1,0 +1,55 @@
+{
+    "relationships": [
+        {
+            "name": "Bree Olson",
+            "href": "https://www.whosdatedwho.com/dating/bree-olson",
+            "relationship_type": 3,
+            "start_date": "Feb 2011",
+            "end_date": "Feb 2011",
+            "length": "-",
+            "start_months_since_1900": 1333,
+            "end_months_since_1900": 1333,
+            "length_in_months": -1
+        },
+        {
+            "name": "Charlie Sheen",
+            "href": "https://www.whosdatedwho.com/dating/charlie-sheen",
+            "relationship_type": 4,
+            "start_date": "May 2006",
+            "end_date": "May 2011",
+            "length": "5 years",
+            "start_months_since_1900": 1276,
+            "end_months_since_1900": 1336,
+            "length_in_months": 60
+        },
+        {
+            "name": "Dave Navarro",
+            "href": "https://www.whosdatedwho.com/dating/dave-navarro",
+            "relationship_type": 3,
+            "start_date": "",
+            "end_date": "",
+            "length": "-",
+            "start_months_since_1900": -1,
+            "end_months_since_1900": -1,
+            "length_in_months": -1
+        }
+    ],
+    "details": {
+        "First Name": "Brooke",
+        "Middle Name": "Jaye",
+        "Last Name": "Mueller",
+        "Maiden Name": "NA",
+        "Full Name at Birth": "Brooke Jaye Mueller",
+        "Alternative Name": "Brooke Jaye Mueller Sheen, Brooke Jaye Mueller Estevez, Brooke Allen",
+        "Birthday": "1977",
+        "Birthplace": "USA",
+        "Height": "173",
+        "Weight": "128lbs (58 kg)",
+        "Zodiac Sign": "12",
+        "Sexuality": "Straight",
+        "Religion": "31",
+        "Ethnicity": "6",
+        "Nationality": "91",
+        "Occupation": "8"
+    }
+}

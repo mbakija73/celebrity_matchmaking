@@ -1,0 +1,55 @@
+{
+    "relationships": [
+        {
+            "name": "Adriana Lima",
+            "href": "https://www.whosdatedwho.com/dating/adriana-lima",
+            "relationship_type": 2,
+            "start_date": "Jul 2016",
+            "end_date": "Aug 2016",
+            "length": "1 month",
+            "start_months_since_1900": 1398,
+            "end_months_since_1900": 1399,
+            "length_in_months": 1
+        },
+        {
+            "name": "Stefanie Giesinger",
+            "href": "https://www.whosdatedwho.com/dating/stefanie-giesinger",
+            "relationship_type": 2,
+            "start_date": "Dec 2015",
+            "end_date": "Dec 2015",
+            "length": "-",
+            "start_months_since_1900": 1391,
+            "end_months_since_1900": 1391,
+            "length_in_months": -1
+        },
+        {
+            "name": "Lena Gercke",
+            "href": "https://www.whosdatedwho.com/dating/lena-gercke",
+            "relationship_type": 3,
+            "start_date": "May 2011",
+            "end_date": "Jun 2015",
+            "length": "4 years",
+            "start_months_since_1900": 1336,
+            "end_months_since_1900": 1385,
+            "length_in_months": 48
+        }
+    ],
+    "details": {
+        "First Name": "Sami",
+        "Middle Name": "NA",
+        "Last Name": "Khedira",
+        "Maiden Name": "NA",
+        "Full Name at Birth": "Sami Khedira",
+        "Alternative Name": "Sami Khedira",
+        "Birthday": "1987",
+        "Birthplace": "West Germany",
+        "Height": "189",
+        "Weight": "NA",
+        "Zodiac Sign": "7",
+        "Sexuality": "Straight",
+        "Religion": "1",
+        "Ethnicity": "8",
+        "Nationality": "55",
+        "Occupation": "2"
+    }
+}

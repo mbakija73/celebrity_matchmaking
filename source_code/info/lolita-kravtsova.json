@@ -1,0 +1,27 @@
+{
+    "relationships": [
+        {
+            "name": "Valery Obodzinsky",
+            "href": "https://www.whosdatedwho.com/dating/valery-obodzinsky",
+            "relationship_type": 2,
+            "start_date": "1980",
+            "end_date": "1981",
+            "length": "1 year",
+            "start_months_since_1900": 960,
+            "end_months_since_1900": 972,
+            "length_in_months": 12
+        },
+        {
+            "name": "Pavel Slobodkin",
+            "href": "https://www.whosdatedwho.com/dating/pavel-slobodkin",
+            "relationship_type": 4,
+            "start_date": "",
+            "end_date": "2017",
+            "length": "-",
+            "start_months_since_1900": -1,
+            "end_months_since_1900": 1404,
+            "length_in_months": -1
+        }
+    ],
+    "details": {}
+}

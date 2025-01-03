@@ -1,0 +1,66 @@
+{
+    "relationships": [
+        {
+            "name": "Martin Colbert",
+            "href": "https://www.whosdatedwho.com/dating/martin-colbert",
+            "relationship_type": 4,
+            "start_date": "1959",
+            "end_date": "24th Oct 1963",
+            "length": "4 years",
+            "start_months_since_1900": 708,
+            "end_months_since_1900": 765,
+            "length_in_months": 48
+        },
+        {
+            "name": "Alan Grossman",
+            "href": "https://www.whosdatedwho.com/dating/alan-grossman",
+            "relationship_type": 4,
+            "start_date": "Jul 1953",
+            "end_date": "1958",
+            "length": "4 years",
+            "start_months_since_1900": 642,
+            "end_months_since_1900": 696,
+            "length_in_months": 48
+        },
+        {
+            "name": "Lee Bamber",
+            "href": "https://www.whosdatedwho.com/dating/lee-bamber",
+            "relationship_type": 4,
+            "start_date": "1951",
+            "end_date": "1953",
+            "length": "2 years",
+            "start_months_since_1900": 612,
+            "end_months_since_1900": 636,
+            "length_in_months": 24
+        },
+        {
+            "name": "James Dean",
+            "href": "https://www.whosdatedwho.com/dating/james-dean",
+            "relationship_type": 2,
+            "start_date": "",
+            "end_date": "",
+            "length": "-",
+            "start_months_since_1900": -1,
+            "end_months_since_1900": -1,
+            "length_in_months": -1
+        }
+    ],
+    "details": {
+        "First Name": "Beverly",
+        "Middle Name": "Josephine",
+        "Last Name": "Wills",
+        "Maiden Name": "Williams",
+        "Full Name at Birth": "Beverly Josephine Williams",
+        "Alternative Name": "Beverly Josephine Williams, Beverly Wills",
+        "Birthday": "1933",
+        "Birthplace": "USA",
+        "Height": "NA",
+        "Weight": "NA",
+        "Zodiac Sign": "12",
+        "Sexuality": "NA",
+        "Religion": "1",
+        "Ethnicity": "6",
+        "Nationality": "91",
+        "Occupation": "8"
+    }
+}

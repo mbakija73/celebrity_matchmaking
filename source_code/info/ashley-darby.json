@@ -1,0 +1,44 @@
+{
+    "relationships": [
+        {
+            "name": "Luke Gulbranson",
+            "href": "https://www.whosdatedwho.com/dating/luke-gulbranson",
+            "relationship_type": 2,
+            "start_date": "2022",
+            "end_date": "Jan 2023",
+            "length": "1 year",
+            "start_months_since_1900": 1464,
+            "end_months_since_1900": 1476,
+            "length_in_months": 12
+        },
+        {
+            "name": "Michael Darby",
+            "href": "https://www.whosdatedwho.com/dating/michael-darby-6649912",
+            "relationship_type": 4,
+            "start_date": "2014",
+            "end_date": "Apr 2022",
+            "length": "8 years",
+            "start_months_since_1900": 1368,
+            "end_months_since_1900": 1467,
+            "length_in_months": 96
+        }
+    ],
+    "details": {
+        "First Name": "Ashley",
+        "Middle Name": "NA",
+        "Last Name": "Darby",
+        "Maiden Name": "Boalch",
+        "Full Name at Birth": "Ashley Boalch",
+        "Alternative Name": "Ashley",
+        "Birthday": "1988",
+        "Birthplace": "USA",
+        "Height": "173",
+        "Weight": "132lbs (60 kg)",
+        "Zodiac Sign": "4",
+        "Sexuality": "Straight",
+        "Religion": "1",
+        "Ethnicity": "8",
+        "Nationality": "91",
+        "Occupation": "11"
+    }
+}

@@ -1,0 +1,55 @@
+{
+    "relationships": [
+        {
+            "name": "Emma Meisel",
+            "href": "https://www.whosdatedwho.com/dating/emma-meisel",
+            "relationship_type": 2,
+            "start_date": "Aug 2021",
+            "end_date": "present",
+            "length": "3 years",
+            "start_months_since_1900": 1459,
+            "end_months_since_1900": -1,
+            "length_in_months": 36
+        },
+        {
+            "name": "Tori Keeth",
+            "href": "https://www.whosdatedwho.com/dating/tori-keeth",
+            "relationship_type": 2,
+            "start_date": "2019",
+            "end_date": "Dec 2020",
+            "length": "1 year",
+            "start_months_since_1900": 1428,
+            "end_months_since_1900": 1451,
+            "length_in_months": 12
+        },
+        {
+            "name": "Indiana Massara",
+            "href": "https://www.whosdatedwho.com/dating/indiana-massara",
+            "relationship_type": 1,
+            "start_date": "",
+            "end_date": "",
+            "length": "-",
+            "start_months_since_1900": -1,
+            "end_months_since_1900": -1,
+            "length_in_months": -1
+        }
+    ],
+    "details": {
+        "First Name": "Matt",
+        "Middle Name": "NA",
+        "Last Name": "Sato",
+        "Maiden Name": "NA",
+        "Full Name at Birth": "Matthew Sato",
+        "Alternative Name": "Matt, Matt Sato",
+        "Birthday": "2001",
+        "Birthplace": "U.S.",
+        "Height": "178",
+        "Weight": "150lbs (68 kg)",
+        "Zodiac Sign": "7",
+        "Sexuality": "Straight",
+        "Religion": "1",
+        "Ethnicity": "8",
+        "Nationality": "91",
+        "Occupation": "8"
+    }
+}

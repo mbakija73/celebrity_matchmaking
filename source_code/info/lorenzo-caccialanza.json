@@ -1,0 +1,44 @@
+{
+    "relationships": [
+        {
+            "name": "Jane Fonda",
+            "href": "https://www.whosdatedwho.com/dating/jane-fonda",
+            "relationship_type": 2,
+            "start_date": "Sep 1989",
+            "end_date": "Mar 1990",
+            "length": "6 months",
+            "start_months_since_1900": 1076,
+            "end_months_since_1900": 1082,
+            "length_in_months": 6
+        },
+        {
+            "name": "Marina Perzy",
+            "href": "https://www.whosdatedwho.com/dating/marina-perzy",
+            "relationship_type": 1,
+            "start_date": "",
+            "end_date": "",
+            "length": "-",
+            "start_months_since_1900": -1,
+            "end_months_since_1900": -1,
+            "length_in_months": -1
+        }
+    ],
+    "details": {
+        "First Name": "Lorenzo",
+        "Middle Name": "NA",
+        "Last Name": "Caccialanza",
+        "Maiden Name": "NA",
+        "Full Name at Birth": "Lorenzo Caccialanza",
+        "Alternative Name": "NA",
+        "Birthday": "1955",
+        "Birthplace": "Italy",
+        "Height": "206",
+        "Weight": "NA",
+        "Zodiac Sign": "9",
+        "Sexuality": "Straight",
+        "Religion": "1",
+        "Ethnicity": "6",
+        "Nationality": "139",
+        "Occupation": "8"
+    }
+}

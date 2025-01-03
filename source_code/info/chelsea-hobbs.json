@@ -1,0 +1,55 @@
+{
+    "relationships": [
+        {
+            "name": "James Neate",
+            "href": "https://www.whosdatedwho.com/dating/james-neate",
+            "relationship_type": 4,
+            "start_date": "2020",
+            "end_date": "present",
+            "length": "4 years",
+            "start_months_since_1900": 1440,
+            "end_months_since_1900": -1,
+            "length_in_months": 48
+        },
+        {
+            "name": "Jean-Luc Bilodeau",
+            "href": "https://www.whosdatedwho.com/dating/jean-luc-bilodeau",
+            "relationship_type": 2,
+            "start_date": "Sep 2017",
+            "end_date": "",
+            "length": "-",
+            "start_months_since_1900": 1412,
+            "end_months_since_1900": -1,
+            "length_in_months": -1
+        },
+        {
+            "name": "Teren Oddo",
+            "href": "https://www.whosdatedwho.com/dating/teren-oddo",
+            "relationship_type": 4,
+            "start_date": "2005",
+            "end_date": "2014",
+            "length": "9 years",
+            "start_months_since_1900": 1260,
+            "end_months_since_1900": 1368,
+            "length_in_months": 108
+        }
+    ],
+    "details": {
+        "First Name": "Chelsea",
+        "Middle Name": "Raelle",
+        "Last Name": "NA",
+        "Maiden Name": "Hobbs",
+        "Full Name at Birth": "Chelsea Raelle Hobbs",
+        "Alternative Name": "NA",
+        "Birthday": "1985",
+        "Birthplace": "Canada",
+        "Height": "168",
+        "Weight": "128lbs (58 kg)",
+        "Zodiac Sign": "9",
+        "Sexuality": "Straight",
+        "Religion": "1",
+        "Ethnicity": "6",
+        "Nationality": "90",
+        "Occupation": "8"
+    }
+}

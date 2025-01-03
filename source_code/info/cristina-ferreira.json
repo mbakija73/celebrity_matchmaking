@@ -1,0 +1,55 @@
+{
+    "relationships": [
+        {
+            "name": "Pedro Teixeira",
+            "href": "https://www.whosdatedwho.com/dating/pedro-teixeira",
+            "relationship_type": 3,
+            "start_date": "Feb 2014",
+            "end_date": "Feb 2014",
+            "length": "-",
+            "start_months_since_1900": 1369,
+            "end_months_since_1900": 1369,
+            "length_in_months": -1
+        },
+        {
+            "name": "R\u00faben Rua",
+            "href": "https://www.whosdatedwho.com/dating/ruben-rua",
+            "relationship_type": 2,
+            "start_date": "",
+            "end_date": "",
+            "length": "-",
+            "start_months_since_1900": -1,
+            "end_months_since_1900": -1,
+            "length_in_months": -1
+        },
+        {
+            "name": "Antonio Casinhas",
+            "href": "https://www.whosdatedwho.com/dating/antonio-casinhas",
+            "relationship_type": 4,
+            "start_date": "",
+            "end_date": "Jul 2011",
+            "length": "-",
+            "start_months_since_1900": -1,
+            "end_months_since_1900": 1338,
+            "length_in_months": -1
+        }
+    ],
+    "details": {
+        "First Name": "Cristina",
+        "Middle Name": "Maria",
+        "Last Name": "Ferreira",
+        "Maiden Name": "NA",
+        "Full Name at Birth": "Cristina Maria Jorge Ferreira",
+        "Alternative Name": "NA",
+        "Birthday": "1977",
+        "Birthplace": "Portugal",
+        "Height": "170",
+        "Weight": "122lbs (55 kg)",
+        "Zodiac Sign": "11",
+        "Sexuality": "Straight",
+        "Religion": "13",
+        "Ethnicity": "6",
+        "Nationality": "77",
+        "Occupation": "11"
+    }
+}

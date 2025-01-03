@@ -1,0 +1,55 @@
+{
+    "relationships": [
+        {
+            "name": "David Spade",
+            "href": "https://www.whosdatedwho.com/dating/david-spade",
+            "relationship_type": 2,
+            "start_date": "Jun 1993",
+            "end_date": "Aug 1993",
+            "length": "2 months",
+            "start_months_since_1900": 1121,
+            "end_months_since_1900": 1123,
+            "length_in_months": 2
+        },
+        {
+            "name": "Jeff Fahey",
+            "href": "https://www.whosdatedwho.com/dating/jeff-fahey",
+            "relationship_type": 2,
+            "start_date": "Oct 1990",
+            "end_date": "Oct 1990",
+            "length": "-",
+            "start_months_since_1900": 1089,
+            "end_months_since_1900": 1089,
+            "length_in_months": -1
+        },
+        {
+            "name": "Elias Koteas",
+            "href": "https://www.whosdatedwho.com/dating/elias-koteas",
+            "relationship_type": 4,
+            "start_date": "1987",
+            "end_date": "1990",
+            "length": "3 years",
+            "start_months_since_1900": 1044,
+            "end_months_since_1900": 1080,
+            "length_in_months": 36
+        }
+    ],
+    "details": {
+        "First Name": "Jennifer",
+        "Middle Name": "Collene",
+        "Last Name": "Rubin",
+        "Maiden Name": "NA",
+        "Full Name at Birth": "Jennifer Collene Rubin",
+        "Alternative Name": "Jennifer Rubin-LaBoe",
+        "Birthday": "1962",
+        "Birthplace": "USA",
+        "Height": "175",
+        "Weight": "NA",
+        "Zodiac Sign": "7",
+        "Sexuality": "Straight",
+        "Religion": "1",
+        "Ethnicity": "6",
+        "Nationality": "91",
+        "Occupation": "8"
+    }
+}

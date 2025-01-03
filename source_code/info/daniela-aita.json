@@ -1,0 +1,44 @@
+{
+    "relationships": [
+        {
+            "name": "Gaston Dalmau",
+            "href": "https://www.whosdatedwho.com/dating/gaston-dalmau",
+            "relationship_type": 2,
+            "start_date": "2008",
+            "end_date": "2009",
+            "length": "1 year",
+            "start_months_since_1900": 1296,
+            "end_months_since_1900": 1308,
+            "length_in_months": 12
+        },
+        {
+            "name": "Coco Maggio",
+            "href": "https://www.whosdatedwho.com/dating/jorge-maggio",
+            "relationship_type": 1,
+            "start_date": "",
+            "end_date": "",
+            "length": "-",
+            "start_months_since_1900": -1,
+            "end_months_since_1900": -1,
+            "length_in_months": -1
+        }
+    ],
+    "details": {
+        "First Name": "Daniela",
+        "Middle Name": "NA",
+        "Last Name": "Aita",
+        "Maiden Name": "NA",
+        "Full Name at Birth": "Daniela Aita",
+        "Alternative Name": "Daki, Daky",
+        "Birthday": "1987",
+        "Birthplace": "Capital Federal",
+        "Height": "NA",
+        "Weight": "NA",
+        "Zodiac Sign": "5",
+        "Sexuality": "Straight",
+        "Religion": "1",
+        "Ethnicity": "6",
+        "Nationality": "28",
+        "Occupation": "8"
+    }
+}

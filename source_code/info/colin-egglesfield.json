@@ -1,0 +1,77 @@
+{
+    "relationships": [
+        {
+            "name": "Malin Akerman",
+            "href": "https://www.whosdatedwho.com/dating/malin-akerman",
+            "relationship_type": 2,
+            "start_date": "Mar 2014",
+            "end_date": "2015",
+            "length": "10 months",
+            "start_months_since_1900": 1370,
+            "end_months_since_1900": 1380,
+            "length_in_months": 10
+        },
+        {
+            "name": "Jennifer Love Hewitt",
+            "href": "https://www.whosdatedwho.com/dating/jennifer-love-hewitt",
+            "relationship_type": 3,
+            "start_date": "2012",
+            "end_date": "2012",
+            "length": "-",
+            "start_months_since_1900": 1344,
+            "end_months_since_1900": 1344,
+            "length_in_months": -1
+        },
+        {
+            "name": "Stephany Jacobsen",
+            "href": "https://www.whosdatedwho.com/dating/stephany-jacobsen",
+            "relationship_type": 2,
+            "start_date": "Sep 2009",
+            "end_date": "2011",
+            "length": "1 year",
+            "start_months_since_1900": 1316,
+            "end_months_since_1900": 1332,
+            "length_in_months": 12
+        },
+        {
+            "name": "Gabrielle Anwar",
+            "href": "https://www.whosdatedwho.com/dating/gabrielle-anwar",
+            "relationship_type": 1,
+            "start_date": "",
+            "end_date": "",
+            "length": "-",
+            "start_months_since_1900": -1,
+            "end_months_since_1900": -1,
+            "length_in_months": -1
+        },
+        {
+            "name": "Kym Jackson",
+            "href": "https://www.whosdatedwho.com/dating/kym-jackson",
+            "relationship_type": 1,
+            "start_date": "",
+            "end_date": "",
+            "length": "-",
+            "start_months_since_1900": -1,
+            "end_months_since_1900": -1,
+            "length_in_months": -1
+        }
+    ],
+    "details": {
+        "First Name": "Colin",
+        "Middle Name": "Joseph",
+        "Last Name": "Egglesfield",
+        "Maiden Name": "NA",
+        "Full Name at Birth": "Colin Joseph Egglesfield",
+        "Alternative Name": "NA",
+        "Birthday": "1973",
+        "Birthplace": "United States",
+        "Height": "183",
+        "Weight": "NA",
+        "Zodiac Sign": "9",
+        "Sexuality": "Straight",
+        "Religion": "1",
+        "Ethnicity": "6",
+        "Nationality": "91",
+        "Occupation": "8"
+    }
+}

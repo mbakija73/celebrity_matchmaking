@@ -1,0 +1,44 @@
+{
+    "relationships": [
+        {
+            "name": "Shylynnitaa",
+            "href": "https://www.whosdatedwho.com/dating/shylynnitaa",
+            "relationship_type": 4,
+            "start_date": "2020",
+            "end_date": "present",
+            "length": "4 years",
+            "start_months_since_1900": 1440,
+            "end_months_since_1900": -1,
+            "length_in_months": 48
+        },
+        {
+            "name": "Jasmine Sanders",
+            "href": "https://www.whosdatedwho.com/dating/jasmine-sanders",
+            "relationship_type": 2,
+            "start_date": "May 2019",
+            "end_date": "Sep 2019",
+            "length": "4 months",
+            "start_months_since_1900": 1432,
+            "end_months_since_1900": 1436,
+            "length_in_months": 4
+        }
+    ],
+    "details": {
+        "First Name": "Kelly",
+        "Middle Name": "Paul",
+        "Last Name": "Oubre",
+        "Maiden Name": "NA",
+        "Full Name at Birth": "Kelly Paul Oubre Jr.",
+        "Alternative Name": "Shot, Kelly Oubre Jr.",
+        "Birthday": "1995",
+        "Birthplace": "Louisiana",
+        "Height": "201",
+        "Weight": "205lbs (93 kg)",
+        "Zodiac Sign": "6",
+        "Sexuality": "NA",
+        "Religion": "1",
+        "Ethnicity": "8",
+        "Nationality": "91",
+        "Occupation": "2"
+    }
+}

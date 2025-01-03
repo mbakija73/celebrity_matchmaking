@@ -1,0 +1,66 @@
+{
+    "relationships": [
+        {
+            "name": "Christian Cowan",
+            "href": "https://www.whosdatedwho.com/dating/christian-cowan",
+            "relationship_type": 2,
+            "start_date": "Jan 2023",
+            "end_date": "Jan 2024",
+            "length": "1 year",
+            "start_months_since_1900": 1476,
+            "end_months_since_1900": 1488,
+            "length_in_months": 12
+        },
+        {
+            "name": "Brandon Flynn",
+            "href": "https://www.whosdatedwho.com/dating/brandon-flynn",
+            "relationship_type": 2,
+            "start_date": "Sep 2017",
+            "end_date": "Jun 2018",
+            "length": "9 months",
+            "start_months_since_1900": 1412,
+            "end_months_since_1900": 1421,
+            "length_in_months": 9
+        },
+        {
+            "name": "Daisy Lowe",
+            "href": "https://www.whosdatedwho.com/dating/daisy-lowe",
+            "relationship_type": 3,
+            "start_date": "2014",
+            "end_date": "2014",
+            "length": "-",
+            "start_months_since_1900": 1368,
+            "end_months_since_1900": 1368,
+            "length_in_months": -1
+        },
+        {
+            "name": "Jonathan Zeizel",
+            "href": "https://www.whosdatedwho.com/dating/jonathan-zeizel",
+            "relationship_type": 2,
+            "start_date": "",
+            "end_date": "",
+            "length": "-",
+            "start_months_since_1900": -1,
+            "end_months_since_1900": -1,
+            "length_in_months": -1
+        }
+    ],
+    "details": {
+        "First Name": "Sam",
+        "Middle Name": "Frederick",
+        "Last Name": "Smith",
+        "Maiden Name": "NA",
+        "Full Name at Birth": "Samuel Frederick Smith",
+        "Alternative Name": "Samuel Smith, Sam Smith, Sam, Smith",
+        "Birthday": "1992",
+        "Birthplace": "UK",
+        "Height": "188",
+        "Weight": "203lbs (92 kg)",
+        "Zodiac Sign": "3",
+        "Sexuality": "Gay",
+        "Religion": "37",
+        "Ethnicity": "6",
+        "Nationality": "8",
+        "Occupation": "1"
+    }
+}

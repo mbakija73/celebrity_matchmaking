@@ -1,0 +1,44 @@
+{
+    "relationships": [
+        {
+            "name": "Roland Petit",
+            "href": "https://www.whosdatedwho.com/dating/roland-petit",
+            "relationship_type": 4,
+            "start_date": "1954",
+            "end_date": "",
+            "length": "-",
+            "start_months_since_1900": 648,
+            "end_months_since_1900": -1,
+            "length_in_months": -1
+        },
+        {
+            "name": "Howard Hughes",
+            "href": "https://www.whosdatedwho.com/dating/howard-hughes",
+            "relationship_type": 3,
+            "start_date": "1954",
+            "end_date": "1954",
+            "length": "-",
+            "start_months_since_1900": 648,
+            "end_months_since_1900": 648,
+            "length_in_months": -1
+        }
+    ],
+    "details": {
+        "First Name": "Zizi",
+        "Middle Name": "NA",
+        "Last Name": "Jeanmaire",
+        "Maiden Name": "Renee Marcelle",
+        "Full Name at Birth": "Ren\u00e9e Marcelle Jeanmaire",
+        "Alternative Name": "Zizi Jeanmaire, Ren\u00e9e Marcelle Jeanmaire",
+        "Birthday": "1924",
+        "Birthplace": "France",
+        "Height": "155",
+        "Weight": "NA",
+        "Zodiac Sign": "3",
+        "Sexuality": "Straight",
+        "Religion": "1",
+        "Ethnicity": "6",
+        "Nationality": "86",
+        "Occupation": "8"
+    }
+}

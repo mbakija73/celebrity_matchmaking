@@ -1,0 +1,154 @@
+{
+    "relationships": [
+        {
+            "name": "Kourtney Kardashian",
+            "href": "https://www.whosdatedwho.com/dating/kourtney-kardashian",
+            "relationship_type": 4,
+            "start_date": "Oct 2020",
+            "end_date": "present",
+            "length": "4 years",
+            "start_months_since_1900": 1449,
+            "end_months_since_1900": -1,
+            "length_in_months": 48
+        },
+        {
+            "name": "Rita Ora",
+            "href": "https://www.whosdatedwho.com/dating/rita-ora",
+            "relationship_type": 2,
+            "start_date": "Sep 2015",
+            "end_date": "Mar 2016",
+            "length": "6 months",
+            "start_months_since_1900": 1388,
+            "end_months_since_1900": 1394,
+            "length_in_months": 6
+        },
+        {
+            "name": "Arianny Celeste",
+            "href": "https://www.whosdatedwho.com/dating/arianny-celeste",
+            "relationship_type": 3,
+            "start_date": "May 2015",
+            "end_date": "Jun 2015",
+            "length": "1 month",
+            "start_months_since_1900": 1384,
+            "end_months_since_1900": 1385,
+            "length_in_months": 1
+        },
+        {
+            "name": "Rihanna",
+            "href": "https://www.whosdatedwho.com/dating/rihanna",
+            "relationship_type": 3,
+            "start_date": "Feb 2011",
+            "end_date": "Feb 2011",
+            "length": "-",
+            "start_months_since_1900": 1333,
+            "end_months_since_1900": 1333,
+            "length_in_months": -1
+        },
+        {
+            "name": "Tara Reid",
+            "href": "https://www.whosdatedwho.com/dating/tara-reid",
+            "relationship_type": 3,
+            "start_date": "2009",
+            "end_date": "2009",
+            "length": "-",
+            "start_months_since_1900": 1308,
+            "end_months_since_1900": 1308,
+            "length_in_months": -1
+        },
+        {
+            "name": "Lindsay Lohan",
+            "href": "https://www.whosdatedwho.com/dating/lindsay-lohan",
+            "relationship_type": 3,
+            "start_date": "2007",
+            "end_date": "2007",
+            "length": "-",
+            "start_months_since_1900": 1284,
+            "end_months_since_1900": 1284,
+            "length_in_months": -1
+        },
+        {
+            "name": "Paris Hilton",
+            "href": "https://www.whosdatedwho.com/dating/paris-hilton",
+            "relationship_type": 3,
+            "start_date": "Sep 2006",
+            "end_date": "Sep 2006",
+            "length": "-",
+            "start_months_since_1900": 1280,
+            "end_months_since_1900": 1280,
+            "length_in_months": -1
+        },
+        {
+            "name": "Kimberly Stewart",
+            "href": "https://www.whosdatedwho.com/dating/kimberly-stewart",
+            "relationship_type": 3,
+            "start_date": "2006",
+            "end_date": "2006",
+            "length": "-",
+            "start_months_since_1900": 1272,
+            "end_months_since_1900": 1272,
+            "length_in_months": -1
+        },
+        {
+            "name": "Tara Conner",
+            "href": "https://www.whosdatedwho.com/dating/tara-conner",
+            "relationship_type": 3,
+            "start_date": "2006",
+            "end_date": "2008",
+            "length": "2 years",
+            "start_months_since_1900": 1272,
+            "end_months_since_1900": 1296,
+            "length_in_months": 24
+        },
+        {
+            "name": "Shanna Moakler",
+            "href": "https://www.whosdatedwho.com/dating/shanna-moakler",
+            "relationship_type": 4,
+            "start_date": "Aug 2002",
+            "end_date": "Feb 2008",
+            "length": "5 years",
+            "start_months_since_1900": 1231,
+            "end_months_since_1900": 1297,
+            "length_in_months": 60
+        },
+        {
+            "name": "Melissa Kennedy",
+            "href": "https://www.whosdatedwho.com/dating/melissa-kennedy",
+            "relationship_type": 4,
+            "start_date": "1999",
+            "end_date": "Aug 2002",
+            "length": "3 years",
+            "start_months_since_1900": 1188,
+            "end_months_since_1900": 1231,
+            "length_in_months": 36
+        },
+        {
+            "name": "Rebecca Donaldson",
+            "href": "https://www.whosdatedwho.com/dating/rebecca-donaldson",
+            "relationship_type": 1,
+            "start_date": "",
+            "end_date": "",
+            "length": "-",
+            "start_months_since_1900": -1,
+            "end_months_since_1900": -1,
+            "length_in_months": -1
+        }
+    ],
+    "details": {
+        "First Name": "Travis",
+        "Middle Name": "Landon",
+        "Last Name": "Barker",
+        "Maiden Name": "NA",
+        "Full Name at Birth": "Travis Landon Barker",
+        "Alternative Name": "NA",
+        "Birthday": "1975",
+        "Birthplace": "USA",
+        "Height": "175",
+        "Weight": "104lbs (47 kg)",
+        "Zodiac Sign": "5",
+        "Sexuality": "Straight",
+        "Religion": "13",
+        "Ethnicity": "6",
+        "Nationality": "91",
+        "Occupation": "1"
+    }
+}

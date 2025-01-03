@@ -1,0 +1,99 @@
+{
+    "relationships": [
+        {
+            "name": "Kim Jones",
+            "href": "https://www.whosdatedwho.com/dating/kim-jones",
+            "relationship_type": 4,
+            "start_date": "Oct 2011",
+            "end_date": "2019",
+            "length": "7 years",
+            "start_months_since_1900": 1341,
+            "end_months_since_1900": 1428,
+            "length_in_months": 84
+        },
+        {
+            "name": "Cesca Litton",
+            "href": "https://www.whosdatedwho.com/dating/cesca-litton",
+            "relationship_type": 2,
+            "start_date": "Mar 2010",
+            "end_date": "Oct 2010",
+            "length": "7 months",
+            "start_months_since_1900": 1322,
+            "end_months_since_1900": 1329,
+            "length_in_months": 7
+        },
+        {
+            "name": "Carmen Soo",
+            "href": "https://www.whosdatedwho.com/dating/carmen-soo",
+            "relationship_type": 3,
+            "start_date": "2008",
+            "end_date": "2008",
+            "length": "-",
+            "start_months_since_1900": 1296,
+            "end_months_since_1900": 1296,
+            "length_in_months": -1
+        },
+        {
+            "name": "Heart Evangelista",
+            "href": "https://www.whosdatedwho.com/dating/heart-evangelista",
+            "relationship_type": 2,
+            "start_date": "2006",
+            "end_date": "Apr 2008",
+            "length": "2 years",
+            "start_months_since_1900": 1272,
+            "end_months_since_1900": 1299,
+            "length_in_months": 24
+        },
+        {
+            "name": "Cindy Kurleto",
+            "href": "https://www.whosdatedwho.com/dating/cindy-kurleto",
+            "relationship_type": 2,
+            "start_date": "2004",
+            "end_date": "2006",
+            "length": "2 years",
+            "start_months_since_1900": 1248,
+            "end_months_since_1900": 1272,
+            "length_in_months": 24
+        },
+        {
+            "name": "Kristine Hermosa",
+            "href": "https://www.whosdatedwho.com/dating/kristine-hermosa",
+            "relationship_type": 2,
+            "start_date": "2000",
+            "end_date": "2004",
+            "length": "4 years",
+            "start_months_since_1900": 1200,
+            "end_months_since_1900": 1248,
+            "length_in_months": 48
+        },
+        {
+            "name": "Angelika Dela Cruz",
+            "href": "https://www.whosdatedwho.com/dating/angelika-dela-cruz",
+            "relationship_type": 2,
+            "start_date": "1999",
+            "end_date": "1999",
+            "length": "-",
+            "start_months_since_1900": 1188,
+            "end_months_since_1900": 1188,
+            "length_in_months": -1
+        }
+    ],
+    "details": {
+        "First Name": "Jericho",
+        "Middle Name": "Vibar",
+        "Last Name": "Rosales",
+        "Maiden Name": "NA",
+        "Full Name at Birth": "Jericho Vibar Rosales",
+        "Alternative Name": "Echo",
+        "Birthday": "1979",
+        "Birthplace": "Philippines",
+        "Height": "180",
+        "Weight": "NA",
+        "Zodiac Sign": "11",
+        "Sexuality": "Straight",
+        "Religion": "13",
+        "Ethnicity": "8",
+        "Nationality": "16",
+        "Occupation": "8"
+    }
+}

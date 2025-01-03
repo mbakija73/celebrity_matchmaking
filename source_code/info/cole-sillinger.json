@@ -1,0 +1,44 @@
+{
+    "relationships": [
+        {
+            "name": "Tate McRae",
+            "href": "https://www.whosdatedwho.com/dating/tate-mcrae",
+            "relationship_type": 2,
+            "start_date": "May 2022",
+            "end_date": "Feb 2023",
+            "length": "9 months",
+            "start_months_since_1900": 1468,
+            "end_months_since_1900": 1477,
+            "length_in_months": 9
+        },
+        {
+            "name": "Shaye Paulhus",
+            "href": "https://www.whosdatedwho.com/dating/shaye-paulhus",
+            "relationship_type": 2,
+            "start_date": "May 2019",
+            "end_date": "Aug 2020",
+            "length": "1 year",
+            "start_months_since_1900": 1432,
+            "end_months_since_1900": 1447,
+            "length_in_months": 12
+        }
+    ],
+    "details": {
+        "Full Name at Birth": "Cole Sillinger",
+        "First Name": "NA",
+        "Middle Name": "NA",
+        "Last Name": "NA",
+        "Maiden Name": "NA",
+        "Alternative Name": "NA",
+        "Birthday": "2003",
+        "Birthplace": "Columbus Ohio",
+        "Height": "183",
+        "Weight": "201lbs (91 kg)",
+        "Zodiac Sign": "3",
+        "Sexuality": "NA",
+        "Religion": "1",
+        "Ethnicity": "6",
+        "Nationality": "90",
+        "Occupation": "2"
+    }
+}

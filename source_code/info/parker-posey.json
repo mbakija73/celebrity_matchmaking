@@ -1,0 +1,99 @@
+{
+    "relationships": [
+        {
+            "name": "Keanu Reeves",
+            "href": "https://www.whosdatedwho.com/dating/keanu-reeves",
+            "relationship_type": 2,
+            "start_date": "Mar 2008",
+            "end_date": "Apr 2008",
+            "length": "1 month",
+            "start_months_since_1900": 1298,
+            "end_months_since_1900": 1299,
+            "length_in_months": 1
+        },
+        {
+            "name": "Craig Ferguson",
+            "href": "https://www.whosdatedwho.com/dating/craig-ferguson",
+            "relationship_type": 2,
+            "start_date": "2007",
+            "end_date": "2008",
+            "length": "1 year",
+            "start_months_since_1900": 1284,
+            "end_months_since_1900": 1296,
+            "length_in_months": 12
+        },
+        {
+            "name": "Ryan Adams",
+            "href": "https://www.whosdatedwho.com/dating/ryan-adams",
+            "relationship_type": 2,
+            "start_date": "Aug 2003",
+            "end_date": "Jan 2004",
+            "length": "5 months",
+            "start_months_since_1900": 1243,
+            "end_months_since_1900": 1248,
+            "length_in_months": 5
+        },
+        {
+            "name": "Chris Jaymes",
+            "href": "https://www.whosdatedwho.com/dating/chris-jaymes",
+            "relationship_type": 3,
+            "start_date": "2000",
+            "end_date": "2000",
+            "length": "-",
+            "start_months_since_1900": 1200,
+            "end_months_since_1900": 1200,
+            "length_in_months": -1
+        },
+        {
+            "name": "Stuart Townsend",
+            "href": "https://www.whosdatedwho.com/dating/stuart-townsend",
+            "relationship_type": 2,
+            "start_date": "Dec 1997",
+            "end_date": "Feb 1998",
+            "length": "2 months",
+            "start_months_since_1900": 1175,
+            "end_months_since_1900": 1177,
+            "length_in_months": 2
+        },
+        {
+            "name": "Thomas Beller",
+            "href": "https://www.whosdatedwho.com/dating/thomas-beller",
+            "relationship_type": 2,
+            "start_date": "",
+            "end_date": "",
+            "length": "-",
+            "start_months_since_1900": -1,
+            "end_months_since_1900": -1,
+            "length_in_months": -1
+        },
+        {
+            "name": "Zach Leary",
+            "href": "https://www.whosdatedwho.com/dating/zach-leary",
+            "relationship_type": 2,
+            "start_date": "",
+            "end_date": "",
+            "length": "-",
+            "start_months_since_1900": -1,
+            "end_months_since_1900": -1,
+            "length_in_months": -1
+        }
+    ],
+    "details": {
+        "First Name": "Parker",
+        "Middle Name": "Christian",
+        "Last Name": "NA",
+        "Maiden Name": "Posey",
+        "Full Name at Birth": "Parker Christian Posey",
+        "Alternative Name": "Missy, Queen of the Indies",
+        "Birthday": "1968",
+        "Birthplace": "USA",
+        "Height": "165",
+        "Weight": "110lbs (50 kg)",
+        "Zodiac Sign": "5",
+        "Sexuality": "Straight",
+        "Religion": "13",
+        "Ethnicity": "6",
+        "Nationality": "91",
+        "Occupation": "8"
+    }
+}

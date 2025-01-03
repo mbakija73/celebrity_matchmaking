@@ -1,0 +1,55 @@
+{
+    "relationships": [
+        {
+            "name": "Charlotte Austin",
+            "href": "https://www.whosdatedwho.com/dating/charlotte-austin",
+            "relationship_type": 2,
+            "start_date": "Feb 1955",
+            "end_date": "May 1955",
+            "length": "2 months",
+            "start_months_since_1900": 661,
+            "end_months_since_1900": 664,
+            "length_in_months": 2
+        },
+        {
+            "name": "Rosemarie Stack",
+            "href": "https://www.whosdatedwho.com/dating/rosemarie-stack",
+            "relationship_type": 2,
+            "start_date": "Apr 1952",
+            "end_date": "Apr 1952",
+            "length": "-",
+            "start_months_since_1900": 627,
+            "end_months_since_1900": 627,
+            "length_in_months": -1
+        },
+        {
+            "name": "Suzanne Dalbert",
+            "href": "https://www.whosdatedwho.com/dating/suzanne-dalbert",
+            "relationship_type": 2,
+            "start_date": "Apr 1952",
+            "end_date": "Apr 1952",
+            "length": "-",
+            "start_months_since_1900": 627,
+            "end_months_since_1900": 627,
+            "length_in_months": -1
+        }
+    ],
+    "details": {
+        "First Name": "Pete",
+        "Middle Name": "NA",
+        "Last Name": "Rugolo",
+        "Maiden Name": "NA",
+        "Full Name at Birth": "NA",
+        "Alternative Name": "NA",
+        "Birthday": "1915",
+        "Birthplace": "Sicily",
+        "Height": "NA",
+        "Weight": "NA",
+        "Zodiac Sign": "13",
+        "Sexuality": "NA",
+        "Religion": "1",
+        "Ethnicity": "1",
+        "Nationality": "139",
+        "Occupation": "1"
+    }
+}

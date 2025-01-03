@@ -1,0 +1,77 @@
+{
+    "relationships": [
+        {
+            "name": "Timothy Dalton",
+            "href": "https://www.whosdatedwho.com/dating/timothy-dalton",
+            "relationship_type": 2,
+            "start_date": "May 1971",
+            "end_date": "1986",
+            "length": "14 years",
+            "start_months_since_1900": 856,
+            "end_months_since_1900": 1032,
+            "length_in_months": 168
+        },
+        {
+            "name": "Franco Nero",
+            "href": "https://www.whosdatedwho.com/dating/franco-nero",
+            "relationship_type": 4,
+            "start_date": "Dec 1966",
+            "end_date": "present",
+            "length": "57 years",
+            "start_months_since_1900": 803,
+            "end_months_since_1900": -1,
+            "length_in_months": 684
+        },
+        {
+            "name": "George Hamilton",
+            "href": "https://www.whosdatedwho.com/dating/george-hamilton",
+            "relationship_type": 2,
+            "start_date": "1966",
+            "end_date": "1966",
+            "length": "-",
+            "start_months_since_1900": 792,
+            "end_months_since_1900": 792,
+            "length_in_months": -1
+        },
+        {
+            "name": "Tony Richardson",
+            "href": "https://www.whosdatedwho.com/dating/tony-richardson",
+            "relationship_type": 4,
+            "start_date": "Apr 1961",
+            "end_date": "Apr 1967",
+            "length": "6 years",
+            "start_months_since_1900": 735,
+            "end_months_since_1900": 807,
+            "length_in_months": 72
+        },
+        {
+            "name": "Warren Beatty",
+            "href": "https://www.whosdatedwho.com/dating/warren-beatty",
+            "relationship_type": 3,
+            "start_date": "",
+            "end_date": "",
+            "length": "-",
+            "start_months_since_1900": -1,
+            "end_months_since_1900": -1,
+            "length_in_months": -1
+        }
+    ],
+    "details": {
+        "First Name": "Vanessa",
+        "Middle Name": "NA",
+        "Last Name": "Redgrave",
+        "Maiden Name": "NA",
+        "Full Name at Birth": "Vanessa Redgrave",
+        "Alternative Name": "NA",
+        "Birthday": "1937",
+        "Birthplace": "UK",
+        "Height": "180",
+        "Weight": "NA",
+        "Zodiac Sign": "9",
+        "Sexuality": "Straight",
+        "Religion": "3",
+        "Ethnicity": "6",
+        "Nationality": "8",
+        "Occupation": "8"
+    }
+}

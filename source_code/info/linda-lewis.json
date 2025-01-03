@@ -1,0 +1,99 @@
+{
+    "relationships": [
+        {
+            "name": "Muhammad Ali",
+            "href": "https://www.whosdatedwho.com/dating/muhammad-ali",
+            "relationship_type": 3,
+            "start_date": "1979",
+            "end_date": "1979",
+            "length": "-",
+            "start_months_since_1900": 948,
+            "end_months_since_1900": 948,
+            "length_in_months": -1
+        },
+        {
+            "name": "Cat Stevens",
+            "href": "https://www.whosdatedwho.com/dating/cat-stevens",
+            "relationship_type": 2,
+            "start_date": "1970",
+            "end_date": "1977",
+            "length": "7 years",
+            "start_months_since_1900": 840,
+            "end_months_since_1900": 924,
+            "length_in_months": 84
+        },
+        {
+            "name": "Marc Bolan",
+            "href": "https://www.whosdatedwho.com/dating/marc-bolan",
+            "relationship_type": 2,
+            "start_date": "1970",
+            "end_date": "1970",
+            "length": "-",
+            "start_months_since_1900": 840,
+            "end_months_since_1900": 840,
+            "length_in_months": -1
+        },
+        {
+            "name": "Jimi Hendrix",
+            "href": "https://www.whosdatedwho.com/dating/jimi-hendrix",
+            "relationship_type": 3,
+            "start_date": "1968",
+            "end_date": "1968",
+            "length": "-",
+            "start_months_since_1900": 816,
+            "end_months_since_1900": 816,
+            "length_in_months": -1
+        },
+        {
+            "name": "Ian Samwell",
+            "href": "https://www.whosdatedwho.com/dating/ian-samwell",
+            "relationship_type": 2,
+            "start_date": "1967",
+            "end_date": "1967",
+            "length": "-",
+            "start_months_since_1900": 804,
+            "end_months_since_1900": 804,
+            "length_in_months": -1
+        },
+        {
+            "name": "Phil Lynott",
+            "href": "https://www.whosdatedwho.com/dating/phil-lynott",
+            "relationship_type": 3,
+            "start_date": "",
+            "end_date": "",
+            "length": "-",
+            "start_months_since_1900": -1,
+            "end_months_since_1900": -1,
+            "length_in_months": -1
+        },
+        {
+            "name": "Jim Cregan",
+            "href": "https://www.whosdatedwho.com/dating/jim-cregan",
+            "relationship_type": 4,
+            "start_date": "",
+            "end_date": "",
+            "length": "-",
+            "start_months_since_1900": -1,
+            "end_months_since_1900": -1,
+            "length_in_months": -1
+        }
+    ],
+    "details": {
+        "First Name": "Linda",
+        "Middle Name": "NA",
+        "Last Name": "Lewis",
+        "Maiden Name": "Fredericks",
+        "Full Name at Birth": "Linda Ann Fredericks",
+        "Alternative Name": "NA",
+        "Birthday": "1950",
+        "Birthplace": "UK",
+        "Height": "NA",
+        "Weight": "NA",
+        "Zodiac Sign": "10",
+        "Sexuality": "Straight",
+        "Religion": "1",
+        "Ethnicity": "8",
+        "Nationality": "8",
+        "Occupation": "1"
+    }
+}

@@ -1,0 +1,55 @@
+{
+    "relationships": [
+        {
+            "name": "Cat Deeley",
+            "href": "https://www.whosdatedwho.com/dating/cat-deeley",
+            "relationship_type": 4,
+            "start_date": "Nov 2011",
+            "end_date": "present",
+            "length": "12 years",
+            "start_months_since_1900": 1342,
+            "end_months_since_1900": -1,
+            "length_in_months": 144
+        },
+        {
+            "name": "Amanda Byram",
+            "href": "https://www.whosdatedwho.com/dating/amanda-byram",
+            "relationship_type": 2,
+            "start_date": "1999",
+            "end_date": "2003",
+            "length": "4 years",
+            "start_months_since_1900": 1188,
+            "end_months_since_1900": 1236,
+            "length_in_months": 48
+        },
+        {
+            "name": "Kathy Lloyd",
+            "href": "https://www.whosdatedwho.com/dating/kathy-lloyd",
+            "relationship_type": 3,
+            "start_date": "1997",
+            "end_date": "1997",
+            "length": "-",
+            "start_months_since_1900": 1164,
+            "end_months_since_1900": 1164,
+            "length_in_months": -1
+        }
+    ],
+    "details": {
+        "First Name": "Patrick",
+        "Middle Name": "NA",
+        "Last Name": "Kielty",
+        "Maiden Name": "NA",
+        "Full Name at Birth": "Patrick Kielty",
+        "Alternative Name": "NA",
+        "Birthday": "1971",
+        "Birthplace": "Northern Ireland",
+        "Height": "178",
+        "Weight": "NA",
+        "Zodiac Sign": "9",
+        "Sexuality": "Straight",
+        "Religion": "13",
+        "Ethnicity": "6",
+        "Nationality": "117",
+        "Occupation": "11"
+    }
+}

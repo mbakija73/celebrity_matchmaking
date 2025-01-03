@@ -1,0 +1,33 @@
+{
+    "relationships": [
+        {
+            "name": "Fred Waring",
+            "href": "https://www.whosdatedwho.com/dating/fred-waring",
+            "relationship_type": 4,
+            "start_date": "1933",
+            "end_date": "1954",
+            "length": "21 years",
+            "start_months_since_1900": 396,
+            "end_months_since_1900": 648,
+            "length_in_months": 252
+        }
+    ],
+    "details": {
+        "First Name": "Evalyn",
+        "Middle Name": "NA",
+        "Last Name": "Nair",
+        "Maiden Name": "NA",
+        "Full Name at Birth": "Evalyn Xavier Nair",
+        "Alternative Name": "NA",
+        "Birthday": "1909",
+        "Birthplace": "NA",
+        "Height": "NA",
+        "Weight": "NA",
+        "Zodiac Sign": "2",
+        "Sexuality": "NA",
+        "Religion": "1",
+        "Ethnicity": "1",
+        "Nationality": "91",
+        "Occupation": "14"
+    }
+}

@@ -1,0 +1,55 @@
+{
+    "relationships": [
+        {
+            "name": "Fernanda Flores",
+            "href": "https://www.whosdatedwho.com/dating/fernanda-flores-tv-personality",
+            "relationship_type": 2,
+            "start_date": "May 2020",
+            "end_date": "Jun 2020",
+            "length": "1 month",
+            "start_months_since_1900": 1444,
+            "end_months_since_1900": 1445,
+            "length_in_months": 1
+        },
+        {
+            "name": "Angela Amezcua",
+            "href": "https://www.whosdatedwho.com/dating/angela-amezcua",
+            "relationship_type": 2,
+            "start_date": "Sep 2018",
+            "end_date": "Apr 2019",
+            "length": "7 months",
+            "start_months_since_1900": 1424,
+            "end_months_since_1900": 1431,
+            "length_in_months": 7
+        },
+        {
+            "name": "Nicole Lopez-Alvar",
+            "href": "https://www.whosdatedwho.com/dating/nicole-lopez-alvar",
+            "relationship_type": 1,
+            "start_date": "",
+            "end_date": "",
+            "length": "-",
+            "start_months_since_1900": -1,
+            "end_months_since_1900": -1,
+            "length_in_months": -1
+        }
+    ],
+    "details": {
+        "First Name": "Clayton",
+        "Middle Name": "Lee",
+        "Last Name": "Harbor",
+        "Maiden Name": "NA",
+        "Full Name at Birth": "Clayton Lee Harbor",
+        "Alternative Name": "NA",
+        "Birthday": "1987",
+        "Birthplace": "USA",
+        "Height": "191",
+        "Weight": "252lbs (114 kg)",
+        "Zodiac Sign": "8",
+        "Sexuality": "Straight",
+        "Religion": "1",
+        "Ethnicity": "8",
+        "Nationality": "91",
+        "Occupation": "2"
+    }
+}

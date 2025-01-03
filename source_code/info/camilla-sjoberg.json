@@ -1,0 +1,44 @@
+{
+    "relationships": [
+        {
+            "name": "Filippo Inzaghi",
+            "href": "https://www.whosdatedwho.com/dating/filippo-inzaghi",
+            "relationship_type": 2,
+            "start_date": "Sep 2007",
+            "end_date": "Oct 2007",
+            "length": "1 month",
+            "start_months_since_1900": 1292,
+            "end_months_since_1900": 1293,
+            "length_in_months": 1
+        },
+        {
+            "name": "Mikael Kenta",
+            "href": "https://www.whosdatedwho.com/dating/mikael-kenta",
+            "relationship_type": 2,
+            "start_date": "2005",
+            "end_date": "2007",
+            "length": "2 years",
+            "start_months_since_1900": 1260,
+            "end_months_since_1900": 1284,
+            "length_in_months": 24
+        }
+    ],
+    "details": {
+        "First Name": "Camilla",
+        "Middle Name": "NA",
+        "Last Name": "Sjoberg",
+        "Maiden Name": "NA",
+        "Full Name at Birth": "NA",
+        "Alternative Name": "NA",
+        "Birthday": "1976",
+        "Birthplace": "Sweden",
+        "Height": "175",
+        "Weight": "NA",
+        "Zodiac Sign": "7",
+        "Sexuality": "Straight",
+        "Religion": "1",
+        "Ethnicity": "6",
+        "Nationality": "30",
+        "Occupation": "15"
+    }
+}

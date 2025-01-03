@@ -1,0 +1,55 @@
+{
+    "relationships": [
+        {
+            "name": "Tim McGraw",
+            "href": "https://www.whosdatedwho.com/dating/tim-mcgraw",
+            "relationship_type": 4,
+            "start_date": "May 1994",
+            "end_date": "present",
+            "length": "30 years",
+            "start_months_since_1900": 1132,
+            "end_months_since_1900": -1,
+            "length_in_months": 360
+        },
+        {
+            "name": "Scott Hendricks",
+            "href": "https://www.whosdatedwho.com/dating/scott-hendricks",
+            "relationship_type": 2,
+            "start_date": "1992",
+            "end_date": "Apr 1996",
+            "length": "4 years",
+            "start_months_since_1900": 1104,
+            "end_months_since_1900": 1155,
+            "length_in_months": 48
+        },
+        {
+            "name": "Daniel Hill (I)",
+            "href": "https://www.whosdatedwho.com/dating/daniel-hill-i",
+            "relationship_type": 4,
+            "start_date": "1987",
+            "end_date": "1994",
+            "length": "7 years",
+            "start_months_since_1900": 1044,
+            "end_months_since_1900": 1128,
+            "length_in_months": 84
+        }
+    ],
+    "details": {
+        "First Name": "Audrey",
+        "Middle Name": "Faith",
+        "Last Name": "McGraw",
+        "Maiden Name": "Perry",
+        "Full Name at Birth": "Audrey Faith Perry",
+        "Alternative Name": "Faith Hill, Faith McGraw, Audrey Faith Perry McGraw",
+        "Birthday": "1967",
+        "Birthplace": "USA",
+        "Height": "173",
+        "Weight": "128lbs (58 kg)",
+        "Zodiac Sign": "11",
+        "Sexuality": "Straight",
+        "Religion": "18",
+        "Ethnicity": "6",
+        "Nationality": "91",
+        "Occupation": "1"
+    }
+}

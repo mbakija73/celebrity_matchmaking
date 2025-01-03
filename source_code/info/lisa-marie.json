@@ -1,0 +1,77 @@
+{
+    "relationships": [
+        {
+            "name": "Greg Raposo",
+            "href": "https://www.whosdatedwho.com/dating/greg-raposo",
+            "relationship_type": 3,
+            "start_date": "2003",
+            "end_date": "2005",
+            "length": "2 years",
+            "start_months_since_1900": 1236,
+            "end_months_since_1900": 1260,
+            "length_in_months": 24
+        },
+        {
+            "name": "Jeff Goldblum",
+            "href": "https://www.whosdatedwho.com/dating/jeff-goldblum",
+            "relationship_type": 2,
+            "start_date": "2002",
+            "end_date": "2002",
+            "length": "-",
+            "start_months_since_1900": 1224,
+            "end_months_since_1900": 1224,
+            "length_in_months": -1
+        },
+        {
+            "name": "Richard Dean Anderson",
+            "href": "https://www.whosdatedwho.com/dating/richard-dean-anderson",
+            "relationship_type": 2,
+            "start_date": "1993",
+            "end_date": "1993",
+            "length": "-",
+            "start_months_since_1900": 1116,
+            "end_months_since_1900": 1116,
+            "length_in_months": -1
+        },
+        {
+            "name": "Tim Burton",
+            "href": "https://www.whosdatedwho.com/dating/tim-burton",
+            "relationship_type": 2,
+            "start_date": "Dec 1991",
+            "end_date": "Jul 2001",
+            "length": "9 years",
+            "start_months_since_1900": 1103,
+            "end_months_since_1900": 1218,
+            "length_in_months": 108
+        },
+        {
+            "name": "Rodney Harvey",
+            "href": "https://www.whosdatedwho.com/dating/rodney-harvey",
+            "relationship_type": 2,
+            "start_date": "1987",
+            "end_date": "1988",
+            "length": "1 year",
+            "start_months_since_1900": 1044,
+            "end_months_since_1900": 1056,
+            "length_in_months": 12
+        }
+    ],
+    "details": {
+        "First Name": "Lisa",
+        "Middle Name": "Marie",
+        "Last Name": "NA",
+        "Maiden Name": "Smith",
+        "Full Name at Birth": "Lisa Marie Smith",
+        "Alternative Name": "Lisa Marie Smith, Lisa Marie",
+        "Birthday": "1968",
+        "Birthplace": "New Jersey USA",
+        "Height": "168",
+        "Weight": "NA",
+        "Zodiac Sign": "6",
+        "Sexuality": "Straight",
+        "Religion": "1",
+        "Ethnicity": "6",
+        "Nationality": "91",
+        "Occupation": "8"
+    }
+}

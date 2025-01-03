@@ -1,0 +1,55 @@
+{
+    "relationships": [
+        {
+            "name": "Jessica Taylor",
+            "href": "https://www.whosdatedwho.com/dating/jessica-taylor",
+            "relationship_type": 4,
+            "start_date": "Nov 2005",
+            "end_date": "present",
+            "length": "18 years",
+            "start_months_since_1900": 1270,
+            "end_months_since_1900": -1,
+            "length_in_months": 216
+        },
+        {
+            "name": "Caprice Bourret",
+            "href": "https://www.whosdatedwho.com/dating/caprice-bourret",
+            "relationship_type": 2,
+            "start_date": "Sep 2005",
+            "end_date": "Oct 2005",
+            "length": "1 month",
+            "start_months_since_1900": 1268,
+            "end_months_since_1900": 1269,
+            "length_in_months": 1
+        },
+        {
+            "name": "Natalie Pinkham",
+            "href": "https://www.whosdatedwho.com/dating/natalie-pinkham",
+            "relationship_type": 2,
+            "start_date": "Aug 2005",
+            "end_date": "Nov 2005",
+            "length": "3 months",
+            "start_months_since_1900": 1267,
+            "end_months_since_1900": 1270,
+            "length_in_months": 3
+        }
+    ],
+    "details": {
+        "First Name": "Kevin",
+        "Middle Name": "Peter",
+        "Last Name": "Pietersen",
+        "Maiden Name": "NA",
+        "Full Name at Birth": "Kevin Peter Pietersen",
+        "Alternative Name": "Kp, Kev, Kapes, Kelves, FIGJAM (Fuck I'm Good, Just Ask Me), The Ego",
+        "Birthday": "1980",
+        "Birthplace": "South Africa",
+        "Height": "193",
+        "Weight": "NA",
+        "Zodiac Sign": "8",
+        "Sexuality": "Straight",
+        "Religion": "18",
+        "Ethnicity": "6",
+        "Nationality": "8",
+        "Occupation": "2"
+    }
+}

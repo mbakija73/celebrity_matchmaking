@@ -1,0 +1,143 @@
+{
+    "relationships": [
+        {
+            "name": "Heinz Berggruen",
+            "href": "https://www.whosdatedwho.com/dating/heinz-berggruen",
+            "relationship_type": 2,
+            "start_date": "Sep 1940",
+            "end_date": "Oct 1940",
+            "length": "1 month",
+            "start_months_since_1900": 488,
+            "end_months_since_1900": 489,
+            "length_in_months": 1
+        },
+        {
+            "name": "Lev Trotskiy",
+            "href": "https://www.whosdatedwho.com/dating/leon-trotsky",
+            "relationship_type": 2,
+            "start_date": "1937",
+            "end_date": "1937",
+            "length": "-",
+            "start_months_since_1900": 444,
+            "end_months_since_1900": 444,
+            "length_in_months": -1
+        },
+        {
+            "name": "Isamu Noguchi",
+            "href": "https://www.whosdatedwho.com/dating/isamu-noguchi",
+            "relationship_type": 2,
+            "start_date": "1935",
+            "end_date": "1936",
+            "length": "1 year",
+            "start_months_since_1900": 420,
+            "end_months_since_1900": 432,
+            "length_in_months": 12
+        },
+        {
+            "name": "Nicholas Muray",
+            "href": "https://www.whosdatedwho.com/dating/nicholas-muray-photographer",
+            "relationship_type": 2,
+            "start_date": "1931",
+            "end_date": "1941",
+            "length": "10 years",
+            "start_months_since_1900": 372,
+            "end_months_since_1900": 492,
+            "length_in_months": 120
+        },
+        {
+            "name": "Diego Rivera",
+            "href": "https://www.whosdatedwho.com/dating/diego-rivera",
+            "relationship_type": 4,
+            "start_date": "1929",
+            "end_date": "Jul 1954",
+            "length": "25 years",
+            "start_months_since_1900": 348,
+            "end_months_since_1900": 654,
+            "length_in_months": 300
+        },
+        {
+            "name": "Alejandro Gomez Arias",
+            "href": "https://www.whosdatedwho.com/dating/alejandro-gomez-arias",
+            "relationship_type": 2,
+            "start_date": "1922",
+            "end_date": "1926",
+            "length": "4 years",
+            "start_months_since_1900": 264,
+            "end_months_since_1900": 312,
+            "length_in_months": 48
+        },
+        {
+            "name": "Andr\u00e9 Breton",
+            "href": "https://www.whosdatedwho.com/dating/andre-breton",
+            "relationship_type": 2,
+            "start_date": "",
+            "end_date": "",
+            "length": "-",
+            "start_months_since_1900": -1,
+            "end_months_since_1900": -1,
+            "length_in_months": -1
+        },
+        {
+            "name": "Dolores Del R\u00edo",
+            "href": "https://www.whosdatedwho.com/dating/dolores-del-rio",
+            "relationship_type": 3,
+            "start_date": "",
+            "end_date": "",
+            "length": "-",
+            "start_months_since_1900": -1,
+            "end_months_since_1900": -1,
+            "length_in_months": -1
+        },
+        {
+            "name": "Josephine Baker",
+            "href": "https://www.whosdatedwho.com/dating/josephine-baker",
+            "relationship_type": 3,
+            "start_date": "",
+            "end_date": "",
+            "length": "-",
+            "start_months_since_1900": -1,
+            "end_months_since_1900": -1,
+            "length_in_months": -1
+        },
+        {
+            "name": "Georgia O'Keeffe",
+            "href": "https://www.whosdatedwho.com/dating/georgia-o-keeffe",
+            "relationship_type": 2,
+            "start_date": "",
+            "end_date": "",
+            "length": "-",
+            "start_months_since_1900": -1,
+            "end_months_since_1900": -1,
+            "length_in_months": -1
+        },
+        {
+            "name": "Tina Modotti",
+            "href": "https://www.whosdatedwho.com/dating/tina-modotti",
+            "relationship_type": 2,
+            "start_date": "",
+            "end_date": "",
+            "length": "-",
+            "start_months_since_1900": -1,
+            "end_months_since_1900": -1,
+            "length_in_months": -1
+        }
+    ],
+    "details": {
+        "First Name": "Frida",
+        "Middle Name": "NA",
+        "Last Name": "Kahlo",
+        "Maiden Name": "NA",
+        "Full Name at Birth": "Magdalena Carmen Frida Kahlo y Calder\u00f3n",
+        "Alternative Name": "Magdalena Carmen Frida Kahlo y Calder\u00f3n, Magdalena Carmen Frieda Kahlo y Calder\u00f3n, Frieda Kahlo, Frida Kahlo",
+        "Birthday": "1907",
+        "Birthplace": "Coyoacan (The Blue House)",
+        "Height": "160",
+        "Weight": "NA",
+        "Zodiac Sign": "8",
+        "Sexuality": "Bisexual",
+        "Religion": "22",
+        "Ethnicity": "8",
+        "Nationality": "7",
+        "Occupation": "13"
+    }
+}

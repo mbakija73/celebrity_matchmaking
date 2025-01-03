@@ -1,0 +1,55 @@
+{
+    "relationships": [
+        {
+            "name": "Gemma O'Neill",
+            "href": "https://www.whosdatedwho.com/dating/gemma-o-neill",
+            "relationship_type": 4,
+            "start_date": "1992",
+            "end_date": "",
+            "length": "-",
+            "start_months_since_1900": 1104,
+            "end_months_since_1900": -1,
+            "length_in_months": -1
+        },
+        {
+            "name": "Caroline Munro",
+            "href": "https://www.whosdatedwho.com/dating/caroline-munro",
+            "relationship_type": 2,
+            "start_date": "1984",
+            "end_date": "1985",
+            "length": "1 year",
+            "start_months_since_1900": 1008,
+            "end_months_since_1900": 1020,
+            "length_in_months": 12
+        },
+        {
+            "name": "Carole Caplin",
+            "href": "https://www.whosdatedwho.com/dating/carole-caplin",
+            "relationship_type": 2,
+            "start_date": "Apr 1981",
+            "end_date": "1981",
+            "length": "3 months",
+            "start_months_since_1900": 975,
+            "end_months_since_1900": 972,
+            "length_in_months": 3
+        }
+    ],
+    "details": {
+        "First Name": "Gary",
+        "Middle Name": "NA",
+        "Last Name": "Numan",
+        "Maiden Name": "NA",
+        "Full Name at Birth": "Gary Anthony James Webb",
+        "Alternative Name": "Gazza, Gary Anthony James Webb",
+        "Birthday": "1958",
+        "Birthplace": "England",
+        "Height": "173",
+        "Weight": "NA",
+        "Zodiac Sign": "1",
+        "Sexuality": "Straight",
+        "Religion": "1",
+        "Ethnicity": "6",
+        "Nationality": "8",
+        "Occupation": "1"
+    }
+}

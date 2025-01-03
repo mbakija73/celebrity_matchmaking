@@ -1,0 +1,44 @@
+{
+    "relationships": [
+        {
+            "name": "Robert Taylor",
+            "href": "https://www.whosdatedwho.com/dating/robert-taylor",
+            "relationship_type": 2,
+            "start_date": "Jul 1956",
+            "end_date": "Jul 1961",
+            "length": "5 years",
+            "start_months_since_1900": 678,
+            "end_months_since_1900": 738,
+            "length_in_months": 60
+        },
+        {
+            "name": "Clark Gable",
+            "href": "https://www.whosdatedwho.com/dating/clark-gable",
+            "relationship_type": 2,
+            "start_date": "1942",
+            "end_date": "1949",
+            "length": "7 years",
+            "start_months_since_1900": 504,
+            "end_months_since_1900": 588,
+            "length_in_months": 84
+        }
+    ],
+    "details": {
+        "First Name": "Virginia",
+        "Middle Name": "NA",
+        "Last Name": "Grey",
+        "Maiden Name": "NA",
+        "Full Name at Birth": "Virginia Grey",
+        "Alternative Name": "NA",
+        "Birthday": "1917",
+        "Birthplace": "California",
+        "Height": "165",
+        "Weight": "NA",
+        "Zodiac Sign": "7",
+        "Sexuality": "Straight",
+        "Religion": "20",
+        "Ethnicity": "6",
+        "Nationality": "91",
+        "Occupation": "8"
+    }
+}

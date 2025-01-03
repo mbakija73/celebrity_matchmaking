@@ -1,0 +1,66 @@
+{
+    "relationships": [
+        {
+            "name": "Nicole Dorsey",
+            "href": "https://www.whosdatedwho.com/dating/nicole-dorsey-film-director",
+            "relationship_type": 2,
+            "start_date": "2015",
+            "end_date": "present",
+            "length": "9 years",
+            "start_months_since_1900": 1380,
+            "end_months_since_1900": -1,
+            "length_in_months": 108
+        },
+        {
+            "name": "Jessica Tyler",
+            "href": "https://www.whosdatedwho.com/dating/jessica-tyler",
+            "relationship_type": 2,
+            "start_date": "2010",
+            "end_date": "2010",
+            "length": "-",
+            "start_months_since_1900": 1320,
+            "end_months_since_1900": 1320,
+            "length_in_months": -1
+        },
+        {
+            "name": "Aislinn Paul",
+            "href": "https://www.whosdatedwho.com/dating/aislinn-paul",
+            "relationship_type": 3,
+            "start_date": "2010",
+            "end_date": "2010",
+            "length": "-",
+            "start_months_since_1900": 1320,
+            "end_months_since_1900": 1320,
+            "length_in_months": -1
+        },
+        {
+            "name": "Sammi Sanchez",
+            "href": "https://www.whosdatedwho.com/dating/sammi-sanchez",
+            "relationship_type": 2,
+            "start_date": "",
+            "end_date": "",
+            "length": "-",
+            "start_months_since_1900": -1,
+            "end_months_since_1900": -1,
+            "length_in_months": -1
+        }
+    ],
+    "details": {
+        "First Name": "Luke",
+        "Middle Name": "Barry",
+        "Last Name": "Bilyk",
+        "Maiden Name": "NA",
+        "Full Name at Birth": "Luke Barry Bilyk",
+        "Alternative Name": "NA",
+        "Birthday": "1994",
+        "Birthplace": "Canada",
+        "Height": "173",
+        "Weight": "NA",
+        "Zodiac Sign": "11",
+        "Sexuality": "Straight",
+        "Religion": "18",
+        "Ethnicity": "6",
+        "Nationality": "90",
+        "Occupation": "8"
+    }
+}

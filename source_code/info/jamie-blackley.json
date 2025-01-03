@@ -1,0 +1,44 @@
+{
+    "relationships": [
+        {
+            "name": "Hermione Corfield",
+            "href": "https://www.whosdatedwho.com/dating/hermione-corfield",
+            "relationship_type": 2,
+            "start_date": "2016",
+            "end_date": "present",
+            "length": "8 years",
+            "start_months_since_1900": 1392,
+            "end_months_since_1900": -1,
+            "length_in_months": 96
+        },
+        {
+            "name": "Amy Wren",
+            "href": "https://www.whosdatedwho.com/dating/amy-wren",
+            "relationship_type": 2,
+            "start_date": "2009",
+            "end_date": "2011",
+            "length": "2 years",
+            "start_months_since_1900": 1308,
+            "end_months_since_1900": 1332,
+            "length_in_months": 24
+        }
+    ],
+    "details": {
+        "First Name": "Jamie",
+        "Middle Name": "NA",
+        "Last Name": "Blackley",
+        "Maiden Name": "NA",
+        "Full Name at Birth": "Jamie Alexander Blackley",
+        "Alternative Name": "NA",
+        "Birthday": "1991",
+        "Birthplace": "UK",
+        "Height": "183",
+        "Weight": "NA",
+        "Zodiac Sign": "8",
+        "Sexuality": "NA",
+        "Religion": "1",
+        "Ethnicity": "6",
+        "Nationality": "8",
+        "Occupation": "8"
+    }
+}

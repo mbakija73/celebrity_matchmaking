@@ -1,0 +1,99 @@
+{
+    "relationships": [
+        {
+            "name": "Katharine McPhee",
+            "href": "https://www.whosdatedwho.com/dating/katharine-mcphee",
+            "relationship_type": 4,
+            "start_date": "May 2017",
+            "end_date": "present",
+            "length": "7 years",
+            "start_months_since_1900": 1408,
+            "end_months_since_1900": -1,
+            "length_in_months": 84
+        },
+        {
+            "name": "Christie Brinkley",
+            "href": "https://www.whosdatedwho.com/dating/christie-brinkley",
+            "relationship_type": 2,
+            "start_date": "Dec 2016",
+            "end_date": "Jan 2017",
+            "length": "1 month",
+            "start_months_since_1900": 1403,
+            "end_months_since_1900": 1404,
+            "length_in_months": 1
+        },
+        {
+            "name": "Selma Blair",
+            "href": "https://www.whosdatedwho.com/dating/selma-blair",
+            "relationship_type": 3,
+            "start_date": "Mar 2016",
+            "end_date": "Mar 2016",
+            "length": "-",
+            "start_months_since_1900": 1394,
+            "end_months_since_1900": 1394,
+            "length_in_months": -1
+        },
+        {
+            "name": "Yolanda Hadid",
+            "href": "https://www.whosdatedwho.com/dating/yolanda-foster",
+            "relationship_type": 4,
+            "start_date": "2006",
+            "end_date": "Dec 2015",
+            "length": "9 years",
+            "start_months_since_1900": 1272,
+            "end_months_since_1900": 1391,
+            "length_in_months": 108
+        },
+        {
+            "name": "Linda Thompson",
+            "href": "https://www.whosdatedwho.com/dating/linda-thompson",
+            "relationship_type": 4,
+            "start_date": "1990",
+            "end_date": "Jul 2005",
+            "length": "15 years",
+            "start_months_since_1900": 1080,
+            "end_months_since_1900": 1266,
+            "length_in_months": 180
+        },
+        {
+            "name": "Rebecca Dyer",
+            "href": "https://www.whosdatedwho.com/dating/rebecca-dyer",
+            "relationship_type": 4,
+            "start_date": "1981",
+            "end_date": "1986",
+            "length": "5 years",
+            "start_months_since_1900": 972,
+            "end_months_since_1900": 1032,
+            "length_in_months": 60
+        },
+        {
+            "name": "B.J. Cook",
+            "href": "https://www.whosdatedwho.com/dating/b-j-cook",
+            "relationship_type": 4,
+            "start_date": "1971",
+            "end_date": "Jun 1981",
+            "length": "10 years",
+            "start_months_since_1900": 852,
+            "end_months_since_1900": 977,
+            "length_in_months": 120
+        }
+    ],
+    "details": {
+        "First Name": "David",
+        "Middle Name": "Walter",
+        "Last Name": "Foster",
+        "Maiden Name": "NA",
+        "Full Name at Birth": "David Walter Foster",
+        "Alternative Name": "David Walter Foster, David Foster",
+        "Birthday": "1949",
+        "Birthplace": "Canada",
+        "Height": "180",
+        "Weight": "NA",
+        "Zodiac Sign": "5",
+        "Sexuality": "Straight",
+        "Religion": "1",
+        "Ethnicity": "6",
+        "Nationality": "90",
+        "Occupation": "1"
+    }
+}

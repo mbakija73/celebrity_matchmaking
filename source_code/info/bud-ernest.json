@@ -1,0 +1,66 @@
+{
+    "relationships": [
+        {
+            "name": "Betty Furness",
+            "href": "https://www.whosdatedwho.com/dating/betty-furness",
+            "relationship_type": 4,
+            "start_date": "Nov 1944",
+            "end_date": "11th Apr 1950",
+            "length": "5 years",
+            "start_months_since_1900": 538,
+            "end_months_since_1900": 603,
+            "length_in_months": 60
+        },
+        {
+            "name": "Gwynne Pickford",
+            "href": "https://www.whosdatedwho.com/dating/gwynne-pickford",
+            "relationship_type": 4,
+            "start_date": "1938",
+            "end_date": "1938",
+            "length": "-",
+            "start_months_since_1900": 456,
+            "end_months_since_1900": 456,
+            "length_in_months": -1
+        },
+        {
+            "name": "Lyda Roberti",
+            "href": "https://www.whosdatedwho.com/dating/lyda-roberti",
+            "relationship_type": 4,
+            "start_date": "1934",
+            "end_date": "Mar 1938",
+            "length": "4 years",
+            "start_months_since_1900": 408,
+            "end_months_since_1900": 458,
+            "length_in_months": 48
+        },
+        {
+            "name": "Althea Henley",
+            "href": "https://www.whosdatedwho.com/dating/althea-henley",
+            "relationship_type": 4,
+            "start_date": "1933",
+            "end_date": "1935",
+            "length": "2 years",
+            "start_months_since_1900": 396,
+            "end_months_since_1900": 420,
+            "length_in_months": 24
+        }
+    ],
+    "details": {
+        "First Name": "Hugh",
+        "Middle Name": "Bud",
+        "Last Name": "Ernst",
+        "Maiden Name": "NA",
+        "Full Name at Birth": "Hugh B. Ernst",
+        "Alternative Name": "NA",
+        "Birthday": "NA",
+        "Birthplace": "NA",
+        "Height": "NA",
+        "Weight": "NA",
+        "Zodiac Sign": "2",
+        "Sexuality": "Straight",
+        "Religion": "1",
+        "Ethnicity": "1",
+        "Nationality": "65",
+        "Occupation": "19"
+    }
+}

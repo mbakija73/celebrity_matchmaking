@@ -1,0 +1,88 @@
+{
+    "relationships": [
+        {
+            "name": "Charles Drury (I)",
+            "href": "https://www.whosdatedwho.com/dating/charles-drury-i",
+            "relationship_type": 2,
+            "start_date": "2020",
+            "end_date": "present",
+            "length": "4 years",
+            "start_months_since_1900": 1440,
+            "end_months_since_1900": -1,
+            "length_in_months": 48
+        },
+        {
+            "name": "Jake McLean",
+            "href": "https://www.whosdatedwho.com/dating/jake-mclean",
+            "relationship_type": 2,
+            "start_date": "Dec 2012",
+            "end_date": "Apr 2016",
+            "length": "3 years",
+            "start_months_since_1900": 1355,
+            "end_months_since_1900": 1395,
+            "length_in_months": 36
+        },
+        {
+            "name": "Tom Pearce",
+            "href": "https://www.whosdatedwho.com/dating/tom-pearce",
+            "relationship_type": 3,
+            "start_date": "Jul 2012",
+            "end_date": "Jul 2012",
+            "length": "-",
+            "start_months_since_1900": 1350,
+            "end_months_since_1900": 1350,
+            "length_in_months": -1
+        },
+        {
+            "name": "Mark Wright",
+            "href": "https://www.whosdatedwho.com/dating/mark-wright",
+            "relationship_type": 2,
+            "start_date": "2001",
+            "end_date": "2011",
+            "length": "10 years",
+            "start_months_since_1900": 1212,
+            "end_months_since_1900": 1332,
+            "length_in_months": 120
+        },
+        {
+            "name": "Joey Morrison (UK)",
+            "href": "https://www.whosdatedwho.com/dating/joey-morrison-uk",
+            "relationship_type": 1,
+            "start_date": "",
+            "end_date": "",
+            "length": "-",
+            "start_months_since_1900": -1,
+            "end_months_since_1900": -1,
+            "length_in_months": -1
+        },
+        {
+            "name": "Ricci Guarnaccio",
+            "href": "https://www.whosdatedwho.com/dating/ricci-guarnaccio",
+            "relationship_type": 1,
+            "start_date": "",
+            "end_date": "",
+            "length": "-",
+            "start_months_since_1900": -1,
+            "end_months_since_1900": -1,
+            "length_in_months": -1
+        }
+    ],
+    "details": {
+        "First Name": "Lauren",
+        "Middle Name": "Rose",
+        "Last Name": "NA",
+        "Maiden Name": "Doodger",
+        "Full Name at Birth": "Lauren Rose Doodger",
+        "Alternative Name": "NA",
+        "Birthday": "1986",
+        "Birthplace": "England",
+        "Height": "168",
+        "Weight": "170lbs (77 kg)",
+        "Zodiac Sign": "11",
+        "Sexuality": "Straight",
+        "Religion": "1",
+        "Ethnicity": "6",
+        "Nationality": "8",
+        "Occupation": "11"
+    }
+}

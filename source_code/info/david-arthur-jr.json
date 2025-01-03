@@ -1,0 +1,27 @@
+{
+    "relationships": [
+        {
+            "name": "Gabriella Cilmi",
+            "href": "https://www.whosdatedwho.com/dating/gabriella-cilmi",
+            "relationship_type": 2,
+            "start_date": "2014",
+            "end_date": "2016",
+            "length": "2 years",
+            "start_months_since_1900": 1368,
+            "end_months_since_1900": 1392,
+            "length_in_months": 24
+        },
+        {
+            "name": "Katia Ivanova",
+            "href": "https://www.whosdatedwho.com/dating/ekaterina-ivanova",
+            "relationship_type": 2,
+            "start_date": "2012",
+            "end_date": "2012",
+            "length": "-",
+            "start_months_since_1900": 1344,
+            "end_months_since_1900": 1344,
+            "length_in_months": -1
+        }
+    ],
+    "details": {}
+}

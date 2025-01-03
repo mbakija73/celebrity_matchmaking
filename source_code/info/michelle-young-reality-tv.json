@@ -1,0 +1,66 @@
+{
+    "relationships": [
+        {
+            "name": "Jack Leius",
+            "href": "https://www.whosdatedwho.com/dating/jack-leius",
+            "relationship_type": 2,
+            "start_date": "2023",
+            "end_date": "present",
+            "length": "1 year",
+            "start_months_since_1900": 1476,
+            "end_months_since_1900": -1,
+            "length_in_months": 12
+        },
+        {
+            "name": "Clayton Echard",
+            "href": "https://www.whosdatedwho.com/dating/clayton-echard",
+            "relationship_type": 1,
+            "start_date": "",
+            "end_date": "",
+            "length": "-",
+            "start_months_since_1900": -1,
+            "end_months_since_1900": -1,
+            "length_in_months": -1
+        },
+        {
+            "name": "Nayte Olukoya",
+            "href": "https://www.whosdatedwho.com/dating/nayte-olukoya",
+            "relationship_type": 2,
+            "start_date": "",
+            "end_date": "Jun 2022",
+            "length": "-",
+            "start_months_since_1900": -1,
+            "end_months_since_1900": 1469,
+            "length_in_months": -1
+        },
+        {
+            "name": "Matt James",
+            "href": "https://www.whosdatedwho.com/dating/matt-james-102526980",
+            "relationship_type": 1,
+            "start_date": "",
+            "end_date": "",
+            "length": "-",
+            "start_months_since_1900": -1,
+            "end_months_since_1900": -1,
+            "length_in_months": -1
+        }
+    ],
+    "details": {
+        "First Name": "Michelle",
+        "Middle Name": "Anne",
+        "Last Name": "Young",
+        "Maiden Name": "NA",
+        "Full Name at Birth": "Michelle Anne Young",
+        "Alternative Name": "Michelle, Michelle Young, Michelle Anne Young",
+        "Birthday": "1993",
+        "Birthplace": "USA",
+        "Height": "175",
+        "Weight": "138lbs (63 kg)",
+        "Zodiac Sign": "4",
+        "Sexuality": "Straight",
+        "Religion": "18",
+        "Ethnicity": "2",
+        "Nationality": "91",
+        "Occupation": "11"
+    }
+}

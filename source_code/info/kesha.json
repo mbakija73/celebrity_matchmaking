@@ -1,0 +1,88 @@
+{
+    "relationships": [
+        {
+            "name": "Brad Ashenfelter",
+            "href": "https://www.whosdatedwho.com/dating/brad-ashenfelter",
+            "relationship_type": 2,
+            "start_date": "2014",
+            "end_date": "2021",
+            "length": "7 years",
+            "start_months_since_1900": 1368,
+            "end_months_since_1900": 1452,
+            "length_in_months": 84
+        },
+        {
+            "name": "T-Pain",
+            "href": "https://www.whosdatedwho.com/dating/t-pain-rapper",
+            "relationship_type": 2,
+            "start_date": "May 2011",
+            "end_date": "Aug 2011",
+            "length": "3 months",
+            "start_months_since_1900": 1336,
+            "end_months_since_1900": 1339,
+            "length_in_months": 3
+        },
+        {
+            "name": "Alex Carapetis",
+            "href": "https://www.whosdatedwho.com/dating/alex-carapetis",
+            "relationship_type": 2,
+            "start_date": "Aug 2010",
+            "end_date": "Nov 2010",
+            "length": "3 months",
+            "start_months_since_1900": 1327,
+            "end_months_since_1900": 1330,
+            "length_in_months": 3
+        },
+        {
+            "name": "Adam Lambert",
+            "href": "https://www.whosdatedwho.com/dating/adam-lambert",
+            "relationship_type": 3,
+            "start_date": "2009",
+            "end_date": "2010",
+            "length": "1 year",
+            "start_months_since_1900": 1308,
+            "end_months_since_1900": 1320,
+            "length_in_months": 12
+        },
+        {
+            "name": "2 Chainz",
+            "href": "https://www.whosdatedwho.com/dating/2-chainz",
+            "relationship_type": 1,
+            "start_date": "",
+            "end_date": "",
+            "length": "-",
+            "start_months_since_1900": -1,
+            "end_months_since_1900": -1,
+            "length_in_months": -1
+        },
+        {
+            "name": "Michael Gilvary",
+            "href": "https://www.whosdatedwho.com/dating/michael-gilvary",
+            "relationship_type": 2,
+            "start_date": "",
+            "end_date": "present",
+            "length": "-",
+            "start_months_since_1900": -1,
+            "end_months_since_1900": -1,
+            "length_in_months": -1
+        }
+    ],
+    "details": {
+        "First Name": "Kesha",
+        "Middle Name": "Rose",
+        "Last Name": "Sebert",
+        "Maiden Name": "NA",
+        "Full Name at Birth": "Kesha Rose Sebert",
+        "Alternative Name": "Ke$ha, Kesha Rose Sebert, Kesha",
+        "Birthday": "1987",
+        "Birthplace": "California USA",
+        "Height": "175",
+        "Weight": "NA",
+        "Zodiac Sign": "1",
+        "Sexuality": "Bisexual",
+        "Religion": "18",
+        "Ethnicity": "6",
+        "Nationality": "91",
+        "Occupation": "1"
+    }
+}

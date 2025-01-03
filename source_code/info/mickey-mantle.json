@@ -1,0 +1,66 @@
+{
+    "relationships": [
+        {
+            "name": "Doris Day",
+            "href": "https://www.whosdatedwho.com/dating/doris-day",
+            "relationship_type": 2,
+            "start_date": "1961",
+            "end_date": "1961",
+            "length": "-",
+            "start_months_since_1900": 732,
+            "end_months_since_1900": 732,
+            "length_in_months": -1
+        },
+        {
+            "name": "Holly Brooke",
+            "href": "https://www.whosdatedwho.com/dating/holly-brooke",
+            "relationship_type": 2,
+            "start_date": "1951",
+            "end_date": "1951",
+            "length": "-",
+            "start_months_since_1900": 612,
+            "end_months_since_1900": 612,
+            "length_in_months": -1
+        },
+        {
+            "name": "Merlyn Mantle",
+            "href": "https://www.whosdatedwho.com/dating/merlyn-mantle",
+            "relationship_type": 4,
+            "start_date": "1950",
+            "end_date": "13th Aug 1995",
+            "length": "45 years",
+            "start_months_since_1900": 600,
+            "end_months_since_1900": 1147,
+            "length_in_months": 540
+        },
+        {
+            "name": "Angie Dickinson",
+            "href": "https://www.whosdatedwho.com/dating/angie-dickinson",
+            "relationship_type": 3,
+            "start_date": "",
+            "end_date": "",
+            "length": "-",
+            "start_months_since_1900": -1,
+            "end_months_since_1900": -1,
+            "length_in_months": -1
+        }
+    ],
+    "details": {
+        "First Name": "Mickey",
+        "Middle Name": "Charles",
+        "Last Name": "Mantle",
+        "Maiden Name": "NA",
+        "Full Name at Birth": "Mickey Charles Mantle",
+        "Alternative Name": "The Mick, The Commerce Comet, Muscles",
+        "Birthday": "1931",
+        "Birthplace": "United States",
+        "Height": "182",
+        "Weight": "195lbs (88 kg)",
+        "Zodiac Sign": "10",
+        "Sexuality": "Straight",
+        "Religion": "1",
+        "Ethnicity": "6",
+        "Nationality": "91",
+        "Occupation": "2"
+    }
+}

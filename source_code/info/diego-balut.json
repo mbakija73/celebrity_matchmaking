@@ -1,0 +1,44 @@
+{
+    "relationships": [
+        {
+            "name": "Dolores Manso",
+            "href": "https://www.whosdatedwho.com/dating/dolores-manso",
+            "relationship_type": 4,
+            "start_date": "2010",
+            "end_date": "",
+            "length": "-",
+            "start_months_since_1900": 1320,
+            "end_months_since_1900": -1,
+            "length_in_months": -1
+        },
+        {
+            "name": "Liz Solari",
+            "href": "https://www.whosdatedwho.com/dating/liz-solari",
+            "relationship_type": 2,
+            "start_date": "2006",
+            "end_date": "2009",
+            "length": "3 years",
+            "start_months_since_1900": 1272,
+            "end_months_since_1900": 1308,
+            "length_in_months": 36
+        }
+    ],
+    "details": {
+        "First Name": "Diego",
+        "Middle Name": "NA",
+        "Last Name": "Balut",
+        "Maiden Name": "NA",
+        "Full Name at Birth": "NA",
+        "Alternative Name": "NA",
+        "Birthday": "1979",
+        "Birthplace": "Buenos Aires",
+        "Height": "185",
+        "Weight": "NA",
+        "Zodiac Sign": "2",
+        "Sexuality": "Straight",
+        "Religion": "1",
+        "Ethnicity": "6",
+        "Nationality": "28",
+        "Occupation": "15"
+    }
+}

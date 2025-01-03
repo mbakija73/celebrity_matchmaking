@@ -1,0 +1,44 @@
+{
+    "relationships": [
+        {
+            "name": "Jon Peters",
+            "href": "https://www.whosdatedwho.com/dating/jon-peters",
+            "relationship_type": 3,
+            "start_date": "1973",
+            "end_date": "1973",
+            "length": "-",
+            "start_months_since_1900": 876,
+            "end_months_since_1900": 876,
+            "length_in_months": -1
+        },
+        {
+            "name": "James A. Benton",
+            "href": "https://www.whosdatedwho.com/dating/james-a-benton",
+            "relationship_type": 4,
+            "start_date": "1966",
+            "end_date": "",
+            "length": "-",
+            "start_months_since_1900": 792,
+            "end_months_since_1900": -1,
+            "length_in_months": -1
+        }
+    ],
+    "details": {
+        "First Name": "Susanne",
+        "Middle Name": "NA",
+        "Last Name": "Benton",
+        "Maiden Name": "Hildur",
+        "Full Name at Birth": "Susanne Hildur",
+        "Alternative Name": "Susanne Benton, Susanne Hildur",
+        "Birthday": "1948",
+        "Birthplace": "Canada",
+        "Height": "NA",
+        "Weight": "NA",
+        "Zodiac Sign": "9",
+        "Sexuality": "NA",
+        "Religion": "1",
+        "Ethnicity": "6",
+        "Nationality": "91",
+        "Occupation": "8"
+    }
+}

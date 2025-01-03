@@ -1,0 +1,99 @@
+{
+    "relationships": [
+        {
+            "name": "Peter Fonda",
+            "href": "https://www.whosdatedwho.com/dating/peter-fonda",
+            "relationship_type": 2,
+            "start_date": "1989",
+            "end_date": "1989",
+            "length": "-",
+            "start_months_since_1900": 1068,
+            "end_months_since_1900": 1068,
+            "length_in_months": -1
+        },
+        {
+            "name": "Jack Nicholson",
+            "href": "https://www.whosdatedwho.com/dating/jack-nicholson",
+            "relationship_type": 3,
+            "start_date": "1972",
+            "end_date": "1972",
+            "length": "-",
+            "start_months_since_1900": 864,
+            "end_months_since_1900": 864,
+            "length_in_months": -1
+        },
+        {
+            "name": "Franco Rubartelli",
+            "href": "https://www.whosdatedwho.com/dating/franco-rubartelli",
+            "relationship_type": 2,
+            "start_date": "1965",
+            "end_date": "1971",
+            "length": "6 years",
+            "start_months_since_1900": 780,
+            "end_months_since_1900": 852,
+            "length_in_months": 72
+        },
+        {
+            "name": "Warren Beatty",
+            "href": "https://www.whosdatedwho.com/dating/warren-beatty",
+            "relationship_type": 3,
+            "start_date": "",
+            "end_date": "",
+            "length": "-",
+            "start_months_since_1900": -1,
+            "end_months_since_1900": -1,
+            "length_in_months": -1
+        },
+        {
+            "name": "Al Pacino",
+            "href": "https://www.whosdatedwho.com/dating/al-pacino",
+            "relationship_type": 3,
+            "start_date": "",
+            "end_date": "",
+            "length": "-",
+            "start_months_since_1900": -1,
+            "end_months_since_1900": -1,
+            "length_in_months": -1
+        },
+        {
+            "name": "Dustin Hoffman",
+            "href": "https://www.whosdatedwho.com/dating/dustin-hoffman",
+            "relationship_type": 2,
+            "start_date": "",
+            "end_date": "",
+            "length": "-",
+            "start_months_since_1900": -1,
+            "end_months_since_1900": -1,
+            "length_in_months": -1
+        },
+        {
+            "name": "Gigi Rizzi",
+            "href": "https://www.whosdatedwho.com/dating/gigi-rizzi",
+            "relationship_type": 2,
+            "start_date": "",
+            "end_date": "",
+            "length": "-",
+            "start_months_since_1900": -1,
+            "end_months_since_1900": -1,
+            "length_in_months": -1
+        }
+    ],
+    "details": {
+        "First Name": "Veruschka",
+        "Middle Name": "Von",
+        "Last Name": "Lehndorff",
+        "Maiden Name": "NA",
+        "Full Name at Birth": "Vera Gottliebe Anna Gr\u00e4fin von Lehndorff-Steinort",
+        "Alternative Name": "Vera Lehndorff, Veruschka, Verushka, Vera Von Lehndorff, Countess Vera Gottliebe Anna von Lehndorff, Vera Gottliebe Anna von Lehndorff, Vera Anna Gottliebe Gr\u00e4fin von Lehndorff, Vera Gottliebe Anna Gr\u00e4fin von Lehndorff-Steinort",
+        "Birthday": "1939",
+        "Birthplace": "East Prussia",
+        "Height": "183",
+        "Weight": "132lbs (60 kg)",
+        "Zodiac Sign": "3",
+        "Sexuality": "Straight",
+        "Religion": "1",
+        "Ethnicity": "6",
+        "Nationality": "55",
+        "Occupation": "15"
+    }
+}

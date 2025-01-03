@@ -1,0 +1,44 @@
+{
+    "relationships": [
+        {
+            "name": "Ralph Fiennes",
+            "href": "https://www.whosdatedwho.com/dating/ralph-fiennes",
+            "relationship_type": 2,
+            "start_date": "Feb 2023",
+            "end_date": "",
+            "length": "-",
+            "start_months_since_1900": 1477,
+            "end_months_since_1900": -1,
+            "length_in_months": -1
+        },
+        {
+            "name": "James Lindsay",
+            "href": "https://www.whosdatedwho.com/dating/james-lindsay",
+            "relationship_type": 2,
+            "start_date": "2014",
+            "end_date": "Jan 2023",
+            "length": "9 years",
+            "start_months_since_1900": 1368,
+            "end_months_since_1900": 1476,
+            "length_in_months": 108
+        }
+    ],
+    "details": {
+        "First Name": "Amelia",
+        "Middle Name": "NA",
+        "Last Name": "Richards",
+        "Maiden Name": "NA",
+        "Full Name at Birth": "Amelia Kate Richards",
+        "Alternative Name": "Amelia Richards",
+        "Birthday": "1970",
+        "Birthplace": "England",
+        "Height": "NA",
+        "Weight": "NA",
+        "Zodiac Sign": "2",
+        "Sexuality": "NA",
+        "Religion": "1",
+        "Ethnicity": "6",
+        "Nationality": "8",
+        "Occupation": "11"
+    }
+}

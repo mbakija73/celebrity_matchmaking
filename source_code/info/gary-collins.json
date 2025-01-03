@@ -1,0 +1,44 @@
+{
+    "relationships": [
+        {
+            "name": "Mary Ann Mobley",
+            "href": "https://www.whosdatedwho.com/dating/mary-ann-mobley",
+            "relationship_type": 4,
+            "start_date": "Nov 1966",
+            "end_date": "Oct 2012",
+            "length": "45 years",
+            "start_months_since_1900": 802,
+            "end_months_since_1900": 1353,
+            "length_in_months": 540
+        },
+        {
+            "name": "Susan Lachman",
+            "href": "https://www.whosdatedwho.com/dating/susan-lachman",
+            "relationship_type": 4,
+            "start_date": "Oct 1964",
+            "end_date": "Aug 1967",
+            "length": "2 years",
+            "start_months_since_1900": 777,
+            "end_months_since_1900": 811,
+            "length_in_months": 24
+        }
+    ],
+    "details": {
+        "First Name": "Gary",
+        "Middle Name": "Ennis",
+        "Last Name": "Collins",
+        "Maiden Name": "NA",
+        "Full Name at Birth": "Gary Ennis Collins",
+        "Alternative Name": "NA",
+        "Birthday": "1938",
+        "Birthplace": "USA",
+        "Height": "185",
+        "Weight": "178lbs (81 kg)",
+        "Zodiac Sign": "3",
+        "Sexuality": "Straight",
+        "Religion": "1",
+        "Ethnicity": "6",
+        "Nationality": "91",
+        "Occupation": "8"
+    }
+}

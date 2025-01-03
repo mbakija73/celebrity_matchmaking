@@ -1,0 +1,44 @@
+{
+    "relationships": [
+        {
+            "name": "Ben Chilwell",
+            "href": "https://www.whosdatedwho.com/dating/ben-chilwell",
+            "relationship_type": 2,
+            "start_date": "Jun 2022",
+            "end_date": "Sep 2022",
+            "length": "3 months",
+            "start_months_since_1900": 1469,
+            "end_months_since_1900": 1472,
+            "length_in_months": 3
+        },
+        {
+            "name": "Scott Disick",
+            "href": "https://www.whosdatedwho.com/dating/scott-disick",
+            "relationship_type": 3,
+            "start_date": "May 2022",
+            "end_date": "Jun 2022",
+            "length": "1 month",
+            "start_months_since_1900": 1468,
+            "end_months_since_1900": 1469,
+            "length_in_months": 1
+        }
+    ],
+    "details": {
+        "First Name": "Holly",
+        "Middle Name": "NA",
+        "Last Name": "Scarfone",
+        "Maiden Name": "NA",
+        "Full Name at Birth": "NA",
+        "Alternative Name": "NA",
+        "Birthday": "1998",
+        "Birthplace": "Canada",
+        "Height": "170",
+        "Weight": "NA",
+        "Zodiac Sign": "6",
+        "Sexuality": "Straight",
+        "Religion": "1",
+        "Ethnicity": "1",
+        "Nationality": "90",
+        "Occupation": "11"
+    }
+}

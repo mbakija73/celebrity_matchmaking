@@ -1,0 +1,110 @@
+{
+    "relationships": [
+        {
+            "name": "Steve Hart",
+            "href": "https://www.whosdatedwho.com/dating/steve-hart",
+            "relationship_type": 4,
+            "start_date": "Oct 2008",
+            "end_date": "present",
+            "length": "16 years",
+            "start_months_since_1900": 1305,
+            "end_months_since_1900": -1,
+            "length_in_months": 192
+        },
+        {
+            "name": "Jamie Foxx",
+            "href": "https://www.whosdatedwho.com/dating/jamie-foxx",
+            "relationship_type": 3,
+            "start_date": "Sep 2008",
+            "end_date": "Sep 2008",
+            "length": "-",
+            "start_months_since_1900": 1304,
+            "end_months_since_1900": 1304,
+            "length_in_months": -1
+        },
+        {
+            "name": "Kiefer Sutherland",
+            "href": "https://www.whosdatedwho.com/dating/kiefer-sutherland",
+            "relationship_type": 2,
+            "start_date": "2008",
+            "end_date": "2008",
+            "length": "-",
+            "start_months_since_1900": 1296,
+            "end_months_since_1900": 1296,
+            "length_in_months": -1
+        },
+        {
+            "name": "Scott Speedman",
+            "href": "https://www.whosdatedwho.com/dating/scott-speedman",
+            "relationship_type": 2,
+            "start_date": "Mar 2007",
+            "end_date": "Mar 2008",
+            "length": "1 year",
+            "start_months_since_1900": 1286,
+            "end_months_since_1900": 1298,
+            "length_in_months": 12
+        },
+        {
+            "name": "Anthony Rhulen",
+            "href": "https://www.whosdatedwho.com/dating/anthony-rhulen",
+            "relationship_type": 4,
+            "start_date": "2004",
+            "end_date": "2008",
+            "length": "4 years",
+            "start_months_since_1900": 1248,
+            "end_months_since_1900": 1296,
+            "length_in_months": 48
+        },
+        {
+            "name": "Colin Farrell",
+            "href": "https://www.whosdatedwho.com/dating/colin-farrell",
+            "relationship_type": 2,
+            "start_date": "Oct 2002",
+            "end_date": "Nov 2002",
+            "length": "1 month",
+            "start_months_since_1900": 1233,
+            "end_months_since_1900": 1234,
+            "length_in_months": 1
+        },
+        {
+            "name": "Shemar Moore",
+            "href": "https://www.whosdatedwho.com/dating/shemar-moore",
+            "relationship_type": 2,
+            "start_date": "Oct 2002",
+            "end_date": "Sep 2003",
+            "length": "11 months",
+            "start_months_since_1900": 1233,
+            "end_months_since_1900": 1244,
+            "length_in_months": 11
+        },
+        {
+            "name": "Ashton Kutcher",
+            "href": "https://www.whosdatedwho.com/dating/ashton-kutcher",
+            "relationship_type": 2,
+            "start_date": "Jun 2001",
+            "end_date": "Mar 2002",
+            "length": "9 months",
+            "start_months_since_1900": 1217,
+            "end_months_since_1900": 1226,
+            "length_in_months": 9
+        }
+    ],
+    "details": {
+        "First Name": "Ashley",
+        "Middle Name": "McCall",
+        "Last Name": "Hart",
+        "Maiden Name": "Scott",
+        "Full Name at Birth": "Ashley McCall Scott",
+        "Alternative Name": "Ashley Hart",
+        "Birthday": "1977",
+        "Birthplace": "Louisiana",
+        "Height": "175",
+        "Weight": "125lbs (57 kg)",
+        "Zodiac Sign": "8",
+        "Sexuality": "Straight",
+        "Religion": "1",
+        "Ethnicity": "6",
+        "Nationality": "91",
+        "Occupation": "8"
+    }
+}

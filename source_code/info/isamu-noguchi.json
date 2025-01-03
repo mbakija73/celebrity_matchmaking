@@ -1,0 +1,55 @@
+{
+    "relationships": [
+        {
+            "name": "Frida Kahlo",
+            "href": "https://www.whosdatedwho.com/dating/frida-kahlo",
+            "relationship_type": 2,
+            "start_date": "1935",
+            "end_date": "1936",
+            "length": "1 year",
+            "start_months_since_1900": 420,
+            "end_months_since_1900": 432,
+            "length_in_months": 12
+        },
+        {
+            "name": "Shirley Yamaguchi",
+            "href": "https://www.whosdatedwho.com/dating/shirley-yamaguchi",
+            "relationship_type": 4,
+            "start_date": "",
+            "end_date": "",
+            "length": "-",
+            "start_months_since_1900": -1,
+            "end_months_since_1900": -1,
+            "length_in_months": -1
+        },
+        {
+            "name": "Dorothy Hale",
+            "href": "https://www.whosdatedwho.com/dating/dorothy-hale",
+            "relationship_type": 2,
+            "start_date": "",
+            "end_date": "",
+            "length": "-",
+            "start_months_since_1900": -1,
+            "end_months_since_1900": -1,
+            "length_in_months": -1
+        }
+    ],
+    "details": {
+        "First Name": "Isamu",
+        "Middle Name": "NA",
+        "Last Name": "Noguchi",
+        "Maiden Name": "NA",
+        "Full Name at Birth": "Isamu Gilmour",
+        "Alternative Name": "Noguchi Isamu, \u91ce\u53e3 \u52c7",
+        "Birthday": "1904",
+        "Birthplace": "California",
+        "Height": "NA",
+        "Weight": "NA",
+        "Zodiac Sign": "5",
+        "Sexuality": "Straight",
+        "Religion": "1",
+        "Ethnicity": "8",
+        "Nationality": "91",
+        "Occupation": "15"
+    }
+}

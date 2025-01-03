@@ -1,0 +1,33 @@
+{
+    "relationships": [
+        {
+            "name": "Maria Fowler",
+            "href": "https://www.whosdatedwho.com/dating/maria-fowler",
+            "relationship_type": 2,
+            "start_date": "Jun 2011",
+            "end_date": "Oct 2011",
+            "length": "4 months",
+            "start_months_since_1900": 1337,
+            "end_months_since_1900": 1341,
+            "length_in_months": 4
+        }
+    ],
+    "details": {
+        "First Name": "Craig",
+        "Middle Name": "NA",
+        "Last Name": "Church",
+        "Maiden Name": "NA",
+        "Full Name at Birth": "NA",
+        "Alternative Name": "NA",
+        "Birthday": "1986",
+        "Birthplace": "NA",
+        "Height": "NA",
+        "Weight": "NA",
+        "Zodiac Sign": "1",
+        "Sexuality": "NA",
+        "Religion": "1",
+        "Ethnicity": "1",
+        "Nationality": "65",
+        "Occupation": "19"
+    }
+}

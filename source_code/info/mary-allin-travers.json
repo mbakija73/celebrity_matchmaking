@@ -1,0 +1,66 @@
+{
+    "relationships": [
+        {
+            "name": "Ethan Robbins",
+            "href": "https://www.whosdatedwho.com/dating/ethan-robbins",
+            "relationship_type": 4,
+            "start_date": "1991",
+            "end_date": "",
+            "length": "-",
+            "start_months_since_1900": 1092,
+            "end_months_since_1900": -1,
+            "length_in_months": -1
+        },
+        {
+            "name": "Gerald L. Taylor",
+            "href": "https://www.whosdatedwho.com/dating/gerald-l-taylor",
+            "relationship_type": 4,
+            "start_date": "1969",
+            "end_date": "1975",
+            "length": "6 years",
+            "start_months_since_1900": 828,
+            "end_months_since_1900": 900,
+            "length_in_months": 72
+        },
+        {
+            "name": "Barry Feinstein",
+            "href": "https://www.whosdatedwho.com/dating/barry-feinstein",
+            "relationship_type": 4,
+            "start_date": "1962",
+            "end_date": "Jul 1968",
+            "length": "6 years",
+            "start_months_since_1900": 744,
+            "end_months_since_1900": 822,
+            "length_in_months": 72
+        },
+        {
+            "name": "Richard Ben-Veniste",
+            "href": "https://www.whosdatedwho.com/dating/richard-ben-veniste",
+            "relationship_type": 2,
+            "start_date": "",
+            "end_date": "",
+            "length": "-",
+            "start_months_since_1900": -1,
+            "end_months_since_1900": -1,
+            "length_in_months": -1
+        }
+    ],
+    "details": {
+        "First Name": "Mary",
+        "Middle Name": "NA",
+        "Last Name": "Travers",
+        "Maiden Name": "NA",
+        "Full Name at Birth": "Mary Allin Travers",
+        "Alternative Name": "Mary Travers",
+        "Birthday": "1936",
+        "Birthplace": "USA",
+        "Height": "NA",
+        "Weight": "NA",
+        "Zodiac Sign": "5",
+        "Sexuality": "Straight",
+        "Religion": "1",
+        "Ethnicity": "6",
+        "Nationality": "91",
+        "Occupation": "1"
+    }
+}

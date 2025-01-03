@@ -1,0 +1,44 @@
+{
+    "relationships": [
+        {
+            "name": "Earl Watson",
+            "href": "https://www.whosdatedwho.com/dating/earl-watson",
+            "relationship_type": 2,
+            "start_date": "Sep 2018",
+            "end_date": "Sep 2018",
+            "length": "-",
+            "start_months_since_1900": 1424,
+            "end_months_since_1900": 1424,
+            "length_in_months": -1
+        },
+        {
+            "name": "Richard Giannotti",
+            "href": "https://www.whosdatedwho.com/dating/richard-giannotti",
+            "relationship_type": 4,
+            "start_date": "13th Feb 2016",
+            "end_date": "2017",
+            "length": "10 months",
+            "start_months_since_1900": 1393,
+            "end_months_since_1900": 1404,
+            "length_in_months": 10
+        }
+    ],
+    "details": {
+        "First Name": "Joy",
+        "Middle Name": "Allison",
+        "Last Name": "Taylor",
+        "Maiden Name": "NA",
+        "Full Name at Birth": "Joy Allison Taylor",
+        "Alternative Name": "Joy Taylor",
+        "Birthday": "1987",
+        "Birthplace": "USA",
+        "Height": "157",
+        "Weight": "NA",
+        "Zodiac Sign": "13",
+        "Sexuality": "Straight",
+        "Religion": "18",
+        "Ethnicity": "8",
+        "Nationality": "91",
+        "Occupation": "16"
+    }
+}

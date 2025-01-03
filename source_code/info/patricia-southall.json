@@ -1,0 +1,44 @@
+{
+    "relationships": [
+        {
+            "name": "Emmitt Smith",
+            "href": "https://www.whosdatedwho.com/dating/emmitt-smith",
+            "relationship_type": 4,
+            "start_date": "2000",
+            "end_date": "Aug 2020",
+            "length": "20 years",
+            "start_months_since_1900": 1200,
+            "end_months_since_1900": 1447,
+            "length_in_months": 240
+        },
+        {
+            "name": "Martin Lawrence",
+            "href": "https://www.whosdatedwho.com/dating/martin-lawrence",
+            "relationship_type": 4,
+            "start_date": "Aug 1993",
+            "end_date": "Sep 1997",
+            "length": "4 years",
+            "start_months_since_1900": 1123,
+            "end_months_since_1900": 1172,
+            "length_in_months": 48
+        }
+    ],
+    "details": {
+        "First Name": "Patricia",
+        "Middle Name": "Annette",
+        "Last Name": "Southall",
+        "Maiden Name": "NA",
+        "Full Name at Birth": "Patricia Annette Southall",
+        "Alternative Name": "Patricia Annette Smith",
+        "Birthday": "1970",
+        "Birthplace": "USA",
+        "Height": "NA",
+        "Weight": "NA",
+        "Zodiac Sign": "6",
+        "Sexuality": "Straight",
+        "Religion": "18",
+        "Ethnicity": "8",
+        "Nationality": "91",
+        "Occupation": "15"
+    }
+}

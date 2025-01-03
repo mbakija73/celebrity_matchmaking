@@ -1,0 +1,88 @@
+{
+    "relationships": [
+        {
+            "name": "Jarvis Cushing",
+            "href": "https://www.whosdatedwho.com/dating/jarvis-cushing",
+            "relationship_type": 4,
+            "start_date": "1974",
+            "end_date": "1974",
+            "length": "-",
+            "start_months_since_1900": 888,
+            "end_months_since_1900": 888,
+            "length_in_months": -1
+        },
+        {
+            "name": "Frank Freda",
+            "href": "https://www.whosdatedwho.com/dating/frank-freda",
+            "relationship_type": 4,
+            "start_date": "1971",
+            "end_date": "1973",
+            "length": "2 years",
+            "start_months_since_1900": 852,
+            "end_months_since_1900": 876,
+            "length_in_months": 24
+        },
+        {
+            "name": "Robert McNamara",
+            "href": "https://www.whosdatedwho.com/dating/robert-mcnamara",
+            "relationship_type": 4,
+            "start_date": "1952",
+            "end_date": "1960",
+            "length": "8 years",
+            "start_months_since_1900": 624,
+            "end_months_since_1900": 720,
+            "length_in_months": 96
+        },
+        {
+            "name": "Carl Neubert",
+            "href": "https://www.whosdatedwho.com/dating/carl-neubert",
+            "relationship_type": 4,
+            "start_date": "1949",
+            "end_date": "Jun 1952",
+            "length": "3 years",
+            "start_months_since_1900": 588,
+            "end_months_since_1900": 629,
+            "length_in_months": 36
+        },
+        {
+            "name": "Anthony Quinn",
+            "href": "https://www.whosdatedwho.com/dating/anthony-quinn",
+            "relationship_type": 3,
+            "start_date": "1944",
+            "end_date": "1945",
+            "length": "1 year",
+            "start_months_since_1900": 528,
+            "end_months_since_1900": 540,
+            "length_in_months": 12
+        },
+        {
+            "name": "Erik Rolf",
+            "href": "https://www.whosdatedwho.com/dating/erik-rolf",
+            "relationship_type": 4,
+            "start_date": "1937",
+            "end_date": "Jul 1945",
+            "length": "8 years",
+            "start_months_since_1900": 444,
+            "end_months_since_1900": 546,
+            "length_in_months": 96
+        }
+    ],
+    "details": {
+        "First Name": "Ruth",
+        "Middle Name": "Elizabeth",
+        "Last Name": "Warrick",
+        "Maiden Name": "NA",
+        "Full Name at Birth": "Ruth Elizabeth Warrick",
+        "Alternative Name": "NA",
+        "Birthday": "1915",
+        "Birthplace": "USA",
+        "Height": "168",
+        "Weight": "NA",
+        "Zodiac Sign": "8",
+        "Sexuality": "Straight",
+        "Religion": "1",
+        "Ethnicity": "6",
+        "Nationality": "91",
+        "Occupation": "8"
+    }
+}

@@ -1,0 +1,44 @@
+{
+    "relationships": [
+        {
+            "name": "Sarah Michelle Gellar",
+            "href": "https://www.whosdatedwho.com/dating/sarah-michelle-gellar",
+            "relationship_type": 4,
+            "start_date": "Jan 2000",
+            "end_date": "present",
+            "length": "24 years",
+            "start_months_since_1900": 1200,
+            "end_months_since_1900": -1,
+            "length_in_months": 288
+        },
+        {
+            "name": "Kimberly McCullough",
+            "href": "https://www.whosdatedwho.com/dating/kimberly-mccullough",
+            "relationship_type": 2,
+            "start_date": "May 1996",
+            "end_date": "Oct 1999",
+            "length": "3 years",
+            "start_months_since_1900": 1156,
+            "end_months_since_1900": 1197,
+            "length_in_months": 36
+        }
+    ],
+    "details": {
+        "First Name": "Freddie",
+        "Middle Name": "James",
+        "Last Name": "Prinze",
+        "Maiden Name": "NA",
+        "Full Name at Birth": "Frederick James Prinze Jr.",
+        "Alternative Name": "Freddy Prinze Jr., Freddie James Prinze Jr., Frederick James Prinze Jr.",
+        "Birthday": "1976",
+        "Birthplace": "USA",
+        "Height": "185",
+        "Weight": "NA",
+        "Zodiac Sign": "1",
+        "Sexuality": "Straight",
+        "Religion": "13",
+        "Ethnicity": "6",
+        "Nationality": "91",
+        "Occupation": "8"
+    }
+}

@@ -1,0 +1,27 @@
+{
+    "relationships": [
+        {
+            "name": "Sj Valenz",
+            "href": "https://www.whosdatedwho.com/dating/sj-valenz",
+            "relationship_type": 2,
+            "start_date": "Apr 2011",
+            "end_date": "",
+            "length": "-",
+            "start_months_since_1900": 1335,
+            "end_months_since_1900": -1,
+            "length_in_months": -1
+        },
+        {
+            "name": "Layla Allman",
+            "href": "https://www.whosdatedwho.com/dating/layla-allman",
+            "relationship_type": 1,
+            "start_date": "",
+            "end_date": "",
+            "length": "-",
+            "start_months_since_1900": -1,
+            "end_months_since_1900": -1,
+            "length_in_months": -1
+        }
+    ],
+    "details": {}
+}

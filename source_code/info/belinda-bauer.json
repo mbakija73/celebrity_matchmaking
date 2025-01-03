@@ -1,0 +1,55 @@
+{
+    "relationships": [
+        {
+            "name": "Gary Busey",
+            "href": "https://www.whosdatedwho.com/dating/gary-busey",
+            "relationship_type": 2,
+            "start_date": "1988",
+            "end_date": "1993",
+            "length": "5 years",
+            "start_months_since_1900": 1056,
+            "end_months_since_1900": 1116,
+            "length_in_months": 60
+        },
+        {
+            "name": "Stephen Shellen",
+            "href": "https://www.whosdatedwho.com/dating/stephen-shellen",
+            "relationship_type": 3,
+            "start_date": "Oct 1984",
+            "end_date": "Oct 1984",
+            "length": "-",
+            "start_months_since_1900": 1017,
+            "end_months_since_1900": 1017,
+            "length_in_months": -1
+        },
+        {
+            "name": "William Richert",
+            "href": "https://www.whosdatedwho.com/dating/william-richert",
+            "relationship_type": 2,
+            "start_date": "1979",
+            "end_date": "1983",
+            "length": "4 years",
+            "start_months_since_1900": 948,
+            "end_months_since_1900": 996,
+            "length_in_months": 48
+        }
+    ],
+    "details": {
+        "First Name": "Belinda",
+        "Middle Name": "Jane",
+        "Last Name": "Bauer",
+        "Maiden Name": "NA",
+        "Full Name at Birth": "Belinda Jane Taubman",
+        "Alternative Name": "Belinda Jane Taubman, Belinda Taubman",
+        "Birthday": "1950",
+        "Birthplace": "Australia",
+        "Height": "175",
+        "Weight": "NA",
+        "Zodiac Sign": "4",
+        "Sexuality": "Straight",
+        "Religion": "22",
+        "Ethnicity": "6",
+        "Nationality": "135",
+        "Occupation": "8"
+    }
+}

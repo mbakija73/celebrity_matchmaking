@@ -1,0 +1,44 @@
+{
+    "relationships": [
+        {
+            "name": "Emily Osment",
+            "href": "https://www.whosdatedwho.com/dating/emily-osment",
+            "relationship_type": 2,
+            "start_date": "30th Jan 2013",
+            "end_date": "Sep 2014",
+            "length": "1 year",
+            "start_months_since_1900": 1356,
+            "end_months_since_1900": 1376,
+            "length_in_months": 12
+        },
+        {
+            "name": "Galadriel Stineman",
+            "href": "https://www.whosdatedwho.com/dating/galadriel-stineman",
+            "relationship_type": 2,
+            "start_date": "",
+            "end_date": "",
+            "length": "-",
+            "start_months_since_1900": -1,
+            "end_months_since_1900": -1,
+            "length_in_months": -1
+        }
+    ],
+    "details": {
+        "First Name": "Nathan",
+        "Middle Name": "William",
+        "Last Name": "Keyes",
+        "Maiden Name": "NA",
+        "Full Name at Birth": "Nathan William Gumke",
+        "Alternative Name": "Nathan Keyes, Nate",
+        "Birthday": "1985",
+        "Birthplace": "USA",
+        "Height": "183",
+        "Weight": "NA",
+        "Zodiac Sign": "6",
+        "Sexuality": "Straight",
+        "Religion": "1",
+        "Ethnicity": "6",
+        "Nationality": "91",
+        "Occupation": "8"
+    }
+}

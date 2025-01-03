@@ -1,0 +1,33 @@
+{
+    "relationships": [
+        {
+            "name": "Harry Morgan",
+            "href": "https://www.whosdatedwho.com/dating/harry-morgan",
+            "relationship_type": 4,
+            "start_date": "1939",
+            "end_date": "Feb 1985",
+            "length": "46 years",
+            "start_months_since_1900": 468,
+            "end_months_since_1900": 1021,
+            "length_in_months": 552
+        }
+    ],
+    "details": {
+        "First Name": "Eileen",
+        "Middle Name": "NA",
+        "Last Name": "Detchon",
+        "Maiden Name": "NA",
+        "Full Name at Birth": "Eileen Detchon",
+        "Alternative Name": "NA",
+        "Birthday": "1913",
+        "Birthplace": "Oregon United States",
+        "Height": "NA",
+        "Weight": "NA",
+        "Zodiac Sign": "8",
+        "Sexuality": "NA",
+        "Religion": "1",
+        "Ethnicity": "1",
+        "Nationality": "65",
+        "Occupation": "19"
+    }
+}

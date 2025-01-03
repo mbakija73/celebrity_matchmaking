@@ -1,0 +1,55 @@
+{
+    "relationships": [
+        {
+            "name": "Kelly Smith",
+            "href": "https://www.whosdatedwho.com/dating/kelly-smith-football",
+            "relationship_type": 2,
+            "start_date": "2005",
+            "end_date": "2013",
+            "length": "8 years",
+            "start_months_since_1900": 1260,
+            "end_months_since_1900": 1356,
+            "length_in_months": 96
+        },
+        {
+            "name": "Jess Glynne",
+            "href": "https://www.whosdatedwho.com/dating/jess-glynne",
+            "relationship_type": 1,
+            "start_date": "",
+            "end_date": "",
+            "length": "-",
+            "start_months_since_1900": -1,
+            "end_months_since_1900": -1,
+            "length_in_months": -1
+        },
+        {
+            "name": "Samuel Robertson",
+            "href": "https://www.whosdatedwho.com/dating/samuel-robertson",
+            "relationship_type": 1,
+            "start_date": "2019",
+            "end_date": "2019",
+            "length": "-",
+            "start_months_since_1900": 1428,
+            "end_months_since_1900": 1428,
+            "length_in_months": -1
+        }
+    ],
+    "details": {
+        "First Name": "Alex",
+        "Middle Name": "NA",
+        "Last Name": "Scott",
+        "Maiden Name": "NA",
+        "Full Name at Birth": "Alexandra Virina Scott",
+        "Alternative Name": "Alexandra Virina Scott, Alex Scott, Alex",
+        "Birthday": "1984",
+        "Birthplace": "UK",
+        "Height": "163",
+        "Weight": "130lbs (59 kg)",
+        "Zodiac Sign": "10",
+        "Sexuality": "Bisexual",
+        "Religion": "1",
+        "Ethnicity": "8",
+        "Nationality": "98",
+        "Occupation": "2"
+    }
+}

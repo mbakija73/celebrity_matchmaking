@@ -1,0 +1,33 @@
+{
+    "relationships": [
+        {
+            "name": "Troy Aikman",
+            "href": "https://www.whosdatedwho.com/dating/troy-aikman",
+            "relationship_type": 4,
+            "start_date": "2016",
+            "end_date": "present",
+            "length": "8 years",
+            "start_months_since_1900": 1392,
+            "end_months_since_1900": -1,
+            "length_in_months": 96
+        }
+    ],
+    "details": {
+        "First Name": "Capa",
+        "Middle Name": "NA",
+        "Last Name": "Mooty",
+        "Maiden Name": "NA",
+        "Full Name at Birth": "NA",
+        "Alternative Name": "NA",
+        "Birthday": "1970",
+        "Birthplace": "USA",
+        "Height": "NA",
+        "Weight": "NA",
+        "Zodiac Sign": "10",
+        "Sexuality": "Straight",
+        "Religion": "1",
+        "Ethnicity": "6",
+        "Nationality": "91",
+        "Occupation": "15"
+    }
+}

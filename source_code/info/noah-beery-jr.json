@@ -1,0 +1,44 @@
+{
+    "relationships": [
+        {
+            "name": "Maxine Jones",
+            "href": "https://www.whosdatedwho.com/dating/maxine-jones",
+            "relationship_type": 4,
+            "start_date": "1940",
+            "end_date": "1966",
+            "length": "26 years",
+            "start_months_since_1900": 480,
+            "end_months_since_1900": 792,
+            "length_in_months": 312
+        },
+        {
+            "name": "Cathy Downs",
+            "href": "https://www.whosdatedwho.com/dating/cathy-downs",
+            "relationship_type": 1,
+            "start_date": "",
+            "end_date": "",
+            "length": "-",
+            "start_months_since_1900": -1,
+            "end_months_since_1900": -1,
+            "length_in_months": -1
+        }
+    ],
+    "details": {
+        "First Name": "Noah",
+        "Middle Name": "NA",
+        "Last Name": "Beery",
+        "Maiden Name": "NA",
+        "Full Name at Birth": "Noah Beery Jr.",
+        "Alternative Name": "NA",
+        "Birthday": "1913",
+        "Birthplace": "U.S.",
+        "Height": "180",
+        "Weight": "NA",
+        "Zodiac Sign": "12",
+        "Sexuality": "NA",
+        "Religion": "1",
+        "Ethnicity": "1",
+        "Nationality": "91",
+        "Occupation": "8"
+    }
+}

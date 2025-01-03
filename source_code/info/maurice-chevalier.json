@@ -1,0 +1,110 @@
+{
+    "relationships": [
+        {
+            "name": "Lise Bourdin",
+            "href": "https://www.whosdatedwho.com/dating/lise-bourdin",
+            "relationship_type": 2,
+            "start_date": "Apr 1948",
+            "end_date": "May 1948",
+            "length": "1 month",
+            "start_months_since_1900": 579,
+            "end_months_since_1900": 580,
+            "length_in_months": 1
+        },
+        {
+            "name": "Kay Francis",
+            "href": "https://www.whosdatedwho.com/dating/kay-francis",
+            "relationship_type": 2,
+            "start_date": "May 1934",
+            "end_date": "Jun 1934",
+            "length": "1 month",
+            "start_months_since_1900": 412,
+            "end_months_since_1900": 413,
+            "length_in_months": 1
+        },
+        {
+            "name": "Marlene Dietrich",
+            "href": "https://www.whosdatedwho.com/dating/marlene-dietrich",
+            "relationship_type": 3,
+            "start_date": "1932",
+            "end_date": "1932",
+            "length": "-",
+            "start_months_since_1900": 384,
+            "end_months_since_1900": 384,
+            "length_in_months": -1
+        },
+        {
+            "name": "Miriam Hopkins",
+            "href": "https://www.whosdatedwho.com/dating/miriam-hopkins",
+            "relationship_type": 2,
+            "start_date": "Feb 1931",
+            "end_date": "1931",
+            "length": "1 month",
+            "start_months_since_1900": 373,
+            "end_months_since_1900": 372,
+            "length_in_months": 1
+        },
+        {
+            "name": "Merle Oberon",
+            "href": "https://www.whosdatedwho.com/dating/merle-oberon",
+            "relationship_type": 2,
+            "start_date": "1931",
+            "end_date": "1932",
+            "length": "1 year",
+            "start_months_since_1900": 372,
+            "end_months_since_1900": 384,
+            "length_in_months": 12
+        },
+        {
+            "name": "Genevieve Tobin",
+            "href": "https://www.whosdatedwho.com/dating/genevieve-tobin",
+            "relationship_type": 2,
+            "start_date": "",
+            "end_date": "1932",
+            "length": "-",
+            "start_months_since_1900": -1,
+            "end_months_since_1900": 384,
+            "length_in_months": -1
+        },
+        {
+            "name": "Toby Wing",
+            "href": "https://www.whosdatedwho.com/dating/toby-wing",
+            "relationship_type": 2,
+            "start_date": "",
+            "end_date": "",
+            "length": "-",
+            "start_months_since_1900": -1,
+            "end_months_since_1900": -1,
+            "length_in_months": -1
+        },
+        {
+            "name": "Yvonne Vall\u00e9e",
+            "href": "https://www.whosdatedwho.com/dating/yvonne-vallee",
+            "relationship_type": 4,
+            "start_date": "1927",
+            "end_date": "1932",
+            "length": "5 years",
+            "start_months_since_1900": 324,
+            "end_months_since_1900": 384,
+            "length_in_months": 60
+        }
+    ],
+    "details": {
+        "First Name": "Maurice",
+        "Middle Name": "Auguste",
+        "Last Name": "Chevalier",
+        "Maiden Name": "NA",
+        "Full Name at Birth": "Maurice Auguste Chevalier",
+        "Alternative Name": "NA",
+        "Birthday": "1888",
+        "Birthplace": "France",
+        "Height": "182",
+        "Weight": "NA",
+        "Zodiac Sign": "11",
+        "Sexuality": "Straight",
+        "Religion": "1",
+        "Ethnicity": "6",
+        "Nationality": "86",
+        "Occupation": "8"
+    }
+}

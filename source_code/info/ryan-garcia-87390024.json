@@ -1,0 +1,55 @@
+{
+    "relationships": [
+        {
+            "name": "Malu Trevejo",
+            "href": "https://www.whosdatedwho.com/dating/malu-trevejo",
+            "relationship_type": 3,
+            "start_date": "Oct 2020",
+            "end_date": "Nov 2020",
+            "length": "1 month",
+            "start_months_since_1900": 1449,
+            "end_months_since_1900": 1450,
+            "length_in_months": 1
+        },
+        {
+            "name": "Atiana De La Hoya",
+            "href": "https://www.whosdatedwho.com/dating/atiana-de-la-hoya",
+            "relationship_type": 2,
+            "start_date": "2019",
+            "end_date": "2019",
+            "length": "-",
+            "start_months_since_1900": 1428,
+            "end_months_since_1900": 1428,
+            "length_in_months": -1
+        },
+        {
+            "name": "Catherine Gamez",
+            "href": "https://www.whosdatedwho.com/dating/catherine-gamez",
+            "relationship_type": 2,
+            "start_date": "2018",
+            "end_date": "2019",
+            "length": "1 year",
+            "start_months_since_1900": 1416,
+            "end_months_since_1900": 1428,
+            "length_in_months": 12
+        }
+    ],
+    "details": {
+        "Birthday": "1998",
+        "First Name": "NA",
+        "Middle Name": "NA",
+        "Last Name": "NA",
+        "Maiden Name": "NA",
+        "Full Name at Birth": "NA",
+        "Alternative Name": "NA",
+        "Birthplace": "U.S.",
+        "Height": "178",
+        "Weight": "NA",
+        "Zodiac Sign": "12",
+        "Sexuality": "NA",
+        "Religion": "1",
+        "Ethnicity": "1",
+        "Nationality": "91",
+        "Occupation": "2"
+    }
+}

@@ -1,0 +1,33 @@
+{
+    "relationships": [
+        {
+            "name": "Stephen Crane",
+            "href": "https://www.whosdatedwho.com/dating/stephen-crane",
+            "relationship_type": 4,
+            "start_date": "1936",
+            "end_date": "Jan 1943",
+            "length": "7 years",
+            "start_months_since_1900": 432,
+            "end_months_since_1900": 516,
+            "length_in_months": 84
+        }
+    ],
+    "details": {
+        "First Name": "Carol",
+        "Middle Name": "Ann",
+        "Last Name": "Kurtz",
+        "Maiden Name": "NA",
+        "Full Name at Birth": "Carol Ann Kurtz",
+        "Alternative Name": "NA",
+        "Birthday": "NA",
+        "Birthplace": "NA",
+        "Height": "NA",
+        "Weight": "NA",
+        "Zodiac Sign": "2",
+        "Sexuality": "Straight",
+        "Religion": "1",
+        "Ethnicity": "6",
+        "Nationality": "65",
+        "Occupation": "19"
+    }
+}

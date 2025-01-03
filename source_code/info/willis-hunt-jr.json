@@ -1,0 +1,66 @@
+{
+    "relationships": [
+        {
+            "name": "Carole Landis",
+            "href": "https://www.whosdatedwho.com/dating/carole-landis",
+            "relationship_type": 4,
+            "start_date": "Jun 1939",
+            "end_date": "13th Nov 1940",
+            "length": "1 year",
+            "start_months_since_1900": 473,
+            "end_months_since_1900": 490,
+            "length_in_months": 12
+        },
+        {
+            "name": "Martha O'Driscoll",
+            "href": "https://www.whosdatedwho.com/dating/martha-o-driscoll",
+            "relationship_type": 2,
+            "start_date": "1939",
+            "end_date": "1940",
+            "length": "1 year",
+            "start_months_since_1900": 468,
+            "end_months_since_1900": 480,
+            "length_in_months": 12
+        },
+        {
+            "name": "Carol Gallagher",
+            "href": "https://www.whosdatedwho.com/dating/carol-gallagher",
+            "relationship_type": 2,
+            "start_date": "",
+            "end_date": "",
+            "length": "-",
+            "start_months_since_1900": -1,
+            "end_months_since_1900": -1,
+            "length_in_months": -1
+        },
+        {
+            "name": "Eleanor Frances",
+            "href": "https://www.whosdatedwho.com/dating/eleanor-frances",
+            "relationship_type": 2,
+            "start_date": "",
+            "end_date": "",
+            "length": "-",
+            "start_months_since_1900": -1,
+            "end_months_since_1900": -1,
+            "length_in_months": -1
+        }
+    ],
+    "details": {
+        "First Name": "Willis",
+        "Middle Name": "NA",
+        "Last Name": "Hunt, Jr.",
+        "Maiden Name": "NA",
+        "Full Name at Birth": "NA",
+        "Alternative Name": "NA",
+        "Birthday": "NA",
+        "Birthplace": "NA",
+        "Height": "NA",
+        "Weight": "NA",
+        "Zodiac Sign": "2",
+        "Sexuality": "NA",
+        "Religion": "1",
+        "Ethnicity": "1",
+        "Nationality": "65",
+        "Occupation": "19"
+    }
+}

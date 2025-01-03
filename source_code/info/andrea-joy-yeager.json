@@ -1,0 +1,33 @@
+{
+    "relationships": [
+        {
+            "name": "Bobby Darin",
+            "href": "https://www.whosdatedwho.com/dating/bobby-darin",
+            "relationship_type": 4,
+            "start_date": "Jun 1972",
+            "end_date": "Oct 1973",
+            "length": "1 year",
+            "start_months_since_1900": 869,
+            "end_months_since_1900": 885,
+            "length_in_months": 12
+        }
+    ],
+    "details": {
+        "First Name": "Andrea",
+        "Middle Name": "Joy",
+        "Last Name": "Yeager",
+        "Maiden Name": "NA",
+        "Full Name at Birth": "Andrea Joy Yeager",
+        "Alternative Name": "NA",
+        "Birthday": "1939",
+        "Birthplace": "NA",
+        "Height": "NA",
+        "Weight": "NA",
+        "Zodiac Sign": "2",
+        "Sexuality": "Straight",
+        "Religion": "1",
+        "Ethnicity": "6",
+        "Nationality": "65",
+        "Occupation": "18"
+    }
+}

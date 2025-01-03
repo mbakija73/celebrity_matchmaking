@@ -1,0 +1,44 @@
+{
+    "relationships": [
+        {
+            "name": "Holly Madison",
+            "href": "https://www.whosdatedwho.com/dating/holly-madison",
+            "relationship_type": 2,
+            "start_date": "Jun 2019",
+            "end_date": "Feb 2021",
+            "length": "1 year",
+            "start_months_since_1900": 1433,
+            "end_months_since_1900": 1453,
+            "length_in_months": 12
+        },
+        {
+            "name": "Christine Dolce",
+            "href": "https://www.whosdatedwho.com/dating/christine-dolce",
+            "relationship_type": 2,
+            "start_date": "",
+            "end_date": "",
+            "length": "-",
+            "start_months_since_1900": -1,
+            "end_months_since_1900": -1,
+            "length_in_months": -1
+        }
+    ],
+    "details": {
+        "First Name": "Zak",
+        "Middle Name": "Alexander",
+        "Last Name": "Bagans",
+        "Maiden Name": "NA",
+        "Full Name at Birth": "Zachery Alexander Bagans",
+        "Alternative Name": "Zak",
+        "Birthday": "1977",
+        "Birthplace": "D.C.",
+        "Height": "183",
+        "Weight": "NA",
+        "Zodiac Sign": "7",
+        "Sexuality": "Straight",
+        "Religion": "1",
+        "Ethnicity": "6",
+        "Nationality": "91",
+        "Occupation": "9"
+    }
+}

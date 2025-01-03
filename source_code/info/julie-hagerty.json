@@ -1,0 +1,66 @@
+{
+    "relationships": [
+        {
+            "name": "Richard Kagan",
+            "href": "https://www.whosdatedwho.com/dating/richard-kagan",
+            "relationship_type": 4,
+            "start_date": "2007",
+            "end_date": "present",
+            "length": "17 years",
+            "start_months_since_1900": 1284,
+            "end_months_since_1900": -1,
+            "length_in_months": 204
+        },
+        {
+            "name": "Peter Burki",
+            "href": "https://www.whosdatedwho.com/dating/peter-burki",
+            "relationship_type": 4,
+            "start_date": "1986",
+            "end_date": "1991",
+            "length": "5 years",
+            "start_months_since_1900": 1032,
+            "end_months_since_1900": 1092,
+            "length_in_months": 60
+        },
+        {
+            "name": "Albert Brooks",
+            "href": "https://www.whosdatedwho.com/dating/albert-brooks",
+            "relationship_type": 2,
+            "start_date": "Dec 1983",
+            "end_date": "Feb 1985",
+            "length": "1 year",
+            "start_months_since_1900": 1007,
+            "end_months_since_1900": 1021,
+            "length_in_months": 12
+        },
+        {
+            "name": "Bob Fosse",
+            "href": "https://www.whosdatedwho.com/dating/bob-fosse",
+            "relationship_type": 2,
+            "start_date": "1977",
+            "end_date": "1979",
+            "length": "2 years",
+            "start_months_since_1900": 924,
+            "end_months_since_1900": 948,
+            "length_in_months": 24
+        }
+    ],
+    "details": {
+        "First Name": "Julie",
+        "Middle Name": "Beth",
+        "Last Name": "Hagerty",
+        "Maiden Name": "NA",
+        "Full Name at Birth": "Julie Beth Hagerty",
+        "Alternative Name": "NA",
+        "Birthday": "1955",
+        "Birthplace": "USA",
+        "Height": "170",
+        "Weight": "NA",
+        "Zodiac Sign": "4",
+        "Sexuality": "Straight",
+        "Religion": "1",
+        "Ethnicity": "6",
+        "Nationality": "91",
+        "Occupation": "8"
+    }
+}

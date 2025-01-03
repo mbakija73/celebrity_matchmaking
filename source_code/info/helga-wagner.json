@@ -1,0 +1,44 @@
+{
+    "relationships": [
+        {
+            "name": "King Charles III",
+            "href": "https://www.whosdatedwho.com/dating/prince-charles",
+            "relationship_type": 3,
+            "start_date": "1980",
+            "end_date": "1980",
+            "length": "-",
+            "start_months_since_1900": 960,
+            "end_months_since_1900": 960,
+            "length_in_months": -1
+        },
+        {
+            "name": "Ted Kennedy",
+            "href": "https://www.whosdatedwho.com/dating/ted-kennedy",
+            "relationship_type": 2,
+            "start_date": "1968",
+            "end_date": "1973",
+            "length": "5 years",
+            "start_months_since_1900": 816,
+            "end_months_since_1900": 876,
+            "length_in_months": 60
+        }
+    ],
+    "details": {
+        "First Name": "Helga",
+        "Middle Name": "NA",
+        "Last Name": "Wagner",
+        "Maiden Name": "NA",
+        "Full Name at Birth": "NA",
+        "Alternative Name": "NA",
+        "Birthday": "NA",
+        "Birthplace": "NA",
+        "Height": "NA",
+        "Weight": "NA",
+        "Zodiac Sign": "2",
+        "Sexuality": "Straight",
+        "Religion": "5",
+        "Ethnicity": "6",
+        "Nationality": "44",
+        "Occupation": "13"
+    }
+}

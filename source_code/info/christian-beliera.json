@@ -1,0 +1,44 @@
+{
+    "relationships": [
+        {
+            "name": "Jenny Williams",
+            "href": "https://www.whosdatedwho.com/dating/jenny-williams",
+            "relationship_type": 4,
+            "start_date": "Jun 2013",
+            "end_date": "present",
+            "length": "11 years",
+            "start_months_since_1900": 1361,
+            "end_months_since_1900": -1,
+            "length_in_months": 132
+        },
+        {
+            "name": "Delfina Gerez Bosco",
+            "href": "https://www.whosdatedwho.com/dating/delfina-gerez-bosco",
+            "relationship_type": 2,
+            "start_date": "2011",
+            "end_date": "2012",
+            "length": "1 year",
+            "start_months_since_1900": 1332,
+            "end_months_since_1900": 1344,
+            "length_in_months": 12
+        }
+    ],
+    "details": {
+        "First Name": "Christian",
+        "Middle Name": "NA",
+        "Last Name": "Beliera",
+        "Maiden Name": "NA",
+        "Full Name at Birth": "NA",
+        "Alternative Name": "NA",
+        "Birthday": "NA",
+        "Birthplace": "NA",
+        "Height": "NA",
+        "Weight": "NA",
+        "Zodiac Sign": "2",
+        "Sexuality": "NA",
+        "Religion": "1",
+        "Ethnicity": "1",
+        "Nationality": "28",
+        "Occupation": "13"
+    }
+}

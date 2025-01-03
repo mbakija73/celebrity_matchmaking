@@ -1,0 +1,55 @@
+{
+    "relationships": [
+        {
+            "name": "Rita Ora",
+            "href": "https://www.whosdatedwho.com/dating/rita-ora",
+            "relationship_type": 4,
+            "start_date": "Mar 2021",
+            "end_date": "present",
+            "length": "3 years",
+            "start_months_since_1900": 1454,
+            "end_months_since_1900": -1,
+            "length_in_months": 36
+        },
+        {
+            "name": "Polly Stoker",
+            "href": "https://www.whosdatedwho.com/dating/polly-stoker",
+            "relationship_type": 2,
+            "start_date": "2018",
+            "end_date": "",
+            "length": "-",
+            "start_months_since_1900": 1416,
+            "end_months_since_1900": -1,
+            "length_in_months": -1
+        },
+        {
+            "name": "Chelsea Winstanley",
+            "href": "https://www.whosdatedwho.com/dating/chelsea-winstanley",
+            "relationship_type": 4,
+            "start_date": "2010",
+            "end_date": "2018",
+            "length": "8 years",
+            "start_months_since_1900": 1320,
+            "end_months_since_1900": 1416,
+            "length_in_months": 96
+        }
+    ],
+    "details": {
+        "First Name": "Taika",
+        "Middle Name": "NA",
+        "Last Name": "Waititi",
+        "Maiden Name": "NA",
+        "Full Name at Birth": "Taika David Waititi",
+        "Alternative Name": "Taika Cohen, Taika Waititi",
+        "Birthday": "1975",
+        "Birthplace": "New Zealand",
+        "Height": "188",
+        "Weight": "NA",
+        "Zodiac Sign": "12",
+        "Sexuality": "Straight",
+        "Religion": "31",
+        "Ethnicity": "8",
+        "Nationality": "72",
+        "Occupation": "8"
+    }
+}

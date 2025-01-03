@@ -1,0 +1,44 @@
+{
+    "relationships": [
+        {
+            "name": "Neeta Wooten",
+            "href": "https://www.whosdatedwho.com/dating/neeta-wooten",
+            "relationship_type": 2,
+            "start_date": "2003",
+            "end_date": "2003",
+            "length": "-",
+            "start_months_since_1900": 1236,
+            "end_months_since_1900": 1236,
+            "length_in_months": -1
+        },
+        {
+            "name": "Sandy Lomax",
+            "href": "https://www.whosdatedwho.com/dating/sandy-lomax",
+            "relationship_type": 1,
+            "start_date": "",
+            "end_date": "",
+            "length": "-",
+            "start_months_since_1900": -1,
+            "end_months_since_1900": -1,
+            "length_in_months": -1
+        }
+    ],
+    "details": {
+        "First Name": "Jonathan",
+        "Middle Name": "Arthur",
+        "Last Name": "Debarge",
+        "Maiden Name": "NA",
+        "Full Name at Birth": "Jonathan Arthur DeBarge",
+        "Alternative Name": "Chico, Chico DeBarge",
+        "Birthday": "1966",
+        "Birthplace": "USA",
+        "Height": "NA",
+        "Weight": "NA",
+        "Zodiac Sign": "8",
+        "Sexuality": "Straight",
+        "Religion": "1",
+        "Ethnicity": "8",
+        "Nationality": "91",
+        "Occupation": "1"
+    }
+}

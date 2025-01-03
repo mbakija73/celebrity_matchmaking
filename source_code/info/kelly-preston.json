@@ -1,0 +1,77 @@
+{
+    "relationships": [
+        {
+            "name": "John Travolta",
+            "href": "https://www.whosdatedwho.com/dating/john-travolta",
+            "relationship_type": 4,
+            "start_date": "Aug 1990",
+            "end_date": "Jul 2020",
+            "length": "29 years",
+            "start_months_since_1900": 1087,
+            "end_months_since_1900": 1446,
+            "length_in_months": 348
+        },
+        {
+            "name": "Luke Perry",
+            "href": "https://www.whosdatedwho.com/dating/luke-perry",
+            "relationship_type": 3,
+            "start_date": "1990",
+            "end_date": "1990",
+            "length": "-",
+            "start_months_since_1900": 1080,
+            "end_months_since_1900": 1080,
+            "length_in_months": -1
+        },
+        {
+            "name": "Charlie Sheen",
+            "href": "https://www.whosdatedwho.com/dating/charlie-sheen",
+            "relationship_type": 2,
+            "start_date": "1989",
+            "end_date": "1990",
+            "length": "1 year",
+            "start_months_since_1900": 1068,
+            "end_months_since_1900": 1080,
+            "length_in_months": 12
+        },
+        {
+            "name": "George Clooney",
+            "href": "https://www.whosdatedwho.com/dating/george-clooney",
+            "relationship_type": 2,
+            "start_date": "Nov 1987",
+            "end_date": "Jan 1989",
+            "length": "1 year",
+            "start_months_since_1900": 1054,
+            "end_months_since_1900": 1068,
+            "length_in_months": 12
+        },
+        {
+            "name": "Kevin Gage",
+            "href": "https://www.whosdatedwho.com/dating/kevin-gage",
+            "relationship_type": 4,
+            "start_date": "1985",
+            "end_date": "1987",
+            "length": "2 years",
+            "start_months_since_1900": 1020,
+            "end_months_since_1900": 1044,
+            "length_in_months": 24
+        }
+    ],
+    "details": {
+        "First Name": "Kelly",
+        "Middle Name": "Kamalelehua",
+        "Last Name": "Travolta",
+        "Maiden Name": "Smith",
+        "Full Name at Birth": "Kelly Kamalelehua Smith",
+        "Alternative Name": "Kelly Kamalelehua Palzis Preston-Travolta, Kelly Palzis, Kelly Preston, Kelly Kamalelehua Smith, Kelly Smith, Kelly Travolta, Kelly",
+        "Birthday": "1962",
+        "Birthplace": "USA",
+        "Height": "170",
+        "Weight": "126lbs (57 kg)",
+        "Zodiac Sign": "10",
+        "Sexuality": "Straight",
+        "Religion": "5",
+        "Ethnicity": "6",
+        "Nationality": "91",
+        "Occupation": "8"
+    }
+}

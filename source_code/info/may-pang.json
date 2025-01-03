@@ -1,0 +1,44 @@
+{
+    "relationships": [
+        {
+            "name": "Tony Visconti",
+            "href": "https://www.whosdatedwho.com/dating/tony-visconti",
+            "relationship_type": 4,
+            "start_date": "1989",
+            "end_date": "2000",
+            "length": "11 years",
+            "start_months_since_1900": 1068,
+            "end_months_since_1900": 1200,
+            "length_in_months": 132
+        },
+        {
+            "name": "John Lennon",
+            "href": "https://www.whosdatedwho.com/dating/john-lennon",
+            "relationship_type": 2,
+            "start_date": "Sep 1973",
+            "end_date": "Feb 1975",
+            "length": "1 year",
+            "start_months_since_1900": 884,
+            "end_months_since_1900": 901,
+            "length_in_months": 12
+        }
+    ],
+    "details": {
+        "First Name": "May",
+        "Middle Name": "NA",
+        "Last Name": "Pang",
+        "Maiden Name": "NA",
+        "Full Name at Birth": "May Fung Yee Pang",
+        "Alternative Name": "\u9f90\u9cf3\u5100, \u5e9e\u51e4\u4eea",
+        "Birthday": "1950",
+        "Birthplace": "USA",
+        "Height": "NA",
+        "Weight": "NA",
+        "Zodiac Sign": "5",
+        "Sexuality": "Straight",
+        "Religion": "1",
+        "Ethnicity": "3",
+        "Nationality": "91",
+        "Occupation": "3"
+    }
+}

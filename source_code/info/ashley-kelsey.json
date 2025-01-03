@@ -1,0 +1,55 @@
+{
+    "relationships": [
+        {
+            "name": "Kerryon Johnson",
+            "href": "https://www.whosdatedwho.com/dating/kerryon-johnson",
+            "relationship_type": 2,
+            "start_date": "2019",
+            "end_date": "present",
+            "length": "5 years",
+            "start_months_since_1900": 1428,
+            "end_months_since_1900": -1,
+            "length_in_months": 60
+        },
+        {
+            "name": "C.J. Koegel",
+            "href": "https://www.whosdatedwho.com/dating/c-j-koegel",
+            "relationship_type": 3,
+            "start_date": "2012",
+            "end_date": "2012",
+            "length": "-",
+            "start_months_since_1900": 1344,
+            "end_months_since_1900": 1344,
+            "length_in_months": -1
+        },
+        {
+            "name": "Zach Nichols",
+            "href": "https://www.whosdatedwho.com/dating/zach-nichols",
+            "relationship_type": 2,
+            "start_date": "2011",
+            "end_date": "Aug 2012",
+            "length": "1 year",
+            "start_months_since_1900": 1332,
+            "end_months_since_1900": 1351,
+            "length_in_months": 12
+        }
+    ],
+    "details": {
+        "First Name": "Ashley",
+        "Middle Name": "Marie",
+        "Last Name": "Kelsey",
+        "Maiden Name": "NA",
+        "Full Name at Birth": "Ashley Marie Kelsey",
+        "Alternative Name": "NA",
+        "Birthday": "1986",
+        "Birthplace": "United States",
+        "Height": "168",
+        "Weight": "NA",
+        "Zodiac Sign": "12",
+        "Sexuality": "Straight",
+        "Religion": "1",
+        "Ethnicity": "6",
+        "Nationality": "91",
+        "Occupation": "11"
+    }
+}

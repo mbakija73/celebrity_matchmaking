@@ -1,0 +1,66 @@
+{
+    "relationships": [
+        {
+            "name": "Jordan Cameron",
+            "href": "https://www.whosdatedwho.com/dating/jordan-cameron",
+            "relationship_type": 2,
+            "start_date": "2017",
+            "end_date": "present",
+            "length": "7 years",
+            "start_months_since_1900": 1404,
+            "end_months_since_1900": -1,
+            "length_in_months": 84
+        },
+        {
+            "name": "Chris Cline",
+            "href": "https://www.whosdatedwho.com/dating/chris-cline",
+            "relationship_type": 2,
+            "start_date": "Mar 2013",
+            "end_date": "Aug 2014",
+            "length": "1 year",
+            "start_months_since_1900": 1358,
+            "end_months_since_1900": 1375,
+            "length_in_months": 12
+        },
+        {
+            "name": "Doug Murray",
+            "href": "https://www.whosdatedwho.com/dating/doug-murray",
+            "relationship_type": 2,
+            "start_date": "Jul 2012",
+            "end_date": "Dec 2012",
+            "length": "5 months",
+            "start_months_since_1900": 1350,
+            "end_months_since_1900": 1355,
+            "length_in_months": 5
+        },
+        {
+            "name": "Tiger Woods",
+            "href": "https://www.whosdatedwho.com/dating/tiger-woods",
+            "relationship_type": 4,
+            "start_date": "2001",
+            "end_date": "Aug 2010",
+            "length": "9 years",
+            "start_months_since_1900": 1212,
+            "end_months_since_1900": 1327,
+            "length_in_months": 108
+        }
+    ],
+    "details": {
+        "First Name": "Elin",
+        "Middle Name": "Maria Pernilla",
+        "Last Name": "Nordegren",
+        "Maiden Name": "NA",
+        "Full Name at Birth": "Elin Maria Pernilla Nordegren",
+        "Alternative Name": "Elin Woods",
+        "Birthday": "1980",
+        "Birthplace": "Sweden",
+        "Height": "180",
+        "Weight": "NA",
+        "Zodiac Sign": "13",
+        "Sexuality": "Straight",
+        "Religion": "1",
+        "Ethnicity": "6",
+        "Nationality": "30",
+        "Occupation": "15"
+    }
+}

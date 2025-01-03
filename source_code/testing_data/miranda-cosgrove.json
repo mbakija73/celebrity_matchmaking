@@ -1,0 +1,46 @@
+{
+    "relationships": [
+        {
+            "name": "Nat Wolff",
+            "href": "https://www.whosdatedwho.com/dating/nat-wolff",
+            "relationship_type": "Relationship",
+            "start_date": "May 2009",
+            "end_date": "Jan 2011",
+            "length": "1 year"
+        },
+        {
+            "name": "James Maslow",
+            "href": "https://www.whosdatedwho.com/dating/james-maslow",
+            "relationship_type": "Relationship",
+            "start_date": "Mar 2007",
+            "end_date": "Feb 2009",
+            "length": "1 year"
+        },
+        {
+            "name": "Brian (non-famous person)",
+            "href": "https://www.whosdatedwho.com/dating/brian-non-famous-person",
+            "relationship_type": "Relationship",
+            "start_date": "",
+            "end_date": "",
+            "length": "-"
+        }
+    ],
+    "details": {
+        "First Name": "Miranda",
+        "Middle Name": "Taylor",
+        "Last Name": "Cosgrove",
+        "Maiden Name": "NA",
+        "Full Name at Birth": "Miranda Taylor Cosgrove",
+        "Alternative Name": "Cosmos, Mir, Randy",
+        "Birthday": "14th May, 1993",
+        "Birthplace": "Los Angeles, California, USA",
+        "Height": "5' 6\" (168 cm)",
+        "Weight": "119lbs (54 kg)",
+        "Zodiac Sign": "Taurus",
+        "Sexuality": "Straight",
+        "Religion": "Christian",
+        "Ethnicity": "Multiracial",
+        "Nationality": "American",
+        "Occupation": "Actress"
+    }
+}

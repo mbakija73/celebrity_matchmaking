@@ -1,0 +1,33 @@
+{
+    "relationships": [
+        {
+            "name": "Fred Niblo",
+            "href": "https://www.whosdatedwho.com/dating/fred-niblo",
+            "relationship_type": 4,
+            "start_date": "1901",
+            "end_date": "1916",
+            "length": "15 years",
+            "start_months_since_1900": 12,
+            "end_months_since_1900": 192,
+            "length_in_months": 180
+        }
+    ],
+    "details": {
+        "First Name": "Josephine",
+        "Middle Name": "NA",
+        "Last Name": "Cohan",
+        "Maiden Name": "NA",
+        "Full Name at Birth": "NA",
+        "Alternative Name": "NA",
+        "Birthday": "NA",
+        "Birthplace": "NA",
+        "Height": "NA",
+        "Weight": "NA",
+        "Zodiac Sign": "2",
+        "Sexuality": "NA",
+        "Religion": "1",
+        "Ethnicity": "1",
+        "Nationality": "65",
+        "Occupation": "19"
+    }
+}

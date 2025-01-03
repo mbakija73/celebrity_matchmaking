@@ -1,0 +1,77 @@
+{
+    "relationships": [
+        {
+            "name": "George Raft",
+            "href": "https://www.whosdatedwho.com/dating/george-raft",
+            "relationship_type": 3,
+            "start_date": "Sep 1946",
+            "end_date": "Nov 1946",
+            "length": "2 months",
+            "start_months_since_1900": 560,
+            "end_months_since_1900": 562,
+            "length_in_months": 2
+        },
+        {
+            "name": "Robert Hutton",
+            "href": "https://www.whosdatedwho.com/dating/robert-hutton",
+            "relationship_type": 2,
+            "start_date": "Feb 1946",
+            "end_date": "Mar 1946",
+            "length": "< 1 month",
+            "start_months_since_1900": 553,
+            "end_months_since_1900": 554,
+            "length_in_months": 0
+        },
+        {
+            "name": "Tom Drake",
+            "href": "https://www.whosdatedwho.com/dating/tom-drake",
+            "relationship_type": 2,
+            "start_date": "Oct 1945",
+            "end_date": "Nov 1945",
+            "length": "1 month",
+            "start_months_since_1900": 549,
+            "end_months_since_1900": 550,
+            "length_in_months": 1
+        },
+        {
+            "name": "Robert Walker",
+            "href": "https://www.whosdatedwho.com/dating/robert-walker",
+            "relationship_type": 2,
+            "start_date": "Jul 1945",
+            "end_date": "Sep 1945",
+            "length": "2 months",
+            "start_months_since_1900": 546,
+            "end_months_since_1900": 548,
+            "length_in_months": 2
+        },
+        {
+            "name": "Guy Madison",
+            "href": "https://www.whosdatedwho.com/dating/guy-madison",
+            "relationship_type": 3,
+            "start_date": "1945",
+            "end_date": "1945",
+            "length": "-",
+            "start_months_since_1900": 540,
+            "end_months_since_1900": 540,
+            "length_in_months": -1
+        }
+    ],
+    "details": {
+        "First Name": "Suzi",
+        "Middle Name": "NA",
+        "Last Name": "Crandall",
+        "Maiden Name": "NA",
+        "Full Name at Birth": "NA",
+        "Alternative Name": "NA",
+        "Birthday": "1924",
+        "Birthplace": "NA",
+        "Height": "NA",
+        "Weight": "NA",
+        "Zodiac Sign": "3",
+        "Sexuality": "NA",
+        "Religion": "1",
+        "Ethnicity": "1",
+        "Nationality": "91",
+        "Occupation": "8"
+    }
+}

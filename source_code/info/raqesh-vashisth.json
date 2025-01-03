@@ -1,0 +1,44 @@
+{
+    "relationships": [
+        {
+            "name": "Shamita Shetty",
+            "href": "https://www.whosdatedwho.com/dating/shamita-shetty",
+            "relationship_type": 2,
+            "start_date": "Sep 2021",
+            "end_date": "Jul 2022",
+            "length": "10 months",
+            "start_months_since_1900": 1460,
+            "end_months_since_1900": 1470,
+            "length_in_months": 10
+        },
+        {
+            "name": "Ridhi Dogra",
+            "href": "https://www.whosdatedwho.com/dating/ridhi-dogra",
+            "relationship_type": 4,
+            "start_date": "2010",
+            "end_date": "2020",
+            "length": "10 years",
+            "start_months_since_1900": 1320,
+            "end_months_since_1900": 1440,
+            "length_in_months": 120
+        }
+    ],
+    "details": {
+        "First Name": "Rakesh",
+        "Middle Name": "NA",
+        "Last Name": "Bapat",
+        "Maiden Name": "NA",
+        "Full Name at Birth": "Raqesh Vashisth",
+        "Alternative Name": "Raqesh, Rakesh, Aditya (Adi)",
+        "Birthday": "1978",
+        "Birthplace": "India",
+        "Height": "NA",
+        "Weight": "NA",
+        "Zodiac Sign": "11",
+        "Sexuality": "Straight",
+        "Religion": "27",
+        "Ethnicity": "7",
+        "Nationality": "34",
+        "Occupation": "8"
+    }
+}

@@ -1,0 +1,55 @@
+{
+    "relationships": [
+        {
+            "name": "Jorge Coch",
+            "href": "https://www.whosdatedwho.com/dating/jorge-coch",
+            "relationship_type": 1,
+            "start_date": "2017",
+            "end_date": "2017",
+            "length": "-",
+            "start_months_since_1900": 1404,
+            "end_months_since_1900": 1404,
+            "length_in_months": -1
+        },
+        {
+            "name": "Arturo Arciniega",
+            "href": "https://www.whosdatedwho.com/dating/arturo-arciniega",
+            "relationship_type": 4,
+            "start_date": "2014",
+            "end_date": "2014",
+            "length": "-",
+            "start_months_since_1900": 1368,
+            "end_months_since_1900": 1368,
+            "length_in_months": -1
+        },
+        {
+            "name": "Miguel Serrano",
+            "href": "https://www.whosdatedwho.com/dating/miguel-serrano",
+            "relationship_type": 2,
+            "start_date": "",
+            "end_date": "",
+            "length": "-",
+            "start_months_since_1900": -1,
+            "end_months_since_1900": -1,
+            "length_in_months": -1
+        }
+    ],
+    "details": {
+        "First Name": "Virginia",
+        "Middle Name": "NA",
+        "Last Name": "Ram\u00edrez",
+        "Maiden Name": "NA",
+        "Full Name at Birth": "Virginia Ram\u00edrez Gonz\u00e1lez",
+        "Alternative Name": "Virginia Ram\u00edrez Gonz\u00e1lez, Virginia Ram\u00edrez",
+        "Birthday": "1990",
+        "Birthplace": "Mexico",
+        "Height": "NA",
+        "Weight": "NA",
+        "Zodiac Sign": "9",
+        "Sexuality": "NA",
+        "Religion": "1",
+        "Ethnicity": "1",
+        "Nationality": "7",
+        "Occupation": "11"
+    }
+}

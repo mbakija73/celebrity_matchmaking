@@ -1,0 +1,44 @@
+{
+    "relationships": [
+        {
+            "name": "Guaynaa",
+            "href": "https://www.whosdatedwho.com/dating/guaynaa",
+            "relationship_type": 2,
+            "start_date": "2019",
+            "end_date": "2019",
+            "length": "-",
+            "start_months_since_1900": 1428,
+            "end_months_since_1900": 1428,
+            "length_in_months": -1
+        },
+        {
+            "name": "Danilo Beauchamp",
+            "href": "https://www.whosdatedwho.com/dating/danilo-beauchamp",
+            "relationship_type": 4,
+            "start_date": "",
+            "end_date": "",
+            "length": "-",
+            "start_months_since_1900": -1,
+            "end_months_since_1900": -1,
+            "length_in_months": -1
+        }
+    ],
+    "details": {
+        "First Name": "Jacky",
+        "Middle Name": "NA",
+        "Last Name": "Font\u00e1nez",
+        "Maiden Name": "NA",
+        "Full Name at Birth": "NA",
+        "Alternative Name": "Jacky",
+        "Birthday": "1987",
+        "Birthplace": "Puerto Rico",
+        "Height": "168",
+        "Weight": "124lbs (56 kg)",
+        "Zodiac Sign": "7",
+        "Sexuality": "NA",
+        "Religion": "1",
+        "Ethnicity": "1",
+        "Nationality": "132",
+        "Occupation": "11"
+    }
+}

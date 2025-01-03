@@ -1,0 +1,55 @@
+{
+    "relationships": [
+        {
+            "name": "Roman Dirge",
+            "href": "https://www.whosdatedwho.com/dating/roman-dirge-artist",
+            "relationship_type": 2,
+            "start_date": "1998",
+            "end_date": "1998",
+            "length": "-",
+            "start_months_since_1900": 1176,
+            "end_months_since_1900": 1176,
+            "length_in_months": -1
+        },
+        {
+            "name": "Matthew Good",
+            "href": "https://www.whosdatedwho.com/dating/matthew-good",
+            "relationship_type": 2,
+            "start_date": "",
+            "end_date": "",
+            "length": "-",
+            "start_months_since_1900": -1,
+            "end_months_since_1900": -1,
+            "length_in_months": -1
+        },
+        {
+            "name": "Davey Havok",
+            "href": "https://www.whosdatedwho.com/dating/davey-havok",
+            "relationship_type": 3,
+            "start_date": "",
+            "end_date": "2006",
+            "length": "-",
+            "start_months_since_1900": -1,
+            "end_months_since_1900": 1272,
+            "length_in_months": -1
+        }
+    ],
+    "details": {
+        "First Name": "Ivy",
+        "Middle Name": "Rose",
+        "Last Name": "Levan",
+        "Maiden Name": "NA",
+        "Full Name at Birth": "Ivy Rose Levan",
+        "Alternative Name": "The Dame, IV",
+        "Birthday": "1987",
+        "Birthplace": "USA",
+        "Height": "175",
+        "Weight": "NA",
+        "Zodiac Sign": "13",
+        "Sexuality": "Straight",
+        "Religion": "1",
+        "Ethnicity": "6",
+        "Nationality": "91",
+        "Occupation": "1"
+    }
+}

@@ -1,0 +1,44 @@
+{
+    "relationships": [
+        {
+            "name": "Kelly Hu",
+            "href": "https://www.whosdatedwho.com/dating/kelly-hu",
+            "relationship_type": 2,
+            "start_date": "Apr 2004",
+            "end_date": "Jan 2016",
+            "length": "11 years",
+            "start_months_since_1900": 1251,
+            "end_months_since_1900": 1392,
+            "length_in_months": 132
+        },
+        {
+            "name": "Avril Lavigne",
+            "href": "https://www.whosdatedwho.com/dating/avril-lavigne",
+            "relationship_type": 3,
+            "start_date": "Nov 2003",
+            "end_date": "Nov 2003",
+            "length": "-",
+            "start_months_since_1900": 1246,
+            "end_months_since_1900": 1246,
+            "length_in_months": -1
+        }
+    ],
+    "details": {
+        "First Name": "Mitch",
+        "Middle Name": "NA",
+        "Last Name": "Allan",
+        "Maiden Name": "NA",
+        "Full Name at Birth": "Mitchell Allan Scherr",
+        "Alternative Name": "NA",
+        "Birthday": "1972",
+        "Birthplace": "USA",
+        "Height": "NA",
+        "Weight": "NA",
+        "Zodiac Sign": "3",
+        "Sexuality": "NA",
+        "Religion": "1",
+        "Ethnicity": "6",
+        "Nationality": "91",
+        "Occupation": "1"
+    }
+}

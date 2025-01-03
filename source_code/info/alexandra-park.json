@@ -1,0 +1,55 @@
+{
+    "relationships": [
+        {
+            "name": "James Lafferty",
+            "href": "https://www.whosdatedwho.com/dating/james-lafferty",
+            "relationship_type": 4,
+            "start_date": "Apr 2018",
+            "end_date": "present",
+            "length": "6 years",
+            "start_months_since_1900": 1419,
+            "end_months_since_1900": -1,
+            "length_in_months": 72
+        },
+        {
+            "name": "Luke Cheadle",
+            "href": "https://www.whosdatedwho.com/dating/luke-cheadle",
+            "relationship_type": 2,
+            "start_date": "2015",
+            "end_date": "2015",
+            "length": "-",
+            "start_months_since_1900": 1380,
+            "end_months_since_1900": 1380,
+            "length_in_months": -1
+        },
+        {
+            "name": "Tom Austen",
+            "href": "https://www.whosdatedwho.com/dating/tom-austen",
+            "relationship_type": 2,
+            "start_date": "",
+            "end_date": "",
+            "length": "-",
+            "start_months_since_1900": -1,
+            "end_months_since_1900": -1,
+            "length_in_months": -1
+        }
+    ],
+    "details": {
+        "First Name": "Alexandra",
+        "Middle Name": "NA",
+        "Last Name": "Park",
+        "Maiden Name": "NA",
+        "Full Name at Birth": "Alexandra Park",
+        "Alternative Name": "Alex, Alex Park",
+        "Birthday": "1989",
+        "Birthplace": "Australia",
+        "Height": "173",
+        "Weight": "128lbs (58 kg)",
+        "Zodiac Sign": "3",
+        "Sexuality": "Straight",
+        "Religion": "1",
+        "Ethnicity": "6",
+        "Nationality": "135",
+        "Occupation": "8"
+    }
+}

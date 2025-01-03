@@ -1,0 +1,66 @@
+{
+    "relationships": [
+        {
+            "name": "Janet Montgomery",
+            "href": "https://www.whosdatedwho.com/dating/janet-montgomery",
+            "relationship_type": 2,
+            "start_date": "May 2014",
+            "end_date": "2014",
+            "length": "4 months",
+            "start_months_since_1900": 1372,
+            "end_months_since_1900": 1368,
+            "length_in_months": 4
+        },
+        {
+            "name": "Kate Mara",
+            "href": "https://www.whosdatedwho.com/dating/kate-mara",
+            "relationship_type": 2,
+            "start_date": "Jun 2007",
+            "end_date": "May 2009",
+            "length": "1 year",
+            "start_months_since_1900": 1289,
+            "end_months_since_1900": 1312,
+            "length_in_months": 12
+        },
+        {
+            "name": "Lynn Collins",
+            "href": "https://www.whosdatedwho.com/dating/lynn-collins",
+            "relationship_type": 2,
+            "start_date": "2004",
+            "end_date": "2004",
+            "length": "-",
+            "start_months_since_1900": 1248,
+            "end_months_since_1900": 1248,
+            "length_in_months": -1
+        },
+        {
+            "name": "Samantha Thomas",
+            "href": "https://www.whosdatedwho.com/dating/samantha-thomas-3223096",
+            "relationship_type": 4,
+            "start_date": "",
+            "end_date": "",
+            "length": "-",
+            "start_months_since_1900": -1,
+            "end_months_since_1900": -1,
+            "length_in_months": -1
+        }
+    ],
+    "details": {
+        "First Name": "Charlie",
+        "Middle Name": "Thomas",
+        "Last Name": "Cox",
+        "Maiden Name": "NA",
+        "Full Name at Birth": "Charlie Thomas Cox",
+        "Alternative Name": "Charlie Thomas Cox, Charlie Cox",
+        "Birthday": "1982",
+        "Birthplace": "UK",
+        "Height": "178",
+        "Weight": "NA",
+        "Zodiac Sign": "6",
+        "Sexuality": "Straight",
+        "Religion": "1",
+        "Ethnicity": "6",
+        "Nationality": "8",
+        "Occupation": "8"
+    }
+}

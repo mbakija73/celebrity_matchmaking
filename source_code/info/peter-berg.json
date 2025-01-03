@@ -1,0 +1,66 @@
+{
+    "relationships": [
+        {
+            "name": "Whitney Cummings",
+            "href": "https://www.whosdatedwho.com/dating/whitney-cummings",
+            "relationship_type": 2,
+            "start_date": "Jun 2012",
+            "end_date": "Oct 2013",
+            "length": "1 year",
+            "start_months_since_1900": 1349,
+            "end_months_since_1900": 1365,
+            "length_in_months": 12
+        },
+        {
+            "name": "Estella Warren",
+            "href": "https://www.whosdatedwho.com/dating/estella-warren",
+            "relationship_type": 2,
+            "start_date": "Aug 2002",
+            "end_date": "Apr 2006",
+            "length": "3 years",
+            "start_months_since_1900": 1231,
+            "end_months_since_1900": 1275,
+            "length_in_months": 36
+        },
+        {
+            "name": "Elizabeth Rogers (ex Spouse)",
+            "href": "https://www.whosdatedwho.com/dating/elizabeth-rogers-ex-spouse",
+            "relationship_type": 4,
+            "start_date": "1993",
+            "end_date": "2002",
+            "length": "9 years",
+            "start_months_since_1900": 1116,
+            "end_months_since_1900": 1224,
+            "length_in_months": 108
+        },
+        {
+            "name": "Elizabeth Chevalier",
+            "href": "https://www.whosdatedwho.com/dating/elizabeth-chevalier",
+            "relationship_type": 1,
+            "start_date": "",
+            "end_date": "",
+            "length": "-",
+            "start_months_since_1900": -1,
+            "end_months_since_1900": -1,
+            "length_in_months": -1
+        }
+    ],
+    "details": {
+        "First Name": "Peter",
+        "Middle Name": "NA",
+        "Last Name": "Berg",
+        "Maiden Name": "NA",
+        "Full Name at Birth": "Peter Winkler Berg",
+        "Alternative Name": "NA",
+        "Birthday": "1964",
+        "Birthplace": "USA",
+        "Height": "185",
+        "Weight": "NA",
+        "Zodiac Sign": "1",
+        "Sexuality": "Straight",
+        "Religion": "1",
+        "Ethnicity": "6",
+        "Nationality": "91",
+        "Occupation": "8"
+    }
+}

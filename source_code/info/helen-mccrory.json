@@ -1,0 +1,55 @@
+{
+    "relationships": [
+        {
+            "name": "Damian Lewis",
+            "href": "https://www.whosdatedwho.com/dating/damian-lewis",
+            "relationship_type": 4,
+            "start_date": "Jun 2005",
+            "end_date": "Apr 2021",
+            "length": "15 years",
+            "start_months_since_1900": 1265,
+            "end_months_since_1900": 1455,
+            "length_in_months": 180
+        },
+        {
+            "name": "Rufus Sewell",
+            "href": "https://www.whosdatedwho.com/dating/rufus-sewell",
+            "relationship_type": 2,
+            "start_date": "",
+            "end_date": "",
+            "length": "-",
+            "start_months_since_1900": -1,
+            "end_months_since_1900": -1,
+            "length_in_months": -1
+        },
+        {
+            "name": "James Murray",
+            "href": "https://www.whosdatedwho.com/dating/james-murray",
+            "relationship_type": 2,
+            "start_date": "",
+            "end_date": "",
+            "length": "-",
+            "start_months_since_1900": -1,
+            "end_months_since_1900": -1,
+            "length_in_months": -1
+        }
+    ],
+    "details": {
+        "First Name": "Helen",
+        "Middle Name": "Elizabeth",
+        "Last Name": "Lewis",
+        "Maiden Name": "McCrory",
+        "Full Name at Birth": "Helen Elizabeth McCrory",
+        "Alternative Name": "Helen McCrory, Helen Elizabeth McCrory, Helen Elizabeth McCrory OBE",
+        "Birthday": "1968",
+        "Birthplace": "UK",
+        "Height": "163",
+        "Weight": "121lbs (55 kg)",
+        "Zodiac Sign": "12",
+        "Sexuality": "Straight",
+        "Religion": "11",
+        "Ethnicity": "6",
+        "Nationality": "8",
+        "Occupation": "8"
+    }
+}

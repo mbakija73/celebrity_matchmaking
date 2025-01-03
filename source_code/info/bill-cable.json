@@ -1,0 +1,55 @@
+{
+    "relationships": [
+        {
+            "name": "Lucie Arnaz",
+            "href": "https://www.whosdatedwho.com/dating/lucie-arnaz",
+            "relationship_type": 2,
+            "start_date": "1975",
+            "end_date": "1975",
+            "length": "-",
+            "start_months_since_1900": 900,
+            "end_months_since_1900": 900,
+            "length_in_months": -1
+        },
+        {
+            "name": "Cassandra Peterson",
+            "href": "https://www.whosdatedwho.com/dating/cassandra-peterson",
+            "relationship_type": 2,
+            "start_date": "Dec 1974",
+            "end_date": "1977",
+            "length": "2 years",
+            "start_months_since_1900": 899,
+            "end_months_since_1900": 924,
+            "length_in_months": 24
+        },
+        {
+            "name": "Barbara Nichols",
+            "href": "https://www.whosdatedwho.com/dating/barbara-nichols",
+            "relationship_type": 2,
+            "start_date": "",
+            "end_date": "",
+            "length": "-",
+            "start_months_since_1900": -1,
+            "end_months_since_1900": -1,
+            "length_in_months": -1
+        }
+    ],
+    "details": {
+        "First Name": "Bill",
+        "Middle Name": "NA",
+        "Last Name": "Cable",
+        "Maiden Name": "NA",
+        "Full Name at Birth": "William Laurence Cumpanas",
+        "Alternative Name": "Stoner, Cable",
+        "Birthday": "1946",
+        "Birthplace": "USA",
+        "Height": "NA",
+        "Weight": "NA",
+        "Zodiac Sign": "3",
+        "Sexuality": "Straight",
+        "Religion": "1",
+        "Ethnicity": "6",
+        "Nationality": "91",
+        "Occupation": "16"
+    }
+}

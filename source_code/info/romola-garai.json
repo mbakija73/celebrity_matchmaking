@@ -1,0 +1,44 @@
+{
+    "relationships": [
+        {
+            "name": "Sam Hoare",
+            "href": "https://www.whosdatedwho.com/dating/sam-hoare",
+            "relationship_type": 4,
+            "start_date": "2011",
+            "end_date": "present",
+            "length": "13 years",
+            "start_months_since_1900": 1332,
+            "end_months_since_1900": -1,
+            "length_in_months": 156
+        },
+        {
+            "name": "Diego Luna",
+            "href": "https://www.whosdatedwho.com/dating/diego-luna",
+            "relationship_type": 2,
+            "start_date": "Mar 2003",
+            "end_date": "Mar 2004",
+            "length": "1 year",
+            "start_months_since_1900": 1238,
+            "end_months_since_1900": 1250,
+            "length_in_months": 12
+        }
+    ],
+    "details": {
+        "First Name": "Romola",
+        "Middle Name": "Sadie",
+        "Last Name": "NA",
+        "Maiden Name": "Garai",
+        "Full Name at Birth": "Romola Sadie Garai",
+        "Alternative Name": "Romster, Romola Sadie Garai",
+        "Birthday": "1982",
+        "Birthplace": "Hong Kong",
+        "Height": "175",
+        "Weight": "110lbs (50 kg)",
+        "Zodiac Sign": "12",
+        "Sexuality": "Straight",
+        "Religion": "31",
+        "Ethnicity": "6",
+        "Nationality": "8",
+        "Occupation": "8"
+    }
+}

@@ -1,0 +1,66 @@
+{
+    "relationships": [
+        {
+            "name": "Juan Salberry",
+            "href": "https://www.whosdatedwho.com/dating/juan-salberry",
+            "relationship_type": 3,
+            "start_date": "2016",
+            "end_date": "2021",
+            "length": "5 years",
+            "start_months_since_1900": 1392,
+            "end_months_since_1900": 1452,
+            "length_in_months": 60
+        },
+        {
+            "name": "Lapo Elkann",
+            "href": "https://www.whosdatedwho.com/dating/lapo-elkann",
+            "relationship_type": 3,
+            "start_date": "Jul 2007",
+            "end_date": "Jul 2007",
+            "length": "-",
+            "start_months_since_1900": 1290,
+            "end_months_since_1900": 1290,
+            "length_in_months": -1
+        },
+        {
+            "name": "Arne Quinze",
+            "href": "https://www.whosdatedwho.com/dating/arne-quinze",
+            "relationship_type": 4,
+            "start_date": "Apr 2007",
+            "end_date": "Oct 2011",
+            "length": "4 years",
+            "start_months_since_1900": 1287,
+            "end_months_since_1900": 1341,
+            "length_in_months": 48
+        },
+        {
+            "name": "Boris Becker",
+            "href": "https://www.whosdatedwho.com/dating/boris-becker",
+            "relationship_type": 4,
+            "start_date": "1993",
+            "end_date": "Jan 2001",
+            "length": "8 years",
+            "start_months_since_1900": 1116,
+            "end_months_since_1900": 1212,
+            "length_in_months": 96
+        }
+    ],
+    "details": {
+        "First Name": "Barbara",
+        "Middle Name": "NA",
+        "Last Name": "Becker",
+        "Maiden Name": "Feltus",
+        "Full Name at Birth": "Barbara Feltus",
+        "Alternative Name": "Barbara Becker, Barbara Feltus, Babs Feltus",
+        "Birthday": "1966",
+        "Birthplace": "West Germany [now Germany]",
+        "Height": "178",
+        "Weight": "NA",
+        "Zodiac Sign": "5",
+        "Sexuality": "Straight",
+        "Religion": "1",
+        "Ethnicity": "8",
+        "Nationality": "55",
+        "Occupation": "8"
+    }
+}

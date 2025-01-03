@@ -1,0 +1,55 @@
+{
+    "relationships": [
+        {
+            "name": "Lewis Hamilton",
+            "href": "https://www.whosdatedwho.com/dating/lewis-hamilton",
+            "relationship_type": 1,
+            "start_date": "Feb 2022",
+            "end_date": "Mar 2022",
+            "length": "< 1 month",
+            "start_months_since_1900": 1465,
+            "end_months_since_1900": 1466,
+            "length_in_months": 0
+        },
+        {
+            "name": "Ben Chilwell",
+            "href": "https://www.whosdatedwho.com/dating/ben-chilwell",
+            "relationship_type": 2,
+            "start_date": "Dec 2021",
+            "end_date": "May 2022",
+            "length": "5 months",
+            "start_months_since_1900": 1463,
+            "end_months_since_1900": 1468,
+            "length_in_months": 5
+        },
+        {
+            "name": "Tyler Cameron",
+            "href": "https://www.whosdatedwho.com/dating/tyler-cameron-94596263",
+            "relationship_type": 2,
+            "start_date": "Jan 2021",
+            "end_date": "Aug 2021",
+            "length": "7 months",
+            "start_months_since_1900": 1452,
+            "end_months_since_1900": 1459,
+            "length_in_months": 7
+        }
+    ],
+    "details": {
+        "First Name": "Camila",
+        "Middle Name": "NA",
+        "Last Name": "Kendra",
+        "Maiden Name": "NA",
+        "Full Name at Birth": "Camila Kendra",
+        "Alternative Name": "Camila Kendra",
+        "Birthday": "1994",
+        "Birthplace": "Dominican Republic",
+        "Height": "173",
+        "Weight": "NA",
+        "Zodiac Sign": "8",
+        "Sexuality": "NA",
+        "Religion": "1",
+        "Ethnicity": "8",
+        "Nationality": "33",
+        "Occupation": "11"
+    }
+}

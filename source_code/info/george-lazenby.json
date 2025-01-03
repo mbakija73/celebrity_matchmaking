@@ -1,0 +1,66 @@
+{
+    "relationships": [
+        {
+            "name": "Pam Shriver",
+            "href": "https://www.whosdatedwho.com/dating/pam-shriver",
+            "relationship_type": 4,
+            "start_date": "2001",
+            "end_date": "Aug 2008",
+            "length": "7 years",
+            "start_months_since_1900": 1212,
+            "end_months_since_1900": 1303,
+            "length_in_months": 84
+        },
+        {
+            "name": "Christina Gannett",
+            "href": "https://www.whosdatedwho.com/dating/christina-gannett",
+            "relationship_type": 4,
+            "start_date": "1970",
+            "end_date": "1995",
+            "length": "25 years",
+            "start_months_since_1900": 840,
+            "end_months_since_1900": 1140,
+            "length_in_months": 300
+        },
+        {
+            "name": "Jill St. John",
+            "href": "https://www.whosdatedwho.com/dating/jill-st-john",
+            "relationship_type": 2,
+            "start_date": "Jan 1969",
+            "end_date": "Feb 1969",
+            "length": "1 month",
+            "start_months_since_1900": 828,
+            "end_months_since_1900": 829,
+            "length_in_months": 1
+        },
+        {
+            "name": "Barbra Streisand",
+            "href": "https://www.whosdatedwho.com/dating/barbra-streisand",
+            "relationship_type": 3,
+            "start_date": "",
+            "end_date": "",
+            "length": "-",
+            "start_months_since_1900": -1,
+            "end_months_since_1900": -1,
+            "length_in_months": -1
+        }
+    ],
+    "details": {
+        "First Name": "George",
+        "Middle Name": "Robert",
+        "Last Name": "Lazenby",
+        "Maiden Name": "NA",
+        "Full Name at Birth": "George Robert Lazenby",
+        "Alternative Name": "NA",
+        "Birthday": "1939",
+        "Birthplace": "Australia",
+        "Height": "188",
+        "Weight": "NA",
+        "Zodiac Sign": "11",
+        "Sexuality": "Straight",
+        "Religion": "1",
+        "Ethnicity": "6",
+        "Nationality": "135",
+        "Occupation": "8"
+    }
+}

@@ -1,0 +1,77 @@
+{
+    "relationships": [
+        {
+            "name": "Norma Shearer",
+            "href": "https://www.whosdatedwho.com/dating/norma-shearer",
+            "relationship_type": 2,
+            "start_date": "1928",
+            "end_date": "1928",
+            "length": "-",
+            "start_months_since_1900": 336,
+            "end_months_since_1900": 336,
+            "length_in_months": -1
+        },
+        {
+            "name": "David Manners",
+            "href": "https://www.whosdatedwho.com/dating/david-manners",
+            "relationship_type": 3,
+            "start_date": "",
+            "end_date": "",
+            "length": "-",
+            "start_months_since_1900": -1,
+            "end_months_since_1900": -1,
+            "length_in_months": -1
+        },
+        {
+            "name": "Charles Farrell",
+            "href": "https://www.whosdatedwho.com/dating/charles-farrell-actor",
+            "relationship_type": 1,
+            "start_date": "",
+            "end_date": "",
+            "length": "-",
+            "start_months_since_1900": -1,
+            "end_months_since_1900": -1,
+            "length_in_months": -1
+        },
+        {
+            "name": "Cornelia Foster",
+            "href": "https://www.whosdatedwho.com/dating/cornelia-foster",
+            "relationship_type": 4,
+            "start_date": "",
+            "end_date": "",
+            "length": "-",
+            "start_months_since_1900": -1,
+            "end_months_since_1900": -1,
+            "length_in_months": -1
+        },
+        {
+            "name": "Marion Davies",
+            "href": "https://www.whosdatedwho.com/dating/marion-davies",
+            "relationship_type": 2,
+            "start_date": "",
+            "end_date": "",
+            "length": "-",
+            "start_months_since_1900": -1,
+            "end_months_since_1900": -1,
+            "length_in_months": -1
+        }
+    ],
+    "details": {
+        "First Name": "Johnny",
+        "Middle Name": "Mack",
+        "Last Name": "Brown",
+        "Maiden Name": "NA",
+        "Full Name at Birth": "John Brown",
+        "Alternative Name": "NA",
+        "Birthday": "1904",
+        "Birthplace": "USA",
+        "Height": "185",
+        "Weight": "160lbs (73 kg)",
+        "Zodiac Sign": "11",
+        "Sexuality": "Bisexual",
+        "Religion": "1",
+        "Ethnicity": "6",
+        "Nationality": "91",
+        "Occupation": "8"
+    }
+}

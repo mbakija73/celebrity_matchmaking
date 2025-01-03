@@ -1,0 +1,66 @@
+{
+    "relationships": [
+        {
+            "name": "Gavin Leatherwood",
+            "href": "https://www.whosdatedwho.com/dating/gavin-leatherwood",
+            "relationship_type": 2,
+            "start_date": "Aug 2022",
+            "end_date": "Sep 2023",
+            "length": "1 year",
+            "start_months_since_1900": 1471,
+            "end_months_since_1900": 1484,
+            "length_in_months": 12
+        },
+        {
+            "name": "Matt Rife",
+            "href": "https://www.whosdatedwho.com/dating/matt-rife",
+            "relationship_type": 2,
+            "start_date": "3rd May 2021",
+            "end_date": "5th Mar 2022",
+            "length": "10 months",
+            "start_months_since_1900": 1456,
+            "end_months_since_1900": 1466,
+            "length_in_months": 10
+        },
+        {
+            "name": "Aidan Gallagher",
+            "href": "https://www.whosdatedwho.com/dating/aidan-gallagher-30037582",
+            "relationship_type": 2,
+            "start_date": "Feb 2015",
+            "end_date": "Apr 2016",
+            "length": "1 year",
+            "start_months_since_1900": 1381,
+            "end_months_since_1900": 1395,
+            "length_in_months": 12
+        },
+        {
+            "name": "Chase Keith",
+            "href": "https://www.whosdatedwho.com/dating/chase-keith",
+            "relationship_type": 1,
+            "start_date": "",
+            "end_date": "",
+            "length": "-",
+            "start_months_since_1900": -1,
+            "end_months_since_1900": -1,
+            "length_in_months": -1
+        }
+    ],
+    "details": {
+        "First Name": "Jessica",
+        "Middle Name": "NA",
+        "Last Name": "Belkin",
+        "Maiden Name": "NA",
+        "Full Name at Birth": "Jessica Belkin",
+        "Alternative Name": "Jessica Belkin, Jessica",
+        "Birthday": "2002",
+        "Birthplace": "USA",
+        "Height": "165",
+        "Weight": "112lbs (51 kg)",
+        "Zodiac Sign": "3",
+        "Sexuality": "Bisexual",
+        "Religion": "18",
+        "Ethnicity": "6",
+        "Nationality": "91",
+        "Occupation": "8"
+    }
+}

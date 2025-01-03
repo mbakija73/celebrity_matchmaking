@@ -1,0 +1,66 @@
+{
+    "relationships": [
+        {
+            "name": "Billy Seidl",
+            "href": "https://www.whosdatedwho.com/dating/billy-seidl",
+            "relationship_type": 2,
+            "start_date": "2023",
+            "end_date": "present",
+            "length": "1 year",
+            "start_months_since_1900": 1476,
+            "end_months_since_1900": -1,
+            "length_in_months": 12
+        },
+        {
+            "name": "Michael Kopech",
+            "href": "https://www.whosdatedwho.com/dating/michael-kopech",
+            "relationship_type": 2,
+            "start_date": "May 2016",
+            "end_date": "Mar 2018",
+            "length": "1 year",
+            "start_months_since_1900": 1396,
+            "end_months_since_1900": 1418,
+            "length_in_months": 12
+        },
+        {
+            "name": "Slade Osborne",
+            "href": "https://www.whosdatedwho.com/dating/slade-osborne",
+            "relationship_type": 2,
+            "start_date": "2014",
+            "end_date": "2015",
+            "length": "1 year",
+            "start_months_since_1900": 1368,
+            "end_months_since_1900": 1380,
+            "length_in_months": 12
+        },
+        {
+            "name": "Chase Chrisley",
+            "href": "https://www.whosdatedwho.com/dating/chase-chrisley",
+            "relationship_type": 1,
+            "start_date": "",
+            "end_date": "",
+            "length": "-",
+            "start_months_since_1900": -1,
+            "end_months_since_1900": -1,
+            "length_in_months": -1
+        }
+    ],
+    "details": {
+        "First Name": "Brielle",
+        "Middle Name": "Karenna",
+        "Last Name": "Biermann",
+        "Maiden Name": "NA",
+        "Full Name at Birth": "Brielle Karenna Biermann",
+        "Alternative Name": "Brielle, Brielle Biermann, Brielle Zolciak",
+        "Birthday": "1997",
+        "Birthplace": "USA",
+        "Height": "163",
+        "Weight": "132lbs (60 kg)",
+        "Zodiac Sign": "1",
+        "Sexuality": "Straight",
+        "Religion": "1",
+        "Ethnicity": "6",
+        "Nationality": "91",
+        "Occupation": "11"
+    }
+}

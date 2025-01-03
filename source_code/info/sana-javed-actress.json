@@ -1,0 +1,44 @@
+{
+    "relationships": [
+        {
+            "name": "Shoaib Malik",
+            "href": "https://www.whosdatedwho.com/dating/shoaib-malik",
+            "relationship_type": 4,
+            "start_date": "Jan 2024",
+            "end_date": "present",
+            "length": "8 months",
+            "start_months_since_1900": 1488,
+            "end_months_since_1900": -1,
+            "length_in_months": 8
+        },
+        {
+            "name": "Umair Jaswal",
+            "href": "https://www.whosdatedwho.com/dating/umair-jaswal",
+            "relationship_type": 4,
+            "start_date": "Oct 2020",
+            "end_date": "2023",
+            "length": "2 years",
+            "start_months_since_1900": 1449,
+            "end_months_since_1900": 1476,
+            "length_in_months": 24
+        }
+    ],
+    "details": {
+        "First Name": "Sana",
+        "Middle Name": "NA",
+        "Last Name": "Javed",
+        "Maiden Name": "NA",
+        "Full Name at Birth": "NA",
+        "Alternative Name": "NA",
+        "Birthday": "1993",
+        "Birthplace": "Saudi Arabia",
+        "Height": "163",
+        "Weight": "NA",
+        "Zodiac Sign": "7",
+        "Sexuality": "Straight",
+        "Religion": "1",
+        "Ethnicity": "7",
+        "Nationality": "25",
+        "Occupation": "8"
+    }
+}

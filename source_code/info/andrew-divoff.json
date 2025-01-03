@@ -1,0 +1,77 @@
+{
+    "relationships": [
+        {
+            "name": "Alice Sozanskaya",
+            "href": "https://www.whosdatedwho.com/dating/alice-sozanskaya",
+            "relationship_type": 2,
+            "start_date": "2010",
+            "end_date": "2010",
+            "length": "-",
+            "start_months_since_1900": 1320,
+            "end_months_since_1900": 1320,
+            "length_in_months": -1
+        },
+        {
+            "name": "Erica Todisch",
+            "href": "https://www.whosdatedwho.com/dating/erica-todisch",
+            "relationship_type": 2,
+            "start_date": "2009",
+            "end_date": "2009",
+            "length": "-",
+            "start_months_since_1900": 1308,
+            "end_months_since_1900": 1308,
+            "length_in_months": -1
+        },
+        {
+            "name": "Marina Drujko",
+            "href": "https://www.whosdatedwho.com/dating/marina-drujko",
+            "relationship_type": 2,
+            "start_date": "2006",
+            "end_date": "2007",
+            "length": "1 year",
+            "start_months_since_1900": 1272,
+            "end_months_since_1900": 1284,
+            "length_in_months": 12
+        },
+        {
+            "name": "Raissa Danilova",
+            "href": "https://www.whosdatedwho.com/dating/raissa-danilova",
+            "relationship_type": 4,
+            "start_date": "1992",
+            "end_date": "1998",
+            "length": "6 years",
+            "start_months_since_1900": 1104,
+            "end_months_since_1900": 1176,
+            "length_in_months": 72
+        },
+        {
+            "name": "Ashley Long",
+            "href": "https://www.whosdatedwho.com/dating/ashley-long",
+            "relationship_type": 3,
+            "start_date": "",
+            "end_date": "",
+            "length": "-",
+            "start_months_since_1900": -1,
+            "end_months_since_1900": -1,
+            "length_in_months": -1
+        }
+    ],
+    "details": {
+        "First Name": "Andrew",
+        "Middle Name": "Daniel",
+        "Last Name": "Divoff",
+        "Maiden Name": "NA",
+        "Full Name at Birth": "Andrew Daniel Divoff",
+        "Alternative Name": "Andy Divoff",
+        "Birthday": "1955",
+        "Birthplace": "San Tome",
+        "Height": "185",
+        "Weight": "NA",
+        "Zodiac Sign": "8",
+        "Sexuality": "Straight",
+        "Religion": "1",
+        "Ethnicity": "6",
+        "Nationality": "39",
+        "Occupation": "8"
+    }
+}

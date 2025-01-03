@@ -1,0 +1,77 @@
+{
+    "relationships": [
+        {
+            "name": "Marshall Neilan",
+            "href": "https://www.whosdatedwho.com/dating/marshall-neilan",
+            "relationship_type": 2,
+            "start_date": "1934",
+            "end_date": "1934",
+            "length": "-",
+            "start_months_since_1900": 408,
+            "end_months_since_1900": 408,
+            "length_in_months": -1
+        },
+        {
+            "name": "Theodore Spector",
+            "href": "https://www.whosdatedwho.com/dating/theodore-spector",
+            "relationship_type": 1,
+            "start_date": "1931",
+            "end_date": "1932",
+            "length": "1 year",
+            "start_months_since_1900": 372,
+            "end_months_since_1900": 384,
+            "length_in_months": 12
+        },
+        {
+            "name": "George O'Brien",
+            "href": "https://www.whosdatedwho.com/dating/george-o-brien",
+            "relationship_type": 2,
+            "start_date": "1926",
+            "end_date": "1929",
+            "length": "3 years",
+            "start_months_since_1900": 312,
+            "end_months_since_1900": 348,
+            "length_in_months": 36
+        },
+        {
+            "name": "John Moeller",
+            "href": "https://www.whosdatedwho.com/dating/john-moeller",
+            "relationship_type": 1,
+            "start_date": "",
+            "end_date": "",
+            "length": "-",
+            "start_months_since_1900": -1,
+            "end_months_since_1900": -1,
+            "length_in_months": -1
+        },
+        {
+            "name": "Paul Bern",
+            "href": "https://www.whosdatedwho.com/dating/paul-bern",
+            "relationship_type": 2,
+            "start_date": "",
+            "end_date": "",
+            "length": "-",
+            "start_months_since_1900": -1,
+            "end_months_since_1900": -1,
+            "length_in_months": -1
+        }
+    ],
+    "details": {
+        "First Name": "Olive",
+        "Middle Name": "NA",
+        "Last Name": "Borden",
+        "Maiden Name": "NA",
+        "Full Name at Birth": "Olive Borden",
+        "Alternative Name": "`The Joy Girl`, `Ollie`",
+        "Birthday": "1907",
+        "Birthplace": "Virginia",
+        "Height": "163",
+        "Weight": "NA",
+        "Zodiac Sign": "8",
+        "Sexuality": "Straight",
+        "Religion": "1",
+        "Ethnicity": "6",
+        "Nationality": "91",
+        "Occupation": "8"
+    }
+}

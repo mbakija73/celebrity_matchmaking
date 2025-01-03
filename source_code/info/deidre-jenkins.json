@@ -1,0 +1,33 @@
+{
+    "relationships": [
+        {
+            "name": "James Brown",
+            "href": "https://www.whosdatedwho.com/dating/james-brown",
+            "relationship_type": 4,
+            "start_date": "1969",
+            "end_date": "Jan 1981",
+            "length": "12 years",
+            "start_months_since_1900": 828,
+            "end_months_since_1900": 972,
+            "length_in_months": 144
+        }
+    ],
+    "details": {
+        "First Name": "Deidre",
+        "Middle Name": "NA",
+        "Last Name": "Jenkins",
+        "Maiden Name": "NA",
+        "Full Name at Birth": "NA",
+        "Alternative Name": "Deedee",
+        "Birthday": "NA",
+        "Birthplace": "NA",
+        "Height": "NA",
+        "Weight": "NA",
+        "Zodiac Sign": "2",
+        "Sexuality": "NA",
+        "Religion": "1",
+        "Ethnicity": "1",
+        "Nationality": "65",
+        "Occupation": "19"
+    }
+}

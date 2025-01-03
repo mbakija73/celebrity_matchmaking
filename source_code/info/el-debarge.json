@@ -1,0 +1,44 @@
+{
+    "relationships": [
+        {
+            "name": "Pebbles",
+            "href": "https://www.whosdatedwho.com/dating/pebbles",
+            "relationship_type": 2,
+            "start_date": "",
+            "end_date": "",
+            "length": "-",
+            "start_months_since_1900": -1,
+            "end_months_since_1900": -1,
+            "length_in_months": -1
+        },
+        {
+            "name": "Monica Debarge",
+            "href": "https://www.whosdatedwho.com/dating/monica-debarge",
+            "relationship_type": 4,
+            "start_date": "",
+            "end_date": "",
+            "length": "-",
+            "start_months_since_1900": -1,
+            "end_months_since_1900": -1,
+            "length_in_months": -1
+        }
+    ],
+    "details": {
+        "First Name": "Elder",
+        "Middle Name": "Patrick",
+        "Last Name": "Debarge",
+        "Maiden Name": "NA",
+        "Full Name at Birth": "Eldra Patrick DeBarge",
+        "Alternative Name": "Eldra Patrick DeBarge, El Patrick DeBarge, Eldra DeBarge, El DeBarge",
+        "Birthday": "1961",
+        "Birthplace": "Grand Rapids Michigan USA",
+        "Height": "180",
+        "Weight": "NA",
+        "Zodiac Sign": "4",
+        "Sexuality": "Straight",
+        "Religion": "1",
+        "Ethnicity": "8",
+        "Nationality": "91",
+        "Occupation": "1"
+    }
+}

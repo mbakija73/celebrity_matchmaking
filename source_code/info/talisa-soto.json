@@ -1,0 +1,55 @@
+{
+    "relationships": [
+        {
+            "name": "Benjamin Bratt",
+            "href": "https://www.whosdatedwho.com/dating/benjamin-bratt",
+            "relationship_type": 4,
+            "start_date": "Sep 2001",
+            "end_date": "present",
+            "length": "23 years",
+            "start_months_since_1900": 1220,
+            "end_months_since_1900": -1,
+            "length_in_months": 276
+        },
+        {
+            "name": "Costas Mandylor",
+            "href": "https://www.whosdatedwho.com/dating/costas-mandylor",
+            "relationship_type": 4,
+            "start_date": "1996",
+            "end_date": "2000",
+            "length": "4 years",
+            "start_months_since_1900": 1152,
+            "end_months_since_1900": 1200,
+            "length_in_months": 48
+        },
+        {
+            "name": "Nick Kamen",
+            "href": "https://www.whosdatedwho.com/dating/nick-kamen",
+            "relationship_type": 2,
+            "start_date": "",
+            "end_date": "",
+            "length": "-",
+            "start_months_since_1900": -1,
+            "end_months_since_1900": -1,
+            "length_in_months": -1
+        }
+    ],
+    "details": {
+        "First Name": "Talisa",
+        "Middle Name": "NA",
+        "Last Name": "Bratt",
+        "Maiden Name": "Soto",
+        "Full Name at Birth": "Miriam Soto",
+        "Alternative Name": "Talisa Soto, Miriam Soto",
+        "Birthday": "1967",
+        "Birthplace": "USA",
+        "Height": "178",
+        "Weight": "120lbs (54 kg)",
+        "Zodiac Sign": "7",
+        "Sexuality": "Straight",
+        "Religion": "1",
+        "Ethnicity": "8",
+        "Nationality": "91",
+        "Occupation": "8"
+    }
+}

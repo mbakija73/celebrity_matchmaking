@@ -1,0 +1,77 @@
+{
+    "relationships": [
+        {
+            "name": "Christopher French",
+            "href": "https://www.whosdatedwho.com/dating/c-m-french",
+            "relationship_type": 4,
+            "start_date": "Dec 2012",
+            "end_date": "present",
+            "length": "11 years",
+            "start_months_since_1900": 1355,
+            "end_months_since_1900": -1,
+            "length_in_months": 132
+        },
+        {
+            "name": "Martin Johnson",
+            "href": "https://www.whosdatedwho.com/dating/martin-johnson",
+            "relationship_type": 2,
+            "start_date": "Dec 2011",
+            "end_date": "Mar 2012",
+            "length": "3 months",
+            "start_months_since_1900": 1343,
+            "end_months_since_1900": 1346,
+            "length_in_months": 3
+        },
+        {
+            "name": "Scott Speer",
+            "href": "https://www.whosdatedwho.com/dating/scott-speer",
+            "relationship_type": 2,
+            "start_date": "Apr 2009",
+            "end_date": "Nov 2012",
+            "length": "3 years",
+            "start_months_since_1900": 1311,
+            "end_months_since_1900": 1354,
+            "length_in_months": 36
+        },
+        {
+            "name": "Jared Murillo",
+            "href": "https://www.whosdatedwho.com/dating/jared-murillo",
+            "relationship_type": 2,
+            "start_date": "Jan 2006",
+            "end_date": "Apr 2009",
+            "length": "3 years",
+            "start_months_since_1900": 1272,
+            "end_months_since_1900": 1311,
+            "length_in_months": 36
+        },
+        {
+            "name": "Gili Lang",
+            "href": "https://www.whosdatedwho.com/dating/gili-lang",
+            "relationship_type": 2,
+            "start_date": "Dec 1999",
+            "end_date": "May 2000",
+            "length": "5 months",
+            "start_months_since_1900": 1199,
+            "end_months_since_1900": 1204,
+            "length_in_months": 5
+        }
+    ],
+    "details": {
+        "First Name": "Ashley",
+        "Middle Name": "Michelle",
+        "Last Name": "French",
+        "Maiden Name": "Tisdale",
+        "Full Name at Birth": "Ashley Michelle Tisdale",
+        "Alternative Name": "Ash, Ashie, Tiz, The Tizz",
+        "Birthday": "1985",
+        "Birthplace": "New Jersey",
+        "Height": "161",
+        "Weight": "115lbs (52 kg)",
+        "Zodiac Sign": "8",
+        "Sexuality": "Straight",
+        "Religion": "31",
+        "Ethnicity": "6",
+        "Nationality": "91",
+        "Occupation": "8"
+    }
+}

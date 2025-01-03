@@ -1,0 +1,33 @@
+{
+    "relationships": [
+        {
+            "name": "Red Buttons",
+            "href": "https://www.whosdatedwho.com/dating/red-buttons",
+            "relationship_type": 4,
+            "start_date": "1964",
+            "end_date": "Mar 2001",
+            "length": "37 years",
+            "start_months_since_1900": 768,
+            "end_months_since_1900": 1214,
+            "length_in_months": 444
+        }
+    ],
+    "details": {
+        "First Name": "Alicia",
+        "Middle Name": "NA",
+        "Last Name": "Prats",
+        "Maiden Name": "NA",
+        "Full Name at Birth": "NA",
+        "Alternative Name": "NA",
+        "Birthday": "NA",
+        "Birthplace": "NA",
+        "Height": "NA",
+        "Weight": "NA",
+        "Zodiac Sign": "2",
+        "Sexuality": "NA",
+        "Religion": "1",
+        "Ethnicity": "1",
+        "Nationality": "65",
+        "Occupation": "19"
+    }
+}

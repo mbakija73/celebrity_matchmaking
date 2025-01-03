@@ -1,0 +1,16 @@
+{
+    "relationships": [
+        {
+            "name": "Susan Morrow",
+            "href": "https://www.whosdatedwho.com/dating/susan-morrow",
+            "relationship_type": 4,
+            "start_date": "Dec 1956",
+            "end_date": "Oct 1959",
+            "length": "2 years",
+            "start_months_since_1900": 683,
+            "end_months_since_1900": 717,
+            "length_in_months": 24
+        }
+    ],
+    "details": {}
+}

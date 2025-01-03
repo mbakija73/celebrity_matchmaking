@@ -1,0 +1,55 @@
+{
+    "relationships": [
+        {
+            "name": "Kim Darby",
+            "href": "https://www.whosdatedwho.com/dating/kim-darby",
+            "relationship_type": 2,
+            "start_date": "2007",
+            "end_date": "",
+            "length": "-",
+            "start_months_since_1900": 1284,
+            "end_months_since_1900": -1,
+            "length_in_months": -1
+        },
+        {
+            "name": "Charlotte Samco",
+            "href": "https://www.whosdatedwho.com/dating/charlotte-samco",
+            "relationship_type": 4,
+            "start_date": "1990",
+            "end_date": "2021",
+            "length": "31 years",
+            "start_months_since_1900": 1080,
+            "end_months_since_1900": 1452,
+            "length_in_months": 372
+        },
+        {
+            "name": "Debra Tate",
+            "href": "https://www.whosdatedwho.com/dating/debra-tate",
+            "relationship_type": 2,
+            "start_date": "1973",
+            "end_date": "1976",
+            "length": "3 years",
+            "start_months_since_1900": 876,
+            "end_months_since_1900": 912,
+            "length_in_months": 36
+        }
+    ],
+    "details": {
+        "First Name": "Johnny",
+        "Middle Name": "Ernest",
+        "Last Name": "Crawford",
+        "Maiden Name": "NA",
+        "Full Name at Birth": "John Ernest Crawford",
+        "Alternative Name": "John Ernest Crawford, Johnny Crawford",
+        "Birthday": "1946",
+        "Birthplace": "USA",
+        "Height": "173",
+        "Weight": "NA",
+        "Zodiac Sign": "7",
+        "Sexuality": "Straight",
+        "Religion": "1",
+        "Ethnicity": "6",
+        "Nationality": "91",
+        "Occupation": "8"
+    }
+}

@@ -1,0 +1,77 @@
+{
+    "relationships": [
+        {
+            "name": "Pete Davidson",
+            "href": "https://www.whosdatedwho.com/dating/pete-davidson-comedian",
+            "relationship_type": 1,
+            "start_date": "Feb 2023",
+            "end_date": "Feb 2023",
+            "length": "-",
+            "start_months_since_1900": 1477,
+            "end_months_since_1900": 1477,
+            "length_in_months": -1
+        },
+        {
+            "name": "Lil Tjay",
+            "href": "https://www.whosdatedwho.com/dating/lil-tjay",
+            "relationship_type": 3,
+            "start_date": "Oct 2022",
+            "end_date": "Oct 2022",
+            "length": "-",
+            "start_months_since_1900": 1473,
+            "end_months_since_1900": 1473,
+            "length_in_months": -1
+        },
+        {
+            "name": "Drake",
+            "href": "https://www.whosdatedwho.com/dating/aubrey-graham",
+            "relationship_type": 2,
+            "start_date": "Sep 2022",
+            "end_date": "Sep 2022",
+            "length": "-",
+            "start_months_since_1900": 1472,
+            "end_months_since_1900": 1472,
+            "length_in_months": -1
+        },
+        {
+            "name": "Caleb McLaughlin",
+            "href": "https://www.whosdatedwho.com/dating/caleb-mclaughlin",
+            "relationship_type": 3,
+            "start_date": "Aug 2022",
+            "end_date": "Aug 2022",
+            "length": "-",
+            "start_months_since_1900": 1471,
+            "end_months_since_1900": 1471,
+            "length_in_months": -1
+        },
+        {
+            "name": "Shohei Ohtani",
+            "href": "https://www.whosdatedwho.com/dating/shohei-ohtani",
+            "relationship_type": 1,
+            "start_date": "",
+            "end_date": "",
+            "length": "-",
+            "start_months_since_1900": -1,
+            "end_months_since_1900": -1,
+            "length_in_months": -1
+        }
+    ],
+    "details": {
+        "First Name": "Isis",
+        "Middle Name": "NA",
+        "Last Name": "Gaston",
+        "Maiden Name": "NA",
+        "Full Name at Birth": "Isis Naija Gaston",
+        "Alternative Name": "Ice Spice, Isis Gaston, Isis Naija Gaston",
+        "Birthday": "2000",
+        "Birthplace": "USA",
+        "Height": "160",
+        "Weight": "128lbs (58 kg)",
+        "Zodiac Sign": "13",
+        "Sexuality": "Straight",
+        "Religion": "18",
+        "Ethnicity": "8",
+        "Nationality": "91",
+        "Occupation": "1"
+    }
+}

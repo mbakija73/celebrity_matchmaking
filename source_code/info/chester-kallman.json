@@ -1,0 +1,44 @@
+{
+    "relationships": [
+        {
+            "name": "W.H. Auden",
+            "href": "https://www.whosdatedwho.com/dating/w-h-auden",
+            "relationship_type": 2,
+            "start_date": "1939",
+            "end_date": "1973",
+            "length": "34 years",
+            "start_months_since_1900": 468,
+            "end_months_since_1900": 876,
+            "length_in_months": 408
+        },
+        {
+            "name": "Lincoln Kirstein",
+            "href": "https://www.whosdatedwho.com/dating/lincoln-kirstein",
+            "relationship_type": 3,
+            "start_date": "",
+            "end_date": "",
+            "length": "-",
+            "start_months_since_1900": -1,
+            "end_months_since_1900": -1,
+            "length_in_months": -1
+        }
+    ],
+    "details": {
+        "First Name": "Chester",
+        "Middle Name": "NA",
+        "Last Name": "Kallman",
+        "Maiden Name": "NA",
+        "Full Name at Birth": "Chester Simon Kallman",
+        "Alternative Name": "NA",
+        "Birthday": "1921",
+        "Birthplace": "U.S.",
+        "Height": "NA",
+        "Weight": "NA",
+        "Zodiac Sign": "13",
+        "Sexuality": "Gay",
+        "Religion": "31",
+        "Ethnicity": "6",
+        "Nationality": "91",
+        "Occupation": "3"
+    }
+}

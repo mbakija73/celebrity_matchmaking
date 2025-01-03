@@ -1,0 +1,77 @@
+{
+    "relationships": [
+        {
+            "name": "Mircea Monroe",
+            "href": "https://www.whosdatedwho.com/dating/mircea-monroe",
+            "relationship_type": 2,
+            "start_date": "2017",
+            "end_date": "present",
+            "length": "7 years",
+            "start_months_since_1900": 1404,
+            "end_months_since_1900": -1,
+            "length_in_months": 84
+        },
+        {
+            "name": "Hayley Atwell",
+            "href": "https://www.whosdatedwho.com/dating/hayley-atwell",
+            "relationship_type": 3,
+            "start_date": "2013",
+            "end_date": "2013",
+            "length": "-",
+            "start_months_since_1900": 1356,
+            "end_months_since_1900": 1356,
+            "length_in_months": -1
+        },
+        {
+            "name": "Claire Jones",
+            "href": "https://www.whosdatedwho.com/dating/claire-jones",
+            "relationship_type": 2,
+            "start_date": "2007",
+            "end_date": "May 2009",
+            "length": "2 years",
+            "start_months_since_1900": 1284,
+            "end_months_since_1900": 1312,
+            "length_in_months": 24
+        },
+        {
+            "name": "Gina Yashere",
+            "href": "https://www.whosdatedwho.com/dating/gina-yashere",
+            "relationship_type": 1,
+            "start_date": "",
+            "end_date": "",
+            "length": "-",
+            "start_months_since_1900": -1,
+            "end_months_since_1900": -1,
+            "length_in_months": -1
+        },
+        {
+            "name": "Christine Marzano",
+            "href": "https://www.whosdatedwho.com/dating/christine-marzano",
+            "relationship_type": 2,
+            "start_date": "",
+            "end_date": "",
+            "length": "-",
+            "start_months_since_1900": -1,
+            "end_months_since_1900": -1,
+            "length_in_months": -1
+        }
+    ],
+    "details": {
+        "First Name": "Stephen",
+        "Middle Name": "James",
+        "Last Name": "Merchant",
+        "Maiden Name": "NA",
+        "Full Name at Birth": "Stephen James Merchant",
+        "Alternative Name": "Smerch, Spud",
+        "Birthday": "1974",
+        "Birthplace": "England",
+        "Height": "201",
+        "Weight": "NA",
+        "Zodiac Sign": "6",
+        "Sexuality": "Straight",
+        "Religion": "22",
+        "Ethnicity": "6",
+        "Nationality": "8",
+        "Occupation": "8"
+    }
+}

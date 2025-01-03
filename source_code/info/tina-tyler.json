@@ -1,0 +1,44 @@
+{
+    "relationships": [
+        {
+            "name": "Tony Tedeschi",
+            "href": "https://www.whosdatedwho.com/dating/tony-tedeschi",
+            "relationship_type": 4,
+            "start_date": "1993",
+            "end_date": "1994",
+            "length": "1 year",
+            "start_months_since_1900": 1116,
+            "end_months_since_1900": 1128,
+            "length_in_months": 12
+        },
+        {
+            "name": "Ted Turner",
+            "href": "https://www.whosdatedwho.com/dating/ted-turner",
+            "relationship_type": 4,
+            "start_date": "1964",
+            "end_date": "1988",
+            "length": "24 years",
+            "start_months_since_1900": 768,
+            "end_months_since_1900": 1056,
+            "length_in_months": 288
+        }
+    ],
+    "details": {
+        "First Name": "Tina",
+        "Middle Name": "Shirley",
+        "Last Name": "Tyler",
+        "Maiden Name": "NA",
+        "Full Name at Birth": "Jane Shirley Smith",
+        "Alternative Name": "Tina Tyler, Jane Smith Turner",
+        "Birthday": "1965",
+        "Birthplace": "Canada",
+        "Height": "170",
+        "Weight": "124lbs (56 kg)",
+        "Zodiac Sign": "8",
+        "Sexuality": "NA",
+        "Religion": "1",
+        "Ethnicity": "6",
+        "Nationality": "90",
+        "Occupation": "16"
+    }
+}

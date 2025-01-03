@@ -1,0 +1,55 @@
+{
+    "relationships": [
+        {
+            "name": "Neha Kakkar",
+            "href": "https://www.whosdatedwho.com/dating/neha-kakkar",
+            "relationship_type": 1,
+            "start_date": "2019",
+            "end_date": "2020",
+            "length": "1 year",
+            "start_months_since_1900": 1428,
+            "end_months_since_1900": 1440,
+            "length_in_months": 12
+        },
+        {
+            "name": "Shweta Agarwal",
+            "href": "https://www.whosdatedwho.com/dating/shweta-agarwal",
+            "relationship_type": 4,
+            "start_date": "2010",
+            "end_date": "present",
+            "length": "14 years",
+            "start_months_since_1900": 1320,
+            "end_months_since_1900": -1,
+            "length_in_months": 168
+        },
+        {
+            "name": "Adah Sharma",
+            "href": "https://www.whosdatedwho.com/dating/adah-sharma",
+            "relationship_type": 1,
+            "start_date": "",
+            "end_date": "",
+            "length": "-",
+            "start_months_since_1900": -1,
+            "end_months_since_1900": -1,
+            "length_in_months": -1
+        }
+    ],
+    "details": {
+        "First Name": "Aditya",
+        "Middle Name": "NA",
+        "Last Name": "Narayan",
+        "Maiden Name": "NA",
+        "Full Name at Birth": "Aditya Narayan Jha",
+        "Alternative Name": "Aditya, Master Aditya Narayan, Adi, Aditya Narayan, Aditya Narayan Jha",
+        "Birthday": "1987",
+        "Birthplace": "India",
+        "Height": "168",
+        "Weight": "150lbs (68 kg)",
+        "Zodiac Sign": "12",
+        "Sexuality": "Straight",
+        "Religion": "27",
+        "Ethnicity": "7",
+        "Nationality": "34",
+        "Occupation": "1"
+    }
+}

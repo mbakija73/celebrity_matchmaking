@@ -1,0 +1,110 @@
+{
+    "relationships": [
+        {
+            "name": "Jessica Seinfeld",
+            "href": "https://www.whosdatedwho.com/dating/jessica-seinfeld",
+            "relationship_type": 4,
+            "start_date": "Apr 1998",
+            "end_date": "present",
+            "length": "26 years",
+            "start_months_since_1900": 1179,
+            "end_months_since_1900": -1,
+            "length_in_months": 312
+        },
+        {
+            "name": "Jennifer Crittenden",
+            "href": "https://www.whosdatedwho.com/dating/jennifer-crittenden",
+            "relationship_type": 3,
+            "start_date": "1998",
+            "end_date": "1998",
+            "length": "-",
+            "start_months_since_1900": 1176,
+            "end_months_since_1900": 1176,
+            "length_in_months": -1
+        },
+        {
+            "name": "Shoshanna Gruss",
+            "href": "https://www.whosdatedwho.com/dating/shoshanna-gruss",
+            "relationship_type": 2,
+            "start_date": "1993",
+            "end_date": "1997",
+            "length": "4 years",
+            "start_months_since_1900": 1116,
+            "end_months_since_1900": 1164,
+            "length_in_months": 48
+        },
+        {
+            "name": "Tawny Kitaen",
+            "href": "https://www.whosdatedwho.com/dating/tawny-kitaen",
+            "relationship_type": 2,
+            "start_date": "1992",
+            "end_date": "1992",
+            "length": "-",
+            "start_months_since_1900": 1104,
+            "end_months_since_1900": 1104,
+            "length_in_months": -1
+        },
+        {
+            "name": "Susan McNabb",
+            "href": "https://www.whosdatedwho.com/dating/susan-mcnabb",
+            "relationship_type": 2,
+            "start_date": "1983",
+            "end_date": "1990",
+            "length": "7 years",
+            "start_months_since_1900": 996,
+            "end_months_since_1900": 1080,
+            "length_in_months": 84
+        },
+        {
+            "name": "Monica Yates",
+            "href": "https://www.whosdatedwho.com/dating/monica-yates",
+            "relationship_type": 2,
+            "start_date": "1978",
+            "end_date": "1978",
+            "length": "-",
+            "start_months_since_1900": 936,
+            "end_months_since_1900": 936,
+            "length_in_months": -1
+        },
+        {
+            "name": "Caryn Trager",
+            "href": "https://www.whosdatedwho.com/dating/caryn-trager",
+            "relationship_type": 2,
+            "start_date": "1973",
+            "end_date": "1978",
+            "length": "5 years",
+            "start_months_since_1900": 876,
+            "end_months_since_1900": 936,
+            "length_in_months": 60
+        },
+        {
+            "name": "Angela Hickerson",
+            "href": "https://www.whosdatedwho.com/dating/angela-hickerson",
+            "relationship_type": 2,
+            "start_date": "",
+            "end_date": "",
+            "length": "-",
+            "start_months_since_1900": -1,
+            "end_months_since_1900": -1,
+            "length_in_months": -1
+        }
+    ],
+    "details": {
+        "First Name": "Jerry",
+        "Middle Name": "Allen",
+        "Last Name": "Seinfeld",
+        "Maiden Name": "NA",
+        "Full Name at Birth": "Jerome Allen Seinfeld",
+        "Alternative Name": "NA",
+        "Birthday": "1954",
+        "Birthplace": "United States",
+        "Height": "180",
+        "Weight": "NA",
+        "Zodiac Sign": "3",
+        "Sexuality": "Straight",
+        "Religion": "31",
+        "Ethnicity": "6",
+        "Nationality": "91",
+        "Occupation": "16"
+    }
+}

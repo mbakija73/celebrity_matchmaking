@@ -1,0 +1,88 @@
+{
+    "relationships": [
+        {
+            "name": "Jack Roberts",
+            "href": "https://www.whosdatedwho.com/dating/jack-roberts",
+            "relationship_type": 4,
+            "start_date": "1941",
+            "end_date": "1949",
+            "length": "8 years",
+            "start_months_since_1900": 492,
+            "end_months_since_1900": 588,
+            "length_in_months": 96
+        },
+        {
+            "name": "Sy Bartlett",
+            "href": "https://www.whosdatedwho.com/dating/sy-bartlett",
+            "relationship_type": 4,
+            "start_date": "1932",
+            "end_date": "1937",
+            "length": "5 years",
+            "start_months_since_1900": 384,
+            "end_months_since_1900": 444,
+            "length_in_months": 60
+        },
+        {
+            "name": "Mervyn LeRoy",
+            "href": "https://www.whosdatedwho.com/dating/mervyn-leroy",
+            "relationship_type": 2,
+            "start_date": "1929",
+            "end_date": "1929",
+            "length": "-",
+            "start_months_since_1900": 348,
+            "end_months_since_1900": 348,
+            "length_in_months": -1
+        },
+        {
+            "name": "William Hinshaw",
+            "href": "https://www.whosdatedwho.com/dating/william-hinshaw",
+            "relationship_type": 1,
+            "start_date": "",
+            "end_date": "",
+            "length": "-",
+            "start_months_since_1900": -1,
+            "end_months_since_1900": -1,
+            "length_in_months": -1
+        },
+        {
+            "name": "Jack Warburton",
+            "href": "https://www.whosdatedwho.com/dating/jack-warburton",
+            "relationship_type": 2,
+            "start_date": "",
+            "end_date": "",
+            "length": "-",
+            "start_months_since_1900": -1,
+            "end_months_since_1900": -1,
+            "length_in_months": -1
+        },
+        {
+            "name": "Dick Grace",
+            "href": "https://www.whosdatedwho.com/dating/dick-grace",
+            "relationship_type": 2,
+            "start_date": "",
+            "end_date": "",
+            "length": "-",
+            "start_months_since_1900": -1,
+            "end_months_since_1900": -1,
+            "length_in_months": -1
+        }
+    ],
+    "details": {
+        "First Name": "Alva (Alice)",
+        "Middle Name": "Violet",
+        "Last Name": "NA",
+        "Maiden Name": "White",
+        "Full Name at Birth": "Alva Violet White",
+        "Alternative Name": "Alva White, Alice White, Alva Violet White",
+        "Birthday": "1904",
+        "Birthplace": "USA",
+        "Height": "160",
+        "Weight": "NA",
+        "Zodiac Sign": "11",
+        "Sexuality": "Straight",
+        "Religion": "1",
+        "Ethnicity": "6",
+        "Nationality": "91",
+        "Occupation": "8"
+    }
+}

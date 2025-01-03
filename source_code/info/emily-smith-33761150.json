@@ -1,0 +1,33 @@
+{
+    "relationships": [
+        {
+            "name": "Steve Guttenberg",
+            "href": "https://www.whosdatedwho.com/dating/steve-guttenberg",
+            "relationship_type": 4,
+            "start_date": "Dec 2016",
+            "end_date": "present",
+            "length": "7 years",
+            "start_months_since_1900": 1403,
+            "end_months_since_1900": -1,
+            "length_in_months": 84
+        }
+    ],
+    "details": {
+        "First Name": "Emily",
+        "Middle Name": "NA",
+        "Last Name": "Smith",
+        "Maiden Name": "NA",
+        "Full Name at Birth": "NA",
+        "Alternative Name": "NA",
+        "Birthday": "1981",
+        "Birthplace": "NA",
+        "Height": "NA",
+        "Weight": "NA",
+        "Zodiac Sign": "7",
+        "Sexuality": "NA",
+        "Religion": "1",
+        "Ethnicity": "6",
+        "Nationality": "65",
+        "Occupation": "19"
+    }
+}

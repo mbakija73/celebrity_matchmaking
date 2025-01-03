@@ -1,0 +1,66 @@
+{
+    "relationships": [
+        {
+            "name": "Eric Clapton",
+            "href": "https://www.whosdatedwho.com/dating/eric-clapton",
+            "relationship_type": 2,
+            "start_date": "1987",
+            "end_date": "1987",
+            "length": "-",
+            "start_months_since_1900": 1044,
+            "end_months_since_1900": 1044,
+            "length_in_months": -1
+        },
+        {
+            "name": "Martyn Stanbridge",
+            "href": "https://www.whosdatedwho.com/dating/martyn-stanbridge",
+            "relationship_type": 2,
+            "start_date": "1984",
+            "end_date": "1987",
+            "length": "3 years",
+            "start_months_since_1900": 1008,
+            "end_months_since_1900": 1044,
+            "length_in_months": 36
+        },
+        {
+            "name": "John McEnery",
+            "href": "https://www.whosdatedwho.com/dating/john-mcenery",
+            "relationship_type": 4,
+            "start_date": "May 1973",
+            "end_date": "1978",
+            "length": "4 years",
+            "start_months_since_1900": 880,
+            "end_months_since_1900": 936,
+            "length_in_months": 48
+        },
+        {
+            "name": "Imran Khan",
+            "href": "https://www.whosdatedwho.com/dating/imran-khan-cricket",
+            "relationship_type": 2,
+            "start_date": "",
+            "end_date": "",
+            "length": "-",
+            "start_months_since_1900": -1,
+            "end_months_since_1900": -1,
+            "length_in_months": -1
+        }
+    ],
+    "details": {
+        "First Name": "Stephanie",
+        "Middle Name": "NA",
+        "Last Name": "Beacham",
+        "Maiden Name": "NA",
+        "Full Name at Birth": "Stephanie Michel Beacham",
+        "Alternative Name": "Glamma, Stephanie Beacham, Stephanie Michel Beacham",
+        "Birthday": "1947",
+        "Birthplace": "UK",
+        "Height": "170",
+        "Weight": "NA",
+        "Zodiac Sign": "1",
+        "Sexuality": "Straight",
+        "Religion": "1",
+        "Ethnicity": "6",
+        "Nationality": "8",
+        "Occupation": "8"
+    }
+}

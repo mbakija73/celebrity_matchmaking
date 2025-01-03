@@ -1,0 +1,55 @@
+{
+    "relationships": [
+        {
+            "name": "Tatjana Sazonova",
+            "href": "https://www.whosdatedwho.com/dating/tatjana-sazonova",
+            "relationship_type": 2,
+            "start_date": "2004",
+            "end_date": "",
+            "length": "-",
+            "start_months_since_1900": 1248,
+            "end_months_since_1900": -1,
+            "length_in_months": -1
+        },
+        {
+            "name": "Sheila Lussier",
+            "href": "https://www.whosdatedwho.com/dating/sheila-lussier",
+            "relationship_type": 2,
+            "start_date": "1994",
+            "end_date": "1994",
+            "length": "-",
+            "start_months_since_1900": 1128,
+            "end_months_since_1900": 1128,
+            "length_in_months": -1
+        },
+        {
+            "name": "Margret Schenker",
+            "href": "https://www.whosdatedwho.com/dating/margret-schenker",
+            "relationship_type": 4,
+            "start_date": "1979",
+            "end_date": "2004",
+            "length": "25 years",
+            "start_months_since_1900": 948,
+            "end_months_since_1900": 1248,
+            "length_in_months": 300
+        }
+    ],
+    "details": {
+        "First Name": "Rudolf",
+        "Middle Name": "NA",
+        "Last Name": "Schenker",
+        "Maiden Name": "NA",
+        "Full Name at Birth": "NA",
+        "Alternative Name": "NA",
+        "Birthday": "1948",
+        "Birthplace": "Hanover",
+        "Height": "185",
+        "Weight": "NA",
+        "Zodiac Sign": "11",
+        "Sexuality": "Straight",
+        "Religion": "1",
+        "Ethnicity": "6",
+        "Nationality": "55",
+        "Occupation": "1"
+    }
+}

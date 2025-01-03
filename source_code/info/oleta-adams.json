@@ -1,0 +1,44 @@
+{
+    "relationships": [
+        {
+            "name": "John Cushon",
+            "href": "https://www.whosdatedwho.com/dating/john-cushon",
+            "relationship_type": 4,
+            "start_date": "1994",
+            "end_date": "",
+            "length": "-",
+            "start_months_since_1900": 1128,
+            "end_months_since_1900": -1,
+            "length_in_months": -1
+        },
+        {
+            "name": "Phil Collins",
+            "href": "https://www.whosdatedwho.com/dating/phil-collins",
+            "relationship_type": 3,
+            "start_date": "",
+            "end_date": "",
+            "length": "-",
+            "start_months_since_1900": -1,
+            "end_months_since_1900": -1,
+            "length_in_months": -1
+        }
+    ],
+    "details": {
+        "First Name": "Oleta",
+        "Middle Name": "Angela",
+        "Last Name": "Adams",
+        "Maiden Name": "NA",
+        "Full Name at Birth": "Oleta Angela Adams",
+        "Alternative Name": "Oleta Adams",
+        "Birthday": "1953",
+        "Birthplace": "USA",
+        "Height": "160",
+        "Weight": "NA",
+        "Zodiac Sign": "3",
+        "Sexuality": "Straight",
+        "Religion": "29",
+        "Ethnicity": "2",
+        "Nationality": "91",
+        "Occupation": "1"
+    }
+}

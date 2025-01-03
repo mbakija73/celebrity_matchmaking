@@ -1,0 +1,44 @@
+{
+    "relationships": [
+        {
+            "name": "Richard Benedon",
+            "href": "https://www.whosdatedwho.com/dating/richard-benedon",
+            "relationship_type": 4,
+            "start_date": "1990",
+            "end_date": "",
+            "length": "-",
+            "start_months_since_1900": 1080,
+            "end_months_since_1900": -1,
+            "length_in_months": -1
+        },
+        {
+            "name": "David Cassidy",
+            "href": "https://www.whosdatedwho.com/dating/david-cassidy",
+            "relationship_type": 2,
+            "start_date": "Sep 1985",
+            "end_date": "Dec 1986",
+            "length": "1 year",
+            "start_months_since_1900": 1028,
+            "end_months_since_1900": 1043,
+            "length_in_months": 12
+        }
+    ],
+    "details": {
+        "First Name": "Sherry",
+        "Middle Name": "NA",
+        "Last Name": "Benedon",
+        "Maiden Name": "NA",
+        "Full Name at Birth": "Sherry Williams",
+        "Alternative Name": "NA",
+        "Birthday": "1953",
+        "Birthplace": "NA",
+        "Height": "NA",
+        "Weight": "NA",
+        "Zodiac Sign": "4",
+        "Sexuality": "NA",
+        "Religion": "1",
+        "Ethnicity": "1",
+        "Nationality": "91",
+        "Occupation": "19"
+    }
+}

@@ -1,0 +1,55 @@
+{
+    "relationships": [
+        {
+            "name": "Tom Holland",
+            "href": "https://www.whosdatedwho.com/dating/tom-holland-actor",
+            "relationship_type": 2,
+            "start_date": "2021",
+            "end_date": "present",
+            "length": "3 years",
+            "start_months_since_1900": 1452,
+            "end_months_since_1900": -1,
+            "length_in_months": 36
+        },
+        {
+            "name": "Jacob Elordi",
+            "href": "https://www.whosdatedwho.com/dating/jacob-elordi",
+            "relationship_type": 2,
+            "start_date": "2019",
+            "end_date": "2020",
+            "length": "1 year",
+            "start_months_since_1900": 1428,
+            "end_months_since_1900": 1440,
+            "length_in_months": 12
+        },
+        {
+            "name": "Odell Beckham Jr.",
+            "href": "https://www.whosdatedwho.com/dating/odell-beckham-jr",
+            "relationship_type": 3,
+            "start_date": "Feb 2016",
+            "end_date": "Feb 2016",
+            "length": "-",
+            "start_months_since_1900": 1393,
+            "end_months_since_1900": 1393,
+            "length_in_months": -1
+        }
+    ],
+    "details": {
+        "First Name": "Zendaya",
+        "Middle Name": "Maree Stoermer",
+        "Last Name": "Coleman",
+        "Maiden Name": "NA",
+        "Full Name at Birth": "Zendaya Maree Stoermer Coleman",
+        "Alternative Name": "Z, Zendaya Maree Stoermer Coleman, Zendaya, Daya",
+        "Birthday": "1996",
+        "Birthplace": "USA",
+        "Height": "174",
+        "Weight": "130lbs (59 kg)",
+        "Zodiac Sign": "11",
+        "Sexuality": "Straight",
+        "Religion": "18",
+        "Ethnicity": "8",
+        "Nationality": "91",
+        "Occupation": "8"
+    }
+}

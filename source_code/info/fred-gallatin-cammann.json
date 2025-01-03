@@ -1,0 +1,33 @@
+{
+    "relationships": [
+        {
+            "name": "Elizabeth Montgomery",
+            "href": "https://www.whosdatedwho.com/dating/elizabeth-montgomery",
+            "relationship_type": 4,
+            "start_date": "1953",
+            "end_date": "9th Aug 1955",
+            "length": "2 years",
+            "start_months_since_1900": 636,
+            "end_months_since_1900": 667,
+            "length_in_months": 24
+        }
+    ],
+    "details": {
+        "First Name": "Fred",
+        "Middle Name": "Gallatin",
+        "Last Name": "Cammann",
+        "Maiden Name": "NA",
+        "Full Name at Birth": "Frederic Gallatin Cammann",
+        "Alternative Name": "Frederick Gallatin Cammann",
+        "Birthday": "NA",
+        "Birthplace": "NA",
+        "Height": "NA",
+        "Weight": "NA",
+        "Zodiac Sign": "2",
+        "Sexuality": "NA",
+        "Religion": "1",
+        "Ethnicity": "6",
+        "Nationality": "65",
+        "Occupation": "19"
+    }
+}

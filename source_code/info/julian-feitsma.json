@@ -1,0 +1,33 @@
+{
+    "relationships": [
+        {
+            "name": "Paris Hilton",
+            "href": "https://www.whosdatedwho.com/dating/paris-hilton",
+            "relationship_type": 3,
+            "start_date": "Nov 2007",
+            "end_date": "Dec 2007",
+            "length": "1 month",
+            "start_months_since_1900": 1294,
+            "end_months_since_1900": 1295,
+            "length_in_months": 1
+        }
+    ],
+    "details": {
+        "First Name": "Julian",
+        "Middle Name": "NA",
+        "Last Name": "Feitsma",
+        "Maiden Name": "NA",
+        "Full Name at Birth": "NA",
+        "Alternative Name": "NA",
+        "Birthday": "NA",
+        "Birthplace": "Hamburg",
+        "Height": "191",
+        "Weight": "NA",
+        "Zodiac Sign": "2",
+        "Sexuality": "NA",
+        "Religion": "1",
+        "Ethnicity": "6",
+        "Nationality": "55",
+        "Occupation": "15"
+    }
+}

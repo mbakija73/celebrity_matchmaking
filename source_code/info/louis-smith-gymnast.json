@@ -1,0 +1,55 @@
+{
+    "relationships": [
+        {
+            "name": "Lucy Mecklenburgh",
+            "href": "https://www.whosdatedwho.com/dating/lucy-mecklenburgh",
+            "relationship_type": 2,
+            "start_date": "Dec 2014",
+            "end_date": "Feb 2016",
+            "length": "1 year",
+            "start_months_since_1900": 1379,
+            "end_months_since_1900": 1393,
+            "length_in_months": 12
+        },
+        {
+            "name": "Chantelle Hole",
+            "href": "https://www.whosdatedwho.com/dating/chantelle-hole",
+            "relationship_type": 2,
+            "start_date": "",
+            "end_date": "",
+            "length": "-",
+            "start_months_since_1900": -1,
+            "end_months_since_1900": -1,
+            "length_in_months": -1
+        },
+        {
+            "name": "Kimberley Walsh",
+            "href": "https://www.whosdatedwho.com/dating/kimberley-walsh",
+            "relationship_type": 1,
+            "start_date": "",
+            "end_date": "",
+            "length": "-",
+            "start_months_since_1900": -1,
+            "end_months_since_1900": -1,
+            "length_in_months": -1
+        }
+    ],
+    "details": {
+        "First Name": "Louis",
+        "Middle Name": "NA",
+        "Last Name": "Smith",
+        "Maiden Name": "NA",
+        "Full Name at Birth": "Louis Antoine Smith",
+        "Alternative Name": "NA",
+        "Birthday": "1989",
+        "Birthplace": "Cambridgeshire",
+        "Height": "178",
+        "Weight": "167lbs (76 kg)",
+        "Zodiac Sign": "3",
+        "Sexuality": "Straight",
+        "Religion": "1",
+        "Ethnicity": "8",
+        "Nationality": "8",
+        "Occupation": "2"
+    }
+}

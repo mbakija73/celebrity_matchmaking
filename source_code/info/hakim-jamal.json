@@ -1,0 +1,55 @@
+{
+    "relationships": [
+        {
+            "name": "Diana Athill",
+            "href": "https://www.whosdatedwho.com/dating/diana-athill",
+            "relationship_type": 2,
+            "start_date": "1971",
+            "end_date": "1971",
+            "length": "-",
+            "start_months_since_1900": 852,
+            "end_months_since_1900": 852,
+            "length_in_months": -1
+        },
+        {
+            "name": "Gale Benson",
+            "href": "https://www.whosdatedwho.com/dating/gale-benson",
+            "relationship_type": 2,
+            "start_date": "1971",
+            "end_date": "Jan 1972",
+            "length": "1 year",
+            "start_months_since_1900": 852,
+            "end_months_since_1900": 864,
+            "length_in_months": 12
+        },
+        {
+            "name": "Jean Seberg",
+            "href": "https://www.whosdatedwho.com/dating/jean-seberg",
+            "relationship_type": 3,
+            "start_date": "1968",
+            "end_date": "1969",
+            "length": "1 year",
+            "start_months_since_1900": 816,
+            "end_months_since_1900": 828,
+            "length_in_months": 12
+        }
+    ],
+    "details": {
+        "First Name": "Hakim",
+        "Middle Name": "NA",
+        "Last Name": "Jamal",
+        "Maiden Name": "NA",
+        "Full Name at Birth": "NA",
+        "Alternative Name": "NA",
+        "Birthday": "1931",
+        "Birthplace": "U.S.",
+        "Height": "NA",
+        "Weight": "NA",
+        "Zodiac Sign": "7",
+        "Sexuality": "NA",
+        "Religion": "1",
+        "Ethnicity": "1",
+        "Nationality": "91",
+        "Occupation": "12"
+    }
+}

@@ -1,0 +1,55 @@
+{
+    "relationships": [
+        {
+            "name": "Andrew Frankel",
+            "href": "https://www.whosdatedwho.com/dating/andrew-frankel",
+            "relationship_type": 4,
+            "start_date": "2013",
+            "end_date": "present",
+            "length": "11 years",
+            "start_months_since_1900": 1356,
+            "end_months_since_1900": -1,
+            "length_in_months": 132
+        },
+        {
+            "name": "McG",
+            "href": "https://www.whosdatedwho.com/dating/mcg",
+            "relationship_type": 2,
+            "start_date": "Sep 2010",
+            "end_date": "Oct 2010",
+            "length": "1 month",
+            "start_months_since_1900": 1328,
+            "end_months_since_1900": 1329,
+            "length_in_months": 1
+        },
+        {
+            "name": "Tom Brady",
+            "href": "https://www.whosdatedwho.com/dating/tom-brady",
+            "relationship_type": 2,
+            "start_date": "2004",
+            "end_date": "Dec 2006",
+            "length": "2 years",
+            "start_months_since_1900": 1248,
+            "end_months_since_1900": 1283,
+            "length_in_months": 24
+        }
+    ],
+    "details": {
+        "First Name": "Kathryn",
+        "Middle Name": "Bridget",
+        "Last Name": "Frankel",
+        "Maiden Name": "Moynahan",
+        "Full Name at Birth": "Kathryn Bridget Moynahan",
+        "Alternative Name": "NA",
+        "Birthday": "1971",
+        "Birthplace": "New York",
+        "Height": "177",
+        "Weight": "123lbs (56 kg)",
+        "Zodiac Sign": "3",
+        "Sexuality": "Straight",
+        "Religion": "13",
+        "Ethnicity": "6",
+        "Nationality": "91",
+        "Occupation": "8"
+    }
+}

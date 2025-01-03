@@ -1,0 +1,44 @@
+{
+    "relationships": [
+        {
+            "name": "Kendall Bora",
+            "href": "https://www.whosdatedwho.com/dating/kendall-bora",
+            "relationship_type": 4,
+            "start_date": "2019",
+            "end_date": "present",
+            "length": "5 years",
+            "start_months_since_1900": 1428,
+            "end_months_since_1900": -1,
+            "length_in_months": 60
+        },
+        {
+            "name": "Justine Schofield",
+            "href": "https://www.whosdatedwho.com/dating/justine-schofield",
+            "relationship_type": 2,
+            "start_date": "2013",
+            "end_date": "Jun 2017",
+            "length": "4 years",
+            "start_months_since_1900": 1356,
+            "end_months_since_1900": 1409,
+            "length_in_months": 48
+        }
+    ],
+    "details": {
+        "First Name": "Matt",
+        "Middle Name": "NA",
+        "Last Name": "Doran",
+        "Maiden Name": "NA",
+        "Full Name at Birth": "Matt Doran",
+        "Alternative Name": "Matt Doran, Matt",
+        "Birthday": "1983",
+        "Birthplace": "Australia",
+        "Height": "180",
+        "Weight": "163lbs (74 kg)",
+        "Zodiac Sign": "13",
+        "Sexuality": "Straight",
+        "Religion": "1",
+        "Ethnicity": "6",
+        "Nationality": "135",
+        "Occupation": "9"
+    }
+}

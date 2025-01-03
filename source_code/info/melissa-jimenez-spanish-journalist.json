@@ -1,0 +1,55 @@
+{
+    "relationships": [
+        {
+            "name": "Fernando Alonso",
+            "href": "https://www.whosdatedwho.com/dating/fernando-alonso",
+            "relationship_type": 2,
+            "start_date": "May 2023",
+            "end_date": "2023",
+            "length": "4 months",
+            "start_months_since_1900": 1480,
+            "end_months_since_1900": 1476,
+            "length_in_months": 4
+        },
+        {
+            "name": "Marc Bartra",
+            "href": "https://www.whosdatedwho.com/dating/marc-bartra",
+            "relationship_type": 4,
+            "start_date": "2014",
+            "end_date": "2022",
+            "length": "8 years",
+            "start_months_since_1900": 1368,
+            "end_months_since_1900": 1464,
+            "length_in_months": 96
+        },
+        {
+            "name": "Dani Mart\u00edn",
+            "href": "https://www.whosdatedwho.com/dating/dani-martin",
+            "relationship_type": 2,
+            "start_date": "Jun 2013",
+            "end_date": "Feb 2014",
+            "length": "8 months",
+            "start_months_since_1900": 1361,
+            "end_months_since_1900": 1369,
+            "length_in_months": 8
+        }
+    ],
+    "details": {
+        "First Name": "Melissa",
+        "Middle Name": "NA",
+        "Last Name": "Jim\u00e9nez",
+        "Maiden Name": "NA",
+        "Full Name at Birth": "Melissa Mar\u00eda Jim\u00e9nez Dionisio",
+        "Alternative Name": "Melissa Jim\u00e9nez, Melissa Mar\u00eda Jim\u00e9nez Dionisio",
+        "Birthday": "1987",
+        "Birthplace": "Belgium",
+        "Height": "NA",
+        "Weight": "NA",
+        "Zodiac Sign": "8",
+        "Sexuality": "NA",
+        "Religion": "1",
+        "Ethnicity": "6",
+        "Nationality": "118",
+        "Occupation": "3"
+    }
+}

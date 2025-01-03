@@ -1,0 +1,66 @@
+{
+    "relationships": [
+        {
+            "name": "Ricardo Rosa",
+            "href": "https://www.whosdatedwho.com/dating/ricardo-rosa",
+            "relationship_type": 4,
+            "start_date": "1991",
+            "end_date": "",
+            "length": "-",
+            "start_months_since_1900": 1092,
+            "end_months_since_1900": -1,
+            "length_in_months": -1
+        },
+        {
+            "name": "William Holden",
+            "href": "https://www.whosdatedwho.com/dating/william-holden",
+            "relationship_type": 2,
+            "start_date": "1959",
+            "end_date": "1959",
+            "length": "-",
+            "start_months_since_1900": 708,
+            "end_months_since_1900": 708,
+            "length_in_months": -1
+        },
+        {
+            "name": "Martin LaSalle",
+            "href": "https://www.whosdatedwho.com/dating/martin-lasalle",
+            "relationship_type": 4,
+            "start_date": "1957",
+            "end_date": "1965",
+            "length": "8 years",
+            "start_months_since_1900": 684,
+            "end_months_since_1900": 780,
+            "length_in_months": 96
+        },
+        {
+            "name": "Luis Miguel Domingu\u00edn",
+            "href": "https://www.whosdatedwho.com/dating/luis-miguel-dominguin",
+            "relationship_type": 2,
+            "start_date": "",
+            "end_date": "",
+            "length": "-",
+            "start_months_since_1900": -1,
+            "end_months_since_1900": -1,
+            "length_in_months": -1
+        }
+    ],
+    "details": {
+        "First Name": "China",
+        "Middle Name": "Dasouza",
+        "Last Name": "Machado",
+        "Maiden Name": "NA",
+        "Full Name at Birth": "Noelie Dasouza Machado",
+        "Alternative Name": "Golden Bones, Chinita",
+        "Birthday": "1928",
+        "Birthplace": "China",
+        "Height": "NA",
+        "Weight": "NA",
+        "Zodiac Sign": "13",
+        "Sexuality": "Straight",
+        "Religion": "13",
+        "Ethnicity": "8",
+        "Nationality": "91",
+        "Occupation": "15"
+    }
+}

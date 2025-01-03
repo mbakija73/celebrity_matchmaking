@@ -1,0 +1,55 @@
+{
+    "relationships": [
+        {
+            "name": "Deliric",
+            "href": "https://www.whosdatedwho.com/dating/deliric-115754695",
+            "relationship_type": 2,
+            "start_date": "2020",
+            "end_date": "present",
+            "length": "4 years",
+            "start_months_since_1900": 1440,
+            "end_months_since_1900": -1,
+            "length_in_months": 48
+        },
+        {
+            "name": "Stefan Lucian",
+            "href": "https://www.whosdatedwho.com/dating/stefan-lucian",
+            "relationship_type": 2,
+            "start_date": "2002",
+            "end_date": "2013",
+            "length": "11 years",
+            "start_months_since_1900": 1224,
+            "end_months_since_1900": 1356,
+            "length_in_months": 132
+        },
+        {
+            "name": "John Perez",
+            "href": "https://www.whosdatedwho.com/dating/john-perez-115754687",
+            "relationship_type": 1,
+            "start_date": "",
+            "end_date": "",
+            "length": "-",
+            "start_months_since_1900": -1,
+            "end_months_since_1900": -1,
+            "length_in_months": -1
+        }
+    ],
+    "details": {
+        "First Name": "Elena",
+        "Middle Name": "Alexandra",
+        "Last Name": "Apostoleanu",
+        "Maiden Name": "NA",
+        "Full Name at Birth": "NA",
+        "Alternative Name": "Inna",
+        "Birthday": "1986",
+        "Birthplace": "Mangalia (Romania)",
+        "Height": "163",
+        "Weight": "NA",
+        "Zodiac Sign": "10",
+        "Sexuality": "Straight",
+        "Religion": "18",
+        "Ethnicity": "6",
+        "Nationality": "126",
+        "Occupation": "1"
+    }
+}

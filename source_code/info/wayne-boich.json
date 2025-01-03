@@ -1,0 +1,55 @@
+{
+    "relationships": [
+        {
+            "name": "Tara Reid",
+            "href": "https://www.whosdatedwho.com/dating/tara-reid",
+            "relationship_type": 2,
+            "start_date": "Sep 2003",
+            "end_date": "Jan 2004",
+            "length": "4 months",
+            "start_months_since_1900": 1244,
+            "end_months_since_1900": 1248,
+            "length_in_months": 4
+        },
+        {
+            "name": "Joanna Krupa",
+            "href": "https://www.whosdatedwho.com/dating/joanna-krupa",
+            "relationship_type": 2,
+            "start_date": "",
+            "end_date": "",
+            "length": "-",
+            "start_months_since_1900": -1,
+            "end_months_since_1900": -1,
+            "length_in_months": -1
+        },
+        {
+            "name": "Lauren Hill",
+            "href": "https://www.whosdatedwho.com/dating/lauren-hill",
+            "relationship_type": 1,
+            "start_date": "",
+            "end_date": "",
+            "length": "-",
+            "start_months_since_1900": -1,
+            "end_months_since_1900": -1,
+            "length_in_months": -1
+        }
+    ],
+    "details": {
+        "First Name": "Wayne",
+        "Middle Name": "NA",
+        "Last Name": "Boich",
+        "Maiden Name": "NA",
+        "Full Name at Birth": "NA",
+        "Alternative Name": "NA",
+        "Birthday": "NA",
+        "Birthplace": "NA",
+        "Height": "NA",
+        "Weight": "NA",
+        "Zodiac Sign": "2",
+        "Sexuality": "DISPUTED",
+        "Religion": "1",
+        "Ethnicity": "6",
+        "Nationality": "91",
+        "Occupation": "19"
+    }
+}

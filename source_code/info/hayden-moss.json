@@ -1,0 +1,44 @@
+{
+    "relationships": [
+        {
+            "name": "Kat Edorsson",
+            "href": "https://www.whosdatedwho.com/dating/kat-edorsson",
+            "relationship_type": 2,
+            "start_date": "May 2012",
+            "end_date": "2014",
+            "length": "1 year",
+            "start_months_since_1900": 1348,
+            "end_months_since_1900": 1368,
+            "length_in_months": 12
+        },
+        {
+            "name": "Kristen Bitting",
+            "href": "https://www.whosdatedwho.com/dating/kristen-bitting",
+            "relationship_type": 3,
+            "start_date": "Jul 2010",
+            "end_date": "Aug 2010",
+            "length": "1 month",
+            "start_months_since_1900": 1326,
+            "end_months_since_1900": 1327,
+            "length_in_months": 1
+        }
+    ],
+    "details": {
+        "First Name": "Hayden",
+        "Middle Name": "Garrett",
+        "Last Name": "Moss",
+        "Maiden Name": "NA",
+        "Full Name at Birth": "Hayden Garrett Moss",
+        "Alternative Name": "NA",
+        "Birthday": "1986",
+        "Birthplace": "AZ",
+        "Height": "NA",
+        "Weight": "NA",
+        "Zodiac Sign": "4",
+        "Sexuality": "Straight",
+        "Religion": "18",
+        "Ethnicity": "6",
+        "Nationality": "91",
+        "Occupation": "11"
+    }
+}

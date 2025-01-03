@@ -1,0 +1,88 @@
+{
+    "relationships": [
+        {
+            "name": "Mario Treadway",
+            "href": "https://www.whosdatedwho.com/dating/mario-treadway",
+            "relationship_type": 4,
+            "start_date": "Oct 2009",
+            "end_date": "present",
+            "length": "14 years",
+            "start_months_since_1900": 1317,
+            "end_months_since_1900": -1,
+            "length_in_months": 168
+        },
+        {
+            "name": "Tom Ballanco",
+            "href": "https://www.whosdatedwho.com/dating/tom-ballanco",
+            "relationship_type": 2,
+            "start_date": "2007",
+            "end_date": "2009",
+            "length": "2 years",
+            "start_months_since_1900": 1284,
+            "end_months_since_1900": 1308,
+            "length_in_months": 24
+        },
+        {
+            "name": "Ryan Adams",
+            "href": "https://www.whosdatedwho.com/dating/ryan-adams",
+            "relationship_type": 3,
+            "start_date": "2002",
+            "end_date": "2002",
+            "length": "-",
+            "start_months_since_1900": 1224,
+            "end_months_since_1900": 1224,
+            "length_in_months": -1
+        },
+        {
+            "name": "Ryan Reynolds",
+            "href": "https://www.whosdatedwho.com/dating/ryan-reynolds",
+            "relationship_type": 2,
+            "start_date": "2002",
+            "end_date": "Feb 2007",
+            "length": "5 years",
+            "start_months_since_1900": 1224,
+            "end_months_since_1900": 1285,
+            "length_in_months": 60
+        },
+        {
+            "name": "Dash Mihok",
+            "href": "https://www.whosdatedwho.com/dating/dash-mihok",
+            "relationship_type": 2,
+            "start_date": "1998",
+            "end_date": "2001",
+            "length": "3 years",
+            "start_months_since_1900": 1176,
+            "end_months_since_1900": 1212,
+            "length_in_months": 36
+        },
+        {
+            "name": "Dave Coulier",
+            "href": "https://www.whosdatedwho.com/dating/dave-coulier",
+            "relationship_type": 2,
+            "start_date": "1993",
+            "end_date": "1994",
+            "length": "1 year",
+            "start_months_since_1900": 1116,
+            "end_months_since_1900": 1128,
+            "length_in_months": 12
+        }
+    ],
+    "details": {
+        "First Name": "Alanis",
+        "Middle Name": "Nadine",
+        "Last Name": "Morissette",
+        "Maiden Name": "NA",
+        "Full Name at Birth": "Alanis Nadine Morissette",
+        "Alternative Name": "NA",
+        "Birthday": "1974",
+        "Birthplace": "Canada",
+        "Height": "163",
+        "Weight": "115lbs (52 kg)",
+        "Zodiac Sign": "4",
+        "Sexuality": "Bisexual",
+        "Religion": "16",
+        "Ethnicity": "6",
+        "Nationality": "90",
+        "Occupation": "1"
+    }
+}

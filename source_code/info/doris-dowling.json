@@ -1,0 +1,66 @@
+{
+    "relationships": [
+        {
+            "name": "Leonard b. Kaufman",
+            "href": "https://www.whosdatedwho.com/dating/leonard-b-kaufman",
+            "relationship_type": 4,
+            "start_date": "1959",
+            "end_date": "18th Jun 2004",
+            "length": "45 years",
+            "start_months_since_1900": 708,
+            "end_months_since_1900": 1253,
+            "length_in_months": 540
+        },
+        {
+            "name": "Robert F. Blumofe",
+            "href": "https://www.whosdatedwho.com/dating/robert-f-blumofe",
+            "relationship_type": 4,
+            "start_date": "1955",
+            "end_date": "Mar 1959",
+            "length": "4 years",
+            "start_months_since_1900": 660,
+            "end_months_since_1900": 710,
+            "length_in_months": 48
+        },
+        {
+            "name": "Artie Shaw",
+            "href": "https://www.whosdatedwho.com/dating/artie-shaw",
+            "relationship_type": 4,
+            "start_date": "1951",
+            "end_date": "Apr 1956",
+            "length": "5 years",
+            "start_months_since_1900": 612,
+            "end_months_since_1900": 675,
+            "length_in_months": 60
+        },
+        {
+            "name": "Billy Wilder",
+            "href": "https://www.whosdatedwho.com/dating/billy-wilder",
+            "relationship_type": 2,
+            "start_date": "1945",
+            "end_date": "1945",
+            "length": "-",
+            "start_months_since_1900": 540,
+            "end_months_since_1900": 540,
+            "length_in_months": -1
+        }
+    ],
+    "details": {
+        "First Name": "Doris",
+        "Middle Name": "NA",
+        "Last Name": "Dowling",
+        "Maiden Name": "NA",
+        "Full Name at Birth": "Doris Dowling",
+        "Alternative Name": "NA",
+        "Birthday": "1923",
+        "Birthplace": "USA",
+        "Height": "NA",
+        "Weight": "NA",
+        "Zodiac Sign": "3",
+        "Sexuality": "Straight",
+        "Religion": "1",
+        "Ethnicity": "6",
+        "Nationality": "91",
+        "Occupation": "8"
+    }
+}

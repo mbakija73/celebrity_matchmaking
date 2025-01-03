@@ -1,0 +1,44 @@
+{
+    "relationships": [
+        {
+            "name": "Phil Kearns",
+            "href": "https://www.whosdatedwho.com/dating/phil-kearns",
+            "relationship_type": 4,
+            "start_date": "",
+            "end_date": "",
+            "length": "-",
+            "start_months_since_1900": -1,
+            "end_months_since_1900": -1,
+            "length_in_months": -1
+        },
+        {
+            "name": "Jackson Browne",
+            "href": "https://www.whosdatedwho.com/dating/jackson-browne",
+            "relationship_type": 3,
+            "start_date": "",
+            "end_date": "",
+            "length": "-",
+            "start_months_since_1900": -1,
+            "end_months_since_1900": -1,
+            "length_in_months": -1
+        }
+    ],
+    "details": {
+        "First Name": "Phoebe",
+        "Middle Name": "NA",
+        "Last Name": "Snow",
+        "Maiden Name": "Laub",
+        "Full Name at Birth": "Phoebe Ann Laub",
+        "Alternative Name": "NA",
+        "Birthday": "1950",
+        "Birthplace": "USA",
+        "Height": "NA",
+        "Weight": "NA",
+        "Zodiac Sign": "8",
+        "Sexuality": "Straight",
+        "Religion": "31",
+        "Ethnicity": "6",
+        "Nationality": "91",
+        "Occupation": "1"
+    }
+}

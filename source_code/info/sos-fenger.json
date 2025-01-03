@@ -1,0 +1,44 @@
+{
+    "relationships": [
+        {
+            "name": "Henrik Janson",
+            "href": "https://www.whosdatedwho.com/dating/henrik-janson",
+            "relationship_type": 2,
+            "start_date": "",
+            "end_date": "",
+            "length": "-",
+            "start_months_since_1900": -1,
+            "end_months_since_1900": -1,
+            "length_in_months": -1
+        },
+        {
+            "name": "Thomas Helmig",
+            "href": "https://www.whosdatedwho.com/dating/thomas-helmig",
+            "relationship_type": 4,
+            "start_date": "Oct 1986",
+            "end_date": "Jul 1989",
+            "length": "2 years",
+            "start_months_since_1900": 1041,
+            "end_months_since_1900": 1074,
+            "length_in_months": 24
+        }
+    ],
+    "details": {
+        "First Name": "Sos",
+        "Middle Name": "NA",
+        "Last Name": "Fenger",
+        "Maiden Name": "NA",
+        "Full Name at Birth": "NA",
+        "Alternative Name": "S\u00f8s Fenger",
+        "Birthday": "1961",
+        "Birthplace": "Denmark",
+        "Height": "NA",
+        "Weight": "NA",
+        "Zodiac Sign": "6",
+        "Sexuality": "NA",
+        "Religion": "1",
+        "Ethnicity": "1",
+        "Nationality": "50",
+        "Occupation": "1"
+    }
+}

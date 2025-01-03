@@ -1,0 +1,44 @@
+{
+    "relationships": [
+        {
+            "name": "Amelia Warner",
+            "href": "https://www.whosdatedwho.com/dating/amelia-warner",
+            "relationship_type": 2,
+            "start_date": "2003",
+            "end_date": "2004",
+            "length": "1 year",
+            "start_months_since_1900": 1236,
+            "end_months_since_1900": 1248,
+            "length_in_months": 12
+        },
+        {
+            "name": "Laetitia Ray",
+            "href": "https://www.whosdatedwho.com/dating/laetitia-ray",
+            "relationship_type": 2,
+            "start_date": "Apr 1998",
+            "end_date": "2001",
+            "length": "2 years",
+            "start_months_since_1900": 1179,
+            "end_months_since_1900": 1212,
+            "length_in_months": 24
+        }
+    ],
+    "details": {
+        "First Name": "Adam",
+        "Middle Name": "Gabriel",
+        "Last Name": "Garcia",
+        "Maiden Name": "NA",
+        "Full Name at Birth": "Adam Gabriel Garcia",
+        "Alternative Name": "NA",
+        "Birthday": "1973",
+        "Birthplace": "Australia",
+        "Height": "180",
+        "Weight": "NA",
+        "Zodiac Sign": "4",
+        "Sexuality": "Straight",
+        "Religion": "1",
+        "Ethnicity": "6",
+        "Nationality": "135",
+        "Occupation": "8"
+    }
+}

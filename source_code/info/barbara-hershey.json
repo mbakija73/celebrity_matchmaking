@@ -1,0 +1,88 @@
+{
+    "relationships": [
+        {
+            "name": "Naveen Andrews",
+            "href": "https://www.whosdatedwho.com/dating/naveen-andrews",
+            "relationship_type": 2,
+            "start_date": "Aug 1998",
+            "end_date": "Nov 2009",
+            "length": "11 years",
+            "start_months_since_1900": 1183,
+            "end_months_since_1900": 1318,
+            "length_in_months": 132
+        },
+        {
+            "name": "Stephen Douglas",
+            "href": "https://www.whosdatedwho.com/dating/stephen-douglas",
+            "relationship_type": 4,
+            "start_date": "Sep 1990",
+            "end_date": "Nov 1993",
+            "length": "3 years",
+            "start_months_since_1900": 1088,
+            "end_months_since_1900": 1126,
+            "length_in_months": 36
+        },
+        {
+            "name": "Sean Penn",
+            "href": "https://www.whosdatedwho.com/dating/sean-penn",
+            "relationship_type": 3,
+            "start_date": "Jun 1984",
+            "end_date": "Jun 1984",
+            "length": "-",
+            "start_months_since_1900": 1013,
+            "end_months_since_1900": 1013,
+            "length_in_months": -1
+        },
+        {
+            "name": "Kevin Kline",
+            "href": "https://www.whosdatedwho.com/dating/kevin-kline",
+            "relationship_type": 2,
+            "start_date": "Apr 1984",
+            "end_date": "May 1984",
+            "length": "1 month",
+            "start_months_since_1900": 1011,
+            "end_months_since_1900": 1012,
+            "length_in_months": 1
+        },
+        {
+            "name": "Warren Beatty",
+            "href": "https://www.whosdatedwho.com/dating/warren-beatty",
+            "relationship_type": 3,
+            "start_date": "1976",
+            "end_date": "1976",
+            "length": "-",
+            "start_months_since_1900": 912,
+            "end_months_since_1900": 912,
+            "length_in_months": -1
+        },
+        {
+            "name": "David Carradine",
+            "href": "https://www.whosdatedwho.com/dating/david-carradine",
+            "relationship_type": 2,
+            "start_date": "Jun 1968",
+            "end_date": "Jan 1975",
+            "length": "6 years",
+            "start_months_since_1900": 821,
+            "end_months_since_1900": 900,
+            "length_in_months": 72
+        }
+    ],
+    "details": {
+        "First Name": "Barbara",
+        "Middle Name": "Lynn",
+        "Last Name": "Hershey",
+        "Maiden Name": "Herzstein",
+        "Full Name at Birth": "Barbara Lynn Herzstein",
+        "Alternative Name": "Barbara Seagull, Barbara Lynn Herzstein, Barbara Hershey",
+        "Birthday": "1948",
+        "Birthplace": "USA",
+        "Height": "165",
+        "Weight": "122lbs (55 kg)",
+        "Zodiac Sign": "9",
+        "Sexuality": "Straight",
+        "Religion": "31",
+        "Ethnicity": "6",
+        "Nationality": "91",
+        "Occupation": "8"
+    }
+}

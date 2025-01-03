@@ -1,0 +1,33 @@
+{
+    "relationships": [
+        {
+            "name": "John Huston",
+            "href": "https://www.whosdatedwho.com/dating/john-huston",
+            "relationship_type": 2,
+            "start_date": "1961",
+            "end_date": "1963",
+            "length": "2 years",
+            "start_months_since_1900": 732,
+            "end_months_since_1900": 756,
+            "length_in_months": 24
+        }
+    ],
+    "details": {
+        "First Name": "Zoe",
+        "Middle Name": "NA",
+        "Last Name": "Sallis",
+        "Maiden Name": "Ishmail",
+        "Full Name at Birth": "Zoe Ishmail",
+        "Alternative Name": "Zoe Sallis, Zoe Ishmail",
+        "Birthday": "NA",
+        "Birthplace": "India",
+        "Height": "NA",
+        "Weight": "NA",
+        "Zodiac Sign": "2",
+        "Sexuality": "NA",
+        "Religion": "1",
+        "Ethnicity": "1",
+        "Nationality": "98",
+        "Occupation": "8"
+    }
+}

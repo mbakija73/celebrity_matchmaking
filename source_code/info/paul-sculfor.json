@@ -1,0 +1,99 @@
+{
+    "relationships": [
+        {
+            "name": "Cameron Diaz",
+            "href": "https://www.whosdatedwho.com/dating/cameron-diaz",
+            "relationship_type": 2,
+            "start_date": "Jun 2008",
+            "end_date": "May 2009",
+            "length": "11 months",
+            "start_months_since_1900": 1301,
+            "end_months_since_1900": 1312,
+            "length_in_months": 11
+        },
+        {
+            "name": "Clare Staples",
+            "href": "https://www.whosdatedwho.com/dating/clare-staples",
+            "relationship_type": 2,
+            "start_date": "Sep 2007",
+            "end_date": "2007",
+            "length": "8 months",
+            "start_months_since_1900": 1292,
+            "end_months_since_1900": 1284,
+            "length_in_months": 8
+        },
+        {
+            "name": "Jennifer Aniston",
+            "href": "https://www.whosdatedwho.com/dating/jennifer-aniston",
+            "relationship_type": 3,
+            "start_date": "Apr 2007",
+            "end_date": "Jun 2007",
+            "length": "2 months",
+            "start_months_since_1900": 1287,
+            "end_months_since_1900": 1289,
+            "length_in_months": 2
+        },
+        {
+            "name": "Victoria Hervey",
+            "href": "https://www.whosdatedwho.com/dating/lady-victoria-hervey",
+            "relationship_type": 2,
+            "start_date": "2001",
+            "end_date": "2001",
+            "length": "-",
+            "start_months_since_1900": 1212,
+            "end_months_since_1900": 1212,
+            "length_in_months": -1
+        },
+        {
+            "name": "Lisa Snowdon",
+            "href": "https://www.whosdatedwho.com/dating/lisa-snowdon",
+            "relationship_type": 2,
+            "start_date": "1996",
+            "end_date": "1998",
+            "length": "2 years",
+            "start_months_since_1900": 1152,
+            "end_months_since_1900": 1176,
+            "length_in_months": 24
+        },
+        {
+            "name": "Nicole Appleton",
+            "href": "https://www.whosdatedwho.com/dating/nicole-appleton",
+            "relationship_type": 3,
+            "start_date": "",
+            "end_date": "",
+            "length": "-",
+            "start_months_since_1900": -1,
+            "end_months_since_1900": -1,
+            "length_in_months": -1
+        },
+        {
+            "name": "Shaznay Lewis",
+            "href": "https://www.whosdatedwho.com/dating/shaznay-lewis",
+            "relationship_type": 3,
+            "start_date": "",
+            "end_date": "",
+            "length": "-",
+            "start_months_since_1900": -1,
+            "end_months_since_1900": -1,
+            "length_in_months": -1
+        }
+    ],
+    "details": {
+        "First Name": "Paul",
+        "Middle Name": "NA",
+        "Last Name": "Sculfor",
+        "Maiden Name": "NA",
+        "Full Name at Birth": "Paul Sculfor",
+        "Alternative Name": "NA",
+        "Birthday": "1971",
+        "Birthplace": "UK",
+        "Height": "183",
+        "Weight": "NA",
+        "Zodiac Sign": "9",
+        "Sexuality": "Straight",
+        "Religion": "1",
+        "Ethnicity": "6",
+        "Nationality": "8",
+        "Occupation": "15"
+    }
+}

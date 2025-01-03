@@ -1,0 +1,44 @@
+{
+    "relationships": [
+        {
+            "name": "Jane Lumb",
+            "href": "https://www.whosdatedwho.com/dating/jane-lumb",
+            "relationship_type": 4,
+            "start_date": "1976",
+            "end_date": "1976",
+            "length": "-",
+            "start_months_since_1900": 912,
+            "end_months_since_1900": 912,
+            "length_in_months": -1
+        },
+        {
+            "name": "Germaine Greer",
+            "href": "https://www.whosdatedwho.com/dating/germaine-greer",
+            "relationship_type": 2,
+            "start_date": "",
+            "end_date": "",
+            "length": "-",
+            "start_months_since_1900": -1,
+            "end_months_since_1900": -1,
+            "length_in_months": -1
+        }
+    ],
+    "details": {
+        "First Name": "Tony",
+        "Middle Name": "NA",
+        "Last Name": "Gourvish",
+        "Maiden Name": "NA",
+        "Full Name at Birth": "NA",
+        "Alternative Name": "NA",
+        "Birthday": "NA",
+        "Birthplace": "NA",
+        "Height": "NA",
+        "Weight": "NA",
+        "Zodiac Sign": "2",
+        "Sexuality": "NA",
+        "Religion": "1",
+        "Ethnicity": "1",
+        "Nationality": "65",
+        "Occupation": "7"
+    }
+}

@@ -1,0 +1,55 @@
+{
+    "relationships": [
+        {
+            "name": "Yasmine Lopez",
+            "href": "https://www.whosdatedwho.com/dating/yasmine-lopez-model",
+            "relationship_type": 2,
+            "start_date": "Jan 2020",
+            "end_date": "Jun 2020",
+            "length": "5 months",
+            "start_months_since_1900": 1440,
+            "end_months_since_1900": 1445,
+            "length_in_months": 5
+        },
+        {
+            "name": "Evelyn Lozada",
+            "href": "https://www.whosdatedwho.com/dating/evelyn-lozada",
+            "relationship_type": 2,
+            "start_date": "Jul 2013",
+            "end_date": "Feb 2017",
+            "length": "3 years",
+            "start_months_since_1900": 1362,
+            "end_months_since_1900": 1405,
+            "length_in_months": 36
+        },
+        {
+            "name": "Gabriele Washington",
+            "href": "https://www.whosdatedwho.com/dating/gabriele-washington",
+            "relationship_type": 1,
+            "start_date": "",
+            "end_date": "",
+            "length": "-",
+            "start_months_since_1900": -1,
+            "end_months_since_1900": -1,
+            "length_in_months": -1
+        }
+    ],
+    "details": {
+        "First Name": "Carl",
+        "Middle Name": "Demonte",
+        "Last Name": "Crawford",
+        "Maiden Name": "NA",
+        "Full Name at Birth": "Carl Demonte Crawford",
+        "Alternative Name": "The Perfect Storm",
+        "Birthday": "1981",
+        "Birthplace": "United States",
+        "Height": "188",
+        "Weight": "215lbs (98 kg)",
+        "Zodiac Sign": "12",
+        "Sexuality": "Straight",
+        "Religion": "1",
+        "Ethnicity": "2",
+        "Nationality": "91",
+        "Occupation": "2"
+    }
+}

@@ -1,0 +1,77 @@
+{
+    "relationships": [
+        {
+            "name": "Tate McRae",
+            "href": "https://www.whosdatedwho.com/dating/tate-mcrae",
+            "relationship_type": 2,
+            "start_date": "Jan 2024",
+            "end_date": "present",
+            "length": "8 months",
+            "start_months_since_1900": 1488,
+            "end_months_since_1900": -1,
+            "length_in_months": 8
+        },
+        {
+            "name": "Katarina Demetriades",
+            "href": "https://www.whosdatedwho.com/dating/katarina-deme",
+            "relationship_type": 2,
+            "start_date": "Jul 2020",
+            "end_date": "",
+            "length": "-",
+            "start_months_since_1900": 1446,
+            "end_months_since_1900": -1,
+            "length_in_months": -1
+        },
+        {
+            "name": "Jennifer Aniston",
+            "href": "https://www.whosdatedwho.com/dating/jennifer-aniston",
+            "relationship_type": 1,
+            "start_date": "",
+            "end_date": "",
+            "length": "-",
+            "start_months_since_1900": -1,
+            "end_months_since_1900": -1,
+            "length_in_months": -1
+        },
+        {
+            "name": "Michelle Rodriguez",
+            "href": "https://www.whosdatedwho.com/dating/michelle-rodriguez",
+            "relationship_type": 1,
+            "start_date": "",
+            "end_date": "",
+            "length": "-",
+            "start_months_since_1900": -1,
+            "end_months_since_1900": -1,
+            "length_in_months": -1
+        },
+        {
+            "name": "Miley Cyrus",
+            "href": "https://www.whosdatedwho.com/dating/miley-cyrus",
+            "relationship_type": 1,
+            "start_date": "",
+            "end_date": "",
+            "length": "-",
+            "start_months_since_1900": -1,
+            "end_months_since_1900": -1,
+            "length_in_months": -1
+        }
+    ],
+    "details": {
+        "First Name": "Charlton",
+        "Middle Name": "Kenneth Jeffrey",
+        "Last Name": "Howard",
+        "Maiden Name": "NA",
+        "Full Name at Birth": "Charlton Kenneth Jeffrey Howard",
+        "Alternative Name": "Charlton Kenneth Jeffrey Howard, The Kid LAROI., The Kid Laroi, Kid Laroi",
+        "Birthday": "2003",
+        "Birthplace": "Australia",
+        "Height": "175",
+        "Weight": "144lbs (65 kg)",
+        "Zodiac Sign": "12",
+        "Sexuality": "Straight",
+        "Religion": "1",
+        "Ethnicity": "6",
+        "Nationality": "135",
+        "Occupation": "1"
+    }
+}

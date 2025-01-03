@@ -1,0 +1,33 @@
+{
+    "relationships": [
+        {
+            "name": "John Denver",
+            "href": "https://www.whosdatedwho.com/dating/john-denver",
+            "relationship_type": 4,
+            "start_date": "1986",
+            "end_date": "Dec 1993",
+            "length": "7 years",
+            "start_months_since_1900": 1032,
+            "end_months_since_1900": 1127,
+            "length_in_months": 84
+        }
+    ],
+    "details": {
+        "First Name": "Cassandra",
+        "Middle Name": "NA",
+        "Last Name": "NA",
+        "Maiden Name": "Delaney",
+        "Full Name at Birth": "Cassandra Delaney",
+        "Alternative Name": "Cassandra Delaney Denver",
+        "Birthday": "1961",
+        "Birthplace": "Australia",
+        "Height": "NA",
+        "Weight": "NA",
+        "Zodiac Sign": "11",
+        "Sexuality": "Straight",
+        "Religion": "1",
+        "Ethnicity": "6",
+        "Nationality": "135",
+        "Occupation": "8"
+    }
+}

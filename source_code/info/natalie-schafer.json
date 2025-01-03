@@ -1,0 +1,66 @@
+{
+    "relationships": [
+        {
+            "name": "George S. Kaufman",
+            "href": "https://www.whosdatedwho.com/dating/george-s-kaufman",
+            "relationship_type": 2,
+            "start_date": "1948",
+            "end_date": "1952",
+            "length": "4 years",
+            "start_months_since_1900": 576,
+            "end_months_since_1900": 624,
+            "length_in_months": 48
+        },
+        {
+            "name": "Charles Butterworth",
+            "href": "https://www.whosdatedwho.com/dating/charles-butterworth",
+            "relationship_type": 2,
+            "start_date": "1946",
+            "end_date": "Jun 1946",
+            "length": "5 months",
+            "start_months_since_1900": 552,
+            "end_months_since_1900": 557,
+            "length_in_months": 5
+        },
+        {
+            "name": "Louis Calhern",
+            "href": "https://www.whosdatedwho.com/dating/louis-calhern",
+            "relationship_type": 4,
+            "start_date": "1932",
+            "end_date": "1942",
+            "length": "10 years",
+            "start_months_since_1900": 384,
+            "end_months_since_1900": 504,
+            "length_in_months": 120
+        },
+        {
+            "name": "Kerry Johnson",
+            "href": "https://www.whosdatedwho.com/dating/kerry-johnson",
+            "relationship_type": 2,
+            "start_date": "Jun 1921",
+            "end_date": "Oct 1922",
+            "length": "1 year",
+            "start_months_since_1900": 257,
+            "end_months_since_1900": 273,
+            "length_in_months": 12
+        }
+    ],
+    "details": {
+        "First Name": "Natalie",
+        "Middle Name": "NA",
+        "Last Name": "Schafer",
+        "Maiden Name": "NA",
+        "Full Name at Birth": "Natalie Schafer",
+        "Alternative Name": "Lovey Howell, Nathalie Schafer",
+        "Birthday": "1900",
+        "Birthplace": "USA",
+        "Height": "NA",
+        "Weight": "NA",
+        "Zodiac Sign": "5",
+        "Sexuality": "Straight",
+        "Religion": "31",
+        "Ethnicity": "6",
+        "Nationality": "91",
+        "Occupation": "8"
+    }
+}

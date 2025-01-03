@@ -1,0 +1,44 @@
+{
+    "relationships": [
+        {
+            "name": "Mary Dees",
+            "href": "https://www.whosdatedwho.com/dating/mary-dees",
+            "relationship_type": 2,
+            "start_date": "Nov 1937",
+            "end_date": "Dec 1937",
+            "length": "1 month",
+            "start_months_since_1900": 454,
+            "end_months_since_1900": 455,
+            "length_in_months": 1
+        },
+        {
+            "name": "Odelle Osborne",
+            "href": "https://www.whosdatedwho.com/dating/odelle-osborne",
+            "relationship_type": 4,
+            "start_date": "1913",
+            "end_date": "30th Nov 1942",
+            "length": "29 years",
+            "start_months_since_1900": 156,
+            "end_months_since_1900": 514,
+            "length_in_months": 348
+        }
+    ],
+    "details": {
+        "First Name": "Buck",
+        "Middle Name": "NA",
+        "Last Name": "Jones",
+        "Maiden Name": "NA",
+        "Full Name at Birth": "Charles Frederick Gebhart",
+        "Alternative Name": "NA",
+        "Birthday": "1891",
+        "Birthplace": "Indiana",
+        "Height": "182",
+        "Weight": "NA",
+        "Zodiac Sign": "6",
+        "Sexuality": "Straight",
+        "Religion": "1",
+        "Ethnicity": "6",
+        "Nationality": "91",
+        "Occupation": "8"
+    }
+}

@@ -1,0 +1,44 @@
+{
+    "relationships": [
+        {
+            "name": "Jimmy Page",
+            "href": "https://www.whosdatedwho.com/dating/jimmy-page",
+            "relationship_type": 2,
+            "start_date": "2013",
+            "end_date": "2015",
+            "length": "2 years",
+            "start_months_since_1900": 1356,
+            "end_months_since_1900": 1380,
+            "length_in_months": 24
+        },
+        {
+            "name": "Jeff Martin",
+            "href": "https://www.whosdatedwho.com/dating/jeff-martin",
+            "relationship_type": 2,
+            "start_date": "2007",
+            "end_date": "2007",
+            "length": "-",
+            "start_months_since_1900": 1284,
+            "end_months_since_1900": 1284,
+            "length_in_months": -1
+        }
+    ],
+    "details": {
+        "First Name": "Aveyanda",
+        "Middle Name": "NA",
+        "Last Name": "NA",
+        "Maiden Name": "Skye",
+        "Full Name at Birth": "Jolanda Aveyanda Skye",
+        "Alternative Name": "NA",
+        "Birthday": "1977",
+        "Birthplace": "NA",
+        "Height": "NA",
+        "Weight": "NA",
+        "Zodiac Sign": "7",
+        "Sexuality": "Straight",
+        "Religion": "1",
+        "Ethnicity": "6",
+        "Nationality": "45",
+        "Occupation": "14"
+    }
+}

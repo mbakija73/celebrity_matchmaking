@@ -1,0 +1,88 @@
+{
+    "relationships": [
+        {
+            "name": "Claire Windsor",
+            "href": "https://www.whosdatedwho.com/dating/claire-windsor",
+            "relationship_type": 3,
+            "start_date": "Jan 1922",
+            "end_date": "Feb 1922",
+            "length": "1 month",
+            "start_months_since_1900": 264,
+            "end_months_since_1900": 265,
+            "length_in_months": 1
+        },
+        {
+            "name": "Mabel Normand",
+            "href": "https://www.whosdatedwho.com/dating/mabel-normand",
+            "relationship_type": 2,
+            "start_date": "1921",
+            "end_date": "Feb 1922",
+            "length": "1 year",
+            "start_months_since_1900": 252,
+            "end_months_since_1900": 265,
+            "length_in_months": 12
+        },
+        {
+            "name": "Mary Miles Minter",
+            "href": "https://www.whosdatedwho.com/dating/mary-miles-minter",
+            "relationship_type": 2,
+            "start_date": "Sep 1919",
+            "end_date": "Feb 1922",
+            "length": "2 years",
+            "start_months_since_1900": 236,
+            "end_months_since_1900": 265,
+            "length_in_months": 24
+        },
+        {
+            "name": "Neva Gerber",
+            "href": "https://www.whosdatedwho.com/dating/neva-gerber",
+            "relationship_type": 2,
+            "start_date": "1914",
+            "end_date": "1919",
+            "length": "5 years",
+            "start_months_since_1900": 168,
+            "end_months_since_1900": 228,
+            "length_in_months": 60
+        },
+        {
+            "name": "Ethel May Hamilton",
+            "href": "https://www.whosdatedwho.com/dating/ethel-may-hamilton",
+            "relationship_type": 4,
+            "start_date": "1900",
+            "end_date": "1911",
+            "length": "11 years",
+            "start_months_since_1900": 0,
+            "end_months_since_1900": 132,
+            "length_in_months": 132
+        },
+        {
+            "name": "Mary Pickford",
+            "href": "https://www.whosdatedwho.com/dating/mary-pickford",
+            "relationship_type": 2,
+            "start_date": "",
+            "end_date": "",
+            "length": "-",
+            "start_months_since_1900": -1,
+            "end_months_since_1900": -1,
+            "length_in_months": -1
+        }
+    ],
+    "details": {
+        "First Name": "William",
+        "Middle Name": "Desmond",
+        "Last Name": "Taylor",
+        "Maiden Name": "NA",
+        "Full Name at Birth": "William Cunnigham Deane-Taylor",
+        "Alternative Name": "William Desmond Taylor, William Cunningham Deane-Tanner",
+        "Birthday": "1872",
+        "Birthplace": "Ireland",
+        "Height": "183",
+        "Weight": "NA",
+        "Zodiac Sign": "3",
+        "Sexuality": "Bisexual",
+        "Religion": "13",
+        "Ethnicity": "6",
+        "Nationality": "117",
+        "Occupation": "9"
+    }
+}

@@ -1,0 +1,110 @@
+{
+    "relationships": [
+        {
+            "name": "Damon Dash",
+            "href": "https://www.whosdatedwho.com/dating/damon-dash",
+            "relationship_type": 2,
+            "start_date": "2000",
+            "end_date": "Aug 2001",
+            "length": "1 year",
+            "start_months_since_1900": 1200,
+            "end_months_since_1900": 1219,
+            "length_in_months": 12
+        },
+        {
+            "name": "Jay-Z",
+            "href": "https://www.whosdatedwho.com/dating/jay-z",
+            "relationship_type": 2,
+            "start_date": "2000",
+            "end_date": "2000",
+            "length": "-",
+            "start_months_since_1900": 1200,
+            "end_months_since_1900": 1200,
+            "length_in_months": -1
+        },
+        {
+            "name": "DMX",
+            "href": "https://www.whosdatedwho.com/dating/dmx",
+            "relationship_type": 3,
+            "start_date": "2000",
+            "end_date": "2000",
+            "length": "-",
+            "start_months_since_1900": 1200,
+            "end_months_since_1900": 1200,
+            "length_in_months": -1
+        },
+        {
+            "name": "Stephen Garrett",
+            "href": "https://www.whosdatedwho.com/dating/stephen-garrett-rapper",
+            "relationship_type": 1,
+            "start_date": "1997",
+            "end_date": "1998",
+            "length": "1 year",
+            "start_months_since_1900": 1164,
+            "end_months_since_1900": 1176,
+            "length_in_months": 12
+        },
+        {
+            "name": "Ginuwine",
+            "href": "https://www.whosdatedwho.com/dating/ginuwine",
+            "relationship_type": 2,
+            "start_date": "1997",
+            "end_date": "1997",
+            "length": "-",
+            "start_months_since_1900": 1164,
+            "end_months_since_1900": 1164,
+            "length_in_months": -1
+        },
+        {
+            "name": "Blake C (Trife)",
+            "href": "https://www.whosdatedwho.com/dating/blake-c-trife",
+            "relationship_type": 2,
+            "start_date": "1995",
+            "end_date": "1995",
+            "length": "-",
+            "start_months_since_1900": 1140,
+            "end_months_since_1900": 1140,
+            "length_in_months": -1
+        },
+        {
+            "name": "R. Kelly",
+            "href": "https://www.whosdatedwho.com/dating/r-kelly",
+            "relationship_type": 4,
+            "start_date": "1993",
+            "end_date": "Feb 1995",
+            "length": "2 years",
+            "start_months_since_1900": 1116,
+            "end_months_since_1900": 1141,
+            "length_in_months": 24
+        },
+        {
+            "name": "Ghostface Killah",
+            "href": "https://www.whosdatedwho.com/dating/ghostface-killah",
+            "relationship_type": 1,
+            "start_date": "",
+            "end_date": "",
+            "length": "-",
+            "start_months_since_1900": -1,
+            "end_months_since_1900": -1,
+            "length_in_months": -1
+        }
+    ],
+    "details": {
+        "First Name": "Aaliyah",
+        "Middle Name": "Dana",
+        "Last Name": "Haughton",
+        "Maiden Name": "NA",
+        "Full Name at Birth": "Aaliyah Dana Haughton",
+        "Alternative Name": "Aaliyah, Liyah, Wonder Woman, Li Li, Baby Girl, Queen of R&B, Lee, Aaliyah Dana Haughton, BabyGirl, Aaliyah Haughton",
+        "Birthday": "1979",
+        "Birthplace": "USA",
+        "Height": "171",
+        "Weight": "117lbs (53 kg)",
+        "Zodiac Sign": "13",
+        "Sexuality": "Straight",
+        "Religion": "13",
+        "Ethnicity": "2",
+        "Nationality": "91",
+        "Occupation": "1"
+    }
+}

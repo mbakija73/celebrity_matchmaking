@@ -1,0 +1,33 @@
+{
+    "relationships": [
+        {
+            "name": "Geena Davis",
+            "href": "https://www.whosdatedwho.com/dating/geena-davis",
+            "relationship_type": 4,
+            "start_date": "1998",
+            "end_date": "Nov 2017",
+            "length": "19 years",
+            "start_months_since_1900": 1176,
+            "end_months_since_1900": 1414,
+            "length_in_months": 228
+        }
+    ],
+    "details": {
+        "First Name": "Reza",
+        "Middle Name": "NA",
+        "Last Name": "Jarrahy",
+        "Maiden Name": "NA",
+        "Full Name at Birth": "NA",
+        "Alternative Name": "Dr. Reza Jarrahy MD",
+        "Birthday": "1971",
+        "Birthplace": "Iran",
+        "Height": "NA",
+        "Weight": "NA",
+        "Zodiac Sign": "1",
+        "Sexuality": "NA",
+        "Religion": "1",
+        "Ethnicity": "5",
+        "Nationality": "13",
+        "Occupation": "6"
+    }
+}

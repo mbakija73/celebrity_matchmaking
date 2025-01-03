@@ -1,0 +1,66 @@
+{
+    "relationships": [
+        {
+            "name": "Pedro Garcia (dentist)",
+            "href": "https://www.whosdatedwho.com/dating/pedro-garcia-dentist",
+            "relationship_type": 4,
+            "start_date": "Nov 2019",
+            "end_date": "",
+            "length": "-",
+            "start_months_since_1900": 1438,
+            "end_months_since_1900": -1,
+            "length_in_months": -1
+        },
+        {
+            "name": "Ricardo Mansur",
+            "href": "https://www.whosdatedwho.com/dating/ricardo-mansur",
+            "relationship_type": 2,
+            "start_date": "Dec 2011",
+            "end_date": "Dec 2012",
+            "length": "1 year",
+            "start_months_since_1900": 1343,
+            "end_months_since_1900": 1355,
+            "length_in_months": 12
+        },
+        {
+            "name": "Rafael Lazzini",
+            "href": "https://www.whosdatedwho.com/dating/rafael-lazzini",
+            "relationship_type": 4,
+            "start_date": "2010",
+            "end_date": "2010",
+            "length": "-",
+            "start_months_since_1900": 1320,
+            "end_months_since_1900": 1320,
+            "length_in_months": -1
+        },
+        {
+            "name": "Andre Bertani",
+            "href": "https://www.whosdatedwho.com/dating/andre-bertani",
+            "relationship_type": 2,
+            "start_date": "",
+            "end_date": "",
+            "length": "-",
+            "start_months_since_1900": -1,
+            "end_months_since_1900": -1,
+            "length_in_months": -1
+        }
+    ],
+    "details": {
+        "First Name": "Cintia",
+        "Middle Name": "NA",
+        "Last Name": "Dicker",
+        "Maiden Name": "NA",
+        "Full Name at Birth": "Cintia Schneider Dick",
+        "Alternative Name": "Cintia Schneider Dick, Cintia Dicker",
+        "Birthday": "1986",
+        "Birthplace": "Brazil",
+        "Height": "178",
+        "Weight": "121lbs (55 kg)",
+        "Zodiac Sign": "6",
+        "Sexuality": "Straight",
+        "Religion": "1",
+        "Ethnicity": "6",
+        "Nationality": "87",
+        "Occupation": "15"
+    }
+}

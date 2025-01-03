@@ -1,0 +1,99 @@
+{
+    "relationships": [
+        {
+            "name": "Freeband Joey",
+            "href": "https://www.whosdatedwho.com/dating/freeband-joey",
+            "relationship_type": 3,
+            "start_date": "Sep 2020",
+            "end_date": "Oct 2020",
+            "length": "1 month",
+            "start_months_since_1900": 1448,
+            "end_months_since_1900": 1449,
+            "length_in_months": 1
+        },
+        {
+            "name": "Rob Kardashian",
+            "href": "https://www.whosdatedwho.com/dating/rob-kardashian",
+            "relationship_type": 3,
+            "start_date": "Aug 2020",
+            "end_date": "Aug 2020",
+            "length": "-",
+            "start_months_since_1900": 1447,
+            "end_months_since_1900": 1447,
+            "length_in_months": -1
+        },
+        {
+            "name": "Ybn Almighty Jay",
+            "href": "https://www.whosdatedwho.com/dating/ybn-almighty-jay",
+            "relationship_type": 3,
+            "start_date": "Mar 2020",
+            "end_date": "May 2020",
+            "length": "2 months",
+            "start_months_since_1900": 1442,
+            "end_months_since_1900": 1444,
+            "length_in_months": 2
+        },
+        {
+            "name": "Gervonta Davis",
+            "href": "https://www.whosdatedwho.com/dating/gervonta-davis",
+            "relationship_type": 3,
+            "start_date": "Nov 2019",
+            "end_date": "Jan 2020",
+            "length": "2 months",
+            "start_months_since_1900": 1438,
+            "end_months_since_1900": 1440,
+            "length_in_months": 2
+        },
+        {
+            "name": "Devin Haney",
+            "href": "https://www.whosdatedwho.com/dating/devin-haney",
+            "relationship_type": 2,
+            "start_date": "Oct 2019",
+            "end_date": "Jan 2021",
+            "length": "1 year",
+            "start_months_since_1900": 1437,
+            "end_months_since_1900": 1452,
+            "length_in_months": 12
+        },
+        {
+            "name": "Moneybagg Yo",
+            "href": "https://www.whosdatedwho.com/dating/moneybagg-yo",
+            "relationship_type": 1,
+            "start_date": "",
+            "end_date": "",
+            "length": "-",
+            "start_months_since_1900": -1,
+            "end_months_since_1900": -1,
+            "length_in_months": -1
+        },
+        {
+            "name": "Floyd Mayweather Jr.",
+            "href": "https://www.whosdatedwho.com/dating/floyd-mayweather-jr",
+            "relationship_type": 2,
+            "start_date": "",
+            "end_date": "",
+            "length": "-",
+            "start_months_since_1900": -1,
+            "end_months_since_1900": -1,
+            "length_in_months": -1
+        }
+    ],
+    "details": {
+        "First Name": "Aileen",
+        "Middle Name": "NA",
+        "Last Name": "Gisselle",
+        "Maiden Name": "NA",
+        "Full Name at Birth": "NA",
+        "Alternative Name": "NA",
+        "Birthday": "1991",
+        "Birthplace": "USA",
+        "Height": "165",
+        "Weight": "130lbs (59 kg)",
+        "Zodiac Sign": "4",
+        "Sexuality": "Straight",
+        "Religion": "18",
+        "Ethnicity": "2",
+        "Nationality": "91",
+        "Occupation": "16"
+    }
+}

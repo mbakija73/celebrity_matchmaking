@@ -1,0 +1,44 @@
+{
+    "relationships": [
+        {
+            "name": "Iggy Azalea",
+            "href": "https://www.whosdatedwho.com/dating/iggy-azalea",
+            "relationship_type": 2,
+            "start_date": "Jun 2018",
+            "end_date": "Aug 2018",
+            "length": "2 months",
+            "start_months_since_1900": 1421,
+            "end_months_since_1900": 1423,
+            "length_in_months": 2
+        },
+        {
+            "name": "Amina Blue",
+            "href": "https://www.whosdatedwho.com/dating/amina-blue",
+            "relationship_type": 2,
+            "start_date": "Sep 2016",
+            "end_date": "Nov 2018",
+            "length": "2 years",
+            "start_months_since_1900": 1400,
+            "end_months_since_1900": 1426,
+            "length_in_months": 24
+        }
+    ],
+    "details": {
+        "First Name": "DeAndre",
+        "Middle Name": "Rashaun",
+        "Last Name": "Hopkins",
+        "Maiden Name": "NA",
+        "Full Name at Birth": "DeAndre Rashaun Hopkins",
+        "Alternative Name": "DeAndre Rashaun Hopkins, DeAndre Hopkins, Nuk",
+        "Birthday": "1992",
+        "Birthplace": "USA",
+        "Height": "185",
+        "Weight": "214lbs (97 kg)",
+        "Zodiac Sign": "4",
+        "Sexuality": "NA",
+        "Religion": "1",
+        "Ethnicity": "2",
+        "Nationality": "91",
+        "Occupation": "2"
+    }
+}

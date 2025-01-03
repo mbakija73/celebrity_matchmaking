@@ -1,0 +1,66 @@
+{
+    "relationships": [
+        {
+            "name": "Chip Harris",
+            "href": "https://www.whosdatedwho.com/dating/chip-harris",
+            "relationship_type": 4,
+            "start_date": "1994",
+            "end_date": "present",
+            "length": "30 years",
+            "start_months_since_1900": 1128,
+            "end_months_since_1900": -1,
+            "length_in_months": 360
+        },
+        {
+            "name": "Dwight Clark",
+            "href": "https://www.whosdatedwho.com/dating/dwight-clark",
+            "relationship_type": 2,
+            "start_date": "1979",
+            "end_date": "1981",
+            "length": "2 years",
+            "start_months_since_1900": 948,
+            "end_months_since_1900": 972,
+            "length_in_months": 24
+        },
+        {
+            "name": "Timothy Busfield",
+            "href": "https://www.whosdatedwho.com/dating/timothy-busfield",
+            "relationship_type": 1,
+            "start_date": "",
+            "end_date": "",
+            "length": "-",
+            "start_months_since_1900": -1,
+            "end_months_since_1900": -1,
+            "length_in_months": -1
+        },
+        {
+            "name": "Lee Majors",
+            "href": "https://www.whosdatedwho.com/dating/lee-majors",
+            "relationship_type": 2,
+            "start_date": "",
+            "end_date": "",
+            "length": "-",
+            "start_months_since_1900": -1,
+            "end_months_since_1900": -1,
+            "length_in_months": -1
+        }
+    ],
+    "details": {
+        "First Name": "Shawn",
+        "Middle Name": "Nichols",
+        "Last Name": "Weatherly",
+        "Maiden Name": "NA",
+        "Full Name at Birth": "Shawn Nichols Weatherly",
+        "Alternative Name": "Shawn Weatherly Harris, Shawn Nichols Weatherly",
+        "Birthday": "1959",
+        "Birthplace": "USA",
+        "Height": "173",
+        "Weight": "NA",
+        "Zodiac Sign": "12",
+        "Sexuality": "Straight",
+        "Religion": "1",
+        "Ethnicity": "6",
+        "Nationality": "91",
+        "Occupation": "8"
+    }
+}

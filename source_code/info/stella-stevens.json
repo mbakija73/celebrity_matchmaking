@@ -1,0 +1,132 @@
+{
+    "relationships": [
+        {
+            "name": "Bob Kulick",
+            "href": "https://www.whosdatedwho.com/dating/bob-kulick",
+            "relationship_type": 2,
+            "start_date": "1983",
+            "end_date": "May 2020",
+            "length": "37 years",
+            "start_months_since_1900": 996,
+            "end_months_since_1900": 1444,
+            "length_in_months": 444
+        },
+        {
+            "name": "Mel Torm\u00e9",
+            "href": "https://www.whosdatedwho.com/dating/mel-torme",
+            "relationship_type": 2,
+            "start_date": "Dec 1976",
+            "end_date": "1977",
+            "length": "1 month",
+            "start_months_since_1900": 923,
+            "end_months_since_1900": 924,
+            "length_in_months": 1
+        },
+        {
+            "name": "Skip Ward",
+            "href": "https://www.whosdatedwho.com/dating/skip-ward",
+            "relationship_type": 2,
+            "start_date": "Feb 1967",
+            "end_date": "Apr 1970",
+            "length": "3 years",
+            "start_months_since_1900": 805,
+            "end_months_since_1900": 843,
+            "length_in_months": 36
+        },
+        {
+            "name": "Hugh O'Brian",
+            "href": "https://www.whosdatedwho.com/dating/hugh-o-brian",
+            "relationship_type": 3,
+            "start_date": "1961",
+            "end_date": "1961",
+            "length": "-",
+            "start_months_since_1900": 732,
+            "end_months_since_1900": 732,
+            "length_in_months": -1
+        },
+        {
+            "name": "Buddy Bregman",
+            "href": "https://www.whosdatedwho.com/dating/buddy-bregman",
+            "relationship_type": 3,
+            "start_date": "1960",
+            "end_date": "1960",
+            "length": "-",
+            "start_months_since_1900": 720,
+            "end_months_since_1900": 720,
+            "length_in_months": -1
+        },
+        {
+            "name": "Warren Beatty",
+            "href": "https://www.whosdatedwho.com/dating/warren-beatty",
+            "relationship_type": 3,
+            "start_date": "Oct 1959",
+            "end_date": "Nov 1959",
+            "length": "1 month",
+            "start_months_since_1900": 717,
+            "end_months_since_1900": 718,
+            "length_in_months": 1
+        },
+        {
+            "name": "Michael Dante",
+            "href": "https://www.whosdatedwho.com/dating/michael-dante",
+            "relationship_type": 2,
+            "start_date": "Jul 1959",
+            "end_date": "Aug 1959",
+            "length": "1 month",
+            "start_months_since_1900": 714,
+            "end_months_since_1900": 715,
+            "length_in_months": 1
+        },
+        {
+            "name": "Robert Evans",
+            "href": "https://www.whosdatedwho.com/dating/robert-evans",
+            "relationship_type": 2,
+            "start_date": "1959",
+            "end_date": "1959",
+            "length": "-",
+            "start_months_since_1900": 708,
+            "end_months_since_1900": 708,
+            "length_in_months": -1
+        },
+        {
+            "name": "Noble Herman Stephens",
+            "href": "https://www.whosdatedwho.com/dating/noble-herman-stephens",
+            "relationship_type": 4,
+            "start_date": "1951",
+            "end_date": "1957",
+            "length": "6 years",
+            "start_months_since_1900": 612,
+            "end_months_since_1900": 684,
+            "length_in_months": 72
+        },
+        {
+            "name": "Jerry Lewis",
+            "href": "https://www.whosdatedwho.com/dating/jerry-lewis",
+            "relationship_type": 3,
+            "start_date": "",
+            "end_date": "",
+            "length": "-",
+            "start_months_since_1900": -1,
+            "end_months_since_1900": -1,
+            "length_in_months": -1
+        }
+    ],
+    "details": {
+        "First Name": "Stella",
+        "Middle Name": "Caro",
+        "Last Name": "Stevens",
+        "Maiden Name": "Eggleston",
+        "Full Name at Birth": "Estelle Caro Eggleston",
+        "Alternative Name": "Miss January 1960, Estelle Caro Eggleston, Stella Stevens",
+        "Birthday": "1938",
+        "Birthplace": "USA",
+        "Height": "165",
+        "Weight": "118lbs (54 kg)",
+        "Zodiac Sign": "10",
+        "Sexuality": "Straight",
+        "Religion": "18",
+        "Ethnicity": "6",
+        "Nationality": "91",
+        "Occupation": "8"
+    }
+}

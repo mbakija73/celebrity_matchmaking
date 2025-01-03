@@ -1,0 +1,110 @@
+{
+    "relationships": [
+        {
+            "name": "Saweetie",
+            "href": "https://www.whosdatedwho.com/dating/saweetie",
+            "relationship_type": 3,
+            "start_date": "Oct 2021",
+            "end_date": "Oct 2021",
+            "length": "-",
+            "start_months_since_1900": 1461,
+            "end_months_since_1900": 1461,
+            "length_in_months": -1
+        },
+        {
+            "name": "Teanna Trump",
+            "href": "https://www.whosdatedwho.com/dating/teanna-trump",
+            "relationship_type": 3,
+            "start_date": "2020",
+            "end_date": "2020",
+            "length": "-",
+            "start_months_since_1900": 1440,
+            "end_months_since_1900": 1440,
+            "length_in_months": -1
+        },
+        {
+            "name": "Bernice Burgos",
+            "href": "https://www.whosdatedwho.com/dating/bernice-burgos",
+            "relationship_type": 3,
+            "start_date": "Dec 2019",
+            "end_date": "Mar 2020",
+            "length": "3 months",
+            "start_months_since_1900": 1439,
+            "end_months_since_1900": 1442,
+            "length_in_months": 3
+        },
+        {
+            "name": "Alexis Skyy",
+            "href": "https://www.whosdatedwho.com/dating/alexis-sky",
+            "relationship_type": 3,
+            "start_date": "May 2017",
+            "end_date": "Feb 2020",
+            "length": "2 years",
+            "start_months_since_1900": 1408,
+            "end_months_since_1900": 1441,
+            "length_in_months": 24
+        },
+        {
+            "name": "Heather Rose (Model)",
+            "href": "https://www.whosdatedwho.com/dating/heather-rose-model",
+            "relationship_type": 3,
+            "start_date": "Mar 2017",
+            "end_date": "Oct 2018",
+            "length": "1 year",
+            "start_months_since_1900": 1406,
+            "end_months_since_1900": 1425,
+            "length_in_months": 12
+        },
+        {
+            "name": "Jayda Cheaves",
+            "href": "https://www.whosdatedwho.com/dating/jayda-cheaves",
+            "relationship_type": 2,
+            "start_date": "2016",
+            "end_date": "Feb 2021",
+            "length": "5 years",
+            "start_months_since_1900": 1392,
+            "end_months_since_1900": 1453,
+            "length_in_months": 60
+        },
+        {
+            "name": "Ayesha Howard",
+            "href": "https://www.whosdatedwho.com/dating/ayesha-howard",
+            "relationship_type": 2,
+            "start_date": "2010",
+            "end_date": "2015",
+            "length": "5 years",
+            "start_months_since_1900": 1320,
+            "end_months_since_1900": 1380,
+            "length_in_months": 60
+        },
+        {
+            "name": "Slim Danger",
+            "href": "https://www.whosdatedwho.com/dating/slim-danger",
+            "relationship_type": 3,
+            "start_date": "",
+            "end_date": "",
+            "length": "-",
+            "start_months_since_1900": -1,
+            "end_months_since_1900": -1,
+            "length_in_months": -1
+        }
+    ],
+    "details": {
+        "First Name": "Dominique",
+        "Middle Name": "Armani",
+        "Last Name": "Jones",
+        "Maiden Name": "NA",
+        "Full Name at Birth": "Dominique Armani Jones",
+        "Alternative Name": "Lil Baby",
+        "Birthday": "1994",
+        "Birthplace": "USA",
+        "Height": "173",
+        "Weight": "154lbs (70 kg)",
+        "Zodiac Sign": "6",
+        "Sexuality": "Straight",
+        "Religion": "1",
+        "Ethnicity": "2",
+        "Nationality": "91",
+        "Occupation": "1"
+    }
+}

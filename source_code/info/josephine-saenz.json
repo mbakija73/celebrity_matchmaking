@@ -1,0 +1,44 @@
+{
+    "relationships": [
+        {
+            "name": "Cyril Nigg",
+            "href": "https://www.whosdatedwho.com/dating/cyril-nigg",
+            "relationship_type": 4,
+            "start_date": "1994",
+            "end_date": "Jun 2003",
+            "length": "9 years",
+            "start_months_since_1900": 1128,
+            "end_months_since_1900": 1241,
+            "length_in_months": 108
+        },
+        {
+            "name": "John Wayne",
+            "href": "https://www.whosdatedwho.com/dating/john-wayne",
+            "relationship_type": 4,
+            "start_date": "1926",
+            "end_date": "25th Dec 1945",
+            "length": "19 years",
+            "start_months_since_1900": 312,
+            "end_months_since_1900": 551,
+            "length_in_months": 228
+        }
+    ],
+    "details": {
+        "First Name": "Josephine",
+        "Middle Name": "Alicia",
+        "Last Name": "Saenz",
+        "Maiden Name": "NA",
+        "Full Name at Birth": "Josephine Alicia Saenz",
+        "Alternative Name": "Josephine S. Wayne, Josephine Wayne, Josephine Alicia Saenz",
+        "Birthday": "1908",
+        "Birthplace": "California USA",
+        "Height": "NA",
+        "Weight": "NA",
+        "Zodiac Sign": "3",
+        "Sexuality": "Straight",
+        "Religion": "13",
+        "Ethnicity": "6",
+        "Nationality": "91",
+        "Occupation": "18"
+    }
+}

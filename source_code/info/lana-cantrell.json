@@ -1,0 +1,44 @@
+{
+    "relationships": [
+        {
+            "name": "Judy Carne",
+            "href": "https://www.whosdatedwho.com/dating/judy-carne",
+            "relationship_type": 1,
+            "start_date": "",
+            "end_date": "",
+            "length": "-",
+            "start_months_since_1900": -1,
+            "end_months_since_1900": -1,
+            "length_in_months": -1
+        },
+        {
+            "name": "Graham Kennedy",
+            "href": "https://www.whosdatedwho.com/dating/graham-kennedy",
+            "relationship_type": 2,
+            "start_date": "",
+            "end_date": "",
+            "length": "-",
+            "start_months_since_1900": -1,
+            "end_months_since_1900": -1,
+            "length_in_months": -1
+        }
+    ],
+    "details": {
+        "First Name": "Lana",
+        "Middle Name": "NA",
+        "Last Name": "Cantrell",
+        "Maiden Name": "NA",
+        "Full Name at Birth": "Lana Eleanor Cantrell",
+        "Alternative Name": "NA",
+        "Birthday": "1943",
+        "Birthplace": "Australia",
+        "Height": "NA",
+        "Weight": "NA",
+        "Zodiac Sign": "12",
+        "Sexuality": "Straight",
+        "Religion": "1",
+        "Ethnicity": "6",
+        "Nationality": "135",
+        "Occupation": "1"
+    }
+}

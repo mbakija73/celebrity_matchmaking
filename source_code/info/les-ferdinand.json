@@ -1,0 +1,44 @@
+{
+    "relationships": [
+        {
+            "name": "Dani Behr",
+            "href": "https://www.whosdatedwho.com/dating/dani-behr",
+            "relationship_type": 3,
+            "start_date": "1995",
+            "end_date": "1998",
+            "length": "3 years",
+            "start_months_since_1900": 1140,
+            "end_months_since_1900": 1176,
+            "length_in_months": 36
+        },
+        {
+            "name": "Ulrika Jonsson",
+            "href": "https://www.whosdatedwho.com/dating/ulrika-jonsson",
+            "relationship_type": 2,
+            "start_date": "",
+            "end_date": "",
+            "length": "-",
+            "start_months_since_1900": -1,
+            "end_months_since_1900": -1,
+            "length_in_months": -1
+        }
+    ],
+    "details": {
+        "First Name": "Les",
+        "Middle Name": "NA",
+        "Last Name": "Ferdinand",
+        "Maiden Name": "NA",
+        "Full Name at Birth": "Leslie Ferdinand",
+        "Alternative Name": "Sir Les",
+        "Birthday": "1966",
+        "Birthplace": "London",
+        "Height": "180",
+        "Weight": "NA",
+        "Zodiac Sign": "6",
+        "Sexuality": "Straight",
+        "Religion": "1",
+        "Ethnicity": "2",
+        "Nationality": "8",
+        "Occupation": "2"
+    }
+}

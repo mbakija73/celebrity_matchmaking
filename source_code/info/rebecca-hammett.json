@@ -1,0 +1,44 @@
+{
+    "relationships": [
+        {
+            "name": "Kirk Hammett",
+            "href": "https://www.whosdatedwho.com/dating/kirk-hammett",
+            "relationship_type": 4,
+            "start_date": "1982",
+            "end_date": "1990",
+            "length": "8 years",
+            "start_months_since_1900": 984,
+            "end_months_since_1900": 1080,
+            "length_in_months": 96
+        },
+        {
+            "name": "Eric Peterson",
+            "href": "https://www.whosdatedwho.com/dating/eric-peterson-musician",
+            "relationship_type": 4,
+            "start_date": "",
+            "end_date": "",
+            "length": "-",
+            "start_months_since_1900": -1,
+            "end_months_since_1900": -1,
+            "length_in_months": -1
+        }
+    ],
+    "details": {
+        "First Name": "Rebecca",
+        "Middle Name": "Enrica",
+        "Last Name": "Hammett",
+        "Maiden Name": "Kestelyn",
+        "Full Name at Birth": "Rebecca Enrica Kestelyn",
+        "Alternative Name": "Rebecca Peterson",
+        "Birthday": "1966",
+        "Birthplace": "NA",
+        "Height": "NA",
+        "Weight": "NA",
+        "Zodiac Sign": "2",
+        "Sexuality": "Straight",
+        "Religion": "1",
+        "Ethnicity": "1",
+        "Nationality": "91",
+        "Occupation": "19"
+    }
+}

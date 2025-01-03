@@ -1,0 +1,55 @@
+{
+    "relationships": [
+        {
+            "name": "Steve Brodie",
+            "href": "https://www.whosdatedwho.com/dating/steve-brodie",
+            "relationship_type": 4,
+            "start_date": "1945",
+            "end_date": "Mar 1950",
+            "length": "5 years",
+            "start_months_since_1900": 540,
+            "end_months_since_1900": 602,
+            "length_in_months": 60
+        },
+        {
+            "name": "David Street",
+            "href": "https://www.whosdatedwho.com/dating/david-street",
+            "relationship_type": 4,
+            "start_date": "1944",
+            "end_date": "1946",
+            "length": "2 years",
+            "start_months_since_1900": 528,
+            "end_months_since_1900": 552,
+            "length_in_months": 24
+        },
+        {
+            "name": "George Jessel",
+            "href": "https://www.whosdatedwho.com/dating/george-jessel",
+            "relationship_type": 4,
+            "start_date": "1939",
+            "end_date": "Aug 1943",
+            "length": "4 years",
+            "start_months_since_1900": 468,
+            "end_months_since_1900": 523,
+            "length_in_months": 48
+        }
+    ],
+    "details": {
+        "First Name": "Lois",
+        "Middle Name": "NA",
+        "Last Name": "Andrews",
+        "Maiden Name": "NA",
+        "Full Name at Birth": "Kathleen Lorraine Gourley",
+        "Alternative Name": "NA",
+        "Birthday": "1924",
+        "Birthplace": "USA",
+        "Height": "NA",
+        "Weight": "NA",
+        "Zodiac Sign": "7",
+        "Sexuality": "Straight",
+        "Religion": "1",
+        "Ethnicity": "6",
+        "Nationality": "91",
+        "Occupation": "8"
+    }
+}

@@ -1,0 +1,66 @@
+{
+    "relationships": [
+        {
+            "name": "Matthew Rimmer",
+            "href": "https://www.whosdatedwho.com/dating/matthew-rimmer",
+            "relationship_type": 4,
+            "start_date": "2001",
+            "end_date": "present",
+            "length": "23 years",
+            "start_months_since_1900": 1212,
+            "end_months_since_1900": -1,
+            "length_in_months": 276
+        },
+        {
+            "name": "Alexander Siddig",
+            "href": "https://www.whosdatedwho.com/dating/alexander-siddig",
+            "relationship_type": 4,
+            "start_date": "1995",
+            "end_date": "Apr 2001",
+            "length": "6 years",
+            "start_months_since_1900": 1140,
+            "end_months_since_1900": 1215,
+            "length_in_months": 72
+        },
+        {
+            "name": "Nicholas Miscusi",
+            "href": "https://www.whosdatedwho.com/dating/nick-miscusi",
+            "relationship_type": 4,
+            "start_date": "1988",
+            "end_date": "1994",
+            "length": "6 years",
+            "start_months_since_1900": 1056,
+            "end_months_since_1900": 1128,
+            "length_in_months": 72
+        },
+        {
+            "name": "Nicole de Boer",
+            "href": "https://www.whosdatedwho.com/dating/nicole-de-boer",
+            "relationship_type": 5,
+            "start_date": "",
+            "end_date": "",
+            "length": "-",
+            "start_months_since_1900": -1,
+            "end_months_since_1900": -1,
+            "length_in_months": -1
+        }
+    ],
+    "details": {
+        "First Name": "Nana",
+        "Middle Name": "NA",
+        "Last Name": "Rimmer",
+        "Maiden Name": "Tucker",
+        "Full Name at Birth": "Nana Tucker",
+        "Alternative Name": "NA",
+        "Birthday": "1957",
+        "Birthplace": "USA",
+        "Height": "171",
+        "Weight": "125lbs (57 kg)",
+        "Zodiac Sign": "12",
+        "Sexuality": "Straight",
+        "Religion": "1",
+        "Ethnicity": "6",
+        "Nationality": "91",
+        "Occupation": "8"
+    }
+}

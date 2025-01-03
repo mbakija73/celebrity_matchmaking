@@ -1,0 +1,77 @@
+{
+    "relationships": [
+        {
+            "name": "Lisa Boyer",
+            "href": "https://www.whosdatedwho.com/dating/lisa-boyer",
+            "relationship_type": 3,
+            "start_date": "1964",
+            "end_date": "1964",
+            "length": "-",
+            "start_months_since_1900": 768,
+            "end_months_since_1900": 768,
+            "length_in_months": -1
+        },
+        {
+            "name": "Barbara Campbell",
+            "href": "https://www.whosdatedwho.com/dating/barbara-campbell",
+            "relationship_type": 4,
+            "start_date": "Oct 1959",
+            "end_date": "11th Dec 1964",
+            "length": "5 years",
+            "start_months_since_1900": 717,
+            "end_months_since_1900": 779,
+            "length_in_months": 60
+        },
+        {
+            "name": "Harlean Harris",
+            "href": "https://www.whosdatedwho.com/dating/harlean-harris",
+            "relationship_type": 2,
+            "start_date": "1958",
+            "end_date": "1958",
+            "length": "-",
+            "start_months_since_1900": 696,
+            "end_months_since_1900": 696,
+            "length_in_months": -1
+        },
+        {
+            "name": "Fayne Pridgon",
+            "href": "https://www.whosdatedwho.com/dating/faye-pridgeon",
+            "relationship_type": 2,
+            "start_date": "1956",
+            "end_date": "1956",
+            "length": "-",
+            "start_months_since_1900": 672,
+            "end_months_since_1900": 672,
+            "length_in_months": -1
+        },
+        {
+            "name": "Delores Mohawk",
+            "href": "https://www.whosdatedwho.com/dating/delores-mohawk",
+            "relationship_type": 4,
+            "start_date": "19th Oct 1953",
+            "end_date": "15th Nov 1957",
+            "length": "4 years",
+            "start_months_since_1900": 645,
+            "end_months_since_1900": 694,
+            "length_in_months": 48
+        }
+    ],
+    "details": {
+        "First Name": "Sam",
+        "Middle Name": "NA",
+        "Last Name": "Cooke",
+        "Maiden Name": "NA",
+        "Full Name at Birth": "Samuel Cook",
+        "Alternative Name": "Dale Cook, Samuel Cook, Sam Cooke",
+        "Birthday": "1931",
+        "Birthplace": "USA",
+        "Height": "178",
+        "Weight": "NA",
+        "Zodiac Sign": "9",
+        "Sexuality": "Straight",
+        "Religion": "18",
+        "Ethnicity": "2",
+        "Nationality": "91",
+        "Occupation": "1"
+    }
+}

@@ -1,0 +1,55 @@
+{
+    "relationships": [
+        {
+            "name": "Brigitte Bardot",
+            "href": "https://www.whosdatedwho.com/dating/brigitte-bardot",
+            "relationship_type": 2,
+            "start_date": "1973",
+            "end_date": "1973",
+            "length": "-",
+            "start_months_since_1900": 876,
+            "end_months_since_1900": 876,
+            "length_in_months": -1
+        },
+        {
+            "name": "Christina De Caraman-Chimay",
+            "href": "https://www.whosdatedwho.com/dating/christina-de-caraman-chimay",
+            "relationship_type": 2,
+            "start_date": "",
+            "end_date": "",
+            "length": "-",
+            "start_months_since_1900": -1,
+            "end_months_since_1900": -1,
+            "length_in_months": -1
+        },
+        {
+            "name": "Anne Van Malderen",
+            "href": "https://www.whosdatedwho.com/dating/anne-van-malderen",
+            "relationship_type": 2,
+            "start_date": "",
+            "end_date": "",
+            "length": "-",
+            "start_months_since_1900": -1,
+            "end_months_since_1900": -1,
+            "length_in_months": -1
+        }
+    ],
+    "details": {
+        "First Name": "Fran\u00e7ois",
+        "Middle Name": "NA",
+        "Last Name": "C\u00e8vert",
+        "Maiden Name": "NA",
+        "Full Name at Birth": "NA",
+        "Alternative Name": "NA",
+        "Birthday": "1944",
+        "Birthplace": "France",
+        "Height": "184",
+        "Weight": "NA",
+        "Zodiac Sign": "1",
+        "Sexuality": "Straight",
+        "Religion": "1",
+        "Ethnicity": "6",
+        "Nationality": "86",
+        "Occupation": "2"
+    }
+}

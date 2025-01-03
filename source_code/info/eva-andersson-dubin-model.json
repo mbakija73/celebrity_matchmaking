@@ -1,0 +1,44 @@
+{
+    "relationships": [
+        {
+            "name": "Glenn Dubin",
+            "href": "https://www.whosdatedwho.com/dating/glenn-dubin",
+            "relationship_type": 4,
+            "start_date": "1992",
+            "end_date": "present",
+            "length": "32 years",
+            "start_months_since_1900": 1104,
+            "end_months_since_1900": -1,
+            "length_in_months": 384
+        },
+        {
+            "name": "Jeffrey Epstein",
+            "href": "https://www.whosdatedwho.com/dating/jeffrey-epstein",
+            "relationship_type": 2,
+            "start_date": "1981",
+            "end_date": "1992",
+            "length": "11 years",
+            "start_months_since_1900": 972,
+            "end_months_since_1900": 1104,
+            "length_in_months": 132
+        }
+    ],
+    "details": {
+        "First Name": "Eva",
+        "Middle Name": "Birgitta",
+        "Last Name": "Andersson-Dubin",
+        "Maiden Name": "Andersson",
+        "Full Name at Birth": "Eva Birgitta Andersson",
+        "Alternative Name": "Dr. Eva Andersson-Dubin",
+        "Birthday": "1960",
+        "Birthplace": "Sweden",
+        "Height": "NA",
+        "Weight": "NA",
+        "Zodiac Sign": "2",
+        "Sexuality": "NA",
+        "Religion": "1",
+        "Ethnicity": "6",
+        "Nationality": "30",
+        "Occupation": "15"
+    }
+}

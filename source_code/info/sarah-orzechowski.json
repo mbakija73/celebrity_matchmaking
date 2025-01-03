@@ -1,0 +1,44 @@
+{
+    "relationships": [
+        {
+            "name": "Brendon Urie",
+            "href": "https://www.whosdatedwho.com/dating/brendon-urie",
+            "relationship_type": 4,
+            "start_date": "2009",
+            "end_date": "present",
+            "length": "15 years",
+            "start_months_since_1900": 1308,
+            "end_months_since_1900": -1,
+            "length_in_months": 180
+        },
+        {
+            "name": "Jeremy Davis",
+            "href": "https://www.whosdatedwho.com/dating/jeremy-davis",
+            "relationship_type": 2,
+            "start_date": "2005",
+            "end_date": "2008",
+            "length": "3 years",
+            "start_months_since_1900": 1260,
+            "end_months_since_1900": 1296,
+            "length_in_months": 36
+        }
+    ],
+    "details": {
+        "First Name": "Sarah",
+        "Middle Name": "NA",
+        "Last Name": "Urie",
+        "Maiden Name": "Orzechowski",
+        "Full Name at Birth": "Sarah Orzechowski",
+        "Alternative Name": "Sarah Urie",
+        "Birthday": "1987",
+        "Birthplace": "United States",
+        "Height": "173",
+        "Weight": "NA",
+        "Zodiac Sign": "1",
+        "Sexuality": "Straight",
+        "Religion": "1",
+        "Ethnicity": "6",
+        "Nationality": "91",
+        "Occupation": "11"
+    }
+}

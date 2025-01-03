@@ -1,0 +1,44 @@
+{
+    "relationships": [
+        {
+            "name": "Fred Ciarla",
+            "href": "https://www.whosdatedwho.com/dating/fred-ciarla",
+            "relationship_type": 2,
+            "start_date": "Mar 2009",
+            "end_date": "Sep 2009",
+            "length": "6 months",
+            "start_months_since_1900": 1310,
+            "end_months_since_1900": 1316,
+            "length_in_months": 6
+        },
+        {
+            "name": "Emanuel Milchevski",
+            "href": "https://www.whosdatedwho.com/dating/emanuel-milchevski",
+            "relationship_type": 3,
+            "start_date": "Jan 2009",
+            "end_date": "Feb 2009",
+            "length": "1 month",
+            "start_months_since_1900": 1308,
+            "end_months_since_1900": 1309,
+            "length_in_months": 1
+        }
+    ],
+    "details": {
+        "First Name": "Priscila",
+        "Middle Name": "NA",
+        "Last Name": "Pires",
+        "Maiden Name": "NA",
+        "Full Name at Birth": "NA",
+        "Alternative Name": "NA",
+        "Birthday": "1982",
+        "Birthplace": "Mato Grosso do Sul",
+        "Height": "NA",
+        "Weight": "NA",
+        "Zodiac Sign": "12",
+        "Sexuality": "Straight",
+        "Religion": "1",
+        "Ethnicity": "8",
+        "Nationality": "87",
+        "Occupation": "11"
+    }
+}

@@ -1,0 +1,33 @@
+{
+    "relationships": [
+        {
+            "name": "Jeff Gordon",
+            "href": "https://www.whosdatedwho.com/dating/jeff-gordon",
+            "relationship_type": 2,
+            "start_date": "2002",
+            "end_date": "2004",
+            "length": "2 years",
+            "start_months_since_1900": 1224,
+            "end_months_since_1900": 1248,
+            "length_in_months": 24
+        }
+    ],
+    "details": {
+        "First Name": "Amanda",
+        "Middle Name": "NA",
+        "Last Name": "Church",
+        "Maiden Name": "NA",
+        "Full Name at Birth": "NA",
+        "Alternative Name": "NA",
+        "Birthday": "NA",
+        "Birthplace": "NA",
+        "Height": "NA",
+        "Weight": "NA",
+        "Zodiac Sign": "2",
+        "Sexuality": "NA",
+        "Religion": "1",
+        "Ethnicity": "1",
+        "Nationality": "65",
+        "Occupation": "19"
+    }
+}

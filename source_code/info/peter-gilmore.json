@@ -1,0 +1,33 @@
+{
+    "relationships": [
+        {
+            "name": "Una Stubbs",
+            "href": "https://www.whosdatedwho.com/dating/una-stubbs",
+            "relationship_type": 4,
+            "start_date": "1958",
+            "end_date": "1969",
+            "length": "11 years",
+            "start_months_since_1900": 696,
+            "end_months_since_1900": 828,
+            "length_in_months": 132
+        }
+    ],
+    "details": {
+        "First Name": "Peter",
+        "Middle Name": "NA",
+        "Last Name": "Gilmore",
+        "Maiden Name": "NA",
+        "Full Name at Birth": "NA",
+        "Alternative Name": "NA",
+        "Birthday": "1931",
+        "Birthplace": "Germany",
+        "Height": "NA",
+        "Weight": "NA",
+        "Zodiac Sign": "11",
+        "Sexuality": "NA",
+        "Religion": "1",
+        "Ethnicity": "6",
+        "Nationality": "55",
+        "Occupation": "8"
+    }
+}

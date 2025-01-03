@@ -1,0 +1,44 @@
+{
+    "relationships": [
+        {
+            "name": "Mary Jane Irving",
+            "href": "https://www.whosdatedwho.com/dating/mary-jane-irving",
+            "relationship_type": 4,
+            "start_date": "1938",
+            "end_date": "1983",
+            "length": "45 years",
+            "start_months_since_1900": 456,
+            "end_months_since_1900": 996,
+            "length_in_months": 540
+        },
+        {
+            "name": "Alan Campbell",
+            "href": "https://www.whosdatedwho.com/dating/alan-campbell",
+            "relationship_type": 2,
+            "start_date": "",
+            "end_date": "",
+            "length": "-",
+            "start_months_since_1900": -1,
+            "end_months_since_1900": -1,
+            "length_in_months": -1
+        }
+    ],
+    "details": {
+        "First Name": "Robert",
+        "Middle Name": "Samuel",
+        "Last Name": "Carson",
+        "Maiden Name": "NA",
+        "Full Name at Birth": "Robert Samuel Carson",
+        "Alternative Name": "Robert Carson",
+        "Birthday": "1909",
+        "Birthplace": "Canada",
+        "Height": "NA",
+        "Weight": "NA",
+        "Zodiac Sign": "10",
+        "Sexuality": "Straight",
+        "Religion": "1",
+        "Ethnicity": "6",
+        "Nationality": "90",
+        "Occupation": "8"
+    }
+}

@@ -1,0 +1,33 @@
+{
+    "relationships": [
+        {
+            "name": "Dave Grohl",
+            "href": "https://www.whosdatedwho.com/dating/dave-grohl",
+            "relationship_type": 2,
+            "start_date": "1998",
+            "end_date": "2000",
+            "length": "2 years",
+            "start_months_since_1900": 1176,
+            "end_months_since_1900": 1200,
+            "length_in_months": 24
+        }
+    ],
+    "details": {
+        "First Name": "Tina",
+        "Middle Name": "NA",
+        "Last Name": "NA",
+        "Maiden Name": "Basich",
+        "Full Name at Birth": "NA",
+        "Alternative Name": "NA",
+        "Birthday": "1969",
+        "Birthplace": "California",
+        "Height": "NA",
+        "Weight": "NA",
+        "Zodiac Sign": "8",
+        "Sexuality": "Straight",
+        "Religion": "1",
+        "Ethnicity": "6",
+        "Nationality": "91",
+        "Occupation": "2"
+    }
+}

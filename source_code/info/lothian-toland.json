@@ -1,0 +1,33 @@
+{
+    "relationships": [
+        {
+            "name": "Red Skelton",
+            "href": "https://www.whosdatedwho.com/dating/red-skelton",
+            "relationship_type": 4,
+            "start_date": "1973",
+            "end_date": "Aug 1997",
+            "length": "24 years",
+            "start_months_since_1900": 876,
+            "end_months_since_1900": 1171,
+            "length_in_months": 288
+        }
+    ],
+    "details": {
+        "First Name": "Lothian",
+        "Middle Name": "NA",
+        "Last Name": "Toland",
+        "Maiden Name": "NA",
+        "Full Name at Birth": "NA",
+        "Alternative Name": "NA",
+        "Birthday": "NA",
+        "Birthplace": "NA",
+        "Height": "NA",
+        "Weight": "NA",
+        "Zodiac Sign": "2",
+        "Sexuality": "NA",
+        "Religion": "1",
+        "Ethnicity": "1",
+        "Nationality": "65",
+        "Occupation": "19"
+    }
+}

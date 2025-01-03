@@ -1,0 +1,99 @@
+{
+    "relationships": [
+        {
+            "name": "Ernest Borgnine",
+            "href": "https://www.whosdatedwho.com/dating/ernest-borgnine",
+            "relationship_type": 4,
+            "start_date": "1963",
+            "end_date": "Jul 1964",
+            "length": "1 year",
+            "start_months_since_1900": 756,
+            "end_months_since_1900": 774,
+            "length_in_months": 12
+        },
+        {
+            "name": "Robert Six",
+            "href": "https://www.whosdatedwho.com/dating/robert-six",
+            "relationship_type": 4,
+            "start_date": "1952",
+            "end_date": "1960",
+            "length": "8 years",
+            "start_months_since_1900": 624,
+            "end_months_since_1900": 720,
+            "length_in_months": 96
+        },
+        {
+            "name": "Robert Levitt (i)",
+            "href": "https://www.whosdatedwho.com/dating/robert-levitt-29391119",
+            "relationship_type": 4,
+            "start_date": "1941",
+            "end_date": "1952",
+            "length": "11 years",
+            "start_months_since_1900": 492,
+            "end_months_since_1900": 624,
+            "length_in_months": 132
+        },
+        {
+            "name": "William Smith (I)",
+            "href": "https://www.whosdatedwho.com/dating/william-smith-576924",
+            "relationship_type": 4,
+            "start_date": "1939",
+            "end_date": "Oct 1941",
+            "length": "2 years",
+            "start_months_since_1900": 468,
+            "end_months_since_1900": 501,
+            "length_in_months": 24
+        },
+        {
+            "name": "Farley Granger",
+            "href": "https://www.whosdatedwho.com/dating/farley-granger",
+            "relationship_type": 3,
+            "start_date": "",
+            "end_date": "",
+            "length": "-",
+            "start_months_since_1900": -1,
+            "end_months_since_1900": -1,
+            "length_in_months": -1
+        },
+        {
+            "name": "Cesar Romero",
+            "href": "https://www.whosdatedwho.com/dating/cesar-romero",
+            "relationship_type": 3,
+            "start_date": "",
+            "end_date": "",
+            "length": "-",
+            "start_months_since_1900": -1,
+            "end_months_since_1900": -1,
+            "length_in_months": -1
+        },
+        {
+            "name": "Sherman Billingsley",
+            "href": "https://www.whosdatedwho.com/dating/sherman-billingsley",
+            "relationship_type": 2,
+            "start_date": "",
+            "end_date": "",
+            "length": "-",
+            "start_months_since_1900": -1,
+            "end_months_since_1900": -1,
+            "length_in_months": -1
+        }
+    ],
+    "details": {
+        "First Name": "Ethel",
+        "Middle Name": "NA",
+        "Last Name": "Merman",
+        "Maiden Name": "NA",
+        "Full Name at Birth": "Ethel Agnes Zimmermann",
+        "Alternative Name": "The Grande Dame of Broadway",
+        "Birthday": "1908",
+        "Birthplace": "New York",
+        "Height": "NA",
+        "Weight": "NA",
+        "Zodiac Sign": "13",
+        "Sexuality": "Straight",
+        "Religion": "37",
+        "Ethnicity": "6",
+        "Nationality": "91",
+        "Occupation": "1"
+    }
+}

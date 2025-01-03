@@ -1,0 +1,44 @@
+{
+    "relationships": [
+        {
+            "name": "Clay Harbor",
+            "href": "https://www.whosdatedwho.com/dating/clay-harbor",
+            "relationship_type": 2,
+            "start_date": "May 2020",
+            "end_date": "Jun 2020",
+            "length": "1 month",
+            "start_months_since_1900": 1444,
+            "end_months_since_1900": 1445,
+            "length_in_months": 1
+        },
+        {
+            "name": "Jonathan Rivera",
+            "href": "https://www.whosdatedwho.com/dating/jonathan-rivera-reality-tv",
+            "relationship_type": 4,
+            "start_date": "",
+            "end_date": "",
+            "length": "-",
+            "start_months_since_1900": -1,
+            "end_months_since_1900": -1,
+            "length_in_months": -1
+        }
+    ],
+    "details": {
+        "First Name": "Fernanda",
+        "Middle Name": "NA",
+        "Last Name": "Flores",
+        "Maiden Name": "NA",
+        "Full Name at Birth": "NA",
+        "Alternative Name": "NA",
+        "Birthday": "1998",
+        "Birthplace": "Mexico",
+        "Height": "NA",
+        "Weight": "NA",
+        "Zodiac Sign": "7",
+        "Sexuality": "NA",
+        "Religion": "1",
+        "Ethnicity": "1",
+        "Nationality": "7",
+        "Occupation": "11"
+    }
+}

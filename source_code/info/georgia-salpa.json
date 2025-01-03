@@ -1,0 +1,55 @@
+{
+    "relationships": [
+        {
+            "name": "Joe Penna",
+            "href": "https://www.whosdatedwho.com/dating/joe-penna",
+            "relationship_type": 2,
+            "start_date": "Aug 2012",
+            "end_date": "present",
+            "length": "12 years",
+            "start_months_since_1900": 1351,
+            "end_months_since_1900": -1,
+            "length_in_months": 144
+        },
+        {
+            "name": "Kirk Norcross",
+            "href": "https://www.whosdatedwho.com/dating/kirk-norcross",
+            "relationship_type": 2,
+            "start_date": "Jan 2012",
+            "end_date": "Jan 2012",
+            "length": "-",
+            "start_months_since_1900": 1344,
+            "end_months_since_1900": 1344,
+            "length_in_months": -1
+        },
+        {
+            "name": "Calum Best",
+            "href": "https://www.whosdatedwho.com/dating/calum-best",
+            "relationship_type": 2,
+            "start_date": "May 2011",
+            "end_date": "2011",
+            "length": "4 months",
+            "start_months_since_1900": 1336,
+            "end_months_since_1900": 1332,
+            "length_in_months": 4
+        }
+    ],
+    "details": {
+        "First Name": "Georgia",
+        "Middle Name": "NA",
+        "Last Name": "Salpa",
+        "Maiden Name": "NA",
+        "Full Name at Birth": "NA",
+        "Alternative Name": "NA",
+        "Birthday": "1985",
+        "Birthplace": "Greece",
+        "Height": "173",
+        "Weight": "NA",
+        "Zodiac Sign": "3",
+        "Sexuality": "NA",
+        "Religion": "1",
+        "Ethnicity": "6",
+        "Nationality": "117",
+        "Occupation": "16"
+    }
+}

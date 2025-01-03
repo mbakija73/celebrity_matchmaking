@@ -1,0 +1,44 @@
+{
+    "relationships": [
+        {
+            "name": "Carlos Tevez",
+            "href": "https://www.whosdatedwho.com/dating/carlos-tevez",
+            "relationship_type": 3,
+            "start_date": "2008",
+            "end_date": "2008",
+            "length": "-",
+            "start_months_since_1900": 1296,
+            "end_months_since_1900": 1296,
+            "length_in_months": -1
+        },
+        {
+            "name": "Mick Jagger",
+            "href": "https://www.whosdatedwho.com/dating/mick-jagger",
+            "relationship_type": 3,
+            "start_date": "",
+            "end_date": "",
+            "length": "-",
+            "start_months_since_1900": -1,
+            "end_months_since_1900": -1,
+            "length_in_months": -1
+        }
+    ],
+    "details": {
+        "First Name": "Vanessa",
+        "Middle Name": "NA",
+        "Last Name": "Carbone",
+        "Maiden Name": "NA",
+        "Full Name at Birth": "NA",
+        "Alternative Name": "Playmate of The Year 2007",
+        "Birthday": "NA",
+        "Birthplace": "Argentina",
+        "Height": "NA",
+        "Weight": "NA",
+        "Zodiac Sign": "2",
+        "Sexuality": "NA",
+        "Religion": "1",
+        "Ethnicity": "1",
+        "Nationality": "28",
+        "Occupation": "16"
+    }
+}

@@ -1,0 +1,66 @@
+{
+    "relationships": [
+        {
+            "name": "Gary Judis",
+            "href": "https://www.whosdatedwho.com/dating/gary-judis",
+            "relationship_type": 4,
+            "start_date": "1978",
+            "end_date": "",
+            "length": "-",
+            "start_months_since_1900": 936,
+            "end_months_since_1900": -1,
+            "length_in_months": -1
+        },
+        {
+            "name": "Richard Burton",
+            "href": "https://www.whosdatedwho.com/dating/richard-burton",
+            "relationship_type": 2,
+            "start_date": "May 1975",
+            "end_date": "Aug 1975",
+            "length": "3 months",
+            "start_months_since_1900": 904,
+            "end_months_since_1900": 907,
+            "length_in_months": 3
+        },
+        {
+            "name": "John DeLorean",
+            "href": "https://www.whosdatedwho.com/dating/john-delorean",
+            "relationship_type": 2,
+            "start_date": "",
+            "end_date": "",
+            "length": "-",
+            "start_months_since_1900": -1,
+            "end_months_since_1900": -1,
+            "length_in_months": -1
+        },
+        {
+            "name": "Peabo Bryson",
+            "href": "https://www.whosdatedwho.com/dating/peabo-bryson",
+            "relationship_type": 3,
+            "start_date": "",
+            "end_date": "",
+            "length": "-",
+            "start_months_since_1900": -1,
+            "end_months_since_1900": -1,
+            "length_in_months": -1
+        }
+    ],
+    "details": {
+        "First Name": "Jeannie",
+        "Middle Name": "NA",
+        "Last Name": "Bell",
+        "Maiden Name": "Morgan",
+        "Full Name at Birth": "Annie Lee Morgan",
+        "Alternative Name": "Miss October 1969, Jeanne Bell, Jeanie Bell, Jean Bell",
+        "Birthday": "1943",
+        "Birthplace": "Missouri",
+        "Height": "163",
+        "Weight": "117lbs (53 kg)",
+        "Zodiac Sign": "6",
+        "Sexuality": "Straight",
+        "Religion": "1",
+        "Ethnicity": "2",
+        "Nationality": "91",
+        "Occupation": "16"
+    }
+}

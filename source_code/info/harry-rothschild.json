@@ -1,0 +1,44 @@
+{
+    "relationships": [
+        {
+            "name": "Allyson Ames",
+            "href": "https://www.whosdatedwho.com/dating/allyson-ames",
+            "relationship_type": 4,
+            "start_date": "1968",
+            "end_date": "1968",
+            "length": "-",
+            "start_months_since_1900": 816,
+            "end_months_since_1900": 816,
+            "length_in_months": -1
+        },
+        {
+            "name": "M'liss McClure",
+            "href": "https://www.whosdatedwho.com/dating/m-liss-mcclure",
+            "relationship_type": 4,
+            "start_date": "Jan 1952",
+            "end_date": "Feb 1954",
+            "length": "2 years",
+            "start_months_since_1900": 624,
+            "end_months_since_1900": 649,
+            "length_in_months": 24
+        }
+    ],
+    "details": {
+        "First Name": "Harry",
+        "Middle Name": "Samuel",
+        "Last Name": "Rothschild",
+        "Maiden Name": "NA",
+        "Full Name at Birth": "Harry Samuel Rothschild",
+        "Alternative Name": "Harry S. Rothschild, Harry Samuel Rothschild, Harry Rothschild",
+        "Birthday": "1909",
+        "Birthplace": "NA",
+        "Height": "NA",
+        "Weight": "NA",
+        "Zodiac Sign": "12",
+        "Sexuality": "NA",
+        "Religion": "1",
+        "Ethnicity": "1",
+        "Nationality": "65",
+        "Occupation": "19"
+    }
+}

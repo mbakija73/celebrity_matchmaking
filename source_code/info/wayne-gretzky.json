@@ -1,0 +1,44 @@
+{
+    "relationships": [
+        {
+            "name": "Janet Jones",
+            "href": "https://www.whosdatedwho.com/dating/janet-jones",
+            "relationship_type": 4,
+            "start_date": "1987",
+            "end_date": "present",
+            "length": "37 years",
+            "start_months_since_1900": 1044,
+            "end_months_since_1900": -1,
+            "length_in_months": 444
+        },
+        {
+            "name": "Vicki Moss",
+            "href": "https://www.whosdatedwho.com/dating/vicki-moss",
+            "relationship_type": 2,
+            "start_date": "1979",
+            "end_date": "1986",
+            "length": "7 years",
+            "start_months_since_1900": 948,
+            "end_months_since_1900": 1032,
+            "length_in_months": 84
+        }
+    ],
+    "details": {
+        "First Name": "Wayne",
+        "Middle Name": "NA",
+        "Last Name": "Gretzky",
+        "Maiden Name": "NA",
+        "Full Name at Birth": "Wayne Douglas Gretzky",
+        "Alternative Name": "The Great One",
+        "Birthday": "1961",
+        "Birthplace": "Canada",
+        "Height": "183",
+        "Weight": "185lbs (84 kg)",
+        "Zodiac Sign": "9",
+        "Sexuality": "Straight",
+        "Religion": "1",
+        "Ethnicity": "6",
+        "Nationality": "90",
+        "Occupation": "2"
+    }
+}

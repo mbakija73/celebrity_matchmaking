@@ -1,0 +1,77 @@
+{
+    "relationships": [
+        {
+            "name": "Kaia Gerber",
+            "href": "https://www.whosdatedwho.com/dating/kaia-gerber",
+            "relationship_type": 2,
+            "start_date": "Dec 2021",
+            "end_date": "present",
+            "length": "2 years",
+            "start_months_since_1900": 1463,
+            "end_months_since_1900": -1,
+            "length_in_months": 24
+        },
+        {
+            "name": "Lily-Rose Depp",
+            "href": "https://www.whosdatedwho.com/dating/lily-rose-melody-depp",
+            "relationship_type": 2,
+            "start_date": "2021",
+            "end_date": "2021",
+            "length": "-",
+            "start_months_since_1900": 1452,
+            "end_months_since_1900": 1452,
+            "length_in_months": -1
+        },
+        {
+            "name": "Vanessa Hudgens",
+            "href": "https://www.whosdatedwho.com/dating/vanessa-hudgens",
+            "relationship_type": 2,
+            "start_date": "Aug 2011",
+            "end_date": "Nov 2019",
+            "length": "8 years",
+            "start_months_since_1900": 1339,
+            "end_months_since_1900": 1438,
+            "length_in_months": 96
+        },
+        {
+            "name": "Cody Kennedy",
+            "href": "https://www.whosdatedwho.com/dating/cody-kennedy",
+            "relationship_type": 1,
+            "start_date": "2007",
+            "end_date": "2007",
+            "length": "-",
+            "start_months_since_1900": 1284,
+            "end_months_since_1900": 1284,
+            "length_in_months": -1
+        },
+        {
+            "name": "The Weeknd",
+            "href": "https://www.whosdatedwho.com/dating/the-weeknd",
+            "relationship_type": 1,
+            "start_date": "",
+            "end_date": "",
+            "length": "-",
+            "start_months_since_1900": -1,
+            "end_months_since_1900": -1,
+            "length_in_months": -1
+        }
+    ],
+    "details": {
+        "First Name": "Austin",
+        "Middle Name": "Robert",
+        "Last Name": "Butler",
+        "Maiden Name": "NA",
+        "Full Name at Birth": "Austin Robert Butler",
+        "Alternative Name": "NA",
+        "Birthday": "1991",
+        "Birthplace": "United States",
+        "Height": "183",
+        "Weight": "150lbs (68 kg)",
+        "Zodiac Sign": "12",
+        "Sexuality": "Straight",
+        "Religion": "1",
+        "Ethnicity": "6",
+        "Nationality": "91",
+        "Occupation": "8"
+    }
+}

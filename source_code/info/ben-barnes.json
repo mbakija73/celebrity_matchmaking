@@ -1,0 +1,44 @@
+{
+    "relationships": [
+        {
+            "name": "Meganne Young",
+            "href": "https://www.whosdatedwho.com/dating/meganne-young",
+            "relationship_type": 2,
+            "start_date": "2017",
+            "end_date": "2017",
+            "length": "-",
+            "start_months_since_1900": 1404,
+            "end_months_since_1900": 1404,
+            "length_in_months": -1
+        },
+        {
+            "name": "Tamsin Egerton",
+            "href": "https://www.whosdatedwho.com/dating/tamsin-egerton",
+            "relationship_type": 2,
+            "start_date": "2009",
+            "end_date": "2010",
+            "length": "1 year",
+            "start_months_since_1900": 1308,
+            "end_months_since_1900": 1320,
+            "length_in_months": 12
+        }
+    ],
+    "details": {
+        "First Name": "Benjamin",
+        "Middle Name": "Thomas",
+        "Last Name": "Barnes",
+        "Maiden Name": "NA",
+        "Full Name at Birth": "Benjamin Thomas Barnes",
+        "Alternative Name": "Ben Barnes",
+        "Birthday": "1981",
+        "Birthplace": "UK",
+        "Height": "185",
+        "Weight": "NA",
+        "Zodiac Sign": "12",
+        "Sexuality": "Straight",
+        "Religion": "18",
+        "Ethnicity": "6",
+        "Nationality": "8",
+        "Occupation": "8"
+    }
+}

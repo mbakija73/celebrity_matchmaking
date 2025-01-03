@@ -1,0 +1,55 @@
+{
+    "relationships": [
+        {
+            "name": "Donovan Mitchell",
+            "href": "https://www.whosdatedwho.com/dating/donovan-mitchell",
+            "relationship_type": 2,
+            "start_date": "Jun 2023",
+            "end_date": "present",
+            "length": "1 year",
+            "start_months_since_1900": 1481,
+            "end_months_since_1900": -1,
+            "length_in_months": 12
+        },
+        {
+            "name": "Klay Thompson",
+            "href": "https://www.whosdatedwho.com/dating/klay-thompson",
+            "relationship_type": 2,
+            "start_date": "Nov 2021",
+            "end_date": "Jun 2023",
+            "length": "1 year",
+            "start_months_since_1900": 1462,
+            "end_months_since_1900": 1481,
+            "length_in_months": 12
+        },
+        {
+            "name": "Sandro Mamukelashvili",
+            "href": "https://www.whosdatedwho.com/dating/sandro-mamukelashvili",
+            "relationship_type": 2,
+            "start_date": "Jul 2018",
+            "end_date": "Aug 2022",
+            "length": "4 years",
+            "start_months_since_1900": 1422,
+            "end_months_since_1900": 1471,
+            "length_in_months": 48
+        }
+    ],
+    "details": {
+        "First Name": "Courtney",
+        "Middle Name": "NA",
+        "Last Name": "Jones",
+        "Maiden Name": "NA",
+        "Full Name at Birth": "Courtney Michaela Ann Jones",
+        "Alternative Name": "Courtney Michaela Ann Jones, Courtney Michaela Jones, Coco, Courtney Jones, Coco Jones",
+        "Birthday": "1998",
+        "Birthplace": "USA",
+        "Height": "175",
+        "Weight": "124lbs (56 kg)",
+        "Zodiac Sign": "13",
+        "Sexuality": "Straight",
+        "Religion": "1",
+        "Ethnicity": "2",
+        "Nationality": "91",
+        "Occupation": "1"
+    }
+}

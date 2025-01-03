@@ -1,0 +1,55 @@
+{
+    "relationships": [
+        {
+            "name": "Carol Nugent",
+            "href": "https://www.whosdatedwho.com/dating/carol-nugent",
+            "relationship_type": 4,
+            "start_date": "Jun 1958",
+            "end_date": "2nd Feb 1968",
+            "length": "9 years",
+            "start_months_since_1900": 701,
+            "end_months_since_1900": 817,
+            "length_in_months": 108
+        },
+        {
+            "name": "Jennifer Holden",
+            "href": "https://www.whosdatedwho.com/dating/jennifer-holden",
+            "relationship_type": 2,
+            "start_date": "Mar 1958",
+            "end_date": "Jun 1958",
+            "length": "3 months",
+            "start_months_since_1900": 698,
+            "end_months_since_1900": 701,
+            "length_in_months": 3
+        },
+        {
+            "name": "Joanna Moore",
+            "href": "https://www.whosdatedwho.com/dating/joanna-moore",
+            "relationship_type": 2,
+            "start_date": "Jan 1958",
+            "end_date": "Feb 1958",
+            "length": "1 month",
+            "start_months_since_1900": 696,
+            "end_months_since_1900": 697,
+            "length_in_months": 1
+        }
+    ],
+    "details": {
+        "First Name": "Nicholas",
+        "Middle Name": "Aloysius",
+        "Last Name": "Adamshock",
+        "Maiden Name": "NA",
+        "Full Name at Birth": "Nicholas Aloysius Adamshock",
+        "Alternative Name": "Nick Adams, Nicholas Aloysius Adamshock, Nicholas Adamschock",
+        "Birthday": "1931",
+        "Birthplace": "USA",
+        "Height": "170",
+        "Weight": "148lbs (67 kg)",
+        "Zodiac Sign": "8",
+        "Sexuality": "Bisexual",
+        "Religion": "1",
+        "Ethnicity": "6",
+        "Nationality": "91",
+        "Occupation": "8"
+    }
+}

@@ -1,0 +1,77 @@
+{
+    "relationships": [
+        {
+            "name": "Charlie Sheen",
+            "href": "https://www.whosdatedwho.com/dating/charlie-sheen",
+            "relationship_type": 3,
+            "start_date": "2015",
+            "end_date": "2015",
+            "length": "-",
+            "start_months_since_1900": 1380,
+            "end_months_since_1900": 1380,
+            "length_in_months": -1
+        },
+        {
+            "name": "Magic Mally Mall",
+            "href": "https://www.whosdatedwho.com/dating/jamal-rashid",
+            "relationship_type": 3,
+            "start_date": "2014",
+            "end_date": "2014",
+            "length": "-",
+            "start_months_since_1900": 1368,
+            "end_months_since_1900": 1368,
+            "length_in_months": -1
+        },
+        {
+            "name": "Tyga",
+            "href": "https://www.whosdatedwho.com/dating/tyga",
+            "relationship_type": 3,
+            "start_date": "2013",
+            "end_date": "2015",
+            "length": "2 years",
+            "start_months_since_1900": 1356,
+            "end_months_since_1900": 1380,
+            "length_in_months": 24
+        },
+        {
+            "name": "Daylyt",
+            "href": "https://www.whosdatedwho.com/dating/daylyt",
+            "relationship_type": 3,
+            "start_date": "",
+            "end_date": "",
+            "length": "-",
+            "start_months_since_1900": -1,
+            "end_months_since_1900": -1,
+            "length_in_months": -1
+        },
+        {
+            "name": "Carmen Electra",
+            "href": "https://www.whosdatedwho.com/dating/carmen-electra",
+            "relationship_type": 1,
+            "start_date": "",
+            "end_date": "",
+            "length": "-",
+            "start_months_since_1900": -1,
+            "end_months_since_1900": -1,
+            "length_in_months": -1
+        }
+    ],
+    "details": {
+        "First Name": "Mia",
+        "Middle Name": "NA",
+        "Last Name": "Isabella",
+        "Maiden Name": "NA",
+        "Full Name at Birth": "Michael Levelle Davis",
+        "Alternative Name": "Isabella Green, Cutest Little TS Chick with the Biggest Candy Stick, Mia Isabella",
+        "Birthday": "1985",
+        "Birthplace": "USA",
+        "Height": "165",
+        "Weight": "120lbs (54 kg)",
+        "Zodiac Sign": "12",
+        "Sexuality": "Bisexual",
+        "Religion": "18",
+        "Ethnicity": "8",
+        "Nationality": "91",
+        "Occupation": "16"
+    }
+}

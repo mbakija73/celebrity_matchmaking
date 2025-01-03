@@ -1,0 +1,99 @@
+{
+    "relationships": [
+        {
+            "name": "Steve Peck",
+            "href": "https://www.whosdatedwho.com/dating/steve-peck",
+            "relationship_type": 3,
+            "start_date": "Nov 1968",
+            "end_date": "1968",
+            "length": "10 months",
+            "start_months_since_1900": 826,
+            "end_months_since_1900": 816,
+            "length_in_months": 10
+        },
+        {
+            "name": "David Morin",
+            "href": "https://www.whosdatedwho.com/dating/david-morin",
+            "relationship_type": 4,
+            "start_date": "Apr 1968",
+            "end_date": "Oct 1968",
+            "length": "6 months",
+            "start_months_since_1900": 819,
+            "end_months_since_1900": 825,
+            "length_in_months": 6
+        },
+        {
+            "name": "Jeff Parker",
+            "href": "https://www.whosdatedwho.com/dating/jeff-parker-actor",
+            "relationship_type": 3,
+            "start_date": "Apr 1968",
+            "end_date": "1968",
+            "length": "3 months",
+            "start_months_since_1900": 819,
+            "end_months_since_1900": 816,
+            "length_in_months": 3
+        },
+        {
+            "name": "Robert Vaughn",
+            "href": "https://www.whosdatedwho.com/dating/robert-vaughn",
+            "relationship_type": 2,
+            "start_date": "Jan 1968",
+            "end_date": "Feb 1968",
+            "length": "1 month",
+            "start_months_since_1900": 816,
+            "end_months_since_1900": 817,
+            "length_in_months": 1
+        },
+        {
+            "name": "George Edwards",
+            "href": "https://www.whosdatedwho.com/dating/george-edwards-film-tv-producer",
+            "relationship_type": 2,
+            "start_date": "Nov 1967",
+            "end_date": "Nov 1968",
+            "length": "1 year",
+            "start_months_since_1900": 814,
+            "end_months_since_1900": 826,
+            "length_in_months": 12
+        },
+        {
+            "name": "Michael Dante",
+            "href": "https://www.whosdatedwho.com/dating/michael-dante",
+            "relationship_type": 2,
+            "start_date": "Feb 1966",
+            "end_date": "1966",
+            "length": "1 month",
+            "start_months_since_1900": 793,
+            "end_months_since_1900": 792,
+            "length_in_months": 1
+        },
+        {
+            "name": "Steve Rowland",
+            "href": "https://www.whosdatedwho.com/dating/steve-rowland",
+            "relationship_type": 2,
+            "start_date": "Jul 1958",
+            "end_date": "1960",
+            "length": "1 year",
+            "start_months_since_1900": 702,
+            "end_months_since_1900": 720,
+            "length_in_months": 12
+        }
+    ],
+    "details": {
+        "First Name": "Carmen",
+        "Middle Name": "NA",
+        "Last Name": "Phillips",
+        "Maiden Name": "NA",
+        "Full Name at Birth": "Carmen Phillips",
+        "Alternative Name": "NA",
+        "Birthday": "1937",
+        "Birthplace": "USA",
+        "Height": "NA",
+        "Weight": "NA",
+        "Zodiac Sign": "13",
+        "Sexuality": "Straight",
+        "Religion": "1",
+        "Ethnicity": "6",
+        "Nationality": "91",
+        "Occupation": "8"
+    }
+}

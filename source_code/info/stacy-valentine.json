@@ -1,0 +1,44 @@
+{
+    "relationships": [
+        {
+            "name": "Julian",
+            "href": "https://www.whosdatedwho.com/dating/julian",
+            "relationship_type": 2,
+            "start_date": "1997",
+            "end_date": "1997",
+            "length": "-",
+            "start_months_since_1900": 1164,
+            "end_months_since_1900": 1164,
+            "length_in_months": -1
+        },
+        {
+            "name": "Austin Moore",
+            "href": "https://www.whosdatedwho.com/dating/austin-moore",
+            "relationship_type": 2,
+            "start_date": "",
+            "end_date": "",
+            "length": "-",
+            "start_months_since_1900": -1,
+            "end_months_since_1900": -1,
+            "length_in_months": -1
+        }
+    ],
+    "details": {
+        "First Name": "Stacy",
+        "Middle Name": "NA",
+        "Last Name": "Valentine",
+        "Maiden Name": "NA",
+        "Full Name at Birth": "Stacy Baker",
+        "Alternative Name": "Stacey Valentine, Staci Valentine, Staci Valentin, Staci, Stacy, Stacey",
+        "Birthday": "1970",
+        "Birthplace": "U.S.",
+        "Height": "163",
+        "Weight": "139lbs (63 kg)",
+        "Zodiac Sign": "12",
+        "Sexuality": "Bisexual",
+        "Religion": "1",
+        "Ethnicity": "6",
+        "Nationality": "91",
+        "Occupation": "16"
+    }
+}

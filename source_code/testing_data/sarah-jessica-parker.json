@@ -1,0 +1,70 @@
+{
+    "relationships": [
+        {
+            "name": "Matthew Broderick",
+            "href": "https://www.whosdatedwho.com/dating/matthew-broderick",
+            "relationship_type": "Married",
+            "start_date": "1992",
+            "end_date": "present",
+            "length": "32 years"
+        },
+        {
+            "name": "Nicolas Cage",
+            "href": "https://www.whosdatedwho.com/dating/nicolas-cage",
+            "relationship_type": "Encounter",
+            "start_date": "Aug 1991",
+            "end_date": "Nov 1991",
+            "length": "3 months"
+        },
+        {
+            "name": "Joshua Kadison",
+            "href": "https://www.whosdatedwho.com/dating/joshua-kadison",
+            "relationship_type": "Relationship",
+            "start_date": "1991",
+            "end_date": "1991",
+            "length": "-"
+        },
+        {
+            "name": "John Kennedy Jr.",
+            "href": "https://www.whosdatedwho.com/dating/john-kennedy-jr",
+            "relationship_type": "Relationship",
+            "start_date": "1991",
+            "end_date": "1991",
+            "length": "-"
+        },
+        {
+            "name": "Robert Downey Jr.",
+            "href": "https://www.whosdatedwho.com/dating/robert-downey-jr",
+            "relationship_type": "Relationship",
+            "start_date": "Apr 1984",
+            "end_date": "Jul 1991",
+            "length": "7 years"
+        },
+        {
+            "name": "Michael J. Fox",
+            "href": "https://www.whosdatedwho.com/dating/michael-j-fox",
+            "relationship_type": "Relationship",
+            "start_date": "1984",
+            "end_date": "1984",
+            "length": "-"
+        }
+    ],
+    "details": {
+        "First Name": "Sarah",
+        "Middle Name": "Jessica",
+        "Last Name": "Broderick",
+        "Maiden Name": "Parker",
+        "Full Name at Birth": "Sarah Jessica Parker",
+        "Alternative Name": "Sarah Broderick, Sarah Jessica Broderick, Sarah Jessica Parker Broderick, Ms. New York, Sjp, Sarah Jessica Parker",
+        "Birthday": "25th March, 1965",
+        "Birthplace": "Nelsonville, Ohio",
+        "Height": "5' 3\" (160 cm)",
+        "Weight": "125lbs (57 kg)",
+        "Zodiac Sign": "Aries",
+        "Sexuality": "Straight",
+        "Religion": "Jewish",
+        "Ethnicity": "White",
+        "Nationality": "American",
+        "Occupation": "Actress"
+    }
+}

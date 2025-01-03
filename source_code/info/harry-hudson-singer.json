@@ -1,0 +1,44 @@
+{
+    "relationships": [
+        {
+            "name": "Eve Jobs",
+            "href": "https://www.whosdatedwho.com/dating/eve-jobs",
+            "relationship_type": 2,
+            "start_date": "2020",
+            "end_date": "2020",
+            "length": "-",
+            "start_months_since_1900": 1440,
+            "end_months_since_1900": 1440,
+            "length_in_months": -1
+        },
+        {
+            "name": "Kourtney Kardashian",
+            "href": "https://www.whosdatedwho.com/dating/kourtney-kardashian",
+            "relationship_type": 3,
+            "start_date": "Sep 2019",
+            "end_date": "Nov 2019",
+            "length": "2 months",
+            "start_months_since_1900": 1436,
+            "end_months_since_1900": 1438,
+            "length_in_months": 2
+        }
+    ],
+    "details": {
+        "First Name": "Harry",
+        "Middle Name": "NA",
+        "Last Name": "Hudson",
+        "Maiden Name": "NA",
+        "Full Name at Birth": "NA",
+        "Alternative Name": "Harry",
+        "Birthday": "1993",
+        "Birthplace": "USA",
+        "Height": "178",
+        "Weight": "158lbs (72 kg)",
+        "Zodiac Sign": "4",
+        "Sexuality": "Straight",
+        "Religion": "1",
+        "Ethnicity": "6",
+        "Nationality": "91",
+        "Occupation": "1"
+    }
+}

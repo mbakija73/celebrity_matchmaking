@@ -1,0 +1,44 @@
+{
+    "relationships": [
+        {
+            "name": "Vin Diesel",
+            "href": "https://www.whosdatedwho.com/dating/vin-diesel",
+            "relationship_type": 3,
+            "start_date": "2000",
+            "end_date": "2000",
+            "length": "-",
+            "start_months_since_1900": 1200,
+            "end_months_since_1900": 1200,
+            "length_in_months": -1
+        },
+        {
+            "name": "Jared Leto",
+            "href": "https://www.whosdatedwho.com/dating/jared-leto",
+            "relationship_type": 3,
+            "start_date": "",
+            "end_date": "",
+            "length": "-",
+            "start_months_since_1900": -1,
+            "end_months_since_1900": -1,
+            "length_in_months": -1
+        }
+    ],
+    "details": {
+        "First Name": "Chanel",
+        "Middle Name": "NA",
+        "Last Name": "Ryan",
+        "Maiden Name": "NA",
+        "Full Name at Birth": "NA",
+        "Alternative Name": "Chanel S. Ryan, Chanel Ryan",
+        "Birthday": "1976",
+        "Birthplace": "USA",
+        "Height": "165",
+        "Weight": "NA",
+        "Zodiac Sign": "6",
+        "Sexuality": "Bisexual",
+        "Religion": "1",
+        "Ethnicity": "6",
+        "Nationality": "91",
+        "Occupation": "16"
+    }
+}

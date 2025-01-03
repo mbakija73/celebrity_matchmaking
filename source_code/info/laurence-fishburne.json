@@ -1,0 +1,55 @@
+{
+    "relationships": [
+        {
+            "name": "Gina Torres",
+            "href": "https://www.whosdatedwho.com/dating/gina-torres",
+            "relationship_type": 4,
+            "start_date": "Jan 2000",
+            "end_date": "11th May 2018",
+            "length": "18 years",
+            "start_months_since_1900": 1200,
+            "end_months_since_1900": 1420,
+            "length_in_months": 216
+        },
+        {
+            "name": "Victoria Dillard",
+            "href": "https://www.whosdatedwho.com/dating/victoria-dillard",
+            "relationship_type": 2,
+            "start_date": "Aug 1991",
+            "end_date": "Feb 1995",
+            "length": "3 years",
+            "start_months_since_1900": 1099,
+            "end_months_since_1900": 1141,
+            "length_in_months": 36
+        },
+        {
+            "name": "Hajna O. Moss",
+            "href": "https://www.whosdatedwho.com/dating/hajna-o-moss",
+            "relationship_type": 4,
+            "start_date": "1985",
+            "end_date": "Feb 1992",
+            "length": "7 years",
+            "start_months_since_1900": 1020,
+            "end_months_since_1900": 1105,
+            "length_in_months": 84
+        }
+    ],
+    "details": {
+        "First Name": "Laurence",
+        "Middle Name": "John",
+        "Last Name": "Fishburne",
+        "Maiden Name": "NA",
+        "Full Name at Birth": "Laurence John Fishburne III",
+        "Alternative Name": "Fish, Larry, Larry Fishburne, Laurence John Fishburne III",
+        "Birthday": "1961",
+        "Birthplace": "USA",
+        "Height": "184",
+        "Weight": "196lbs (89 kg)",
+        "Zodiac Sign": "12",
+        "Sexuality": "Straight",
+        "Religion": "18",
+        "Ethnicity": "2",
+        "Nationality": "91",
+        "Occupation": "8"
+    }
+}

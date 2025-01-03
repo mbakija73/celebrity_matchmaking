@@ -1,0 +1,44 @@
+{
+    "relationships": [
+        {
+            "name": "Paulina Gretzky",
+            "href": "https://www.whosdatedwho.com/dating/paulina-gretzky",
+            "relationship_type": 4,
+            "start_date": "Jan 2013",
+            "end_date": "",
+            "length": "-",
+            "start_months_since_1900": 1356,
+            "end_months_since_1900": -1,
+            "length_in_months": -1
+        },
+        {
+            "name": "Natalie Gulbis",
+            "href": "https://www.whosdatedwho.com/dating/natalie-gulbis",
+            "relationship_type": 2,
+            "start_date": "2010",
+            "end_date": "2012",
+            "length": "2 years",
+            "start_months_since_1900": 1320,
+            "end_months_since_1900": 1344,
+            "length_in_months": 24
+        }
+    ],
+    "details": {
+        "First Name": "Dustin",
+        "Middle Name": "Hunter",
+        "Last Name": "Johnson",
+        "Maiden Name": "NA",
+        "Full Name at Birth": "Dustin Hunter Johnson",
+        "Alternative Name": "NA",
+        "Birthday": "1984",
+        "Birthplace": "USA",
+        "Height": "193",
+        "Weight": "190lbs (86 kg)",
+        "Zodiac Sign": "8",
+        "Sexuality": "Straight",
+        "Religion": "1",
+        "Ethnicity": "6",
+        "Nationality": "91",
+        "Occupation": "2"
+    }
+}

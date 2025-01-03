@@ -1,0 +1,66 @@
+{
+    "relationships": [
+        {
+            "name": "Jenny Seagrove",
+            "href": "https://www.whosdatedwho.com/dating/jenny-seagrove",
+            "relationship_type": 2,
+            "start_date": "1994",
+            "end_date": "1994",
+            "length": "-",
+            "start_months_since_1900": 1128,
+            "end_months_since_1900": 1128,
+            "length_in_months": -1
+        },
+        {
+            "name": "Lynsey de Paul",
+            "href": "https://www.whosdatedwho.com/dating/lynsey-de-paul",
+            "relationship_type": 3,
+            "start_date": "1980",
+            "end_date": "1980",
+            "length": "-",
+            "start_months_since_1900": 960,
+            "end_months_since_1900": 960,
+            "length_in_months": -1
+        },
+        {
+            "name": "Anouska Hempel",
+            "href": "https://www.whosdatedwho.com/dating/anouska-hempel",
+            "relationship_type": 4,
+            "start_date": "1978",
+            "end_date": "1980",
+            "length": "2 years",
+            "start_months_since_1900": 936,
+            "end_months_since_1900": 960,
+            "length_in_months": 24
+        },
+        {
+            "name": "Virginia Stride",
+            "href": "https://www.whosdatedwho.com/dating/virginia-stride",
+            "relationship_type": 2,
+            "start_date": "",
+            "end_date": "",
+            "length": "-",
+            "start_months_since_1900": -1,
+            "end_months_since_1900": -1,
+            "length_in_months": -1
+        }
+    ],
+    "details": {
+        "First Name": "Bill",
+        "Middle Name": "NA",
+        "Last Name": "Kenwright",
+        "Maiden Name": "NA",
+        "Full Name at Birth": "Bill Kenwright CBE",
+        "Alternative Name": "NA",
+        "Birthday": "1945",
+        "Birthplace": "UK",
+        "Height": "179",
+        "Weight": "NA",
+        "Zodiac Sign": "11",
+        "Sexuality": "Straight",
+        "Religion": "1",
+        "Ethnicity": "6",
+        "Nationality": "8",
+        "Occupation": "8"
+    }
+}

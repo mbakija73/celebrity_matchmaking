@@ -1,0 +1,44 @@
+{
+    "relationships": [
+        {
+            "name": "Cheryl Burke",
+            "href": "https://www.whosdatedwho.com/dating/cheryl-burke",
+            "relationship_type": 2,
+            "start_date": "Jul 2014",
+            "end_date": "May 2015",
+            "length": "10 months",
+            "start_months_since_1900": 1374,
+            "end_months_since_1900": 1384,
+            "length_in_months": 10
+        },
+        {
+            "name": "Paula Abdul",
+            "href": "https://www.whosdatedwho.com/dating/paula-abdul",
+            "relationship_type": 2,
+            "start_date": "Jul 2007",
+            "end_date": "Jun 2008",
+            "length": "11 months",
+            "start_months_since_1900": 1290,
+            "end_months_since_1900": 1301,
+            "length_in_months": 11
+        }
+    ],
+    "details": {
+        "First Name": "J. T",
+        "Middle Name": "NA",
+        "Last Name": "Torregiani",
+        "Maiden Name": "NA",
+        "Full Name at Birth": "NA",
+        "Alternative Name": "NA",
+        "Birthday": "1965",
+        "Birthplace": "NA",
+        "Height": "NA",
+        "Weight": "NA",
+        "Zodiac Sign": "5",
+        "Sexuality": "Straight",
+        "Religion": "1",
+        "Ethnicity": "6",
+        "Nationality": "91",
+        "Occupation": "18"
+    }
+}

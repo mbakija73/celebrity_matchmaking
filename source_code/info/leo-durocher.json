@@ -1,0 +1,55 @@
+{
+    "relationships": [
+        {
+            "name": "Sheila Connolly",
+            "href": "https://www.whosdatedwho.com/dating/sheila-connolly",
+            "relationship_type": 2,
+            "start_date": "Mar 1961",
+            "end_date": "Apr 1961",
+            "length": "1 month",
+            "start_months_since_1900": 734,
+            "end_months_since_1900": 735,
+            "length_in_months": 1
+        },
+        {
+            "name": "Larri Thomas",
+            "href": "https://www.whosdatedwho.com/dating/larri-thomas",
+            "relationship_type": 2,
+            "start_date": "Nov 1959",
+            "end_date": "Jun 1960",
+            "length": "7 months",
+            "start_months_since_1900": 718,
+            "end_months_since_1900": 725,
+            "length_in_months": 7
+        },
+        {
+            "name": "Laraine Day",
+            "href": "https://www.whosdatedwho.com/dating/laraine-day",
+            "relationship_type": 4,
+            "start_date": "1947",
+            "end_date": "1960",
+            "length": "13 years",
+            "start_months_since_1900": 564,
+            "end_months_since_1900": 720,
+            "length_in_months": 156
+        }
+    ],
+    "details": {
+        "First Name": "Leo",
+        "Middle Name": "Ernest",
+        "Last Name": "Durocher",
+        "Maiden Name": "NA",
+        "Full Name at Birth": "Leo Ernest Durocher",
+        "Alternative Name": "Leo The Lip",
+        "Birthday": "1905",
+        "Birthplace": "MA",
+        "Height": "178",
+        "Weight": "160lbs (73 kg)",
+        "Zodiac Sign": "12",
+        "Sexuality": "Straight",
+        "Religion": "1",
+        "Ethnicity": "6",
+        "Nationality": "91",
+        "Occupation": "2"
+    }
+}

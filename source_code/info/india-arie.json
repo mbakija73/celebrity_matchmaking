@@ -1,0 +1,44 @@
+{
+    "relationships": [
+        {
+            "name": "Chris Tucker",
+            "href": "https://www.whosdatedwho.com/dating/chris-tucker",
+            "relationship_type": 2,
+            "start_date": "Jan 2007",
+            "end_date": "Jan 2007",
+            "length": "-",
+            "start_months_since_1900": 1284,
+            "end_months_since_1900": 1284,
+            "length_in_months": -1
+        },
+        {
+            "name": "Musiq",
+            "href": "https://www.whosdatedwho.com/dating/musiq",
+            "relationship_type": 2,
+            "start_date": "Jan 2002",
+            "end_date": "May 2002",
+            "length": "4 months",
+            "start_months_since_1900": 1224,
+            "end_months_since_1900": 1228,
+            "length_in_months": 4
+        }
+    ],
+    "details": {
+        "First Name": "India.",
+        "Middle Name": "Arie",
+        "Last Name": "NA",
+        "Maiden Name": "Simpson",
+        "Full Name at Birth": "India Arie Simpson",
+        "Alternative Name": "India Arie Simpson, India Arie, Arie Simpson",
+        "Birthday": "1975",
+        "Birthplace": "USA",
+        "Height": "170",
+        "Weight": "NA",
+        "Zodiac Sign": "10",
+        "Sexuality": "Straight",
+        "Religion": "1",
+        "Ethnicity": "2",
+        "Nationality": "91",
+        "Occupation": "1"
+    }
+}

@@ -1,0 +1,55 @@
+{
+    "relationships": [
+        {
+            "name": "Wade O'Hara",
+            "href": "https://www.whosdatedwho.com/dating/wade-o-hara",
+            "relationship_type": 4,
+            "start_date": "1976",
+            "end_date": "1979",
+            "length": "3 years",
+            "start_months_since_1900": 912,
+            "end_months_since_1900": 948,
+            "length_in_months": 36
+        },
+        {
+            "name": "Richard Kollmar",
+            "href": "https://www.whosdatedwho.com/dating/richard-kollmar",
+            "relationship_type": 4,
+            "start_date": "1966",
+            "end_date": "Jan 1971",
+            "length": "5 years",
+            "start_months_since_1900": 792,
+            "end_months_since_1900": 852,
+            "length_in_months": 60
+        },
+        {
+            "name": "Tom Fogarty (ex)",
+            "href": "https://www.whosdatedwho.com/dating/tom-fogarty-29138706",
+            "relationship_type": 4,
+            "start_date": "1948",
+            "end_date": "1966",
+            "length": "18 years",
+            "start_months_since_1900": 576,
+            "end_months_since_1900": 792,
+            "length_in_months": 216
+        }
+    ],
+    "details": {
+        "First Name": "Anne",
+        "Middle Name": "NA",
+        "Last Name": "Fogarty",
+        "Maiden Name": "Whitney",
+        "Full Name at Birth": "Anne Whitney",
+        "Alternative Name": "NA",
+        "Birthday": "1919",
+        "Birthplace": "Pennsylvania",
+        "Height": "NA",
+        "Weight": "NA",
+        "Zodiac Sign": "9",
+        "Sexuality": "Straight",
+        "Religion": "1",
+        "Ethnicity": "6",
+        "Nationality": "91",
+        "Occupation": "15"
+    }
+}

@@ -1,0 +1,77 @@
+{
+    "relationships": [
+        {
+            "name": "Ryan Destiny",
+            "href": "https://www.whosdatedwho.com/dating/ryan-irons",
+            "relationship_type": 2,
+            "start_date": "Feb 2017",
+            "end_date": "Jul 2017",
+            "length": "5 months",
+            "start_months_since_1900": 1405,
+            "end_months_since_1900": 1410,
+            "length_in_months": 5
+        },
+        {
+            "name": "Kourtney Kardashian",
+            "href": "https://www.whosdatedwho.com/dating/kourtney-kardashian",
+            "relationship_type": 2,
+            "start_date": "Aug 2016",
+            "end_date": "Nov 2016",
+            "length": "3 months",
+            "start_months_since_1900": 1399,
+            "end_months_since_1900": 1402,
+            "length_in_months": 3
+        },
+        {
+            "name": "Amber Rose",
+            "href": "https://www.whosdatedwho.com/dating/amber-rose",
+            "relationship_type": 3,
+            "start_date": "Dec 2014",
+            "end_date": "Dec 2014",
+            "length": "-",
+            "start_months_since_1900": 1379,
+            "end_months_since_1900": 1379,
+            "length_in_months": -1
+        },
+        {
+            "name": "Kelly Osbourne",
+            "href": "https://www.whosdatedwho.com/dating/kelly-osbourne",
+            "relationship_type": 2,
+            "start_date": "May 2014",
+            "end_date": "Jul 2014",
+            "length": "2 months",
+            "start_months_since_1900": 1372,
+            "end_months_since_1900": 1374,
+            "length_in_months": 2
+        },
+        {
+            "name": "Keke Palmer",
+            "href": "https://www.whosdatedwho.com/dating/keke-palmer",
+            "relationship_type": 2,
+            "start_date": "Oct 2013",
+            "end_date": "Feb 2017",
+            "length": "3 years",
+            "start_months_since_1900": 1365,
+            "end_months_since_1900": 1405,
+            "length_in_months": 36
+        }
+    ],
+    "details": {
+        "First Name": "Quincy",
+        "Middle Name": "Taylor",
+        "Last Name": "Brown",
+        "Maiden Name": "NA",
+        "Full Name at Birth": "Quincy  Taylor Brown",
+        "Alternative Name": "Quincy Combs, Lil Al B Sure, Quincy",
+        "Birthday": "1991",
+        "Birthplace": "United States",
+        "Height": "188",
+        "Weight": "NA",
+        "Zodiac Sign": "4",
+        "Sexuality": "Straight",
+        "Religion": "18",
+        "Ethnicity": "8",
+        "Nationality": "91",
+        "Occupation": "8"
+    }
+}

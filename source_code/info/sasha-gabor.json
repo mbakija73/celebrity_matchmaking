@@ -1,0 +1,66 @@
+{
+    "relationships": [
+        {
+            "name": "Houston",
+            "href": "https://www.whosdatedwho.com/dating/houston-actress",
+            "relationship_type": 3,
+            "start_date": "Mar 1999",
+            "end_date": "Mar 1999",
+            "length": "-",
+            "start_months_since_1900": 1190,
+            "end_months_since_1900": 1190,
+            "length_in_months": -1
+        },
+        {
+            "name": "Rosalinda Ponce Gabor",
+            "href": "https://www.whosdatedwho.com/dating/rosalinda-ponce-gabor",
+            "relationship_type": 4,
+            "start_date": "1986",
+            "end_date": "Aug 1996",
+            "length": "10 years",
+            "start_months_since_1900": 1032,
+            "end_months_since_1900": 1159,
+            "length_in_months": 120
+        },
+        {
+            "name": "Aud Berggren Gabor",
+            "href": "https://www.whosdatedwho.com/dating/aud-berggren-gabor",
+            "relationship_type": 4,
+            "start_date": "1978",
+            "end_date": "Mar 1983",
+            "length": "5 years",
+            "start_months_since_1900": 936,
+            "end_months_since_1900": 998,
+            "length_in_months": 60
+        },
+        {
+            "name": "Anita G\u00e1bor",
+            "href": "https://www.whosdatedwho.com/dating/anita-gabor-107523253",
+            "relationship_type": 4,
+            "start_date": "1966",
+            "end_date": "Sep 1977",
+            "length": "11 years",
+            "start_months_since_1900": 792,
+            "end_months_since_1900": 932,
+            "length_in_months": 132
+        }
+    ],
+    "details": {
+        "First Name": "Sasha",
+        "Middle Name": "NA",
+        "Last Name": "Gabor",
+        "Maiden Name": "NA",
+        "Full Name at Birth": "Gabor Sark\u00f8zy",
+        "Alternative Name": "Alexander \"Sasha\" Gabor, Sasha, Sacha Gabor, Sascha, Kirk Reynolds, J. Bandit, James Bandit, Miles Melo, Gabor Sark\u00f8zy, S\u00e1muel Guttman, S\u00e1rk\u00f6zy G\u00e1bor",
+        "Birthday": "1945",
+        "Birthplace": "Hungary",
+        "Height": "NA",
+        "Weight": "NA",
+        "Zodiac Sign": "4",
+        "Sexuality": "NA",
+        "Religion": "31",
+        "Ethnicity": "6",
+        "Nationality": "31",
+        "Occupation": "16"
+    }
+}

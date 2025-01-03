@@ -1,0 +1,77 @@
+{
+    "relationships": [
+        {
+            "name": "Barry Thomson",
+            "href": "https://www.whosdatedwho.com/dating/barry-thomson",
+            "relationship_type": 4,
+            "start_date": "1942",
+            "end_date": "Aug 1960",
+            "length": "18 years",
+            "start_months_since_1900": 504,
+            "end_months_since_1900": 727,
+            "length_in_months": 216
+        },
+        {
+            "name": "Philip Reed",
+            "href": "https://www.whosdatedwho.com/dating/philip-reed",
+            "relationship_type": 2,
+            "start_date": "1935",
+            "end_date": "1936",
+            "length": "1 year",
+            "start_months_since_1900": 420,
+            "end_months_since_1900": 432,
+            "length_in_months": 12
+        },
+        {
+            "name": "Jos\u00e9 Iturbi",
+            "href": "https://www.whosdatedwho.com/dating/jose-iturbi",
+            "relationship_type": 2,
+            "start_date": "1935",
+            "end_date": "1935",
+            "length": "-",
+            "start_months_since_1900": 420,
+            "end_months_since_1900": 420,
+            "length_in_months": -1
+        },
+        {
+            "name": "George Brent",
+            "href": "https://www.whosdatedwho.com/dating/george-brent",
+            "relationship_type": 4,
+            "start_date": "Jan 1932",
+            "end_date": "4th Oct 1934",
+            "length": "2 years",
+            "start_months_since_1900": 384,
+            "end_months_since_1900": 417,
+            "length_in_months": 24
+        },
+        {
+            "name": "Ralph Forbes",
+            "href": "https://www.whosdatedwho.com/dating/ralph-forbes",
+            "relationship_type": 4,
+            "start_date": "1923",
+            "end_date": "12th Aug 1932",
+            "length": "9 years",
+            "start_months_since_1900": 276,
+            "end_months_since_1900": 391,
+            "length_in_months": 108
+        }
+    ],
+    "details": {
+        "First Name": "Ruth",
+        "Middle Name": "NA",
+        "Last Name": "Chatterton",
+        "Maiden Name": "NA",
+        "Full Name at Birth": "Ruth Chatterton",
+        "Alternative Name": "Ruth Chatterton",
+        "Birthday": "1892",
+        "Birthplace": "USA",
+        "Height": "159",
+        "Weight": "NA",
+        "Zodiac Sign": "13",
+        "Sexuality": "Straight",
+        "Religion": "1",
+        "Ethnicity": "6",
+        "Nationality": "91",
+        "Occupation": "8"
+    }
+}

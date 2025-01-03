@@ -1,0 +1,55 @@
+{
+    "relationships": [
+        {
+            "name": "Glenn Ford",
+            "href": "https://www.whosdatedwho.com/dating/glenn-ford",
+            "relationship_type": 2,
+            "start_date": "1972",
+            "end_date": "1972",
+            "length": "-",
+            "start_months_since_1900": 864,
+            "end_months_since_1900": 864,
+            "length_in_months": -1
+        },
+        {
+            "name": "Frank Gifford",
+            "href": "https://www.whosdatedwho.com/dating/frank-gifford",
+            "relationship_type": 2,
+            "start_date": "1970",
+            "end_date": "1970",
+            "length": "-",
+            "start_months_since_1900": 840,
+            "end_months_since_1900": 840,
+            "length_in_months": -1
+        },
+        {
+            "name": "Johnny Carson",
+            "href": "https://www.whosdatedwho.com/dating/johnny-carson",
+            "relationship_type": 4,
+            "start_date": "1963",
+            "end_date": "1972",
+            "length": "9 years",
+            "start_months_since_1900": 756,
+            "end_months_since_1900": 864,
+            "length_in_months": 108
+        }
+    ],
+    "details": {
+        "First Name": "Joanne",
+        "Middle Name": "Bee",
+        "Last Name": "NA",
+        "Maiden Name": "Copeland",
+        "Full Name at Birth": "Joanne Bee Copeland",
+        "Alternative Name": "Joanne Carson, Joanne Bee Copeland, Joanne Copeland",
+        "Birthday": "1931",
+        "Birthplace": "USA",
+        "Height": "NA",
+        "Weight": "NA",
+        "Zodiac Sign": "10",
+        "Sexuality": "NA",
+        "Religion": "1",
+        "Ethnicity": "1",
+        "Nationality": "91",
+        "Occupation": "18"
+    }
+}

@@ -1,0 +1,44 @@
+{
+    "relationships": [
+        {
+            "name": "Rupert Grint",
+            "href": "https://www.whosdatedwho.com/dating/rupert-grint",
+            "relationship_type": 2,
+            "start_date": "2011",
+            "end_date": "2011",
+            "length": "-",
+            "start_months_since_1900": 1332,
+            "end_months_since_1900": 1332,
+            "length_in_months": -1
+        },
+        {
+            "name": "Aaron Taylor-Johnson",
+            "href": "https://www.whosdatedwho.com/dating/aaron-taylor-johnson",
+            "relationship_type": 2,
+            "start_date": "2008",
+            "end_date": "2008",
+            "length": "-",
+            "start_months_since_1900": 1296,
+            "end_months_since_1900": 1296,
+            "length_in_months": -1
+        }
+    ],
+    "details": {
+        "First Name": "Georgia",
+        "Middle Name": "Isobel",
+        "Last Name": "Groome",
+        "Maiden Name": "NA",
+        "Full Name at Birth": "Georgia Isobel Groome",
+        "Alternative Name": "Porge, Georgia Isobel Groome, Georgia Groome",
+        "Birthday": "1992",
+        "Birthplace": "UK",
+        "Height": "160",
+        "Weight": "128lbs (58 kg)",
+        "Zodiac Sign": "9",
+        "Sexuality": "Straight",
+        "Religion": "13",
+        "Ethnicity": "6",
+        "Nationality": "8",
+        "Occupation": "8"
+    }
+}

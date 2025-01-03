@@ -1,0 +1,44 @@
+{
+    "relationships": [
+        {
+            "name": "David Lasnet",
+            "href": "https://www.whosdatedwho.com/dating/david-lasnet",
+            "relationship_type": 4,
+            "start_date": "1994",
+            "end_date": "",
+            "length": "-",
+            "start_months_since_1900": 1128,
+            "end_months_since_1900": -1,
+            "length_in_months": -1
+        },
+        {
+            "name": "Goldie",
+            "href": "https://www.whosdatedwho.com/dating/goldie",
+            "relationship_type": 1,
+            "start_date": "",
+            "end_date": "",
+            "length": "-",
+            "start_months_since_1900": -1,
+            "end_months_since_1900": -1,
+            "length_in_months": -1
+        }
+    ],
+    "details": {
+        "First Name": "Stella",
+        "Middle Name": "NA",
+        "Last Name": "Tennant",
+        "Maiden Name": "NA",
+        "Full Name at Birth": "NA",
+        "Alternative Name": "NA",
+        "Birthday": "1970",
+        "Birthplace": "UK",
+        "Height": "180",
+        "Weight": "NA",
+        "Zodiac Sign": "6",
+        "Sexuality": "Straight",
+        "Religion": "37",
+        "Ethnicity": "6",
+        "Nationality": "8",
+        "Occupation": "15"
+    }
+}

@@ -1,0 +1,44 @@
+{
+    "relationships": [
+        {
+            "name": "Adrian Uribe",
+            "href": "https://www.whosdatedwho.com/dating/adrian-uribe",
+            "relationship_type": 2,
+            "start_date": "Mar 2016",
+            "end_date": "Jun 2016",
+            "length": "3 months",
+            "start_months_since_1900": 1394,
+            "end_months_since_1900": 1397,
+            "length_in_months": 3
+        },
+        {
+            "name": "Salvador Zerboni",
+            "href": "https://www.whosdatedwho.com/dating/salvador-zerboni",
+            "relationship_type": 1,
+            "start_date": "",
+            "end_date": "",
+            "length": "-",
+            "start_months_since_1900": -1,
+            "end_months_since_1900": -1,
+            "length_in_months": -1
+        }
+    ],
+    "details": {
+        "First Name": "Candela",
+        "Middle Name": "NA",
+        "Last Name": "M\u00e1rquez",
+        "Maiden Name": "NA",
+        "Full Name at Birth": "NA",
+        "Alternative Name": "NA",
+        "Birthday": "1988",
+        "Birthplace": "Spain",
+        "Height": "170",
+        "Weight": "NA",
+        "Zodiac Sign": "1",
+        "Sexuality": "Straight",
+        "Religion": "1",
+        "Ethnicity": "6",
+        "Nationality": "118",
+        "Occupation": "8"
+    }
+}

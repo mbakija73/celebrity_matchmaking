@@ -1,0 +1,55 @@
+{
+    "relationships": [
+        {
+            "name": "Beverly Summers",
+            "href": "https://www.whosdatedwho.com/dating/beverly-summers",
+            "relationship_type": 4,
+            "start_date": "Dec 1975",
+            "end_date": "5th Dec 2006",
+            "length": "31 years",
+            "start_months_since_1900": 911,
+            "end_months_since_1900": 1283,
+            "length_in_months": 372
+        },
+        {
+            "name": "Ann Sothern",
+            "href": "https://www.whosdatedwho.com/dating/ann-sothern",
+            "relationship_type": 2,
+            "start_date": "1964",
+            "end_date": "1968",
+            "length": "4 years",
+            "start_months_since_1900": 768,
+            "end_months_since_1900": 816,
+            "length_in_months": 48
+        },
+        {
+            "name": "Dorothy Abbott",
+            "href": "https://www.whosdatedwho.com/dating/dorothy-abbott",
+            "relationship_type": 4,
+            "start_date": "1948",
+            "end_date": "15th Dec 1968",
+            "length": "20 years",
+            "start_months_since_1900": 576,
+            "end_months_since_1900": 827,
+            "length_in_months": 240
+        }
+    ],
+    "details": {
+        "First Name": "Rudy",
+        "Middle Name": "NA",
+        "Last Name": "Diaz",
+        "Maiden Name": "NA",
+        "Full Name at Birth": "Adolph Diaz",
+        "Alternative Name": "Rudy Diaz",
+        "Birthday": "1918",
+        "Birthplace": "Arizona",
+        "Height": "NA",
+        "Weight": "NA",
+        "Zodiac Sign": "10",
+        "Sexuality": "Straight",
+        "Religion": "1",
+        "Ethnicity": "8",
+        "Nationality": "91",
+        "Occupation": "8"
+    }
+}

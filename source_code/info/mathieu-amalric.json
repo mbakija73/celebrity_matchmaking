@@ -1,0 +1,55 @@
+{
+    "relationships": [
+        {
+            "name": "Jeanne Balibar",
+            "href": "https://www.whosdatedwho.com/dating/jeanne-balibar",
+            "relationship_type": 4,
+            "start_date": "2003",
+            "end_date": "2003",
+            "length": "-",
+            "start_months_since_1900": 1236,
+            "end_months_since_1900": 1236,
+            "length_in_months": -1
+        },
+        {
+            "name": "Juliette Binoche",
+            "href": "https://www.whosdatedwho.com/dating/juliette-binoche",
+            "relationship_type": 2,
+            "start_date": "2003",
+            "end_date": "2004",
+            "length": "1 year",
+            "start_months_since_1900": 1236,
+            "end_months_since_1900": 1248,
+            "length_in_months": 12
+        },
+        {
+            "name": "Barbara Hannigan",
+            "href": "https://www.whosdatedwho.com/dating/barbara-hannigan",
+            "relationship_type": 2,
+            "start_date": "",
+            "end_date": "present",
+            "length": "-",
+            "start_months_since_1900": -1,
+            "end_months_since_1900": -1,
+            "length_in_months": -1
+        }
+    ],
+    "details": {
+        "First Name": "Mathieu",
+        "Middle Name": "NA",
+        "Last Name": "Amalric",
+        "Maiden Name": "NA",
+        "Full Name at Birth": "Mathieu Amalric",
+        "Alternative Name": "Mathieu Amalric",
+        "Birthday": "1965",
+        "Birthplace": "France",
+        "Height": "168",
+        "Weight": "NA",
+        "Zodiac Sign": "5",
+        "Sexuality": "Straight",
+        "Religion": "1",
+        "Ethnicity": "6",
+        "Nationality": "86",
+        "Occupation": "8"
+    }
+}

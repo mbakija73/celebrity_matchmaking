@@ -1,0 +1,55 @@
+{
+    "relationships": [
+        {
+            "name": "John O'Callaghan",
+            "href": "https://www.whosdatedwho.com/dating/john-o-callaghan",
+            "relationship_type": 2,
+            "start_date": "Jun 2014",
+            "end_date": "Aug 2014",
+            "length": "2 months",
+            "start_months_since_1900": 1373,
+            "end_months_since_1900": 1375,
+            "length_in_months": 2
+        },
+        {
+            "name": "Jack Barakat",
+            "href": "https://www.whosdatedwho.com/dating/jack-barakat",
+            "relationship_type": 2,
+            "start_date": "2014",
+            "end_date": "2014",
+            "length": "-",
+            "start_months_since_1900": 1368,
+            "end_months_since_1900": 1368,
+            "length_in_months": -1
+        },
+        {
+            "name": "Alex Gaskarth",
+            "href": "https://www.whosdatedwho.com/dating/alex-gaskarth",
+            "relationship_type": 2,
+            "start_date": "2012",
+            "end_date": "2012",
+            "length": "-",
+            "start_months_since_1900": 1344,
+            "end_months_since_1900": 1344,
+            "length_in_months": -1
+        }
+    ],
+    "details": {
+        "First Name": "Taylor",
+        "Middle Name": "Kathleen",
+        "Last Name": "Jardine",
+        "Maiden Name": "NA",
+        "Full Name at Birth": "Taylor Kathleen Jardine",
+        "Alternative Name": "Tay, Tay Jardine, Taylor Jardine, Taylor",
+        "Birthday": "1990",
+        "Birthplace": "USA",
+        "Height": "163",
+        "Weight": "NA",
+        "Zodiac Sign": "1",
+        "Sexuality": "Straight",
+        "Religion": "1",
+        "Ethnicity": "6",
+        "Nationality": "91",
+        "Occupation": "1"
+    }
+}

@@ -1,0 +1,55 @@
+{
+    "relationships": [
+        {
+            "name": "Luke Wilson",
+            "href": "https://www.whosdatedwho.com/dating/luke-wilson",
+            "relationship_type": 3,
+            "start_date": "2004",
+            "end_date": "2004",
+            "length": "-",
+            "start_months_since_1900": 1248,
+            "end_months_since_1900": 1248,
+            "length_in_months": -1
+        },
+        {
+            "name": "Michael Keaton",
+            "href": "https://www.whosdatedwho.com/dating/michael-keaton",
+            "relationship_type": 2,
+            "start_date": "Jun 2003",
+            "end_date": "Jul 2003",
+            "length": "1 month",
+            "start_months_since_1900": 1241,
+            "end_months_since_1900": 1242,
+            "length_in_months": 1
+        },
+        {
+            "name": "Aaron Buerge",
+            "href": "https://www.whosdatedwho.com/dating/aaron-buerge",
+            "relationship_type": 2,
+            "start_date": "Jan 2003",
+            "end_date": "Feb 2003",
+            "length": "1 month",
+            "start_months_since_1900": 1236,
+            "end_months_since_1900": 1237,
+            "length_in_months": 1
+        }
+    ],
+    "details": {
+        "First Name": "Audra",
+        "Middle Name": "NA",
+        "Last Name": "NA",
+        "Maiden Name": "Lynn",
+        "Full Name at Birth": "Audra Lynn",
+        "Alternative Name": "Miss October 2003, Audra Lynn, Audra Lynn Fasano",
+        "Birthday": "1980",
+        "Birthplace": "USA",
+        "Height": "173",
+        "Weight": "115lbs (52 kg)",
+        "Zodiac Sign": "9",
+        "Sexuality": "Bisexual",
+        "Religion": "1",
+        "Ethnicity": "6",
+        "Nationality": "91",
+        "Occupation": "16"
+    }
+}

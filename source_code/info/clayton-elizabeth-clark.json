@@ -1,0 +1,38 @@
+{
+    "relationships": [
+        {
+            "name": "Jeffrey Lee Pierce",
+            "href": "https://www.whosdatedwho.com/dating/jeffrey-lee-pierce",
+            "relationship_type": 2,
+            "start_date": "1983",
+            "end_date": "1983",
+            "length": "-",
+            "start_months_since_1900": 996,
+            "end_months_since_1900": 996,
+            "length_in_months": -1
+        },
+        {
+            "name": "Gore Verbinski",
+            "href": "https://www.whosdatedwho.com/dating/gore-verbinski",
+            "relationship_type": 4,
+            "start_date": "",
+            "end_date": "",
+            "length": "-",
+            "start_months_since_1900": -1,
+            "end_months_since_1900": -1,
+            "length_in_months": -1
+        },
+        {
+            "name": "Jerry Nolan",
+            "href": "https://www.whosdatedwho.com/dating/jerry-nolan",
+            "relationship_type": 1,
+            "start_date": "",
+            "end_date": "",
+            "length": "-",
+            "start_months_since_1900": -1,
+            "end_months_since_1900": -1,
+            "length_in_months": -1
+        }
+    ],
+    "details": {}
+}

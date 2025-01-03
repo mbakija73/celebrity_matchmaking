@@ -1,0 +1,77 @@
+{
+    "relationships": [
+        {
+            "name": "Charles Chaplin",
+            "href": "https://www.whosdatedwho.com/dating/charles-chaplin",
+            "relationship_type": 4,
+            "start_date": "Sep 1942",
+            "end_date": "25th Dec 1977",
+            "length": "35 years",
+            "start_months_since_1900": 512,
+            "end_months_since_1900": 935,
+            "length_in_months": 420
+        },
+        {
+            "name": "J.D. Salinger",
+            "href": "https://www.whosdatedwho.com/dating/j-d-salinger",
+            "relationship_type": 2,
+            "start_date": "1941",
+            "end_date": "1941",
+            "length": "-",
+            "start_months_since_1900": 492,
+            "end_months_since_1900": 492,
+            "length_in_months": -1
+        },
+        {
+            "name": "Peter Arno",
+            "href": "https://www.whosdatedwho.com/dating/peter-arno",
+            "relationship_type": 1,
+            "start_date": "",
+            "end_date": "",
+            "length": "-",
+            "start_months_since_1900": -1,
+            "end_months_since_1900": -1,
+            "length_in_months": -1
+        },
+        {
+            "name": "Ryan O'Neal",
+            "href": "https://www.whosdatedwho.com/dating/ryan-o-neal",
+            "relationship_type": 3,
+            "start_date": "",
+            "end_date": "",
+            "length": "-",
+            "start_months_since_1900": -1,
+            "end_months_since_1900": -1,
+            "length_in_months": -1
+        },
+        {
+            "name": "David Bowie",
+            "href": "https://www.whosdatedwho.com/dating/david-bowie",
+            "relationship_type": 3,
+            "start_date": "",
+            "end_date": "",
+            "length": "-",
+            "start_months_since_1900": -1,
+            "end_months_since_1900": -1,
+            "length_in_months": -1
+        }
+    ],
+    "details": {
+        "First Name": "Oona",
+        "Middle Name": "NA",
+        "Last Name": "Chaplin",
+        "Maiden Name": "O'Neil",
+        "Full Name at Birth": "Oona O`Neill",
+        "Alternative Name": "Lady Chaplin, Oona O`Neill, Oona O`Neill Chaplin, Oona Chaplin, Oona O'Neill, Oona O'Neill",
+        "Birthday": "1925",
+        "Birthplace": "Bermuda",
+        "Height": "NA",
+        "Weight": "NA",
+        "Zodiac Sign": "3",
+        "Sexuality": "Straight",
+        "Religion": "1",
+        "Ethnicity": "6",
+        "Nationality": "8",
+        "Occupation": "11"
+    }
+}

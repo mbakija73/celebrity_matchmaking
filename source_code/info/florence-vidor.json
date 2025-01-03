@@ -1,0 +1,55 @@
+{
+    "relationships": [
+        {
+            "name": "Jascha Heifetz",
+            "href": "https://www.whosdatedwho.com/dating/jascha-heifetz",
+            "relationship_type": 4,
+            "start_date": "1928",
+            "end_date": "1948",
+            "length": "20 years",
+            "start_months_since_1900": 336,
+            "end_months_since_1900": 576,
+            "length_in_months": 240
+        },
+        {
+            "name": "George Fitzmaurice",
+            "href": "https://www.whosdatedwho.com/dating/george-fitzmaurice",
+            "relationship_type": 2,
+            "start_date": "1926",
+            "end_date": "1926",
+            "length": "-",
+            "start_months_since_1900": 312,
+            "end_months_since_1900": 312,
+            "length_in_months": -1
+        },
+        {
+            "name": "King Vidor",
+            "href": "https://www.whosdatedwho.com/dating/king-vidor",
+            "relationship_type": 4,
+            "start_date": "1913",
+            "end_date": "Jul 1926",
+            "length": "13 years",
+            "start_months_since_1900": 156,
+            "end_months_since_1900": 318,
+            "length_in_months": 156
+        }
+    ],
+    "details": {
+        "First Name": "Florence",
+        "Middle Name": "Iona",
+        "Last Name": "Vidor",
+        "Maiden Name": "Arto",
+        "Full Name at Birth": "Florence Iona Arto",
+        "Alternative Name": "Florence Cobb, Florence Iona Arto, Florence Arto, Florence Vidor, Florence Iona Vidor",
+        "Birthday": "1895",
+        "Birthplace": "USA",
+        "Height": "164",
+        "Weight": "NA",
+        "Zodiac Sign": "8",
+        "Sexuality": "Straight",
+        "Religion": "1",
+        "Ethnicity": "6",
+        "Nationality": "91",
+        "Occupation": "8"
+    }
+}

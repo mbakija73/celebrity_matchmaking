@@ -1,0 +1,44 @@
+{
+    "relationships": [
+        {
+            "name": "Jaycee Parker",
+            "href": "https://www.whosdatedwho.com/dating/jaycee-parker",
+            "relationship_type": 2,
+            "start_date": "Jul 2005",
+            "end_date": "Jul 2005",
+            "length": "-",
+            "start_months_since_1900": 1266,
+            "end_months_since_1900": 1266,
+            "length_in_months": -1
+        },
+        {
+            "name": "Aiza Marquez",
+            "href": "https://www.whosdatedwho.com/dating/aiza-marquez",
+            "relationship_type": 2,
+            "start_date": "2001",
+            "end_date": "2005",
+            "length": "4 years",
+            "start_months_since_1900": 1212,
+            "end_months_since_1900": 1260,
+            "length_in_months": 48
+        }
+    ],
+    "details": {
+        "First Name": "Danilo",
+        "Middle Name": "NA",
+        "Last Name": "Barrios",
+        "Maiden Name": "NA",
+        "Full Name at Birth": "Danilo Bouffard Barrios Jr.",
+        "Alternative Name": "JR, Dan",
+        "Birthday": "1983",
+        "Birthplace": "NA",
+        "Height": "165",
+        "Weight": "NA",
+        "Zodiac Sign": "12",
+        "Sexuality": "Straight",
+        "Religion": "13",
+        "Ethnicity": "3",
+        "Nationality": "16",
+        "Occupation": "8"
+    }
+}

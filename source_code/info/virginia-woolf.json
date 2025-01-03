@@ -1,0 +1,66 @@
+{
+    "relationships": [
+        {
+            "name": "Vita Sackville-West",
+            "href": "https://www.whosdatedwho.com/dating/vita-sackville-west",
+            "relationship_type": 2,
+            "start_date": "1922",
+            "end_date": "Mar 1941",
+            "length": "19 years",
+            "start_months_since_1900": 264,
+            "end_months_since_1900": 494,
+            "length_in_months": 228
+        },
+        {
+            "name": "Leonard Woolf",
+            "href": "https://www.whosdatedwho.com/dating/leonard-woolf",
+            "relationship_type": 4,
+            "start_date": "1912",
+            "end_date": "1941",
+            "length": "29 years",
+            "start_months_since_1900": 144,
+            "end_months_since_1900": 492,
+            "length_in_months": 348
+        },
+        {
+            "name": "Rupert Brooke",
+            "href": "https://www.whosdatedwho.com/dating/rupert-brooke",
+            "relationship_type": 2,
+            "start_date": "",
+            "end_date": "",
+            "length": "-",
+            "start_months_since_1900": -1,
+            "end_months_since_1900": -1,
+            "length_in_months": -1
+        },
+        {
+            "name": "Lytton Strachey",
+            "href": "https://www.whosdatedwho.com/dating/lytton-strachey",
+            "relationship_type": 1,
+            "start_date": "",
+            "end_date": "",
+            "length": "-",
+            "start_months_since_1900": -1,
+            "end_months_since_1900": -1,
+            "length_in_months": -1
+        }
+    ],
+    "details": {
+        "First Name": "Adeline",
+        "Middle Name": "Virginia",
+        "Last Name": "Woolf",
+        "Maiden Name": "Stephen",
+        "Full Name at Birth": "Adeline Virginia Stephen",
+        "Alternative Name": "Adeline Virginia Woolf, Adeline Virginia Stephen, Virginia Woolf",
+        "Birthday": "1882",
+        "Birthplace": "UK",
+        "Height": "170",
+        "Weight": "NA",
+        "Zodiac Sign": "9",
+        "Sexuality": "Bisexual",
+        "Religion": "22",
+        "Ethnicity": "6",
+        "Nationality": "8",
+        "Occupation": "3"
+    }
+}

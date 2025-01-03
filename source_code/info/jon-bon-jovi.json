@@ -1,0 +1,77 @@
+{
+    "relationships": [
+        {
+            "name": "Helena Christensen",
+            "href": "https://www.whosdatedwho.com/dating/helena-christensen",
+            "relationship_type": 1,
+            "start_date": "2005",
+            "end_date": "2005",
+            "length": "-",
+            "start_months_since_1900": 1260,
+            "end_months_since_1900": 1260,
+            "length_in_months": -1
+        },
+        {
+            "name": "Cindy Crawford",
+            "href": "https://www.whosdatedwho.com/dating/cindy-crawford",
+            "relationship_type": 2,
+            "start_date": "1995",
+            "end_date": "1995",
+            "length": "-",
+            "start_months_since_1900": 1140,
+            "end_months_since_1900": 1140,
+            "length_in_months": -1
+        },
+        {
+            "name": "Diane Lane",
+            "href": "https://www.whosdatedwho.com/dating/diane-lane",
+            "relationship_type": 2,
+            "start_date": "Mar 1984",
+            "end_date": "Jul 1984",
+            "length": "4 months",
+            "start_months_since_1900": 1010,
+            "end_months_since_1900": 1014,
+            "length_in_months": 4
+        },
+        {
+            "name": "Lita Ford",
+            "href": "https://www.whosdatedwho.com/dating/lita-ford",
+            "relationship_type": 3,
+            "start_date": "1984",
+            "end_date": "1984",
+            "length": "-",
+            "start_months_since_1900": 1008,
+            "end_months_since_1900": 1008,
+            "length_in_months": -1
+        },
+        {
+            "name": "Dorothea Hurley",
+            "href": "https://www.whosdatedwho.com/dating/dorothea-hurley",
+            "relationship_type": 4,
+            "start_date": "1980",
+            "end_date": "",
+            "length": "-",
+            "start_months_since_1900": 960,
+            "end_months_since_1900": -1,
+            "length_in_months": -1
+        }
+    ],
+    "details": {
+        "First Name": "Jon",
+        "Middle Name": "Francis",
+        "Last Name": "Bongiovi",
+        "Maiden Name": "NA",
+        "Full Name at Birth": "John Francis Bongiovi Jr.",
+        "Alternative Name": "Jon Bon Jovi, Captain Kidd, Jr.",
+        "Birthday": "1962",
+        "Birthplace": "USA",
+        "Height": "175",
+        "Weight": "150lbs (68 kg)",
+        "Zodiac Sign": "1",
+        "Sexuality": "Straight",
+        "Religion": "13",
+        "Ethnicity": "6",
+        "Nationality": "91",
+        "Occupation": "1"
+    }
+}

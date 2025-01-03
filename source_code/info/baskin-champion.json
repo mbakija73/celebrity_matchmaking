@@ -1,0 +1,33 @@
+{
+    "relationships": [
+        {
+            "name": "Justin Bieber",
+            "href": "https://www.whosdatedwho.com/dating/justin-bieber",
+            "relationship_type": 3,
+            "start_date": "Mar 2018",
+            "end_date": "Mar 2018",
+            "length": "-",
+            "start_months_since_1900": 1418,
+            "end_months_since_1900": 1418,
+            "length_in_months": -1
+        }
+    ],
+    "details": {
+        "First Name": "Baskin",
+        "Middle Name": "NA",
+        "Last Name": "Champion",
+        "Maiden Name": "NA",
+        "Full Name at Birth": "Sarah Baskin Champion",
+        "Alternative Name": "Baskin, Sarah-Baskin Champion, Baskin Champion, Sarah Baskin Champion",
+        "Birthday": "1995",
+        "Birthplace": "USA",
+        "Height": "173",
+        "Weight": "117lbs (53 kg)",
+        "Zodiac Sign": "8",
+        "Sexuality": "Straight",
+        "Religion": "18",
+        "Ethnicity": "6",
+        "Nationality": "91",
+        "Occupation": "15"
+    }
+}

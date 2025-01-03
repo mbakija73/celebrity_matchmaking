@@ -1,0 +1,88 @@
+{
+    "relationships": [
+        {
+            "name": "Ivanka Trump",
+            "href": "https://www.whosdatedwho.com/dating/ivanka-trump",
+            "relationship_type": 2,
+            "start_date": "2007",
+            "end_date": "2007",
+            "length": "-",
+            "start_months_since_1900": 1284,
+            "end_months_since_1900": 1284,
+            "length_in_months": -1
+        },
+        {
+            "name": "Princess Beatrice",
+            "href": "https://www.whosdatedwho.com/dating/princess-beatrice",
+            "relationship_type": 3,
+            "start_date": "",
+            "end_date": "",
+            "length": "-",
+            "start_months_since_1900": -1,
+            "end_months_since_1900": -1,
+            "length_in_months": -1
+        },
+        {
+            "name": "Lisa-Marie Kohrs",
+            "href": "https://www.whosdatedwho.com/dating/lisa-marie-kohrs",
+            "relationship_type": 1,
+            "start_date": "",
+            "end_date": "",
+            "length": "-",
+            "start_months_since_1900": -1,
+            "end_months_since_1900": -1,
+            "length_in_months": -1
+        },
+        {
+            "name": "Martine McCutcheon",
+            "href": "https://www.whosdatedwho.com/dating/martine-mccutcheon",
+            "relationship_type": 3,
+            "start_date": "",
+            "end_date": "",
+            "length": "-",
+            "start_months_since_1900": -1,
+            "end_months_since_1900": -1,
+            "length_in_months": -1
+        },
+        {
+            "name": "Catalina Guirado",
+            "href": "https://www.whosdatedwho.com/dating/catalina-guirado",
+            "relationship_type": 2,
+            "start_date": "",
+            "end_date": "",
+            "length": "-",
+            "start_months_since_1900": -1,
+            "end_months_since_1900": -1,
+            "length_in_months": -1
+        },
+        {
+            "name": "Sanja Banic",
+            "href": "https://www.whosdatedwho.com/dating/sanja-banic",
+            "relationship_type": 4,
+            "start_date": "",
+            "end_date": "",
+            "length": "-",
+            "start_months_since_1900": -1,
+            "end_months_since_1900": -1,
+            "length_in_months": -1
+        }
+    ],
+    "details": {
+        "First Name": "Sean",
+        "Middle Name": "William, Walter",
+        "Last Name": "Brosnan",
+        "Maiden Name": "NA",
+        "Full Name at Birth": "Sean William Walter Brosnan",
+        "Alternative Name": "Broz, BrOzzy",
+        "Birthday": "1983",
+        "Birthplace": "USA",
+        "Height": "183",
+        "Weight": "NA",
+        "Zodiac Sign": "11",
+        "Sexuality": "Straight",
+        "Religion": "1",
+        "Ethnicity": "6",
+        "Nationality": "91",
+        "Occupation": "8"
+    }
+}

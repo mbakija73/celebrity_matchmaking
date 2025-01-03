@@ -1,0 +1,44 @@
+{
+    "relationships": [
+        {
+            "name": "Fred Astaire",
+            "href": "https://www.whosdatedwho.com/dating/fred-astaire",
+            "relationship_type": 4,
+            "start_date": "1979",
+            "end_date": "Jun 1987",
+            "length": "8 years",
+            "start_months_since_1900": 948,
+            "end_months_since_1900": 1049,
+            "length_in_months": 96
+        },
+        {
+            "name": "Alfred G. Vanderbilt",
+            "href": "https://www.whosdatedwho.com/dating/alfred-g-vanderbilt",
+            "relationship_type": 1,
+            "start_date": "1972",
+            "end_date": "1975",
+            "length": "3 years",
+            "start_months_since_1900": 864,
+            "end_months_since_1900": 900,
+            "length_in_months": 36
+        }
+    ],
+    "details": {
+        "First Name": "Robyn",
+        "Middle Name": "Dawn",
+        "Last Name": "Smith",
+        "Maiden Name": "Miller",
+        "Full Name at Birth": "Melody Dawn Miller",
+        "Alternative Name": "NA",
+        "Birthday": "1944",
+        "Birthplace": "NA",
+        "Height": "170",
+        "Weight": "NA",
+        "Zodiac Sign": "12",
+        "Sexuality": "NA",
+        "Religion": "1",
+        "Ethnicity": "1",
+        "Nationality": "65",
+        "Occupation": "11"
+    }
+}

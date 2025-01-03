@@ -1,0 +1,66 @@
+{
+    "relationships": [
+        {
+            "name": "Armie Hammer",
+            "href": "https://www.whosdatedwho.com/dating/armie-hammer",
+            "relationship_type": 2,
+            "start_date": "Sep 2020",
+            "end_date": "Oct 2020",
+            "length": "1 month",
+            "start_months_since_1900": 1448,
+            "end_months_since_1900": 1449,
+            "length_in_months": 1
+        },
+        {
+            "name": "Josh Lucas",
+            "href": "https://www.whosdatedwho.com/dating/josh-lucas",
+            "relationship_type": 4,
+            "start_date": "Jan 2011",
+            "end_date": "13th Jun 2014",
+            "length": "3 years",
+            "start_months_since_1900": 1332,
+            "end_months_since_1900": 1373,
+            "length_in_months": 36
+        },
+        {
+            "name": "Johnny Yang",
+            "href": "https://www.whosdatedwho.com/dating/johnny-yang",
+            "relationship_type": 1,
+            "start_date": "",
+            "end_date": "",
+            "length": "-",
+            "start_months_since_1900": -1,
+            "end_months_since_1900": -1,
+            "length_in_months": -1
+        },
+        {
+            "name": "Adrian Grenier",
+            "href": "https://www.whosdatedwho.com/dating/adrian-grenier",
+            "relationship_type": 1,
+            "start_date": "",
+            "end_date": "",
+            "length": "-",
+            "start_months_since_1900": -1,
+            "end_months_since_1900": -1,
+            "length_in_months": -1
+        }
+    ],
+    "details": {
+        "First Name": "Jessica",
+        "Middle Name": "Lynn",
+        "Last Name": "Lucas",
+        "Maiden Name": "Ciencin Henriquez",
+        "Full Name at Birth": "Jessica Lynn Ciencin Henriquez",
+        "Alternative Name": "Jessica Lucas, Jessica Lynn Ciencin H\u00e9nriquez, Jessica Ciencin H\u00e9nriquez, Jessica Lynn H\u00e9nriquez, Jess Lynn Henriquez, Jessy, Jessica H\u00e9nriquez, Jessica",
+        "Birthday": "1985",
+        "Birthplace": "Colombia",
+        "Height": "169",
+        "Weight": "124lbs (56 kg)",
+        "Zodiac Sign": "11",
+        "Sexuality": "Straight",
+        "Religion": "1",
+        "Ethnicity": "6",
+        "Nationality": "91",
+        "Occupation": "3"
+    }
+}

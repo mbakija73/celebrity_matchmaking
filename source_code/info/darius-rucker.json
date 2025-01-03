@@ -1,0 +1,55 @@
+{
+    "relationships": [
+        {
+            "name": "Kate Quigley",
+            "href": "https://www.whosdatedwho.com/dating/kate-quigley",
+            "relationship_type": 2,
+            "start_date": "Jul 2020",
+            "end_date": "Jul 2020",
+            "length": "-",
+            "start_months_since_1900": 1446,
+            "end_months_since_1900": 1446,
+            "length_in_months": -1
+        },
+        {
+            "name": "Beth Rucker",
+            "href": "https://www.whosdatedwho.com/dating/beth-rucker",
+            "relationship_type": 4,
+            "start_date": "1998",
+            "end_date": "2020",
+            "length": "22 years",
+            "start_months_since_1900": 1176,
+            "end_months_since_1900": 1440,
+            "length_in_months": 264
+        },
+        {
+            "name": "Elizabeth Ann Phillips",
+            "href": "https://www.whosdatedwho.com/dating/elizabeth-ann-phillips",
+            "relationship_type": 2,
+            "start_date": "",
+            "end_date": "",
+            "length": "-",
+            "start_months_since_1900": -1,
+            "end_months_since_1900": -1,
+            "length_in_months": -1
+        }
+    ],
+    "details": {
+        "First Name": "Darius",
+        "Middle Name": "Carlos",
+        "Last Name": "Rucker",
+        "Maiden Name": "NA",
+        "Full Name at Birth": "Darius Carlos Rucker",
+        "Alternative Name": "Darius Rucker, Hootie",
+        "Birthday": "1966",
+        "Birthplace": "USA",
+        "Height": "175",
+        "Weight": "167lbs (76 kg)",
+        "Zodiac Sign": "3",
+        "Sexuality": "Straight",
+        "Religion": "26",
+        "Ethnicity": "2",
+        "Nationality": "91",
+        "Occupation": "1"
+    }
+}

@@ -1,0 +1,55 @@
+{
+    "relationships": [
+        {
+            "name": "Robert Fallon",
+            "href": "https://www.whosdatedwho.com/dating/robert-fallon",
+            "relationship_type": 4,
+            "start_date": "Dec 1950",
+            "end_date": "Nov 1972",
+            "length": "21 years",
+            "start_months_since_1900": 611,
+            "end_months_since_1900": 874,
+            "length_in_months": 252
+        },
+        {
+            "name": "Allan Nixon",
+            "href": "https://www.whosdatedwho.com/dating/allan-nixon",
+            "relationship_type": 4,
+            "start_date": "1942",
+            "end_date": "Dec 1950",
+            "length": "8 years",
+            "start_months_since_1900": 504,
+            "end_months_since_1900": 611,
+            "length_in_months": 96
+        },
+        {
+            "name": "Nick Grinde",
+            "href": "https://www.whosdatedwho.com/dating/nick-grinde",
+            "relationship_type": 2,
+            "start_date": "",
+            "end_date": "",
+            "length": "-",
+            "start_months_since_1900": -1,
+            "end_months_since_1900": -1,
+            "length_in_months": -1
+        }
+    ],
+    "details": {
+        "First Name": "Marie",
+        "Middle Name": "Elizabeth",
+        "Last Name": "Wilson",
+        "Maiden Name": "White",
+        "Full Name at Birth": "Katherine Elizabeth Wilson",
+        "Alternative Name": "Katherine Elisabeth White, Marie Wilson, Katherine Elizabeth Wilson",
+        "Birthday": "1916",
+        "Birthplace": "USA",
+        "Height": "166",
+        "Weight": "NA",
+        "Zodiac Sign": "12",
+        "Sexuality": "Straight",
+        "Religion": "1",
+        "Ethnicity": "6",
+        "Nationality": "91",
+        "Occupation": "8"
+    }
+}

@@ -1,0 +1,44 @@
+{
+    "relationships": [
+        {
+            "name": "Gina Gershon",
+            "href": "https://www.whosdatedwho.com/dating/gina-gershon",
+            "relationship_type": 2,
+            "start_date": "Mar 2001",
+            "end_date": "May 2001",
+            "length": "2 months",
+            "start_months_since_1900": 1214,
+            "end_months_since_1900": 1216,
+            "length_in_months": 2
+        },
+        {
+            "name": "Amanda Scheer-Demme",
+            "href": "https://www.whosdatedwho.com/dating/amanda-scheer-demme",
+            "relationship_type": 4,
+            "start_date": "1993",
+            "end_date": "13th Jan 2002",
+            "length": "9 years",
+            "start_months_since_1900": 1116,
+            "end_months_since_1900": 1224,
+            "length_in_months": 108
+        }
+    ],
+    "details": {
+        "First Name": "Ted",
+        "Middle Name": "NA",
+        "Last Name": "Demme",
+        "Maiden Name": "NA",
+        "Full Name at Birth": "Edward Kern Demme",
+        "Alternative Name": "NA",
+        "Birthday": "1963",
+        "Birthplace": "USA",
+        "Height": "178",
+        "Weight": "NA",
+        "Zodiac Sign": "5",
+        "Sexuality": "Straight",
+        "Religion": "1",
+        "Ethnicity": "6",
+        "Nationality": "91",
+        "Occupation": "9"
+    }
+}

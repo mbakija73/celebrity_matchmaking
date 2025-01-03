@@ -1,0 +1,55 @@
+{
+    "relationships": [
+        {
+            "name": "Safaree",
+            "href": "https://www.whosdatedwho.com/dating/safaree",
+            "relationship_type": 2,
+            "start_date": "Feb 2015",
+            "end_date": "May 2015",
+            "length": "2 months",
+            "start_months_since_1900": 1381,
+            "end_months_since_1900": 1384,
+            "length_in_months": 2
+        },
+        {
+            "name": "Tyga",
+            "href": "https://www.whosdatedwho.com/dating/tyga",
+            "relationship_type": 3,
+            "start_date": "Jul 2012",
+            "end_date": "Apr 2013",
+            "length": "9 months",
+            "start_months_since_1900": 1350,
+            "end_months_since_1900": 1359,
+            "length_in_months": 9
+        },
+        {
+            "name": "French Montana",
+            "href": "https://www.whosdatedwho.com/dating/french-montana",
+            "relationship_type": 2,
+            "start_date": "May 2012",
+            "end_date": "Feb 2015",
+            "length": "2 years",
+            "start_months_since_1900": 1348,
+            "end_months_since_1900": 1381,
+            "length_in_months": 24
+        }
+    ],
+    "details": {
+        "First Name": "Sophia",
+        "Middle Name": "Christine",
+        "Last Name": "Body",
+        "Maiden Name": "NA",
+        "Full Name at Birth": "Sophia Christina Body",
+        "Alternative Name": "Sophia Body, Sophia Christina, Sophia Christina Body",
+        "Birthday": "1992",
+        "Birthplace": "Canada",
+        "Height": "165",
+        "Weight": "132lbs (60 kg)",
+        "Zodiac Sign": "9",
+        "Sexuality": "Straight",
+        "Religion": "18",
+        "Ethnicity": "6",
+        "Nationality": "90",
+        "Occupation": "16"
+    }
+}

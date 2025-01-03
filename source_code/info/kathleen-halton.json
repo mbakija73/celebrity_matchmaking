@@ -1,0 +1,44 @@
+{
+    "relationships": [
+        {
+            "name": "Kenneth Tynan",
+            "href": "https://www.whosdatedwho.com/dating/kenneth-tynan",
+            "relationship_type": 4,
+            "start_date": "1966",
+            "end_date": "26th Jul 1980",
+            "length": "14 years",
+            "start_months_since_1900": 792,
+            "end_months_since_1900": 966,
+            "length_in_months": 168
+        },
+        {
+            "name": "Warren Beatty",
+            "href": "https://www.whosdatedwho.com/dating/warren-beatty",
+            "relationship_type": 3,
+            "start_date": "",
+            "end_date": "",
+            "length": "-",
+            "start_months_since_1900": -1,
+            "end_months_since_1900": -1,
+            "length_in_months": -1
+        }
+    ],
+    "details": {
+        "First Name": "Kathleen",
+        "Middle Name": "Jeannette",
+        "Last Name": "Tynan",
+        "Maiden Name": "Halton",
+        "Full Name at Birth": "Kathleen Jeannette Halton",
+        "Alternative Name": "Kathleen Jeannette Halton Tynan",
+        "Birthday": "1937",
+        "Birthplace": "UK",
+        "Height": "NA",
+        "Weight": "NA",
+        "Zodiac Sign": "9",
+        "Sexuality": "Straight",
+        "Religion": "1",
+        "Ethnicity": "6",
+        "Nationality": "8",
+        "Occupation": "3"
+    }
+}

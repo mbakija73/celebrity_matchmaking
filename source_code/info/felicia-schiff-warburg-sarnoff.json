@@ -1,0 +1,44 @@
+{
+    "relationships": [
+        {
+            "name": "Franklin D. Roosevelt Jr.",
+            "href": "https://www.whosdatedwho.com/dating/franklin-d-roosevelt-jr",
+            "relationship_type": 4,
+            "start_date": "1969",
+            "end_date": "1976",
+            "length": "7 years",
+            "start_months_since_1900": 828,
+            "end_months_since_1900": 912,
+            "length_in_months": 84
+        },
+        {
+            "name": "Robert W. Sarnoff",
+            "href": "https://www.whosdatedwho.com/dating/robert-w-sarnoff",
+            "relationship_type": 4,
+            "start_date": "1948",
+            "end_date": "1969",
+            "length": "21 years",
+            "start_months_since_1900": 576,
+            "end_months_since_1900": 828,
+            "length_in_months": 252
+        }
+    ],
+    "details": {
+        "First Name": "Felicia",
+        "Middle Name": "Schiff",
+        "Last Name": "Sarnoff",
+        "Maiden Name": "Warburg",
+        "Full Name at Birth": "Felicia Schiff Warburg",
+        "Alternative Name": "NA",
+        "Birthday": "NA",
+        "Birthplace": "NA",
+        "Height": "NA",
+        "Weight": "NA",
+        "Zodiac Sign": "2",
+        "Sexuality": "Straight",
+        "Religion": "1",
+        "Ethnicity": "6",
+        "Nationality": "65",
+        "Occupation": "19"
+    }
+}

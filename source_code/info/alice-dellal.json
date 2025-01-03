@@ -1,0 +1,66 @@
+{
+    "relationships": [
+        {
+            "name": "James Jagger",
+            "href": "https://www.whosdatedwho.com/dating/james-jagger",
+            "relationship_type": 2,
+            "start_date": "2007",
+            "end_date": "",
+            "length": "-",
+            "start_months_since_1900": 1284,
+            "end_months_since_1900": -1,
+            "length_in_months": -1
+        },
+        {
+            "name": "Pierre Casiraghi",
+            "href": "https://www.whosdatedwho.com/dating/pierre-casiraghi",
+            "relationship_type": 2,
+            "start_date": "2007",
+            "end_date": "2007",
+            "length": "-",
+            "start_months_since_1900": 1284,
+            "end_months_since_1900": 1284,
+            "length_in_months": -1
+        },
+        {
+            "name": "Ross Tanner",
+            "href": "https://www.whosdatedwho.com/dating/ross-tanner",
+            "relationship_type": 1,
+            "start_date": "",
+            "end_date": "",
+            "length": "-",
+            "start_months_since_1900": -1,
+            "end_months_since_1900": -1,
+            "length_in_months": -1
+        },
+        {
+            "name": "Kingsley Ifill",
+            "href": "https://www.whosdatedwho.com/dating/kingsley-ifill",
+            "relationship_type": 1,
+            "start_date": "",
+            "end_date": "",
+            "length": "-",
+            "start_months_since_1900": -1,
+            "end_months_since_1900": -1,
+            "length_in_months": -1
+        }
+    ],
+    "details": {
+        "First Name": "Alice",
+        "Middle Name": "Olivia",
+        "Last Name": "Dellal",
+        "Maiden Name": "NA",
+        "Full Name at Birth": "Alice Dellal",
+        "Alternative Name": "Oliv, Oliv Dc, Alice Dellal",
+        "Birthday": "1987",
+        "Birthplace": "Brazil",
+        "Height": "168",
+        "Weight": "NA",
+        "Zodiac Sign": "12",
+        "Sexuality": "Straight",
+        "Religion": "13",
+        "Ethnicity": "6",
+        "Nationality": "8",
+        "Occupation": "15"
+    }
+}

@@ -1,0 +1,66 @@
+{
+    "relationships": [
+        {
+            "name": "Bill Maher",
+            "href": "https://www.whosdatedwho.com/dating/bill-maher",
+            "relationship_type": 2,
+            "start_date": "Jul 2004",
+            "end_date": "2005",
+            "length": "6 months",
+            "start_months_since_1900": 1254,
+            "end_months_since_1900": 1260,
+            "length_in_months": 6
+        },
+        {
+            "name": "Fred Durst",
+            "href": "https://www.whosdatedwho.com/dating/fred-durst",
+            "relationship_type": 3,
+            "start_date": "2002",
+            "end_date": "2002",
+            "length": "-",
+            "start_months_since_1900": 1224,
+            "end_months_since_1900": 1224,
+            "length_in_months": -1
+        },
+        {
+            "name": "Nick Starcevic",
+            "href": "https://www.whosdatedwho.com/dating/nick-starcevic",
+            "relationship_type": 1,
+            "start_date": "",
+            "end_date": "",
+            "length": "-",
+            "start_months_since_1900": -1,
+            "end_months_since_1900": -1,
+            "length_in_months": -1
+        },
+        {
+            "name": "Michael Benton Adler",
+            "href": "https://www.whosdatedwho.com/dating/michael-benton-adler",
+            "relationship_type": 4,
+            "start_date": "",
+            "end_date": "present",
+            "length": "-",
+            "start_months_since_1900": -1,
+            "end_months_since_1900": -1,
+            "length_in_months": -1
+        }
+    ],
+    "details": {
+        "First Name": "Thora",
+        "Middle Name": "NA",
+        "Last Name": "Birch",
+        "Maiden Name": "NA",
+        "Full Name at Birth": "Thora Birch",
+        "Alternative Name": "Thora, Thora Birch",
+        "Birthday": "1982",
+        "Birthplace": "USA",
+        "Height": "165",
+        "Weight": "117lbs (53 kg)",
+        "Zodiac Sign": "1",
+        "Sexuality": "Straight",
+        "Religion": "1",
+        "Ethnicity": "6",
+        "Nationality": "91",
+        "Occupation": "8"
+    }
+}

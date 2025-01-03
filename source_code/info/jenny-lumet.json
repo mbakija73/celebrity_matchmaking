@@ -1,0 +1,44 @@
+{
+    "relationships": [
+        {
+            "name": "Bobby Cannavale",
+            "href": "https://www.whosdatedwho.com/dating/bobby-cannavale",
+            "relationship_type": 4,
+            "start_date": "1994",
+            "end_date": "2003",
+            "length": "9 years",
+            "start_months_since_1900": 1128,
+            "end_months_since_1900": 1236,
+            "length_in_months": 108
+        },
+        {
+            "name": "Timothy Hutton",
+            "href": "https://www.whosdatedwho.com/dating/timothy-hutton",
+            "relationship_type": 3,
+            "start_date": "Oct 1982",
+            "end_date": "Oct 1982",
+            "length": "-",
+            "start_months_since_1900": 993,
+            "end_months_since_1900": 993,
+            "length_in_months": -1
+        }
+    ],
+    "details": {
+        "First Name": "Jenny",
+        "Middle Name": "NA",
+        "Last Name": "Lumet",
+        "Maiden Name": "NA",
+        "Full Name at Birth": "NA",
+        "Alternative Name": "NA",
+        "Birthday": "1967",
+        "Birthplace": "New York",
+        "Height": "NA",
+        "Weight": "NA",
+        "Zodiac Sign": "9",
+        "Sexuality": "Straight",
+        "Religion": "1",
+        "Ethnicity": "8",
+        "Nationality": "91",
+        "Occupation": "8"
+    }
+}

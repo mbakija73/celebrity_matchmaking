@@ -1,0 +1,55 @@
+{
+    "relationships": [
+        {
+            "name": "Shah Rukh Khan",
+            "href": "https://www.whosdatedwho.com/dating/shah-rukh-khan",
+            "relationship_type": 1,
+            "start_date": "",
+            "end_date": "",
+            "length": "-",
+            "start_months_since_1900": -1,
+            "end_months_since_1900": -1,
+            "length_in_months": -1
+        },
+        {
+            "name": "Siddharth",
+            "href": "https://www.whosdatedwho.com/dating/siddharth-actor",
+            "relationship_type": 1,
+            "start_date": "",
+            "end_date": "",
+            "length": "-",
+            "start_months_since_1900": -1,
+            "end_months_since_1900": -1,
+            "length_in_months": -1
+        },
+        {
+            "name": "Gaurav Arora",
+            "href": "https://www.whosdatedwho.com/dating/gaurav-arora",
+            "relationship_type": 1,
+            "start_date": "",
+            "end_date": "",
+            "length": "-",
+            "start_months_since_1900": -1,
+            "end_months_since_1900": -1,
+            "length_in_months": -1
+        }
+    ],
+    "details": {
+        "First Name": "Sayani",
+        "Middle Name": "NA",
+        "Last Name": "Gupta",
+        "Maiden Name": "NA",
+        "Full Name at Birth": "NA",
+        "Alternative Name": "Sayani, Sayani Gupta",
+        "Birthday": "1985",
+        "Birthplace": "India",
+        "Height": "163",
+        "Weight": "121lbs (55 kg)",
+        "Zodiac Sign": "10",
+        "Sexuality": "Straight",
+        "Religion": "27",
+        "Ethnicity": "7",
+        "Nationality": "34",
+        "Occupation": "8"
+    }
+}

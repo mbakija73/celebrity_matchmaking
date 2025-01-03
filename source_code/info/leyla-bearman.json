@@ -1,0 +1,33 @@
+{
+    "relationships": [
+        {
+            "name": "Fred Durst",
+            "href": "https://www.whosdatedwho.com/dating/fred-durst",
+            "relationship_type": 2,
+            "start_date": "Jul 2005",
+            "end_date": "Feb 2006",
+            "length": "7 months",
+            "start_months_since_1900": 1266,
+            "end_months_since_1900": 1273,
+            "length_in_months": 7
+        }
+    ],
+    "details": {
+        "First Name": "Leyla",
+        "Middle Name": "NA",
+        "Last Name": "Bearman",
+        "Maiden Name": "NA",
+        "Full Name at Birth": "Leyla A. Bearman",
+        "Alternative Name": "NA",
+        "Birthday": "1976",
+        "Birthplace": "CA",
+        "Height": "NA",
+        "Weight": "NA",
+        "Zodiac Sign": "13",
+        "Sexuality": "Straight",
+        "Religion": "1",
+        "Ethnicity": "6",
+        "Nationality": "91",
+        "Occupation": "19"
+    }
+}

@@ -1,0 +1,77 @@
+{
+    "relationships": [
+        {
+            "name": "Debbie Reynolds",
+            "href": "https://www.whosdatedwho.com/dating/debbie-reynolds",
+            "relationship_type": 2,
+            "start_date": "1960",
+            "end_date": "Apr 1974",
+            "length": "14 years",
+            "start_months_since_1900": 720,
+            "end_months_since_1900": 891,
+            "length_in_months": 168
+        },
+        {
+            "name": "Robert Gist",
+            "href": "https://www.whosdatedwho.com/dating/robert-gist",
+            "relationship_type": 4,
+            "start_date": "Nov 1948",
+            "end_date": "Mar 1958",
+            "length": "9 years",
+            "start_months_since_1900": 586,
+            "end_months_since_1900": 698,
+            "length_in_months": 108
+        },
+        {
+            "name": "Jack G. Lee",
+            "href": "https://www.whosdatedwho.com/dating/jack-g-lee",
+            "relationship_type": 4,
+            "start_date": "1929",
+            "end_date": "Jun 1952",
+            "length": "23 years",
+            "start_months_since_1900": 348,
+            "end_months_since_1900": 629,
+            "length_in_months": 276
+        },
+        {
+            "name": "Rosalind Russell",
+            "href": "https://www.whosdatedwho.com/dating/rosalind-russell",
+            "relationship_type": 2,
+            "start_date": "1927",
+            "end_date": "1927",
+            "length": "-",
+            "start_months_since_1900": 324,
+            "end_months_since_1900": 324,
+            "length_in_months": -1
+        },
+        {
+            "name": "Edith King",
+            "href": "https://www.whosdatedwho.com/dating/edith-king",
+            "relationship_type": 2,
+            "start_date": "",
+            "end_date": "",
+            "length": "-",
+            "start_months_since_1900": -1,
+            "end_months_since_1900": -1,
+            "length_in_months": -1
+        }
+    ],
+    "details": {
+        "First Name": "Agnes",
+        "Middle Name": "Robertson",
+        "Last Name": "NA",
+        "Maiden Name": "Moorehead",
+        "Full Name at Birth": "Agnes Robertson Moorehead",
+        "Alternative Name": "Agnes Lee, Agnes Gist, The Lavender Lady, Madame Mauve",
+        "Birthday": "1900",
+        "Birthplace": "USA",
+        "Height": "163",
+        "Weight": "NA",
+        "Zodiac Sign": "6",
+        "Sexuality": "DISPUTED",
+        "Religion": "4",
+        "Ethnicity": "6",
+        "Nationality": "91",
+        "Occupation": "8"
+    }
+}

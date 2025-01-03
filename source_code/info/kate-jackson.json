@@ -1,0 +1,121 @@
+{
+    "relationships": [
+        {
+            "name": "Tom Hart",
+            "href": "https://www.whosdatedwho.com/dating/tom-hart",
+            "relationship_type": 4,
+            "start_date": "1989",
+            "end_date": "1994",
+            "length": "5 years",
+            "start_months_since_1900": 1068,
+            "end_months_since_1900": 1128,
+            "length_in_months": 60
+        },
+        {
+            "name": "Richard Cohen",
+            "href": "https://www.whosdatedwho.com/dating/richard-cohen",
+            "relationship_type": 2,
+            "start_date": "1984",
+            "end_date": "1984",
+            "length": "-",
+            "start_months_since_1900": 1008,
+            "end_months_since_1900": 1008,
+            "length_in_months": -1
+        },
+        {
+            "name": "David Greenwald (Business)",
+            "href": "https://www.whosdatedwho.com/dating/david-greenwald-business",
+            "relationship_type": 4,
+            "start_date": "Sep 1981",
+            "end_date": "Dec 1984",
+            "length": "3 years",
+            "start_months_since_1900": 980,
+            "end_months_since_1900": 1019,
+            "length_in_months": 36
+        },
+        {
+            "name": "Rock Brynner",
+            "href": "https://www.whosdatedwho.com/dating/rock-brynner",
+            "relationship_type": 2,
+            "start_date": "Jul 1981",
+            "end_date": "Sep 1981",
+            "length": "2 months",
+            "start_months_since_1900": 978,
+            "end_months_since_1900": 980,
+            "length_in_months": 2
+        },
+        {
+            "name": "Warren Beatty",
+            "href": "https://www.whosdatedwho.com/dating/warren-beatty",
+            "relationship_type": 3,
+            "start_date": "1977",
+            "end_date": "1977",
+            "length": "-",
+            "start_months_since_1900": 924,
+            "end_months_since_1900": 924,
+            "length_in_months": -1
+        },
+        {
+            "name": "Nick Nolte",
+            "href": "https://www.whosdatedwho.com/dating/nick-nolte",
+            "relationship_type": 2,
+            "start_date": "1977",
+            "end_date": "1977",
+            "length": "-",
+            "start_months_since_1900": 924,
+            "end_months_since_1900": 924,
+            "length_in_months": -1
+        },
+        {
+            "name": "Andrew Stevens",
+            "href": "https://www.whosdatedwho.com/dating/andrew-stevens",
+            "relationship_type": 4,
+            "start_date": "1977",
+            "end_date": "Jan 1980",
+            "length": "3 years",
+            "start_months_since_1900": 924,
+            "end_months_since_1900": 960,
+            "length_in_months": 36
+        },
+        {
+            "name": "Robert Evans",
+            "href": "https://www.whosdatedwho.com/dating/robert-evans",
+            "relationship_type": 2,
+            "start_date": "Jan 1973",
+            "end_date": "May 1973",
+            "length": "4 months",
+            "start_months_since_1900": 876,
+            "end_months_since_1900": 880,
+            "length_in_months": 4
+        },
+        {
+            "name": "Edward Albert",
+            "href": "https://www.whosdatedwho.com/dating/edward-albert",
+            "relationship_type": 2,
+            "start_date": "1970",
+            "end_date": "1972",
+            "length": "2 years",
+            "start_months_since_1900": 840,
+            "end_months_since_1900": 864,
+            "length_in_months": 24
+        }
+    ],
+    "details": {
+        "First Name": "Lucy",
+        "Middle Name": "Kate",
+        "Last Name": "Jackson",
+        "Maiden Name": "NA",
+        "Full Name at Birth": "Lucy Kate Jackson",
+        "Alternative Name": "Katie",
+        "Birthday": "1948",
+        "Birthplace": "USA",
+        "Height": "175",
+        "Weight": "130lbs (59 kg)",
+        "Zodiac Sign": "5",
+        "Sexuality": "Straight",
+        "Religion": "1",
+        "Ethnicity": "6",
+        "Nationality": "91",
+        "Occupation": "8"
+    }
+}

@@ -1,0 +1,55 @@
+{
+    "relationships": [
+        {
+            "name": "Sunny Oglesby",
+            "href": "https://www.whosdatedwho.com/dating/sunny-oglesby",
+            "relationship_type": 4,
+            "start_date": "2011",
+            "end_date": "present",
+            "length": "13 years",
+            "start_months_since_1900": 1332,
+            "end_months_since_1900": -1,
+            "length_in_months": 156
+        },
+        {
+            "name": "Kathy Griffin",
+            "href": "https://www.whosdatedwho.com/dating/kathy-griffin",
+            "relationship_type": 3,
+            "start_date": "2009",
+            "end_date": "2009",
+            "length": "-",
+            "start_months_since_1900": 1308,
+            "end_months_since_1900": 1308,
+            "length_in_months": -1
+        },
+        {
+            "name": "Bristol Palin",
+            "href": "https://www.whosdatedwho.com/dating/bristol-palin",
+            "relationship_type": 2,
+            "start_date": "2007",
+            "end_date": "2009",
+            "length": "2 years",
+            "start_months_since_1900": 1284,
+            "end_months_since_1900": 1308,
+            "length_in_months": 24
+        }
+    ],
+    "details": {
+        "First Name": "Levi",
+        "Middle Name": "Keith",
+        "Last Name": "Johnston",
+        "Maiden Name": "NA",
+        "Full Name at Birth": "Levi Keith Johnston",
+        "Alternative Name": "NA",
+        "Birthday": "1990",
+        "Birthplace": "Alaska",
+        "Height": "180",
+        "Weight": "NA",
+        "Zodiac Sign": "3",
+        "Sexuality": "Straight",
+        "Religion": "18",
+        "Ethnicity": "6",
+        "Nationality": "91",
+        "Occupation": "15"
+    }
+}

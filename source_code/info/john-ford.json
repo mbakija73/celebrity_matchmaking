@@ -1,0 +1,55 @@
+{
+    "relationships": [
+        {
+            "name": "Katharine Hepburn",
+            "href": "https://www.whosdatedwho.com/dating/katharine-hepburn",
+            "relationship_type": 2,
+            "start_date": "1935",
+            "end_date": "1935",
+            "length": "-",
+            "start_months_since_1900": 420,
+            "end_months_since_1900": 420,
+            "length_in_months": -1
+        },
+        {
+            "name": "Maureen O'Hara",
+            "href": "https://www.whosdatedwho.com/dating/maureen-o-hara",
+            "relationship_type": 3,
+            "start_date": "",
+            "end_date": "",
+            "length": "-",
+            "start_months_since_1900": -1,
+            "end_months_since_1900": -1,
+            "length_in_months": -1
+        },
+        {
+            "name": "Mary Ford",
+            "href": "https://www.whosdatedwho.com/dating/mary-ford-born-1893",
+            "relationship_type": 4,
+            "start_date": "1918",
+            "end_date": "31st Aug 1973",
+            "length": "55 years",
+            "start_months_since_1900": 216,
+            "end_months_since_1900": 883,
+            "length_in_months": 660
+        }
+    ],
+    "details": {
+        "First Name": "John",
+        "Middle Name": "Martin",
+        "Last Name": "Feeney",
+        "Maiden Name": "NA",
+        "Full Name at Birth": "John Martin Feeney",
+        "Alternative Name": "Sean Aloysius Feeny, John Martin Feeney, John Feeney, John Ford, Sean Aloysius O'Fearna",
+        "Birthday": "1894",
+        "Birthplace": "USA",
+        "Height": "183",
+        "Weight": "NA",
+        "Zodiac Sign": "9",
+        "Sexuality": "Bisexual",
+        "Religion": "13",
+        "Ethnicity": "6",
+        "Nationality": "91",
+        "Occupation": "9"
+    }
+}

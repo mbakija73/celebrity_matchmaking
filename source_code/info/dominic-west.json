@@ -1,0 +1,66 @@
+{
+    "relationships": [
+        {
+            "name": "Lily James",
+            "href": "https://www.whosdatedwho.com/dating/lily-james",
+            "relationship_type": 3,
+            "start_date": "Oct 2020",
+            "end_date": "Oct 2020",
+            "length": "-",
+            "start_months_since_1900": 1449,
+            "end_months_since_1900": 1449,
+            "length_in_months": -1
+        },
+        {
+            "name": "Catherine Fitzgerald",
+            "href": "https://www.whosdatedwho.com/dating/catherine-fitzgerald",
+            "relationship_type": 4,
+            "start_date": "2007",
+            "end_date": "",
+            "length": "-",
+            "start_months_since_1900": 1284,
+            "end_months_since_1900": -1,
+            "length_in_months": -1
+        },
+        {
+            "name": "Catherine FitzGerald",
+            "href": "https://www.whosdatedwho.com/dating/catherine-fitzgerald-88891905",
+            "relationship_type": 4,
+            "start_date": "1991",
+            "end_date": "present",
+            "length": "33 years",
+            "start_months_since_1900": 1092,
+            "end_months_since_1900": -1,
+            "length_in_months": 396
+        },
+        {
+            "name": "Polly Astor",
+            "href": "https://www.whosdatedwho.com/dating/polly-astor",
+            "relationship_type": 2,
+            "start_date": "",
+            "end_date": "",
+            "length": "-",
+            "start_months_since_1900": -1,
+            "end_months_since_1900": -1,
+            "length_in_months": -1
+        }
+    ],
+    "details": {
+        "First Name": "Dominic",
+        "Middle Name": "NA",
+        "Last Name": "West",
+        "Maiden Name": "NA",
+        "Full Name at Birth": "Dominic Gerard Fe West",
+        "Alternative Name": "NA",
+        "Birthday": "1969",
+        "Birthplace": "UK",
+        "Height": "183",
+        "Weight": "NA",
+        "Zodiac Sign": "10",
+        "Sexuality": "Straight",
+        "Religion": "13",
+        "Ethnicity": "6",
+        "Nationality": "8",
+        "Occupation": "8"
+    }
+}

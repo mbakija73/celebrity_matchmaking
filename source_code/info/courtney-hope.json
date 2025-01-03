@@ -1,0 +1,44 @@
+{
+    "relationships": [
+        {
+            "name": "Mark Grossman",
+            "href": "https://www.whosdatedwho.com/dating/mark-grossman-actor",
+            "relationship_type": 2,
+            "start_date": "Nov 2022",
+            "end_date": "Oct 2023",
+            "length": "11 months",
+            "start_months_since_1900": 1474,
+            "end_months_since_1900": 1485,
+            "length_in_months": 11
+        },
+        {
+            "name": "Chad Duell",
+            "href": "https://www.whosdatedwho.com/dating/chad-duell",
+            "relationship_type": 4,
+            "start_date": "Apr 2016",
+            "end_date": "Dec 2021",
+            "length": "5 years",
+            "start_months_since_1900": 1395,
+            "end_months_since_1900": 1463,
+            "length_in_months": 60
+        }
+    ],
+    "details": {
+        "First Name": "Courtney",
+        "Middle Name": "Ann",
+        "Last Name": "Hope",
+        "Maiden Name": "NA",
+        "Full Name at Birth": "Courtney Ann Hope",
+        "Alternative Name": "Courtney Ann Hope, Courtney Hope",
+        "Birthday": "1989",
+        "Birthplace": "USA",
+        "Height": "170",
+        "Weight": "130lbs (59 kg)",
+        "Zodiac Sign": "12",
+        "Sexuality": "Straight",
+        "Religion": "1",
+        "Ethnicity": "6",
+        "Nationality": "91",
+        "Occupation": "8"
+    }
+}

@@ -1,0 +1,55 @@
+{
+    "relationships": [
+        {
+            "name": "Robert Soros",
+            "href": "https://www.whosdatedwho.com/dating/robert-soros",
+            "relationship_type": 2,
+            "start_date": "2014",
+            "end_date": "2015",
+            "length": "1 year",
+            "start_months_since_1900": 1368,
+            "end_months_since_1900": 1380,
+            "length_in_months": 12
+        },
+        {
+            "name": "Robert Mortimer",
+            "href": "https://www.whosdatedwho.com/dating/robert-mortimer",
+            "relationship_type": 2,
+            "start_date": "Feb 2010",
+            "end_date": "",
+            "length": "-",
+            "start_months_since_1900": 1321,
+            "end_months_since_1900": -1,
+            "length_in_months": -1
+        },
+        {
+            "name": "Nick Rhodes",
+            "href": "https://www.whosdatedwho.com/dating/nick-rhodes",
+            "relationship_type": 2,
+            "start_date": "Jul 2001",
+            "end_date": "Feb 2009",
+            "length": "7 years",
+            "start_months_since_1900": 1218,
+            "end_months_since_1900": 1309,
+            "length_in_months": 84
+        }
+    ],
+    "details": {
+        "First Name": "Meredith",
+        "Middle Name": "Joy",
+        "Last Name": "Ostrom",
+        "Maiden Name": "NA",
+        "Full Name at Birth": "Meredith Joy Ostrom",
+        "Alternative Name": "Meredith Ostrom, Meredith Joy Ostrom",
+        "Birthday": "1977",
+        "Birthplace": "USA",
+        "Height": "175",
+        "Weight": "NA",
+        "Zodiac Sign": "9",
+        "Sexuality": "Straight",
+        "Religion": "1",
+        "Ethnicity": "6",
+        "Nationality": "91",
+        "Occupation": "8"
+    }
+}

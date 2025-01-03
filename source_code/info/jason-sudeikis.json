@@ -1,0 +1,88 @@
+{
+    "relationships": [
+        {
+            "name": "Elsie Hewitt",
+            "href": "https://www.whosdatedwho.com/dating/elsie-hewitt",
+            "relationship_type": 1,
+            "start_date": "Jan 2024",
+            "end_date": "Jan 2024",
+            "length": "-",
+            "start_months_since_1900": 1488,
+            "end_months_since_1900": 1488,
+            "length_in_months": -1
+        },
+        {
+            "name": "Keeley Hazell",
+            "href": "https://www.whosdatedwho.com/dating/keeley-hazell",
+            "relationship_type": 2,
+            "start_date": "2021",
+            "end_date": "May 2022",
+            "length": "1 year",
+            "start_months_since_1900": 1452,
+            "end_months_since_1900": 1468,
+            "length_in_months": 12
+        },
+        {
+            "name": "Olivia Wilde",
+            "href": "https://www.whosdatedwho.com/dating/olivia-wilde",
+            "relationship_type": 2,
+            "start_date": "Nov 2011",
+            "end_date": "Nov 2020",
+            "length": "9 years",
+            "start_months_since_1900": 1342,
+            "end_months_since_1900": 1450,
+            "length_in_months": 108
+        },
+        {
+            "name": "Eva Mendes",
+            "href": "https://www.whosdatedwho.com/dating/eva-mendes",
+            "relationship_type": 3,
+            "start_date": "Jun 2011",
+            "end_date": "Jul 2011",
+            "length": "1 month",
+            "start_months_since_1900": 1337,
+            "end_months_since_1900": 1338,
+            "length_in_months": 1
+        },
+        {
+            "name": "January Jones",
+            "href": "https://www.whosdatedwho.com/dating/january-jones",
+            "relationship_type": 2,
+            "start_date": "Jul 2010",
+            "end_date": "Jan 2011",
+            "length": "6 months",
+            "start_months_since_1900": 1326,
+            "end_months_since_1900": 1332,
+            "length_in_months": 6
+        },
+        {
+            "name": "Kay Cannon",
+            "href": "https://www.whosdatedwho.com/dating/kay-cannon",
+            "relationship_type": 4,
+            "start_date": "Jun 2001",
+            "end_date": "4th Mar 2010",
+            "length": "8 years",
+            "start_months_since_1900": 1217,
+            "end_months_since_1900": 1322,
+            "length_in_months": 96
+        }
+    ],
+    "details": {
+        "First Name": "Jason",
+        "Middle Name": "NA",
+        "Last Name": "Sudeikis",
+        "Maiden Name": "NA",
+        "Full Name at Birth": "Daniel Jason Sudeikis",
+        "Alternative Name": "Suds",
+        "Birthday": "1975",
+        "Birthplace": "United States",
+        "Height": "186",
+        "Weight": "NA",
+        "Zodiac Sign": "11",
+        "Sexuality": "Straight",
+        "Religion": "3",
+        "Ethnicity": "6",
+        "Nationality": "91",
+        "Occupation": "8"
+    }
+}

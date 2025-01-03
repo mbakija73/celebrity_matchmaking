@@ -1,0 +1,33 @@
+{
+    "relationships": [
+        {
+            "name": "Tony Brand",
+            "href": "https://www.whosdatedwho.com/dating/tony-brand",
+            "relationship_type": 4,
+            "start_date": "2006",
+            "end_date": "2007",
+            "length": "1 year",
+            "start_months_since_1900": 1272,
+            "end_months_since_1900": 1284,
+            "length_in_months": 12
+        }
+    ],
+    "details": {
+        "Birthday": "1977",
+        "First Name": "NA",
+        "Middle Name": "NA",
+        "Last Name": "NA",
+        "Maiden Name": "NA",
+        "Full Name at Birth": "NA",
+        "Alternative Name": "NA",
+        "Birthplace": "NA",
+        "Height": "NA",
+        "Weight": "NA",
+        "Zodiac Sign": "7",
+        "Sexuality": "NA",
+        "Religion": "1",
+        "Ethnicity": "6",
+        "Nationality": "139",
+        "Occupation": "5"
+    }
+}

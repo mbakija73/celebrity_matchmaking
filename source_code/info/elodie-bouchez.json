@@ -1,0 +1,44 @@
+{
+    "relationships": [
+        {
+            "name": "Thomas Bangalter",
+            "href": "https://www.whosdatedwho.com/dating/thomas-bangalter",
+            "relationship_type": 4,
+            "start_date": "2000",
+            "end_date": "present",
+            "length": "24 years",
+            "start_months_since_1900": 1200,
+            "end_months_since_1900": -1,
+            "length_in_months": 288
+        },
+        {
+            "name": "Romain Duris",
+            "href": "https://www.whosdatedwho.com/dating/romain-duris",
+            "relationship_type": 2,
+            "start_date": "1995",
+            "end_date": "1995",
+            "length": "-",
+            "start_months_since_1900": 1140,
+            "end_months_since_1900": 1140,
+            "length_in_months": -1
+        }
+    ],
+    "details": {
+        "First Name": "Elodie",
+        "Middle Name": "NA",
+        "Last Name": "Bangalter",
+        "Maiden Name": "Bouchez",
+        "Full Name at Birth": "\u00c9lodie Bouchez",
+        "Alternative Name": "\u00c9lodie Bouchez-Bangalter, \u00c9lodie Bouchez",
+        "Birthday": "1973",
+        "Birthplace": "France",
+        "Height": "NA",
+        "Weight": "NA",
+        "Zodiac Sign": "7",
+        "Sexuality": "Straight",
+        "Religion": "1",
+        "Ethnicity": "6",
+        "Nationality": "86",
+        "Occupation": "8"
+    }
+}

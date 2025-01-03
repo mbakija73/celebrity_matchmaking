@@ -1,0 +1,44 @@
+{
+    "relationships": [
+        {
+            "name": "Kim Painter",
+            "href": "https://www.whosdatedwho.com/dating/kim-painter",
+            "relationship_type": 4,
+            "start_date": "18th Nov 2006",
+            "end_date": "present",
+            "length": "17 years",
+            "start_months_since_1900": 1282,
+            "end_months_since_1900": -1,
+            "length_in_months": 204
+        },
+        {
+            "name": "Hilary Swank",
+            "href": "https://www.whosdatedwho.com/dating/hilary-swank",
+            "relationship_type": 4,
+            "start_date": "Jan 1994",
+            "end_date": "1st Nov 2007",
+            "length": "13 years",
+            "start_months_since_1900": 1128,
+            "end_months_since_1900": 1294,
+            "length_in_months": 156
+        }
+    ],
+    "details": {
+        "First Name": "Chad",
+        "Middle Name": "NA",
+        "Last Name": "Lowe",
+        "Maiden Name": "NA",
+        "Full Name at Birth": "Charles Davis Lowe",
+        "Alternative Name": "Charles Conrad Lowe",
+        "Birthday": "1968",
+        "Birthplace": "USA",
+        "Height": "174",
+        "Weight": "NA",
+        "Zodiac Sign": "13",
+        "Sexuality": "Straight",
+        "Religion": "1",
+        "Ethnicity": "6",
+        "Nationality": "91",
+        "Occupation": "8"
+    }
+}

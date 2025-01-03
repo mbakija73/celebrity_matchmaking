@@ -1,0 +1,88 @@
+{
+    "relationships": [
+        {
+            "name": "Lil' Wayne",
+            "href": "https://www.whosdatedwho.com/dating/lil-wayne",
+            "relationship_type": 2,
+            "start_date": "Sep 2007",
+            "end_date": "Dec 2007",
+            "length": "3 months",
+            "start_months_since_1900": 1292,
+            "end_months_since_1900": 1295,
+            "length_in_months": 3
+        },
+        {
+            "name": "Fabolous",
+            "href": "https://www.whosdatedwho.com/dating/fabolous",
+            "relationship_type": 1,
+            "start_date": "",
+            "end_date": "",
+            "length": "-",
+            "start_months_since_1900": -1,
+            "end_months_since_1900": -1,
+            "length_in_months": -1
+        },
+        {
+            "name": "DeShawn Stevenson",
+            "href": "https://www.whosdatedwho.com/dating/deshawn-stevenson",
+            "relationship_type": 3,
+            "start_date": "",
+            "end_date": "",
+            "length": "-",
+            "start_months_since_1900": -1,
+            "end_months_since_1900": -1,
+            "length_in_months": -1
+        },
+        {
+            "name": "R.L.",
+            "href": "https://www.whosdatedwho.com/dating/r-l-singer",
+            "relationship_type": 1,
+            "start_date": "",
+            "end_date": "",
+            "length": "-",
+            "start_months_since_1900": -1,
+            "end_months_since_1900": -1,
+            "length_in_months": -1
+        },
+        {
+            "name": "Keyshawn Johnson",
+            "href": "https://www.whosdatedwho.com/dating/keyshawn-johnson",
+            "relationship_type": 1,
+            "start_date": "",
+            "end_date": "",
+            "length": "-",
+            "start_months_since_1900": -1,
+            "end_months_since_1900": -1,
+            "length_in_months": -1
+        },
+        {
+            "name": "Paul Pierce",
+            "href": "https://www.whosdatedwho.com/dating/paul-pierce",
+            "relationship_type": 1,
+            "start_date": "",
+            "end_date": "",
+            "length": "-",
+            "start_months_since_1900": -1,
+            "end_months_since_1900": -1,
+            "length_in_months": -1
+        }
+    ],
+    "details": {
+        "First Name": "Farrah",
+        "Middle Name": "Destiny",
+        "Last Name": "Franklin",
+        "Maiden Name": "NA",
+        "Full Name at Birth": "Farrah Destiny Franklin",
+        "Alternative Name": "NA",
+        "Birthday": "1981",
+        "Birthplace": "USA",
+        "Height": "163",
+        "Weight": "NA",
+        "Zodiac Sign": "3",
+        "Sexuality": "Straight",
+        "Religion": "1",
+        "Ethnicity": "8",
+        "Nationality": "91",
+        "Occupation": "1"
+    }
+}

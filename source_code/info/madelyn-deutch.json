@@ -1,0 +1,44 @@
+{
+    "relationships": [
+        {
+            "name": "Sam Fox",
+            "href": "https://www.whosdatedwho.com/dating/sam-fox-actor",
+            "relationship_type": 2,
+            "start_date": "Dec 2006",
+            "end_date": "Aug 2008",
+            "length": "1 year",
+            "start_months_since_1900": 1283,
+            "end_months_since_1900": 1303,
+            "length_in_months": 12
+        },
+        {
+            "name": "Richard Saunders",
+            "href": "https://www.whosdatedwho.com/dating/richard-saunders",
+            "relationship_type": 1,
+            "start_date": "",
+            "end_date": "",
+            "length": "-",
+            "start_months_since_1900": -1,
+            "end_months_since_1900": -1,
+            "length_in_months": -1
+        }
+    ],
+    "details": {
+        "First Name": "Madelyn",
+        "Middle Name": "Erin",
+        "Last Name": "Deutch",
+        "Maiden Name": "NA",
+        "Full Name at Birth": "Madelyn Erin Deutch",
+        "Alternative Name": "Maddie Deutch, Madelyn Deutch, Madeline Erin Deutch, Madelyn Erin Deutch, Maddie",
+        "Birthday": "1991",
+        "Birthplace": "USA",
+        "Height": "165",
+        "Weight": "126lbs (57 kg)",
+        "Zodiac Sign": "7",
+        "Sexuality": "Straight",
+        "Religion": "31",
+        "Ethnicity": "6",
+        "Nationality": "91",
+        "Occupation": "8"
+    }
+}

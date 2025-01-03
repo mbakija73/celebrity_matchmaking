@@ -1,0 +1,33 @@
+{
+    "relationships": [
+        {
+            "name": "Julie Christie",
+            "href": "https://www.whosdatedwho.com/dating/julie-christie",
+            "relationship_type": 4,
+            "start_date": "1979",
+            "end_date": "present",
+            "length": "45 years",
+            "start_months_since_1900": 948,
+            "end_months_since_1900": -1,
+            "length_in_months": 540
+        }
+    ],
+    "details": {
+        "First Name": "Duncan",
+        "Middle Name": "NA",
+        "Last Name": "Campbell",
+        "Maiden Name": "NA",
+        "Full Name at Birth": "NA",
+        "Alternative Name": "NA",
+        "Birthday": "NA",
+        "Birthplace": "NA",
+        "Height": "NA",
+        "Weight": "NA",
+        "Zodiac Sign": "2",
+        "Sexuality": "NA",
+        "Religion": "1",
+        "Ethnicity": "1",
+        "Nationality": "65",
+        "Occupation": "9"
+    }
+}

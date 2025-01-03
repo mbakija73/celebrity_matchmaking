@@ -1,0 +1,88 @@
+{
+    "relationships": [
+        {
+            "name": "Mark Harmon",
+            "href": "https://www.whosdatedwho.com/dating/mark-harmon",
+            "relationship_type": 4,
+            "start_date": "Feb 1986",
+            "end_date": "",
+            "length": "-",
+            "start_months_since_1900": 1033,
+            "end_months_since_1900": -1,
+            "length_in_months": -1
+        },
+        {
+            "name": "Robert Hays",
+            "href": "https://www.whosdatedwho.com/dating/robert-hays",
+            "relationship_type": 2,
+            "start_date": "Oct 1983",
+            "end_date": "Dec 1983",
+            "length": "2 months",
+            "start_months_since_1900": 1005,
+            "end_months_since_1900": 1007,
+            "length_in_months": 2
+        },
+        {
+            "name": "Tommy Shaw",
+            "href": "https://www.whosdatedwho.com/dating/tommy-shaw",
+            "relationship_type": 2,
+            "start_date": "Jul 1983",
+            "end_date": "Oct 1983",
+            "length": "3 months",
+            "start_months_since_1900": 1002,
+            "end_months_since_1900": 1005,
+            "length_in_months": 3
+        },
+        {
+            "name": "Andy Gibb",
+            "href": "https://www.whosdatedwho.com/dating/andy-gibb",
+            "relationship_type": 2,
+            "start_date": "Nov 1982",
+            "end_date": "Jan 1983",
+            "length": "2 months",
+            "start_months_since_1900": 994,
+            "end_months_since_1900": 996,
+            "length_in_months": 2
+        },
+        {
+            "name": "Rex Smith",
+            "href": "https://www.whosdatedwho.com/dating/rex-smith",
+            "relationship_type": 3,
+            "start_date": "Jun 1982",
+            "end_date": "Jun 1982",
+            "length": "-",
+            "start_months_since_1900": 989,
+            "end_months_since_1900": 989,
+            "length_in_months": -1
+        },
+        {
+            "name": "Phil Coccioletti",
+            "href": "https://www.whosdatedwho.com/dating/phil-coccioletti",
+            "relationship_type": 2,
+            "start_date": "Aug 1979",
+            "end_date": "Feb 1981",
+            "length": "1 year",
+            "start_months_since_1900": 955,
+            "end_months_since_1900": 973,
+            "length_in_months": 12
+        }
+    ],
+    "details": {
+        "First Name": "Pam",
+        "Middle Name": "NA",
+        "Last Name": "Dawber",
+        "Maiden Name": "NA",
+        "Full Name at Birth": "Pamela Dawber",
+        "Alternative Name": "Pamela Dawber Harmon",
+        "Birthday": "1951",
+        "Birthplace": "USA",
+        "Height": "171",
+        "Weight": "NA",
+        "Zodiac Sign": "10",
+        "Sexuality": "Straight",
+        "Religion": "13",
+        "Ethnicity": "6",
+        "Nationality": "91",
+        "Occupation": "8"
+    }
+}

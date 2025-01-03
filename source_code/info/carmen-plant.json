@@ -1,0 +1,33 @@
+{
+    "relationships": [
+        {
+            "name": "Charlie Jones",
+            "href": "https://www.whosdatedwho.com/dating/charlie-jones",
+            "relationship_type": 4,
+            "start_date": "1991",
+            "end_date": "present",
+            "length": "33 years",
+            "start_months_since_1900": 1092,
+            "end_months_since_1900": -1,
+            "length_in_months": 396
+        }
+    ],
+    "details": {
+        "First Name": "Carmen",
+        "Middle Name": "Jane",
+        "Last Name": "Plant",
+        "Maiden Name": "NA",
+        "Full Name at Birth": "Carmen Jane Plant",
+        "Alternative Name": "Carmen Jones, Carmen Jane Plant, Carmen Jane Plant Jones, Carmen Jane Jones, Carmen Plant Jones",
+        "Birthday": "1968",
+        "Birthplace": "England",
+        "Height": "NA",
+        "Weight": "NA",
+        "Zodiac Sign": "10",
+        "Sexuality": "Straight",
+        "Religion": "1",
+        "Ethnicity": "8",
+        "Nationality": "8",
+        "Occupation": "14"
+    }
+}

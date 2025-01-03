@@ -1,0 +1,66 @@
+{
+    "relationships": [
+        {
+            "name": "Grayson McCouch",
+            "href": "https://www.whosdatedwho.com/dating/grayson-mccouch",
+            "relationship_type": 2,
+            "start_date": "1993",
+            "end_date": "1996",
+            "length": "3 years",
+            "start_months_since_1900": 1116,
+            "end_months_since_1900": 1152,
+            "length_in_months": 36
+        },
+        {
+            "name": "Brian De Palma",
+            "href": "https://www.whosdatedwho.com/dating/brian-de-palma",
+            "relationship_type": 2,
+            "start_date": "1975",
+            "end_date": "1975",
+            "length": "-",
+            "start_months_since_1900": 900,
+            "end_months_since_1900": 900,
+            "length_in_months": -1
+        },
+        {
+            "name": "Peter Flood",
+            "href": "https://www.whosdatedwho.com/dating/peter-flood",
+            "relationship_type": 4,
+            "start_date": "1972",
+            "end_date": "1974",
+            "length": "2 years",
+            "start_months_since_1900": 864,
+            "end_months_since_1900": 888,
+            "length_in_months": 24
+        },
+        {
+            "name": "Patrick Wilson",
+            "href": "https://www.whosdatedwho.com/dating/patrick-wilson",
+            "relationship_type": 1,
+            "start_date": "",
+            "end_date": "",
+            "length": "-",
+            "start_months_since_1900": -1,
+            "end_months_since_1900": -1,
+            "length_in_months": -1
+        }
+    ],
+    "details": {
+        "First Name": "Betty",
+        "Middle Name": "Lynn",
+        "Last Name": "Buckley",
+        "Maiden Name": "NA",
+        "Full Name at Birth": "Betty Lynn Buckley",
+        "Alternative Name": "Betty Lynn Buckley, Betty Buckley, Betty, The Voice of Broadway",
+        "Birthday": "1947",
+        "Birthplace": "USA",
+        "Height": "168",
+        "Weight": "132lbs (60 kg)",
+        "Zodiac Sign": "8",
+        "Sexuality": "Straight",
+        "Religion": "18",
+        "Ethnicity": "6",
+        "Nationality": "91",
+        "Occupation": "8"
+    }
+}

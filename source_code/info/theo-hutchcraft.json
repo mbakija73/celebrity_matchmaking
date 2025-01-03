@@ -1,0 +1,66 @@
+{
+    "relationships": [
+        {
+            "name": "Daisy Lowe",
+            "href": "https://www.whosdatedwho.com/dating/daisy-lowe",
+            "relationship_type": 2,
+            "start_date": "Mar 2014",
+            "end_date": "Oct 2014",
+            "length": "7 months",
+            "start_months_since_1900": 1370,
+            "end_months_since_1900": 1377,
+            "length_in_months": 7
+        },
+        {
+            "name": "Dita Von Teese",
+            "href": "https://www.whosdatedwho.com/dating/dita-von-teese",
+            "relationship_type": 2,
+            "start_date": "2012",
+            "end_date": "2014",
+            "length": "2 years",
+            "start_months_since_1900": 1344,
+            "end_months_since_1900": 1368,
+            "length_in_months": 24
+        },
+        {
+            "name": "Alexa Chung",
+            "href": "https://www.whosdatedwho.com/dating/alexa-chung",
+            "relationship_type": 1,
+            "start_date": "2011",
+            "end_date": "2011",
+            "length": "-",
+            "start_months_since_1900": 1332,
+            "end_months_since_1900": 1332,
+            "length_in_months": -1
+        },
+        {
+            "name": "Marina Lambrini Diamandis",
+            "href": "https://www.whosdatedwho.com/dating/marina-lambrini-diamandis",
+            "relationship_type": 1,
+            "start_date": "",
+            "end_date": "",
+            "length": "-",
+            "start_months_since_1900": -1,
+            "end_months_since_1900": -1,
+            "length_in_months": -1
+        }
+    ],
+    "details": {
+        "First Name": "Theo",
+        "Middle Name": "David",
+        "Last Name": "Hutchcraft",
+        "Maiden Name": "NA",
+        "Full Name at Birth": "Theodore David Hutchcraft",
+        "Alternative Name": "Theo David Hutchcraft, Theodore David Hutchcraft, Theo Hutchcraft",
+        "Birthday": "1986",
+        "Birthplace": "UK",
+        "Height": "185",
+        "Weight": "NA",
+        "Zodiac Sign": "11",
+        "Sexuality": "Straight",
+        "Religion": "26",
+        "Ethnicity": "6",
+        "Nationality": "8",
+        "Occupation": "1"
+    }
+}

@@ -1,0 +1,77 @@
+{
+    "relationships": [
+        {
+            "name": "Barbra Streisand",
+            "href": "https://www.whosdatedwho.com/dating/barbra-streisand",
+            "relationship_type": 4,
+            "start_date": "1st Jul 1996",
+            "end_date": "present",
+            "length": "28 years",
+            "start_months_since_1900": 1158,
+            "end_months_since_1900": -1,
+            "length_in_months": 336
+        },
+        {
+            "name": "Jan Smithers",
+            "href": "https://www.whosdatedwho.com/dating/jan-smithers",
+            "relationship_type": 4,
+            "start_date": "1985",
+            "end_date": "1995",
+            "length": "10 years",
+            "start_months_since_1900": 1020,
+            "end_months_since_1900": 1140,
+            "length_in_months": 120
+        },
+        {
+            "name": "Jane Cameron Agee",
+            "href": "https://www.whosdatedwho.com/dating/jane-cameron-agee",
+            "relationship_type": 4,
+            "start_date": "16th Oct 1966",
+            "end_date": "1986",
+            "length": "19 years",
+            "start_months_since_1900": 801,
+            "end_months_since_1900": 1032,
+            "length_in_months": 228
+        },
+        {
+            "name": "Linda Harrison",
+            "href": "https://www.whosdatedwho.com/dating/linda-harrison",
+            "relationship_type": 2,
+            "start_date": "1965",
+            "end_date": "1966",
+            "length": "1 year",
+            "start_months_since_1900": 780,
+            "end_months_since_1900": 792,
+            "length_in_months": 12
+        },
+        {
+            "name": "Jane Cameron",
+            "href": "https://www.whosdatedwho.com/dating/jane-cameron",
+            "relationship_type": 1,
+            "start_date": "",
+            "end_date": "",
+            "length": "-",
+            "start_months_since_1900": -1,
+            "end_months_since_1900": -1,
+            "length_in_months": -1
+        }
+    ],
+    "details": {
+        "First Name": "James",
+        "Middle Name": "NA",
+        "Last Name": "Bruderlin",
+        "Maiden Name": "NA",
+        "Full Name at Birth": "Craig Kenneth Bruderlin",
+        "Alternative Name": "James Brolin, James M. Brolin, Craig J. Brolin, Craig Kenneth Bruderlin",
+        "Birthday": "1940",
+        "Birthplace": "USA",
+        "Height": "193",
+        "Weight": "NA",
+        "Zodiac Sign": "8",
+        "Sexuality": "Straight",
+        "Religion": "1",
+        "Ethnicity": "6",
+        "Nationality": "91",
+        "Occupation": "8"
+    }
+}

@@ -1,0 +1,77 @@
+{
+    "relationships": [
+        {
+            "name": "Dieter Bockhorn",
+            "href": "https://www.whosdatedwho.com/dating/dieter-bockhorn",
+            "relationship_type": 4,
+            "start_date": "1973",
+            "end_date": "Dec 1983",
+            "length": "10 years",
+            "start_months_since_1900": 876,
+            "end_months_since_1900": 1007,
+            "length_in_months": 120
+        },
+        {
+            "name": "Mick Jagger",
+            "href": "https://www.whosdatedwho.com/dating/mick-jagger",
+            "relationship_type": 2,
+            "start_date": "1969",
+            "end_date": "1970",
+            "length": "1 year",
+            "start_months_since_1900": 828,
+            "end_months_since_1900": 840,
+            "length_in_months": 12
+        },
+        {
+            "name": "Keith Richards",
+            "href": "https://www.whosdatedwho.com/dating/keith-richards",
+            "relationship_type": 2,
+            "start_date": "1969",
+            "end_date": "1970",
+            "length": "1 year",
+            "start_months_since_1900": 828,
+            "end_months_since_1900": 840,
+            "length_in_months": 12
+        },
+        {
+            "name": "Jimi Hendrix",
+            "href": "https://www.whosdatedwho.com/dating/jimi-hendrix",
+            "relationship_type": 3,
+            "start_date": "1969",
+            "end_date": "1969",
+            "length": "-",
+            "start_months_since_1900": 828,
+            "end_months_since_1900": 828,
+            "length_in_months": -1
+        },
+        {
+            "name": "Rainer Langhans",
+            "href": "https://www.whosdatedwho.com/dating/rainer-langhans",
+            "relationship_type": 2,
+            "start_date": "1968",
+            "end_date": "1969",
+            "length": "1 year",
+            "start_months_since_1900": 816,
+            "end_months_since_1900": 828,
+            "length_in_months": 12
+        }
+    ],
+    "details": {
+        "First Name": "Uschi",
+        "Middle Name": "NA",
+        "Last Name": "NA",
+        "Maiden Name": "Obermaier",
+        "Full Name at Birth": "Ursula Obermaier",
+        "Alternative Name": "Chrissi Malberg",
+        "Birthday": "1946",
+        "Birthplace": "Baviera",
+        "Height": "168",
+        "Weight": "NA",
+        "Zodiac Sign": "10",
+        "Sexuality": "Bisexual",
+        "Religion": "22",
+        "Ethnicity": "6",
+        "Nationality": "55",
+        "Occupation": "15"
+    }
+}

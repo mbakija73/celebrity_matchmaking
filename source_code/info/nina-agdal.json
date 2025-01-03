@@ -1,0 +1,88 @@
+{
+    "relationships": [
+        {
+            "name": "Logan Paul",
+            "href": "https://www.whosdatedwho.com/dating/logan-paul-internet-celebrity",
+            "relationship_type": 2,
+            "start_date": "Aug 2022",
+            "end_date": "present",
+            "length": "2 years",
+            "start_months_since_1900": 1471,
+            "end_months_since_1900": -1,
+            "length_in_months": 24
+        },
+        {
+            "name": "Jack Brinkley-Cook",
+            "href": "https://www.whosdatedwho.com/dating/jack-brinkley-cook",
+            "relationship_type": 2,
+            "start_date": "Jul 2017",
+            "end_date": "2021",
+            "length": "3 years",
+            "start_months_since_1900": 1410,
+            "end_months_since_1900": 1452,
+            "length_in_months": 36
+        },
+        {
+            "name": "Leonardo DiCaprio",
+            "href": "https://www.whosdatedwho.com/dating/leonardo-dicaprio",
+            "relationship_type": 2,
+            "start_date": "May 2016",
+            "end_date": "May 2017",
+            "length": "1 year",
+            "start_months_since_1900": 1396,
+            "end_months_since_1900": 1408,
+            "length_in_months": 12
+        },
+        {
+            "name": "Max George",
+            "href": "https://www.whosdatedwho.com/dating/max-george",
+            "relationship_type": 2,
+            "start_date": "Jun 2013",
+            "end_date": "Feb 2014",
+            "length": "8 months",
+            "start_months_since_1900": 1361,
+            "end_months_since_1900": 1369,
+            "length_in_months": 8
+        },
+        {
+            "name": "Adam Levine",
+            "href": "https://www.whosdatedwho.com/dating/adam-levine",
+            "relationship_type": 3,
+            "start_date": "May 2013",
+            "end_date": "Jun 2013",
+            "length": "1 month",
+            "start_months_since_1900": 1360,
+            "end_months_since_1900": 1361,
+            "length_in_months": 1
+        },
+        {
+            "name": "Dan Bilzerian",
+            "href": "https://www.whosdatedwho.com/dating/dan-bilzerian",
+            "relationship_type": 1,
+            "start_date": "",
+            "end_date": "",
+            "length": "-",
+            "start_months_since_1900": -1,
+            "end_months_since_1900": -1,
+            "length_in_months": -1
+        }
+    ],
+    "details": {
+        "First Name": "Nina",
+        "Middle Name": "NA",
+        "Last Name": "Agdal",
+        "Maiden Name": "NA",
+        "Full Name at Birth": "Nina Agdal",
+        "Alternative Name": "Nina Agdal",
+        "Birthday": "1992",
+        "Birthplace": "Denmark",
+        "Height": "175",
+        "Weight": "121lbs (55 kg)",
+        "Zodiac Sign": "7",
+        "Sexuality": "Straight",
+        "Religion": "1",
+        "Ethnicity": "6",
+        "Nationality": "50",
+        "Occupation": "15"
+    }
+}

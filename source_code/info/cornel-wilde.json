@@ -1,0 +1,55 @@
+{
+    "relationships": [
+        {
+            "name": "Jean Wallace",
+            "href": "https://www.whosdatedwho.com/dating/jean-wallace",
+            "relationship_type": 4,
+            "start_date": "May 1951",
+            "end_date": "10th Dec 1982",
+            "length": "31 years",
+            "start_months_since_1900": 616,
+            "end_months_since_1900": 995,
+            "length_in_months": 372
+        },
+        {
+            "name": "Nancy Valentine",
+            "href": "https://www.whosdatedwho.com/dating/nancy-valentine",
+            "relationship_type": 3,
+            "start_date": "Oct 1947",
+            "end_date": "Nov 1947",
+            "length": "1 month",
+            "start_months_since_1900": 573,
+            "end_months_since_1900": 574,
+            "length_in_months": 1
+        },
+        {
+            "name": "Patricia Knight",
+            "href": "https://www.whosdatedwho.com/dating/patricia-knight",
+            "relationship_type": 4,
+            "start_date": "Nov 1936",
+            "end_date": "30th Aug 1951",
+            "length": "14 years",
+            "start_months_since_1900": 442,
+            "end_months_since_1900": 619,
+            "length_in_months": 168
+        }
+    ],
+    "details": {
+        "First Name": "Cornelius",
+        "Middle Name": "Louis",
+        "Last Name": "Wilde",
+        "Maiden Name": "NA",
+        "Full Name at Birth": "Kornel Lajos Weisz",
+        "Alternative Name": "Clark Wales, Cornel Wilde, Cornelius Louis Wilde, Kornel Lajos Weisz, Jefferson Pascal",
+        "Birthday": "1915",
+        "Birthplace": "Hungary (now part of Slovakia)",
+        "Height": "185",
+        "Weight": "NA",
+        "Zodiac Sign": "10",
+        "Sexuality": "Straight",
+        "Religion": "31",
+        "Ethnicity": "6",
+        "Nationality": "31",
+        "Occupation": "8"
+    }
+}

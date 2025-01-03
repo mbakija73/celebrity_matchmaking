@@ -1,0 +1,33 @@
+{
+    "relationships": [
+        {
+            "name": "John Cena",
+            "href": "https://www.whosdatedwho.com/dating/john-cena",
+            "relationship_type": 4,
+            "start_date": "2002",
+            "end_date": "18th Jul 2012",
+            "length": "10 years",
+            "start_months_since_1900": 1224,
+            "end_months_since_1900": 1350,
+            "length_in_months": 120
+        }
+    ],
+    "details": {
+        "First Name": "Elizabeth",
+        "Middle Name": "NA",
+        "Last Name": "Huberdeau",
+        "Maiden Name": "NA",
+        "Full Name at Birth": "NA",
+        "Alternative Name": "Liz",
+        "Birthday": "1979",
+        "Birthplace": "Massachusetts",
+        "Height": "NA",
+        "Weight": "NA",
+        "Zodiac Sign": "6",
+        "Sexuality": "NA",
+        "Religion": "1",
+        "Ethnicity": "1",
+        "Nationality": "91",
+        "Occupation": "19"
+    }
+}

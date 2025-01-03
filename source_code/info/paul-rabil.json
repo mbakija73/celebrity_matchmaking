@@ -1,0 +1,55 @@
+{
+    "relationships": [
+        {
+            "name": "Vanessa Kirby",
+            "href": "https://www.whosdatedwho.com/dating/vanessa-kirby",
+            "relationship_type": 2,
+            "start_date": "Sep 2022",
+            "end_date": "present",
+            "length": "2 years",
+            "start_months_since_1900": 1472,
+            "end_months_since_1900": -1,
+            "length_in_months": 24
+        },
+        {
+            "name": "Eiza Gonz\u00e1lez",
+            "href": "https://www.whosdatedwho.com/dating/eiza-gonzalez",
+            "relationship_type": 2,
+            "start_date": "Jun 2021",
+            "end_date": "Nov 2021",
+            "length": "5 months",
+            "start_months_since_1900": 1457,
+            "end_months_since_1900": 1462,
+            "length_in_months": 5
+        },
+        {
+            "name": "Kelly Berger",
+            "href": "https://www.whosdatedwho.com/dating/kelly-berger",
+            "relationship_type": 4,
+            "start_date": "2014",
+            "end_date": "2017",
+            "length": "3 years",
+            "start_months_since_1900": 1368,
+            "end_months_since_1900": 1404,
+            "length_in_months": 36
+        }
+    ],
+    "details": {
+        "First Name": "Paul",
+        "Middle Name": "NA",
+        "Last Name": "Rabil",
+        "Maiden Name": "NA",
+        "Full Name at Birth": "NA",
+        "Alternative Name": "NA",
+        "Birthday": "1985",
+        "Birthplace": "Maryland",
+        "Height": "191",
+        "Weight": "NA",
+        "Zodiac Sign": "6",
+        "Sexuality": "NA",
+        "Religion": "1",
+        "Ethnicity": "6",
+        "Nationality": "91",
+        "Occupation": "19"
+    }
+}

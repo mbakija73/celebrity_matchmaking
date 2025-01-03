@@ -1,0 +1,66 @@
+{
+    "relationships": [
+        {
+            "name": "Sadie Stuart",
+            "href": "https://www.whosdatedwho.com/dating/sadie-stuart",
+            "relationship_type": 4,
+            "start_date": "Oct 2017",
+            "end_date": "present",
+            "length": "6 years",
+            "start_months_since_1900": 1413,
+            "end_months_since_1900": -1,
+            "length_in_months": 72
+        },
+        {
+            "name": "Chloe Sims",
+            "href": "https://www.whosdatedwho.com/dating/chloe-sims",
+            "relationship_type": 2,
+            "start_date": "May 2014",
+            "end_date": "Oct 2014",
+            "length": "5 months",
+            "start_months_since_1900": 1372,
+            "end_months_since_1900": 1377,
+            "length_in_months": 5
+        },
+        {
+            "name": "Maria Fowler",
+            "href": "https://www.whosdatedwho.com/dating/maria-fowler",
+            "relationship_type": 2,
+            "start_date": "Nov 2013",
+            "end_date": "",
+            "length": "-",
+            "start_months_since_1900": 1366,
+            "end_months_since_1900": -1,
+            "length_in_months": -1
+        },
+        {
+            "name": "Danielle Zarb-Cousin",
+            "href": "https://www.whosdatedwho.com/dating/danielle-zarb-cousin",
+            "relationship_type": 1,
+            "start_date": "",
+            "end_date": "",
+            "length": "-",
+            "start_months_since_1900": -1,
+            "end_months_since_1900": -1,
+            "length_in_months": -1
+        }
+    ],
+    "details": {
+        "First Name": "Elliott",
+        "Middle Name": "NA",
+        "Last Name": "Wright",
+        "Maiden Name": "NA",
+        "Full Name at Birth": "Elliott James Wright",
+        "Alternative Name": "Elliott Wright, Elliott James Wright",
+        "Birthday": "1980",
+        "Birthplace": "United Kingdom",
+        "Height": "NA",
+        "Weight": "NA",
+        "Zodiac Sign": "6",
+        "Sexuality": "Straight",
+        "Religion": "1",
+        "Ethnicity": "6",
+        "Nationality": "8",
+        "Occupation": "11"
+    }
+}

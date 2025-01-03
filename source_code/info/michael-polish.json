@@ -1,0 +1,44 @@
+{
+    "relationships": [
+        {
+            "name": "Kate Bosworth",
+            "href": "https://www.whosdatedwho.com/dating/kate-bosworth",
+            "relationship_type": 4,
+            "start_date": "Aug 2011",
+            "end_date": "2021",
+            "length": "9 years",
+            "start_months_since_1900": 1339,
+            "end_months_since_1900": 1452,
+            "length_in_months": 108
+        },
+        {
+            "name": "Jo Strettell",
+            "href": "https://www.whosdatedwho.com/dating/jo-strettell",
+            "relationship_type": 4,
+            "start_date": "1998",
+            "end_date": "2004",
+            "length": "6 years",
+            "start_months_since_1900": 1176,
+            "end_months_since_1900": 1248,
+            "length_in_months": 72
+        }
+    ],
+    "details": {
+        "First Name": "Michael",
+        "Middle Name": "NA",
+        "Last Name": "Polish",
+        "Maiden Name": "NA",
+        "Full Name at Birth": "Michael J. Polish",
+        "Alternative Name": "Polish brothers",
+        "Birthday": "1970",
+        "Birthplace": "CA",
+        "Height": "NA",
+        "Weight": "NA",
+        "Zodiac Sign": "5",
+        "Sexuality": "Straight",
+        "Religion": "1",
+        "Ethnicity": "6",
+        "Nationality": "91",
+        "Occupation": "9"
+    }
+}

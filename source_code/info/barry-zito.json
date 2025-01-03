@@ -1,0 +1,77 @@
+{
+    "relationships": [
+        {
+            "name": "Amber Seyer",
+            "href": "https://www.whosdatedwho.com/dating/amber-seyer",
+            "relationship_type": 4,
+            "start_date": "2009",
+            "end_date": "present",
+            "length": "15 years",
+            "start_months_since_1900": 1308,
+            "end_months_since_1900": -1,
+            "length_in_months": 180
+        },
+        {
+            "name": "Alyssa Milano",
+            "href": "https://www.whosdatedwho.com/dating/alyssa-milano",
+            "relationship_type": 2,
+            "start_date": "Sep 2004",
+            "end_date": "Jan 2005",
+            "length": "4 months",
+            "start_months_since_1900": 1256,
+            "end_months_since_1900": 1260,
+            "length_in_months": 4
+        },
+        {
+            "name": "Lauren German",
+            "href": "https://www.whosdatedwho.com/dating/lauren-german",
+            "relationship_type": 2,
+            "start_date": "",
+            "end_date": "",
+            "length": "-",
+            "start_months_since_1900": -1,
+            "end_months_since_1900": -1,
+            "length_in_months": -1
+        },
+        {
+            "name": "Susie Mora",
+            "href": "https://www.whosdatedwho.com/dating/susie-mora",
+            "relationship_type": 2,
+            "start_date": "",
+            "end_date": "",
+            "length": "-",
+            "start_months_since_1900": -1,
+            "end_months_since_1900": -1,
+            "length_in_months": -1
+        },
+        {
+            "name": "Ari Brugh",
+            "href": "https://www.whosdatedwho.com/dating/ari-brugh",
+            "relationship_type": 2,
+            "start_date": "",
+            "end_date": "",
+            "length": "-",
+            "start_months_since_1900": -1,
+            "end_months_since_1900": -1,
+            "length_in_months": -1
+        }
+    ],
+    "details": {
+        "First Name": "Barry",
+        "Middle Name": "NA",
+        "Last Name": "Zito",
+        "Maiden Name": "NA",
+        "Full Name at Birth": "Barry William Zito",
+        "Alternative Name": "NA",
+        "Birthday": "1978",
+        "Birthplace": "USA",
+        "Height": "193",
+        "Weight": "215lbs (98 kg)",
+        "Zodiac Sign": "3",
+        "Sexuality": "Straight",
+        "Religion": "13",
+        "Ethnicity": "6",
+        "Nationality": "91",
+        "Occupation": "2"
+    }
+}

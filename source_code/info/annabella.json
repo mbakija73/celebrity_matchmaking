@@ -1,0 +1,66 @@
+{
+    "relationships": [
+        {
+            "name": "Gary Cooper",
+            "href": "https://www.whosdatedwho.com/dating/gary-cooper",
+            "relationship_type": 2,
+            "start_date": "1951",
+            "end_date": "1951",
+            "length": "-",
+            "start_months_since_1900": 612,
+            "end_months_since_1900": 612,
+            "length_in_months": -1
+        },
+        {
+            "name": "Tyrone Power",
+            "href": "https://www.whosdatedwho.com/dating/tyrone-power",
+            "relationship_type": 4,
+            "start_date": "1939",
+            "end_date": "Jan 1949",
+            "length": "10 years",
+            "start_months_since_1900": 468,
+            "end_months_since_1900": 588,
+            "length_in_months": 120
+        },
+        {
+            "name": "Gene Markey",
+            "href": "https://www.whosdatedwho.com/dating/gene-markey",
+            "relationship_type": 2,
+            "start_date": "1937",
+            "end_date": "1937",
+            "length": "-",
+            "start_months_since_1900": 444,
+            "end_months_since_1900": 444,
+            "length_in_months": -1
+        },
+        {
+            "name": "Jean Murat",
+            "href": "https://www.whosdatedwho.com/dating/jean-murat",
+            "relationship_type": 4,
+            "start_date": "1931",
+            "end_date": "1938",
+            "length": "7 years",
+            "start_months_since_1900": 372,
+            "end_months_since_1900": 456,
+            "length_in_months": 84
+        }
+    ],
+    "details": {
+        "First Name": "Annabella",
+        "Middle Name": "NA",
+        "Last Name": "NA",
+        "Maiden Name": "Charpentier",
+        "Full Name at Birth": "Suzanne Georgette Charpentier",
+        "Alternative Name": "Suzanne Georgette Charpentier, Annabella",
+        "Birthday": "1907",
+        "Birthplace": "France",
+        "Height": "NA",
+        "Weight": "NA",
+        "Zodiac Sign": "8",
+        "Sexuality": "Straight",
+        "Religion": "1",
+        "Ethnicity": "6",
+        "Nationality": "86",
+        "Occupation": "8"
+    }
+}

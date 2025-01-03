@@ -1,0 +1,55 @@
+{
+    "relationships": [
+        {
+            "name": "Michel Drucker",
+            "href": "https://www.whosdatedwho.com/dating/michel-drucker",
+            "relationship_type": 4,
+            "start_date": "1971",
+            "end_date": "",
+            "length": "-",
+            "start_months_since_1900": 852,
+            "end_months_since_1900": -1,
+            "length_in_months": -1
+        },
+        {
+            "name": "Maurice Jarre",
+            "href": "https://www.whosdatedwho.com/dating/maurice-jarre",
+            "relationship_type": 4,
+            "start_date": "1964",
+            "end_date": "1967",
+            "length": "3 years",
+            "start_months_since_1900": 768,
+            "end_months_since_1900": 804,
+            "length_in_months": 36
+        },
+        {
+            "name": "Gardner McKay",
+            "href": "https://www.whosdatedwho.com/dating/gardner-mckay",
+            "relationship_type": 2,
+            "start_date": "",
+            "end_date": "",
+            "length": "-",
+            "start_months_since_1900": -1,
+            "end_months_since_1900": -1,
+            "length_in_months": -1
+        }
+    ],
+    "details": {
+        "First Name": "Danielle",
+        "Middle Name": "Nadine Suzanne",
+        "Last Name": "Dany Saval",
+        "Maiden Name": "Savalle",
+        "Full Name at Birth": "Danielle Nadine Suzanne Savalle",
+        "Alternative Name": "Danielle Nadine Suzanne Savalle, Dany Saval, Danielle Savalle",
+        "Birthday": "1942",
+        "Birthplace": "France",
+        "Height": "NA",
+        "Weight": "NA",
+        "Zodiac Sign": "13",
+        "Sexuality": "Straight",
+        "Religion": "1",
+        "Ethnicity": "6",
+        "Nationality": "86",
+        "Occupation": "8"
+    }
+}

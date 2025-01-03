@@ -1,0 +1,33 @@
+{
+    "relationships": [
+        {
+            "name": "Alice Walker",
+            "href": "https://www.whosdatedwho.com/dating/alice-walker",
+            "relationship_type": 4,
+            "start_date": "Mar 1967",
+            "end_date": "1976",
+            "length": "8 years",
+            "start_months_since_1900": 806,
+            "end_months_since_1900": 912,
+            "length_in_months": 96
+        }
+    ],
+    "details": {
+        "Birthday": "1943",
+        "First Name": "NA",
+        "Middle Name": "NA",
+        "Last Name": "NA",
+        "Maiden Name": "NA",
+        "Full Name at Birth": "NA",
+        "Alternative Name": "NA",
+        "Birthplace": "NA",
+        "Height": "NA",
+        "Weight": "NA",
+        "Zodiac Sign": "1",
+        "Sexuality": "NA",
+        "Religion": "1",
+        "Ethnicity": "1",
+        "Nationality": "65",
+        "Occupation": "17"
+    }
+}

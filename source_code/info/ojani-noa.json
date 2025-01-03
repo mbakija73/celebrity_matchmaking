@@ -1,0 +1,55 @@
+{
+    "relationships": [
+        {
+            "name": "Phoebe Price",
+            "href": "https://www.whosdatedwho.com/dating/phoebe-price",
+            "relationship_type": 2,
+            "start_date": "1st Aug 2013",
+            "end_date": "1st Aug 2013",
+            "length": "-",
+            "start_months_since_1900": 1363,
+            "end_months_since_1900": 1363,
+            "length_in_months": -1
+        },
+        {
+            "name": "Mayra Ver\u00f3nica",
+            "href": "https://www.whosdatedwho.com/dating/mayra-veronica",
+            "relationship_type": 2,
+            "start_date": "Feb 2012",
+            "end_date": "Oct 2012",
+            "length": "8 months",
+            "start_months_since_1900": 1345,
+            "end_months_since_1900": 1353,
+            "length_in_months": 8
+        },
+        {
+            "name": "Jennifer Lopez",
+            "href": "https://www.whosdatedwho.com/dating/jennifer-lopez",
+            "relationship_type": 4,
+            "start_date": "Mar 1995",
+            "end_date": "Mar 1998",
+            "length": "3 years",
+            "start_months_since_1900": 1142,
+            "end_months_since_1900": 1178,
+            "length_in_months": 36
+        }
+    ],
+    "details": {
+        "First Name": "Ojani",
+        "Middle Name": "NA",
+        "Last Name": "Noa",
+        "Maiden Name": "NA",
+        "Full Name at Birth": "Ojan Noa",
+        "Alternative Name": "NA",
+        "Birthday": "1974",
+        "Birthplace": "Cuba",
+        "Height": "NA",
+        "Weight": "NA",
+        "Zodiac Sign": "4",
+        "Sexuality": "Straight",
+        "Religion": "1",
+        "Ethnicity": "8",
+        "Nationality": "91",
+        "Occupation": "8"
+    }
+}

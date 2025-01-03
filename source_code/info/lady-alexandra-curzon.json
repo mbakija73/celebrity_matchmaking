@@ -1,0 +1,77 @@
+{
+    "relationships": [
+        {
+            "name": "Oswald Mosley",
+            "href": "https://www.whosdatedwho.com/dating/sir-oswald-mosley",
+            "relationship_type": 2,
+            "start_date": "May 1933",
+            "end_date": "1938",
+            "length": "4 years",
+            "start_months_since_1900": 400,
+            "end_months_since_1900": 456,
+            "length_in_months": 48
+        },
+        {
+            "name": "E. F. L. Wood, 1st Earl of Halifax",
+            "href": "https://www.whosdatedwho.com/dating/e-f-l-wood-1st-earl-of-halifax",
+            "relationship_type": 2,
+            "start_date": "1932",
+            "end_date": "1939",
+            "length": "7 years",
+            "start_months_since_1900": 384,
+            "end_months_since_1900": 468,
+            "length_in_months": 84
+        },
+        {
+            "name": "Dino Grandi",
+            "href": "https://www.whosdatedwho.com/dating/dino-grandi",
+            "relationship_type": 2,
+            "start_date": "1932",
+            "end_date": "1939",
+            "length": "7 years",
+            "start_months_since_1900": 384,
+            "end_months_since_1900": 468,
+            "length_in_months": 84
+        },
+        {
+            "name": "Fruity Metcalfe",
+            "href": "https://www.whosdatedwho.com/dating/fruity-metcalfe",
+            "relationship_type": 4,
+            "start_date": "21st Jul 1925",
+            "end_date": "1955",
+            "length": "29 years",
+            "start_months_since_1900": 306,
+            "end_months_since_1900": 660,
+            "length_in_months": 348
+        },
+        {
+            "name": "Duke of Kent",
+            "href": "https://www.whosdatedwho.com/dating/prince-george-duke-of-kent",
+            "relationship_type": 2,
+            "start_date": "1922",
+            "end_date": "1922",
+            "length": "-",
+            "start_months_since_1900": 264,
+            "end_months_since_1900": 264,
+            "length_in_months": -1
+        }
+    ],
+    "details": {
+        "First Name": "Alexandra",
+        "Middle Name": "Naldera",
+        "Last Name": "Metcalfe",
+        "Maiden Name": "Curzon",
+        "Full Name at Birth": "Alexandra Naldera Curzon",
+        "Alternative Name": "Lady Alexandra Naldera Metcalfe, Alexandra Naldera Curzon, Baba Sahib, Baba Metcalfe, Baba Blackshirt, Alexandra Metcalfe",
+        "Birthday": "1904",
+        "Birthplace": "NA",
+        "Height": "NA",
+        "Weight": "NA",
+        "Zodiac Sign": "7",
+        "Sexuality": "Straight",
+        "Religion": "1",
+        "Ethnicity": "6",
+        "Nationality": "8",
+        "Occupation": "11"
+    }
+}

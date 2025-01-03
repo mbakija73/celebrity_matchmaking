@@ -1,0 +1,88 @@
+{
+    "relationships": [
+        {
+            "name": "Edie Campbell",
+            "href": "https://www.whosdatedwho.com/dating/edie-campbell",
+            "relationship_type": 2,
+            "start_date": "2009",
+            "end_date": "2011",
+            "length": "2 years",
+            "start_months_since_1900": 1308,
+            "end_months_since_1900": 1332,
+            "length_in_months": 24
+        },
+        {
+            "name": "Natalie Imbruglia",
+            "href": "https://www.whosdatedwho.com/dating/natalie-imbruglia",
+            "relationship_type": 3,
+            "start_date": "14th Feb 2008",
+            "end_date": "Mar 2008",
+            "length": "< 1 month",
+            "start_months_since_1900": 1297,
+            "end_months_since_1900": 1298,
+            "length_in_months": 0
+        },
+        {
+            "name": "Fabiola Gatti",
+            "href": "https://www.whosdatedwho.com/dating/fabiola-gatti",
+            "relationship_type": 2,
+            "start_date": "Dec 2007",
+            "end_date": "2008",
+            "length": "1 month",
+            "start_months_since_1900": 1295,
+            "end_months_since_1900": 1296,
+            "length_in_months": 1
+        },
+        {
+            "name": "Kirsten Dunst",
+            "href": "https://www.whosdatedwho.com/dating/kirsten-dunst",
+            "relationship_type": 2,
+            "start_date": "Mar 2007",
+            "end_date": "Nov 2007",
+            "length": "8 months",
+            "start_months_since_1900": 1286,
+            "end_months_since_1900": 1294,
+            "length_in_months": 8
+        },
+        {
+            "name": "Camilla Al Fayed",
+            "href": "https://www.whosdatedwho.com/dating/camilla-al-fayed",
+            "relationship_type": 2,
+            "start_date": "2007",
+            "end_date": "2007",
+            "length": "-",
+            "start_months_since_1900": 1284,
+            "end_months_since_1900": 1284,
+            "length_in_months": -1
+        },
+        {
+            "name": "Mairead Nash",
+            "href": "https://www.whosdatedwho.com/dating/mairead-nash",
+            "relationship_type": 1,
+            "start_date": "",
+            "end_date": "",
+            "length": "-",
+            "start_months_since_1900": -1,
+            "end_months_since_1900": -1,
+            "length_in_months": -1
+        }
+    ],
+    "details": {
+        "First Name": "Johnny",
+        "Middle Name": "Edward",
+        "Last Name": "Borrell",
+        "Maiden Name": "NA",
+        "Full Name at Birth": "Jonny Edward Borrell",
+        "Alternative Name": "Jonny Borrrell",
+        "Birthday": "1980",
+        "Birthplace": "UK",
+        "Height": "173",
+        "Weight": "NA",
+        "Zodiac Sign": "7",
+        "Sexuality": "Straight",
+        "Religion": "1",
+        "Ethnicity": "6",
+        "Nationality": "8",
+        "Occupation": "1"
+    }
+}

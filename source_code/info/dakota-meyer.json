@@ -1,0 +1,44 @@
+{
+    "relationships": [
+        {
+            "name": "Bristol Palin",
+            "href": "https://www.whosdatedwho.com/dating/bristol-palin",
+            "relationship_type": 4,
+            "start_date": "2015",
+            "end_date": "29th Jan 2018",
+            "length": "3 years",
+            "start_months_since_1900": 1380,
+            "end_months_since_1900": 1416,
+            "length_in_months": 36
+        },
+        {
+            "name": "Cassandra Wain",
+            "href": "https://www.whosdatedwho.com/dating/cassandra-wain",
+            "relationship_type": 4,
+            "start_date": "2007",
+            "end_date": "2008",
+            "length": "1 year",
+            "start_months_since_1900": 1284,
+            "end_months_since_1900": 1296,
+            "length_in_months": 12
+        }
+    ],
+    "details": {
+        "First Name": "Dakota",
+        "Middle Name": "Louis",
+        "Last Name": "Meyer",
+        "Maiden Name": "NA",
+        "Full Name at Birth": "Dakota Louis Meyer",
+        "Alternative Name": "NA",
+        "Birthday": "1988",
+        "Birthplace": "U.S.",
+        "Height": "NA",
+        "Weight": "NA",
+        "Zodiac Sign": "8",
+        "Sexuality": "Straight",
+        "Religion": "1",
+        "Ethnicity": "6",
+        "Nationality": "91",
+        "Occupation": "10"
+    }
+}

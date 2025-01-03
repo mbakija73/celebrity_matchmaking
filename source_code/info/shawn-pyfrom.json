@@ -1,0 +1,44 @@
+{
+    "relationships": [
+        {
+            "name": "Lauren Conrad",
+            "href": "https://www.whosdatedwho.com/dating/lauren-conrad",
+            "relationship_type": 2,
+            "start_date": "Jun 2007",
+            "end_date": "Nov 2007",
+            "length": "5 months",
+            "start_months_since_1900": 1289,
+            "end_months_since_1900": 1294,
+            "length_in_months": 5
+        },
+        {
+            "name": "Elyanna Reyes",
+            "href": "https://www.whosdatedwho.com/dating/elyanna-reyes",
+            "relationship_type": 2,
+            "start_date": "2005",
+            "end_date": "2007",
+            "length": "2 years",
+            "start_months_since_1900": 1260,
+            "end_months_since_1900": 1284,
+            "length_in_months": 24
+        }
+    ],
+    "details": {
+        "First Name": "Shawn",
+        "Middle Name": "NA",
+        "Last Name": "Pyfrom",
+        "Maiden Name": "NA",
+        "Full Name at Birth": "Shawn Caminiti Pyfrom",
+        "Alternative Name": "NA",
+        "Birthday": "1986",
+        "Birthplace": "USA",
+        "Height": "169",
+        "Weight": "NA",
+        "Zodiac Sign": "12",
+        "Sexuality": "Straight",
+        "Religion": "1",
+        "Ethnicity": "6",
+        "Nationality": "91",
+        "Occupation": "8"
+    }
+}

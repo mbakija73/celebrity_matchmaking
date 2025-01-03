@@ -1,0 +1,66 @@
+{
+    "relationships": [
+        {
+            "name": "Jodie Marsh",
+            "href": "https://www.whosdatedwho.com/dating/jodie-marsh",
+            "relationship_type": 3,
+            "start_date": "Apr 2003",
+            "end_date": "Apr 2003",
+            "length": "-",
+            "start_months_since_1900": 1239,
+            "end_months_since_1900": 1239,
+            "length_in_months": -1
+        },
+        {
+            "name": "Jodi Albert",
+            "href": "https://www.whosdatedwho.com/dating/jodi-albert",
+            "relationship_type": 4,
+            "start_date": "Feb 2003",
+            "end_date": "present",
+            "length": "21 years",
+            "start_months_since_1900": 1237,
+            "end_months_since_1900": -1,
+            "length_in_months": 252
+        },
+        {
+            "name": "Liz McClarnon",
+            "href": "https://www.whosdatedwho.com/dating/liz-mcclarnon",
+            "relationship_type": 2,
+            "start_date": "2003",
+            "end_date": "2003",
+            "length": "-",
+            "start_months_since_1900": 1236,
+            "end_months_since_1900": 1236,
+            "length_in_months": -1
+        },
+        {
+            "name": "Jessica Forsman",
+            "href": "https://www.whosdatedwho.com/dating/jessica-forsman",
+            "relationship_type": 2,
+            "start_date": "2002",
+            "end_date": "Oct 2002",
+            "length": "9 months",
+            "start_months_since_1900": 1224,
+            "end_months_since_1900": 1233,
+            "length_in_months": 9
+        }
+    ],
+    "details": {
+        "First Name": "Kian",
+        "Middle Name": "John Francis",
+        "Last Name": "Egan",
+        "Maiden Name": "NA",
+        "Full Name at Birth": "Kian John Francis Egan",
+        "Alternative Name": "NA",
+        "Birthday": "1980",
+        "Birthplace": "Ireland",
+        "Height": "175",
+        "Weight": "NA",
+        "Zodiac Sign": "3",
+        "Sexuality": "Straight",
+        "Religion": "13",
+        "Ethnicity": "6",
+        "Nationality": "117",
+        "Occupation": "1"
+    }
+}

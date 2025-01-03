@@ -1,0 +1,44 @@
+{
+    "relationships": [
+        {
+            "name": "Jon Cor",
+            "href": "https://www.whosdatedwho.com/dating/jon-cor",
+            "relationship_type": 2,
+            "start_date": "Dec 2012",
+            "end_date": "2013",
+            "length": "1 month",
+            "start_months_since_1900": 1355,
+            "end_months_since_1900": 1356,
+            "length_in_months": 1
+        },
+        {
+            "name": "Jesse Lee Soffer",
+            "href": "https://www.whosdatedwho.com/dating/jesse-lee-soffer",
+            "relationship_type": 2,
+            "start_date": "",
+            "end_date": "present",
+            "length": "-",
+            "start_months_since_1900": -1,
+            "end_months_since_1900": -1,
+            "length_in_months": -1
+        }
+    ],
+    "details": {
+        "First Name": "Tracy",
+        "Middle Name": "NA",
+        "Last Name": "Spiridakos",
+        "Maiden Name": "NA",
+        "Full Name at Birth": "Tracy Spiridakos",
+        "Alternative Name": "Tracy Spiridakos",
+        "Birthday": "1988",
+        "Birthplace": "Canada",
+        "Height": "168",
+        "Weight": "123lbs (56 kg)",
+        "Zodiac Sign": "1",
+        "Sexuality": "Straight",
+        "Religion": "34",
+        "Ethnicity": "6",
+        "Nationality": "90",
+        "Occupation": "8"
+    }
+}

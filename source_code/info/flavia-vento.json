@@ -1,0 +1,77 @@
+{
+    "relationships": [
+        {
+            "name": "Mimmo Calopresti",
+            "href": "https://www.whosdatedwho.com/dating/mimmo-calopresti",
+            "relationship_type": 2,
+            "start_date": "Jun 2006",
+            "end_date": "Feb 2007",
+            "length": "8 months",
+            "start_months_since_1900": 1277,
+            "end_months_since_1900": 1285,
+            "length_in_months": 8
+        },
+        {
+            "name": "Francesco Totti",
+            "href": "https://www.whosdatedwho.com/dating/francesco-totti",
+            "relationship_type": 3,
+            "start_date": "2005",
+            "end_date": "2005",
+            "length": "-",
+            "start_months_since_1900": 1260,
+            "end_months_since_1900": 1260,
+            "length_in_months": -1
+        },
+        {
+            "name": "Matteo Cambi",
+            "href": "https://www.whosdatedwho.com/dating/matteo-cambi",
+            "relationship_type": 2,
+            "start_date": "2004",
+            "end_date": "2005",
+            "length": "1 year",
+            "start_months_since_1900": 1248,
+            "end_months_since_1900": 1260,
+            "length_in_months": 12
+        },
+        {
+            "name": "Fabrizio Bentivoglio",
+            "href": "https://www.whosdatedwho.com/dating/fabrizio-bentivoglio",
+            "relationship_type": 2,
+            "start_date": "2003",
+            "end_date": "2004",
+            "length": "1 year",
+            "start_months_since_1900": 1236,
+            "end_months_since_1900": 1248,
+            "length_in_months": 12
+        },
+        {
+            "name": "Alberto Tomba",
+            "href": "https://www.whosdatedwho.com/dating/alberto-tomba",
+            "relationship_type": 3,
+            "start_date": "2000",
+            "end_date": "2000",
+            "length": "-",
+            "start_months_since_1900": 1200,
+            "end_months_since_1900": 1200,
+            "length_in_months": -1
+        }
+    ],
+    "details": {
+        "First Name": "Flavia",
+        "Middle Name": "NA",
+        "Last Name": "Vento",
+        "Maiden Name": "NA",
+        "Full Name at Birth": "Flavia Vento",
+        "Alternative Name": "NA",
+        "Birthday": "1977",
+        "Birthplace": "Italy",
+        "Height": "NA",
+        "Weight": "NA",
+        "Zodiac Sign": "7",
+        "Sexuality": "NA",
+        "Religion": "2",
+        "Ethnicity": "6",
+        "Nationality": "139",
+        "Occupation": "15"
+    }
+}

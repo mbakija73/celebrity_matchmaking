@@ -1,0 +1,55 @@
+{
+    "relationships": [
+        {
+            "name": "Brett Lee",
+            "href": "https://www.whosdatedwho.com/dating/brett-lee",
+            "relationship_type": 3,
+            "start_date": "2002",
+            "end_date": "2003",
+            "length": "1 year",
+            "start_months_since_1900": 1224,
+            "end_months_since_1900": 1236,
+            "length_in_months": 12
+        },
+        {
+            "name": "James Packer",
+            "href": "https://www.whosdatedwho.com/dating/james-packer",
+            "relationship_type": 2,
+            "start_date": "1996",
+            "end_date": "1998",
+            "length": "2 years",
+            "start_months_since_1900": 1152,
+            "end_months_since_1900": 1176,
+            "length_in_months": 24
+        },
+        {
+            "name": "Ben Mendelsohn",
+            "href": "https://www.whosdatedwho.com/dating/ben-mendelsohn",
+            "relationship_type": 2,
+            "start_date": "1993",
+            "end_date": "1993",
+            "length": "-",
+            "start_months_since_1900": 1116,
+            "end_months_since_1900": 1116,
+            "length_in_months": -1
+        }
+    ],
+    "details": {
+        "First Name": "Tziporah",
+        "Middle Name": "NA",
+        "Last Name": "Malkah bat Israel",
+        "Maiden Name": "Fischer",
+        "Full Name at Birth": "Katherine Helen Fischer",
+        "Alternative Name": "Katie Fischer, Tziporah Malkah bat Israel, Kate Zipporah, Tziporah Atarah Malkah, Tziporah Malkah, T'ziporah Atarah Malkah, T'ziporah Malkah, T'ziporah Malkah bat Israel, Kate, Kate Fischer, Katherine Helen Fischer",
+        "Birthday": "1973",
+        "Birthplace": "Australia",
+        "Height": "178",
+        "Weight": "143lbs (65 kg)",
+        "Zodiac Sign": "6",
+        "Sexuality": "Straight",
+        "Religion": "31",
+        "Ethnicity": "6",
+        "Nationality": "135",
+        "Occupation": "8"
+    }
+}

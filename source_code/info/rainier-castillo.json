@@ -1,0 +1,55 @@
+{
+    "relationships": [
+        {
+            "name": "Stef Prescott",
+            "href": "https://www.whosdatedwho.com/dating/stef-prescott",
+            "relationship_type": 3,
+            "start_date": "2008",
+            "end_date": "2009",
+            "length": "1 year",
+            "start_months_since_1900": 1296,
+            "end_months_since_1900": 1308,
+            "length_in_months": 12
+        },
+        {
+            "name": "Yasmien Kurdi",
+            "href": "https://www.whosdatedwho.com/dating/yasmien-kurdi",
+            "relationship_type": 3,
+            "start_date": "2004",
+            "end_date": "2005",
+            "length": "1 year",
+            "start_months_since_1900": 1248,
+            "end_months_since_1900": 1260,
+            "length_in_months": 12
+        },
+        {
+            "name": "Sheena Halili",
+            "href": "https://www.whosdatedwho.com/dating/sheena-halili",
+            "relationship_type": 2,
+            "start_date": "2003",
+            "end_date": "2003",
+            "length": "-",
+            "start_months_since_1900": 1236,
+            "end_months_since_1900": 1236,
+            "length_in_months": -1
+        }
+    ],
+    "details": {
+        "First Name": "Rainier",
+        "Middle Name": "NA",
+        "Last Name": "Castillo",
+        "Maiden Name": "NA",
+        "Full Name at Birth": "Rainier Joseph Diaz Castillo",
+        "Alternative Name": "Buboy, RJ, Rain",
+        "Birthday": "1985",
+        "Birthplace": "Philippines",
+        "Height": "NA",
+        "Weight": "NA",
+        "Zodiac Sign": "10",
+        "Sexuality": "Straight",
+        "Religion": "13",
+        "Ethnicity": "3",
+        "Nationality": "16",
+        "Occupation": "8"
+    }
+}

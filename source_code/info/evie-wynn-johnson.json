@@ -1,0 +1,66 @@
+{
+    "relationships": [
+        {
+            "name": "Van Johnson",
+            "href": "https://www.whosdatedwho.com/dating/van-johnson",
+            "relationship_type": 4,
+            "start_date": "1946",
+            "end_date": "May 1968",
+            "length": "22 years",
+            "start_months_since_1900": 552,
+            "end_months_since_1900": 820,
+            "length_in_months": 264
+        },
+        {
+            "name": "Keenan Wynn",
+            "href": "https://www.whosdatedwho.com/dating/keenan-wynn",
+            "relationship_type": 4,
+            "start_date": "Sep 1937",
+            "end_date": "25th Jan 1947",
+            "length": "9 years",
+            "start_months_since_1900": 452,
+            "end_months_since_1900": 564,
+            "length_in_months": 108
+        },
+        {
+            "name": "Tyrone Power",
+            "href": "https://www.whosdatedwho.com/dating/tyrone-power",
+            "relationship_type": 2,
+            "start_date": "",
+            "end_date": "",
+            "length": "-",
+            "start_months_since_1900": -1,
+            "end_months_since_1900": -1,
+            "length_in_months": -1
+        },
+        {
+            "name": "Peter Lawford",
+            "href": "https://www.whosdatedwho.com/dating/peter-lawford",
+            "relationship_type": 3,
+            "start_date": "",
+            "end_date": "",
+            "length": "-",
+            "start_months_since_1900": -1,
+            "end_months_since_1900": -1,
+            "length_in_months": -1
+        }
+    ],
+    "details": {
+        "First Name": "Eve",
+        "Middle Name": "NA",
+        "Last Name": "NA",
+        "Maiden Name": "Abbott",
+        "Full Name at Birth": "Eve Lynn Abbott",
+        "Alternative Name": "Evie Wynn Johnson",
+        "Birthday": "1914",
+        "Birthplace": "New York",
+        "Height": "NA",
+        "Weight": "NA",
+        "Zodiac Sign": "3",
+        "Sexuality": "Straight",
+        "Religion": "1",
+        "Ethnicity": "6",
+        "Nationality": "91",
+        "Occupation": "8"
+    }
+}

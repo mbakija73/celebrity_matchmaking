@@ -1,0 +1,33 @@
+{
+    "relationships": [
+        {
+            "name": "Trey Parker",
+            "href": "https://www.whosdatedwho.com/dating/trey-parker",
+            "relationship_type": 2,
+            "start_date": "2008",
+            "end_date": "present",
+            "length": "16 years",
+            "start_months_since_1900": 1296,
+            "end_months_since_1900": -1,
+            "length_in_months": 192
+        }
+    ],
+    "details": {
+        "First Name": "Boogie",
+        "Middle Name": "NA",
+        "Last Name": "Parker",
+        "Maiden Name": "Tillmon",
+        "Full Name at Birth": "Boogie Tillmon",
+        "Alternative Name": "Boogie Parker, Boogie Tillmon",
+        "Birthday": "NA",
+        "Birthplace": "NA",
+        "Height": "NA",
+        "Weight": "NA",
+        "Zodiac Sign": "2",
+        "Sexuality": "NA",
+        "Religion": "1",
+        "Ethnicity": "1",
+        "Nationality": "65",
+        "Occupation": "18"
+    }
+}

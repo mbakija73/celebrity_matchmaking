@@ -1,0 +1,44 @@
+{
+    "relationships": [
+        {
+            "name": "Carol Reed",
+            "href": "https://www.whosdatedwho.com/dating/carol-reed",
+            "relationship_type": 4,
+            "start_date": "1947",
+            "end_date": "25th Apr 1976",
+            "length": "29 years",
+            "start_months_since_1900": 564,
+            "end_months_since_1900": 915,
+            "length_in_months": 348
+        },
+        {
+            "name": "Anthony Pelissier",
+            "href": "https://www.whosdatedwho.com/dating/anthony-pelissier",
+            "relationship_type": 4,
+            "start_date": "1938",
+            "end_date": "1944",
+            "length": "6 years",
+            "start_months_since_1900": 456,
+            "end_months_since_1900": 528,
+            "length_in_months": 72
+        }
+    ],
+    "details": {
+        "First Name": "Penelope",
+        "Middle Name": "Ann Rachel",
+        "Last Name": "Dudley-Ward",
+        "Maiden Name": "NA",
+        "Full Name at Birth": "Penelope Ann Rachel Dudley Ward",
+        "Alternative Name": "Lady Reed",
+        "Birthday": "1914",
+        "Birthplace": "UK",
+        "Height": "NA",
+        "Weight": "NA",
+        "Zodiac Sign": "12",
+        "Sexuality": "Straight",
+        "Religion": "1",
+        "Ethnicity": "6",
+        "Nationality": "98",
+        "Occupation": "8"
+    }
+}

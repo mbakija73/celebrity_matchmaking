@@ -1,0 +1,44 @@
+{
+    "relationships": [
+        {
+            "name": "Lisa Rinna",
+            "href": "https://www.whosdatedwho.com/dating/lisa-rinna",
+            "relationship_type": 2,
+            "start_date": "May 1989",
+            "end_date": "Feb 1992",
+            "length": "2 years",
+            "start_months_since_1900": 1072,
+            "end_months_since_1900": 1105,
+            "length_in_months": 24
+        },
+        {
+            "name": "Kimberly Beck",
+            "href": "https://www.whosdatedwho.com/dating/kimberly-beck",
+            "relationship_type": 2,
+            "start_date": "1987",
+            "end_date": "1988",
+            "length": "1 year",
+            "start_months_since_1900": 1044,
+            "end_months_since_1900": 1056,
+            "length_in_months": 12
+        }
+    ],
+    "details": {
+        "First Name": "Peter",
+        "Middle Name": "Thomas",
+        "Last Name": "Barton",
+        "Maiden Name": "NA",
+        "Full Name at Birth": "Peter Thomas Barton",
+        "Alternative Name": "NA",
+        "Birthday": "1956",
+        "Birthplace": "New York",
+        "Height": "175",
+        "Weight": "NA",
+        "Zodiac Sign": "8",
+        "Sexuality": "Straight",
+        "Religion": "1",
+        "Ethnicity": "6",
+        "Nationality": "91",
+        "Occupation": "8"
+    }
+}

@@ -1,0 +1,66 @@
+{
+    "relationships": [
+        {
+            "name": "Laurence Harvey",
+            "href": "https://www.whosdatedwho.com/dating/laurence-harvey",
+            "relationship_type": 4,
+            "start_date": "1968",
+            "end_date": "1972",
+            "length": "4 years",
+            "start_months_since_1900": 816,
+            "end_months_since_1900": 864,
+            "length_in_months": 48
+        },
+        {
+            "name": "Harry Karl",
+            "href": "https://www.whosdatedwho.com/dating/harry-karl",
+            "relationship_type": 4,
+            "start_date": "1958",
+            "end_date": "Nov 1959",
+            "length": "1 year",
+            "start_months_since_1900": 696,
+            "end_months_since_1900": 718,
+            "length_in_months": 12
+        },
+        {
+            "name": "Tab Hunter",
+            "href": "https://www.whosdatedwho.com/dating/tab-hunter",
+            "relationship_type": 1,
+            "start_date": "Sep 1956",
+            "end_date": "May 1957",
+            "length": "8 months",
+            "start_months_since_1900": 680,
+            "end_months_since_1900": 688,
+            "length_in_months": 8
+        },
+        {
+            "name": "Harry Cohn",
+            "href": "https://www.whosdatedwho.com/dating/harry-cohn",
+            "relationship_type": 4,
+            "start_date": "1940",
+            "end_date": "Feb 1958",
+            "length": "18 years",
+            "start_months_since_1900": 480,
+            "end_months_since_1900": 697,
+            "length_in_months": 216
+        }
+    ],
+    "details": {
+        "First Name": "Joan",
+        "Middle Name": "Rosiland",
+        "Last Name": "Perry",
+        "Maiden Name": "Miller",
+        "Full Name at Birth": "Elizabeth Rosiland Miller",
+        "Alternative Name": "NA",
+        "Birthday": "1911",
+        "Birthplace": "Florida",
+        "Height": "NA",
+        "Weight": "NA",
+        "Zodiac Sign": "8",
+        "Sexuality": "Straight",
+        "Religion": "1",
+        "Ethnicity": "6",
+        "Nationality": "91",
+        "Occupation": "8"
+    }
+}

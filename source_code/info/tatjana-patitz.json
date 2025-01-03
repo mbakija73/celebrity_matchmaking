@@ -1,0 +1,77 @@
+{
+    "relationships": [
+        {
+            "name": "Jason Randall Johnson",
+            "href": "https://www.whosdatedwho.com/dating/jason-randall-johnson",
+            "relationship_type": 4,
+            "start_date": "2003",
+            "end_date": "2009",
+            "length": "6 years",
+            "start_months_since_1900": 1236,
+            "end_months_since_1900": 1308,
+            "length_in_months": 72
+        },
+        {
+            "name": "Seal",
+            "href": "https://www.whosdatedwho.com/dating/seal",
+            "relationship_type": 2,
+            "start_date": "1997",
+            "end_date": "2003",
+            "length": "6 years",
+            "start_months_since_1900": 1164,
+            "end_months_since_1900": 1236,
+            "length_in_months": 72
+        },
+        {
+            "name": "Johnny Depp",
+            "href": "https://www.whosdatedwho.com/dating/johnny-depp",
+            "relationship_type": 3,
+            "start_date": "1994",
+            "end_date": "1994",
+            "length": "-",
+            "start_months_since_1900": 1128,
+            "end_months_since_1900": 1128,
+            "length_in_months": -1
+        },
+        {
+            "name": "Pierce Brosnan",
+            "href": "https://www.whosdatedwho.com/dating/pierce-brosnan",
+            "relationship_type": 2,
+            "start_date": "1993",
+            "end_date": "1993",
+            "length": "-",
+            "start_months_since_1900": 1116,
+            "end_months_since_1900": 1116,
+            "length_in_months": -1
+        },
+        {
+            "name": "Nick Kamen",
+            "href": "https://www.whosdatedwho.com/dating/nick-kamen",
+            "relationship_type": 2,
+            "start_date": "1988",
+            "end_date": "1988",
+            "length": "-",
+            "start_months_since_1900": 1056,
+            "end_months_since_1900": 1056,
+            "length_in_months": -1
+        }
+    ],
+    "details": {
+        "First Name": "Tatjana",
+        "Middle Name": "NA",
+        "Last Name": "Patitz",
+        "Maiden Name": "NA",
+        "Full Name at Birth": "Tatjana Patitz",
+        "Alternative Name": "Tat",
+        "Birthday": "1966",
+        "Birthplace": "West Germany",
+        "Height": "180",
+        "Weight": "124lbs (56 kg)",
+        "Zodiac Sign": "7",
+        "Sexuality": "Straight",
+        "Religion": "1",
+        "Ethnicity": "6",
+        "Nationality": "55",
+        "Occupation": "15"
+    }
+}

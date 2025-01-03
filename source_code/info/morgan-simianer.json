@@ -1,0 +1,55 @@
+{
+    "relationships": [
+        {
+            "name": "Stone Burleson",
+            "href": "https://www.whosdatedwho.com/dating/stone-burleson",
+            "relationship_type": 4,
+            "start_date": "Jan 2021",
+            "end_date": "present",
+            "length": "3 years",
+            "start_months_since_1900": 1452,
+            "end_months_since_1900": -1,
+            "length_in_months": 36
+        },
+        {
+            "name": "Brad Markey",
+            "href": "https://www.whosdatedwho.com/dating/brad-markey",
+            "relationship_type": 2,
+            "start_date": "Aug 2018",
+            "end_date": "2020",
+            "length": "1 year",
+            "start_months_since_1900": 1423,
+            "end_months_since_1900": 1440,
+            "length_in_months": 12
+        },
+        {
+            "name": "Jackson Michie",
+            "href": "https://www.whosdatedwho.com/dating/jackson-michie",
+            "relationship_type": 2,
+            "start_date": "",
+            "end_date": "Feb 2021",
+            "length": "-",
+            "start_months_since_1900": -1,
+            "end_months_since_1900": 1453,
+            "length_in_months": -1
+        }
+    ],
+    "details": {
+        "Birthday": "1997",
+        "First Name": "NA",
+        "Middle Name": "NA",
+        "Last Name": "NA",
+        "Maiden Name": "NA",
+        "Full Name at Birth": "NA",
+        "Alternative Name": "NA",
+        "Birthplace": "USA",
+        "Height": "155",
+        "Weight": "NA",
+        "Zodiac Sign": "10",
+        "Sexuality": "NA",
+        "Religion": "1",
+        "Ethnicity": "6",
+        "Nationality": "91",
+        "Occupation": "2"
+    }
+}

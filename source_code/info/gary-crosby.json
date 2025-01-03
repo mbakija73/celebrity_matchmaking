@@ -1,0 +1,77 @@
+{
+    "relationships": [
+        {
+            "name": "Barbara Cosentino",
+            "href": "https://www.whosdatedwho.com/dating/barbara-cosentino",
+            "relationship_type": 4,
+            "start_date": "Dec 1958",
+            "end_date": "Sep 1981",
+            "length": "22 years",
+            "start_months_since_1900": 707,
+            "end_months_since_1900": 980,
+            "length_in_months": 264
+        },
+        {
+            "name": "Felicia Atkins",
+            "href": "https://www.whosdatedwho.com/dating/felicia-atkins",
+            "relationship_type": 2,
+            "start_date": "1958",
+            "end_date": "1958",
+            "length": "-",
+            "start_months_since_1900": 696,
+            "end_months_since_1900": 696,
+            "length_in_months": -1
+        },
+        {
+            "name": "Cleo Moore",
+            "href": "https://www.whosdatedwho.com/dating/cleo-moore",
+            "relationship_type": 2,
+            "start_date": "Nov 1955",
+            "end_date": "Nov 1955",
+            "length": "-",
+            "start_months_since_1900": 670,
+            "end_months_since_1900": 670,
+            "length_in_months": -1
+        },
+        {
+            "name": "Nejla Ates",
+            "href": "https://www.whosdatedwho.com/dating/nejla-ates",
+            "relationship_type": 2,
+            "start_date": "Aug 1955",
+            "end_date": "Sep 1956",
+            "length": "1 year",
+            "start_months_since_1900": 667,
+            "end_months_since_1900": 680,
+            "length_in_months": 12
+        },
+        {
+            "name": "Jill Corey",
+            "href": "https://www.whosdatedwho.com/dating/jill-corey",
+            "relationship_type": 2,
+            "start_date": "",
+            "end_date": "",
+            "length": "-",
+            "start_months_since_1900": -1,
+            "end_months_since_1900": -1,
+            "length_in_months": -1
+        }
+    ],
+    "details": {
+        "First Name": "Gary",
+        "Middle Name": "Evan",
+        "Last Name": "Crosby",
+        "Maiden Name": "NA",
+        "Full Name at Birth": "Gary Evan Crosby",
+        "Alternative Name": "NA",
+        "Birthday": "1933",
+        "Birthplace": "USA",
+        "Height": "NA",
+        "Weight": "NA",
+        "Zodiac Sign": "8",
+        "Sexuality": "Straight",
+        "Religion": "1",
+        "Ethnicity": "6",
+        "Nationality": "91",
+        "Occupation": "8"
+    }
+}

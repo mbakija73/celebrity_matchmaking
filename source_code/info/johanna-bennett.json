@@ -1,0 +1,44 @@
+{
+    "relationships": [
+        {
+            "name": "Matthew Followill",
+            "href": "https://www.whosdatedwho.com/dating/matthew-followill",
+            "relationship_type": 4,
+            "start_date": "Jul 2007",
+            "end_date": "present",
+            "length": "17 years",
+            "start_months_since_1900": 1290,
+            "end_months_since_1900": -1,
+            "length_in_months": 204
+        },
+        {
+            "name": "Alex Turner",
+            "href": "https://www.whosdatedwho.com/dating/alex-turner",
+            "relationship_type": 2,
+            "start_date": "2005",
+            "end_date": "Jan 2007",
+            "length": "2 years",
+            "start_months_since_1900": 1260,
+            "end_months_since_1900": 1284,
+            "length_in_months": 24
+        }
+    ],
+    "details": {
+        "First Name": "Johanna",
+        "Middle Name": "NA",
+        "Last Name": "Bennett",
+        "Maiden Name": "NA",
+        "Full Name at Birth": "NA",
+        "Alternative Name": "NA",
+        "Birthday": "1984",
+        "Birthplace": "Cambridgeshire",
+        "Height": "NA",
+        "Weight": "NA",
+        "Zodiac Sign": "10",
+        "Sexuality": "Straight",
+        "Religion": "1",
+        "Ethnicity": "6",
+        "Nationality": "8",
+        "Occupation": "2"
+    }
+}

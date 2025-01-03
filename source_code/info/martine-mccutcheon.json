@@ -1,0 +1,242 @@
+{
+    "relationships": [
+        {
+            "name": "Jack McManus",
+            "href": "https://www.whosdatedwho.com/dating/jack-mcmanus",
+            "relationship_type": 4,
+            "start_date": "May 2008",
+            "end_date": "Aug 2024",
+            "length": "16 years",
+            "start_months_since_1900": 1300,
+            "end_months_since_1900": 1495,
+            "length_in_months": 192
+        },
+        {
+            "name": "Calum Best",
+            "href": "https://www.whosdatedwho.com/dating/calum-best",
+            "relationship_type": 2,
+            "start_date": "2008",
+            "end_date": "2008",
+            "length": "-",
+            "start_months_since_1900": 1296,
+            "end_months_since_1900": 1296,
+            "length_in_months": -1
+        },
+        {
+            "name": "Marco Pierre White",
+            "href": "https://www.whosdatedwho.com/dating/marco-pierre-white",
+            "relationship_type": 2,
+            "start_date": "2006",
+            "end_date": "2006",
+            "length": "-",
+            "start_months_since_1900": 1272,
+            "end_months_since_1900": 1272,
+            "length_in_months": -1
+        },
+        {
+            "name": "Boy George",
+            "href": "https://www.whosdatedwho.com/dating/boy-george",
+            "relationship_type": 3,
+            "start_date": "2006",
+            "end_date": "2007",
+            "length": "1 year",
+            "start_months_since_1900": 1272,
+            "end_months_since_1900": 1284,
+            "length_in_months": 12
+        },
+        {
+            "name": "James Tanner",
+            "href": "https://www.whosdatedwho.com/dating/james-tanner",
+            "relationship_type": 2,
+            "start_date": "2003",
+            "end_date": "2004",
+            "length": "1 year",
+            "start_months_since_1900": 1236,
+            "end_months_since_1900": 1248,
+            "length_in_months": 12
+        },
+        {
+            "name": "Hugh Grant",
+            "href": "https://www.whosdatedwho.com/dating/hugh-grant",
+            "relationship_type": 3,
+            "start_date": "2003",
+            "end_date": "2003",
+            "length": "-",
+            "start_months_since_1900": 1236,
+            "end_months_since_1900": 1236,
+            "length_in_months": -1
+        },
+        {
+            "name": "James Gooding",
+            "href": "https://www.whosdatedwho.com/dating/james-gooding",
+            "relationship_type": 3,
+            "start_date": "Dec 2002",
+            "end_date": "Dec 2002",
+            "length": "-",
+            "start_months_since_1900": 1235,
+            "end_months_since_1900": 1235,
+            "length_in_months": -1
+        },
+        {
+            "name": "Duncan James",
+            "href": "https://www.whosdatedwho.com/dating/duncan-james",
+            "relationship_type": 2,
+            "start_date": "Aug 2002",
+            "end_date": "Aug 2002",
+            "length": "-",
+            "start_months_since_1900": 1231,
+            "end_months_since_1900": 1231,
+            "length_in_months": -1
+        },
+        {
+            "name": "Steve John Shepherd",
+            "href": "https://www.whosdatedwho.com/dating/steve-john-shepherd",
+            "relationship_type": 2,
+            "start_date": "2001",
+            "end_date": "2001",
+            "length": "-",
+            "start_months_since_1900": 1212,
+            "end_months_since_1900": 1212,
+            "length_in_months": -1
+        },
+        {
+            "name": "Jonathan Barnham",
+            "href": "https://www.whosdatedwho.com/dating/jonathan-barnham",
+            "relationship_type": 2,
+            "start_date": "1999",
+            "end_date": "2000",
+            "length": "1 year",
+            "start_months_since_1900": 1188,
+            "end_months_since_1900": 1200,
+            "length_in_months": 12
+        },
+        {
+            "name": "Matt Goss",
+            "href": "https://www.whosdatedwho.com/dating/matt-goss",
+            "relationship_type": 2,
+            "start_date": "Nov 1998",
+            "end_date": "Nov 1998",
+            "length": "-",
+            "start_months_since_1900": 1186,
+            "end_months_since_1900": 1186,
+            "length_in_months": -1
+        },
+        {
+            "name": "Michael Douglas",
+            "href": "https://www.whosdatedwho.com/dating/michael-douglas",
+            "relationship_type": 3,
+            "start_date": "Feb 1998",
+            "end_date": "Mar 1998",
+            "length": "< 1 month",
+            "start_months_since_1900": 1177,
+            "end_months_since_1900": 1178,
+            "length_in_months": 0
+        },
+        {
+            "name": "Mick Hucknall",
+            "href": "https://www.whosdatedwho.com/dating/mick-hucknall",
+            "relationship_type": 2,
+            "start_date": "1996",
+            "end_date": "1996",
+            "length": "-",
+            "start_months_since_1900": 1152,
+            "end_months_since_1900": 1152,
+            "length_in_months": -1
+        },
+        {
+            "name": "Paul Nicholls",
+            "href": "https://www.whosdatedwho.com/dating/paul-nicholls",
+            "relationship_type": 2,
+            "start_date": "1996",
+            "end_date": "1997",
+            "length": "1 year",
+            "start_months_since_1900": 1152,
+            "end_months_since_1900": 1164,
+            "length_in_months": 12
+        },
+        {
+            "name": "Gareth Cooke",
+            "href": "https://www.whosdatedwho.com/dating/gareth-cooke",
+            "relationship_type": 2,
+            "start_date": "1995",
+            "end_date": "Jul 1996",
+            "length": "1 year",
+            "start_months_since_1900": 1140,
+            "end_months_since_1900": 1158,
+            "length_in_months": 12
+        },
+        {
+            "name": "Sean Brosnan",
+            "href": "https://www.whosdatedwho.com/dating/sean-brosnan",
+            "relationship_type": 3,
+            "start_date": "",
+            "end_date": "",
+            "length": "-",
+            "start_months_since_1900": -1,
+            "end_months_since_1900": -1,
+            "length_in_months": -1
+        },
+        {
+            "name": "Mark Furze",
+            "href": "https://www.whosdatedwho.com/dating/mark-furze",
+            "relationship_type": 1,
+            "start_date": "",
+            "end_date": "",
+            "length": "-",
+            "start_months_since_1900": -1,
+            "end_months_since_1900": -1,
+            "length_in_months": -1
+        },
+        {
+            "name": "Frank Lampard",
+            "href": "https://www.whosdatedwho.com/dating/frank-lampard",
+            "relationship_type": 2,
+            "start_date": "",
+            "end_date": "",
+            "length": "-",
+            "start_months_since_1900": -1,
+            "end_months_since_1900": -1,
+            "length_in_months": -1
+        },
+        {
+            "name": "Chris Bisson",
+            "href": "https://www.whosdatedwho.com/dating/chris-bisson",
+            "relationship_type": 2,
+            "start_date": "",
+            "end_date": "",
+            "length": "-",
+            "start_months_since_1900": -1,
+            "end_months_since_1900": -1,
+            "length_in_months": -1
+        },
+        {
+            "name": "Jay Kay",
+            "href": "https://www.whosdatedwho.com/dating/jay-kay",
+            "relationship_type": 1,
+            "start_date": "",
+            "end_date": "",
+            "length": "-",
+            "start_months_since_1900": -1,
+            "end_months_since_1900": -1,
+            "length_in_months": -1
+        }
+    ],
+    "details": {
+        "First Name": "Martine",
+        "Middle Name": "Kimberley Sherri",
+        "Last Name": "McCutcheon",
+        "Maiden Name": "Ponting",
+        "Full Name at Birth": "Martine Kimberley Sherrie Ponting",
+        "Alternative Name": "Mart, Martine Kimberley Sherrie Ponting, Martine McCutcheon, Martine Kimberley Sherrie McCutcheon, Martine Ponting",
+        "Birthday": "1976",
+        "Birthplace": "UK",
+        "Height": "170",
+        "Weight": "141lbs (64 kg)",
+        "Zodiac Sign": "3",
+        "Sexuality": "Straight",
+        "Religion": "1",
+        "Ethnicity": "6",
+        "Nationality": "8",
+        "Occupation": "8"
+    }
+}

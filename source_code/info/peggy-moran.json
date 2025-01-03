@@ -1,0 +1,44 @@
+{
+    "relationships": [
+        {
+            "name": "Henry Koster",
+            "href": "https://www.whosdatedwho.com/dating/henry-koster",
+            "relationship_type": 4,
+            "start_date": "Oct 1941",
+            "end_date": "Sep 1988",
+            "length": "46 years",
+            "start_months_since_1900": 501,
+            "end_months_since_1900": 1064,
+            "length_in_months": 552
+        },
+        {
+            "name": "Mike Stokey",
+            "href": "https://www.whosdatedwho.com/dating/mike-stokey",
+            "relationship_type": 2,
+            "start_date": "1940",
+            "end_date": "1941",
+            "length": "1 year",
+            "start_months_since_1900": 480,
+            "end_months_since_1900": 492,
+            "length_in_months": 12
+        }
+    ],
+    "details": {
+        "First Name": "Peggy",
+        "Middle Name": "NA",
+        "Last Name": "Moran",
+        "Maiden Name": "NA",
+        "Full Name at Birth": "Mary Jeanette Moran",
+        "Alternative Name": "NA",
+        "Birthday": "1918",
+        "Birthplace": "USA",
+        "Height": "NA",
+        "Weight": "NA",
+        "Zodiac Sign": "5",
+        "Sexuality": "Straight",
+        "Religion": "1",
+        "Ethnicity": "6",
+        "Nationality": "91",
+        "Occupation": "8"
+    }
+}

@@ -1,0 +1,55 @@
+{
+    "relationships": [
+        {
+            "name": "Joshua Eagle",
+            "href": "https://www.whosdatedwho.com/dating/joshua-eagle",
+            "relationship_type": 4,
+            "start_date": "Aug 2005",
+            "end_date": "present",
+            "length": "19 years",
+            "start_months_since_1900": 1267,
+            "end_months_since_1900": -1,
+            "length_in_months": 228
+        },
+        {
+            "name": "Tommy Haas",
+            "href": "https://www.whosdatedwho.com/dating/tommy-haas",
+            "relationship_type": 3,
+            "start_date": "Aug 2004",
+            "end_date": "Aug 2004",
+            "length": "-",
+            "start_months_since_1900": 1255,
+            "end_months_since_1900": 1255,
+            "length_in_months": -1
+        },
+        {
+            "name": "Christoph Kn\u00f6rr",
+            "href": "https://www.whosdatedwho.com/dating/christoph-knorr",
+            "relationship_type": 2,
+            "start_date": "Oct 2002",
+            "end_date": "Mar 2005",
+            "length": "2 years",
+            "start_months_since_1900": 1233,
+            "end_months_since_1900": 1262,
+            "length_in_months": 24
+        }
+    ],
+    "details": {
+        "First Name": "Barbara",
+        "Middle Name": "NA",
+        "Last Name": "Schett",
+        "Maiden Name": "NA",
+        "Full Name at Birth": "Barbara Schett Eagle",
+        "Alternative Name": "NA",
+        "Birthday": "1976",
+        "Birthplace": "Innsbruck",
+        "Height": "176",
+        "Weight": "150lbs (68 kg)",
+        "Zodiac Sign": "1",
+        "Sexuality": "NA",
+        "Religion": "1",
+        "Ethnicity": "6",
+        "Nationality": "44",
+        "Occupation": "2"
+    }
+}

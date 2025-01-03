@@ -1,0 +1,44 @@
+{
+    "relationships": [
+        {
+            "name": "Chris Warfield",
+            "href": "https://www.whosdatedwho.com/dating/chris-warfield",
+            "relationship_type": 4,
+            "start_date": "1968",
+            "end_date": "Mar 1970",
+            "length": "2 years",
+            "start_months_since_1900": 816,
+            "end_months_since_1900": 842,
+            "length_in_months": 24
+        },
+        {
+            "name": "Russ Meyer",
+            "href": "https://www.whosdatedwho.com/dating/russ-meyer",
+            "relationship_type": 4,
+            "start_date": "1951",
+            "end_date": "Jun 1966",
+            "length": "15 years",
+            "start_months_since_1900": 612,
+            "end_months_since_1900": 797,
+            "length_in_months": 180
+        }
+    ],
+    "details": {
+        "First Name": "Eve",
+        "Middle Name": "Eugene",
+        "Last Name": "Meyer",
+        "Maiden Name": "Turner",
+        "Full Name at Birth": "Evelyn Eugene Turner",
+        "Alternative Name": "Playboy's Miss June 1955, Evelyn Eugene Turner, Eve Meyer",
+        "Birthday": "1928",
+        "Birthplace": "USA",
+        "Height": "168",
+        "Weight": "115lbs (52 kg)",
+        "Zodiac Sign": "6",
+        "Sexuality": "Straight",
+        "Religion": "1",
+        "Ethnicity": "6",
+        "Nationality": "91",
+        "Occupation": "16"
+    }
+}

@@ -1,0 +1,110 @@
+{
+    "relationships": [
+        {
+            "name": "Soulja Boy",
+            "href": "https://www.whosdatedwho.com/dating/soulja-boy",
+            "relationship_type": 2,
+            "start_date": "Jan 2013",
+            "end_date": "Mar 2015",
+            "length": "2 years",
+            "start_months_since_1900": 1356,
+            "end_months_since_1900": 1382,
+            "length_in_months": 24
+        },
+        {
+            "name": "Shad Moss",
+            "href": "https://www.whosdatedwho.com/dating/shad-moss",
+            "relationship_type": 3,
+            "start_date": "Nov 2012",
+            "end_date": "Dec 2012",
+            "length": "1 month",
+            "start_months_since_1900": 1354,
+            "end_months_since_1900": 1355,
+            "length_in_months": 1
+        },
+        {
+            "name": "Lil' Wayne",
+            "href": "https://www.whosdatedwho.com/dating/lil-wayne",
+            "relationship_type": 3,
+            "start_date": "Jul 2012",
+            "end_date": "Nov 2012",
+            "length": "4 months",
+            "start_months_since_1900": 1350,
+            "end_months_since_1900": 1354,
+            "length_in_months": 4
+        },
+        {
+            "name": "Kevin Hart",
+            "href": "https://www.whosdatedwho.com/dating/kevin-hart",
+            "relationship_type": 3,
+            "start_date": "Jan 2012",
+            "end_date": "Jun 2012",
+            "length": "5 months",
+            "start_months_since_1900": 1344,
+            "end_months_since_1900": 1349,
+            "length_in_months": 5
+        },
+        {
+            "name": "Sean Kingston",
+            "href": "https://www.whosdatedwho.com/dating/sean-kingston",
+            "relationship_type": 3,
+            "start_date": "Nov 2011",
+            "end_date": "Dec 2011",
+            "length": "1 month",
+            "start_months_since_1900": 1342,
+            "end_months_since_1900": 1343,
+            "length_in_months": 1
+        },
+        {
+            "name": "Matt Kemp",
+            "href": "https://www.whosdatedwho.com/dating/matt-kemp",
+            "relationship_type": 3,
+            "start_date": "Sep 2011",
+            "end_date": "Oct 2011",
+            "length": "1 month",
+            "start_months_since_1900": 1340,
+            "end_months_since_1900": 1341,
+            "length_in_months": 1
+        },
+        {
+            "name": "Chief Keef",
+            "href": "https://www.whosdatedwho.com/dating/keith-cozart",
+            "relationship_type": 3,
+            "start_date": "Jun 2011",
+            "end_date": "Aug 2011",
+            "length": "2 months",
+            "start_months_since_1900": 1337,
+            "end_months_since_1900": 1339,
+            "length_in_months": 2
+        },
+        {
+            "name": "Fabolous",
+            "href": "https://www.whosdatedwho.com/dating/fabolous",
+            "relationship_type": 3,
+            "start_date": "May 2011",
+            "end_date": "May 2011",
+            "length": "-",
+            "start_months_since_1900": 1336,
+            "end_months_since_1900": 1336,
+            "length_in_months": -1
+        }
+    ],
+    "details": {
+        "First Name": "Nastassia",
+        "Middle Name": "NA",
+        "Last Name": "Smith",
+        "Maiden Name": "NA",
+        "Full Name at Birth": "Nastassia Morris Smith",
+        "Alternative Name": "Nas",
+        "Birthday": "1987",
+        "Birthplace": "USA",
+        "Height": "NA",
+        "Weight": "NA",
+        "Zodiac Sign": "5",
+        "Sexuality": "Straight",
+        "Religion": "1",
+        "Ethnicity": "8",
+        "Nationality": "91",
+        "Occupation": "11"
+    }
+}

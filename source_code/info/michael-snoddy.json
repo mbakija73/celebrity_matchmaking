@@ -1,0 +1,55 @@
+{
+    "relationships": [
+        {
+            "name": "Paris Jackson",
+            "href": "https://www.whosdatedwho.com/dating/paris-jackson",
+            "relationship_type": 2,
+            "start_date": "Apr 2016",
+            "end_date": "9th Feb 2017",
+            "length": "10 months",
+            "start_months_since_1900": 1395,
+            "end_months_since_1900": 1405,
+            "length_in_months": 10
+        },
+        {
+            "name": "Tori Evans",
+            "href": "https://www.whosdatedwho.com/dating/tori-evans-116210497",
+            "relationship_type": 4,
+            "start_date": "",
+            "end_date": "",
+            "length": "-",
+            "start_months_since_1900": -1,
+            "end_months_since_1900": -1,
+            "length_in_months": -1
+        },
+        {
+            "name": "Senna Cetera",
+            "href": "https://www.whosdatedwho.com/dating/senna-cetera",
+            "relationship_type": 2,
+            "start_date": "",
+            "end_date": "present",
+            "length": "-",
+            "start_months_since_1900": -1,
+            "end_months_since_1900": -1,
+            "length_in_months": -1
+        }
+    ],
+    "details": {
+        "First Name": "Michael",
+        "Middle Name": "NA",
+        "Last Name": "Snoddy",
+        "Maiden Name": "NA",
+        "Full Name at Birth": "Michael Snoddy",
+        "Alternative Name": "Michael Snoddy",
+        "Birthday": "1996",
+        "Birthplace": "USA",
+        "Height": "175",
+        "Weight": "NA",
+        "Zodiac Sign": "1",
+        "Sexuality": "Straight",
+        "Religion": "1",
+        "Ethnicity": "6",
+        "Nationality": "91",
+        "Occupation": "1"
+    }
+}

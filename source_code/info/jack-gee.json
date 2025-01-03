@@ -1,0 +1,33 @@
+{
+    "relationships": [
+        {
+            "name": "Bessie Smith",
+            "href": "https://www.whosdatedwho.com/dating/bessie-smith",
+            "relationship_type": 4,
+            "start_date": "Jun 1923",
+            "end_date": "1929",
+            "length": "5 years",
+            "start_months_since_1900": 281,
+            "end_months_since_1900": 348,
+            "length_in_months": 60
+        }
+    ],
+    "details": {
+        "First Name": "Jack",
+        "Middle Name": "NA",
+        "Last Name": "Gee",
+        "Maiden Name": "NA",
+        "Full Name at Birth": "John Gee",
+        "Alternative Name": "John Gee, Jack Gee Sr.",
+        "Birthday": "1889",
+        "Birthplace": "USA",
+        "Height": "NA",
+        "Weight": "NA",
+        "Zodiac Sign": "1",
+        "Sexuality": "NA",
+        "Religion": "1",
+        "Ethnicity": "1",
+        "Nationality": "91",
+        "Occupation": "19"
+    }
+}

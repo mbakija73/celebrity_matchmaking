@@ -1,0 +1,66 @@
+{
+    "relationships": [
+        {
+            "name": "Roy Rogers",
+            "href": "https://www.whosdatedwho.com/dating/roy-rogers",
+            "relationship_type": 4,
+            "start_date": "Mar 1947",
+            "end_date": "6th Jul 1998",
+            "length": "51 years",
+            "start_months_since_1900": 566,
+            "end_months_since_1900": 1182,
+            "length_in_months": 612
+        },
+        {
+            "name": "R. Dale Butts",
+            "href": "https://www.whosdatedwho.com/dating/r-dale-butts",
+            "relationship_type": 4,
+            "start_date": "1935",
+            "end_date": "1946",
+            "length": "11 years",
+            "start_months_since_1900": 420,
+            "end_months_since_1900": 552,
+            "length_in_months": 132
+        },
+        {
+            "name": "August Johns (I)",
+            "href": "https://www.whosdatedwho.com/dating/august-johns-i",
+            "relationship_type": 4,
+            "start_date": "1928",
+            "end_date": "1935",
+            "length": "7 years",
+            "start_months_since_1900": 336,
+            "end_months_since_1900": 420,
+            "length_in_months": 84
+        },
+        {
+            "name": "Thomas Frederick Fox",
+            "href": "https://www.whosdatedwho.com/dating/thomas-frederick-fox",
+            "relationship_type": 4,
+            "start_date": "1925",
+            "end_date": "1929",
+            "length": "4 years",
+            "start_months_since_1900": 300,
+            "end_months_since_1900": 348,
+            "length_in_months": 48
+        }
+    ],
+    "details": {
+        "First Name": "Dale",
+        "Middle Name": "Octavia",
+        "Last Name": "Evans",
+        "Maiden Name": "Smith",
+        "Full Name at Birth": "Frances Octavia Smith",
+        "Alternative Name": "Queen of the Cowgirls, Queen of the West, Dale Evans Rogers, Lucille Wood Smith",
+        "Birthday": "1912",
+        "Birthplace": "USA",
+        "Height": "163",
+        "Weight": "NA",
+        "Zodiac Sign": "5",
+        "Sexuality": "Straight",
+        "Religion": "18",
+        "Ethnicity": "6",
+        "Nationality": "91",
+        "Occupation": "8"
+    }
+}

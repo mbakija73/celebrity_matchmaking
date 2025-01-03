@@ -1,0 +1,44 @@
+{
+    "relationships": [
+        {
+            "name": "Hayley Atwell",
+            "href": "https://www.whosdatedwho.com/dating/hayley-atwell",
+            "relationship_type": 2,
+            "start_date": "2012",
+            "end_date": "2013",
+            "length": "1 year",
+            "start_months_since_1900": 1344,
+            "end_months_since_1900": 1356,
+            "length_in_months": 12
+        },
+        {
+            "name": "Sophia Myles",
+            "href": "https://www.whosdatedwho.com/dating/sophia-myles",
+            "relationship_type": 3,
+            "start_date": "Nov 2007",
+            "end_date": "2008",
+            "length": "2 months",
+            "start_months_since_1900": 1294,
+            "end_months_since_1900": 1296,
+            "length_in_months": 2
+        }
+    ],
+    "details": {
+        "First Name": "Paul",
+        "Middle Name": "NA",
+        "Last Name": "Wilson",
+        "Maiden Name": "NA",
+        "Full Name at Birth": "Paul Wilson",
+        "Alternative Name": "Pablo",
+        "Birthday": "1978",
+        "Birthplace": "Scottish Highlands",
+        "Height": "NA",
+        "Weight": "NA",
+        "Zodiac Sign": "10",
+        "Sexuality": "Straight",
+        "Religion": "1",
+        "Ethnicity": "6",
+        "Nationality": "131",
+        "Occupation": "1"
+    }
+}

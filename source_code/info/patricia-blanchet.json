@@ -1,0 +1,44 @@
+{
+    "relationships": [
+        {
+            "name": "Ed Bradley",
+            "href": "https://www.whosdatedwho.com/dating/ed-bradley",
+            "relationship_type": 4,
+            "start_date": "1994",
+            "end_date": "6th Nov 2006",
+            "length": "12 years",
+            "start_months_since_1900": 1128,
+            "end_months_since_1900": 1282,
+            "length_in_months": 144
+        },
+        {
+            "name": "Leon",
+            "href": "https://www.whosdatedwho.com/dating/leon",
+            "relationship_type": 2,
+            "start_date": "",
+            "end_date": "present",
+            "length": "-",
+            "start_months_since_1900": -1,
+            "end_months_since_1900": -1,
+            "length_in_months": -1
+        }
+    ],
+    "details": {
+        "First Name": "Patricia",
+        "Middle Name": "NA",
+        "Last Name": "Blanchet",
+        "Maiden Name": "NA",
+        "Full Name at Birth": "NA",
+        "Alternative Name": "NA",
+        "Birthday": "NA",
+        "Birthplace": "NA",
+        "Height": "NA",
+        "Weight": "NA",
+        "Zodiac Sign": "2",
+        "Sexuality": "Straight",
+        "Religion": "1",
+        "Ethnicity": "8",
+        "Nationality": "21",
+        "Occupation": "18"
+    }
+}

@@ -1,0 +1,44 @@
+{
+    "relationships": [
+        {
+            "name": "Bob Neal",
+            "href": "https://www.whosdatedwho.com/dating/bob-neal",
+            "relationship_type": 3,
+            "start_date": "Jul 1950",
+            "end_date": "Aug 1950",
+            "length": "1 month",
+            "start_months_since_1900": 606,
+            "end_months_since_1900": 607,
+            "length_in_months": 1
+        },
+        {
+            "name": "Robert Hutton",
+            "href": "https://www.whosdatedwho.com/dating/robert-hutton",
+            "relationship_type": 4,
+            "start_date": "Jun 1950",
+            "end_date": "Aug 1963",
+            "length": "13 years",
+            "start_months_since_1900": 605,
+            "end_months_since_1900": 763,
+            "length_in_months": 156
+        }
+    ],
+    "details": {
+        "First Name": "Bridget",
+        "Middle Name": "NA",
+        "Last Name": "Carr",
+        "Maiden Name": "NA",
+        "Full Name at Birth": "Bridget Carr",
+        "Alternative Name": "NA",
+        "Birthday": "1928",
+        "Birthplace": "Ohio",
+        "Height": "NA",
+        "Weight": "NA",
+        "Zodiac Sign": "12",
+        "Sexuality": "Straight",
+        "Religion": "1",
+        "Ethnicity": "6",
+        "Nationality": "91",
+        "Occupation": "8"
+    }
+}

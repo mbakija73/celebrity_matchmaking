@@ -1,0 +1,88 @@
+{
+    "relationships": [
+        {
+            "name": "Robert Bergman",
+            "href": "https://www.whosdatedwho.com/dating/robert-bergman",
+            "relationship_type": 4,
+            "start_date": "1969",
+            "end_date": "1971",
+            "length": "2 years",
+            "start_months_since_1900": 828,
+            "end_months_since_1900": 852,
+            "length_in_months": 24
+        },
+        {
+            "name": "Joe Perry",
+            "href": "https://www.whosdatedwho.com/dating/joe-perry",
+            "relationship_type": 2,
+            "start_date": "1969",
+            "end_date": "1969",
+            "length": "-",
+            "start_months_since_1900": 828,
+            "end_months_since_1900": 828,
+            "length_in_months": -1
+        },
+        {
+            "name": "Pete Duel",
+            "href": "https://www.whosdatedwho.com/dating/pete-duel",
+            "relationship_type": 2,
+            "start_date": "1966",
+            "end_date": "1966",
+            "length": "-",
+            "start_months_since_1900": 792,
+            "end_months_since_1900": 792,
+            "length_in_months": -1
+        },
+        {
+            "name": "Burt Reynolds",
+            "href": "https://www.whosdatedwho.com/dating/burt-reynolds",
+            "relationship_type": 4,
+            "start_date": "Dec 1962",
+            "end_date": "1965",
+            "length": "2 years",
+            "start_months_since_1900": 755,
+            "end_months_since_1900": 780,
+            "length_in_months": 24
+        },
+        {
+            "name": "Lana Cantrell",
+            "href": "https://www.whosdatedwho.com/dating/lana-cantrell",
+            "relationship_type": 1,
+            "start_date": "",
+            "end_date": "",
+            "length": "-",
+            "start_months_since_1900": -1,
+            "end_months_since_1900": -1,
+            "length_in_months": -1
+        },
+        {
+            "name": "Warren Beatty",
+            "href": "https://www.whosdatedwho.com/dating/warren-beatty",
+            "relationship_type": 2,
+            "start_date": "",
+            "end_date": "",
+            "length": "-",
+            "start_months_since_1900": -1,
+            "end_months_since_1900": -1,
+            "length_in_months": -1
+        }
+    ],
+    "details": {
+        "First Name": "Judy",
+        "Middle Name": "Audrey",
+        "Last Name": "Carne",
+        "Maiden Name": "Botterill",
+        "Full Name at Birth": "Joyce Audrey Botterill",
+        "Alternative Name": "NA",
+        "Birthday": "1939",
+        "Birthplace": "England",
+        "Height": "160",
+        "Weight": "NA",
+        "Zodiac Sign": "3",
+        "Sexuality": "Bisexual",
+        "Religion": "1",
+        "Ethnicity": "6",
+        "Nationality": "8",
+        "Occupation": "8"
+    }
+}

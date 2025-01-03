@@ -1,0 +1,33 @@
+{
+    "relationships": [
+        {
+            "name": "Mike Tyson",
+            "href": "https://www.whosdatedwho.com/dating/mike-tyson",
+            "relationship_type": 2,
+            "start_date": "1989",
+            "end_date": "1989",
+            "length": "-",
+            "start_months_since_1900": 1068,
+            "end_months_since_1900": 1068,
+            "length_in_months": -1
+        }
+    ],
+    "details": {
+        "First Name": "Suzette",
+        "Middle Name": "NA",
+        "Last Name": "Charles",
+        "Maiden Name": "NA",
+        "Full Name at Birth": "Suzette DeGaetano",
+        "Alternative Name": "NA",
+        "Birthday": "1963",
+        "Birthplace": "New Jersey",
+        "Height": "NA",
+        "Weight": "NA",
+        "Zodiac Sign": "1",
+        "Sexuality": "Straight",
+        "Religion": "1",
+        "Ethnicity": "8",
+        "Nationality": "91",
+        "Occupation": "15"
+    }
+}

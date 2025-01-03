@@ -1,0 +1,44 @@
+{
+    "relationships": [
+        {
+            "name": "Francis Davis Millet",
+            "href": "https://www.whosdatedwho.com/dating/francis-davis-millet",
+            "relationship_type": 2,
+            "start_date": "1874",
+            "end_date": "1876",
+            "length": "2 years",
+            "start_months_since_1900": -312,
+            "end_months_since_1900": -288,
+            "length_in_months": 24
+        },
+        {
+            "name": "Walt Whitman",
+            "href": "https://www.whosdatedwho.com/dating/walt-whitman",
+            "relationship_type": 2,
+            "start_date": "",
+            "end_date": "",
+            "length": "-",
+            "start_months_since_1900": -1,
+            "end_months_since_1900": -1,
+            "length_in_months": -1
+        }
+    ],
+    "details": {
+        "First Name": "Charles",
+        "Middle Name": "Warren",
+        "Last Name": "Stoddard",
+        "Maiden Name": "NA",
+        "Full Name at Birth": "Charles Warren Stoddard",
+        "Alternative Name": "NA",
+        "Birthday": "1843",
+        "Birthplace": "New York",
+        "Height": "NA",
+        "Weight": "NA",
+        "Zodiac Sign": "12",
+        "Sexuality": "Gay",
+        "Religion": "1",
+        "Ethnicity": "6",
+        "Nationality": "91",
+        "Occupation": "3"
+    }
+}

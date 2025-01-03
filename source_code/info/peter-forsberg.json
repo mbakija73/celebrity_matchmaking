@@ -1,0 +1,44 @@
+{
+    "relationships": [
+        {
+            "name": "Nicole Nordin",
+            "href": "https://www.whosdatedwho.com/dating/nicole-nordin",
+            "relationship_type": 4,
+            "start_date": "2010",
+            "end_date": "present",
+            "length": "14 years",
+            "start_months_since_1900": 1320,
+            "end_months_since_1900": -1,
+            "length_in_months": 168
+        },
+        {
+            "name": "Anine Bing",
+            "href": "https://www.whosdatedwho.com/dating/anine-bing",
+            "relationship_type": 3,
+            "start_date": "",
+            "end_date": "",
+            "length": "-",
+            "start_months_since_1900": -1,
+            "end_months_since_1900": -1,
+            "length_in_months": -1
+        }
+    ],
+    "details": {
+        "First Name": "Peter",
+        "Middle Name": "NA",
+        "Last Name": "Forsberg",
+        "Maiden Name": "NA",
+        "Full Name at Birth": "Peter Mattias Forsberg",
+        "Alternative Name": "NA",
+        "Birthday": "1973",
+        "Birthplace": "Sweden",
+        "Height": "183",
+        "Weight": "210lbs (95 kg)",
+        "Zodiac Sign": "8",
+        "Sexuality": "Straight",
+        "Religion": "1",
+        "Ethnicity": "6",
+        "Nationality": "30",
+        "Occupation": "2"
+    }
+}

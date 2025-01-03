@@ -1,0 +1,77 @@
+{
+    "relationships": [
+        {
+            "name": "David Burtka",
+            "href": "https://www.whosdatedwho.com/dating/david-burtka",
+            "relationship_type": 4,
+            "start_date": "Apr 2004",
+            "end_date": "present",
+            "length": "20 years",
+            "start_months_since_1900": 1251,
+            "end_months_since_1900": -1,
+            "length_in_months": 240
+        },
+        {
+            "name": "Carla Bianco",
+            "href": "https://www.whosdatedwho.com/dating/carla-bianco",
+            "relationship_type": 2,
+            "start_date": "2000",
+            "end_date": "2000",
+            "length": "-",
+            "start_months_since_1900": 1200,
+            "end_months_since_1900": 1200,
+            "length_in_months": -1
+        },
+        {
+            "name": "Christine Taylor",
+            "href": "https://www.whosdatedwho.com/dating/christine-taylor",
+            "relationship_type": 2,
+            "start_date": "1997",
+            "end_date": "1998",
+            "length": "1 year",
+            "start_months_since_1900": 1164,
+            "end_months_since_1900": 1176,
+            "length_in_months": 12
+        },
+        {
+            "name": "Robyn Lively",
+            "href": "https://www.whosdatedwho.com/dating/robyn-lively",
+            "relationship_type": 2,
+            "start_date": "Aug 1992",
+            "end_date": "Oct 1993",
+            "length": "1 year",
+            "start_months_since_1900": 1111,
+            "end_months_since_1900": 1125,
+            "length_in_months": 12
+        },
+        {
+            "name": "Max Von Essen",
+            "href": "https://www.whosdatedwho.com/dating/max-von-essen",
+            "relationship_type": 2,
+            "start_date": "",
+            "end_date": "",
+            "length": "-",
+            "start_months_since_1900": -1,
+            "end_months_since_1900": -1,
+            "length_in_months": -1
+        }
+    ],
+    "details": {
+        "First Name": "Neil",
+        "Middle Name": "Patrick",
+        "Last Name": "Harris",
+        "Maiden Name": "NA",
+        "Full Name at Birth": "Neil Patrick Harris",
+        "Alternative Name": "Nph",
+        "Birthday": "1973",
+        "Birthplace": "United States",
+        "Height": "183",
+        "Weight": "NA",
+        "Zodiac Sign": "4",
+        "Sexuality": "Gay",
+        "Religion": "11",
+        "Ethnicity": "6",
+        "Nationality": "91",
+        "Occupation": "8"
+    }
+}

@@ -1,0 +1,44 @@
+{
+    "relationships": [
+        {
+            "name": "Alison Wise",
+            "href": "https://www.whosdatedwho.com/dating/alison-wise-other",
+            "relationship_type": 2,
+            "start_date": "Jan 2005",
+            "end_date": "2010",
+            "length": "5 years",
+            "start_months_since_1900": 1260,
+            "end_months_since_1900": 1320,
+            "length_in_months": 60
+        },
+        {
+            "name": "Shannen Doherty",
+            "href": "https://www.whosdatedwho.com/dating/shannen-doherty",
+            "relationship_type": 2,
+            "start_date": "Sep 2004",
+            "end_date": "Jan 2005",
+            "length": "4 months",
+            "start_months_since_1900": 1256,
+            "end_months_since_1900": 1260,
+            "length_in_months": 4
+        }
+    ],
+    "details": {
+        "First Name": "Jason",
+        "Middle Name": "NA",
+        "Last Name": "Pomeranc",
+        "Maiden Name": "NA",
+        "Full Name at Birth": "NA",
+        "Alternative Name": "NA",
+        "Birthday": "1971",
+        "Birthplace": "NA",
+        "Height": "NA",
+        "Weight": "NA",
+        "Zodiac Sign": "3",
+        "Sexuality": "Straight",
+        "Religion": "31",
+        "Ethnicity": "6",
+        "Nationality": "91",
+        "Occupation": "7"
+    }
+}

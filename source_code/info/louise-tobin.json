@@ -1,0 +1,33 @@
+{
+    "relationships": [
+        {
+            "name": "Harry James",
+            "href": "https://www.whosdatedwho.com/dating/harry-james",
+            "relationship_type": 4,
+            "start_date": "1935",
+            "end_date": "1935",
+            "length": "-",
+            "start_months_since_1900": 420,
+            "end_months_since_1900": 420,
+            "length_in_months": -1
+        }
+    ],
+    "details": {
+        "First Name": "Louise",
+        "Middle Name": "NA",
+        "Last Name": "Tobin",
+        "Maiden Name": "NA",
+        "Full Name at Birth": "NA",
+        "Alternative Name": "NA",
+        "Birthday": "1918",
+        "Birthplace": "U.S.",
+        "Height": "NA",
+        "Weight": "NA",
+        "Zodiac Sign": "5",
+        "Sexuality": "Straight",
+        "Religion": "1",
+        "Ethnicity": "1",
+        "Nationality": "91",
+        "Occupation": "1"
+    }
+}

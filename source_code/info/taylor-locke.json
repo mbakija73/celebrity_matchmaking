@@ -1,0 +1,44 @@
+{
+    "relationships": [
+        {
+            "name": "Mischa Barton",
+            "href": "https://www.whosdatedwho.com/dating/mischa-barton",
+            "relationship_type": 2,
+            "start_date": "Dec 2007",
+            "end_date": "Sep 2008",
+            "length": "9 months",
+            "start_months_since_1900": 1295,
+            "end_months_since_1900": 1304,
+            "length_in_months": 9
+        },
+        {
+            "name": "Tennessee Thomas",
+            "href": "https://www.whosdatedwho.com/dating/tennessee-thomas",
+            "relationship_type": 3,
+            "start_date": "2004",
+            "end_date": "2004",
+            "length": "-",
+            "start_months_since_1900": 1248,
+            "end_months_since_1900": 1248,
+            "length_in_months": -1
+        }
+    ],
+    "details": {
+        "First Name": "Taylor",
+        "Middle Name": "Alexander",
+        "Last Name": "Locke",
+        "Maiden Name": "NA",
+        "Full Name at Birth": "Taylor Alexander Locke",
+        "Alternative Name": "Taylor Rocke, Tay Lo, T-Bone, T-Money",
+        "Birthday": "1984",
+        "Birthplace": "USA",
+        "Height": "173",
+        "Weight": "NA",
+        "Zodiac Sign": "12",
+        "Sexuality": "NA",
+        "Religion": "31",
+        "Ethnicity": "6",
+        "Nationality": "91",
+        "Occupation": "1"
+    }
+}

@@ -1,0 +1,55 @@
+{
+    "relationships": [
+        {
+            "name": "AP.9",
+            "href": "https://www.whosdatedwho.com/dating/ap-9",
+            "relationship_type": 1,
+            "start_date": "2012",
+            "end_date": "2012",
+            "length": "-",
+            "start_months_since_1900": 1344,
+            "end_months_since_1900": 1344,
+            "length_in_months": -1
+        },
+        {
+            "name": "Ice-T",
+            "href": "https://www.whosdatedwho.com/dating/ice-t",
+            "relationship_type": 4,
+            "start_date": "Aug 2000",
+            "end_date": "present",
+            "length": "24 years",
+            "start_months_since_1900": 1207,
+            "end_months_since_1900": -1,
+            "length_in_months": 288
+        },
+        {
+            "name": "Eddie Williams iii",
+            "href": "https://www.whosdatedwho.com/dating/eddie-williams-iii",
+            "relationship_type": 4,
+            "start_date": "1998",
+            "end_date": "2001",
+            "length": "3 years",
+            "start_months_since_1900": 1176,
+            "end_months_since_1900": 1212,
+            "length_in_months": 36
+        }
+    ],
+    "details": {
+        "First Name": "Nicole",
+        "Middle Name": "Natalie",
+        "Last Name": "Marrow",
+        "Maiden Name": "Austin",
+        "Full Name at Birth": "Nicole Natalie Austin",
+        "Alternative Name": "Coco, Coco Marie, Nicole Marrow, Coco-T, Coco Marie Austin, Coco Austin, Nicole Natalie Austin, Nicole Natalie Austin-Marrow, Nicole Natalie Marrow",
+        "Birthday": "1979",
+        "Birthplace": "USA",
+        "Height": "157",
+        "Weight": "135lbs (61 kg)",
+        "Zodiac Sign": "1",
+        "Sexuality": "Straight",
+        "Religion": "1",
+        "Ethnicity": "6",
+        "Nationality": "91",
+        "Occupation": "16"
+    }
+}

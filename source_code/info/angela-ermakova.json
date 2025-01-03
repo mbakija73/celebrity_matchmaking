@@ -1,0 +1,33 @@
+{
+    "relationships": [
+        {
+            "name": "Boris Becker",
+            "href": "https://www.whosdatedwho.com/dating/boris-becker",
+            "relationship_type": 3,
+            "start_date": "Jun 1999",
+            "end_date": "Jun 1999",
+            "length": "-",
+            "start_months_since_1900": 1193,
+            "end_months_since_1900": 1193,
+            "length_in_months": -1
+        }
+    ],
+    "details": {
+        "First Name": "Angela",
+        "Middle Name": "NA",
+        "Last Name": "Ermakova",
+        "Maiden Name": "Ermakova",
+        "Full Name at Birth": "Angela Ermakova",
+        "Alternative Name": "Angela Ermakova",
+        "Birthday": "1967",
+        "Birthplace": "Russia]",
+        "Height": "NA",
+        "Weight": "NA",
+        "Zodiac Sign": "2",
+        "Sexuality": "Straight",
+        "Religion": "1",
+        "Ethnicity": "8",
+        "Nationality": "9",
+        "Occupation": "15"
+    }
+}

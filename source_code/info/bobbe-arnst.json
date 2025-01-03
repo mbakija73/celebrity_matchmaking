@@ -1,0 +1,66 @@
+{
+    "relationships": [
+        {
+            "name": "Robert Cavenaugh",
+            "href": "https://www.whosdatedwho.com/dating/robert-cavenaugh",
+            "relationship_type": 4,
+            "start_date": "1933",
+            "end_date": "1947",
+            "length": "14 years",
+            "start_months_since_1900": 396,
+            "end_months_since_1900": 564,
+            "length_in_months": 168
+        },
+        {
+            "name": "Phil Harris",
+            "href": "https://www.whosdatedwho.com/dating/phil-harris",
+            "relationship_type": 3,
+            "start_date": "1932",
+            "end_date": "1933",
+            "length": "1 year",
+            "start_months_since_1900": 384,
+            "end_months_since_1900": 396,
+            "length_in_months": 12
+        },
+        {
+            "name": "George Raft",
+            "href": "https://www.whosdatedwho.com/dating/george-raft",
+            "relationship_type": 3,
+            "start_date": "1932",
+            "end_date": "1932",
+            "length": "-",
+            "start_months_since_1900": 384,
+            "end_months_since_1900": 384,
+            "length_in_months": -1
+        },
+        {
+            "name": "Johnny Weissmuller",
+            "href": "https://www.whosdatedwho.com/dating/johnny-weissmuller",
+            "relationship_type": 4,
+            "start_date": "1930",
+            "end_date": "Oct 1933",
+            "length": "3 years",
+            "start_months_since_1900": 360,
+            "end_months_since_1900": 405,
+            "length_in_months": 36
+        }
+    ],
+    "details": {
+        "First Name": "Bobbe",
+        "Middle Name": "NA",
+        "Last Name": "Cavanaugh",
+        "Maiden Name": "Arnst",
+        "Full Name at Birth": "Bobbe Arnst",
+        "Alternative Name": "NA",
+        "Birthday": "1903",
+        "Birthplace": "New York",
+        "Height": "NA",
+        "Weight": "NA",
+        "Zodiac Sign": "10",
+        "Sexuality": "Straight",
+        "Religion": "1",
+        "Ethnicity": "6",
+        "Nationality": "91",
+        "Occupation": "8"
+    }
+}

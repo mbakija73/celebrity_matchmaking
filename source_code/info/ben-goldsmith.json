@@ -1,0 +1,44 @@
+{
+    "relationships": [
+        {
+            "name": "Jemima Jones",
+            "href": "https://www.whosdatedwho.com/dating/jemima-jones",
+            "relationship_type": 4,
+            "start_date": "2012",
+            "end_date": "present",
+            "length": "12 years",
+            "start_months_since_1900": 1344,
+            "end_months_since_1900": -1,
+            "length_in_months": 144
+        },
+        {
+            "name": "Kate Emma Rotschild",
+            "href": "https://www.whosdatedwho.com/dating/kate-emma-rotschild",
+            "relationship_type": 4,
+            "start_date": "2003",
+            "end_date": "2012",
+            "length": "9 years",
+            "start_months_since_1900": 1236,
+            "end_months_since_1900": 1344,
+            "length_in_months": 108
+        }
+    ],
+    "details": {
+        "First Name": "Ben",
+        "Middle Name": "NA",
+        "Last Name": "Goldsmith",
+        "Maiden Name": "NA",
+        "Full Name at Birth": "Benjamin James Goldsmith",
+        "Alternative Name": "Benjamin James Goldsmith",
+        "Birthday": "1980",
+        "Birthplace": "UK",
+        "Height": "NA",
+        "Weight": "NA",
+        "Zodiac Sign": "5",
+        "Sexuality": "Straight",
+        "Religion": "18",
+        "Ethnicity": "6",
+        "Nationality": "98",
+        "Occupation": "7"
+    }
+}

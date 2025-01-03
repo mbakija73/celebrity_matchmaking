@@ -1,0 +1,33 @@
+{
+    "relationships": [
+        {
+            "name": "Dorothy Dandridge",
+            "href": "https://www.whosdatedwho.com/dating/dorothy-dandridge",
+            "relationship_type": 4,
+            "start_date": "Jun 1958",
+            "end_date": "Dec 1962",
+            "length": "4 years",
+            "start_months_since_1900": 701,
+            "end_months_since_1900": 755,
+            "length_in_months": 48
+        }
+    ],
+    "details": {
+        "First Name": "Jack",
+        "Middle Name": "NA",
+        "Last Name": "Denison",
+        "Maiden Name": "NA",
+        "Full Name at Birth": "NA",
+        "Alternative Name": "NA",
+        "Birthday": "NA",
+        "Birthplace": "NA",
+        "Height": "NA",
+        "Weight": "NA",
+        "Zodiac Sign": "2",
+        "Sexuality": "NA",
+        "Religion": "1",
+        "Ethnicity": "1",
+        "Nationality": "65",
+        "Occupation": "19"
+    }
+}

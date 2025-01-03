@@ -1,0 +1,55 @@
+{
+    "relationships": [
+        {
+            "name": "Grover Asmus",
+            "href": "https://www.whosdatedwho.com/dating/grover-asmus",
+            "relationship_type": 4,
+            "start_date": "2001",
+            "end_date": "Oct 2003",
+            "length": "2 years",
+            "start_months_since_1900": 1212,
+            "end_months_since_1900": 1245,
+            "length_in_months": 24
+        },
+        {
+            "name": "John Good",
+            "href": "https://www.whosdatedwho.com/dating/john-good",
+            "relationship_type": 4,
+            "start_date": "May 1947",
+            "end_date": "Dec 1996",
+            "length": "49 years",
+            "start_months_since_1900": 568,
+            "end_months_since_1900": 1163,
+            "length_in_months": 588
+        },
+        {
+            "name": "John Whitney",
+            "href": "https://www.whosdatedwho.com/dating/john-whitney",
+            "relationship_type": 4,
+            "start_date": "1941",
+            "end_date": "1946",
+            "length": "5 years",
+            "start_months_since_1900": 492,
+            "end_months_since_1900": 552,
+            "length_in_months": 60
+        }
+    ],
+    "details": {
+        "First Name": "Louise",
+        "Middle Name": "NA",
+        "Last Name": "Currie",
+        "Maiden Name": "NA",
+        "Full Name at Birth": "Louise Currie",
+        "Alternative Name": "Louise Currie",
+        "Birthday": "1913",
+        "Birthplace": "Oklahoma USA",
+        "Height": "NA",
+        "Weight": "NA",
+        "Zodiac Sign": "7",
+        "Sexuality": "Straight",
+        "Religion": "1",
+        "Ethnicity": "6",
+        "Nationality": "91",
+        "Occupation": "8"
+    }
+}

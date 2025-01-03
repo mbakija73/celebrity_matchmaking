@@ -1,0 +1,44 @@
+{
+    "relationships": [
+        {
+            "name": "Rod Stewart",
+            "href": "https://www.whosdatedwho.com/dating/rod-stewart",
+            "relationship_type": 3,
+            "start_date": "2000",
+            "end_date": "2000",
+            "length": "-",
+            "start_months_since_1900": 1200,
+            "end_months_since_1900": 1200,
+            "length_in_months": -1
+        },
+        {
+            "name": "Mick Mars",
+            "href": "https://www.whosdatedwho.com/dating/mick-mars",
+            "relationship_type": 2,
+            "start_date": "1995",
+            "end_date": "Dec 2004",
+            "length": "9 years",
+            "start_months_since_1900": 1140,
+            "end_months_since_1900": 1259,
+            "length_in_months": 108
+        }
+    ],
+    "details": {
+        "First Name": "Robbie",
+        "Middle Name": "Lauren",
+        "Last Name": "Mantooth",
+        "Maiden Name": "NA",
+        "Full Name at Birth": "Robbie Lauren Mantooth",
+        "Alternative Name": "NA",
+        "Birthday": "NA",
+        "Birthplace": "USA",
+        "Height": "NA",
+        "Weight": "NA",
+        "Zodiac Sign": "2",
+        "Sexuality": "Straight",
+        "Religion": "1",
+        "Ethnicity": "6",
+        "Nationality": "91",
+        "Occupation": "1"
+    }
+}

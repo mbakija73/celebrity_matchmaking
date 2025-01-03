@@ -1,0 +1,110 @@
+{
+    "relationships": [
+        {
+            "name": "Sam Levinson",
+            "href": "https://www.whosdatedwho.com/dating/sam-levinson",
+            "relationship_type": 2,
+            "start_date": "Dec 2010",
+            "end_date": "Dec 2011",
+            "length": "1 year",
+            "start_months_since_1900": 1331,
+            "end_months_since_1900": 1343,
+            "length_in_months": 12
+        },
+        {
+            "name": "Ralph Fiennes",
+            "href": "https://www.whosdatedwho.com/dating/ralph-fiennes",
+            "relationship_type": 2,
+            "start_date": "2006",
+            "end_date": "2006",
+            "length": "-",
+            "start_months_since_1900": 1272,
+            "end_months_since_1900": 1272,
+            "length_in_months": -1
+        },
+        {
+            "name": "Ronald O. Perelman",
+            "href": "https://www.whosdatedwho.com/dating/ronald-o-perelman",
+            "relationship_type": 4,
+            "start_date": "Mar 1999",
+            "end_date": "Feb 2006",
+            "length": "6 years",
+            "start_months_since_1900": 1190,
+            "end_months_since_1900": 1273,
+            "length_in_months": 72
+        },
+        {
+            "name": "David Arquette",
+            "href": "https://www.whosdatedwho.com/dating/david-arquette",
+            "relationship_type": 2,
+            "start_date": "Oct 1994",
+            "end_date": "Mar 1995",
+            "length": "5 months",
+            "start_months_since_1900": 1137,
+            "end_months_since_1900": 1142,
+            "length_in_months": 5
+        },
+        {
+            "name": "Johnny Depp",
+            "href": "https://www.whosdatedwho.com/dating/johnny-depp",
+            "relationship_type": 3,
+            "start_date": "1994",
+            "end_date": "1998",
+            "length": "4 years",
+            "start_months_since_1900": 1128,
+            "end_months_since_1900": 1176,
+            "length_in_months": 48
+        },
+        {
+            "name": "Gabriel Byrne",
+            "href": "https://www.whosdatedwho.com/dating/gabriel-byrne",
+            "relationship_type": 4,
+            "start_date": "Aug 1986",
+            "end_date": "Dec 1999",
+            "length": "13 years",
+            "start_months_since_1900": 1039,
+            "end_months_since_1900": 1199,
+            "length_in_months": 156
+        },
+        {
+            "name": "Robert Duvall",
+            "href": "https://www.whosdatedwho.com/dating/robert-duvall",
+            "relationship_type": 2,
+            "start_date": "Nov 1981",
+            "end_date": "Jan 1982",
+            "length": "2 months",
+            "start_months_since_1900": 982,
+            "end_months_since_1900": 984,
+            "length_in_months": 2
+        },
+        {
+            "name": "Matt Dillon",
+            "href": "https://www.whosdatedwho.com/dating/matt-dillon",
+            "relationship_type": 2,
+            "start_date": "",
+            "end_date": "",
+            "length": "-",
+            "start_months_since_1900": -1,
+            "end_months_since_1900": -1,
+            "length_in_months": -1
+        }
+    ],
+    "details": {
+        "First Name": "Ellen",
+        "Middle Name": "Rona",
+        "Last Name": "NA",
+        "Maiden Name": "Barkin",
+        "Full Name at Birth": "Ellen Rona Barkin",
+        "Alternative Name": "Ellen",
+        "Birthday": "1954",
+        "Birthplace": "USA",
+        "Height": "168",
+        "Weight": "128lbs (58 kg)",
+        "Zodiac Sign": "7",
+        "Sexuality": "Straight",
+        "Religion": "31",
+        "Ethnicity": "6",
+        "Nationality": "91",
+        "Occupation": "8"
+    }
+}

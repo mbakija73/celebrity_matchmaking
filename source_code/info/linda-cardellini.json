@@ -1,0 +1,77 @@
+{
+    "relationships": [
+        {
+            "name": "Steven Rodriguez",
+            "href": "https://www.whosdatedwho.com/dating/steven-rodriguez",
+            "relationship_type": 2,
+            "start_date": "2009",
+            "end_date": "present",
+            "length": "15 years",
+            "start_months_since_1900": 1308,
+            "end_months_since_1900": -1,
+            "length_in_months": 180
+        },
+        {
+            "name": "Justin Rogina",
+            "href": "https://www.whosdatedwho.com/dating/justin-rogina",
+            "relationship_type": 2,
+            "start_date": "Jun 2008",
+            "end_date": "Aug 2008",
+            "length": "2 months",
+            "start_months_since_1900": 1301,
+            "end_months_since_1900": 1303,
+            "length_in_months": 2
+        },
+        {
+            "name": "Jason Segel",
+            "href": "https://www.whosdatedwho.com/dating/jason-segel",
+            "relationship_type": 2,
+            "start_date": "Mar 2001",
+            "end_date": "Jan 2007",
+            "length": "5 years",
+            "start_months_since_1900": 1214,
+            "end_months_since_1900": 1284,
+            "length_in_months": 60
+        },
+        {
+            "name": "Jason Segel",
+            "href": "https://www.whosdatedwho.com/dating/jason-segel",
+            "relationship_type": 2,
+            "start_date": "Mar 2001",
+            "end_date": "Jan 2007",
+            "length": "5 years",
+            "start_months_since_1900": 1214,
+            "end_months_since_1900": 1284,
+            "length_in_months": 60
+        },
+        {
+            "name": "Nicholaus Goossen",
+            "href": "https://www.whosdatedwho.com/dating/nicholaus-goossen",
+            "relationship_type": 1,
+            "start_date": "",
+            "end_date": "",
+            "length": "-",
+            "start_months_since_1900": -1,
+            "end_months_since_1900": -1,
+            "length_in_months": -1
+        }
+    ],
+    "details": {
+        "First Name": "Linda",
+        "Middle Name": "Edna",
+        "Last Name": "Cardellini",
+        "Maiden Name": "NA",
+        "Full Name at Birth": "Linda Edna Cardellini",
+        "Alternative Name": "Linda Edna Cardellini, Linda Cardellini",
+        "Birthday": "1975",
+        "Birthplace": "USA",
+        "Height": "160",
+        "Weight": "130lbs (59 kg)",
+        "Zodiac Sign": "8",
+        "Sexuality": "Straight",
+        "Religion": "13",
+        "Ethnicity": "6",
+        "Nationality": "91",
+        "Occupation": "8"
+    }
+}

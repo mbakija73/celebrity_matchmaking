@@ -1,0 +1,165 @@
+{
+    "relationships": [
+        {
+            "name": "Nancy Reagan",
+            "href": "https://www.whosdatedwho.com/dating/nancy-reagan",
+            "relationship_type": 4,
+            "start_date": "1951",
+            "end_date": "Jun 2004",
+            "length": "53 years",
+            "start_months_since_1900": 612,
+            "end_months_since_1900": 1253,
+            "length_in_months": 636
+        },
+        {
+            "name": "Piper Laurie",
+            "href": "https://www.whosdatedwho.com/dating/piper-laurie",
+            "relationship_type": 2,
+            "start_date": "May 1950",
+            "end_date": "Sep 1951",
+            "length": "1 year",
+            "start_months_since_1900": 604,
+            "end_months_since_1900": 620,
+            "length_in_months": 12
+        },
+        {
+            "name": "Ruth Roman",
+            "href": "https://www.whosdatedwho.com/dating/ruth-roman",
+            "relationship_type": 2,
+            "start_date": "Dec 1949",
+            "end_date": "Feb 1950",
+            "length": "2 months",
+            "start_months_since_1900": 599,
+            "end_months_since_1900": 601,
+            "length_in_months": 2
+        },
+        {
+            "name": "Elizabeth Taylor",
+            "href": "https://www.whosdatedwho.com/dating/elizabeth-taylor",
+            "relationship_type": 3,
+            "start_date": "May 1949",
+            "end_date": "Jul 1949",
+            "length": "2 months",
+            "start_months_since_1900": 592,
+            "end_months_since_1900": 594,
+            "length_in_months": 2
+        },
+        {
+            "name": "Penny Edwards",
+            "href": "https://www.whosdatedwho.com/dating/penny-edwards",
+            "relationship_type": 2,
+            "start_date": "1949",
+            "end_date": "1949",
+            "length": "-",
+            "start_months_since_1900": 588,
+            "end_months_since_1900": 588,
+            "length_in_months": -1
+        },
+        {
+            "name": "Marilyn Monroe",
+            "href": "https://www.whosdatedwho.com/dating/marilyn-monroe",
+            "relationship_type": 3,
+            "start_date": "1948",
+            "end_date": "1948",
+            "length": "-",
+            "start_months_since_1900": 576,
+            "end_months_since_1900": 576,
+            "length_in_months": -1
+        },
+        {
+            "name": "Doris Day",
+            "href": "https://www.whosdatedwho.com/dating/doris-day",
+            "relationship_type": 2,
+            "start_date": "1948",
+            "end_date": "1950",
+            "length": "2 years",
+            "start_months_since_1900": 576,
+            "end_months_since_1900": 600,
+            "length_in_months": 24
+        },
+        {
+            "name": "Patricia Neal",
+            "href": "https://www.whosdatedwho.com/dating/patricia-neal",
+            "relationship_type": 2,
+            "start_date": "1948",
+            "end_date": "1948",
+            "length": "-",
+            "start_months_since_1900": 576,
+            "end_months_since_1900": 576,
+            "length_in_months": -1
+        },
+        {
+            "name": "Priscilla Lane",
+            "href": "https://www.whosdatedwho.com/dating/priscilla-lane",
+            "relationship_type": 3,
+            "start_date": "Jan 1941",
+            "end_date": "Jul 1941",
+            "length": "6 months",
+            "start_months_since_1900": 492,
+            "end_months_since_1900": 498,
+            "length_in_months": 6
+        },
+        {
+            "name": "Ann Sheridan",
+            "href": "https://www.whosdatedwho.com/dating/ann-sheridan",
+            "relationship_type": 3,
+            "start_date": "1941",
+            "end_date": "1941",
+            "length": "-",
+            "start_months_since_1900": 492,
+            "end_months_since_1900": 492,
+            "length_in_months": -1
+        },
+        {
+            "name": "Jane Wyman",
+            "href": "https://www.whosdatedwho.com/dating/jane-wyman",
+            "relationship_type": 4,
+            "start_date": "May 1939",
+            "end_date": "18th Jul 1949",
+            "length": "10 years",
+            "start_months_since_1900": 472,
+            "end_months_since_1900": 594,
+            "length_in_months": 120
+        },
+        {
+            "name": "Joan Blondell",
+            "href": "https://www.whosdatedwho.com/dating/joan-blondell",
+            "relationship_type": 3,
+            "start_date": "Aug 1937",
+            "end_date": "Oct 1937",
+            "length": "2 months",
+            "start_months_since_1900": 451,
+            "end_months_since_1900": 453,
+            "length_in_months": 2
+        },
+        {
+            "name": "Ila Rhodes",
+            "href": "https://www.whosdatedwho.com/dating/ila-rhodes",
+            "relationship_type": 2,
+            "start_date": "1936",
+            "end_date": "Nov 1938",
+            "length": "2 years",
+            "start_months_since_1900": 432,
+            "end_months_since_1900": 466,
+            "length_in_months": 24
+        }
+    ],
+    "details": {
+        "First Name": "Ronald",
+        "Middle Name": "Wilson",
+        "Last Name": "Reagan",
+        "Maiden Name": "NA",
+        "Full Name at Birth": "Ronald Wilson Reagan",
+        "Alternative Name": "The Gipper, The Teflon president, Dutch, Ronald Wilson Reagan, Ronald Reagan, Ronnie, The Great Communicator, Bonzo",
+        "Birthday": "1911",
+        "Birthplace": "United States",
+        "Height": "185",
+        "Weight": "185lbs (84 kg)",
+        "Zodiac Sign": "9",
+        "Sexuality": "Straight",
+        "Religion": "4",
+        "Ethnicity": "6",
+        "Nationality": "91",
+        "Occupation": "12"
+    }
+}

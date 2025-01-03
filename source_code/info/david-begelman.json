@@ -1,0 +1,55 @@
+{
+    "relationships": [
+        {
+            "name": "Ann Weston Begelman",
+            "href": "https://www.whosdatedwho.com/dating/ann-weston-begelman",
+            "relationship_type": 4,
+            "start_date": "1989",
+            "end_date": "7th Aug 1995",
+            "length": "6 years",
+            "start_months_since_1900": 1068,
+            "end_months_since_1900": 1147,
+            "length_in_months": 72
+        },
+        {
+            "name": "Sandra Grant",
+            "href": "https://www.whosdatedwho.com/dating/sandra-grant",
+            "relationship_type": 2,
+            "start_date": "1986",
+            "end_date": "1990",
+            "length": "4 years",
+            "start_months_since_1900": 1032,
+            "end_months_since_1900": 1080,
+            "length_in_months": 48
+        },
+        {
+            "name": "Gladyce Largever",
+            "href": "https://www.whosdatedwho.com/dating/gladyce-largever",
+            "relationship_type": 4,
+            "start_date": "1973",
+            "end_date": "1986",
+            "length": "13 years",
+            "start_months_since_1900": 876,
+            "end_months_since_1900": 1032,
+            "length_in_months": 156
+        }
+    ],
+    "details": {
+        "First Name": "David",
+        "Middle Name": "NA",
+        "Last Name": "Begelman",
+        "Maiden Name": "NA",
+        "Full Name at Birth": "David Begelman",
+        "Alternative Name": "NA",
+        "Birthday": "1921",
+        "Birthplace": "New York",
+        "Height": "NA",
+        "Weight": "NA",
+        "Zodiac Sign": "11",
+        "Sexuality": "Straight",
+        "Religion": "31",
+        "Ethnicity": "6",
+        "Nationality": "91",
+        "Occupation": "9"
+    }
+}

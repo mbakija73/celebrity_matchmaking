@@ -1,0 +1,44 @@
+{
+    "relationships": [
+        {
+            "name": "Rebecca Walker",
+            "href": "https://www.whosdatedwho.com/dating/rebecca-walker",
+            "relationship_type": 2,
+            "start_date": "Jan 2012",
+            "end_date": "Apr 2012",
+            "length": "3 months",
+            "start_months_since_1900": 1344,
+            "end_months_since_1900": 1347,
+            "length_in_months": 3
+        },
+        {
+            "name": "Vicky Pattison",
+            "href": "https://www.whosdatedwho.com/dating/vicky-pattison",
+            "relationship_type": 2,
+            "start_date": "May 2011",
+            "end_date": "Jul 2011",
+            "length": "2 months",
+            "start_months_since_1900": 1336,
+            "end_months_since_1900": 1338,
+            "length_in_months": 2
+        }
+    ],
+    "details": {
+        "First Name": "Jay",
+        "Middle Name": "NA",
+        "Last Name": "Gardner",
+        "Maiden Name": "NA",
+        "Full Name at Birth": "Jason Gardner",
+        "Alternative Name": "Jay",
+        "Birthday": "1987",
+        "Birthplace": "NA",
+        "Height": "NA",
+        "Weight": "NA",
+        "Zodiac Sign": "8",
+        "Sexuality": "Straight",
+        "Religion": "1",
+        "Ethnicity": "1",
+        "Nationality": "98",
+        "Occupation": "19"
+    }
+}

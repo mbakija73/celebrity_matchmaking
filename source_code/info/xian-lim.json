@@ -1,0 +1,55 @@
+{
+    "relationships": [
+        {
+            "name": "Iris Lee",
+            "href": "https://www.whosdatedwho.com/dating/iris-lee-126521387",
+            "relationship_type": 2,
+            "start_date": "Dec 2023",
+            "end_date": "present",
+            "length": "10 months",
+            "start_months_since_1900": 1487,
+            "end_months_since_1900": -1,
+            "length_in_months": 10
+        },
+        {
+            "name": "Kim Chiu",
+            "href": "https://www.whosdatedwho.com/dating/kim-chiu",
+            "relationship_type": 2,
+            "start_date": "Sep 2011",
+            "end_date": "2023",
+            "length": "11 years",
+            "start_months_since_1900": 1340,
+            "end_months_since_1900": 1476,
+            "length_in_months": 132
+        },
+        {
+            "name": "Erich Gonzales",
+            "href": "https://www.whosdatedwho.com/dating/erich-gonzales",
+            "relationship_type": 2,
+            "start_date": "Jan 2010",
+            "end_date": "Apr 2011",
+            "length": "1 year",
+            "start_months_since_1900": 1320,
+            "end_months_since_1900": 1335,
+            "length_in_months": 12
+        }
+    ],
+    "details": {
+        "First Name": "Xian",
+        "Middle Name": "Lim",
+        "Last Name": "Uy",
+        "Maiden Name": "NA",
+        "Full Name at Birth": "Alexander Xian Cruz Lim Uy",
+        "Alternative Name": "Xian Lim",
+        "Birthday": "1989",
+        "Birthplace": "United States",
+        "Height": "183",
+        "Weight": "NA",
+        "Zodiac Sign": "8",
+        "Sexuality": "Straight",
+        "Religion": "1",
+        "Ethnicity": "3",
+        "Nationality": "16",
+        "Occupation": "8"
+    }
+}

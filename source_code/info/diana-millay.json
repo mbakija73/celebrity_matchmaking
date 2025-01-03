@@ -1,0 +1,44 @@
+{
+    "relationships": [
+        {
+            "name": "Geoffrey Jones",
+            "href": "https://www.whosdatedwho.com/dating/geoffrey-jones",
+            "relationship_type": 4,
+            "start_date": "Jan 1966",
+            "end_date": "1970",
+            "length": "4 years",
+            "start_months_since_1900": 792,
+            "end_months_since_1900": 840,
+            "length_in_months": 48
+        },
+        {
+            "name": "Errol Flynn",
+            "href": "https://www.whosdatedwho.com/dating/errol-flynn",
+            "relationship_type": 3,
+            "start_date": "Feb 1957",
+            "end_date": "Apr 1957",
+            "length": "1 month",
+            "start_months_since_1900": 685,
+            "end_months_since_1900": 687,
+            "length_in_months": 1
+        }
+    ],
+    "details": {
+        "First Name": "Diana",
+        "Middle Name": "NA",
+        "Last Name": "Millay",
+        "Maiden Name": "NA",
+        "Full Name at Birth": "Diana Claire Millay",
+        "Alternative Name": "NA",
+        "Birthday": "1935",
+        "Birthplace": "New York",
+        "Height": "163",
+        "Weight": "NA",
+        "Zodiac Sign": "4",
+        "Sexuality": "Straight",
+        "Religion": "1",
+        "Ethnicity": "6",
+        "Nationality": "91",
+        "Occupation": "8"
+    }
+}

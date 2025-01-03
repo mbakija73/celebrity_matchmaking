@@ -1,0 +1,55 @@
+{
+    "relationships": [
+        {
+            "name": "Vita Sackville-West",
+            "href": "https://www.whosdatedwho.com/dating/vita-sackville-west",
+            "relationship_type": 4,
+            "start_date": "1912",
+            "end_date": "Jun 1962",
+            "length": "50 years",
+            "start_months_since_1900": 144,
+            "end_months_since_1900": 749,
+            "length_in_months": 600
+        },
+        {
+            "name": "Raymond Mortimer",
+            "href": "https://www.whosdatedwho.com/dating/raymond-mortimer",
+            "relationship_type": 2,
+            "start_date": "",
+            "end_date": "",
+            "length": "-",
+            "start_months_since_1900": -1,
+            "end_months_since_1900": -1,
+            "length_in_months": -1
+        },
+        {
+            "name": "James Lees-Milne",
+            "href": "https://www.whosdatedwho.com/dating/james-lees-milne",
+            "relationship_type": 2,
+            "start_date": "",
+            "end_date": "",
+            "length": "-",
+            "start_months_since_1900": -1,
+            "end_months_since_1900": -1,
+            "length_in_months": -1
+        }
+    ],
+    "details": {
+        "First Name": "Harold",
+        "Middle Name": "George",
+        "Last Name": "Nicolson",
+        "Maiden Name": "NA",
+        "Full Name at Birth": "Harold George Nicolson",
+        "Alternative Name": "Sir Harold George Nicolson, Harold George Nicolson, Harold Nicolson",
+        "Birthday": "1886",
+        "Birthplace": "Iran (Persia)",
+        "Height": "NA",
+        "Weight": "NA",
+        "Zodiac Sign": "5",
+        "Sexuality": "Bisexual",
+        "Religion": "1",
+        "Ethnicity": "6",
+        "Nationality": "8",
+        "Occupation": "12"
+    }
+}

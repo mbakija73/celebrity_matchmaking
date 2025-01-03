@@ -1,0 +1,33 @@
+{
+    "relationships": [
+        {
+            "name": "Karan Johar",
+            "href": "https://www.whosdatedwho.com/dating/karan-johar",
+            "relationship_type": 1,
+            "start_date": "May 2019",
+            "end_date": "May 2019",
+            "length": "-",
+            "start_months_since_1900": 1432,
+            "end_months_since_1900": 1432,
+            "length_in_months": -1
+        }
+    ],
+    "details": {
+        "First Name": "Prabal",
+        "Middle Name": "NA",
+        "Last Name": "Gurung",
+        "Maiden Name": "NA",
+        "Full Name at Birth": "NA",
+        "Alternative Name": "NA",
+        "Birthday": "1979",
+        "Birthplace": "Singapore",
+        "Height": "175",
+        "Weight": "NA",
+        "Zodiac Sign": "7",
+        "Sexuality": "NA",
+        "Religion": "1",
+        "Ethnicity": "3",
+        "Nationality": "100",
+        "Occupation": "15"
+    }
+}

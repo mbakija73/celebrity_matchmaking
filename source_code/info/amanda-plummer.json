@@ -1,0 +1,66 @@
+{
+    "relationships": [
+        {
+            "name": "Tobe Hooper",
+            "href": "https://www.whosdatedwho.com/dating/tobe-hooper",
+            "relationship_type": 2,
+            "start_date": "2000",
+            "end_date": "2002",
+            "length": "2 years",
+            "start_months_since_1900": 1200,
+            "end_months_since_1900": 1224,
+            "length_in_months": 24
+        },
+        {
+            "name": "Paul Chart",
+            "href": "https://www.whosdatedwho.com/dating/paul-chart",
+            "relationship_type": 2,
+            "start_date": "1995",
+            "end_date": "1999",
+            "length": "4 years",
+            "start_months_since_1900": 1140,
+            "end_months_since_1900": 1188,
+            "length_in_months": 48
+        },
+        {
+            "name": "Jeff Cliff (date)",
+            "href": "https://www.whosdatedwho.com/dating/jeff-cliff-date",
+            "relationship_type": 2,
+            "start_date": "1987",
+            "end_date": "1987",
+            "length": "-",
+            "start_months_since_1900": 1044,
+            "end_months_since_1900": 1044,
+            "length_in_months": -1
+        },
+        {
+            "name": "Peter O'Toole",
+            "href": "https://www.whosdatedwho.com/dating/peter-o-toole",
+            "relationship_type": 2,
+            "start_date": "1979",
+            "end_date": "1982",
+            "length": "3 years",
+            "start_months_since_1900": 948,
+            "end_months_since_1900": 984,
+            "length_in_months": 36
+        }
+    ],
+    "details": {
+        "First Name": "Amanda",
+        "Middle Name": "Michael",
+        "Last Name": "Plummer",
+        "Maiden Name": "NA",
+        "Full Name at Birth": "Amanda Michael Plummer",
+        "Alternative Name": "Amanda",
+        "Birthday": "1957",
+        "Birthplace": "USA",
+        "Height": "163",
+        "Weight": "121lbs (55 kg)",
+        "Zodiac Sign": "7",
+        "Sexuality": "Straight",
+        "Religion": "1",
+        "Ethnicity": "6",
+        "Nationality": "91",
+        "Occupation": "8"
+    }
+}

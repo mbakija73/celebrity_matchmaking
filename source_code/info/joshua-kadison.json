@@ -1,0 +1,33 @@
+{
+    "relationships": [
+        {
+            "name": "Sarah Jessica Parker",
+            "href": "https://www.whosdatedwho.com/dating/sarah-jessica-parker",
+            "relationship_type": 2,
+            "start_date": "1991",
+            "end_date": "1991",
+            "length": "-",
+            "start_months_since_1900": 1092,
+            "end_months_since_1900": 1092,
+            "length_in_months": -1
+        }
+    ],
+    "details": {
+        "First Name": "Joshua",
+        "Middle Name": "Brian",
+        "Last Name": "Kadison",
+        "Maiden Name": "NA",
+        "Full Name at Birth": "Joshua Brian Kadison",
+        "Alternative Name": "Joshua Kadison, Joshua Brian Kadison",
+        "Birthday": "1965",
+        "Birthplace": "USA",
+        "Height": "NA",
+        "Weight": "NA",
+        "Zodiac Sign": "9",
+        "Sexuality": "Bisexual",
+        "Religion": "1",
+        "Ethnicity": "6",
+        "Nationality": "91",
+        "Occupation": "1"
+    }
+}

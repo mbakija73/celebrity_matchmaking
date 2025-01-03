@@ -1,0 +1,66 @@
+{
+    "relationships": [
+        {
+            "name": "Erin Andrews",
+            "href": "https://www.whosdatedwho.com/dating/erin-andrews",
+            "relationship_type": 4,
+            "start_date": "Dec 2012",
+            "end_date": "present",
+            "length": "11 years",
+            "start_months_since_1900": 1355,
+            "end_months_since_1900": -1,
+            "length_in_months": 132
+        },
+        {
+            "name": "Paulina Gretzky",
+            "href": "https://www.whosdatedwho.com/dating/paulina-gretzky",
+            "relationship_type": 3,
+            "start_date": "Jun 2012",
+            "end_date": "2012",
+            "length": "5 months",
+            "start_months_since_1900": 1349,
+            "end_months_since_1900": 1344,
+            "length_in_months": 5
+        },
+        {
+            "name": "Katie Cassidy",
+            "href": "https://www.whosdatedwho.com/dating/katie-cassidy",
+            "relationship_type": 2,
+            "start_date": "Jan 2010",
+            "end_date": "Dec 2011",
+            "length": "1 year",
+            "start_months_since_1900": 1320,
+            "end_months_since_1900": 1343,
+            "length_in_months": 12
+        },
+        {
+            "name": "Rachel Hunter",
+            "href": "https://www.whosdatedwho.com/dating/rachel-hunter",
+            "relationship_type": 2,
+            "start_date": "Jun 2006",
+            "end_date": "Jun 2009",
+            "length": "3 years",
+            "start_months_since_1900": 1277,
+            "end_months_since_1900": 1313,
+            "length_in_months": 36
+        }
+    ],
+    "details": {
+        "First Name": "Jarret",
+        "Middle Name": "Lee",
+        "Last Name": "Stoll",
+        "Maiden Name": "NA",
+        "Full Name at Birth": "Jarret Lee Stoll",
+        "Alternative Name": "NA",
+        "Birthday": "1982",
+        "Birthplace": "Saskatchewan",
+        "Height": "185",
+        "Weight": "213lbs (97 kg)",
+        "Zodiac Sign": "8",
+        "Sexuality": "Straight",
+        "Religion": "1",
+        "Ethnicity": "6",
+        "Nationality": "90",
+        "Occupation": "2"
+    }
+}

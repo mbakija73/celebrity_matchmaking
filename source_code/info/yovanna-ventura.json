@@ -1,0 +1,66 @@
+{
+    "relationships": [
+        {
+            "name": "Swae Lee",
+            "href": "https://www.whosdatedwho.com/dating/swae-lee",
+            "relationship_type": 2,
+            "start_date": "Oct 2018",
+            "end_date": "Apr 2019",
+            "length": "6 months",
+            "start_months_since_1900": 1425,
+            "end_months_since_1900": 1431,
+            "length_in_months": 6
+        },
+        {
+            "name": "The Weeknd",
+            "href": "https://www.whosdatedwho.com/dating/the-weeknd",
+            "relationship_type": 3,
+            "start_date": "Nov 2017",
+            "end_date": "Nov 2017",
+            "length": "-",
+            "start_months_since_1900": 1414,
+            "end_months_since_1900": 1414,
+            "length_in_months": -1
+        },
+        {
+            "name": "Ryan Moreno",
+            "href": "https://www.whosdatedwho.com/dating/ryan-moreno",
+            "relationship_type": 2,
+            "start_date": "2016",
+            "end_date": "",
+            "length": "-",
+            "start_months_since_1900": 1392,
+            "end_months_since_1900": -1,
+            "length_in_months": -1
+        },
+        {
+            "name": "Justin Bieber",
+            "href": "https://www.whosdatedwho.com/dating/justin-bieber",
+            "relationship_type": 3,
+            "start_date": "May 2014",
+            "end_date": "Mar 2015",
+            "length": "10 months",
+            "start_months_since_1900": 1372,
+            "end_months_since_1900": 1382,
+            "length_in_months": 10
+        }
+    ],
+    "details": {
+        "First Name": "Yovanna",
+        "Middle Name": "Karen",
+        "Last Name": "Ventura",
+        "Maiden Name": "NA",
+        "Full Name at Birth": "Yovanna Karen Ventura",
+        "Alternative Name": "Yovanna",
+        "Birthday": "1995",
+        "Birthplace": "USA",
+        "Height": "175",
+        "Weight": "137lbs (62 kg)",
+        "Zodiac Sign": "6",
+        "Sexuality": "Straight",
+        "Religion": "1",
+        "Ethnicity": "8",
+        "Nationality": "91",
+        "Occupation": "15"
+    }
+}

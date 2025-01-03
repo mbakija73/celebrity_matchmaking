@@ -1,0 +1,55 @@
+{
+    "relationships": [
+        {
+            "name": "Sada",
+            "href": "https://www.whosdatedwho.com/dating/sada-actress",
+            "relationship_type": 1,
+            "start_date": "2010",
+            "end_date": "2010",
+            "length": "-",
+            "start_months_since_1900": 1320,
+            "end_months_since_1900": 1320,
+            "length_in_months": -1
+        },
+        {
+            "name": "Sarita Birje",
+            "href": "https://www.whosdatedwho.com/dating/sarita-birje",
+            "relationship_type": 4,
+            "start_date": "1999",
+            "end_date": "present",
+            "length": "25 years",
+            "start_months_since_1900": 1188,
+            "end_months_since_1900": -1,
+            "length_in_months": 300
+        },
+        {
+            "name": "Komal Jha",
+            "href": "https://www.whosdatedwho.com/dating/komal-jha",
+            "relationship_type": 1,
+            "start_date": "",
+            "end_date": "",
+            "length": "-",
+            "start_months_since_1900": -1,
+            "end_months_since_1900": -1,
+            "length_in_months": -1
+        }
+    ],
+    "details": {
+        "First Name": "Madhavan",
+        "Middle Name": "NA",
+        "Last Name": "NA",
+        "Maiden Name": "NA",
+        "Full Name at Birth": "Madhavan Ranganathan",
+        "Alternative Name": "R. Madhavan, Madhavan",
+        "Birthday": "1970",
+        "Birthplace": "India",
+        "Height": "185",
+        "Weight": "NA",
+        "Zodiac Sign": "4",
+        "Sexuality": "Straight",
+        "Religion": "27",
+        "Ethnicity": "7",
+        "Nationality": "34",
+        "Occupation": "8"
+    }
+}

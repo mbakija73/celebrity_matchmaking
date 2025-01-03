@@ -1,0 +1,132 @@
+{
+    "relationships": [
+        {
+            "name": "Dr. Henry Ross",
+            "href": "https://www.whosdatedwho.com/dating/dr-henry-ross",
+            "relationship_type": 4,
+            "start_date": "Jan 1941",
+            "end_date": "May 1971",
+            "length": "30 years",
+            "start_months_since_1900": 492,
+            "end_months_since_1900": 856,
+            "length_in_months": 360
+        },
+        {
+            "name": "Craig Reynolds",
+            "href": "https://www.whosdatedwho.com/dating/craig-reynolds",
+            "relationship_type": 3,
+            "start_date": "Mar 1936",
+            "end_date": "Apr 1936",
+            "length": "1 month",
+            "start_months_since_1900": 434,
+            "end_months_since_1900": 435,
+            "length_in_months": 1
+        },
+        {
+            "name": "Tom Lewis",
+            "href": "https://www.whosdatedwho.com/dating/tom-lewis",
+            "relationship_type": 2,
+            "start_date": "1935",
+            "end_date": "1935",
+            "length": "-",
+            "start_months_since_1900": 420,
+            "end_months_since_1900": 420,
+            "length_in_months": -1
+        },
+        {
+            "name": "Gene Raymond",
+            "href": "https://www.whosdatedwho.com/dating/gene-raymond",
+            "relationship_type": 2,
+            "start_date": "1933",
+            "end_date": "1933",
+            "length": "-",
+            "start_months_since_1900": 396,
+            "end_months_since_1900": 396,
+            "length_in_months": -1
+        },
+        {
+            "name": "Jack La Rue",
+            "href": "https://www.whosdatedwho.com/dating/jack-la-rue",
+            "relationship_type": 2,
+            "start_date": "1933",
+            "end_date": "1933",
+            "length": "-",
+            "start_months_since_1900": 396,
+            "end_months_since_1900": 396,
+            "length_in_months": -1
+        },
+        {
+            "name": "Humphrey Bogart",
+            "href": "https://www.whosdatedwho.com/dating/humphrey-bogart",
+            "relationship_type": 2,
+            "start_date": "1930",
+            "end_date": "1930",
+            "length": "-",
+            "start_months_since_1900": 360,
+            "end_months_since_1900": 360,
+            "length_in_months": -1
+        },
+        {
+            "name": "Robert Riskin",
+            "href": "https://www.whosdatedwho.com/dating/robert-riskin",
+            "relationship_type": 2,
+            "start_date": "1930",
+            "end_date": "1933",
+            "length": "3 years",
+            "start_months_since_1900": 360,
+            "end_months_since_1900": 396,
+            "length_in_months": 36
+        },
+        {
+            "name": "Thomas Richards",
+            "href": "https://www.whosdatedwho.com/dating/thomas-richards",
+            "relationship_type": 4,
+            "start_date": "1921",
+            "end_date": "1929",
+            "length": "8 years",
+            "start_months_since_1900": 252,
+            "end_months_since_1900": 348,
+            "length_in_months": 96
+        },
+        {
+            "name": "Mervyn LeRoy",
+            "href": "https://www.whosdatedwho.com/dating/mervyn-leroy",
+            "relationship_type": 3,
+            "start_date": "",
+            "end_date": "",
+            "length": "-",
+            "start_months_since_1900": -1,
+            "end_months_since_1900": -1,
+            "length_in_months": -1
+        },
+        {
+            "name": "Jack Randall",
+            "href": "https://www.whosdatedwho.com/dating/addison-randall",
+            "relationship_type": 2,
+            "start_date": "",
+            "end_date": "1936",
+            "length": "-",
+            "start_months_since_1900": -1,
+            "end_months_since_1900": 432,
+            "length_in_months": -1
+        }
+    ],
+    "details": {
+        "First Name": "Glenda",
+        "Middle Name": "NA",
+        "Last Name": "Farrell",
+        "Maiden Name": "NA",
+        "Full Name at Birth": "Glenda Farrell",
+        "Alternative Name": "NA",
+        "Birthday": "1904",
+        "Birthplace": "Oklahoma",
+        "Height": "160",
+        "Weight": "NA",
+        "Zodiac Sign": "8",
+        "Sexuality": "Straight",
+        "Religion": "13",
+        "Ethnicity": "6",
+        "Nationality": "91",
+        "Occupation": "8"
+    }
+}

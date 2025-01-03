@@ -1,0 +1,44 @@
+{
+    "relationships": [
+        {
+            "name": "Lytle Hull",
+            "href": "https://www.whosdatedwho.com/dating/lytle-hull",
+            "relationship_type": 4,
+            "start_date": "1941",
+            "end_date": "1958",
+            "length": "17 years",
+            "start_months_since_1900": 492,
+            "end_months_since_1900": 696,
+            "length_in_months": 204
+        },
+        {
+            "name": "Vincent Astor",
+            "href": "https://www.whosdatedwho.com/dating/vincent-astor",
+            "relationship_type": 4,
+            "start_date": "1914",
+            "end_date": "1940",
+            "length": "26 years",
+            "start_months_since_1900": 168,
+            "end_months_since_1900": 480,
+            "length_in_months": 312
+        }
+    ],
+    "details": {
+        "First Name": "Helen",
+        "Middle Name": "Dinsmore",
+        "Last Name": "Huntington",
+        "Maiden Name": "NA",
+        "Full Name at Birth": "Helen Dinsmore Huntington",
+        "Alternative Name": "Helen Astor, Helen Hull",
+        "Birthday": "1893",
+        "Birthplace": "United States",
+        "Height": "NA",
+        "Weight": "NA",
+        "Zodiac Sign": "7",
+        "Sexuality": "Bisexual",
+        "Religion": "1",
+        "Ethnicity": "6",
+        "Nationality": "91",
+        "Occupation": "11"
+    }
+}

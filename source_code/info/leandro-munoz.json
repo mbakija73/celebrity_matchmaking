@@ -1,0 +1,44 @@
+{
+    "relationships": [
+        {
+            "name": "Iwa Moto",
+            "href": "https://www.whosdatedwho.com/dating/iwa-moto",
+            "relationship_type": 2,
+            "start_date": "Feb 2012",
+            "end_date": "May 2012",
+            "length": "3 months",
+            "start_months_since_1900": 1345,
+            "end_months_since_1900": 1348,
+            "length_in_months": 3
+        },
+        {
+            "name": "Nadine Samonte",
+            "href": "https://www.whosdatedwho.com/dating/nadine-samonte",
+            "relationship_type": 2,
+            "start_date": "Aug 2011",
+            "end_date": "2012",
+            "length": "5 months",
+            "start_months_since_1900": 1339,
+            "end_months_since_1900": 1344,
+            "length_in_months": 5
+        }
+    ],
+    "details": {
+        "Height": "170",
+        "First Name": "NA",
+        "Middle Name": "NA",
+        "Last Name": "NA",
+        "Maiden Name": "NA",
+        "Full Name at Birth": "NA",
+        "Alternative Name": "NA",
+        "Birthday": "NA",
+        "Birthplace": "NA",
+        "Weight": "140lbs (64 kg)",
+        "Zodiac Sign": "2",
+        "Sexuality": "NA",
+        "Religion": "1",
+        "Ethnicity": "3",
+        "Nationality": "16",
+        "Occupation": "8"
+    }
+}

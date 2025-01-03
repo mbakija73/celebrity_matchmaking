@@ -1,0 +1,44 @@
+{
+    "relationships": [
+        {
+            "name": "Taylor Momsen",
+            "href": "https://www.whosdatedwho.com/dating/taylor-momsen",
+            "relationship_type": 3,
+            "start_date": "Nov 2008",
+            "end_date": "Nov 2008",
+            "length": "-",
+            "start_months_since_1900": 1306,
+            "end_months_since_1900": 1306,
+            "length_in_months": -1
+        },
+        {
+            "name": "Rebecca Swinton",
+            "href": "https://www.whosdatedwho.com/dating/rebecca-swinton",
+            "relationship_type": 2,
+            "start_date": "Mar 2005",
+            "end_date": "2006",
+            "length": "10 months",
+            "start_months_since_1900": 1262,
+            "end_months_since_1900": 1272,
+            "length_in_months": 10
+        }
+    ],
+    "details": {
+        "First Name": "Alexander",
+        "Middle Name": "Amin Casper",
+        "Last Name": "Keynes",
+        "Maiden Name": "NA",
+        "Full Name at Birth": "Alexander  Amin Casper Keynes",
+        "Alternative Name": "Skandy, Skandarwin, Skandar Keynes",
+        "Birthday": "1991",
+        "Birthplace": "United Kingdom",
+        "Height": "173",
+        "Weight": "NA",
+        "Zodiac Sign": "11",
+        "Sexuality": "Straight",
+        "Religion": "3",
+        "Ethnicity": "6",
+        "Nationality": "8",
+        "Occupation": "8"
+    }
+}

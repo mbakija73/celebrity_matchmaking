@@ -1,0 +1,55 @@
+{
+    "relationships": [
+        {
+            "name": "Robert Leeds",
+            "href": "https://www.whosdatedwho.com/dating/robert-leeds",
+            "relationship_type": 4,
+            "start_date": "1970",
+            "end_date": "Sep 1980",
+            "length": "10 years",
+            "start_months_since_1900": 840,
+            "end_months_since_1900": 968,
+            "length_in_months": 120
+        },
+        {
+            "name": "Roland Bourgeois",
+            "href": "https://www.whosdatedwho.com/dating/roland-bourgeois",
+            "relationship_type": 4,
+            "start_date": "1948",
+            "end_date": "1954",
+            "length": "6 years",
+            "start_months_since_1900": 576,
+            "end_months_since_1900": 648,
+            "length_in_months": 72
+        },
+        {
+            "name": "Max Baer Jr.",
+            "href": "https://www.whosdatedwho.com/dating/max-baer-jr",
+            "relationship_type": 2,
+            "start_date": "",
+            "end_date": "",
+            "length": "-",
+            "start_months_since_1900": -1,
+            "end_months_since_1900": -1,
+            "length_in_months": -1
+        }
+    ],
+    "details": {
+        "First Name": "Donna",
+        "Middle Name": "NA",
+        "Last Name": "Douglas",
+        "Maiden Name": "Smith",
+        "Full Name at Birth": "Dorothy Smith",
+        "Alternative Name": "NA",
+        "Birthday": "1933",
+        "Birthplace": "USA",
+        "Height": "NA",
+        "Weight": "125lbs (57 kg)",
+        "Zodiac Sign": "10",
+        "Sexuality": "Straight",
+        "Religion": "18",
+        "Ethnicity": "6",
+        "Nationality": "91",
+        "Occupation": "8"
+    }
+}

@@ -1,0 +1,33 @@
+{
+    "relationships": [
+        {
+            "name": "Tom Stoppard",
+            "href": "https://www.whosdatedwho.com/dating/tom-stoppard",
+            "relationship_type": 4,
+            "start_date": "1972",
+            "end_date": "1992",
+            "length": "20 years",
+            "start_months_since_1900": 864,
+            "end_months_since_1900": 1104,
+            "length_in_months": 240
+        }
+    ],
+    "details": {
+        "First Name": "Miriam",
+        "Middle Name": "NA",
+        "Last Name": "Stoppard",
+        "Maiden Name": "NA",
+        "Full Name at Birth": "Miriam Stern",
+        "Alternative Name": "Miriam Moore-Robinson",
+        "Birthday": "1937",
+        "Birthplace": "UK",
+        "Height": "NA",
+        "Weight": "NA",
+        "Zodiac Sign": "3",
+        "Sexuality": "NA",
+        "Religion": "31",
+        "Ethnicity": "6",
+        "Nationality": "8",
+        "Occupation": "6"
+    }
+}

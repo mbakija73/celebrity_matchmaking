@@ -1,0 +1,44 @@
+{
+    "relationships": [
+        {
+            "name": "Evan Seinfeld",
+            "href": "https://www.whosdatedwho.com/dating/evan-seinfeld",
+            "relationship_type": 3,
+            "start_date": "2004",
+            "end_date": "2004",
+            "length": "-",
+            "start_months_since_1900": 1248,
+            "end_months_since_1900": 1248,
+            "length_in_months": -1
+        },
+        {
+            "name": "Jesse Jane",
+            "href": "https://www.whosdatedwho.com/dating/jesse-jane",
+            "relationship_type": 3,
+            "start_date": "2004",
+            "end_date": "2004",
+            "length": "-",
+            "start_months_since_1900": 1248,
+            "end_months_since_1900": 1248,
+            "length_in_months": -1
+        }
+    ],
+    "details": {
+        "First Name": "Nautica",
+        "Middle Name": "NA",
+        "Last Name": "Thorn",
+        "Maiden Name": "NA",
+        "Full Name at Birth": "Shauna Tokumi",
+        "Alternative Name": "NA",
+        "Birthday": "1980",
+        "Birthplace": "USA",
+        "Height": "163",
+        "Weight": "114lbs (52 kg)",
+        "Zodiac Sign": "4",
+        "Sexuality": "Straight",
+        "Religion": "1",
+        "Ethnicity": "8",
+        "Nationality": "91",
+        "Occupation": "16"
+    }
+}

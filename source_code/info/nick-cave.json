@@ -1,0 +1,99 @@
+{
+    "relationships": [
+        {
+            "name": "Susie Bick",
+            "href": "https://www.whosdatedwho.com/dating/susie-bick",
+            "relationship_type": 4,
+            "start_date": "1997",
+            "end_date": "present",
+            "length": "27 years",
+            "start_months_since_1900": 1164,
+            "end_months_since_1900": -1,
+            "length_in_months": 324
+        },
+        {
+            "name": "PJ Harvey",
+            "href": "https://www.whosdatedwho.com/dating/p-j-harvey",
+            "relationship_type": 2,
+            "start_date": "1996",
+            "end_date": "1997",
+            "length": "1 year",
+            "start_months_since_1900": 1152,
+            "end_months_since_1900": 1164,
+            "length_in_months": 12
+        },
+        {
+            "name": "Kylie Minogue",
+            "href": "https://www.whosdatedwho.com/dating/kylie-minogue",
+            "relationship_type": 2,
+            "start_date": "1995",
+            "end_date": "1996",
+            "length": "1 year",
+            "start_months_since_1900": 1140,
+            "end_months_since_1900": 1152,
+            "length_in_months": 12
+        },
+        {
+            "name": "Beau Lazenby",
+            "href": "https://www.whosdatedwho.com/dating/beau-lazenby",
+            "relationship_type": 4,
+            "start_date": "1991",
+            "end_date": "",
+            "length": "-",
+            "start_months_since_1900": 1092,
+            "end_months_since_1900": -1,
+            "length_in_months": -1
+        },
+        {
+            "name": "Viviane Carneiro",
+            "href": "https://www.whosdatedwho.com/dating/viviane-carneiro",
+            "relationship_type": 4,
+            "start_date": "1989",
+            "end_date": "1996",
+            "length": "7 years",
+            "start_months_since_1900": 1068,
+            "end_months_since_1900": 1152,
+            "length_in_months": 84
+        },
+        {
+            "name": "Anita Lane",
+            "href": "https://www.whosdatedwho.com/dating/anita-lane",
+            "relationship_type": 2,
+            "start_date": "1979",
+            "end_date": "1983",
+            "length": "4 years",
+            "start_months_since_1900": 948,
+            "end_months_since_1900": 996,
+            "length_in_months": 48
+        },
+        {
+            "name": "Lung Leg",
+            "href": "https://www.whosdatedwho.com/dating/lung-leg",
+            "relationship_type": 2,
+            "start_date": "",
+            "end_date": "",
+            "length": "-",
+            "start_months_since_1900": -1,
+            "end_months_since_1900": -1,
+            "length_in_months": -1
+        }
+    ],
+    "details": {
+        "First Name": "Nick",
+        "Middle Name": "NA",
+        "Last Name": "Cave",
+        "Maiden Name": "NA",
+        "Full Name at Birth": "Nicholas Edward Cave",
+        "Alternative Name": "NA",
+        "Birthday": "1957",
+        "Birthplace": "Australia",
+        "Height": "188",
+        "Weight": "NA",
+        "Zodiac Sign": "11",
+        "Sexuality": "Straight",
+        "Religion": "1",
+        "Ethnicity": "6",
+        "Nationality": "135",
+        "Occupation": "1"
+    }
+}

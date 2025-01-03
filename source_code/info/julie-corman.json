@@ -1,0 +1,33 @@
+{
+    "relationships": [
+        {
+            "name": "Roger Corman",
+            "href": "https://www.whosdatedwho.com/dating/roger-corman",
+            "relationship_type": 4,
+            "start_date": "1969",
+            "end_date": "present",
+            "length": "55 years",
+            "start_months_since_1900": 828,
+            "end_months_since_1900": -1,
+            "length_in_months": 660
+        }
+    ],
+    "details": {
+        "First Name": "Julie",
+        "Middle Name": "NA",
+        "Last Name": "Corman",
+        "Maiden Name": "NA",
+        "Full Name at Birth": "NA",
+        "Alternative Name": "NA",
+        "Birthday": "NA",
+        "Birthplace": "NA",
+        "Height": "NA",
+        "Weight": "NA",
+        "Zodiac Sign": "2",
+        "Sexuality": "NA",
+        "Religion": "1",
+        "Ethnicity": "1",
+        "Nationality": "65",
+        "Occupation": "19"
+    }
+}

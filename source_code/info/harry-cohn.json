@@ -1,0 +1,77 @@
+{
+    "relationships": [
+        {
+            "name": "Peggy Maley",
+            "href": "https://www.whosdatedwho.com/dating/peggy-maley",
+            "relationship_type": 3,
+            "start_date": "1951",
+            "end_date": "1951",
+            "length": "-",
+            "start_months_since_1900": 612,
+            "end_months_since_1900": 612,
+            "length_in_months": -1
+        },
+        {
+            "name": "Joan Perry",
+            "href": "https://www.whosdatedwho.com/dating/joan-perry",
+            "relationship_type": 4,
+            "start_date": "1940",
+            "end_date": "Feb 1958",
+            "length": "18 years",
+            "start_months_since_1900": 480,
+            "end_months_since_1900": 697,
+            "length_in_months": 216
+        },
+        {
+            "name": "Laura La Plante",
+            "href": "https://www.whosdatedwho.com/dating/laura-la-plante",
+            "relationship_type": 2,
+            "start_date": "1931",
+            "end_date": "1931",
+            "length": "-",
+            "start_months_since_1900": 372,
+            "end_months_since_1900": 372,
+            "length_in_months": -1
+        },
+        {
+            "name": "Rose Barker",
+            "href": "https://www.whosdatedwho.com/dating/rose-barker",
+            "relationship_type": 4,
+            "start_date": "1922",
+            "end_date": "Jul 1941",
+            "length": "19 years",
+            "start_months_since_1900": 264,
+            "end_months_since_1900": 498,
+            "length_in_months": 228
+        },
+        {
+            "name": "Evelyn Keyes",
+            "href": "https://www.whosdatedwho.com/dating/evelyn-keyes",
+            "relationship_type": 3,
+            "start_date": "",
+            "end_date": "",
+            "length": "-",
+            "start_months_since_1900": -1,
+            "end_months_since_1900": -1,
+            "length_in_months": -1
+        }
+    ],
+    "details": {
+        "First Name": "Harry",
+        "Middle Name": "NA",
+        "Last Name": "Cohn",
+        "Maiden Name": "NA",
+        "Full Name at Birth": "Harry Cohn",
+        "Alternative Name": "King Cohn",
+        "Birthday": "1891",
+        "Birthplace": "NY",
+        "Height": "NA",
+        "Weight": "NA",
+        "Zodiac Sign": "8",
+        "Sexuality": "Straight",
+        "Religion": "31",
+        "Ethnicity": "6",
+        "Nationality": "91",
+        "Occupation": "9"
+    }
+}

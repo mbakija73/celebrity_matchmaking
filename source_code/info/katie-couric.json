@@ -1,0 +1,110 @@
+{
+    "relationships": [
+        {
+            "name": "John Molner",
+            "href": "https://www.whosdatedwho.com/dating/john-molner",
+            "relationship_type": 4,
+            "start_date": "Sep 2011",
+            "end_date": "present",
+            "length": "13 years",
+            "start_months_since_1900": 1340,
+            "end_months_since_1900": -1,
+            "length_in_months": 156
+        },
+        {
+            "name": "Jimmy Reyes",
+            "href": "https://www.whosdatedwho.com/dating/jimmy-reyes",
+            "relationship_type": 2,
+            "start_date": "2006",
+            "end_date": "2006",
+            "length": "-",
+            "start_months_since_1900": 1272,
+            "end_months_since_1900": 1272,
+            "length_in_months": -1
+        },
+        {
+            "name": "Chris Botti",
+            "href": "https://www.whosdatedwho.com/dating/chris-botti",
+            "relationship_type": 2,
+            "start_date": "Jan 2005",
+            "end_date": "2006",
+            "length": "1 year",
+            "start_months_since_1900": 1260,
+            "end_months_since_1900": 1272,
+            "length_in_months": 12
+        },
+        {
+            "name": "Tom Werner",
+            "href": "https://www.whosdatedwho.com/dating/tom-werner",
+            "relationship_type": 2,
+            "start_date": "Jul 2000",
+            "end_date": "Oct 2004",
+            "length": "4 years",
+            "start_months_since_1900": 1206,
+            "end_months_since_1900": 1257,
+            "length_in_months": 48
+        },
+        {
+            "name": "Carroll Lesesne",
+            "href": "https://www.whosdatedwho.com/dating/carroll-lesesne",
+            "relationship_type": 2,
+            "start_date": "Nov 1999",
+            "end_date": "Jan 2000",
+            "length": "2 months",
+            "start_months_since_1900": 1198,
+            "end_months_since_1900": 1200,
+            "length_in_months": 2
+        },
+        {
+            "name": "John Paul Monahan III",
+            "href": "https://www.whosdatedwho.com/dating/john-paul-monahan-iii",
+            "relationship_type": 4,
+            "start_date": "1988",
+            "end_date": "24th Jan 1998",
+            "length": "10 years",
+            "start_months_since_1900": 1056,
+            "end_months_since_1900": 1176,
+            "length_in_months": 120
+        },
+        {
+            "name": "Bob Saget",
+            "href": "https://www.whosdatedwho.com/dating/bob-saget",
+            "relationship_type": 3,
+            "start_date": "",
+            "end_date": "",
+            "length": "-",
+            "start_months_since_1900": -1,
+            "end_months_since_1900": -1,
+            "length_in_months": -1
+        },
+        {
+            "name": "Jeff Probst",
+            "href": "https://www.whosdatedwho.com/dating/jeff-probst",
+            "relationship_type": 3,
+            "start_date": "",
+            "end_date": "",
+            "length": "-",
+            "start_months_since_1900": -1,
+            "end_months_since_1900": -1,
+            "length_in_months": -1
+        }
+    ],
+    "details": {
+        "First Name": "Katie",
+        "Middle Name": "Anne",
+        "Last Name": "Molner",
+        "Maiden Name": "Couric",
+        "Full Name at Birth": "Katherine Anne Couric",
+        "Alternative Name": "NA",
+        "Birthday": "1957",
+        "Birthplace": "U.S.",
+        "Height": "163",
+        "Weight": "130lbs (59 kg)",
+        "Zodiac Sign": "13",
+        "Sexuality": "Straight",
+        "Religion": "37",
+        "Ethnicity": "6",
+        "Nationality": "91",
+        "Occupation": "16"
+    }
+}

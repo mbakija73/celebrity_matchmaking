@@ -1,0 +1,44 @@
+{
+    "relationships": [
+        {
+            "name": "Hank Greenberg",
+            "href": "https://www.whosdatedwho.com/dating/hank-greenberg",
+            "relationship_type": 4,
+            "start_date": "1964",
+            "end_date": "4th Sep 1986",
+            "length": "22 years",
+            "start_months_since_1900": 768,
+            "end_months_since_1900": 1040,
+            "length_in_months": 264
+        },
+        {
+            "name": "Pat DiCicco",
+            "href": "https://www.whosdatedwho.com/dating/pat-dicicco",
+            "relationship_type": 4,
+            "start_date": "Sep 1951",
+            "end_date": "27th Jul 1960",
+            "length": "8 years",
+            "start_months_since_1900": 620,
+            "end_months_since_1900": 726,
+            "length_in_months": 96
+        }
+    ],
+    "details": {
+        "First Name": "Mary",
+        "Middle Name": "Jo",
+        "Last Name": "Greenberg",
+        "Maiden Name": "Tarola",
+        "Full Name at Birth": "Mary Jo Tarola",
+        "Alternative Name": "Linda Douglas, Joanne Tarola, Mary Jo Greenberg, Mary Jo Tarola, Mary J. Greenberg",
+        "Birthday": "1928",
+        "Birthplace": "USA",
+        "Height": "NA",
+        "Weight": "NA",
+        "Zodiac Sign": "1",
+        "Sexuality": "Straight",
+        "Religion": "1",
+        "Ethnicity": "6",
+        "Nationality": "91",
+        "Occupation": "8"
+    }
+}

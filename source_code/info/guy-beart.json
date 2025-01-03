@@ -1,0 +1,77 @@
+{
+    "relationships": [
+        {
+            "name": "Mireille Darc",
+            "href": "https://www.whosdatedwho.com/dating/mireille-darc",
+            "relationship_type": 3,
+            "start_date": "1965",
+            "end_date": "1965",
+            "length": "-",
+            "start_months_since_1900": 780,
+            "end_months_since_1900": 780,
+            "length_in_months": -1
+        },
+        {
+            "name": "Genevi\u00e8ve Gal\u00e9a",
+            "href": "https://www.whosdatedwho.com/dating/genevieve-galea",
+            "relationship_type": 4,
+            "start_date": "1962",
+            "end_date": "1964",
+            "length": "2 years",
+            "start_months_since_1900": 744,
+            "end_months_since_1900": 768,
+            "length_in_months": 24
+        },
+        {
+            "name": "C\u00e9cile de Bonnefoy du Charmel",
+            "href": "https://www.whosdatedwho.com/dating/cecile-de-bonnefoy-du-charmel",
+            "relationship_type": 4,
+            "start_date": "1958",
+            "end_date": "1958",
+            "length": "-",
+            "start_months_since_1900": 696,
+            "end_months_since_1900": 696,
+            "length_in_months": -1
+        },
+        {
+            "name": "Marie Lafor\u00eat",
+            "href": "https://www.whosdatedwho.com/dating/marie-laforet",
+            "relationship_type": 3,
+            "start_date": "",
+            "end_date": "",
+            "length": "-",
+            "start_months_since_1900": -1,
+            "end_months_since_1900": -1,
+            "length_in_months": -1
+        },
+        {
+            "name": "Dalida",
+            "href": "https://www.whosdatedwho.com/dating/dalida",
+            "relationship_type": 3,
+            "start_date": "",
+            "end_date": "",
+            "length": "-",
+            "start_months_since_1900": -1,
+            "end_months_since_1900": -1,
+            "length_in_months": -1
+        }
+    ],
+    "details": {
+        "First Name": "Guy",
+        "Middle Name": "NA",
+        "Last Name": "B\u00e9art",
+        "Maiden Name": "NA",
+        "Full Name at Birth": "Guy B\u00e9hart-Hasson",
+        "Alternative Name": "NA",
+        "Birthday": "1930",
+        "Birthplace": "Egypt",
+        "Height": "NA",
+        "Weight": "NA",
+        "Zodiac Sign": "8",
+        "Sexuality": "NA",
+        "Religion": "1",
+        "Ethnicity": "1",
+        "Nationality": "86",
+        "Occupation": "1"
+    }
+}

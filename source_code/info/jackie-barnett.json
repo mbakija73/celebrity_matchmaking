@@ -1,0 +1,55 @@
+{
+    "relationships": [
+        {
+            "name": "Jo Morrow",
+            "href": "https://www.whosdatedwho.com/dating/jo-morrow",
+            "relationship_type": 4,
+            "start_date": "Jun 1961",
+            "end_date": "Apr 1984",
+            "length": "22 years",
+            "start_months_since_1900": 737,
+            "end_months_since_1900": 1011,
+            "length_in_months": 264
+        },
+        {
+            "name": "Nora Hayden",
+            "href": "https://www.whosdatedwho.com/dating/nora-hayden",
+            "relationship_type": 2,
+            "start_date": "Mar 1961",
+            "end_date": "Apr 1961",
+            "length": "1 month",
+            "start_months_since_1900": 734,
+            "end_months_since_1900": 735,
+            "length_in_months": 1
+        },
+        {
+            "name": "Susan Cabot",
+            "href": "https://www.whosdatedwho.com/dating/susan-cabot",
+            "relationship_type": 3,
+            "start_date": "14th Jul 1953",
+            "end_date": "Aug 1953",
+            "length": "< 1 month",
+            "start_months_since_1900": 642,
+            "end_months_since_1900": 643,
+            "length_in_months": 0
+        }
+    ],
+    "details": {
+        "First Name": "Jackie",
+        "Middle Name": "NA",
+        "Last Name": "Barnett",
+        "Maiden Name": "NA",
+        "Full Name at Birth": "Jacob Burton Barnett",
+        "Alternative Name": "NA",
+        "Birthday": "1920",
+        "Birthplace": "USA",
+        "Height": "NA",
+        "Weight": "NA",
+        "Zodiac Sign": "8",
+        "Sexuality": "NA",
+        "Religion": "1",
+        "Ethnicity": "1",
+        "Nationality": "91",
+        "Occupation": "9"
+    }
+}

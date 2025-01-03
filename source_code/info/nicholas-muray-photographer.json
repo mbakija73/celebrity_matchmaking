@@ -1,0 +1,44 @@
+{
+    "relationships": [
+        {
+            "name": "Frida Kahlo",
+            "href": "https://www.whosdatedwho.com/dating/frida-kahlo",
+            "relationship_type": 2,
+            "start_date": "1931",
+            "end_date": "1941",
+            "length": "10 years",
+            "start_months_since_1900": 372,
+            "end_months_since_1900": 492,
+            "length_in_months": 120
+        },
+        {
+            "name": "Ramon Novarro",
+            "href": "https://www.whosdatedwho.com/dating/ramon-novarro",
+            "relationship_type": 3,
+            "start_date": "",
+            "end_date": "",
+            "length": "-",
+            "start_months_since_1900": -1,
+            "end_months_since_1900": -1,
+            "length_in_months": -1
+        }
+    ],
+    "details": {
+        "First Name": "Nickolas",
+        "Middle Name": "NA",
+        "Last Name": "Muray",
+        "Maiden Name": "NA",
+        "Full Name at Birth": "born Mikl\u00f3s Mandl",
+        "Alternative Name": "Nickolas Muray, Mikl\u00f3s Mandl, Nicholas Muray",
+        "Birthday": "1892",
+        "Birthplace": "Hungary",
+        "Height": "NA",
+        "Weight": "NA",
+        "Zodiac Sign": "9",
+        "Sexuality": "Straight",
+        "Religion": "31",
+        "Ethnicity": "6",
+        "Nationality": "31",
+        "Occupation": "13"
+    }
+}

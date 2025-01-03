@@ -1,0 +1,55 @@
+{
+    "relationships": [
+        {
+            "name": "Simon Tikhman",
+            "href": "https://www.whosdatedwho.com/dating/simon-tikhman",
+            "relationship_type": 4,
+            "start_date": "2018",
+            "end_date": "present",
+            "length": "6 years",
+            "start_months_since_1900": 1416,
+            "end_months_since_1900": -1,
+            "length_in_months": 72
+        },
+        {
+            "name": "Samantha Ronson",
+            "href": "https://www.whosdatedwho.com/dating/samantha-ronson",
+            "relationship_type": 2,
+            "start_date": "Jul 2011",
+            "end_date": "Apr 2012",
+            "length": "9 months",
+            "start_months_since_1900": 1338,
+            "end_months_since_1900": 1347,
+            "length_in_months": 9
+        },
+        {
+            "name": "Chad Michael Murray",
+            "href": "https://www.whosdatedwho.com/dating/chad-michael-murray",
+            "relationship_type": 2,
+            "start_date": "2001",
+            "end_date": "2002",
+            "length": "1 year",
+            "start_months_since_1900": 1212,
+            "end_months_since_1900": 1224,
+            "length_in_months": 12
+        }
+    ],
+    "details": {
+        "First Name": "Erin",
+        "Middle Name": "Taylor",
+        "Last Name": "Foster",
+        "Maiden Name": "NA",
+        "Full Name at Birth": "Erin Taylor Foster",
+        "Alternative Name": "Erin Taylor Foster",
+        "Birthday": "1982",
+        "Birthplace": "USA",
+        "Height": "170",
+        "Weight": "121lbs (55 kg)",
+        "Zodiac Sign": "12",
+        "Sexuality": "Bisexual",
+        "Religion": "1",
+        "Ethnicity": "6",
+        "Nationality": "91",
+        "Occupation": "8"
+    }
+}

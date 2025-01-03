@@ -1,0 +1,66 @@
+{
+    "relationships": [
+        {
+            "name": "Christine",
+            "href": "https://www.whosdatedwho.com/dating/christine-other",
+            "relationship_type": 2,
+            "start_date": "Oct 2007",
+            "end_date": "",
+            "length": "-",
+            "start_months_since_1900": 1293,
+            "end_months_since_1900": -1,
+            "length_in_months": -1
+        },
+        {
+            "name": "Savanna Samson",
+            "href": "https://www.whosdatedwho.com/dating/savanna-samson",
+            "relationship_type": 2,
+            "start_date": "2007",
+            "end_date": "2007",
+            "length": "-",
+            "start_months_since_1900": 1284,
+            "end_months_since_1900": 1284,
+            "length_in_months": -1
+        },
+        {
+            "name": "Christine Anne Simonian",
+            "href": "https://www.whosdatedwho.com/dating/christine-anne-simonian",
+            "relationship_type": 1,
+            "start_date": "",
+            "end_date": "",
+            "length": "-",
+            "start_months_since_1900": -1,
+            "end_months_since_1900": -1,
+            "length_in_months": -1
+        },
+        {
+            "name": "Tabitha Stevens",
+            "href": "https://www.whosdatedwho.com/dating/tabitha-stevens",
+            "relationship_type": 3,
+            "start_date": "",
+            "end_date": "",
+            "length": "-",
+            "start_months_since_1900": -1,
+            "end_months_since_1900": -1,
+            "length_in_months": -1
+        }
+    ],
+    "details": {
+        "First Name": "Rev.",
+        "Middle Name": "Bob",
+        "Last Name": "Levy",
+        "Maiden Name": "NA",
+        "Full Name at Birth": "Robert Levy",
+        "Alternative Name": "Reverend Bob Levy, Rev. Bob, Bob Levy, Rev. Bob Levy, Robert Levy, Heartbreaker",
+        "Birthday": "1962",
+        "Birthplace": "USA",
+        "Height": "183",
+        "Weight": "NA",
+        "Zodiac Sign": "12",
+        "Sexuality": "NA",
+        "Religion": "31",
+        "Ethnicity": "6",
+        "Nationality": "91",
+        "Occupation": "16"
+    }
+}

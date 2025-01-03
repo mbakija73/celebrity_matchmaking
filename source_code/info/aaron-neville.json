@@ -1,0 +1,55 @@
+{
+    "relationships": [
+        {
+            "name": "Sarah A. Friedman",
+            "href": "https://www.whosdatedwho.com/dating/sarah-a-friedman",
+            "relationship_type": 4,
+            "start_date": "2008",
+            "end_date": "present",
+            "length": "16 years",
+            "start_months_since_1900": 1296,
+            "end_months_since_1900": -1,
+            "length_in_months": 192
+        },
+        {
+            "name": "Linda Ronstadt",
+            "href": "https://www.whosdatedwho.com/dating/linda-ronstadt",
+            "relationship_type": 2,
+            "start_date": "1989",
+            "end_date": "1992",
+            "length": "3 years",
+            "start_months_since_1900": 1068,
+            "end_months_since_1900": 1104,
+            "length_in_months": 36
+        },
+        {
+            "name": "Joel Roux",
+            "href": "https://www.whosdatedwho.com/dating/joel-roux",
+            "relationship_type": 4,
+            "start_date": "Jan 1957",
+            "end_date": "5th Jan 2007",
+            "length": "50 years",
+            "start_months_since_1900": 684,
+            "end_months_since_1900": 1284,
+            "length_in_months": 600
+        }
+    ],
+    "details": {
+        "First Name": "Aaron",
+        "Middle Name": "NA",
+        "Last Name": "Neville",
+        "Maiden Name": "NA",
+        "Full Name at Birth": "Aaron J. Neville",
+        "Alternative Name": "NA",
+        "Birthday": "1941",
+        "Birthplace": "USA",
+        "Height": "180",
+        "Weight": "NA",
+        "Zodiac Sign": "9",
+        "Sexuality": "Straight",
+        "Religion": "13",
+        "Ethnicity": "2",
+        "Nationality": "91",
+        "Occupation": "1"
+    }
+}

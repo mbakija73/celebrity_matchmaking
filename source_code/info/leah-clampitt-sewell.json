@@ -1,0 +1,44 @@
+{
+    "relationships": [
+        {
+            "name": "Buster Keaton",
+            "href": "https://www.whosdatedwho.com/dating/buster-keaton",
+            "relationship_type": 3,
+            "start_date": "Jul 1935",
+            "end_date": "Jul 1935",
+            "length": "-",
+            "start_months_since_1900": 426,
+            "end_months_since_1900": 426,
+            "length_in_months": -1
+        },
+        {
+            "name": "Barton Sewell",
+            "href": "https://www.whosdatedwho.com/dating/barton-sewell",
+            "relationship_type": 4,
+            "start_date": "1931",
+            "end_date": "Oct 1935",
+            "length": "4 years",
+            "start_months_since_1900": 372,
+            "end_months_since_1900": 429,
+            "length_in_months": 48
+        }
+    ],
+    "details": {
+        "First Name": "Leah",
+        "Middle Name": "Margaret",
+        "Last Name": "Sewell",
+        "Maiden Name": "Clampitt",
+        "Full Name at Birth": "Leah Margaret Clampitt",
+        "Alternative Name": "Leah Sewell Kaley, Leah Clampitt Mitchusson, Leah Clampitt Kelly, Leah Clampitt Neely",
+        "Birthday": "1907",
+        "Birthplace": "NA",
+        "Height": "NA",
+        "Weight": "NA",
+        "Zodiac Sign": "4",
+        "Sexuality": "Straight",
+        "Religion": "1",
+        "Ethnicity": "6",
+        "Nationality": "91",
+        "Occupation": "11"
+    }
+}

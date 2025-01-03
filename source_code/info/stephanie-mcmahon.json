@@ -1,0 +1,44 @@
+{
+    "relationships": [
+        {
+            "name": "Paul Levesque",
+            "href": "https://www.whosdatedwho.com/dating/paul-levesque",
+            "relationship_type": 4,
+            "start_date": "2000",
+            "end_date": "present",
+            "length": "24 years",
+            "start_months_since_1900": 1200,
+            "end_months_since_1900": -1,
+            "length_in_months": 288
+        },
+        {
+            "name": "Andrew Martin",
+            "href": "https://www.whosdatedwho.com/dating/andrew-martin",
+            "relationship_type": 4,
+            "start_date": "1999",
+            "end_date": "1999",
+            "length": "-",
+            "start_months_since_1900": 1188,
+            "end_months_since_1900": 1188,
+            "length_in_months": -1
+        }
+    ],
+    "details": {
+        "First Name": "Stephanie",
+        "Middle Name": "Marie",
+        "Last Name": "Levesque",
+        "Maiden Name": "McMahon",
+        "Full Name at Birth": "Stephanie Marie Mcmahon",
+        "Alternative Name": "Stephanie Marie Levesque, Stephanie Marie Helmsley, Stephanie McMahon-Helmsley, Stephanie Marie McMahon",
+        "Birthday": "1976",
+        "Birthplace": "United States",
+        "Height": "174",
+        "Weight": "135lbs (61 kg)",
+        "Zodiac Sign": "10",
+        "Sexuality": "Straight",
+        "Religion": "1",
+        "Ethnicity": "6",
+        "Nationality": "91",
+        "Occupation": "2"
+    }
+}

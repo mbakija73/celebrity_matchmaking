@@ -1,0 +1,88 @@
+{
+    "relationships": [
+        {
+            "name": "Tony Ressler",
+            "href": "https://www.whosdatedwho.com/dating/tony-ressler",
+            "relationship_type": 4,
+            "start_date": "1988",
+            "end_date": "present",
+            "length": "36 years",
+            "start_months_since_1900": 1056,
+            "end_months_since_1900": -1,
+            "length_in_months": 432
+        },
+        {
+            "name": "Corey Feldman",
+            "href": "https://www.whosdatedwho.com/dating/corey-feldman",
+            "relationship_type": 2,
+            "start_date": "1987",
+            "end_date": "1988",
+            "length": "1 year",
+            "start_months_since_1900": 1044,
+            "end_months_since_1900": 1056,
+            "length_in_months": 12
+        },
+        {
+            "name": "Jason Patric",
+            "href": "https://www.whosdatedwho.com/dating/jason-patric",
+            "relationship_type": 2,
+            "start_date": "Sep 1985",
+            "end_date": "May 1986",
+            "length": "8 months",
+            "start_months_since_1900": 1028,
+            "end_months_since_1900": 1036,
+            "length_in_months": 8
+        },
+        {
+            "name": "John Cusack",
+            "href": "https://www.whosdatedwho.com/dating/john-cusack",
+            "relationship_type": 2,
+            "start_date": "Jul 1983",
+            "end_date": "Sep 1983",
+            "length": "2 months",
+            "start_months_since_1900": 1002,
+            "end_months_since_1900": 1004,
+            "length_in_months": 2
+        },
+        {
+            "name": "Chuck Norris",
+            "href": "https://www.whosdatedwho.com/dating/chuck-norris",
+            "relationship_type": 3,
+            "start_date": "",
+            "end_date": "",
+            "length": "-",
+            "start_months_since_1900": -1,
+            "end_months_since_1900": -1,
+            "length_in_months": -1
+        },
+        {
+            "name": "Steven Seagal",
+            "href": "https://www.whosdatedwho.com/dating/steven-seagal",
+            "relationship_type": 2,
+            "start_date": "",
+            "end_date": "",
+            "length": "-",
+            "start_months_since_1900": -1,
+            "end_months_since_1900": -1,
+            "length_in_months": -1
+        }
+    ],
+    "details": {
+        "First Name": "Jami",
+        "Middle Name": "Beth",
+        "Last Name": "Ressler",
+        "Maiden Name": "Gertz",
+        "Full Name at Birth": "Jami Beth Gertz",
+        "Alternative Name": "Jami Beth Gertz, Jami Gertz",
+        "Birthday": "1965",
+        "Birthplace": "USA",
+        "Height": "165",
+        "Weight": "NA",
+        "Zodiac Sign": "5",
+        "Sexuality": "Straight",
+        "Religion": "31",
+        "Ethnicity": "6",
+        "Nationality": "91",
+        "Occupation": "8"
+    }
+}

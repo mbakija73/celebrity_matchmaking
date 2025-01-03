@@ -1,0 +1,66 @@
+{
+    "relationships": [
+        {
+            "name": "Brady Anderson",
+            "href": "https://www.whosdatedwho.com/dating/brady-anderson",
+            "relationship_type": 2,
+            "start_date": "2001",
+            "end_date": "2005",
+            "length": "4 years",
+            "start_months_since_1900": 1212,
+            "end_months_since_1900": 1260,
+            "length_in_months": 48
+        },
+        {
+            "name": "Slash",
+            "href": "https://www.whosdatedwho.com/dating/slash",
+            "relationship_type": 3,
+            "start_date": "",
+            "end_date": "",
+            "length": "-",
+            "start_months_since_1900": -1,
+            "end_months_since_1900": -1,
+            "length_in_months": -1
+        },
+        {
+            "name": "Paul Stanley",
+            "href": "https://www.whosdatedwho.com/dating/paul-stanley",
+            "relationship_type": 2,
+            "start_date": "",
+            "end_date": "",
+            "length": "-",
+            "start_months_since_1900": -1,
+            "end_months_since_1900": -1,
+            "length_in_months": -1
+        },
+        {
+            "name": "Matt Sorum",
+            "href": "https://www.whosdatedwho.com/dating/matt-sorum",
+            "relationship_type": 2,
+            "start_date": "",
+            "end_date": "",
+            "length": "-",
+            "start_months_since_1900": -1,
+            "end_months_since_1900": -1,
+            "length_in_months": -1
+        }
+    ],
+    "details": {
+        "First Name": "Sonia",
+        "Middle Name": "NA",
+        "Last Name": "NA",
+        "Maiden Name": "Vassi",
+        "Full Name at Birth": "Sonia Vassi",
+        "Alternative Name": "NA",
+        "Birthday": "NA",
+        "Birthplace": "Bulgaria",
+        "Height": "175",
+        "Weight": "NA",
+        "Zodiac Sign": "2",
+        "Sexuality": "Straight",
+        "Religion": "18",
+        "Ethnicity": "6",
+        "Nationality": "19",
+        "Occupation": "1"
+    }
+}

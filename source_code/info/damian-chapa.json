@@ -1,0 +1,88 @@
+{
+    "relationships": [
+        {
+            "name": "Monica Ramon",
+            "href": "https://www.whosdatedwho.com/dating/monica-ramon",
+            "relationship_type": 2,
+            "start_date": "Nov 2007",
+            "end_date": "Jul 2008",
+            "length": "8 months",
+            "start_months_since_1900": 1294,
+            "end_months_since_1900": 1302,
+            "length_in_months": 8
+        },
+        {
+            "name": "Roxanna Foell",
+            "href": "https://www.whosdatedwho.com/dating/roxanna-foell",
+            "relationship_type": 2,
+            "start_date": "2006",
+            "end_date": "2007",
+            "length": "1 year",
+            "start_months_since_1900": 1272,
+            "end_months_since_1900": 1284,
+            "length_in_months": 12
+        },
+        {
+            "name": "Ciara O'Brien",
+            "href": "https://www.whosdatedwho.com/dating/ciara-o-brien",
+            "relationship_type": 4,
+            "start_date": "1998",
+            "end_date": "2003",
+            "length": "5 years",
+            "start_months_since_1900": 1176,
+            "end_months_since_1900": 1236,
+            "length_in_months": 60
+        },
+        {
+            "name": "Karina Lombard",
+            "href": "https://www.whosdatedwho.com/dating/karina-lombard",
+            "relationship_type": 2,
+            "start_date": "1997",
+            "end_date": "1997",
+            "length": "-",
+            "start_months_since_1900": 1164,
+            "end_months_since_1900": 1164,
+            "length_in_months": -1
+        },
+        {
+            "name": "Beverly D'Angelo",
+            "href": "https://www.whosdatedwho.com/dating/beverly-d-angelo",
+            "relationship_type": 2,
+            "start_date": "Jan 1994",
+            "end_date": "Mar 1994",
+            "length": "1 month",
+            "start_months_since_1900": 1128,
+            "end_months_since_1900": 1130,
+            "length_in_months": 1
+        },
+        {
+            "name": "Natasha Henstridge",
+            "href": "https://www.whosdatedwho.com/dating/natasha-henstridge",
+            "relationship_type": 4,
+            "start_date": "1994",
+            "end_date": "1996",
+            "length": "2 years",
+            "start_months_since_1900": 1128,
+            "end_months_since_1900": 1152,
+            "length_in_months": 24
+        }
+    ],
+    "details": {
+        "First Name": "Damian",
+        "Middle Name": "NA",
+        "Last Name": "Chapa",
+        "Maiden Name": "NA",
+        "Full Name at Birth": "Damian Robert Chapa",
+        "Alternative Name": "The Outlaw, D",
+        "Birthday": "1963",
+        "Birthplace": "USA",
+        "Height": "180",
+        "Weight": "NA",
+        "Zodiac Sign": "5",
+        "Sexuality": "Straight",
+        "Religion": "1",
+        "Ethnicity": "6",
+        "Nationality": "91",
+        "Occupation": "8"
+    }
+}

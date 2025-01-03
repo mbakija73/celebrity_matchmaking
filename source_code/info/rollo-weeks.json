@@ -1,0 +1,44 @@
+{
+    "relationships": [
+        {
+            "name": "Anna Popplewell",
+            "href": "https://www.whosdatedwho.com/dating/anna-popplewell",
+            "relationship_type": 1,
+            "start_date": "2003",
+            "end_date": "2005",
+            "length": "2 years",
+            "start_months_since_1900": 1236,
+            "end_months_since_1900": 1260,
+            "length_in_months": 24
+        },
+        {
+            "name": "Diana",
+            "href": "https://www.whosdatedwho.com/dating/diana-3802437",
+            "relationship_type": 2,
+            "start_date": "",
+            "end_date": "",
+            "length": "-",
+            "start_months_since_1900": -1,
+            "end_months_since_1900": -1,
+            "length_in_months": -1
+        }
+    ],
+    "details": {
+        "First Name": "Rollo",
+        "Middle Name": "NA",
+        "Last Name": "Weeks",
+        "Maiden Name": "NA",
+        "Full Name at Birth": "Rollo Percival Loring Weeks",
+        "Alternative Name": "NA",
+        "Birthday": "1987",
+        "Birthplace": "West Sussex",
+        "Height": "170",
+        "Weight": "NA",
+        "Zodiac Sign": "1",
+        "Sexuality": "NA",
+        "Religion": "1",
+        "Ethnicity": "6",
+        "Nationality": "8",
+        "Occupation": "8"
+    }
+}

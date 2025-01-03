@@ -1,0 +1,55 @@
+{
+    "relationships": [
+        {
+            "name": "Olivier Sarkozy",
+            "href": "https://www.whosdatedwho.com/dating/olivier-sarkozy",
+            "relationship_type": 2,
+            "start_date": "2011",
+            "end_date": "Mar 2012",
+            "length": "1 year",
+            "start_months_since_1900": 1332,
+            "end_months_since_1900": 1346,
+            "length_in_months": 12
+        },
+        {
+            "name": "Dan MacMillan",
+            "href": "https://www.whosdatedwho.com/dating/daniel-macmillan",
+            "relationship_type": 3,
+            "start_date": "2003",
+            "end_date": "2004",
+            "length": "1 year",
+            "start_months_since_1900": 1236,
+            "end_months_since_1900": 1248,
+            "length_in_months": 12
+        },
+        {
+            "name": "John Frusciante",
+            "href": "https://www.whosdatedwho.com/dating/john-frusciante",
+            "relationship_type": 2,
+            "start_date": "Mar 2001",
+            "end_date": "Mar 2003",
+            "length": "2 years",
+            "start_months_since_1900": 1214,
+            "end_months_since_1900": 1238,
+            "length_in_months": 24
+        }
+    ],
+    "details": {
+        "First Name": "Stella",
+        "Middle Name": "Madrid",
+        "Last Name": "Schnabel",
+        "Maiden Name": "NA",
+        "Full Name at Birth": "Stella Madrid Schnabel",
+        "Alternative Name": "Stella Schnabel, Stella Madrid Schnabel",
+        "Birthday": "NA",
+        "Birthplace": "NA",
+        "Height": "NA",
+        "Weight": "NA",
+        "Zodiac Sign": "2",
+        "Sexuality": "Straight",
+        "Religion": "1",
+        "Ethnicity": "6",
+        "Nationality": "65",
+        "Occupation": "15"
+    }
+}

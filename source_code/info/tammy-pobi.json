@@ -1,0 +1,44 @@
+{
+    "relationships": [
+        {
+            "name": "Oded Fehr",
+            "href": "https://www.whosdatedwho.com/dating/oded-fehr",
+            "relationship_type": 2,
+            "start_date": "Sep 1996",
+            "end_date": "May 1998",
+            "length": "1 year",
+            "start_months_since_1900": 1160,
+            "end_months_since_1900": 1180,
+            "length_in_months": 12
+        },
+        {
+            "name": "Billy Idol",
+            "href": "https://www.whosdatedwho.com/dating/billy-idol",
+            "relationship_type": 2,
+            "start_date": "1995",
+            "end_date": "1995",
+            "length": "-",
+            "start_months_since_1900": 1140,
+            "end_months_since_1900": 1140,
+            "length_in_months": -1
+        }
+    ],
+    "details": {
+        "First Name": "Tammy",
+        "Middle Name": "NA",
+        "Last Name": "Pobi",
+        "Maiden Name": "NA",
+        "Full Name at Birth": "NA",
+        "Alternative Name": "NA",
+        "Birthday": "NA",
+        "Birthplace": "Canada",
+        "Height": "NA",
+        "Weight": "NA",
+        "Zodiac Sign": "2",
+        "Sexuality": "NA",
+        "Religion": "1",
+        "Ethnicity": "6",
+        "Nationality": "90",
+        "Occupation": "1"
+    }
+}

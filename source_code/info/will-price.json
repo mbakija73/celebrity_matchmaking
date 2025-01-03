@@ -1,0 +1,33 @@
+{
+    "relationships": [
+        {
+            "name": "Maureen O'Hara",
+            "href": "https://www.whosdatedwho.com/dating/maureen-o-hara",
+            "relationship_type": 4,
+            "start_date": "Oct 1939",
+            "end_date": "11th Aug 1953",
+            "length": "13 years",
+            "start_months_since_1900": 477,
+            "end_months_since_1900": 643,
+            "length_in_months": 156
+        }
+    ],
+    "details": {
+        "First Name": "Will",
+        "Middle Name": "Houston",
+        "Last Name": "Price",
+        "Maiden Name": "NA",
+        "Full Name at Birth": "William Houston Price",
+        "Alternative Name": "NA",
+        "Birthday": "1913",
+        "Birthplace": "New York",
+        "Height": "NA",
+        "Weight": "NA",
+        "Zodiac Sign": "5",
+        "Sexuality": "NA",
+        "Religion": "1",
+        "Ethnicity": "1",
+        "Nationality": "91",
+        "Occupation": "9"
+    }
+}

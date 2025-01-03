@@ -1,0 +1,66 @@
+{
+    "relationships": [
+        {
+            "name": "Jesse Jane",
+            "href": "https://www.whosdatedwho.com/dating/jesse-jane",
+            "relationship_type": 3,
+            "start_date": "2006",
+            "end_date": "2006",
+            "length": "-",
+            "start_months_since_1900": 1272,
+            "end_months_since_1900": 1272,
+            "length_in_months": -1
+        },
+        {
+            "name": "Randy West",
+            "href": "https://www.whosdatedwho.com/dating/randy-west",
+            "relationship_type": 2,
+            "start_date": "",
+            "end_date": "",
+            "length": "-",
+            "start_months_since_1900": -1,
+            "end_months_since_1900": -1,
+            "length_in_months": -1
+        },
+        {
+            "name": "Lexi Marie",
+            "href": "https://www.whosdatedwho.com/dating/lexi-marie",
+            "relationship_type": 3,
+            "start_date": "",
+            "end_date": "",
+            "length": "-",
+            "start_months_since_1900": -1,
+            "end_months_since_1900": -1,
+            "length_in_months": -1
+        },
+        {
+            "name": "Josh Forster (X)",
+            "href": "https://www.whosdatedwho.com/dating/josh-forster-x",
+            "relationship_type": 4,
+            "start_date": "",
+            "end_date": "present",
+            "length": "-",
+            "start_months_since_1900": -1,
+            "end_months_since_1900": -1,
+            "length_in_months": -1
+        }
+    ],
+    "details": {
+        "First Name": "Charlie",
+        "Middle Name": "NA",
+        "Last Name": "Laine",
+        "Maiden Name": "NA",
+        "Full Name at Birth": "Tiffanie Gard",
+        "Alternative Name": "Charlie Laine, Laine, Charlie, Brandy, Raina Lee, Charlie Lane, Tiffani Rocks, Brandy Sapphire, Tiffany Case, Charle Lane, Tiffanie Gard, Charley Laine",
+        "Birthday": "1984",
+        "Birthplace": "Wisconsin USA",
+        "Height": "160",
+        "Weight": "101lbs (46 kg)",
+        "Zodiac Sign": "9",
+        "Sexuality": "Bisexual",
+        "Religion": "1",
+        "Ethnicity": "6",
+        "Nationality": "91",
+        "Occupation": "16"
+    }
+}

@@ -1,0 +1,77 @@
+{
+    "relationships": [
+        {
+            "name": "Meghan Trainor",
+            "href": "https://www.whosdatedwho.com/dating/meghan-trainor",
+            "relationship_type": 4,
+            "start_date": "Jul 2016",
+            "end_date": "present",
+            "length": "8 years",
+            "start_months_since_1900": 1398,
+            "end_months_since_1900": -1,
+            "length_in_months": 96
+        },
+        {
+            "name": "Chloe Bridges",
+            "href": "https://www.whosdatedwho.com/dating/chloe-bridges",
+            "relationship_type": 2,
+            "start_date": "May 2011",
+            "end_date": "May 2012",
+            "length": "1 year",
+            "start_months_since_1900": 1336,
+            "end_months_since_1900": 1348,
+            "length_in_months": 12
+        },
+        {
+            "name": "Taylor Dooley",
+            "href": "https://www.whosdatedwho.com/dating/taylor-dooley",
+            "relationship_type": 2,
+            "start_date": "Apr 2007",
+            "end_date": "2010",
+            "length": "2 years",
+            "start_months_since_1900": 1287,
+            "end_months_since_1900": 1320,
+            "length_in_months": 24
+        },
+        {
+            "name": "Courtney Jines",
+            "href": "https://www.whosdatedwho.com/dating/courtney-jines",
+            "relationship_type": 1,
+            "start_date": "Jul 2003",
+            "end_date": "2004",
+            "length": "6 months",
+            "start_months_since_1900": 1242,
+            "end_months_since_1900": 1248,
+            "length_in_months": 6
+        },
+        {
+            "name": "Emily Osment",
+            "href": "https://www.whosdatedwho.com/dating/emily-osment",
+            "relationship_type": 3,
+            "start_date": "Aug 2002",
+            "end_date": "Jul 2003",
+            "length": "11 months",
+            "start_months_since_1900": 1231,
+            "end_months_since_1900": 1242,
+            "length_in_months": 11
+        }
+    ],
+    "details": {
+        "First Name": "Daryl",
+        "Middle Name": "Christopher",
+        "Last Name": "Sabara",
+        "Maiden Name": "NA",
+        "Full Name at Birth": "Daryl Christopher Sabara",
+        "Alternative Name": "NA",
+        "Birthday": "1992",
+        "Birthplace": "USA",
+        "Height": "177",
+        "Weight": "NA",
+        "Zodiac Sign": "4",
+        "Sexuality": "Straight",
+        "Religion": "31",
+        "Ethnicity": "6",
+        "Nationality": "91",
+        "Occupation": "8"
+    }
+}

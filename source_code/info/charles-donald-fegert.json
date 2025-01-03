@@ -1,0 +1,33 @@
+{
+    "relationships": [
+        {
+            "name": "Barbara Eden",
+            "href": "https://www.whosdatedwho.com/dating/barbara-eden",
+            "relationship_type": 4,
+            "start_date": "1974",
+            "end_date": "1983",
+            "length": "9 years",
+            "start_months_since_1900": 888,
+            "end_months_since_1900": 996,
+            "length_in_months": 108
+        }
+    ],
+    "details": {
+        "First Name": "Charles",
+        "Middle Name": "Donald",
+        "Last Name": "Fegert",
+        "Maiden Name": "NA",
+        "Full Name at Birth": "NA",
+        "Alternative Name": "NA",
+        "Birthday": "NA",
+        "Birthplace": "NA",
+        "Height": "NA",
+        "Weight": "NA",
+        "Zodiac Sign": "2",
+        "Sexuality": "NA",
+        "Religion": "1",
+        "Ethnicity": "1",
+        "Nationality": "65",
+        "Occupation": "19"
+    }
+}

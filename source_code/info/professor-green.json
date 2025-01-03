@@ -1,0 +1,66 @@
+{
+    "relationships": [
+        {
+            "name": "Gizzi Erskine",
+            "href": "https://www.whosdatedwho.com/dating/gizzi-erskine",
+            "relationship_type": 2,
+            "start_date": "Jun 2016",
+            "end_date": "Oct 2016",
+            "length": "4 months",
+            "start_months_since_1900": 1397,
+            "end_months_since_1900": 1401,
+            "length_in_months": 4
+        },
+        {
+            "name": "Millie Mackintosh",
+            "href": "https://www.whosdatedwho.com/dating/millie-mackintosh",
+            "relationship_type": 4,
+            "start_date": "Dec 2011",
+            "end_date": "Feb 2016",
+            "length": "4 years",
+            "start_months_since_1900": 1343,
+            "end_months_since_1900": 1393,
+            "length_in_months": 48
+        },
+        {
+            "name": "Vogue Williams",
+            "href": "https://www.whosdatedwho.com/dating/vogue-williams",
+            "relationship_type": 1,
+            "start_date": "",
+            "end_date": "",
+            "length": "-",
+            "start_months_since_1900": -1,
+            "end_months_since_1900": -1,
+            "length_in_months": -1
+        },
+        {
+            "name": "Fae Williams",
+            "href": "https://www.whosdatedwho.com/dating/fae-williams",
+            "relationship_type": 2,
+            "start_date": "",
+            "end_date": "present",
+            "length": "-",
+            "start_months_since_1900": -1,
+            "end_months_since_1900": -1,
+            "length_in_months": -1
+        }
+    ],
+    "details": {
+        "First Name": "Stephen",
+        "Middle Name": "Paul",
+        "Last Name": "Manderson",
+        "Maiden Name": "NA",
+        "Full Name at Birth": "Stephen Paul Manderson",
+        "Alternative Name": "Stephen Paul Manderson, Professor Green, Stephen Manderson",
+        "Birthday": "1983",
+        "Birthplace": "UK",
+        "Height": "NA",
+        "Weight": "NA",
+        "Zodiac Sign": "6",
+        "Sexuality": "Straight",
+        "Religion": "1",
+        "Ethnicity": "6",
+        "Nationality": "8",
+        "Occupation": "1"
+    }
+}

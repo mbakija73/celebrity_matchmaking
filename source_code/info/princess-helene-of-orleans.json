@@ -1,0 +1,77 @@
+{
+    "relationships": [
+        {
+            "name": "Otto Campini",
+            "href": "https://www.whosdatedwho.com/dating/otto-campini",
+            "relationship_type": 4,
+            "start_date": "1936",
+            "end_date": "1951",
+            "length": "15 years",
+            "start_months_since_1900": 432,
+            "end_months_since_1900": 612,
+            "length_in_months": 180
+        },
+        {
+            "name": "Prince Emanuele Filiberto, Duke of Aosta",
+            "href": "https://www.whosdatedwho.com/dating/prince-emanuele-filiberto-duke-of-aosta",
+            "relationship_type": 4,
+            "start_date": "1895",
+            "end_date": "Jul 1931",
+            "length": "36 years",
+            "start_months_since_1900": -60,
+            "end_months_since_1900": 378,
+            "length_in_months": 432
+        },
+        {
+            "name": "Prince Albert Victor, Duke of Clarence and Avondale",
+            "href": "https://www.whosdatedwho.com/dating/prince-albert-victor-duke-of-clarence-and-avondale",
+            "relationship_type": 2,
+            "start_date": "1890",
+            "end_date": "1890",
+            "length": "-",
+            "start_months_since_1900": -120,
+            "end_months_since_1900": -120,
+            "length_in_months": -1
+        },
+        {
+            "name": "Victor Emmanuel III of Italy",
+            "href": "https://www.whosdatedwho.com/dating/victor-emmanuel-iii-of-italy",
+            "relationship_type": 2,
+            "start_date": "",
+            "end_date": "",
+            "length": "-",
+            "start_months_since_1900": -1,
+            "end_months_since_1900": -1,
+            "length_in_months": -1
+        },
+        {
+            "name": "Afonso, Prince Royal of Portugal",
+            "href": "https://www.whosdatedwho.com/dating/afonso-prince-royal-of-portugal",
+            "relationship_type": 2,
+            "start_date": "",
+            "end_date": "",
+            "length": "-",
+            "start_months_since_1900": -1,
+            "end_months_since_1900": -1,
+            "length_in_months": -1
+        }
+    ],
+    "details": {
+        "First Name": "Helene",
+        "Middle Name": "Louise Henriette",
+        "Last Name": "d'Orl\u00e9ans",
+        "Maiden Name": "NA",
+        "Full Name at Birth": "H\u00e9l\u00e8ne Louise Henriette d'Orl\u00e9ans",
+        "Alternative Name": "NA",
+        "Birthday": "1871",
+        "Birthplace": "Twickenham",
+        "Height": "NA",
+        "Weight": "NA",
+        "Zodiac Sign": "4",
+        "Sexuality": "Straight",
+        "Religion": "13",
+        "Ethnicity": "6",
+        "Nationality": "86",
+        "Occupation": "18"
+    }
+}

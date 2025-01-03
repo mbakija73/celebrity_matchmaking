@@ -1,0 +1,132 @@
+{
+    "relationships": [
+        {
+            "name": "Keith Urban",
+            "href": "https://www.whosdatedwho.com/dating/keith-urban",
+            "relationship_type": 4,
+            "start_date": "Jul 2005",
+            "end_date": "present",
+            "length": "19 years",
+            "start_months_since_1900": 1266,
+            "end_months_since_1900": -1,
+            "length_in_months": 228
+        },
+        {
+            "name": "Steve Bing",
+            "href": "https://www.whosdatedwho.com/dating/steve-bing",
+            "relationship_type": 2,
+            "start_date": "Nov 2004",
+            "end_date": "Jun 2005",
+            "length": "7 months",
+            "start_months_since_1900": 1258,
+            "end_months_since_1900": 1265,
+            "length_in_months": 7
+        },
+        {
+            "name": "Robbie Williams",
+            "href": "https://www.whosdatedwho.com/dating/robbie-williams",
+            "relationship_type": 2,
+            "start_date": "2004",
+            "end_date": "2004",
+            "length": "-",
+            "start_months_since_1900": 1248,
+            "end_months_since_1900": 1248,
+            "length_in_months": -1
+        },
+        {
+            "name": "Lenny Kravitz",
+            "href": "https://www.whosdatedwho.com/dating/lenny-kravitz",
+            "relationship_type": 2,
+            "start_date": "Jul 2003",
+            "end_date": "Jan 2004",
+            "length": "6 months",
+            "start_months_since_1900": 1242,
+            "end_months_since_1900": 1248,
+            "length_in_months": 6
+        },
+        {
+            "name": "Q-Tip",
+            "href": "https://www.whosdatedwho.com/dating/q-tip",
+            "relationship_type": 2,
+            "start_date": "Apr 2003",
+            "end_date": "May 2003",
+            "length": "1 month",
+            "start_months_since_1900": 1239,
+            "end_months_since_1900": 1240,
+            "length_in_months": 1
+        },
+        {
+            "name": "Jude Law",
+            "href": "https://www.whosdatedwho.com/dating/jude-law",
+            "relationship_type": 2,
+            "start_date": "2003",
+            "end_date": "2003",
+            "length": "-",
+            "start_months_since_1900": 1236,
+            "end_months_since_1900": 1236,
+            "length_in_months": -1
+        },
+        {
+            "name": "Russell Crowe",
+            "href": "https://www.whosdatedwho.com/dating/russell-crowe",
+            "relationship_type": 3,
+            "start_date": "2002",
+            "end_date": "2002",
+            "length": "-",
+            "start_months_since_1900": 1224,
+            "end_months_since_1900": 1224,
+            "length_in_months": -1
+        },
+        {
+            "name": "Tom Cruise",
+            "href": "https://www.whosdatedwho.com/dating/tom-cruise",
+            "relationship_type": 4,
+            "start_date": "Nov 1989",
+            "end_date": "Aug 2001",
+            "length": "11 years",
+            "start_months_since_1900": 1078,
+            "end_months_since_1900": 1219,
+            "length_in_months": 132
+        },
+        {
+            "name": "Marcus Graham",
+            "href": "https://www.whosdatedwho.com/dating/marcus-graham",
+            "relationship_type": 2,
+            "start_date": "1987",
+            "end_date": "1989",
+            "length": "2 years",
+            "start_months_since_1900": 1044,
+            "end_months_since_1900": 1068,
+            "length_in_months": 24
+        },
+        {
+            "name": "Tom Burlinson",
+            "href": "https://www.whosdatedwho.com/dating/tom-burlinson",
+            "relationship_type": 2,
+            "start_date": "1986",
+            "end_date": "1987",
+            "length": "1 year",
+            "start_months_since_1900": 1032,
+            "end_months_since_1900": 1044,
+            "length_in_months": 12
+        }
+    ],
+    "details": {
+        "First Name": "Nicole",
+        "Middle Name": "Mary",
+        "Last Name": "Urban",
+        "Maiden Name": "Kidman",
+        "Full Name at Birth": "Nicole Mary Kidman",
+        "Alternative Name": "Nicole Urban, Nic, Nicole Mary Kidman, Nicole Kidman",
+        "Birthday": "1967",
+        "Birthplace": "USA",
+        "Height": "180",
+        "Weight": "128lbs (58 kg)",
+        "Zodiac Sign": "4",
+        "Sexuality": "Straight",
+        "Religion": "13",
+        "Ethnicity": "6",
+        "Nationality": "135",
+        "Occupation": "8"
+    }
+}

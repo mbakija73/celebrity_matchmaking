@@ -1,0 +1,77 @@
+{
+    "relationships": [
+        {
+            "name": "Lon McCallister",
+            "href": "https://www.whosdatedwho.com/dating/lon-mccallister",
+            "relationship_type": 2,
+            "start_date": "1950",
+            "end_date": "1957",
+            "length": "7 years",
+            "start_months_since_1900": 600,
+            "end_months_since_1900": 684,
+            "length_in_months": 84
+        },
+        {
+            "name": "Buff Cobb",
+            "href": "https://www.whosdatedwho.com/dating/buff-cobb",
+            "relationship_type": 4,
+            "start_date": "1946",
+            "end_date": "12th Feb 1949",
+            "length": "3 years",
+            "start_months_since_1900": 552,
+            "end_months_since_1900": 589,
+            "length_in_months": 36
+        },
+        {
+            "name": "Anne Baxter",
+            "href": "https://www.whosdatedwho.com/dating/anne-baxter",
+            "relationship_type": 1,
+            "start_date": "Sep 1943",
+            "end_date": "Dec 1943",
+            "length": "3 months",
+            "start_months_since_1900": 524,
+            "end_months_since_1900": 527,
+            "length_in_months": 3
+        },
+        {
+            "name": "Margaret Whiting",
+            "href": "https://www.whosdatedwho.com/dating/margaret-whiting",
+            "relationship_type": 1,
+            "start_date": "",
+            "end_date": "",
+            "length": "-",
+            "start_months_since_1900": -1,
+            "end_months_since_1900": -1,
+            "length_in_months": -1
+        },
+        {
+            "name": "June Haver",
+            "href": "https://www.whosdatedwho.com/dating/june-haver",
+            "relationship_type": 1,
+            "start_date": "",
+            "end_date": "",
+            "length": "-",
+            "start_months_since_1900": -1,
+            "end_months_since_1900": -1,
+            "length_in_months": -1
+        }
+    ],
+    "details": {
+        "First Name": "William",
+        "Middle Name": "NA",
+        "Last Name": "Eythe",
+        "Maiden Name": "NA",
+        "Full Name at Birth": "William John Joseph Eythe",
+        "Alternative Name": "NA",
+        "Birthday": "1914",
+        "Birthplace": "PA",
+        "Height": "178",
+        "Weight": "NA",
+        "Zodiac Sign": "7",
+        "Sexuality": "Bisexual",
+        "Religion": "1",
+        "Ethnicity": "6",
+        "Nationality": "91",
+        "Occupation": "8"
+    }
+}

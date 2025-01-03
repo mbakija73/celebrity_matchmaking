@@ -1,0 +1,44 @@
+{
+    "relationships": [
+        {
+            "name": "Lauren Hill",
+            "href": "https://www.whosdatedwho.com/dating/lauren-hill",
+            "relationship_type": 4,
+            "start_date": "2008",
+            "end_date": "present",
+            "length": "16 years",
+            "start_months_since_1900": 1296,
+            "end_months_since_1900": -1,
+            "length_in_months": 192
+        },
+        {
+            "name": "Sacha Grierson",
+            "href": "https://www.whosdatedwho.com/dating/sacha-grierson",
+            "relationship_type": 2,
+            "start_date": "2004",
+            "end_date": "2006",
+            "length": "2 years",
+            "start_months_since_1900": 1248,
+            "end_months_since_1900": 1272,
+            "length_in_months": 24
+        }
+    ],
+    "details": {
+        "First Name": "Sean",
+        "Middle Name": "Patrick",
+        "Last Name": "Flanery",
+        "Maiden Name": "NA",
+        "Full Name at Birth": "Sean Patrick Flanery",
+        "Alternative Name": "Sean Patrick Flanery, Sean Patrick Flannery",
+        "Birthday": "1965",
+        "Birthplace": "USA",
+        "Height": "180",
+        "Weight": "NA",
+        "Zodiac Sign": "10",
+        "Sexuality": "Straight",
+        "Religion": "1",
+        "Ethnicity": "6",
+        "Nationality": "91",
+        "Occupation": "8"
+    }
+}

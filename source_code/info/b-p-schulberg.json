@@ -1,0 +1,66 @@
+{
+    "relationships": [
+        {
+            "name": "Helen McHale",
+            "href": "https://www.whosdatedwho.com/dating/helen-mchale",
+            "relationship_type": 4,
+            "start_date": "Oct 1939",
+            "end_date": "Feb 1957",
+            "length": "17 years",
+            "start_months_since_1900": 477,
+            "end_months_since_1900": 685,
+            "length_in_months": 204
+        },
+        {
+            "name": "Adeline Jaffe",
+            "href": "https://www.whosdatedwho.com/dating/adeline-jaffe",
+            "relationship_type": 4,
+            "start_date": "Jun 1933",
+            "end_date": "Apr 1938",
+            "length": "4 years",
+            "start_months_since_1900": 401,
+            "end_months_since_1900": 459,
+            "length_in_months": 48
+        },
+        {
+            "name": "Clara Bow",
+            "href": "https://www.whosdatedwho.com/dating/clara-bow",
+            "relationship_type": 2,
+            "start_date": "1923",
+            "end_date": "1924",
+            "length": "1 year",
+            "start_months_since_1900": 276,
+            "end_months_since_1900": 288,
+            "length_in_months": 12
+        },
+        {
+            "name": "Sylvia Sidney",
+            "href": "https://www.whosdatedwho.com/dating/sylvia-sidney",
+            "relationship_type": 2,
+            "start_date": "",
+            "end_date": "",
+            "length": "-",
+            "start_months_since_1900": -1,
+            "end_months_since_1900": -1,
+            "length_in_months": -1
+        }
+    ],
+    "details": {
+        "First Name": "B.P",
+        "Middle Name": "NA",
+        "Last Name": "Schulberg",
+        "Maiden Name": "NA",
+        "Full Name at Birth": "Benjamin Percival Schulberg",
+        "Alternative Name": "Ben schulberg",
+        "Birthday": "1892",
+        "Birthplace": "Connecticut",
+        "Height": "NA",
+        "Weight": "NA",
+        "Zodiac Sign": "13",
+        "Sexuality": "Straight",
+        "Religion": "31",
+        "Ethnicity": "6",
+        "Nationality": "91",
+        "Occupation": "7"
+    }
+}

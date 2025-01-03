@@ -1,0 +1,77 @@
+{
+    "relationships": [
+        {
+            "name": "Reyli",
+            "href": "https://www.whosdatedwho.com/dating/reyli",
+            "relationship_type": 2,
+            "start_date": "Jul 2010",
+            "end_date": "2013",
+            "length": "2 years",
+            "start_months_since_1900": 1326,
+            "end_months_since_1900": 1356,
+            "length_in_months": 24
+        },
+        {
+            "name": "Jose Maria Fernandez",
+            "href": "https://www.whosdatedwho.com/dating/jose-maria-fernandez",
+            "relationship_type": 4,
+            "start_date": "Jul 2005",
+            "end_date": "Jul 2011",
+            "length": "6 years",
+            "start_months_since_1900": 1266,
+            "end_months_since_1900": 1338,
+            "length_in_months": 72
+        },
+        {
+            "name": "Julio Sabala",
+            "href": "https://www.whosdatedwho.com/dating/julio-sabala",
+            "relationship_type": 1,
+            "start_date": "2004",
+            "end_date": "2004",
+            "length": "-",
+            "start_months_since_1900": 1248,
+            "end_months_since_1900": 1248,
+            "length_in_months": -1
+        },
+        {
+            "name": "Edgar Gallardo",
+            "href": "https://www.whosdatedwho.com/dating/edgar-gallardo",
+            "relationship_type": 2,
+            "start_date": "2000",
+            "end_date": "2001",
+            "length": "1 year",
+            "start_months_since_1900": 1200,
+            "end_months_since_1900": 1212,
+            "length_in_months": 12
+        },
+        {
+            "name": "Jorge Kahwagi",
+            "href": "https://www.whosdatedwho.com/dating/jorge-kahwagi",
+            "relationship_type": 2,
+            "start_date": "",
+            "end_date": "",
+            "length": "-",
+            "start_months_since_1900": -1,
+            "end_months_since_1900": -1,
+            "length_in_months": -1
+        }
+    ],
+    "details": {
+        "First Name": "Ana",
+        "Middle Name": "Ugalde",
+        "Last Name": "Barbara",
+        "Maiden Name": "Motta",
+        "Full Name at Birth": "Altagracia Ugalde Mota",
+        "Alternative Name": "Ana B\u00e1rbara, La Reina Grupera, Altagracia Ugalde Mota, Altagracia Ugalde Motta",
+        "Birthday": "1971",
+        "Birthplace": "Mexico",
+        "Height": "172",
+        "Weight": "NA",
+        "Zodiac Sign": "13",
+        "Sexuality": "Straight",
+        "Religion": "13",
+        "Ethnicity": "6",
+        "Nationality": "7",
+        "Occupation": "1"
+    }
+}

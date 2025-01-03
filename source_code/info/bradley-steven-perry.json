@@ -1,0 +1,55 @@
+{
+    "relationships": [
+        {
+            "name": "Natasha Bure",
+            "href": "https://www.whosdatedwho.com/dating/natasha-bure",
+            "relationship_type": 2,
+            "start_date": "Jul 2024",
+            "end_date": "present",
+            "length": "3 months",
+            "start_months_since_1900": 1494,
+            "end_months_since_1900": -1,
+            "length_in_months": 3
+        },
+        {
+            "name": "Sabrina Carpenter",
+            "href": "https://www.whosdatedwho.com/dating/sabrina-carpenter",
+            "relationship_type": 2,
+            "start_date": "May 2014",
+            "end_date": "Aug 2015",
+            "length": "1 year",
+            "start_months_since_1900": 1372,
+            "end_months_since_1900": 1387,
+            "length_in_months": 12
+        },
+        {
+            "name": "Sarah Gilman",
+            "href": "https://www.whosdatedwho.com/dating/sarah-gilman",
+            "relationship_type": 1,
+            "start_date": "",
+            "end_date": "",
+            "length": "-",
+            "start_months_since_1900": -1,
+            "end_months_since_1900": -1,
+            "length_in_months": -1
+        }
+    ],
+    "details": {
+        "First Name": "Bradley",
+        "Middle Name": "Steven",
+        "Last Name": "Perry",
+        "Maiden Name": "NA",
+        "Full Name at Birth": "Bradley Steven Perry",
+        "Alternative Name": "NA",
+        "Birthday": "1998",
+        "Birthplace": "USA",
+        "Height": "173",
+        "Weight": "100lbs (45 kg)",
+        "Zodiac Sign": "6",
+        "Sexuality": "Straight",
+        "Religion": "1",
+        "Ethnicity": "6",
+        "Nationality": "91",
+        "Occupation": "8"
+    }
+}

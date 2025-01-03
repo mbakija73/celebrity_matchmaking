@@ -1,0 +1,33 @@
+{
+    "relationships": [
+        {
+            "name": "J. Brown",
+            "href": "https://www.whosdatedwho.com/dating/j-brown",
+            "relationship_type": 2,
+            "start_date": "Jan 2002",
+            "end_date": "Dec 2007",
+            "length": "5 years",
+            "start_months_since_1900": 1224,
+            "end_months_since_1900": 1295,
+            "length_in_months": 60
+        }
+    ],
+    "details": {
+        "First Name": "Anna",
+        "Middle Name": "NA",
+        "Last Name": "Scott",
+        "Maiden Name": "NA",
+        "Full Name at Birth": "Anna Scott",
+        "Alternative Name": "NA",
+        "Birthday": "1977",
+        "Birthplace": "NA",
+        "Height": "NA",
+        "Weight": "NA",
+        "Zodiac Sign": "3",
+        "Sexuality": "NA",
+        "Religion": "1",
+        "Ethnicity": "1",
+        "Nationality": "65",
+        "Occupation": "19"
+    }
+}

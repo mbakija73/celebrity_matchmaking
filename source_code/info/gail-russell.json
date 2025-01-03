@@ -1,0 +1,77 @@
+{
+    "relationships": [
+        {
+            "name": "John Wayne",
+            "href": "https://www.whosdatedwho.com/dating/john-wayne",
+            "relationship_type": 2,
+            "start_date": "1953",
+            "end_date": "1953",
+            "length": "-",
+            "start_months_since_1900": 636,
+            "end_months_since_1900": 636,
+            "length_in_months": -1
+        },
+        {
+            "name": "Guy Madison",
+            "href": "https://www.whosdatedwho.com/dating/guy-madison",
+            "relationship_type": 4,
+            "start_date": "1949",
+            "end_date": "1954",
+            "length": "5 years",
+            "start_months_since_1900": 588,
+            "end_months_since_1900": 648,
+            "length_in_months": 60
+        },
+        {
+            "name": "John Farrow",
+            "href": "https://www.whosdatedwho.com/dating/john-farrow",
+            "relationship_type": 3,
+            "start_date": "1947",
+            "end_date": "1947",
+            "length": "-",
+            "start_months_since_1900": 564,
+            "end_months_since_1900": 564,
+            "length_in_months": -1
+        },
+        {
+            "name": "Freddie Bartholomew",
+            "href": "https://www.whosdatedwho.com/dating/freddie-bartholomew",
+            "relationship_type": 2,
+            "start_date": "1943",
+            "end_date": "1943",
+            "length": "-",
+            "start_months_since_1900": 516,
+            "end_months_since_1900": 516,
+            "length_in_months": -1
+        },
+        {
+            "name": "Jimmy Lydon",
+            "href": "https://www.whosdatedwho.com/dating/jimmy-lydon",
+            "relationship_type": 1,
+            "start_date": "1943",
+            "end_date": "1943",
+            "length": "-",
+            "start_months_since_1900": 516,
+            "end_months_since_1900": 516,
+            "length_in_months": -1
+        }
+    ],
+    "details": {
+        "First Name": "Gail",
+        "Middle Name": "NA",
+        "Last Name": "Russell",
+        "Maiden Name": "NA",
+        "Full Name at Birth": "Elizabeth L. Russell",
+        "Alternative Name": "NA",
+        "Birthday": "1924",
+        "Birthplace": "Illinois",
+        "Height": "NA",
+        "Weight": "NA",
+        "Zodiac Sign": "11",
+        "Sexuality": "DISPUTED",
+        "Religion": "1",
+        "Ethnicity": "6",
+        "Nationality": "91",
+        "Occupation": "8"
+    }
+}

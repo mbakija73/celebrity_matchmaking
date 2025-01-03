@@ -1,0 +1,33 @@
+{
+    "relationships": [
+        {
+            "name": "Boris Becker",
+            "href": "https://www.whosdatedwho.com/dating/boris-becker",
+            "relationship_type": 2,
+            "start_date": "Jun 2001",
+            "end_date": "Aug 2001",
+            "length": "2 months",
+            "start_months_since_1900": 1217,
+            "end_months_since_1900": 1219,
+            "length_in_months": 2
+        }
+    ],
+    "details": {
+        "First Name": "Sabrina",
+        "Middle Name": "NA",
+        "Last Name": "Setlur",
+        "Maiden Name": "NA",
+        "Full Name at Birth": "NA",
+        "Alternative Name": "Sabs, Schwester S.",
+        "Birthday": "1974",
+        "Birthplace": "Germany",
+        "Height": "170",
+        "Weight": "128lbs (58 kg)",
+        "Zodiac Sign": "13",
+        "Sexuality": "Straight",
+        "Religion": "1",
+        "Ethnicity": "8",
+        "Nationality": "55",
+        "Occupation": "1"
+    }
+}

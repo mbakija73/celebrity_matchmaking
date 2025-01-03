@@ -1,0 +1,55 @@
+{
+    "relationships": [
+        {
+            "name": "Alec Baldwin",
+            "href": "https://www.whosdatedwho.com/dating/alec-baldwin",
+            "relationship_type": 2,
+            "start_date": "Nov 2006",
+            "end_date": "Sep 2010",
+            "length": "3 years",
+            "start_months_since_1900": 1282,
+            "end_months_since_1900": 1328,
+            "length_in_months": 36
+        },
+        {
+            "name": "Stan Dragoti",
+            "href": "https://www.whosdatedwho.com/dating/stan-dragoti",
+            "relationship_type": 3,
+            "start_date": "1990",
+            "end_date": "1990",
+            "length": "-",
+            "start_months_since_1900": 1080,
+            "end_months_since_1900": 1080,
+            "length_in_months": -1
+        },
+        {
+            "name": "Richard Emery",
+            "href": "https://www.whosdatedwho.com/dating/richard-emery",
+            "relationship_type": 4,
+            "start_date": "1980",
+            "end_date": "1996",
+            "length": "16 years",
+            "start_months_since_1900": 960,
+            "end_months_since_1900": 1152,
+            "length_in_months": 192
+        }
+    ],
+    "details": {
+        "First Name": "Lori",
+        "Middle Name": "Jacqueline",
+        "Last Name": "Singer",
+        "Maiden Name": "NA",
+        "Full Name at Birth": "Lori Jacqueline Singer",
+        "Alternative Name": "Lori Singer",
+        "Birthday": "1957",
+        "Birthplace": "USA",
+        "Height": "180",
+        "Weight": "141lbs (64 kg)",
+        "Zodiac Sign": "5",
+        "Sexuality": "Straight",
+        "Religion": "31",
+        "Ethnicity": "6",
+        "Nationality": "91",
+        "Occupation": "8"
+    }
+}

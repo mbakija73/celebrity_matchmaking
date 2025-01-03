@@ -1,0 +1,66 @@
+{
+    "relationships": [
+        {
+            "name": "Roger Vadim",
+            "href": "https://www.whosdatedwho.com/dating/roger-vadim",
+            "relationship_type": 4,
+            "start_date": "1987",
+            "end_date": "11th Feb 2000",
+            "length": "13 years",
+            "start_months_since_1900": 1044,
+            "end_months_since_1900": 1201,
+            "length_in_months": 156
+        },
+        {
+            "name": "Daniel Toscan du Plantier",
+            "href": "https://www.whosdatedwho.com/dating/daniel-toscan-du-plantier",
+            "relationship_type": 4,
+            "start_date": "1963",
+            "end_date": "1978",
+            "length": "15 years",
+            "start_months_since_1900": 756,
+            "end_months_since_1900": 936,
+            "length_in_months": 180
+        },
+        {
+            "name": "Michel Boisrond",
+            "href": "https://www.whosdatedwho.com/dating/michel-boisrond",
+            "relationship_type": 4,
+            "start_date": "",
+            "end_date": "",
+            "length": "-",
+            "start_months_since_1900": -1,
+            "end_months_since_1900": -1,
+            "length_in_months": -1
+        },
+        {
+            "name": "Claude Santelli",
+            "href": "https://www.whosdatedwho.com/dating/claude-santelli",
+            "relationship_type": 2,
+            "start_date": "",
+            "end_date": "",
+            "length": "-",
+            "start_months_since_1900": -1,
+            "end_months_since_1900": -1,
+            "length_in_months": -1
+        }
+    ],
+    "details": {
+        "First Name": "Marie-Christine",
+        "Middle Name": "NA",
+        "Last Name": "NA",
+        "Maiden Name": "Barrault",
+        "Full Name at Birth": "Marie-Christine Barrault",
+        "Alternative Name": "NA",
+        "Birthday": "1944",
+        "Birthplace": "France",
+        "Height": "NA",
+        "Weight": "NA",
+        "Zodiac Sign": "7",
+        "Sexuality": "Straight",
+        "Religion": "1",
+        "Ethnicity": "6",
+        "Nationality": "86",
+        "Occupation": "8"
+    }
+}

@@ -1,0 +1,44 @@
+{
+    "relationships": [
+        {
+            "name": "Jock Mahoney",
+            "href": "https://www.whosdatedwho.com/dating/jock-mahoney",
+            "relationship_type": 4,
+            "start_date": "1951",
+            "end_date": "1968",
+            "length": "17 years",
+            "start_months_since_1900": 612,
+            "end_months_since_1900": 816,
+            "length_in_months": 204
+        },
+        {
+            "name": "Richard Dryden Field",
+            "href": "https://www.whosdatedwho.com/dating/richard-dryden-field",
+            "relationship_type": 4,
+            "start_date": "1942",
+            "end_date": "1951",
+            "length": "9 years",
+            "start_months_since_1900": 504,
+            "end_months_since_1900": 612,
+            "length_in_months": 108
+        }
+    ],
+    "details": {
+        "First Name": "Margaret",
+        "Middle Name": "NA",
+        "Last Name": "Field",
+        "Maiden Name": "NA",
+        "Full Name at Birth": "Margaret Joy Morlan",
+        "Alternative Name": "Maggie Maloney, Maggie Mahoney, Margaret Fields, Margaret Morlan",
+        "Birthday": "1923",
+        "Birthplace": "USA",
+        "Height": "165",
+        "Weight": "NA",
+        "Zodiac Sign": "3",
+        "Sexuality": "NA",
+        "Religion": "1",
+        "Ethnicity": "6",
+        "Nationality": "91",
+        "Occupation": "8"
+    }
+}

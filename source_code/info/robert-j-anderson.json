@@ -1,0 +1,66 @@
+{
+    "relationships": [
+        {
+            "name": "Justine Bateman",
+            "href": "https://www.whosdatedwho.com/dating/justine-bateman",
+            "relationship_type": 2,
+            "start_date": "1985",
+            "end_date": "1987",
+            "length": "2 years",
+            "start_months_since_1900": 1020,
+            "end_months_since_1900": 1044,
+            "length_in_months": 24
+        },
+        {
+            "name": "Victoria Wandrey",
+            "href": "https://www.whosdatedwho.com/dating/victoria-anderson-578825",
+            "relationship_type": 4,
+            "start_date": "1981",
+            "end_date": "1981",
+            "length": "-",
+            "start_months_since_1900": 972,
+            "end_months_since_1900": 972,
+            "length_in_months": -1
+        },
+        {
+            "name": "Eleanor Parker",
+            "href": "https://www.whosdatedwho.com/dating/eleanor-parker",
+            "relationship_type": 2,
+            "start_date": "Feb 1945",
+            "end_date": "Feb 1945",
+            "length": "-",
+            "start_months_since_1900": 541,
+            "end_months_since_1900": 541,
+            "length_in_months": -1
+        },
+        {
+            "name": "Faye Emerson",
+            "href": "https://www.whosdatedwho.com/dating/faye-emerson",
+            "relationship_type": 2,
+            "start_date": "",
+            "end_date": "",
+            "length": "-",
+            "start_months_since_1900": -1,
+            "end_months_since_1900": -1,
+            "length_in_months": -1
+        }
+    ],
+    "details": {
+        "First Name": "Bobby",
+        "Middle Name": "James",
+        "Last Name": "Anderson",
+        "Maiden Name": "NA",
+        "Full Name at Birth": "Robert James Anderson",
+        "Alternative Name": "Bobbie Anderson, Bob Anderson, Robert J. Anderson, Robert James Anderson, Bobby Anderson, Bob",
+        "Birthday": "1933",
+        "Birthplace": "U.S.",
+        "Height": "NA",
+        "Weight": "208lbs (94 kg)",
+        "Zodiac Sign": "1",
+        "Sexuality": "Straight",
+        "Religion": "1",
+        "Ethnicity": "6",
+        "Nationality": "91",
+        "Occupation": "8"
+    }
+}

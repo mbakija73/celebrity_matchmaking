@@ -1,0 +1,44 @@
+{
+    "relationships": [
+        {
+            "name": "Chris Brown",
+            "href": "https://www.whosdatedwho.com/dating/chris-brown-doctor",
+            "relationship_type": 1,
+            "start_date": "May 2023",
+            "end_date": "May 2023",
+            "length": "-",
+            "start_months_since_1900": 1480,
+            "end_months_since_1900": 1480,
+            "length_in_months": -1
+        },
+        {
+            "name": "Tom Ward",
+            "href": "https://www.whosdatedwho.com/dating/tom-ward-104638231",
+            "relationship_type": 4,
+            "start_date": "2014",
+            "end_date": "2021",
+            "length": "7 years",
+            "start_months_since_1900": 1368,
+            "end_months_since_1900": 1452,
+            "length_in_months": 84
+        }
+    ],
+    "details": {
+        "First Name": "Sarah",
+        "Middle Name": "NA",
+        "Last Name": "Harris",
+        "Maiden Name": "NA",
+        "Full Name at Birth": "NA",
+        "Alternative Name": "Sarah Harris, Sarah",
+        "Birthday": "1981",
+        "Birthplace": "Australia",
+        "Height": "173",
+        "Weight": "123lbs (56 kg)",
+        "Zodiac Sign": "8",
+        "Sexuality": "Straight",
+        "Religion": "18",
+        "Ethnicity": "6",
+        "Nationality": "135",
+        "Occupation": "9"
+    }
+}

@@ -1,0 +1,66 @@
+{
+    "relationships": [
+        {
+            "name": "Ingrid Goude",
+            "href": "https://www.whosdatedwho.com/dating/ingrid-goude",
+            "relationship_type": 2,
+            "start_date": "Jul 1974",
+            "end_date": "Aug 1974",
+            "length": "1 month",
+            "start_months_since_1900": 894,
+            "end_months_since_1900": 895,
+            "length_in_months": 1
+        },
+        {
+            "name": "Dolly Read",
+            "href": "https://www.whosdatedwho.com/dating/dolly-read",
+            "relationship_type": 4,
+            "start_date": "1971",
+            "end_date": "24th May 2008",
+            "length": "37 years",
+            "start_months_since_1900": 852,
+            "end_months_since_1900": 1300,
+            "length_in_months": 444
+        },
+        {
+            "name": "Dinah Shore",
+            "href": "https://www.whosdatedwho.com/dating/dinah-shore",
+            "relationship_type": 2,
+            "start_date": "Sep 1958",
+            "end_date": "Sep 1958",
+            "length": "-",
+            "start_months_since_1900": 704,
+            "end_months_since_1900": 704,
+            "length_in_months": -1
+        },
+        {
+            "name": "Peggy Connelly",
+            "href": "https://www.whosdatedwho.com/dating/peggy-connelly",
+            "relationship_type": 4,
+            "start_date": "Nov 1955",
+            "end_date": "1965",
+            "length": "9 years",
+            "start_months_since_1900": 670,
+            "end_months_since_1900": 780,
+            "length_in_months": 108
+        }
+    ],
+    "details": {
+        "First Name": "Dick",
+        "Middle Name": "NA",
+        "Last Name": "Martin",
+        "Maiden Name": "NA",
+        "Full Name at Birth": "Thomas Richard Martin",
+        "Alternative Name": "NA",
+        "Birthday": "1922",
+        "Birthplace": "USA",
+        "Height": "185",
+        "Weight": "NA",
+        "Zodiac Sign": "9",
+        "Sexuality": "Straight",
+        "Religion": "1",
+        "Ethnicity": "6",
+        "Nationality": "91",
+        "Occupation": "8"
+    }
+}

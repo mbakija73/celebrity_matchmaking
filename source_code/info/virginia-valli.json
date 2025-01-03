@@ -1,0 +1,55 @@
+{
+    "relationships": [
+        {
+            "name": "Charles Farrell",
+            "href": "https://www.whosdatedwho.com/dating/charles-farrell-actor",
+            "relationship_type": 4,
+            "start_date": "Feb 1930",
+            "end_date": "Sep 1968",
+            "length": "38 years",
+            "start_months_since_1900": 361,
+            "end_months_since_1900": 824,
+            "length_in_months": 456
+        },
+        {
+            "name": "Demarest Lamson",
+            "href": "https://www.whosdatedwho.com/dating/demarest-lamson",
+            "relationship_type": 4,
+            "start_date": "1920",
+            "end_date": "1926",
+            "length": "6 years",
+            "start_months_since_1900": 240,
+            "end_months_since_1900": 312,
+            "length_in_months": 72
+        },
+        {
+            "name": "George Lamson (1)",
+            "href": "https://www.whosdatedwho.com/dating/george-lamson-1",
+            "relationship_type": 4,
+            "start_date": "",
+            "end_date": "",
+            "length": "-",
+            "start_months_since_1900": -1,
+            "end_months_since_1900": -1,
+            "length_in_months": -1
+        }
+    ],
+    "details": {
+        "First Name": "Virginia",
+        "Middle Name": "NA",
+        "Last Name": "Valli",
+        "Maiden Name": "McSweeney",
+        "Full Name at Birth": "Virginia McSweeney",
+        "Alternative Name": "Virginia McSweeney, Virginia Valli",
+        "Birthday": "1898",
+        "Birthplace": "Illinois",
+        "Height": "163",
+        "Weight": "NA",
+        "Zodiac Sign": "4",
+        "Sexuality": "Straight",
+        "Religion": "1",
+        "Ethnicity": "6",
+        "Nationality": "91",
+        "Occupation": "8"
+    }
+}

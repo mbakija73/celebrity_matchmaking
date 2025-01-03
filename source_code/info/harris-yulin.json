@@ -1,0 +1,44 @@
+{
+    "relationships": [
+        {
+            "name": "Gwen Welles",
+            "href": "https://www.whosdatedwho.com/dating/gwen-welles",
+            "relationship_type": 4,
+            "start_date": "1973",
+            "end_date": "13th Oct 1993",
+            "length": "20 years",
+            "start_months_since_1900": 876,
+            "end_months_since_1900": 1125,
+            "length_in_months": 240
+        },
+        {
+            "name": "Faye Dunaway",
+            "href": "https://www.whosdatedwho.com/dating/faye-dunaway",
+            "relationship_type": 2,
+            "start_date": "Aug 1970",
+            "end_date": "1972",
+            "length": "1 year",
+            "start_months_since_1900": 847,
+            "end_months_since_1900": 864,
+            "length_in_months": 12
+        }
+    ],
+    "details": {
+        "First Name": "Harris",
+        "Middle Name": "NA",
+        "Last Name": "Yulin",
+        "Maiden Name": "NA",
+        "Full Name at Birth": "Harris Yulin",
+        "Alternative Name": "NA",
+        "Birthday": "1937",
+        "Birthplace": "USA",
+        "Height": "180",
+        "Weight": "NA",
+        "Zodiac Sign": "5",
+        "Sexuality": "Straight",
+        "Religion": "31",
+        "Ethnicity": "6",
+        "Nationality": "91",
+        "Occupation": "8"
+    }
+}

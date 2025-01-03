@@ -1,0 +1,77 @@
+{
+    "relationships": [
+        {
+            "name": "Mario Casas",
+            "href": "https://www.whosdatedwho.com/dating/mario-casas",
+            "relationship_type": 2,
+            "start_date": "Mar 2018",
+            "end_date": "Sep 2019",
+            "length": "1 year",
+            "start_months_since_1900": 1418,
+            "end_months_since_1900": 1436,
+            "length_in_months": 12
+        },
+        {
+            "name": "Dani Mart\u00edn",
+            "href": "https://www.whosdatedwho.com/dating/dani-martin",
+            "relationship_type": 2,
+            "start_date": "Jan 2014",
+            "end_date": "Oct 2014",
+            "length": "9 months",
+            "start_months_since_1900": 1368,
+            "end_months_since_1900": 1377,
+            "length_in_months": 9
+        },
+        {
+            "name": "Miguel \u00c1ngel Silvestre",
+            "href": "https://www.whosdatedwho.com/dating/miguel-angel-silvestre",
+            "relationship_type": 2,
+            "start_date": "May 2011",
+            "end_date": "May 2011",
+            "length": "-",
+            "start_months_since_1900": 1336,
+            "end_months_since_1900": 1336,
+            "length_in_months": -1
+        },
+        {
+            "name": "Javier Pereira",
+            "href": "https://www.whosdatedwho.com/dating/javier-pereira",
+            "relationship_type": 2,
+            "start_date": "2008",
+            "end_date": "2010",
+            "length": "2 years",
+            "start_months_since_1900": 1296,
+            "end_months_since_1900": 1320,
+            "length_in_months": 24
+        },
+        {
+            "name": "Javier Rey",
+            "href": "https://www.whosdatedwho.com/dating/javier-rey",
+            "relationship_type": 2,
+            "start_date": "",
+            "end_date": "present",
+            "length": "-",
+            "start_months_since_1900": -1,
+            "end_months_since_1900": -1,
+            "length_in_months": -1
+        }
+    ],
+    "details": {
+        "First Name": "Blanca",
+        "Middle Name": "NA",
+        "Last Name": "Martinez",
+        "Maiden Name": "NA",
+        "Full Name at Birth": "Blanca Mart\u00ednez Su\u00e1rez",
+        "Alternative Name": "Blanca Suarez",
+        "Birthday": "1988",
+        "Birthplace": "Spain",
+        "Height": "NA",
+        "Weight": "NA",
+        "Zodiac Sign": "10",
+        "Sexuality": "Straight",
+        "Religion": "1",
+        "Ethnicity": "6",
+        "Nationality": "118",
+        "Occupation": "8"
+    }
+}

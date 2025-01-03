@@ -1,0 +1,33 @@
+{
+    "relationships": [
+        {
+            "name": "Kourtney Kardashian",
+            "href": "https://www.whosdatedwho.com/dating/kourtney-kardashian",
+            "relationship_type": 2,
+            "start_date": "Jun 2020",
+            "end_date": "Sep 2020",
+            "length": "3 months",
+            "start_months_since_1900": 1445,
+            "end_months_since_1900": 1448,
+            "length_in_months": 3
+        }
+    ],
+    "details": {
+        "First Name": "David",
+        "Middle Name": "Dee",
+        "Last Name": "Duron",
+        "Maiden Name": "NA",
+        "Full Name at Birth": "David Dee Duron",
+        "Alternative Name": "NA",
+        "Birthday": "1992",
+        "Birthplace": "NA",
+        "Height": "NA",
+        "Weight": "NA",
+        "Zodiac Sign": "4",
+        "Sexuality": "Straight",
+        "Religion": "18",
+        "Ethnicity": "6",
+        "Nationality": "91",
+        "Occupation": "19"
+    }
+}

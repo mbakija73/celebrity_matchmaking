@@ -1,0 +1,55 @@
+{
+    "relationships": [
+        {
+            "name": "Dwyane Wade",
+            "href": "https://www.whosdatedwho.com/dating/dwyane-wade",
+            "relationship_type": 2,
+            "start_date": "Sep 2008",
+            "end_date": "Oct 2008",
+            "length": "1 month",
+            "start_months_since_1900": 1304,
+            "end_months_since_1900": 1305,
+            "length_in_months": 1
+        },
+        {
+            "name": "Brandon Collier",
+            "href": "https://www.whosdatedwho.com/dating/brandon-collier",
+            "relationship_type": 2,
+            "start_date": "Dec 2007",
+            "end_date": "Dec 2007",
+            "length": "-",
+            "start_months_since_1900": 1295,
+            "end_months_since_1900": 1295,
+            "length_in_months": -1
+        },
+        {
+            "name": "Michael Wayans",
+            "href": "https://www.whosdatedwho.com/dating/michael-wayans",
+            "relationship_type": 2,
+            "start_date": "2005",
+            "end_date": "2005",
+            "length": "-",
+            "start_months_since_1900": 1260,
+            "end_months_since_1900": 1260,
+            "length_in_months": -1
+        }
+    ],
+    "details": {
+        "First Name": "Vanessa",
+        "Middle Name": "NA",
+        "Last Name": "NA",
+        "Maiden Name": "Simmons",
+        "Full Name at Birth": "Vanessa Simmons",
+        "Alternative Name": "NA",
+        "Birthday": "1983",
+        "Birthplace": "New York",
+        "Height": "170",
+        "Weight": "125lbs (57 kg)",
+        "Zodiac Sign": "12",
+        "Sexuality": "Straight",
+        "Religion": "18",
+        "Ethnicity": "8",
+        "Nationality": "91",
+        "Occupation": "11"
+    }
+}

@@ -1,0 +1,33 @@
+{
+    "relationships": [
+        {
+            "name": "Luke Perry",
+            "href": "https://www.whosdatedwho.com/dating/luke-perry",
+            "relationship_type": 2,
+            "start_date": "2nd Apr 2017",
+            "end_date": "4th Mar 2019",
+            "length": "1 year",
+            "start_months_since_1900": 1407,
+            "end_months_since_1900": 1430,
+            "length_in_months": 12
+        }
+    ],
+    "details": {
+        "First Name": "Wendy",
+        "Middle Name": "Madison",
+        "Last Name": "NA",
+        "Maiden Name": "Bauer",
+        "Full Name at Birth": "Wendy Madison Bauer",
+        "Alternative Name": "Madison Bauer, Wendy Madison Bauer, Wendy M. Bauer",
+        "Birthday": "1974",
+        "Birthplace": "USA",
+        "Height": "170",
+        "Weight": "NA",
+        "Zodiac Sign": "1",
+        "Sexuality": "Straight",
+        "Religion": "1",
+        "Ethnicity": "6",
+        "Nationality": "91",
+        "Occupation": "11"
+    }
+}

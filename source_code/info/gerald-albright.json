@@ -1,0 +1,44 @@
+{
+    "relationships": [
+        {
+            "name": "Anita Baker",
+            "href": "https://www.whosdatedwho.com/dating/anita-baker",
+            "relationship_type": 3,
+            "start_date": "1990",
+            "end_date": "1990",
+            "length": "-",
+            "start_months_since_1900": 1080,
+            "end_months_since_1900": 1080,
+            "length_in_months": -1
+        },
+        {
+            "name": "Glynis Albright",
+            "href": "https://www.whosdatedwho.com/dating/glynis-albright",
+            "relationship_type": 4,
+            "start_date": "1981",
+            "end_date": "1981",
+            "length": "-",
+            "start_months_since_1900": 972,
+            "end_months_since_1900": 972,
+            "length_in_months": -1
+        }
+    ],
+    "details": {
+        "First Name": "Gerald",
+        "Middle Name": "NA",
+        "Last Name": "Albright",
+        "Maiden Name": "NA",
+        "Full Name at Birth": "NA",
+        "Alternative Name": "NA",
+        "Birthday": "1957",
+        "Birthplace": "California",
+        "Height": "NA",
+        "Weight": "NA",
+        "Zodiac Sign": "11",
+        "Sexuality": "NA",
+        "Religion": "1",
+        "Ethnicity": "1",
+        "Nationality": "91",
+        "Occupation": "1"
+    }
+}

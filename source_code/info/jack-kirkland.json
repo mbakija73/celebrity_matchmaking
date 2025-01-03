@@ -1,0 +1,88 @@
+{
+    "relationships": [
+        {
+            "name": "Nancy Hoadley",
+            "href": "https://www.whosdatedwho.com/dating/nancy-hoadley",
+            "relationship_type": 4,
+            "start_date": "1947",
+            "end_date": "Feb 1969",
+            "length": "22 years",
+            "start_months_since_1900": 564,
+            "end_months_since_1900": 829,
+            "length_in_months": 264
+        },
+        {
+            "name": "Haila Stoddard",
+            "href": "https://www.whosdatedwho.com/dating/haila-stoddard",
+            "relationship_type": 4,
+            "start_date": "1937",
+            "end_date": "1947",
+            "length": "10 years",
+            "start_months_since_1900": 444,
+            "end_months_since_1900": 564,
+            "length_in_months": 120
+        },
+        {
+            "name": "Julie Laird",
+            "href": "https://www.whosdatedwho.com/dating/julie-laird",
+            "relationship_type": 4,
+            "start_date": "Dec 1935",
+            "end_date": "Feb 1937",
+            "length": "1 year",
+            "start_months_since_1900": 431,
+            "end_months_since_1900": 445,
+            "length_in_months": 12
+        },
+        {
+            "name": "June Travis",
+            "href": "https://www.whosdatedwho.com/dating/june-travis",
+            "relationship_type": 2,
+            "start_date": "1935",
+            "end_date": "1935",
+            "length": "-",
+            "start_months_since_1900": 420,
+            "end_months_since_1900": 420,
+            "length_in_months": -1
+        },
+        {
+            "name": "Jayne Shadduck",
+            "href": "https://www.whosdatedwho.com/dating/jayne-shadduck",
+            "relationship_type": 4,
+            "start_date": "Mar 1933",
+            "end_date": "Jul 1935",
+            "length": "2 years",
+            "start_months_since_1900": 398,
+            "end_months_since_1900": 426,
+            "length_in_months": 24
+        },
+        {
+            "name": "Nancy Carroll",
+            "href": "https://www.whosdatedwho.com/dating/nancy-carroll",
+            "relationship_type": 4,
+            "start_date": "Jun 1924",
+            "end_date": "Jun 1931",
+            "length": "7 years",
+            "start_months_since_1900": 293,
+            "end_months_since_1900": 377,
+            "length_in_months": 84
+        }
+    ],
+    "details": {
+        "First Name": "Jack",
+        "Middle Name": "NA",
+        "Last Name": "Kirkland",
+        "Maiden Name": "NA",
+        "Full Name at Birth": "NA",
+        "Alternative Name": "John M. Kirkland, Jock Kirkland, Jim Kirkland",
+        "Birthday": "1901",
+        "Birthplace": "Missouri",
+        "Height": "NA",
+        "Weight": "NA",
+        "Zodiac Sign": "8",
+        "Sexuality": "Straight",
+        "Religion": "1",
+        "Ethnicity": "6",
+        "Nationality": "91",
+        "Occupation": "3"
+    }
+}

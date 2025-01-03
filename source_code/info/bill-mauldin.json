@@ -1,0 +1,55 @@
+{
+    "relationships": [
+        {
+            "name": "Nancy Berg",
+            "href": "https://www.whosdatedwho.com/dating/nancy-berg",
+            "relationship_type": 2,
+            "start_date": "Feb 1954",
+            "end_date": "Feb 1954",
+            "length": "-",
+            "start_months_since_1900": 649,
+            "end_months_since_1900": 649,
+            "length_in_months": -1
+        },
+        {
+            "name": "Natalie Evans",
+            "href": "https://www.whosdatedwho.com/dating/natalie-evans-23814",
+            "relationship_type": 4,
+            "start_date": "1946",
+            "end_date": "22nd Jan 2003",
+            "length": "57 years",
+            "start_months_since_1900": 552,
+            "end_months_since_1900": 1236,
+            "length_in_months": 684
+        },
+        {
+            "name": "Norma Jean Humphries",
+            "href": "https://www.whosdatedwho.com/dating/norma-jean-humphries",
+            "relationship_type": 4,
+            "start_date": "1941",
+            "end_date": "22nd May 1946",
+            "length": "5 years",
+            "start_months_since_1900": 492,
+            "end_months_since_1900": 556,
+            "length_in_months": 60
+        }
+    ],
+    "details": {
+        "First Name": "Bill",
+        "Middle Name": "Henry",
+        "Last Name": "Mauldin",
+        "Maiden Name": "NA",
+        "Full Name at Birth": "William Henry Mauldin",
+        "Alternative Name": "NA",
+        "Birthday": "1921",
+        "Birthplace": "New Mexico",
+        "Height": "NA",
+        "Weight": "NA",
+        "Zodiac Sign": "5",
+        "Sexuality": "Straight",
+        "Religion": "1",
+        "Ethnicity": "1",
+        "Nationality": "91",
+        "Occupation": "3"
+    }
+}

@@ -1,0 +1,55 @@
+{
+    "relationships": [
+        {
+            "name": "Michael Wittenberg",
+            "href": "https://www.whosdatedwho.com/dating/michael-wittenberg",
+            "relationship_type": 4,
+            "start_date": "1995",
+            "end_date": "Sep 2005",
+            "length": "10 years",
+            "start_months_since_1900": 1140,
+            "end_months_since_1900": 1268,
+            "length_in_months": 120
+        },
+        {
+            "name": "Steve Martin",
+            "href": "https://www.whosdatedwho.com/dating/steve-martin",
+            "relationship_type": 2,
+            "start_date": "May 1977",
+            "end_date": "Jan 1982",
+            "length": "4 years",
+            "start_months_since_1900": 928,
+            "end_months_since_1900": 984,
+            "length_in_months": 48
+        },
+        {
+            "name": "Warren Beatty",
+            "href": "https://www.whosdatedwho.com/dating/warren-beatty",
+            "relationship_type": 3,
+            "start_date": "1965",
+            "end_date": "1965",
+            "length": "-",
+            "start_months_since_1900": 780,
+            "end_months_since_1900": 780,
+            "length_in_months": -1
+        }
+    ],
+    "details": {
+        "First Name": "Bernadette",
+        "Middle Name": "Anastasia",
+        "Last Name": "Peters",
+        "Maiden Name": "Lazzara",
+        "Full Name at Birth": "Bernadette Anastasia Lazzara",
+        "Alternative Name": "Bernadette Lazzara, Bernadette Anastasia Lazzara, Bernadette Peters, The Queen of Broadway",
+        "Birthday": "1948",
+        "Birthplace": "USA",
+        "Height": "160",
+        "Weight": "128lbs (58 kg)",
+        "Zodiac Sign": "1",
+        "Sexuality": "Straight",
+        "Religion": "13",
+        "Ethnicity": "6",
+        "Nationality": "91",
+        "Occupation": "8"
+    }
+}

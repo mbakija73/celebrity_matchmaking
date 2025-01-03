@@ -1,0 +1,44 @@
+{
+    "relationships": [
+        {
+            "name": "Jimmy O'Neill",
+            "href": "https://www.whosdatedwho.com/dating/jimmy-o-neill",
+            "relationship_type": 4,
+            "start_date": "1961",
+            "end_date": "1965",
+            "length": "4 years",
+            "start_months_since_1900": 732,
+            "end_months_since_1900": 780,
+            "length_in_months": 48
+        },
+        {
+            "name": "Don Everly",
+            "href": "https://www.whosdatedwho.com/dating/don-everly",
+            "relationship_type": 2,
+            "start_date": "",
+            "end_date": "1958",
+            "length": "-",
+            "start_months_since_1900": -1,
+            "end_months_since_1900": 696,
+            "length_in_months": -1
+        }
+    ],
+    "details": {
+        "First Name": "Sharon",
+        "Middle Name": "NA",
+        "Last Name": "Sheeley",
+        "Maiden Name": "NA",
+        "Full Name at Birth": "NA",
+        "Alternative Name": "NA",
+        "Birthday": "1940",
+        "Birthplace": "California",
+        "Height": "NA",
+        "Weight": "NA",
+        "Zodiac Sign": "7",
+        "Sexuality": "Straight",
+        "Religion": "1",
+        "Ethnicity": "6",
+        "Nationality": "91",
+        "Occupation": "2"
+    }
+}

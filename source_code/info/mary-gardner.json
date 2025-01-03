@@ -1,0 +1,66 @@
+{
+    "relationships": [
+        {
+            "name": "Patrick Miles",
+            "href": "https://www.whosdatedwho.com/dating/patrick-miles",
+            "relationship_type": 2,
+            "start_date": "1969",
+            "end_date": "1975",
+            "length": "6 years",
+            "start_months_since_1900": 828,
+            "end_months_since_1900": 900,
+            "length_in_months": 72
+        },
+        {
+            "name": "Michael Rennie",
+            "href": "https://www.whosdatedwho.com/dating/michael-rennie",
+            "relationship_type": 2,
+            "start_date": "1958",
+            "end_date": "1958",
+            "length": "-",
+            "start_months_since_1900": 696,
+            "end_months_since_1900": 696,
+            "length_in_months": -1
+        },
+        {
+            "name": "Otto Preminger",
+            "href": "https://www.whosdatedwho.com/dating/otto-preminger",
+            "relationship_type": 4,
+            "start_date": "Dec 1951",
+            "end_date": "Mar 1959",
+            "length": "7 years",
+            "start_months_since_1900": 623,
+            "end_months_since_1900": 710,
+            "length_in_months": 84
+        },
+        {
+            "name": "Michelle Renae",
+            "href": "https://www.whosdatedwho.com/dating/michelle-renae",
+            "relationship_type": 2,
+            "start_date": "",
+            "end_date": "",
+            "length": "-",
+            "start_months_since_1900": -1,
+            "end_months_since_1900": -1,
+            "length_in_months": -1
+        }
+    ],
+    "details": {
+        "First Name": "Mary",
+        "Middle Name": "NA",
+        "Last Name": "Gardner",
+        "Maiden Name": "Gilbert",
+        "Full Name at Birth": "Mary Garnder Gilbert Preminger",
+        "Alternative Name": "NA",
+        "Birthday": "1918",
+        "Birthplace": "Michigan",
+        "Height": "176",
+        "Weight": "NA",
+        "Zodiac Sign": "7",
+        "Sexuality": "Straight",
+        "Religion": "1",
+        "Ethnicity": "1",
+        "Nationality": "65",
+        "Occupation": "13"
+    }
+}

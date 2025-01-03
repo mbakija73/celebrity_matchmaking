@@ -1,0 +1,55 @@
+{
+    "relationships": [
+        {
+            "name": "Ingrid Nilsen",
+            "href": "https://www.whosdatedwho.com/dating/ingrid-nilsen",
+            "relationship_type": 2,
+            "start_date": "Jun 2011",
+            "end_date": "May 2013",
+            "length": "1 year",
+            "start_months_since_1900": 1337,
+            "end_months_since_1900": 1360,
+            "length_in_months": 12
+        },
+        {
+            "name": "Whitney Milam",
+            "href": "https://www.whosdatedwho.com/dating/whitney-milam",
+            "relationship_type": 2,
+            "start_date": "Jun 2011",
+            "end_date": "Nov 2013",
+            "length": "2 years",
+            "start_months_since_1900": 1337,
+            "end_months_since_1900": 1366,
+            "length_in_months": 24
+        },
+        {
+            "name": "Kristina Horner",
+            "href": "https://www.whosdatedwho.com/dating/kristina-horner",
+            "relationship_type": 2,
+            "start_date": "2009",
+            "end_date": "Aug 2010",
+            "length": "1 year",
+            "start_months_since_1900": 1308,
+            "end_months_since_1900": 1327,
+            "length_in_months": 12
+        }
+    ],
+    "details": {
+        "First Name": "Luke",
+        "Middle Name": "NA",
+        "Last Name": "Conard",
+        "Maiden Name": "NA",
+        "Full Name at Birth": "Luke Conard",
+        "Alternative Name": "NA",
+        "Birthday": "1981",
+        "Birthplace": "USA",
+        "Height": "170",
+        "Weight": "NA",
+        "Zodiac Sign": "1",
+        "Sexuality": "Straight",
+        "Religion": "18",
+        "Ethnicity": "6",
+        "Nationality": "91",
+        "Occupation": "1"
+    }
+}

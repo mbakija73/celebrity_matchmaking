@@ -1,0 +1,33 @@
+{
+    "relationships": [
+        {
+            "name": "Bob Marley",
+            "href": "https://www.whosdatedwho.com/dating/bob-marley",
+            "relationship_type": 2,
+            "start_date": "1980",
+            "end_date": "1981",
+            "length": "1 year",
+            "start_months_since_1900": 960,
+            "end_months_since_1900": 972,
+            "length_in_months": 12
+        }
+    ],
+    "details": {
+        "First Name": "Yvette",
+        "Middle Name": "NA",
+        "Last Name": "Crichton",
+        "Maiden Name": "NA",
+        "Full Name at Birth": "NA",
+        "Alternative Name": "NA",
+        "Birthday": "NA",
+        "Birthplace": "NA",
+        "Height": "NA",
+        "Weight": "NA",
+        "Zodiac Sign": "2",
+        "Sexuality": "NA",
+        "Religion": "1",
+        "Ethnicity": "1",
+        "Nationality": "65",
+        "Occupation": "19"
+    }
+}

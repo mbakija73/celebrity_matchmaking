@@ -1,0 +1,44 @@
+{
+    "relationships": [
+        {
+            "name": "Anna Karina",
+            "href": "https://www.whosdatedwho.com/dating/anna-karina",
+            "relationship_type": 4,
+            "start_date": "1980",
+            "end_date": "",
+            "length": "-",
+            "start_months_since_1900": 960,
+            "end_months_since_1900": -1,
+            "length_in_months": -1
+        },
+        {
+            "name": "Jean Seberg",
+            "href": "https://www.whosdatedwho.com/dating/jean-seberg",
+            "relationship_type": 4,
+            "start_date": "1970",
+            "end_date": "30th Aug 1979",
+            "length": "9 years",
+            "start_months_since_1900": 840,
+            "end_months_since_1900": 955,
+            "length_in_months": 108
+        }
+    ],
+    "details": {
+        "First Name": "Dennis",
+        "Middle Name": "Charles",
+        "Last Name": "Berry",
+        "Maiden Name": "NA",
+        "Full Name at Birth": "Dennis Charles Berry",
+        "Alternative Name": "Dennis Charles Berry, Dennis Berry",
+        "Birthday": "1944",
+        "Birthplace": "USA",
+        "Height": "NA",
+        "Weight": "NA",
+        "Zodiac Sign": "12",
+        "Sexuality": "Straight",
+        "Religion": "1",
+        "Ethnicity": "6",
+        "Nationality": "91",
+        "Occupation": "3"
+    }
+}

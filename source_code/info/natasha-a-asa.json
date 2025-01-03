@@ -1,0 +1,33 @@
+{
+    "relationships": [
+        {
+            "name": "Ludacris",
+            "href": "https://www.whosdatedwho.com/dating/ludacris",
+            "relationship_type": 3,
+            "start_date": "2001",
+            "end_date": "2002",
+            "length": "1 year",
+            "start_months_since_1900": 1212,
+            "end_months_since_1900": 1224,
+            "length_in_months": 12
+        }
+    ],
+    "details": {
+        "First Name": "Natasha",
+        "Middle Name": "NA",
+        "Last Name": "A'asa",
+        "Maiden Name": "NA",
+        "Full Name at Birth": "NA",
+        "Alternative Name": "NA",
+        "Birthday": "NA",
+        "Birthplace": "NA",
+        "Height": "NA",
+        "Weight": "NA",
+        "Zodiac Sign": "2",
+        "Sexuality": "NA",
+        "Religion": "1",
+        "Ethnicity": "1",
+        "Nationality": "65",
+        "Occupation": "19"
+    }
+}

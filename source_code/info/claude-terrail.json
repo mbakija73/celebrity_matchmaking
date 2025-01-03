@@ -1,0 +1,88 @@
+{
+    "relationships": [
+        {
+            "name": "Jayne Mansfield",
+            "href": "https://www.whosdatedwho.com/dating/jayne-mansfield",
+            "relationship_type": 2,
+            "start_date": "Apr 1963",
+            "end_date": "Jun 1963",
+            "length": "2 months",
+            "start_months_since_1900": 759,
+            "end_months_since_1900": 761,
+            "length_in_months": 2
+        },
+        {
+            "name": "Ava Gardner",
+            "href": "https://www.whosdatedwho.com/dating/ava-gardner",
+            "relationship_type": 2,
+            "start_date": "1961",
+            "end_date": "1962",
+            "length": "1 year",
+            "start_months_since_1900": 732,
+            "end_months_since_1900": 744,
+            "length_in_months": 12
+        },
+        {
+            "name": "Marilyn Monroe",
+            "href": "https://www.whosdatedwho.com/dating/marilyn-monroe",
+            "relationship_type": 3,
+            "start_date": "Aug 1951",
+            "end_date": "Aug 1951",
+            "length": "-",
+            "start_months_since_1900": 619,
+            "end_months_since_1900": 619,
+            "length_in_months": -1
+        },
+        {
+            "name": "Romy Schneider",
+            "href": "https://www.whosdatedwho.com/dating/romy-schneider",
+            "relationship_type": 2,
+            "start_date": "",
+            "end_date": "",
+            "length": "-",
+            "start_months_since_1900": -1,
+            "end_months_since_1900": -1,
+            "length_in_months": -1
+        },
+        {
+            "name": "Tarja Paria",
+            "href": "https://www.whosdatedwho.com/dating/tarja-paria",
+            "relationship_type": 4,
+            "start_date": "",
+            "end_date": "Jun 2006",
+            "length": "-",
+            "start_months_since_1900": -1,
+            "end_months_since_1900": 1277,
+            "length_in_months": -1
+        },
+        {
+            "name": "Barbara Warner Howard",
+            "href": "https://www.whosdatedwho.com/dating/barbara-warner-howard",
+            "relationship_type": 4,
+            "start_date": "",
+            "end_date": "",
+            "length": "-",
+            "start_months_since_1900": -1,
+            "end_months_since_1900": -1,
+            "length_in_months": -1
+        }
+    ],
+    "details": {
+        "First Name": "Claude",
+        "Middle Name": "NA",
+        "Last Name": "Terrail",
+        "Maiden Name": "NA",
+        "Full Name at Birth": "NA",
+        "Alternative Name": "NA",
+        "Birthday": "1917",
+        "Birthplace": "France",
+        "Height": "NA",
+        "Weight": "NA",
+        "Zodiac Sign": "6",
+        "Sexuality": "Straight",
+        "Religion": "1",
+        "Ethnicity": "6",
+        "Nationality": "86",
+        "Occupation": "7"
+    }
+}

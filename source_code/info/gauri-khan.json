@@ -1,0 +1,33 @@
+{
+    "relationships": [
+        {
+            "name": "Shah Rukh Khan",
+            "href": "https://www.whosdatedwho.com/dating/shah-rukh-khan",
+            "relationship_type": 4,
+            "start_date": "Oct 1991",
+            "end_date": "present",
+            "length": "32 years",
+            "start_months_since_1900": 1101,
+            "end_months_since_1900": -1,
+            "length_in_months": 384
+        }
+    ],
+    "details": {
+        "First Name": "Gauri",
+        "Middle Name": "NA",
+        "Last Name": "Khan",
+        "Maiden Name": "Chibber",
+        "Full Name at Birth": "Gauri Chibber",
+        "Alternative Name": "Gori",
+        "Birthday": "1970",
+        "Birthplace": "India",
+        "Height": "NA",
+        "Weight": "NA",
+        "Zodiac Sign": "10",
+        "Sexuality": "Straight",
+        "Religion": "27",
+        "Ethnicity": "7",
+        "Nationality": "34",
+        "Occupation": "9"
+    }
+}

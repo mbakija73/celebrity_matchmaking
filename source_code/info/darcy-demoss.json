@@ -1,0 +1,55 @@
+{
+    "relationships": [
+        {
+            "name": "Jack Lippman",
+            "href": "https://www.whosdatedwho.com/dating/jack-lippman",
+            "relationship_type": 4,
+            "start_date": "2004",
+            "end_date": "",
+            "length": "-",
+            "start_months_since_1900": 1248,
+            "end_months_since_1900": -1,
+            "length_in_months": -1
+        },
+        {
+            "name": "Stephen Shellen",
+            "href": "https://www.whosdatedwho.com/dating/stephen-shellen",
+            "relationship_type": 2,
+            "start_date": "1984",
+            "end_date": "1984",
+            "length": "-",
+            "start_months_since_1900": 1008,
+            "end_months_since_1900": 1008,
+            "length_in_months": -1
+        },
+        {
+            "name": "Wings Hauser",
+            "href": "https://www.whosdatedwho.com/dating/wings-hauser",
+            "relationship_type": 2,
+            "start_date": "",
+            "end_date": "",
+            "length": "-",
+            "start_months_since_1900": -1,
+            "end_months_since_1900": -1,
+            "length_in_months": -1
+        }
+    ],
+    "details": {
+        "First Name": "Darcy",
+        "Middle Name": "NA",
+        "Last Name": "Demoss",
+        "Maiden Name": "NA",
+        "Full Name at Birth": "Darcy L. DeMoss",
+        "Alternative Name": "NA",
+        "Birthday": "1963",
+        "Birthplace": "USA",
+        "Height": "NA",
+        "Weight": "NA",
+        "Zodiac Sign": "12",
+        "Sexuality": "Straight",
+        "Religion": "1",
+        "Ethnicity": "6",
+        "Nationality": "91",
+        "Occupation": "8"
+    }
+}

@@ -1,0 +1,77 @@
+{
+    "relationships": [
+        {
+            "name": "Joshua Dun",
+            "href": "https://www.whosdatedwho.com/dating/josh-dun",
+            "relationship_type": 4,
+            "start_date": "May 2013",
+            "end_date": "present",
+            "length": "11 years",
+            "start_months_since_1900": 1360,
+            "end_months_since_1900": -1,
+            "length_in_months": 132
+        },
+        {
+            "name": "Lucas Till",
+            "href": "https://www.whosdatedwho.com/dating/lucas-till",
+            "relationship_type": 2,
+            "start_date": "2010",
+            "end_date": "Feb 2010",
+            "length": "1 month",
+            "start_months_since_1900": 1320,
+            "end_months_since_1900": 1321,
+            "length_in_months": 1
+        },
+        {
+            "name": "Gregg Sulkin",
+            "href": "https://www.whosdatedwho.com/dating/gregg-sulkin",
+            "relationship_type": 2,
+            "start_date": "Feb 2009",
+            "end_date": "Jan 2010",
+            "length": "11 months",
+            "start_months_since_1900": 1309,
+            "end_months_since_1900": 1320,
+            "length_in_months": 11
+        },
+        {
+            "name": "Sean Marquette",
+            "href": "https://www.whosdatedwho.com/dating/sean-marquette",
+            "relationship_type": 2,
+            "start_date": "2009",
+            "end_date": "Nov 2009",
+            "length": "10 months",
+            "start_months_since_1900": 1308,
+            "end_months_since_1900": 1318,
+            "length_in_months": 10
+        },
+        {
+            "name": "Jason Dolley",
+            "href": "https://www.whosdatedwho.com/dating/jason-dolley",
+            "relationship_type": 2,
+            "start_date": "2008",
+            "end_date": "Jan 2009",
+            "length": "1 year",
+            "start_months_since_1900": 1296,
+            "end_months_since_1900": 1308,
+            "length_in_months": 12
+        }
+    ],
+    "details": {
+        "First Name": "Deborah",
+        "Middle Name": "Ann",
+        "Last Name": "Ryan",
+        "Maiden Name": "NA",
+        "Full Name at Birth": "Deborah Ann Ryan",
+        "Alternative Name": "Debby Ryan",
+        "Birthday": "1993",
+        "Birthplace": "USA",
+        "Height": "165",
+        "Weight": "135lbs (61 kg)",
+        "Zodiac Sign": "3",
+        "Sexuality": "Straight",
+        "Religion": "1",
+        "Ethnicity": "6",
+        "Nationality": "91",
+        "Occupation": "8"
+    }
+}

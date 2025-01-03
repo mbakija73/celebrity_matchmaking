@@ -1,0 +1,77 @@
+{
+    "relationships": [
+        {
+            "name": "Dua Lipa",
+            "href": "https://www.whosdatedwho.com/dating/dua-lipa",
+            "relationship_type": 2,
+            "start_date": "Jun 2019",
+            "end_date": "Dec 2021",
+            "length": "2 years",
+            "start_months_since_1900": 1433,
+            "end_months_since_1900": 1463,
+            "length_in_months": 24
+        },
+        {
+            "name": "Kendall Jenner",
+            "href": "https://www.whosdatedwho.com/dating/kendall-jenner",
+            "relationship_type": 3,
+            "start_date": "Jun 2018",
+            "end_date": "Jun 2018",
+            "length": "-",
+            "start_months_since_1900": 1421,
+            "end_months_since_1900": 1421,
+            "length_in_months": -1
+        },
+        {
+            "name": "Sonia Ammar",
+            "href": "https://www.whosdatedwho.com/dating/sonia-ammar",
+            "relationship_type": 2,
+            "start_date": "Jun 2018",
+            "end_date": "Aug 2018",
+            "length": "2 months",
+            "start_months_since_1900": 1421,
+            "end_months_since_1900": 1423,
+            "length_in_months": 2
+        },
+        {
+            "name": "Nicola Peltz Beckham",
+            "href": "https://www.whosdatedwho.com/dating/nicola-peltz",
+            "relationship_type": 2,
+            "start_date": "Jan 2017",
+            "end_date": "May 2018",
+            "length": "1 year",
+            "start_months_since_1900": 1404,
+            "end_months_since_1900": 1420,
+            "length_in_months": 12
+        },
+        {
+            "name": "Sofia Richie",
+            "href": "https://www.whosdatedwho.com/dating/sofia-richie",
+            "relationship_type": 3,
+            "start_date": "Oct 2016",
+            "end_date": "Oct 2016",
+            "length": "-",
+            "start_months_since_1900": 1401,
+            "end_months_since_1900": 1401,
+            "length_in_months": -1
+        }
+    ],
+    "details": {
+        "First Name": "Anwar",
+        "Middle Name": "NA",
+        "Last Name": "Hadid",
+        "Maiden Name": "NA",
+        "Full Name at Birth": "Anwar Mohamed Gerard Hadid",
+        "Alternative Name": "Anwar Hadid, Anwar Mohamed Gerard Hadid",
+        "Birthday": "1999",
+        "Birthplace": "USA",
+        "Height": "185",
+        "Weight": "NA",
+        "Zodiac Sign": "8",
+        "Sexuality": "Straight",
+        "Religion": "1",
+        "Ethnicity": "6",
+        "Nationality": "91",
+        "Occupation": "15"
+    }
+}

@@ -1,0 +1,44 @@
+{
+    "relationships": [
+        {
+            "name": "Dorothy Gray",
+            "href": "https://www.whosdatedwho.com/dating/dorothy-gray",
+            "relationship_type": 4,
+            "start_date": "1953",
+            "end_date": "1972",
+            "length": "19 years",
+            "start_months_since_1900": 636,
+            "end_months_since_1900": 864,
+            "length_in_months": 228
+        },
+        {
+            "name": "Sally Eilers",
+            "href": "https://www.whosdatedwho.com/dating/sally-eilers",
+            "relationship_type": 4,
+            "start_date": "1933",
+            "end_date": "Aug 1943",
+            "length": "10 years",
+            "start_months_since_1900": 396,
+            "end_months_since_1900": 523,
+            "length_in_months": 120
+        }
+    ],
+    "details": {
+        "First Name": "Harry",
+        "Middle Name": "Joe",
+        "Last Name": "Brown",
+        "Maiden Name": "NA",
+        "Full Name at Birth": "Harry Joe Brown",
+        "Alternative Name": "NA",
+        "Birthday": "1890",
+        "Birthplace": "Pennsylvania",
+        "Height": "171",
+        "Weight": "NA",
+        "Zodiac Sign": "11",
+        "Sexuality": "Straight",
+        "Religion": "1",
+        "Ethnicity": "6",
+        "Nationality": "91",
+        "Occupation": "9"
+    }
+}

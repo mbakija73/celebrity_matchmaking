@@ -1,0 +1,33 @@
+{
+    "relationships": [
+        {
+            "name": "Venus Williams",
+            "href": "https://www.whosdatedwho.com/dating/venus-williams",
+            "relationship_type": 3,
+            "start_date": "May 2021",
+            "end_date": "2022",
+            "length": "8 months",
+            "start_months_since_1900": 1456,
+            "end_months_since_1900": 1464,
+            "length_in_months": 8
+        }
+    ],
+    "details": {
+        "Birthday": "1997",
+        "First Name": "NA",
+        "Middle Name": "NA",
+        "Last Name": "NA",
+        "Maiden Name": "NA",
+        "Full Name at Birth": "NA",
+        "Alternative Name": "NA",
+        "Birthplace": "U.S.",
+        "Height": "208",
+        "Weight": "NA",
+        "Zodiac Sign": "11",
+        "Sexuality": "NA",
+        "Religion": "1",
+        "Ethnicity": "6",
+        "Nationality": "91",
+        "Occupation": "2"
+    }
+}

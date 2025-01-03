@@ -1,0 +1,66 @@
+{
+    "relationships": [
+        {
+            "name": "Francesca Lodo",
+            "href": "https://www.whosdatedwho.com/dating/francesca-lodo",
+            "relationship_type": 3,
+            "start_date": "2006",
+            "end_date": "2006",
+            "length": "-",
+            "start_months_since_1900": 1272,
+            "end_months_since_1900": 1272,
+            "length_in_months": -1
+        },
+        {
+            "name": "Beatrice Borromeo",
+            "href": "https://www.whosdatedwho.com/dating/beatrice-borromeo",
+            "relationship_type": 2,
+            "start_date": "2005",
+            "end_date": "2007",
+            "length": "2 years",
+            "start_months_since_1900": 1260,
+            "end_months_since_1900": 1284,
+            "length_in_months": 24
+        },
+        {
+            "name": "Manuela Arcuri",
+            "href": "https://www.whosdatedwho.com/dating/manuela-arcuri",
+            "relationship_type": 2,
+            "start_date": "2004",
+            "end_date": "2004",
+            "length": "-",
+            "start_months_since_1900": 1248,
+            "end_months_since_1900": 1248,
+            "length_in_months": -1
+        },
+        {
+            "name": "Daniela Pestova",
+            "href": "https://www.whosdatedwho.com/dating/daniela-pestova",
+            "relationship_type": 4,
+            "start_date": "1994",
+            "end_date": "1998",
+            "length": "4 years",
+            "start_months_since_1900": 1128,
+            "end_months_since_1900": 1176,
+            "length_in_months": 48
+        }
+    ],
+    "details": {
+        "First Name": "Tommaso",
+        "Middle Name": "NA",
+        "Last Name": "Buti",
+        "Maiden Name": "NA",
+        "Full Name at Birth": "NA",
+        "Alternative Name": "NA",
+        "Birthday": "NA",
+        "Birthplace": "Italy",
+        "Height": "NA",
+        "Weight": "NA",
+        "Zodiac Sign": "2",
+        "Sexuality": "Straight",
+        "Religion": "1",
+        "Ethnicity": "6",
+        "Nationality": "139",
+        "Occupation": "7"
+    }
+}

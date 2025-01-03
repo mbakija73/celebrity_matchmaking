@@ -1,0 +1,55 @@
+{
+    "relationships": [
+        {
+            "name": "Eminem",
+            "href": "https://www.whosdatedwho.com/dating/eminem",
+            "relationship_type": 3,
+            "start_date": "2001",
+            "end_date": "2001",
+            "length": "-",
+            "start_months_since_1900": 1212,
+            "end_months_since_1900": 1212,
+            "length_in_months": -1
+        },
+        {
+            "name": "Voodoo",
+            "href": "https://www.whosdatedwho.com/dating/voodoo",
+            "relationship_type": 3,
+            "start_date": "2000",
+            "end_date": "2000",
+            "length": "-",
+            "start_months_since_1900": 1200,
+            "end_months_since_1900": 1200,
+            "length_in_months": -1
+        },
+        {
+            "name": "Charlie",
+            "href": "https://www.whosdatedwho.com/dating/charlie",
+            "relationship_type": 3,
+            "start_date": "1997",
+            "end_date": "1997",
+            "length": "-",
+            "start_months_since_1900": 1164,
+            "end_months_since_1900": 1164,
+            "length_in_months": -1
+        }
+    ],
+    "details": {
+        "First Name": "Brittany",
+        "Middle Name": "NA",
+        "Last Name": "Andrews",
+        "Maiden Name": "Barry",
+        "Full Name at Birth": "Michelle Carmel Barry",
+        "Alternative Name": "Brittany Edwards, Brittany Andrews, Michelle Carmel Barry, Mistress Brittany, Brittney Andrews, Miss Brittany Andrews, Britney Andrews",
+        "Birthday": "1973",
+        "Birthplace": "USA",
+        "Height": "175",
+        "Weight": "114lbs (52 kg)",
+        "Zodiac Sign": "12",
+        "Sexuality": "Bisexual",
+        "Religion": "1",
+        "Ethnicity": "6",
+        "Nationality": "91",
+        "Occupation": "16"
+    }
+}

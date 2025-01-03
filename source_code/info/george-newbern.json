@@ -1,0 +1,55 @@
+{
+    "relationships": [
+        {
+            "name": "Unknown",
+            "href": "https://www.whosdatedwho.com/dating/unknown-profile",
+            "relationship_type": 4,
+            "start_date": "1986",
+            "end_date": "",
+            "length": "-",
+            "start_months_since_1900": 1032,
+            "end_months_since_1900": -1,
+            "length_in_months": -1
+        },
+        {
+            "name": "Marietta DePrima",
+            "href": "https://www.whosdatedwho.com/dating/marietta-deprima-american-actress",
+            "relationship_type": 4,
+            "start_date": "1986",
+            "end_date": "present",
+            "length": "38 years",
+            "start_months_since_1900": 1032,
+            "end_months_since_1900": -1,
+            "length_in_months": 456
+        },
+        {
+            "name": "Bree Turner",
+            "href": "https://www.whosdatedwho.com/dating/bree-turner",
+            "relationship_type": 1,
+            "start_date": "",
+            "end_date": "",
+            "length": "-",
+            "start_months_since_1900": -1,
+            "end_months_since_1900": -1,
+            "length_in_months": -1
+        }
+    ],
+    "details": {
+        "First Name": "George",
+        "Middle Name": "Young",
+        "Last Name": "Newbern",
+        "Maiden Name": "NA",
+        "Full Name at Birth": "George Newbern",
+        "Alternative Name": "NA",
+        "Birthday": "1964",
+        "Birthplace": "Arkansas",
+        "Height": "179",
+        "Weight": "NA",
+        "Zodiac Sign": "6",
+        "Sexuality": "Straight",
+        "Religion": "1",
+        "Ethnicity": "6",
+        "Nationality": "91",
+        "Occupation": "8"
+    }
+}

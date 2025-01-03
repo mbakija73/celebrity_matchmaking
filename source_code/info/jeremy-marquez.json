@@ -1,0 +1,55 @@
+{
+    "relationships": [
+        {
+            "name": "Gwen Zamora",
+            "href": "https://www.whosdatedwho.com/dating/gwen-zamora",
+            "relationship_type": 2,
+            "start_date": "Feb 2015",
+            "end_date": "2018",
+            "length": "2 years",
+            "start_months_since_1900": 1381,
+            "end_months_since_1900": 1416,
+            "length_in_months": 24
+        },
+        {
+            "name": "Karel Marquez",
+            "href": "https://www.whosdatedwho.com/dating/karel-marquez",
+            "relationship_type": 3,
+            "start_date": "2007",
+            "end_date": "2007",
+            "length": "-",
+            "start_months_since_1900": 1284,
+            "end_months_since_1900": 1284,
+            "length_in_months": -1
+        },
+        {
+            "name": "Alessandra De Rossi",
+            "href": "https://www.whosdatedwho.com/dating/alessandra-de-rossi",
+            "relationship_type": 2,
+            "start_date": "2006",
+            "end_date": "2006",
+            "length": "-",
+            "start_months_since_1900": 1272,
+            "end_months_since_1900": 1272,
+            "length_in_months": -1
+        }
+    ],
+    "details": {
+        "First Name": "Jeremy",
+        "Middle Name": "NA",
+        "Last Name": "Marquez",
+        "Maiden Name": "NA",
+        "Full Name at Birth": "NA",
+        "Alternative Name": "NA",
+        "Birthday": "NA",
+        "Birthplace": "NA",
+        "Height": "NA",
+        "Weight": "NA",
+        "Zodiac Sign": "2",
+        "Sexuality": "Straight",
+        "Religion": "13",
+        "Ethnicity": "3",
+        "Nationality": "16",
+        "Occupation": "8"
+    }
+}

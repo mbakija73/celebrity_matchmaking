@@ -1,0 +1,77 @@
+{
+    "relationships": [
+        {
+            "name": "Molly Gordon",
+            "href": "https://www.whosdatedwho.com/dating/molly-gordon",
+            "relationship_type": 2,
+            "start_date": "Sep 2024",
+            "end_date": "present",
+            "length": "1 month",
+            "start_months_since_1900": 1496,
+            "end_months_since_1900": -1,
+            "length_in_months": 1
+        },
+        {
+            "name": "Rosal\u00eda",
+            "href": "https://www.whosdatedwho.com/dating/rosalia-singer",
+            "relationship_type": 2,
+            "start_date": "Oct 2023",
+            "end_date": "2024",
+            "length": "3 months",
+            "start_months_since_1900": 1485,
+            "end_months_since_1900": 1488,
+            "length_in_months": 3
+        },
+        {
+            "name": "Ashley Moore",
+            "href": "https://www.whosdatedwho.com/dating/ashley-moore",
+            "relationship_type": 2,
+            "start_date": "2023",
+            "end_date": "2023",
+            "length": "-",
+            "start_months_since_1900": 1476,
+            "end_months_since_1900": 1476,
+            "length_in_months": -1
+        },
+        {
+            "name": "Addison Timlin",
+            "href": "https://www.whosdatedwho.com/dating/addison-timlin",
+            "relationship_type": 4,
+            "start_date": "May 2019",
+            "end_date": "May 2023",
+            "length": "4 years",
+            "start_months_since_1900": 1432,
+            "end_months_since_1900": 1480,
+            "length_in_months": 48
+        },
+        {
+            "name": "Emma Greenwell",
+            "href": "https://www.whosdatedwho.com/dating/emma-greenwell",
+            "relationship_type": 2,
+            "start_date": "Oct 2011",
+            "end_date": "May 2017",
+            "length": "5 years",
+            "start_months_since_1900": 1341,
+            "end_months_since_1900": 1408,
+            "length_in_months": 60
+        }
+    ],
+    "details": {
+        "First Name": "Jeremy",
+        "Middle Name": "Allen",
+        "Last Name": "White",
+        "Maiden Name": "NA",
+        "Full Name at Birth": "Jeremy Allen White",
+        "Alternative Name": "NA",
+        "Birthday": "1991",
+        "Birthplace": "USA",
+        "Height": "170",
+        "Weight": "NA",
+        "Zodiac Sign": "9",
+        "Sexuality": "Straight",
+        "Religion": "1",
+        "Ethnicity": "6",
+        "Nationality": "91",
+        "Occupation": "8"
+    }
+}

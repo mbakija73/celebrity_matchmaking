@@ -1,0 +1,33 @@
+{
+    "relationships": [
+        {
+            "name": "Justin Bieber",
+            "href": "https://www.whosdatedwho.com/dating/justin-bieber",
+            "relationship_type": 3,
+            "start_date": "2017",
+            "end_date": "2017",
+            "length": "-",
+            "start_months_since_1900": 1404,
+            "end_months_since_1900": 1404,
+            "length_in_months": -1
+        }
+    ],
+    "details": {
+        "First Name": "Michelle",
+        "Middle Name": "NA",
+        "Last Name": "Cardona",
+        "Maiden Name": "NA",
+        "Full Name at Birth": "Michelle Cardona Santiago",
+        "Alternative Name": "NA",
+        "Birthday": "1981",
+        "Birthplace": "Puerto Rico",
+        "Height": "170",
+        "Weight": "110lbs (50 kg)",
+        "Zodiac Sign": "11",
+        "Sexuality": "Straight",
+        "Religion": "1",
+        "Ethnicity": "8",
+        "Nationality": "132",
+        "Occupation": "2"
+    }
+}

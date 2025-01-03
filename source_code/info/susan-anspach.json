@@ -1,0 +1,77 @@
+{
+    "relationships": [
+        {
+            "name": "Sherwood Ball",
+            "href": "https://www.whosdatedwho.com/dating/sherwood-ball",
+            "relationship_type": 4,
+            "start_date": "1981",
+            "end_date": "1988",
+            "length": "7 years",
+            "start_months_since_1900": 972,
+            "end_months_since_1900": 1056,
+            "length_in_months": 84
+        },
+        {
+            "name": "Robbie Robertson",
+            "href": "https://www.whosdatedwho.com/dating/robbie-robertson",
+            "relationship_type": 2,
+            "start_date": "1978",
+            "end_date": "1980",
+            "length": "2 years",
+            "start_months_since_1900": 936,
+            "end_months_since_1900": 960,
+            "length_in_months": 24
+        },
+        {
+            "name": "Mark Goddard",
+            "href": "https://www.whosdatedwho.com/dating/mark-goddard",
+            "relationship_type": 4,
+            "start_date": "1970",
+            "end_date": "Oct 1978",
+            "length": "8 years",
+            "start_months_since_1900": 840,
+            "end_months_since_1900": 945,
+            "length_in_months": 96
+        },
+        {
+            "name": "Jack Nicholson",
+            "href": "https://www.whosdatedwho.com/dating/jack-nicholson",
+            "relationship_type": 2,
+            "start_date": "Nov 1969",
+            "end_date": "Jan 1970",
+            "length": "2 months",
+            "start_months_since_1900": 838,
+            "end_months_since_1900": 840,
+            "length_in_months": 2
+        },
+        {
+            "name": "Steve Curry",
+            "href": "https://www.whosdatedwho.com/dating/steve-curry",
+            "relationship_type": 2,
+            "start_date": "Oct 1967",
+            "end_date": "1969",
+            "length": "1 year",
+            "start_months_since_1900": 813,
+            "end_months_since_1900": 828,
+            "length_in_months": 12
+        }
+    ],
+    "details": {
+        "First Name": "Susan",
+        "Middle Name": "Florence",
+        "Last Name": "NA",
+        "Maiden Name": "Anspach",
+        "Full Name at Birth": "Susan Florence Anspach",
+        "Alternative Name": "NA",
+        "Birthday": "1942",
+        "Birthplace": "USA",
+        "Height": "NA",
+        "Weight": "NA",
+        "Zodiac Sign": "6",
+        "Sexuality": "Straight",
+        "Religion": "13",
+        "Ethnicity": "6",
+        "Nationality": "91",
+        "Occupation": "8"
+    }
+}

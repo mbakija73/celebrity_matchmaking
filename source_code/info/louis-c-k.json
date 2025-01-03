@@ -1,0 +1,77 @@
+{
+    "relationships": [
+        {
+            "name": "Dasha Nekrasova",
+            "href": "https://www.whosdatedwho.com/dating/dasha-nekrasova",
+            "relationship_type": 2,
+            "start_date": "Nov 2022",
+            "end_date": "present",
+            "length": "1 year",
+            "start_months_since_1900": 1474,
+            "end_months_since_1900": -1,
+            "length_in_months": 12
+        },
+        {
+            "name": "Blanche Gardin",
+            "href": "https://www.whosdatedwho.com/dating/blanche-gardin",
+            "relationship_type": 2,
+            "start_date": "2018",
+            "end_date": "2022",
+            "length": "4 years",
+            "start_months_since_1900": 1416,
+            "end_months_since_1900": 1464,
+            "length_in_months": 48
+        },
+        {
+            "name": "Alix Bailey",
+            "href": "https://www.whosdatedwho.com/dating/alix-bailey",
+            "relationship_type": 4,
+            "start_date": "1995",
+            "end_date": "2008",
+            "length": "13 years",
+            "start_months_since_1900": 1140,
+            "end_months_since_1900": 1296,
+            "length_in_months": 156
+        },
+        {
+            "name": "Sarah Silverman",
+            "href": "https://www.whosdatedwho.com/dating/sarah-silverman",
+            "relationship_type": 2,
+            "start_date": "1990",
+            "end_date": "1990",
+            "length": "-",
+            "start_months_since_1900": 1080,
+            "end_months_since_1900": 1080,
+            "length_in_months": -1
+        },
+        {
+            "name": "Fiona Apple",
+            "href": "https://www.whosdatedwho.com/dating/fiona-apple",
+            "relationship_type": 2,
+            "start_date": "",
+            "end_date": "",
+            "length": "-",
+            "start_months_since_1900": -1,
+            "end_months_since_1900": -1,
+            "length_in_months": -1
+        }
+    ],
+    "details": {
+        "First Name": "Louis",
+        "Middle Name": "NA",
+        "Last Name": "Szekely",
+        "Maiden Name": "NA",
+        "Full Name at Birth": "Louis Szekely",
+        "Alternative Name": "Louie C.K.",
+        "Birthday": "1967",
+        "Birthplace": "DC",
+        "Height": "183",
+        "Weight": "NA",
+        "Zodiac Sign": "11",
+        "Sexuality": "Straight",
+        "Religion": "1",
+        "Ethnicity": "6",
+        "Nationality": "91",
+        "Occupation": "8"
+    }
+}

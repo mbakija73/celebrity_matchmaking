@@ -1,0 +1,44 @@
+{
+    "relationships": [
+        {
+            "name": "Peter Tork",
+            "href": "https://www.whosdatedwho.com/dating/peter-tork",
+            "relationship_type": 3,
+            "start_date": "1997",
+            "end_date": "1997",
+            "length": "-",
+            "start_months_since_1900": 1164,
+            "end_months_since_1900": 1164,
+            "length_in_months": -1
+        },
+        {
+            "name": "Frederick Ingram",
+            "href": "https://www.whosdatedwho.com/dating/frederick-ingram",
+            "relationship_type": 4,
+            "start_date": "",
+            "end_date": "1997",
+            "length": "-",
+            "start_months_since_1900": -1,
+            "end_months_since_1900": 1164,
+            "length_in_months": -1
+        }
+    ],
+    "details": {
+        "First Name": "Marilyn",
+        "Middle Name": "NA",
+        "Last Name": "Ingram",
+        "Maiden Name": "McGee",
+        "Full Name at Birth": "NA",
+        "Alternative Name": "NA",
+        "Birthday": "1958",
+        "Birthplace": "NC",
+        "Height": "160",
+        "Weight": "NA",
+        "Zodiac Sign": "12",
+        "Sexuality": "Straight",
+        "Religion": "29",
+        "Ethnicity": "6",
+        "Nationality": "91",
+        "Occupation": "1"
+    }
+}

@@ -1,0 +1,55 @@
+{
+    "relationships": [
+        {
+            "name": "Lira Mercer",
+            "href": "https://www.whosdatedwho.com/dating/lira-galore",
+            "relationship_type": 2,
+            "start_date": "Mar 2022",
+            "end_date": "May 2022",
+            "length": "2 months",
+            "start_months_since_1900": 1466,
+            "end_months_since_1900": 1468,
+            "length_in_months": 2
+        },
+        {
+            "name": "Megan Denise",
+            "href": "https://www.whosdatedwho.com/dating/megan-denise-112730627",
+            "relationship_type": 2,
+            "start_date": "Jul 2018",
+            "end_date": "Jan 2021",
+            "length": "2 years",
+            "start_months_since_1900": 1422,
+            "end_months_since_1900": 1452,
+            "length_in_months": 24
+        },
+        {
+            "name": "Elizabeth Ruiz",
+            "href": "https://www.whosdatedwho.com/dating/elizabeth-ruiz-51017427",
+            "relationship_type": 3,
+            "start_date": "Jun 2016",
+            "end_date": "Jun 2016",
+            "length": "-",
+            "start_months_since_1900": 1397,
+            "end_months_since_1900": 1397,
+            "length_in_months": -1
+        }
+    ],
+    "details": {
+        "First Name": "Von",
+        "Middle Name": "NA",
+        "Last Name": "Miller",
+        "Maiden Name": "NA",
+        "Full Name at Birth": "Von Miller",
+        "Alternative Name": "NA",
+        "Birthday": "1989",
+        "Birthplace": "United States",
+        "Height": "191",
+        "Weight": "246lbs (112 kg)",
+        "Zodiac Sign": "7",
+        "Sexuality": "Straight",
+        "Religion": "1",
+        "Ethnicity": "2",
+        "Nationality": "91",
+        "Occupation": "2"
+    }
+}

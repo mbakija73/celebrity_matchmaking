@@ -1,0 +1,44 @@
+{
+    "relationships": [
+        {
+            "name": "Brooks Koepka",
+            "href": "https://www.whosdatedwho.com/dating/brooks-koepka",
+            "relationship_type": 2,
+            "start_date": "2017",
+            "end_date": "present",
+            "length": "7 years",
+            "start_months_since_1900": 1404,
+            "end_months_since_1900": -1,
+            "length_in_months": 84
+        },
+        {
+            "name": "Robert Buckley",
+            "href": "https://www.whosdatedwho.com/dating/robert-buckley",
+            "relationship_type": 1,
+            "start_date": "",
+            "end_date": "",
+            "length": "-",
+            "start_months_since_1900": -1,
+            "end_months_since_1900": -1,
+            "length_in_months": -1
+        }
+    ],
+    "details": {
+        "First Name": "Jena",
+        "Middle Name": "Michelle",
+        "Last Name": "NA",
+        "Maiden Name": "Sims",
+        "Full Name at Birth": "Jena Michelle Sims",
+        "Alternative Name": "Jena Michelle Sims, Jena Sims, Jeana Sims",
+        "Birthday": "1988",
+        "Birthplace": "USA",
+        "Height": "173",
+        "Weight": "113lbs (51 kg)",
+        "Zodiac Sign": "13",
+        "Sexuality": "Straight",
+        "Religion": "18",
+        "Ethnicity": "6",
+        "Nationality": "91",
+        "Occupation": "15"
+    }
+}

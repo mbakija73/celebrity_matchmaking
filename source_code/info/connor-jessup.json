@@ -1,0 +1,44 @@
+{
+    "relationships": [
+        {
+            "name": "Miles Heizer",
+            "href": "https://www.whosdatedwho.com/dating/miles-heizer",
+            "relationship_type": 2,
+            "start_date": "2018",
+            "end_date": "2021",
+            "length": "3 years",
+            "start_months_since_1900": 1416,
+            "end_months_since_1900": 1452,
+            "length_in_months": 36
+        },
+        {
+            "name": "Emilia Jones",
+            "href": "https://www.whosdatedwho.com/dating/emilia-jones",
+            "relationship_type": 1,
+            "start_date": "",
+            "end_date": "",
+            "length": "-",
+            "start_months_since_1900": -1,
+            "end_months_since_1900": -1,
+            "length_in_months": -1
+        }
+    ],
+    "details": {
+        "First Name": "Connor",
+        "Middle Name": "William",
+        "Last Name": "Jessup",
+        "Maiden Name": "NA",
+        "Full Name at Birth": "Connor William Jessup",
+        "Alternative Name": "NA",
+        "Birthday": "1994",
+        "Birthplace": "Canada",
+        "Height": "180",
+        "Weight": "NA",
+        "Zodiac Sign": "8",
+        "Sexuality": "Gay",
+        "Religion": "1",
+        "Ethnicity": "6",
+        "Nationality": "90",
+        "Occupation": "8"
+    }
+}

@@ -1,0 +1,187 @@
+{
+    "relationships": [
+        {
+            "name": "Peter Max",
+            "href": "https://www.whosdatedwho.com/dating/peter-max",
+            "relationship_type": 2,
+            "start_date": "1986",
+            "end_date": "1986",
+            "length": "-",
+            "start_months_since_1900": 1032,
+            "end_months_since_1900": 1032,
+            "length_in_months": -1
+        },
+        {
+            "name": "Louis Scarrone",
+            "href": "https://www.whosdatedwho.com/dating/louis-scarrone",
+            "relationship_type": 2,
+            "start_date": "Apr 1977",
+            "end_date": "May 1977",
+            "length": "1 month",
+            "start_months_since_1900": 927,
+            "end_months_since_1900": 928,
+            "length_in_months": 1
+        },
+        {
+            "name": "Les Crane",
+            "href": "https://www.whosdatedwho.com/dating/les-crane",
+            "relationship_type": 4,
+            "start_date": "Apr 1965",
+            "end_date": "Jun 1970",
+            "length": "5 years",
+            "start_months_since_1900": 783,
+            "end_months_since_1900": 845,
+            "length_in_months": 60
+        },
+        {
+            "name": "Bo Belinsky",
+            "href": "https://www.whosdatedwho.com/dating/bo-belinsky",
+            "relationship_type": 2,
+            "start_date": "Jul 1962",
+            "end_date": "Aug 1962",
+            "length": "1 month",
+            "start_months_since_1900": 750,
+            "end_months_since_1900": 751,
+            "length_in_months": 1
+        },
+        {
+            "name": "Conrad Hilton",
+            "href": "https://www.whosdatedwho.com/dating/conrad-hilton",
+            "relationship_type": 3,
+            "start_date": "Feb 1962",
+            "end_date": "Apr 1962",
+            "length": "1 month",
+            "start_months_since_1900": 745,
+            "end_months_since_1900": 747,
+            "length_in_months": 1
+        },
+        {
+            "name": "John F. Kennedy",
+            "href": "https://www.whosdatedwho.com/dating/john-f-kennedy",
+            "relationship_type": 3,
+            "start_date": "Sep 1960",
+            "end_date": "Sep 1960",
+            "length": "-",
+            "start_months_since_1900": 728,
+            "end_months_since_1900": 728,
+            "length_in_months": -1
+        },
+        {
+            "name": "Baby Pignatari",
+            "href": "https://www.whosdatedwho.com/dating/baby-pignatari",
+            "relationship_type": 3,
+            "start_date": "Nov 1959",
+            "end_date": "Jan 1960",
+            "length": "2 months",
+            "start_months_since_1900": 718,
+            "end_months_since_1900": 720,
+            "length_in_months": 2
+        },
+        {
+            "name": "Ray Anthony",
+            "href": "https://www.whosdatedwho.com/dating/ray-anthony",
+            "relationship_type": 3,
+            "start_date": "Jul 1959",
+            "end_date": "Aug 1959",
+            "length": "1 month",
+            "start_months_since_1900": 714,
+            "end_months_since_1900": 715,
+            "length_in_months": 1
+        },
+        {
+            "name": "Vic Damone",
+            "href": "https://www.whosdatedwho.com/dating/vic-damone",
+            "relationship_type": 2,
+            "start_date": "Mar 1959",
+            "end_date": "Apr 1959",
+            "length": "1 month",
+            "start_months_since_1900": 710,
+            "end_months_since_1900": 711,
+            "length_in_months": 1
+        },
+        {
+            "name": "Aldo Ray",
+            "href": "https://www.whosdatedwho.com/dating/aldo-ray",
+            "relationship_type": 2,
+            "start_date": "Nov 1958",
+            "end_date": "Dec 1958",
+            "length": "1 month",
+            "start_months_since_1900": 706,
+            "end_months_since_1900": 707,
+            "length_in_months": 1
+        },
+        {
+            "name": "Lance Fuller",
+            "href": "https://www.whosdatedwho.com/dating/lance-fuller",
+            "relationship_type": 2,
+            "start_date": "Jun 1958",
+            "end_date": "Aug 1958",
+            "length": "2 months",
+            "start_months_since_1900": 701,
+            "end_months_since_1900": 703,
+            "length_in_months": 2
+        },
+        {
+            "name": "James M. Bryant",
+            "href": "https://www.whosdatedwho.com/dating/james-m-bryant",
+            "relationship_type": 2,
+            "start_date": "1955",
+            "end_date": "Jan 1956",
+            "length": "1 year",
+            "start_months_since_1900": 660,
+            "end_months_since_1900": 672,
+            "length_in_months": 12
+        },
+        {
+            "name": "Franchot Tone",
+            "href": "https://www.whosdatedwho.com/dating/franchot-tone",
+            "relationship_type": 2,
+            "start_date": "Jan 1954",
+            "end_date": "Jan 1956",
+            "length": "2 years",
+            "start_months_since_1900": 648,
+            "end_months_since_1900": 672,
+            "length_in_months": 24
+        },
+        {
+            "name": "Jonathan Goldsmith",
+            "href": "https://www.whosdatedwho.com/dating/jonathan-goldsmith",
+            "relationship_type": 2,
+            "start_date": "",
+            "end_date": "",
+            "length": "-",
+            "start_months_since_1900": -1,
+            "end_months_since_1900": -1,
+            "length_in_months": -1
+        },
+        {
+            "name": "Elvis Presley",
+            "href": "https://www.whosdatedwho.com/dating/elvis-presley",
+            "relationship_type": 3,
+            "start_date": "",
+            "end_date": "",
+            "length": "-",
+            "start_months_since_1900": -1,
+            "end_months_since_1900": -1,
+            "length_in_months": -1
+        }
+    ],
+    "details": {
+        "First Name": "Tatiana",
+        "Middle Name": "Josivovna",
+        "Last Name": "Louise",
+        "Maiden Name": "Chernova Blacker",
+        "Full Name at Birth": "Tatiana Josivovna Chernova Blacker",
+        "Alternative Name": "Ginger Grant, Tina Louise, Tina Blacker, Tina Crane, Tatiana Josivovna Chernova Blacker, Tatiana Blacker",
+        "Birthday": "1934",
+        "Birthplace": "USA",
+        "Height": "175",
+        "Weight": "125lbs (57 kg)",
+        "Zodiac Sign": "9",
+        "Sexuality": "Straight",
+        "Religion": "31",
+        "Ethnicity": "6",
+        "Nationality": "91",
+        "Occupation": "8"
+    }
+}

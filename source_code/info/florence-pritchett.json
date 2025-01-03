@@ -1,0 +1,77 @@
+{
+    "relationships": [
+        {
+            "name": "Earl Smith",
+            "href": "https://www.whosdatedwho.com/dating/earl-smith",
+            "relationship_type": 4,
+            "start_date": "1947",
+            "end_date": "Nov 1965",
+            "length": "18 years",
+            "start_months_since_1900": 564,
+            "end_months_since_1900": 790,
+            "length_in_months": 216
+        },
+        {
+            "name": "Robert Walker",
+            "href": "https://www.whosdatedwho.com/dating/robert-walker",
+            "relationship_type": 2,
+            "start_date": "Sep 1945",
+            "end_date": "Oct 1945",
+            "length": "1 month",
+            "start_months_since_1900": 548,
+            "end_months_since_1900": 549,
+            "length_in_months": 1
+        },
+        {
+            "name": "John F. Kennedy",
+            "href": "https://www.whosdatedwho.com/dating/john-f-kennedy",
+            "relationship_type": 2,
+            "start_date": "1944",
+            "end_date": "1945",
+            "length": "1 year",
+            "start_months_since_1900": 528,
+            "end_months_since_1900": 540,
+            "length_in_months": 12
+        },
+        {
+            "name": "Richard Canning",
+            "href": "https://www.whosdatedwho.com/dating/richard-canning",
+            "relationship_type": 4,
+            "start_date": "1940",
+            "end_date": "1943",
+            "length": "3 years",
+            "start_months_since_1900": 480,
+            "end_months_since_1900": 516,
+            "length_in_months": 36
+        },
+        {
+            "name": "Errol Flynn",
+            "href": "https://www.whosdatedwho.com/dating/errol-flynn",
+            "relationship_type": 3,
+            "start_date": "",
+            "end_date": "",
+            "length": "-",
+            "start_months_since_1900": -1,
+            "end_months_since_1900": -1,
+            "length_in_months": -1
+        }
+    ],
+    "details": {
+        "First Name": "Florence",
+        "Middle Name": "NA",
+        "Last Name": "Pritchett",
+        "Maiden Name": "NA",
+        "Full Name at Birth": "NA",
+        "Alternative Name": "NA",
+        "Birthday": "1920",
+        "Birthplace": "New Jersey",
+        "Height": "170",
+        "Weight": "NA",
+        "Zodiac Sign": "8",
+        "Sexuality": "Straight",
+        "Religion": "11",
+        "Ethnicity": "6",
+        "Nationality": "91",
+        "Occupation": "15"
+    }
+}

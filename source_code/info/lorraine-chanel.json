@@ -1,0 +1,44 @@
+{
+    "relationships": [
+        {
+            "name": "George Sanders",
+            "href": "https://www.whosdatedwho.com/dating/george-sanders",
+            "relationship_type": 2,
+            "start_date": "1968",
+            "end_date": "1972",
+            "length": "4 years",
+            "start_months_since_1900": 816,
+            "end_months_since_1900": 864,
+            "length_in_months": 48
+        },
+        {
+            "name": "Gary Cooper",
+            "href": "https://www.whosdatedwho.com/dating/gary-cooper",
+            "relationship_type": 2,
+            "start_date": "1952",
+            "end_date": "1956",
+            "length": "4 years",
+            "start_months_since_1900": 624,
+            "end_months_since_1900": 672,
+            "length_in_months": 48
+        }
+    ],
+    "details": {
+        "First Name": "Lorraine",
+        "Middle Name": "NA",
+        "Last Name": "NA",
+        "Maiden Name": "Chanel",
+        "Full Name at Birth": "Lorraine Chanel",
+        "Alternative Name": "NA",
+        "Birthday": "1924",
+        "Birthplace": "Mexico",
+        "Height": "NA",
+        "Weight": "NA",
+        "Zodiac Sign": "6",
+        "Sexuality": "Straight",
+        "Religion": "13",
+        "Ethnicity": "1",
+        "Nationality": "7",
+        "Occupation": "8"
+    }
+}

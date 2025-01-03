@@ -1,0 +1,88 @@
+{
+    "relationships": [
+        {
+            "name": "Tom Gries",
+            "href": "https://www.whosdatedwho.com/dating/tom-gries",
+            "relationship_type": 4,
+            "start_date": "1958",
+            "end_date": "1960",
+            "length": "2 years",
+            "start_months_since_1900": 696,
+            "end_months_since_1900": 720,
+            "length_in_months": 24
+        },
+        {
+            "name": "Paul A. Sutherland",
+            "href": "https://www.whosdatedwho.com/dating/paul-a-sutherland",
+            "relationship_type": 4,
+            "start_date": "Jan 1956",
+            "end_date": "10th Dec 2012",
+            "length": "56 years",
+            "start_months_since_1900": 672,
+            "end_months_since_1900": 1355,
+            "length_in_months": 672
+        },
+        {
+            "name": "Dale Robertson",
+            "href": "https://www.whosdatedwho.com/dating/dale-robertson",
+            "relationship_type": 3,
+            "start_date": "Sep 1955",
+            "end_date": "Oct 1955",
+            "length": "1 month",
+            "start_months_since_1900": 668,
+            "end_months_since_1900": 669,
+            "length_in_months": 1
+        },
+        {
+            "name": "Dean Martin",
+            "href": "https://www.whosdatedwho.com/dating/dean-martin",
+            "relationship_type": 3,
+            "start_date": "Aug 1955",
+            "end_date": "Sep 1955",
+            "length": "1 month",
+            "start_months_since_1900": 667,
+            "end_months_since_1900": 668,
+            "length_in_months": 1
+        },
+        {
+            "name": "Larry Pennell",
+            "href": "https://www.whosdatedwho.com/dating/larry-pennell",
+            "relationship_type": 2,
+            "start_date": "Jul 1954",
+            "end_date": "Dec 1955",
+            "length": "1 year",
+            "start_months_since_1900": 654,
+            "end_months_since_1900": 671,
+            "length_in_months": 12
+        },
+        {
+            "name": "Guy Mitchell",
+            "href": "https://www.whosdatedwho.com/dating/guy-mitchell",
+            "relationship_type": 2,
+            "start_date": "",
+            "end_date": "",
+            "length": "-",
+            "start_months_since_1900": -1,
+            "end_months_since_1900": -1,
+            "length_in_months": -1
+        }
+    ],
+    "details": {
+        "First Name": "Marla",
+        "Middle Name": "Gaile",
+        "Last Name": "NA",
+        "Maiden Name": "English",
+        "Full Name at Birth": "Marlene Gaile English",
+        "Alternative Name": "NA",
+        "Birthday": "1935",
+        "Birthplace": "CA",
+        "Height": "162",
+        "Weight": "NA",
+        "Zodiac Sign": "13",
+        "Sexuality": "Straight",
+        "Religion": "1",
+        "Ethnicity": "6",
+        "Nationality": "91",
+        "Occupation": "8"
+    }
+}

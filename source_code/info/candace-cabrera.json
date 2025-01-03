@@ -1,0 +1,77 @@
+{
+    "relationships": [
+        {
+            "name": "Lil' Wayne",
+            "href": "https://www.whosdatedwho.com/dating/lil-wayne",
+            "relationship_type": 2,
+            "start_date": "Nov 2010",
+            "end_date": "May 2014",
+            "length": "3 years",
+            "start_months_since_1900": 1330,
+            "end_months_since_1900": 1372,
+            "length_in_months": 36
+        },
+        {
+            "name": "Vernon Davis",
+            "href": "https://www.whosdatedwho.com/dating/vernon-davis",
+            "relationship_type": 2,
+            "start_date": "2008",
+            "end_date": "2009",
+            "length": "1 year",
+            "start_months_since_1900": 1296,
+            "end_months_since_1900": 1308,
+            "length_in_months": 12
+        },
+        {
+            "name": "Flavor Flav",
+            "href": "https://www.whosdatedwho.com/dating/flavor-flav",
+            "relationship_type": 2,
+            "start_date": "2007",
+            "end_date": "2007",
+            "length": "-",
+            "start_months_since_1900": 1284,
+            "end_months_since_1900": 1284,
+            "length_in_months": -1
+        },
+        {
+            "name": "Terrell Owens",
+            "href": "https://www.whosdatedwho.com/dating/terrell-owens",
+            "relationship_type": 2,
+            "start_date": "2006",
+            "end_date": "2007",
+            "length": "1 year",
+            "start_months_since_1900": 1272,
+            "end_months_since_1900": 1284,
+            "length_in_months": 12
+        },
+        {
+            "name": "Gorilla Zoe",
+            "href": "https://www.whosdatedwho.com/dating/gorilla-zoe-rapper",
+            "relationship_type": 3,
+            "start_date": "",
+            "end_date": "",
+            "length": "-",
+            "start_months_since_1900": -1,
+            "end_months_since_1900": -1,
+            "length_in_months": -1
+        }
+    ],
+    "details": {
+        "First Name": "Candace",
+        "Middle Name": "NA",
+        "Last Name": "Cabrera",
+        "Maiden Name": "NA",
+        "Full Name at Birth": "Candace Cabrera",
+        "Alternative Name": "\"Black\" on Flavor of Love, Candace Cabrera",
+        "Birthday": "1982",
+        "Birthplace": "Kentucky USA",
+        "Height": "165",
+        "Weight": "128lbs (58 kg)",
+        "Zodiac Sign": "3",
+        "Sexuality": "Straight",
+        "Religion": "1",
+        "Ethnicity": "8",
+        "Nationality": "91",
+        "Occupation": "16"
+    }
+}

@@ -1,0 +1,66 @@
+{
+    "relationships": [
+        {
+            "name": "Phil Laak",
+            "href": "https://www.whosdatedwho.com/dating/phil-laak",
+            "relationship_type": 2,
+            "start_date": "Feb 2005",
+            "end_date": "Feb 2005",
+            "length": "-",
+            "start_months_since_1900": 1261,
+            "end_months_since_1900": 1261,
+            "length_in_months": -1
+        },
+        {
+            "name": "Dennis Kucinich",
+            "href": "https://www.whosdatedwho.com/dating/dennis-kucinich",
+            "relationship_type": 3,
+            "start_date": "Feb 2004",
+            "end_date": "Mar 2004",
+            "length": "< 1 month",
+            "start_months_since_1900": 1249,
+            "end_months_since_1900": 1250,
+            "length_in_months": 0
+        },
+        {
+            "name": "Lou Diamond Phillips",
+            "href": "https://www.whosdatedwho.com/dating/lou-diamond-phillips",
+            "relationship_type": 2,
+            "start_date": "Nov 1990",
+            "end_date": "Jan 1994",
+            "length": "3 years",
+            "start_months_since_1900": 1090,
+            "end_months_since_1900": 1128,
+            "length_in_months": 36
+        },
+        {
+            "name": "Sam Simon",
+            "href": "https://www.whosdatedwho.com/dating/sam-simon",
+            "relationship_type": 4,
+            "start_date": "1983",
+            "end_date": "1991",
+            "length": "8 years",
+            "start_months_since_1900": 996,
+            "end_months_since_1900": 1092,
+            "length_in_months": 96
+        }
+    ],
+    "details": {
+        "First Name": "Jennifer",
+        "Middle Name": "NA",
+        "Last Name": "NA",
+        "Maiden Name": "Tilly",
+        "Full Name at Birth": "Jennifer Elizabeth Chan",
+        "Alternative Name": "Jenny, The Unabombshell, Jennifer Ellen Chan, Jennifer Tilly",
+        "Birthday": "1958",
+        "Birthplace": "USA",
+        "Height": "168",
+        "Weight": "NA",
+        "Zodiac Sign": "11",
+        "Sexuality": "Straight",
+        "Religion": "18",
+        "Ethnicity": "8",
+        "Nationality": "91",
+        "Occupation": "8"
+    }
+}

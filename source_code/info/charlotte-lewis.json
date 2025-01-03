@@ -1,0 +1,209 @@
+{
+    "relationships": [
+        {
+            "name": "Jim Carrey",
+            "href": "https://www.whosdatedwho.com/dating/jim-carrey",
+            "relationship_type": 2,
+            "start_date": "Jan 1999",
+            "end_date": "Oct 1999",
+            "length": "9 months",
+            "start_months_since_1900": 1188,
+            "end_months_since_1900": 1197,
+            "length_in_months": 9
+        },
+        {
+            "name": "Eric Clapton",
+            "href": "https://www.whosdatedwho.com/dating/eric-clapton",
+            "relationship_type": 2,
+            "start_date": "1996",
+            "end_date": "1996",
+            "length": "-",
+            "start_months_since_1900": 1152,
+            "end_months_since_1900": 1152,
+            "length_in_months": -1
+        },
+        {
+            "name": "Elizabeth Hurley",
+            "href": "https://www.whosdatedwho.com/dating/elizabeth-hurley",
+            "relationship_type": 3,
+            "start_date": "1992",
+            "end_date": "1992",
+            "length": "-",
+            "start_months_since_1900": 1104,
+            "end_months_since_1900": 1104,
+            "length_in_months": -1
+        },
+        {
+            "name": "William Annesley",
+            "href": "https://www.whosdatedwho.com/dating/william-annesley",
+            "relationship_type": 2,
+            "start_date": "1991",
+            "end_date": "1993",
+            "length": "2 years",
+            "start_months_since_1900": 1092,
+            "end_months_since_1900": 1116,
+            "length_in_months": 24
+        },
+        {
+            "name": "Dodi Fayed",
+            "href": "https://www.whosdatedwho.com/dating/dodi-fayed",
+            "relationship_type": 3,
+            "start_date": "1988",
+            "end_date": "1988",
+            "length": "-",
+            "start_months_since_1900": 1056,
+            "end_months_since_1900": 1056,
+            "length_in_months": -1
+        },
+        {
+            "name": "Julian Lennon",
+            "href": "https://www.whosdatedwho.com/dating/julian-lennon",
+            "relationship_type": 3,
+            "start_date": "1988",
+            "end_date": "1988",
+            "length": "-",
+            "start_months_since_1900": 1056,
+            "end_months_since_1900": 1056,
+            "length_in_months": -1
+        },
+        {
+            "name": "Mario Sotela",
+            "href": "https://www.whosdatedwho.com/dating/mario-sotela",
+            "relationship_type": 2,
+            "start_date": "1988",
+            "end_date": "1989",
+            "length": "1 year",
+            "start_months_since_1900": 1056,
+            "end_months_since_1900": 1068,
+            "length_in_months": 12
+        },
+        {
+            "name": "Eddie Murphy",
+            "href": "https://www.whosdatedwho.com/dating/eddie-murphy",
+            "relationship_type": 3,
+            "start_date": "Oct 1986",
+            "end_date": "Feb 1987",
+            "length": "4 months",
+            "start_months_since_1900": 1041,
+            "end_months_since_1900": 1045,
+            "length_in_months": 4
+        },
+        {
+            "name": "Mikhail Baryshnikov",
+            "href": "https://www.whosdatedwho.com/dating/mikhail-baryshnikov",
+            "relationship_type": 3,
+            "start_date": "1986",
+            "end_date": "1986",
+            "length": "-",
+            "start_months_since_1900": 1032,
+            "end_months_since_1900": 1032,
+            "length_in_months": -1
+        },
+        {
+            "name": "Charlie Sheen",
+            "href": "https://www.whosdatedwho.com/dating/charlie-sheen",
+            "relationship_type": 2,
+            "start_date": "1986",
+            "end_date": "1988",
+            "length": "2 years",
+            "start_months_since_1900": 1032,
+            "end_months_since_1900": 1056,
+            "length_in_months": 24
+        },
+        {
+            "name": "Robert De Niro",
+            "href": "https://www.whosdatedwho.com/dating/robert-de-niro",
+            "relationship_type": 3,
+            "start_date": "1986",
+            "end_date": "1986",
+            "length": "-",
+            "start_months_since_1900": 1032,
+            "end_months_since_1900": 1032,
+            "length_in_months": -1
+        },
+        {
+            "name": "Warren Beatty",
+            "href": "https://www.whosdatedwho.com/dating/warren-beatty",
+            "relationship_type": 3,
+            "start_date": "1984",
+            "end_date": "1984",
+            "length": "-",
+            "start_months_since_1900": 1008,
+            "end_months_since_1900": 1008,
+            "length_in_months": -1
+        },
+        {
+            "name": "Roman Polanski",
+            "href": "https://www.whosdatedwho.com/dating/roman-polanski",
+            "relationship_type": 2,
+            "start_date": "1984",
+            "end_date": "1984",
+            "length": "-",
+            "start_months_since_1900": 1008,
+            "end_months_since_1900": 1008,
+            "length_in_months": -1
+        },
+        {
+            "name": "Harry Dean Stanton",
+            "href": "https://www.whosdatedwho.com/dating/harry-dean-stanton",
+            "relationship_type": 3,
+            "start_date": "",
+            "end_date": "",
+            "length": "-",
+            "start_months_since_1900": -1,
+            "end_months_since_1900": -1,
+            "length_in_months": -1
+        },
+        {
+            "name": "Michael Hutchence",
+            "href": "https://www.whosdatedwho.com/dating/michael-hutchence",
+            "relationship_type": 2,
+            "start_date": "",
+            "end_date": "",
+            "length": "-",
+            "start_months_since_1900": -1,
+            "end_months_since_1900": -1,
+            "length_in_months": -1
+        },
+        {
+            "name": "Jack Nicholson",
+            "href": "https://www.whosdatedwho.com/dating/jack-nicholson",
+            "relationship_type": 3,
+            "start_date": "",
+            "end_date": "",
+            "length": "-",
+            "start_months_since_1900": -1,
+            "end_months_since_1900": -1,
+            "length_in_months": -1
+        },
+        {
+            "name": "Mickey Rourke",
+            "href": "https://www.whosdatedwho.com/dating/mickey-rourke",
+            "relationship_type": 3,
+            "start_date": "",
+            "end_date": "",
+            "length": "-",
+            "start_months_since_1900": -1,
+            "end_months_since_1900": -1,
+            "length_in_months": -1
+        }
+    ],
+    "details": {
+        "First Name": "Charlotte",
+        "Middle Name": "NA",
+        "Last Name": "NA",
+        "Maiden Name": "Lewis",
+        "Full Name at Birth": "Charlotte Lewis",
+        "Alternative Name": "Charlotte Lewis",
+        "Birthday": "1967",
+        "Birthplace": "UK",
+        "Height": "169",
+        "Weight": "116lbs (53 kg)",
+        "Zodiac Sign": "12",
+        "Sexuality": "Straight",
+        "Religion": "1",
+        "Ethnicity": "8",
+        "Nationality": "8",
+        "Occupation": "8"
+    }
+}

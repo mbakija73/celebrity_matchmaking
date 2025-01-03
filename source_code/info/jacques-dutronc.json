@@ -1,0 +1,55 @@
+{
+    "relationships": [
+        {
+            "name": "Sylvie Duval",
+            "href": "https://www.whosdatedwho.com/dating/sylvie-duval",
+            "relationship_type": 2,
+            "start_date": "1997",
+            "end_date": "1997",
+            "length": "-",
+            "start_months_since_1900": 1164,
+            "end_months_since_1900": 1164,
+            "length_in_months": -1
+        },
+        {
+            "name": "Romy Schneider",
+            "href": "https://www.whosdatedwho.com/dating/romy-schneider",
+            "relationship_type": 2,
+            "start_date": "1974",
+            "end_date": "1974",
+            "length": "-",
+            "start_months_since_1900": 888,
+            "end_months_since_1900": 888,
+            "length_in_months": -1
+        },
+        {
+            "name": "Fran\u00e7oise Hardy",
+            "href": "https://www.whosdatedwho.com/dating/francoise-hardy",
+            "relationship_type": 4,
+            "start_date": "1967",
+            "end_date": "1986",
+            "length": "19 years",
+            "start_months_since_1900": 804,
+            "end_months_since_1900": 1032,
+            "length_in_months": 228
+        }
+    ],
+    "details": {
+        "First Name": "Jacques",
+        "Middle Name": "NA",
+        "Last Name": "Dutronc",
+        "Maiden Name": "NA",
+        "Full Name at Birth": "NA",
+        "Alternative Name": "NA",
+        "Birthday": "1943",
+        "Birthplace": "France",
+        "Height": "178",
+        "Weight": "NA",
+        "Zodiac Sign": "3",
+        "Sexuality": "Straight",
+        "Religion": "1",
+        "Ethnicity": "6",
+        "Nationality": "86",
+        "Occupation": "2"
+    }
+}

@@ -1,0 +1,33 @@
+{
+    "relationships": [
+        {
+            "name": "Pete Wentz",
+            "href": "https://www.whosdatedwho.com/dating/pete-wentz",
+            "relationship_type": 2,
+            "start_date": "Jan 2003",
+            "end_date": "May 2006",
+            "length": "3 years",
+            "start_months_since_1900": 1236,
+            "end_months_since_1900": 1276,
+            "length_in_months": 36
+        }
+    ],
+    "details": {
+        "First Name": "Jeanae",
+        "Middle Name": "NA",
+        "Last Name": "White",
+        "Maiden Name": "NA",
+        "Full Name at Birth": "Jeanae White",
+        "Alternative Name": "NA",
+        "Birthday": "1988",
+        "Birthplace": "IL",
+        "Height": "173",
+        "Weight": "NA",
+        "Zodiac Sign": "2",
+        "Sexuality": "Bisexual",
+        "Religion": "1",
+        "Ethnicity": "6",
+        "Nationality": "91",
+        "Occupation": "19"
+    }
+}

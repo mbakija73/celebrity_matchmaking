@@ -1,0 +1,55 @@
+{
+    "relationships": [
+        {
+            "name": "Lolita Kravtsova",
+            "href": "https://www.whosdatedwho.com/dating/lolita-kravtsova",
+            "relationship_type": 2,
+            "start_date": "1980",
+            "end_date": "1981",
+            "length": "1 year",
+            "start_months_since_1900": 960,
+            "end_months_since_1900": 972,
+            "length_in_months": 12
+        },
+        {
+            "name": "Nelly Kuchkildina",
+            "href": "https://www.whosdatedwho.com/dating/nelly-kuchkildina",
+            "relationship_type": 4,
+            "start_date": "1961",
+            "end_date": "1990",
+            "length": "29 years",
+            "start_months_since_1900": 732,
+            "end_months_since_1900": 1080,
+            "length_in_months": 348
+        },
+        {
+            "name": "Anna Yesenina",
+            "href": "https://www.whosdatedwho.com/dating/anna-yesenina",
+            "relationship_type": 4,
+            "start_date": "",
+            "end_date": "Apr 2017",
+            "length": "-",
+            "start_months_since_1900": -1,
+            "end_months_since_1900": 1407,
+            "length_in_months": -1
+        }
+    ],
+    "details": {
+        "First Name": "Valery",
+        "Middle Name": "NA",
+        "Last Name": "Obodzinsky",
+        "Maiden Name": "NA",
+        "Full Name at Birth": "Valeriy Vladimirovich Obodzinskiy",
+        "Alternative Name": "NA",
+        "Birthday": "1942",
+        "Birthplace": "Ukraine",
+        "Height": "NA",
+        "Weight": "NA",
+        "Zodiac Sign": "9",
+        "Sexuality": "NA",
+        "Religion": "1",
+        "Ethnicity": "6",
+        "Nationality": "9",
+        "Occupation": "1"
+    }
+}

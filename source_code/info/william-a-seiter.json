@@ -1,0 +1,44 @@
+{
+    "relationships": [
+        {
+            "name": "Marian Nixon",
+            "href": "https://www.whosdatedwho.com/dating/marian-nixon",
+            "relationship_type": 4,
+            "start_date": "1934",
+            "end_date": "26th Jul 1964",
+            "length": "30 years",
+            "start_months_since_1900": 408,
+            "end_months_since_1900": 774,
+            "length_in_months": 360
+        },
+        {
+            "name": "Laura La Plante",
+            "href": "https://www.whosdatedwho.com/dating/laura-la-plante",
+            "relationship_type": 4,
+            "start_date": "1926",
+            "end_date": "1934",
+            "length": "8 years",
+            "start_months_since_1900": 312,
+            "end_months_since_1900": 408,
+            "length_in_months": 96
+        }
+    ],
+    "details": {
+        "First Name": "William",
+        "Middle Name": "A.",
+        "Last Name": "Seiter",
+        "Maiden Name": "NA",
+        "Full Name at Birth": "NA",
+        "Alternative Name": "NA",
+        "Birthday": "1890",
+        "Birthplace": "NY",
+        "Height": "185",
+        "Weight": "NA",
+        "Zodiac Sign": "4",
+        "Sexuality": "Straight",
+        "Religion": "1",
+        "Ethnicity": "6",
+        "Nationality": "91",
+        "Occupation": "9"
+    }
+}

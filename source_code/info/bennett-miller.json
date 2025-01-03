@@ -1,0 +1,44 @@
+{
+    "relationships": [
+        {
+            "name": "Sienna Miller",
+            "href": "https://www.whosdatedwho.com/dating/sienna-miller",
+            "relationship_type": 2,
+            "start_date": "May 2016",
+            "end_date": "Oct 2017",
+            "length": "1 year",
+            "start_months_since_1900": 1396,
+            "end_months_since_1900": 1413,
+            "length_in_months": 12
+        },
+        {
+            "name": "Ashley Olsen",
+            "href": "https://www.whosdatedwho.com/dating/ashley-olsen",
+            "relationship_type": 2,
+            "start_date": "Jan 2014",
+            "end_date": "Oct 2015",
+            "length": "1 year",
+            "start_months_since_1900": 1368,
+            "end_months_since_1900": 1389,
+            "length_in_months": 12
+        }
+    ],
+    "details": {
+        "First Name": "Bennett",
+        "Middle Name": "NA",
+        "Last Name": "Miller",
+        "Maiden Name": "NA",
+        "Full Name at Birth": "NA",
+        "Alternative Name": "NA",
+        "Birthday": "1966",
+        "Birthplace": "USA",
+        "Height": "185",
+        "Weight": "NA",
+        "Zodiac Sign": "13",
+        "Sexuality": "NA",
+        "Religion": "1",
+        "Ethnicity": "6",
+        "Nationality": "91",
+        "Occupation": "9"
+    }
+}

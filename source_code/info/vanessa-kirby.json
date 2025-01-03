@@ -1,0 +1,77 @@
+{
+    "relationships": [
+        {
+            "name": "Paul Rabil",
+            "href": "https://www.whosdatedwho.com/dating/paul-rabil",
+            "relationship_type": 2,
+            "start_date": "Sep 2022",
+            "end_date": "present",
+            "length": "2 years",
+            "start_months_since_1900": 1472,
+            "end_months_since_1900": -1,
+            "length_in_months": 24
+        },
+        {
+            "name": "Callum Turner",
+            "href": "https://www.whosdatedwho.com/dating/callum-turner",
+            "relationship_type": 2,
+            "start_date": "2015",
+            "end_date": "Feb 2020",
+            "length": "5 years",
+            "start_months_since_1900": 1380,
+            "end_months_since_1900": 1441,
+            "length_in_months": 60
+        },
+        {
+            "name": "Douglas Booth",
+            "href": "https://www.whosdatedwho.com/dating/douglas-booth",
+            "relationship_type": 2,
+            "start_date": "2012",
+            "end_date": "2013",
+            "length": "1 year",
+            "start_months_since_1900": 1344,
+            "end_months_since_1900": 1356,
+            "length_in_months": 12
+        },
+        {
+            "name": "Christian Cooke",
+            "href": "https://www.whosdatedwho.com/dating/christian-cooke",
+            "relationship_type": 2,
+            "start_date": "2009",
+            "end_date": "2011",
+            "length": "2 years",
+            "start_months_since_1900": 1308,
+            "end_months_since_1900": 1332,
+            "length_in_months": 24
+        },
+        {
+            "name": "Ava Max",
+            "href": "https://www.whosdatedwho.com/dating/ava-max",
+            "relationship_type": 1,
+            "start_date": "",
+            "end_date": "",
+            "length": "-",
+            "start_months_since_1900": -1,
+            "end_months_since_1900": -1,
+            "length_in_months": -1
+        }
+    ],
+    "details": {
+        "First Name": "Vanessa",
+        "Middle Name": "Nuala",
+        "Last Name": "Kirby",
+        "Maiden Name": "NA",
+        "Full Name at Birth": "Vanessa Nuala Kirby",
+        "Alternative Name": "Noola Noo, Vanessa Kirby, Vanessa Nuala Kirby, Vanessa Noola Kirby, Vanessa Jane Kirby, Noo, Nu, Hot Mess",
+        "Birthday": "1988",
+        "Birthplace": "UK",
+        "Height": "173",
+        "Weight": "128lbs (58 kg)",
+        "Zodiac Sign": "7",
+        "Sexuality": "Straight",
+        "Religion": "18",
+        "Ethnicity": "6",
+        "Nationality": "8",
+        "Occupation": "8"
+    }
+}

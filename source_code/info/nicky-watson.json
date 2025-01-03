@@ -1,0 +1,66 @@
+{
+    "relationships": [
+        {
+            "name": "Pete Evans",
+            "href": "https://www.whosdatedwho.com/dating/pete-evans",
+            "relationship_type": 2,
+            "start_date": "Feb 2012",
+            "end_date": "",
+            "length": "-",
+            "start_months_since_1900": 1345,
+            "end_months_since_1900": -1,
+            "length_in_months": -1
+        },
+        {
+            "name": "Matthew Ridge",
+            "href": "https://www.whosdatedwho.com/dating/matthew-ridge",
+            "relationship_type": 2,
+            "start_date": "2001",
+            "end_date": "2002",
+            "length": "1 year",
+            "start_months_since_1900": 1212,
+            "end_months_since_1900": 1224,
+            "length_in_months": 12
+        },
+        {
+            "name": "Martin Henderson",
+            "href": "https://www.whosdatedwho.com/dating/martin-henderson",
+            "relationship_type": 2,
+            "start_date": "1994",
+            "end_date": "1994",
+            "length": "-",
+            "start_months_since_1900": 1128,
+            "end_months_since_1900": 1128,
+            "length_in_months": -1
+        },
+        {
+            "name": "Brendan Cole",
+            "href": "https://www.whosdatedwho.com/dating/brendan-cole",
+            "relationship_type": 1,
+            "start_date": "",
+            "end_date": "",
+            "length": "-",
+            "start_months_since_1900": -1,
+            "end_months_since_1900": -1,
+            "length_in_months": -1
+        }
+    ],
+    "details": {
+        "First Name": "Nicky",
+        "Middle Name": "NA",
+        "Last Name": "NA",
+        "Maiden Name": "Watson",
+        "Full Name at Birth": "Nicky Watson",
+        "Alternative Name": "NA",
+        "Birthday": "NA",
+        "Birthplace": "New Zealand",
+        "Height": "175",
+        "Weight": "NA",
+        "Zodiac Sign": "2",
+        "Sexuality": "Straight",
+        "Religion": "1",
+        "Ethnicity": "6",
+        "Nationality": "72",
+        "Occupation": "16"
+    }
+}

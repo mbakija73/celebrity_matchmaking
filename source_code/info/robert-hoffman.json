@@ -1,0 +1,44 @@
+{
+    "relationships": [
+        {
+            "name": "Alice Greczyn",
+            "href": "https://www.whosdatedwho.com/dating/alice-greczyn",
+            "relationship_type": 2,
+            "start_date": "2007",
+            "end_date": "2009",
+            "length": "2 years",
+            "start_months_since_1900": 1284,
+            "end_months_since_1900": 1308,
+            "length_in_months": 24
+        },
+        {
+            "name": "Briana Evigan",
+            "href": "https://www.whosdatedwho.com/dating/briana-evigan",
+            "relationship_type": 2,
+            "start_date": "2007",
+            "end_date": "2008",
+            "length": "1 year",
+            "start_months_since_1900": 1284,
+            "end_months_since_1900": 1296,
+            "length_in_months": 12
+        }
+    ],
+    "details": {
+        "First Name": "Robert",
+        "Middle Name": "James",
+        "Last Name": "Hoffman III",
+        "Maiden Name": "NA",
+        "Full Name at Birth": "Robert James Hoffman III",
+        "Alternative Name": "Rob, Robert James Hoffman III, Robert James Hoffman, Robert Hoffman III, Robert Hoffman",
+        "Birthday": "1980",
+        "Birthplace": "Florida USA",
+        "Height": "188",
+        "Weight": "NA",
+        "Zodiac Sign": "11",
+        "Sexuality": "NA",
+        "Religion": "1",
+        "Ethnicity": "6",
+        "Nationality": "91",
+        "Occupation": "8"
+    }
+}

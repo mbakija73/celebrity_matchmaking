@@ -1,0 +1,88 @@
+{
+    "relationships": [
+        {
+            "name": "Kathleen Case",
+            "href": "https://www.whosdatedwho.com/dating/kathleen-case",
+            "relationship_type": 3,
+            "start_date": "Jun 1959",
+            "end_date": "Jul 1959",
+            "length": "1 month",
+            "start_months_since_1900": 713,
+            "end_months_since_1900": 714,
+            "length_in_months": 1
+        },
+        {
+            "name": "Jean Moorhead",
+            "href": "https://www.whosdatedwho.com/dating/jean-moorhead",
+            "relationship_type": 2,
+            "start_date": "Jun 1958",
+            "end_date": "Aug 1958",
+            "length": "2 months",
+            "start_months_since_1900": 701,
+            "end_months_since_1900": 703,
+            "length_in_months": 2
+        },
+        {
+            "name": "May Britt",
+            "href": "https://www.whosdatedwho.com/dating/may-britt",
+            "relationship_type": 3,
+            "start_date": "Dec 1957",
+            "end_date": "Feb 1958",
+            "length": "2 months",
+            "start_months_since_1900": 695,
+            "end_months_since_1900": 697,
+            "length_in_months": 2
+        },
+        {
+            "name": "Ziva Rodann",
+            "href": "https://www.whosdatedwho.com/dating/ziva-rodann",
+            "relationship_type": 2,
+            "start_date": "Aug 1957",
+            "end_date": "Sep 1957",
+            "length": "1 month",
+            "start_months_since_1900": 691,
+            "end_months_since_1900": 692,
+            "length_in_months": 1
+        },
+        {
+            "name": "Eva Bartok",
+            "href": "https://www.whosdatedwho.com/dating/eva-bartok",
+            "relationship_type": 3,
+            "start_date": "1957",
+            "end_date": "1957",
+            "length": "-",
+            "start_months_since_1900": 684,
+            "end_months_since_1900": 684,
+            "length_in_months": -1
+        },
+        {
+            "name": "Lori Nelson",
+            "href": "https://www.whosdatedwho.com/dating/lori-nelson",
+            "relationship_type": 2,
+            "start_date": "1956",
+            "end_date": "1957",
+            "length": "1 year",
+            "start_months_since_1900": 672,
+            "end_months_since_1900": 684,
+            "length_in_months": 12
+        }
+    ],
+    "details": {
+        "First Name": "Robert",
+        "Middle Name": "Einar",
+        "Last Name": "Petersen",
+        "Maiden Name": "NA",
+        "Full Name at Birth": "Robert Einar Petersen",
+        "Alternative Name": "Bob Petersen, Pete Petersen, Robert Einar Petersen",
+        "Birthday": "1926",
+        "Birthplace": "CA",
+        "Height": "NA",
+        "Weight": "NA",
+        "Zodiac Sign": "11",
+        "Sexuality": "Straight",
+        "Religion": "1",
+        "Ethnicity": "6",
+        "Nationality": "91",
+        "Occupation": "7"
+    }
+}

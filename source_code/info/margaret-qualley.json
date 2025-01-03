@@ -1,0 +1,77 @@
+{
+    "relationships": [
+        {
+            "name": "Jack Antonoff",
+            "href": "https://www.whosdatedwho.com/dating/jack-antonoff",
+            "relationship_type": 4,
+            "start_date": "2021",
+            "end_date": "present",
+            "length": "3 years",
+            "start_months_since_1900": 1452,
+            "end_months_since_1900": -1,
+            "length_in_months": 36
+        },
+        {
+            "name": "Shia LaBeouf",
+            "href": "https://www.whosdatedwho.com/dating/shia-labeouf",
+            "relationship_type": 2,
+            "start_date": "Dec 2020",
+            "end_date": "Jan 2021",
+            "length": "1 month",
+            "start_months_since_1900": 1451,
+            "end_months_since_1900": 1452,
+            "length_in_months": 1
+        },
+        {
+            "name": "Cara Delevingne",
+            "href": "https://www.whosdatedwho.com/dating/cara-delevingne",
+            "relationship_type": 2,
+            "start_date": "Jul 2020",
+            "end_date": "Jul 2020",
+            "length": "-",
+            "start_months_since_1900": 1446,
+            "end_months_since_1900": 1446,
+            "length_in_months": -1
+        },
+        {
+            "name": "Pete Davidson",
+            "href": "https://www.whosdatedwho.com/dating/pete-davidson-comedian",
+            "relationship_type": 2,
+            "start_date": "Aug 2019",
+            "end_date": "Oct 2019",
+            "length": "2 months",
+            "start_months_since_1900": 1435,
+            "end_months_since_1900": 1437,
+            "length_in_months": 2
+        },
+        {
+            "name": "Nat Wolff",
+            "href": "https://www.whosdatedwho.com/dating/nat-wolff",
+            "relationship_type": 2,
+            "start_date": "2012",
+            "end_date": "2014",
+            "length": "2 years",
+            "start_months_since_1900": 1344,
+            "end_months_since_1900": 1368,
+            "length_in_months": 24
+        }
+    ],
+    "details": {
+        "First Name": "Margaret",
+        "Middle Name": "NA",
+        "Last Name": "NA",
+        "Maiden Name": "Qualley",
+        "Full Name at Birth": "Sarah Margaret Qualley",
+        "Alternative Name": "Sarah Margaret Qualley, Margaret Qualley",
+        "Birthday": "1994",
+        "Birthplace": "USA",
+        "Height": "173",
+        "Weight": "123lbs (56 kg)",
+        "Zodiac Sign": "5",
+        "Sexuality": "Straight",
+        "Religion": "1",
+        "Ethnicity": "6",
+        "Nationality": "91",
+        "Occupation": "8"
+    }
+}

@@ -1,0 +1,55 @@
+{
+    "relationships": [
+        {
+            "name": "Jeff Prescott",
+            "href": "https://www.whosdatedwho.com/dating/jeff-prescott",
+            "relationship_type": 2,
+            "start_date": "Oct 2014",
+            "end_date": "Sep 2015",
+            "length": "11 months",
+            "start_months_since_1900": 1377,
+            "end_months_since_1900": 1388,
+            "length_in_months": 11
+        },
+        {
+            "name": "Steve Neild",
+            "href": "https://www.whosdatedwho.com/dating/steve-neild",
+            "relationship_type": 2,
+            "start_date": "2007",
+            "end_date": "2014",
+            "length": "7 years",
+            "start_months_since_1900": 1284,
+            "end_months_since_1900": 1368,
+            "length_in_months": 84
+        },
+        {
+            "name": "Jonathan Gosselin",
+            "href": "https://www.whosdatedwho.com/dating/jonathan-gosselin",
+            "relationship_type": 4,
+            "start_date": "Oct 1997",
+            "end_date": "Jun 2009",
+            "length": "11 years",
+            "start_months_since_1900": 1173,
+            "end_months_since_1900": 1313,
+            "length_in_months": 132
+        }
+    ],
+    "details": {
+        "First Name": "Kate",
+        "Middle Name": "Irene",
+        "Last Name": "Gosselin",
+        "Maiden Name": "Kreider",
+        "Full Name at Birth": "Katie Irene Kreider",
+        "Alternative Name": "Kate Kreider Gosselin, Kate",
+        "Birthday": "1975",
+        "Birthplace": "USA",
+        "Height": "169",
+        "Weight": "132lbs (60 kg)",
+        "Zodiac Sign": "7",
+        "Sexuality": "Straight",
+        "Religion": "18",
+        "Ethnicity": "6",
+        "Nationality": "91",
+        "Occupation": "11"
+    }
+}

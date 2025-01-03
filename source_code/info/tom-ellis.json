@@ -1,0 +1,55 @@
+{
+    "relationships": [
+        {
+            "name": "Meaghan Oppenheimer",
+            "href": "https://www.whosdatedwho.com/dating/meaghan-oppenheimer",
+            "relationship_type": 4,
+            "start_date": "2015",
+            "end_date": "present",
+            "length": "9 years",
+            "start_months_since_1900": 1380,
+            "end_months_since_1900": -1,
+            "length_in_months": 108
+        },
+        {
+            "name": "Zoe Boyle",
+            "href": "https://www.whosdatedwho.com/dating/zoe-boyle",
+            "relationship_type": 2,
+            "start_date": "Dec 2013",
+            "end_date": "",
+            "length": "-",
+            "start_months_since_1900": 1367,
+            "end_months_since_1900": -1,
+            "length_in_months": -1
+        },
+        {
+            "name": "Tamzin Outhwaite",
+            "href": "https://www.whosdatedwho.com/dating/tamzin-outhwaite",
+            "relationship_type": 4,
+            "start_date": "Jun 2005",
+            "end_date": "Aug 2013",
+            "length": "8 years",
+            "start_months_since_1900": 1265,
+            "end_months_since_1900": 1363,
+            "length_in_months": 96
+        }
+    ],
+    "details": {
+        "First Name": "Tom",
+        "Middle Name": "John",
+        "Last Name": "Ellis",
+        "Maiden Name": "NA",
+        "Full Name at Birth": "Thomas John Ellis",
+        "Alternative Name": "Thomas Paul Ellis, Thomas John Ellis, Tom Ellis",
+        "Birthday": "1978",
+        "Birthplace": "UK",
+        "Height": "191",
+        "Weight": "NA",
+        "Zodiac Sign": "5",
+        "Sexuality": "Straight",
+        "Religion": "18",
+        "Ethnicity": "6",
+        "Nationality": "83",
+        "Occupation": "8"
+    }
+}

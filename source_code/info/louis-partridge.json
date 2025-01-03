@@ -1,0 +1,44 @@
+{
+    "relationships": [
+        {
+            "name": "Olivia Rodrigo",
+            "href": "https://www.whosdatedwho.com/dating/olivia-rodrigo",
+            "relationship_type": 2,
+            "start_date": "Oct 2023",
+            "end_date": "present",
+            "length": "1 year",
+            "start_months_since_1900": 1485,
+            "end_months_since_1900": -1,
+            "length_in_months": 12
+        },
+        {
+            "name": "Sydney Chandler",
+            "href": "https://www.whosdatedwho.com/dating/sydney-chandler",
+            "relationship_type": 2,
+            "start_date": "Jul 2021",
+            "end_date": "Aug 2023",
+            "length": "2 years",
+            "start_months_since_1900": 1458,
+            "end_months_since_1900": 1483,
+            "length_in_months": 24
+        }
+    ],
+    "details": {
+        "Full Name at Birth": "Louis Partridge",
+        "First Name": "NA",
+        "Middle Name": "NA",
+        "Last Name": "NA",
+        "Maiden Name": "NA",
+        "Alternative Name": "NA",
+        "Birthday": "2003",
+        "Birthplace": "England",
+        "Height": "183",
+        "Weight": "NA",
+        "Zodiac Sign": "4",
+        "Sexuality": "NA",
+        "Religion": "18",
+        "Ethnicity": "6",
+        "Nationality": "8",
+        "Occupation": "8"
+    }
+}

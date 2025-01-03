@@ -1,0 +1,44 @@
+{
+    "relationships": [
+        {
+            "name": "Izzy Judd",
+            "href": "https://www.whosdatedwho.com/dating/izzy-judd",
+            "relationship_type": 4,
+            "start_date": "Oct 2005",
+            "end_date": "present",
+            "length": "19 years",
+            "start_months_since_1900": 1269,
+            "end_months_since_1900": -1,
+            "length_in_months": 228
+        },
+        {
+            "name": "Lindsay Lohan",
+            "href": "https://www.whosdatedwho.com/dating/lindsay-lohan",
+            "relationship_type": 3,
+            "start_date": "May 2005",
+            "end_date": "May 2005",
+            "length": "-",
+            "start_months_since_1900": 1264,
+            "end_months_since_1900": 1264,
+            "length_in_months": -1
+        }
+    ],
+    "details": {
+        "First Name": "Harry",
+        "Middle Name": "NA",
+        "Last Name": "Judd",
+        "Maiden Name": "NA",
+        "Full Name at Birth": "Harry  Mark Christopher Judd",
+        "Alternative Name": "Juddy Harold, The Juddster",
+        "Birthday": "1985",
+        "Birthplace": "UK",
+        "Height": "185",
+        "Weight": "180lbs (82 kg)",
+        "Zodiac Sign": "13",
+        "Sexuality": "Straight",
+        "Religion": "18",
+        "Ethnicity": "6",
+        "Nationality": "8",
+        "Occupation": "1"
+    }
+}

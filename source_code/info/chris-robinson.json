@@ -1,0 +1,77 @@
+{
+    "relationships": [
+        {
+            "name": "Camille Johnson",
+            "href": "https://www.whosdatedwho.com/dating/camille-johnson",
+            "relationship_type": 4,
+            "start_date": "2018",
+            "end_date": "present",
+            "length": "6 years",
+            "start_months_since_1900": 1416,
+            "end_months_since_1900": -1,
+            "length_in_months": 72
+        },
+        {
+            "name": "Allison Bridges",
+            "href": "https://www.whosdatedwho.com/dating/allison-bridges",
+            "relationship_type": 4,
+            "start_date": "2007",
+            "end_date": "Oct 2018",
+            "length": "11 years",
+            "start_months_since_1900": 1284,
+            "end_months_since_1900": 1425,
+            "length_in_months": 132
+        },
+        {
+            "name": "Kate Hudson",
+            "href": "https://www.whosdatedwho.com/dating/kate-hudson",
+            "relationship_type": 4,
+            "start_date": "1998",
+            "end_date": "Oct 2007",
+            "length": "9 years",
+            "start_months_since_1900": 1176,
+            "end_months_since_1900": 1293,
+            "length_in_months": 108
+        },
+        {
+            "name": "Elisa Leonetti",
+            "href": "https://www.whosdatedwho.com/dating/elisa-leonetti",
+            "relationship_type": 2,
+            "start_date": "1998",
+            "end_date": "1998",
+            "length": "-",
+            "start_months_since_1900": 1176,
+            "end_months_since_1900": 1176,
+            "length_in_months": -1
+        },
+        {
+            "name": "Lala Sloatman",
+            "href": "https://www.whosdatedwho.com/dating/lala-sloatman",
+            "relationship_type": 4,
+            "start_date": "1995",
+            "end_date": "1998",
+            "length": "3 years",
+            "start_months_since_1900": 1140,
+            "end_months_since_1900": 1176,
+            "length_in_months": 36
+        }
+    ],
+    "details": {
+        "First Name": "Chris",
+        "Middle Name": "NA",
+        "Last Name": "Robinson",
+        "Maiden Name": "NA",
+        "Full Name at Birth": "Christopher Mark Robinson",
+        "Alternative Name": "NA",
+        "Birthday": "1966",
+        "Birthplace": "USA",
+        "Height": "188",
+        "Weight": "NA",
+        "Zodiac Sign": "6",
+        "Sexuality": "Straight",
+        "Religion": "22",
+        "Ethnicity": "6",
+        "Nationality": "91",
+        "Occupation": "1"
+    }
+}

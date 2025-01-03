@@ -1,0 +1,33 @@
+{
+    "relationships": [
+        {
+            "name": "Enya",
+            "href": "https://www.whosdatedwho.com/dating/enya",
+            "relationship_type": 3,
+            "start_date": "1996",
+            "end_date": "1996",
+            "length": "-",
+            "start_months_since_1900": 1152,
+            "end_months_since_1900": 1152,
+            "length_in_months": -1
+        }
+    ],
+    "details": {
+        "First Name": "Tom",
+        "Middle Name": "NA",
+        "Last Name": "Esposito",
+        "Maiden Name": "NA",
+        "Full Name at Birth": "NA",
+        "Alternative Name": "NA",
+        "Birthday": "NA",
+        "Birthplace": "NA",
+        "Height": "NA",
+        "Weight": "NA",
+        "Zodiac Sign": "2",
+        "Sexuality": "NA",
+        "Religion": "1",
+        "Ethnicity": "1",
+        "Nationality": "65",
+        "Occupation": "19"
+    }
+}

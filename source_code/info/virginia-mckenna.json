@@ -1,0 +1,44 @@
+{
+    "relationships": [
+        {
+            "name": "Bill Travers",
+            "href": "https://www.whosdatedwho.com/dating/bill-travers",
+            "relationship_type": 4,
+            "start_date": "1956",
+            "end_date": "Mar 1994",
+            "length": "38 years",
+            "start_months_since_1900": 672,
+            "end_months_since_1900": 1130,
+            "length_in_months": 456
+        },
+        {
+            "name": "Denholm Elliott",
+            "href": "https://www.whosdatedwho.com/dating/denholm-elliott",
+            "relationship_type": 4,
+            "start_date": "Mar 1953",
+            "end_date": "Jun 1957",
+            "length": "4 years",
+            "start_months_since_1900": 638,
+            "end_months_since_1900": 689,
+            "length_in_months": 48
+        }
+    ],
+    "details": {
+        "First Name": "Virginia",
+        "Middle Name": "Anne",
+        "Last Name": "NA",
+        "Maiden Name": "McKenna",
+        "Full Name at Birth": "Virginia Anne McKenna",
+        "Alternative Name": "Virginia McKenna OBE",
+        "Birthday": "1931",
+        "Birthplace": "UK",
+        "Height": "NA",
+        "Weight": "NA",
+        "Zodiac Sign": "4",
+        "Sexuality": "Straight",
+        "Religion": "1",
+        "Ethnicity": "6",
+        "Nationality": "8",
+        "Occupation": "8"
+    }
+}

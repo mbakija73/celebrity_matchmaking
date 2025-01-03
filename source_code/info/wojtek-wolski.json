@@ -1,0 +1,44 @@
+{
+    "relationships": [
+        {
+            "name": "Marta Krupa",
+            "href": "https://www.whosdatedwho.com/dating/marta-krupa",
+            "relationship_type": 2,
+            "start_date": "2011",
+            "end_date": "2012",
+            "length": "1 year",
+            "start_months_since_1900": 1332,
+            "end_months_since_1900": 1344,
+            "length_in_months": 12
+        },
+        {
+            "name": "Ashley Leggat",
+            "href": "https://www.whosdatedwho.com/dating/ashley-leggat",
+            "relationship_type": 2,
+            "start_date": "2006",
+            "end_date": "2007",
+            "length": "1 year",
+            "start_months_since_1900": 1272,
+            "end_months_since_1900": 1284,
+            "length_in_months": 12
+        }
+    ],
+    "details": {
+        "First Name": "Wojtek",
+        "Middle Name": "NA",
+        "Last Name": "Wolski",
+        "Maiden Name": "NA",
+        "Full Name at Birth": "Wojciech Wolski",
+        "Alternative Name": "Wojtek Wolski",
+        "Birthday": "1986",
+        "Birthplace": "Poland",
+        "Height": "191",
+        "Weight": "210lbs (95 kg)",
+        "Zodiac Sign": "1",
+        "Sexuality": "Straight",
+        "Religion": "1",
+        "Ethnicity": "6",
+        "Nationality": "90",
+        "Occupation": "2"
+    }
+}

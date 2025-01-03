@@ -1,0 +1,44 @@
+{
+    "relationships": [
+        {
+            "name": "Caitlin Ryder",
+            "href": "https://www.whosdatedwho.com/dating/caitlin-ryder",
+            "relationship_type": 3,
+            "start_date": "Mar 2011",
+            "end_date": "Mar 2011",
+            "length": "-",
+            "start_months_since_1900": 1334,
+            "end_months_since_1900": 1334,
+            "length_in_months": -1
+        },
+        {
+            "name": "Amia Miley",
+            "href": "https://www.whosdatedwho.com/dating/amia-miley",
+            "relationship_type": 2,
+            "start_date": "2011",
+            "end_date": "2014",
+            "length": "3 years",
+            "start_months_since_1900": 1332,
+            "end_months_since_1900": 1368,
+            "length_in_months": 36
+        }
+    ],
+    "details": {
+        "First Name": "Jonny",
+        "Middle Name": "NA",
+        "Last Name": "Manfre",
+        "Maiden Name": "NA",
+        "Full Name at Birth": "NA",
+        "Alternative Name": "The Unit",
+        "Birthday": "1979",
+        "Birthplace": "NA",
+        "Height": "NA",
+        "Weight": "NA",
+        "Zodiac Sign": "8",
+        "Sexuality": "Straight",
+        "Religion": "1",
+        "Ethnicity": "6",
+        "Nationality": "91",
+        "Occupation": "11"
+    }
+}

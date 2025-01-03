@@ -1,0 +1,66 @@
+{
+    "relationships": [
+        {
+            "name": "Larry Gilman",
+            "href": "https://www.whosdatedwho.com/dating/larry-gilman",
+            "relationship_type": 2,
+            "start_date": "Jun 2009",
+            "end_date": "Jun 2009",
+            "length": "-",
+            "start_months_since_1900": 1313,
+            "end_months_since_1900": 1313,
+            "length_in_months": -1
+        },
+        {
+            "name": "Richard Holland",
+            "href": "https://www.whosdatedwho.com/dating/richard-holland",
+            "relationship_type": 2,
+            "start_date": "Dec 1981",
+            "end_date": "May 2015",
+            "length": "33 years",
+            "start_months_since_1900": 983,
+            "end_months_since_1900": 1384,
+            "length_in_months": 396
+        },
+        {
+            "name": "Corbin Bernsen",
+            "href": "https://www.whosdatedwho.com/dating/corbin-bernsen",
+            "relationship_type": 1,
+            "start_date": "",
+            "end_date": "",
+            "length": "-",
+            "start_months_since_1900": -1,
+            "end_months_since_1900": -1,
+            "length_in_months": -1
+        },
+        {
+            "name": "Michael Dean Shelton",
+            "href": "https://www.whosdatedwho.com/dating/michael-shelton",
+            "relationship_type": 1,
+            "start_date": "",
+            "end_date": "",
+            "length": "-",
+            "start_months_since_1900": -1,
+            "end_months_since_1900": -1,
+            "length_in_months": -1
+        }
+    ],
+    "details": {
+        "First Name": "Donna",
+        "Middle Name": "Jean",
+        "Last Name": "Mills",
+        "Maiden Name": "NA",
+        "Full Name at Birth": "Donna Jean Miller",
+        "Alternative Name": "NA",
+        "Birthday": "1940",
+        "Birthplace": "USA",
+        "Height": "163",
+        "Weight": "NA",
+        "Zodiac Sign": "6",
+        "Sexuality": "Straight",
+        "Religion": "1",
+        "Ethnicity": "6",
+        "Nationality": "91",
+        "Occupation": "8"
+    }
+}

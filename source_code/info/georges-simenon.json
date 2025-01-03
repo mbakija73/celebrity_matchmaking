@@ -1,0 +1,44 @@
+{
+    "relationships": [
+        {
+            "name": "Josephine Baker",
+            "href": "https://www.whosdatedwho.com/dating/josephine-baker",
+            "relationship_type": 2,
+            "start_date": "1925",
+            "end_date": "1925",
+            "length": "-",
+            "start_months_since_1900": 300,
+            "end_months_since_1900": 300,
+            "length_in_months": -1
+        },
+        {
+            "name": "Regine Tgy Renchon",
+            "href": "https://www.whosdatedwho.com/dating/regine-tgy-renchon",
+            "relationship_type": 4,
+            "start_date": "1923",
+            "end_date": "1950",
+            "length": "27 years",
+            "start_months_since_1900": 276,
+            "end_months_since_1900": 600,
+            "length_in_months": 324
+        }
+    ],
+    "details": {
+        "First Name": "Georges",
+        "Middle Name": "NA",
+        "Last Name": "Simenon",
+        "Maiden Name": "NA",
+        "Full Name at Birth": "Georges Joseph Christian Simenon",
+        "Alternative Name": "NA",
+        "Birthday": "1903",
+        "Birthplace": "Belgium",
+        "Height": "NA",
+        "Weight": "NA",
+        "Zodiac Sign": "9",
+        "Sexuality": "Straight",
+        "Religion": "1",
+        "Ethnicity": "6",
+        "Nationality": "110",
+        "Occupation": "3"
+    }
+}

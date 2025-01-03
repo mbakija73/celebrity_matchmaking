@@ -1,0 +1,33 @@
+{
+    "relationships": [
+        {
+            "name": "Bertrand Russell",
+            "href": "https://www.whosdatedwho.com/dating/bertrand-russell",
+            "relationship_type": 4,
+            "start_date": "1935",
+            "end_date": "1952",
+            "length": "17 years",
+            "start_months_since_1900": 420,
+            "end_months_since_1900": 624,
+            "length_in_months": 204
+        }
+    ],
+    "details": {
+        "First Name": "Patricia",
+        "Middle Name": "Russell, Countess",
+        "Last Name": "Russell",
+        "Maiden Name": "NA",
+        "Full Name at Birth": "Marjorie Helen Spence",
+        "Alternative Name": "NA",
+        "Birthday": "1909",
+        "Birthplace": "England",
+        "Height": "NA",
+        "Weight": "NA",
+        "Zodiac Sign": "2",
+        "Sexuality": "Straight",
+        "Religion": "1",
+        "Ethnicity": "6",
+        "Nationality": "8",
+        "Occupation": "4"
+    }
+}

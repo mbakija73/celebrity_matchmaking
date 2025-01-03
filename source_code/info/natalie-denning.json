@@ -1,0 +1,66 @@
+{
+    "relationships": [
+        {
+            "name": "Simon Webbe",
+            "href": "https://www.whosdatedwho.com/dating/simon-webbe",
+            "relationship_type": 2,
+            "start_date": "2004",
+            "end_date": "2004",
+            "length": "-",
+            "start_months_since_1900": 1248,
+            "end_months_since_1900": 1248,
+            "length_in_months": -1
+        },
+        {
+            "name": "Leonardo DiCaprio",
+            "href": "https://www.whosdatedwho.com/dating/leonardo-dicaprio",
+            "relationship_type": 3,
+            "start_date": "2003",
+            "end_date": "2003",
+            "length": "-",
+            "start_months_since_1900": 1236,
+            "end_months_since_1900": 1236,
+            "length_in_months": -1
+        },
+        {
+            "name": "Gary Lucy",
+            "href": "https://www.whosdatedwho.com/dating/gary-lucy",
+            "relationship_type": 3,
+            "start_date": "2003",
+            "end_date": "2003",
+            "length": "-",
+            "start_months_since_1900": 1236,
+            "end_months_since_1900": 1236,
+            "length_in_months": -1
+        },
+        {
+            "name": "Calum Best",
+            "href": "https://www.whosdatedwho.com/dating/calum-best",
+            "relationship_type": 3,
+            "start_date": "2003",
+            "end_date": "Aug 2003",
+            "length": "7 months",
+            "start_months_since_1900": 1236,
+            "end_months_since_1900": 1243,
+            "length_in_months": 7
+        }
+    ],
+    "details": {
+        "First Name": "Natalie",
+        "Middle Name": "NA",
+        "Last Name": "Denning",
+        "Maiden Name": "NA",
+        "Full Name at Birth": "Natalie Denning",
+        "Alternative Name": "NA",
+        "Birthday": "1983",
+        "Birthplace": "United Kingdom",
+        "Height": "173",
+        "Weight": "NA",
+        "Zodiac Sign": "6",
+        "Sexuality": "Straight",
+        "Religion": "1",
+        "Ethnicity": "6",
+        "Nationality": "8",
+        "Occupation": "16"
+    }
+}

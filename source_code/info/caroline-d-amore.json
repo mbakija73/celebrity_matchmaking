@@ -1,0 +1,55 @@
+{
+    "relationships": [
+        {
+            "name": "Matthew Ross",
+            "href": "https://www.whosdatedwho.com/dating/matthew-ross",
+            "relationship_type": 2,
+            "start_date": "Sep 2006",
+            "end_date": "Jun 2007",
+            "length": "9 months",
+            "start_months_since_1900": 1280,
+            "end_months_since_1900": 1289,
+            "length_in_months": 9
+        },
+        {
+            "name": "Shawn Hatosy",
+            "href": "https://www.whosdatedwho.com/dating/shawn-hatosy",
+            "relationship_type": 2,
+            "start_date": "Apr 2005",
+            "end_date": "Dec 2006",
+            "length": "1 year",
+            "start_months_since_1900": 1263,
+            "end_months_since_1900": 1283,
+            "length_in_months": 12
+        },
+        {
+            "name": "Diego Luna",
+            "href": "https://www.whosdatedwho.com/dating/diego-luna",
+            "relationship_type": 2,
+            "start_date": "2005",
+            "end_date": "2005",
+            "length": "-",
+            "start_months_since_1900": 1260,
+            "end_months_since_1900": 1260,
+            "length_in_months": -1
+        }
+    ],
+    "details": {
+        "First Name": "Caroline",
+        "Middle Name": "NA",
+        "Last Name": "NA",
+        "Maiden Name": "D'Amore",
+        "Full Name at Birth": "Caroline D`Amore",
+        "Alternative Name": "Carrie, Caroline DAmore, Caroline D`Amore",
+        "Birthday": "1984",
+        "Birthplace": "California USA",
+        "Height": "163",
+        "Weight": "137lbs (62 kg)",
+        "Zodiac Sign": "4",
+        "Sexuality": "Straight",
+        "Religion": "1",
+        "Ethnicity": "6",
+        "Nationality": "91",
+        "Occupation": "8"
+    }
+}

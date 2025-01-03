@@ -1,0 +1,55 @@
+{
+    "relationships": [
+        {
+            "name": "Jimena Campisi",
+            "href": "https://www.whosdatedwho.com/dating/jimena-campisi",
+            "relationship_type": 3,
+            "start_date": "Sep 2014",
+            "end_date": "Dec 2014",
+            "length": "3 months",
+            "start_months_since_1900": 1376,
+            "end_months_since_1900": 1379,
+            "length_in_months": 3
+        },
+        {
+            "name": "Jenny Williams",
+            "href": "https://www.whosdatedwho.com/dating/jenny-williams",
+            "relationship_type": 3,
+            "start_date": "Mar 2013",
+            "end_date": "Jun 2013",
+            "length": "3 months",
+            "start_months_since_1900": 1358,
+            "end_months_since_1900": 1361,
+            "length_in_months": 3
+        },
+        {
+            "name": "Noelia Marzol",
+            "href": "https://www.whosdatedwho.com/dating/noelia-marzol",
+            "relationship_type": 2,
+            "start_date": "Sep 2010",
+            "end_date": "May 2011",
+            "length": "8 months",
+            "start_months_since_1900": 1328,
+            "end_months_since_1900": 1336,
+            "length_in_months": 8
+        }
+    ],
+    "details": {
+        "First Name": "Victorio",
+        "Middle Name": "NA",
+        "Last Name": "D'alessandro",
+        "Maiden Name": "NA",
+        "Full Name at Birth": "Victorio D'Alessandro",
+        "Alternative Name": "Vico D'Alessandro",
+        "Birthday": "1984",
+        "Birthplace": "Argentina",
+        "Height": "NA",
+        "Weight": "NA",
+        "Zodiac Sign": "3",
+        "Sexuality": "NA",
+        "Religion": "1",
+        "Ethnicity": "6",
+        "Nationality": "28",
+        "Occupation": "8"
+    }
+}

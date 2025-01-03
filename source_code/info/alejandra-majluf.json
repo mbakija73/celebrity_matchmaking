@@ -1,0 +1,27 @@
+{
+    "relationships": [
+        {
+            "name": "Nicol\u00e1s Pauls",
+            "href": "https://www.whosdatedwho.com/dating/nicolas-pauls",
+            "relationship_type": 2,
+            "start_date": "2002",
+            "end_date": "2002",
+            "length": "-",
+            "start_months_since_1900": 1224,
+            "end_months_since_1900": 1224,
+            "length_in_months": -1
+        },
+        {
+            "name": "Sebasti\u00e1n Borensztein",
+            "href": "https://www.whosdatedwho.com/dating/sebastian-borensztein",
+            "relationship_type": 1,
+            "start_date": "",
+            "end_date": "",
+            "length": "-",
+            "start_months_since_1900": -1,
+            "end_months_since_1900": -1,
+            "length_in_months": -1
+        }
+    ],
+    "details": {}
+}

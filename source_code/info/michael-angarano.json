@@ -1,0 +1,66 @@
+{
+    "relationships": [
+        {
+            "name": "Maya Erskine",
+            "href": "https://www.whosdatedwho.com/dating/maya-erskine",
+            "relationship_type": 2,
+            "start_date": "Sep 2019",
+            "end_date": "present",
+            "length": "5 years",
+            "start_months_since_1900": 1436,
+            "end_months_since_1900": -1,
+            "length_in_months": 60
+        },
+        {
+            "name": "Juno Temple",
+            "href": "https://www.whosdatedwho.com/dating/juno-temple",
+            "relationship_type": 2,
+            "start_date": "Mar 2012",
+            "end_date": "Mar 2012",
+            "length": "-",
+            "start_months_since_1900": 1346,
+            "end_months_since_1900": 1346,
+            "length_in_months": -1
+        },
+        {
+            "name": "Alia Shawkat",
+            "href": "https://www.whosdatedwho.com/dating/alia-shawkat",
+            "relationship_type": 2,
+            "start_date": "Jan 2010",
+            "end_date": "Nov 2011",
+            "length": "1 year",
+            "start_months_since_1900": 1320,
+            "end_months_since_1900": 1342,
+            "length_in_months": 12
+        },
+        {
+            "name": "Kristen Stewart",
+            "href": "https://www.whosdatedwho.com/dating/kristen-stewart",
+            "relationship_type": 2,
+            "start_date": "Aug 2005",
+            "end_date": "May 2009",
+            "length": "3 years",
+            "start_months_since_1900": 1267,
+            "end_months_since_1900": 1312,
+            "length_in_months": 36
+        }
+    ],
+    "details": {
+        "First Name": "Michael",
+        "Middle Name": "Anthony",
+        "Last Name": "Angarano",
+        "Maiden Name": "NA",
+        "Full Name at Birth": "Michael Anthony Angarano",
+        "Alternative Name": "Mikey, Angie",
+        "Birthday": "1987",
+        "Birthplace": "USA",
+        "Height": "170",
+        "Weight": "135lbs (61 kg)",
+        "Zodiac Sign": "6",
+        "Sexuality": "Straight",
+        "Religion": "1",
+        "Ethnicity": "6",
+        "Nationality": "91",
+        "Occupation": "8"
+    }
+}

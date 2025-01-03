@@ -1,0 +1,55 @@
+{
+    "relationships": [
+        {
+            "name": "Fern Andra",
+            "href": "https://www.whosdatedwho.com/dating/fern-andra",
+            "relationship_type": 4,
+            "start_date": "1934",
+            "end_date": "1934",
+            "length": "-",
+            "start_months_since_1900": 408,
+            "end_months_since_1900": 408,
+            "length_in_months": -1
+        },
+        {
+            "name": "Ethel Clayton",
+            "href": "https://www.whosdatedwho.com/dating/ethel-clayton",
+            "relationship_type": 4,
+            "start_date": "1928",
+            "end_date": "1928",
+            "length": "-",
+            "start_months_since_1900": 336,
+            "end_months_since_1900": 336,
+            "length_in_months": -1
+        },
+        {
+            "name": "Blanche Yurka",
+            "href": "https://www.whosdatedwho.com/dating/blanche-yurka",
+            "relationship_type": 4,
+            "start_date": "1922",
+            "end_date": "1926",
+            "length": "4 years",
+            "start_months_since_1900": 264,
+            "end_months_since_1900": 312,
+            "length_in_months": 48
+        }
+    ],
+    "details": {
+        "First Name": "Ian",
+        "Middle Name": "NA",
+        "Last Name": "Keith",
+        "Maiden Name": "NA",
+        "Full Name at Birth": "Keith Ross",
+        "Alternative Name": "NA",
+        "Birthday": "1899",
+        "Birthplace": "USA",
+        "Height": "188",
+        "Weight": "NA",
+        "Zodiac Sign": "1",
+        "Sexuality": "Straight",
+        "Religion": "1",
+        "Ethnicity": "6",
+        "Nationality": "91",
+        "Occupation": "8"
+    }
+}

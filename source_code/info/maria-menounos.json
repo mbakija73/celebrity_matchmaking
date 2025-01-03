@@ -1,0 +1,44 @@
+{
+    "relationships": [
+        {
+            "name": "Vin Diesel",
+            "href": "https://www.whosdatedwho.com/dating/vin-diesel",
+            "relationship_type": 2,
+            "start_date": "2006",
+            "end_date": "2006",
+            "length": "-",
+            "start_months_since_1900": 1272,
+            "end_months_since_1900": 1272,
+            "length_in_months": -1
+        },
+        {
+            "name": "Keven Undergaro",
+            "href": "https://www.whosdatedwho.com/dating/keven-undergaro",
+            "relationship_type": 4,
+            "start_date": "Apr 1998",
+            "end_date": "present",
+            "length": "26 years",
+            "start_months_since_1900": 1179,
+            "end_months_since_1900": -1,
+            "length_in_months": 312
+        }
+    ],
+    "details": {
+        "First Name": "Maria",
+        "Middle Name": "NA",
+        "Last Name": "Undergaro",
+        "Maiden Name": "Menounos",
+        "Full Name at Birth": "Maria Menounos",
+        "Alternative Name": "Maria Menounos, Maria Menounos, Maria Menounous",
+        "Birthday": "1978",
+        "Birthplace": "USA",
+        "Height": "173",
+        "Weight": "115lbs (52 kg)",
+        "Zodiac Sign": "4",
+        "Sexuality": "Straight",
+        "Religion": "34",
+        "Ethnicity": "6",
+        "Nationality": "91",
+        "Occupation": "11"
+    }
+}

@@ -1,0 +1,88 @@
+{
+    "relationships": [
+        {
+            "name": "Guy Madison",
+            "href": "https://www.whosdatedwho.com/dating/guy-madison",
+            "relationship_type": 3,
+            "start_date": "Jan 1961",
+            "end_date": "Mar 1961",
+            "length": "1 month",
+            "start_months_since_1900": 732,
+            "end_months_since_1900": 734,
+            "length_in_months": 1
+        },
+        {
+            "name": "Robert De Pasquale",
+            "href": "https://www.whosdatedwho.com/dating/robert-de-pasquale",
+            "relationship_type": 4,
+            "start_date": "1961",
+            "end_date": "1973",
+            "length": "12 years",
+            "start_months_since_1900": 732,
+            "end_months_since_1900": 876,
+            "length_in_months": 144
+        },
+        {
+            "name": "Victor M. Orsatti",
+            "href": "https://www.whosdatedwho.com/dating/victor-m-orsatti",
+            "relationship_type": 4,
+            "start_date": "Oct 1947",
+            "end_date": "Feb 1960",
+            "length": "12 years",
+            "start_months_since_1900": 573,
+            "end_months_since_1900": 721,
+            "length_in_months": 144
+        },
+        {
+            "name": "Greg Bautzer",
+            "href": "https://www.whosdatedwho.com/dating/greg-bautzer",
+            "relationship_type": 2,
+            "start_date": "Aug 1947",
+            "end_date": "Sep 1947",
+            "length": "1 month",
+            "start_months_since_1900": 571,
+            "end_months_since_1900": 572,
+            "length_in_months": 1
+        },
+        {
+            "name": "Huntington Hartford",
+            "href": "https://www.whosdatedwho.com/dating/huntington-hartford",
+            "relationship_type": 2,
+            "start_date": "Apr 1947",
+            "end_date": "Nov 1947",
+            "length": "7 months",
+            "start_months_since_1900": 567,
+            "end_months_since_1900": 574,
+            "length_in_months": 7
+        },
+        {
+            "name": "Nick Bjorn",
+            "href": "https://www.whosdatedwho.com/dating/nick-bjorn",
+            "relationship_type": 2,
+            "start_date": "Feb 1947",
+            "end_date": "Apr 1947",
+            "length": "1 month",
+            "start_months_since_1900": 565,
+            "end_months_since_1900": 567,
+            "length_in_months": 1
+        }
+    ],
+    "details": {
+        "First Name": "Patricia",
+        "Middle Name": "NA",
+        "Last Name": "Mendez",
+        "Maiden Name": "Vaniver",
+        "Full Name at Birth": "Patricia Vaniver",
+        "Alternative Name": "Miss August 1957, Dolores Donlon, Pat Van Iver",
+        "Birthday": "1926",
+        "Birthplace": "Pennsylvania",
+        "Height": "170",
+        "Weight": "130lbs (59 kg)",
+        "Zodiac Sign": "11",
+        "Sexuality": "Straight",
+        "Religion": "18",
+        "Ethnicity": "6",
+        "Nationality": "91",
+        "Occupation": "16"
+    }
+}

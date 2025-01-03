@@ -1,0 +1,66 @@
+{
+    "relationships": [
+        {
+            "name": "William Tishman",
+            "href": "https://www.whosdatedwho.com/dating/william-tishman",
+            "relationship_type": 4,
+            "start_date": "1964",
+            "end_date": "Jun 1972",
+            "length": "8 years",
+            "start_months_since_1900": 768,
+            "end_months_since_1900": 869,
+            "length_in_months": 96
+        },
+        {
+            "name": "Rock Hudson",
+            "href": "https://www.whosdatedwho.com/dating/rock-hudson",
+            "relationship_type": 2,
+            "start_date": "Jul 1963",
+            "end_date": "Sep 1964",
+            "length": "1 year",
+            "start_months_since_1900": 762,
+            "end_months_since_1900": 776,
+            "length_in_months": 12
+        },
+        {
+            "name": "Timmy Everett",
+            "href": "https://www.whosdatedwho.com/dating/timmy-everett",
+            "relationship_type": 2,
+            "start_date": "1963",
+            "end_date": "1963",
+            "length": "-",
+            "start_months_since_1900": 756,
+            "end_months_since_1900": 756,
+            "length_in_months": -1
+        },
+        {
+            "name": "Porter Brooks",
+            "href": "https://www.whosdatedwho.com/dating/porter-brooks",
+            "relationship_type": 2,
+            "start_date": "Aug 1944",
+            "end_date": "Sep 1944",
+            "length": "1 month",
+            "start_months_since_1900": 535,
+            "end_months_since_1900": 536,
+            "length_in_months": 1
+        }
+    ],
+    "details": {
+        "First Name": "Verna",
+        "Middle Name": "Charlene",
+        "Last Name": "Holt",
+        "Maiden Name": "Stavely",
+        "Full Name at Birth": "Verna Charlene Stavely",
+        "Alternative Name": "Charlene Holt, Verna Charlene Stavely",
+        "Birthday": "1928",
+        "Birthplace": "Texas USA",
+        "Height": "NA",
+        "Weight": "NA",
+        "Zodiac Sign": "3",
+        "Sexuality": "NA",
+        "Religion": "1",
+        "Ethnicity": "6",
+        "Nationality": "91",
+        "Occupation": "8"
+    }
+}

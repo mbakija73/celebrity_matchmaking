@@ -1,0 +1,55 @@
+{
+    "relationships": [
+        {
+            "name": "Ken Reynolds",
+            "href": "https://www.whosdatedwho.com/dating/ken-reynolds",
+            "relationship_type": 2,
+            "start_date": "2006",
+            "end_date": "2006",
+            "length": "-",
+            "start_months_since_1900": 1272,
+            "end_months_since_1900": 1272,
+            "length_in_months": -1
+        },
+        {
+            "name": "Michael Jordan",
+            "href": "https://www.whosdatedwho.com/dating/michael-jordan",
+            "relationship_type": 4,
+            "start_date": "1988",
+            "end_date": "29th Dec 2006",
+            "length": "19 years",
+            "start_months_since_1900": 1056,
+            "end_months_since_1900": 1283,
+            "length_in_months": 228
+        },
+        {
+            "name": "Reggie Theus",
+            "href": "https://www.whosdatedwho.com/dating/reggie-theus",
+            "relationship_type": 3,
+            "start_date": "1983",
+            "end_date": "1984",
+            "length": "1 year",
+            "start_months_since_1900": 996,
+            "end_months_since_1900": 1008,
+            "length_in_months": 12
+        }
+    ],
+    "details": {
+        "First Name": "Juanita",
+        "Middle Name": "NA",
+        "Last Name": "Vanoy",
+        "Maiden Name": "NA",
+        "Full Name at Birth": "Juanita Vanoy",
+        "Alternative Name": "NA",
+        "Birthday": "1959",
+        "Birthplace": "United States",
+        "Height": "NA",
+        "Weight": "NA",
+        "Zodiac Sign": "4",
+        "Sexuality": "Straight",
+        "Religion": "1",
+        "Ethnicity": "8",
+        "Nationality": "91",
+        "Occupation": "18"
+    }
+}

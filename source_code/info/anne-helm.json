@@ -1,0 +1,77 @@
+{
+    "relationships": [
+        {
+            "name": "Robert Viharo",
+            "href": "https://www.whosdatedwho.com/dating/robert-viharo",
+            "relationship_type": 4,
+            "start_date": "1969",
+            "end_date": "Mar 1980",
+            "length": "11 years",
+            "start_months_since_1900": 828,
+            "end_months_since_1900": 962,
+            "length_in_months": 132
+        },
+        {
+            "name": "John Sherlock",
+            "href": "https://www.whosdatedwho.com/dating/john-sherlock",
+            "relationship_type": 4,
+            "start_date": "1964",
+            "end_date": "Oct 1968",
+            "length": "4 years",
+            "start_months_since_1900": 768,
+            "end_months_since_1900": 825,
+            "length_in_months": 48
+        },
+        {
+            "name": "Elvis Presley",
+            "href": "https://www.whosdatedwho.com/dating/elvis-presley",
+            "relationship_type": 3,
+            "start_date": "Jul 1961",
+            "end_date": "Aug 1961",
+            "length": "1 month",
+            "start_months_since_1900": 738,
+            "end_months_since_1900": 739,
+            "length_in_months": 1
+        },
+        {
+            "name": "Grant Williams",
+            "href": "https://www.whosdatedwho.com/dating/grant-williams",
+            "relationship_type": 2,
+            "start_date": "May 1961",
+            "end_date": "Jul 1961",
+            "length": "2 months",
+            "start_months_since_1900": 736,
+            "end_months_since_1900": 738,
+            "length_in_months": 2
+        },
+        {
+            "name": "Gary Lockwood",
+            "href": "https://www.whosdatedwho.com/dating/gary-lockwood",
+            "relationship_type": 2,
+            "start_date": "Jan 1961",
+            "end_date": "May 1961",
+            "length": "4 months",
+            "start_months_since_1900": 732,
+            "end_months_since_1900": 736,
+            "length_in_months": 4
+        }
+    ],
+    "details": {
+        "First Name": "Anne",
+        "Middle Name": "Isabel",
+        "Last Name": "Helm",
+        "Maiden Name": "Helm",
+        "Full Name at Birth": "Anne Isabel Helm",
+        "Alternative Name": "Annie Helm, Anne Sherlock, Anne Viharo, Ann Helm",
+        "Birthday": "1938",
+        "Birthplace": "Canada",
+        "Height": "NA",
+        "Weight": "NA",
+        "Zodiac Sign": "11",
+        "Sexuality": "Straight",
+        "Religion": "1",
+        "Ethnicity": "6",
+        "Nationality": "90",
+        "Occupation": "8"
+    }
+}

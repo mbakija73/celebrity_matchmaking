@@ -1,0 +1,33 @@
+{
+    "relationships": [
+        {
+            "name": "John McCook",
+            "href": "https://www.whosdatedwho.com/dating/john-mccook",
+            "relationship_type": 4,
+            "start_date": "1962",
+            "end_date": "Sep 1971",
+            "length": "9 years",
+            "start_months_since_1900": 744,
+            "end_months_since_1900": 860,
+            "length_in_months": 108
+        }
+    ],
+    "details": {
+        "First Name": "Marilyn",
+        "Middle Name": "NA",
+        "Last Name": "McPherson",
+        "Maiden Name": "NA",
+        "Full Name at Birth": "Marilyn McPherson",
+        "Alternative Name": "NA",
+        "Birthday": "NA",
+        "Birthplace": "NA",
+        "Height": "NA",
+        "Weight": "NA",
+        "Zodiac Sign": "2",
+        "Sexuality": "NA",
+        "Religion": "1",
+        "Ethnicity": "1",
+        "Nationality": "65",
+        "Occupation": "19"
+    }
+}

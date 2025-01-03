@@ -1,0 +1,55 @@
+{
+    "relationships": [
+        {
+            "name": "Linda Cristal",
+            "href": "https://www.whosdatedwho.com/dating/linda-cristal",
+            "relationship_type": 2,
+            "start_date": "Apr 1959",
+            "end_date": "May 1959",
+            "length": "1 month",
+            "start_months_since_1900": 711,
+            "end_months_since_1900": 712,
+            "length_in_months": 1
+        },
+        {
+            "name": "Mari Blanchard",
+            "href": "https://www.whosdatedwho.com/dating/mari-blanchard",
+            "relationship_type": 2,
+            "start_date": "Jan 1955",
+            "end_date": "Feb 1955",
+            "length": "1 month",
+            "start_months_since_1900": 660,
+            "end_months_since_1900": 661,
+            "length_in_months": 1
+        },
+        {
+            "name": "Faith Domergue",
+            "href": "https://www.whosdatedwho.com/dating/faith-domergue",
+            "relationship_type": 4,
+            "start_date": "Apr 1947",
+            "end_date": "Jun 1958",
+            "length": "11 years",
+            "start_months_since_1900": 567,
+            "end_months_since_1900": 701,
+            "length_in_months": 132
+        }
+    ],
+    "details": {
+        "First Name": "Hugo",
+        "Middle Name": "NA",
+        "Last Name": "Fregonese",
+        "Maiden Name": "NA",
+        "Full Name at Birth": "NA",
+        "Alternative Name": "NA",
+        "Birthday": "1908",
+        "Birthplace": "Argentina",
+        "Height": "NA",
+        "Weight": "NA",
+        "Zodiac Sign": "7",
+        "Sexuality": "NA",
+        "Religion": "1",
+        "Ethnicity": "1",
+        "Nationality": "28",
+        "Occupation": "9"
+    }
+}

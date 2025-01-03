@@ -1,0 +1,44 @@
+{
+    "relationships": [
+        {
+            "name": "Dusty Springfield",
+            "href": "https://www.whosdatedwho.com/dating/dusty-springfield",
+            "relationship_type": 2,
+            "start_date": "1981",
+            "end_date": "1981",
+            "length": "-",
+            "start_months_since_1900": 972,
+            "end_months_since_1900": 972,
+            "length_in_months": -1
+        },
+        {
+            "name": "Andrea Martin",
+            "href": "https://www.whosdatedwho.com/dating/andrea-martin",
+            "relationship_type": 3,
+            "start_date": "",
+            "end_date": "",
+            "length": "-",
+            "start_months_since_1900": -1,
+            "end_months_since_1900": -1,
+            "length_in_months": -1
+        }
+    ],
+    "details": {
+        "First Name": "Carole",
+        "Middle Name": "NA",
+        "Last Name": "Pope",
+        "Maiden Name": "NA",
+        "Full Name at Birth": "Carole Ann Pope",
+        "Alternative Name": "NA",
+        "Birthday": "1950",
+        "Birthplace": "UK",
+        "Height": "NA",
+        "Weight": "NA",
+        "Zodiac Sign": "12",
+        "Sexuality": "Lesbian",
+        "Religion": "1",
+        "Ethnicity": "6",
+        "Nationality": "90",
+        "Occupation": "1"
+    }
+}

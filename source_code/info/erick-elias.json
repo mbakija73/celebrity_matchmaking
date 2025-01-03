@@ -1,0 +1,66 @@
+{
+    "relationships": [
+        {
+            "name": "Andrea Garcia",
+            "href": "https://www.whosdatedwho.com/dating/andrea-garcia",
+            "relationship_type": 1,
+            "start_date": "2015",
+            "end_date": "2015",
+            "length": "-",
+            "start_months_since_1900": 1380,
+            "end_months_since_1900": 1380,
+            "length_in_months": -1
+        },
+        {
+            "name": "Karla Guindi",
+            "href": "https://www.whosdatedwho.com/dating/karla-guindi",
+            "relationship_type": 4,
+            "start_date": "2008",
+            "end_date": "2014",
+            "length": "6 years",
+            "start_months_since_1900": 1296,
+            "end_months_since_1900": 1368,
+            "length_in_months": 72
+        },
+        {
+            "name": "Ana de la Reguera",
+            "href": "https://www.whosdatedwho.com/dating/ana-de-la-reguera",
+            "relationship_type": 2,
+            "start_date": "2004",
+            "end_date": "2005",
+            "length": "1 year",
+            "start_months_since_1900": 1248,
+            "end_months_since_1900": 1260,
+            "length_in_months": 12
+        },
+        {
+            "name": "Elizabeth Gutierrez",
+            "href": "https://www.whosdatedwho.com/dating/elizabeth-gutierrez",
+            "relationship_type": 2,
+            "start_date": "Jun 2003",
+            "end_date": "Jun 2003",
+            "length": "-",
+            "start_months_since_1900": 1241,
+            "end_months_since_1900": 1241,
+            "length_in_months": -1
+        }
+    ],
+    "details": {
+        "First Name": "Erick",
+        "Middle Name": "NA",
+        "Last Name": "Elias",
+        "Maiden Name": "NA",
+        "Full Name at Birth": "Erick Elias",
+        "Alternative Name": "NA",
+        "Birthday": "1980",
+        "Birthplace": "Mexico",
+        "Height": "185",
+        "Weight": "163lbs (74 kg)",
+        "Zodiac Sign": "8",
+        "Sexuality": "Straight",
+        "Religion": "31",
+        "Ethnicity": "6",
+        "Nationality": "7",
+        "Occupation": "8"
+    }
+}

@@ -1,0 +1,33 @@
+{
+    "relationships": [
+        {
+            "name": "Rebel Wilson",
+            "href": "https://www.whosdatedwho.com/dating/rebel-wilson",
+            "relationship_type": 2,
+            "start_date": "2021",
+            "end_date": "2021",
+            "length": "-",
+            "start_months_since_1900": 1452,
+            "end_months_since_1900": 1452,
+            "length_in_months": -1
+        }
+    ],
+    "details": {
+        "First Name": "Matt",
+        "Middle Name": "NA",
+        "Last Name": "Reid",
+        "Maiden Name": "NA",
+        "Full Name at Birth": "NA",
+        "Alternative Name": "NA",
+        "Birthday": "1990",
+        "Birthplace": "Australia",
+        "Height": "180",
+        "Weight": "NA",
+        "Zodiac Sign": "8",
+        "Sexuality": "Straight",
+        "Religion": "1",
+        "Ethnicity": "6",
+        "Nationality": "135",
+        "Occupation": "2"
+    }
+}

@@ -1,0 +1,33 @@
+{
+    "relationships": [
+        {
+            "name": "DDG",
+            "href": "https://www.whosdatedwho.com/dating/ddg-rapper",
+            "relationship_type": 2,
+            "start_date": "Nov 2021",
+            "end_date": "Oct 2024",
+            "length": "2 years",
+            "start_months_since_1900": 1462,
+            "end_months_since_1900": 1497,
+            "length_in_months": 24
+        }
+    ],
+    "details": {
+        "First Name": "Halle",
+        "Middle Name": "Lynn",
+        "Last Name": "Bailey",
+        "Maiden Name": "NA",
+        "Full Name at Birth": "Halle Lynn Bailey",
+        "Alternative Name": "Halle Bailey, Chloe x Halle, Halle",
+        "Birthday": "2000",
+        "Birthplace": "USA",
+        "Height": "157",
+        "Weight": "121lbs (55 kg)",
+        "Zodiac Sign": "7",
+        "Sexuality": "Straight",
+        "Religion": "18",
+        "Ethnicity": "2",
+        "Nationality": "91",
+        "Occupation": "8"
+    }
+}

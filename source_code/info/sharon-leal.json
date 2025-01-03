@@ -1,0 +1,55 @@
+{
+    "relationships": [
+        {
+            "name": "Paul Becker",
+            "href": "https://www.whosdatedwho.com/dating/paul-becker",
+            "relationship_type": 2,
+            "start_date": "Dec 2010",
+            "end_date": "present",
+            "length": "13 years",
+            "start_months_since_1900": 1331,
+            "end_months_since_1900": -1,
+            "length_in_months": 156
+        },
+        {
+            "name": "Bev Land",
+            "href": "https://www.whosdatedwho.com/dating/bev-land",
+            "relationship_type": 4,
+            "start_date": "2001",
+            "end_date": "2006",
+            "length": "5 years",
+            "start_months_since_1900": 1212,
+            "end_months_since_1900": 1272,
+            "length_in_months": 60
+        },
+        {
+            "name": "Henry Simmons",
+            "href": "https://www.whosdatedwho.com/dating/henry-simmons",
+            "relationship_type": 3,
+            "start_date": "",
+            "end_date": "",
+            "length": "-",
+            "start_months_since_1900": -1,
+            "end_months_since_1900": -1,
+            "length_in_months": -1
+        }
+    ],
+    "details": {
+        "First Name": "Sharon",
+        "Middle Name": "NA",
+        "Last Name": "Leal",
+        "Maiden Name": "NA",
+        "Full Name at Birth": "NA",
+        "Alternative Name": "NA",
+        "Birthday": "1972",
+        "Birthplace": "Arizona",
+        "Height": "172",
+        "Weight": "125lbs (57 kg)",
+        "Zodiac Sign": "10",
+        "Sexuality": "Straight",
+        "Religion": "18",
+        "Ethnicity": "8",
+        "Nationality": "91",
+        "Occupation": "8"
+    }
+}

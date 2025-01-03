@@ -1,0 +1,55 @@
+{
+    "relationships": [
+        {
+            "name": "Ziyi Zhang",
+            "href": "https://www.whosdatedwho.com/dating/ziyi-zhang",
+            "relationship_type": 2,
+            "start_date": "2006",
+            "end_date": "2010",
+            "length": "4 years",
+            "start_months_since_1900": 1272,
+            "end_months_since_1900": 1320,
+            "length_in_months": 48
+        },
+        {
+            "name": "Kate Moss",
+            "href": "https://www.whosdatedwho.com/dating/kate-moss",
+            "relationship_type": 3,
+            "start_date": "",
+            "end_date": "",
+            "length": "-",
+            "start_months_since_1900": -1,
+            "end_months_since_1900": -1,
+            "length_in_months": -1
+        },
+        {
+            "name": "Jeisa Chiminazzo",
+            "href": "https://www.whosdatedwho.com/dating/jeisa-chiminazzo",
+            "relationship_type": 2,
+            "start_date": "",
+            "end_date": "",
+            "length": "-",
+            "start_months_since_1900": -1,
+            "end_months_since_1900": -1,
+            "length_in_months": -1
+        }
+    ],
+    "details": {
+        "First Name": "Aviv",
+        "Middle Name": "NA",
+        "Last Name": "Nevo",
+        "Maiden Name": "NA",
+        "Full Name at Birth": "NA",
+        "Alternative Name": "NA",
+        "Birthday": "1965",
+        "Birthplace": "Romania",
+        "Height": "NA",
+        "Weight": "NA",
+        "Zodiac Sign": "1",
+        "Sexuality": "Straight",
+        "Religion": "31",
+        "Ethnicity": "6",
+        "Nationality": "11",
+        "Occupation": "7"
+    }
+}

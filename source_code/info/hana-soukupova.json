@@ -1,0 +1,44 @@
+{
+    "relationships": [
+        {
+            "name": "Romain Zago",
+            "href": "https://www.whosdatedwho.com/dating/romain-zago",
+            "relationship_type": 2,
+            "start_date": "2008",
+            "end_date": "2008",
+            "length": "-",
+            "start_months_since_1900": 1296,
+            "end_months_since_1900": 1296,
+            "length_in_months": -1
+        },
+        {
+            "name": "Drew Aaron",
+            "href": "https://www.whosdatedwho.com/dating/drew-aaron",
+            "relationship_type": 4,
+            "start_date": "2004",
+            "end_date": "present",
+            "length": "20 years",
+            "start_months_since_1900": 1248,
+            "end_months_since_1900": -1,
+            "length_in_months": 240
+        }
+    ],
+    "details": {
+        "First Name": "Hana",
+        "Middle Name": "NA",
+        "Last Name": "Soukupova",
+        "Maiden Name": "NA",
+        "Full Name at Birth": "Hana Soukupov\u00e1",
+        "Alternative Name": "Hana Soukupov\u00e1",
+        "Birthday": "1985",
+        "Birthplace": "Czech Republic",
+        "Height": "181",
+        "Weight": "130lbs (59 kg)",
+        "Zodiac Sign": "6",
+        "Sexuality": "Straight",
+        "Religion": "1",
+        "Ethnicity": "6",
+        "Nationality": "70",
+        "Occupation": "15"
+    }
+}

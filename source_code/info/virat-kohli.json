@@ -1,0 +1,88 @@
+{
+    "relationships": [
+        {
+            "name": "Anushka Sharma",
+            "href": "https://www.whosdatedwho.com/dating/anushka-sharma",
+            "relationship_type": 4,
+            "start_date": "2016",
+            "end_date": "present",
+            "length": "8 years",
+            "start_months_since_1900": 1392,
+            "end_months_since_1900": -1,
+            "length_in_months": 96
+        },
+        {
+            "name": "Tamannaah Bhatia",
+            "href": "https://www.whosdatedwho.com/dating/tamannaah-bhatia",
+            "relationship_type": 1,
+            "start_date": "2012",
+            "end_date": "2012",
+            "length": "-",
+            "start_months_since_1900": 1344,
+            "end_months_since_1900": 1344,
+            "length_in_months": -1
+        },
+        {
+            "name": "Sarah Jane Dias",
+            "href": "https://www.whosdatedwho.com/dating/sarah-jane-dias",
+            "relationship_type": 2,
+            "start_date": "",
+            "end_date": "",
+            "length": "-",
+            "start_months_since_1900": -1,
+            "end_months_since_1900": -1,
+            "length_in_months": -1
+        },
+        {
+            "name": "Izabelle Leite",
+            "href": "https://www.whosdatedwho.com/dating/izabelle-liete",
+            "relationship_type": 1,
+            "start_date": "",
+            "end_date": "",
+            "length": "-",
+            "start_months_since_1900": -1,
+            "end_months_since_1900": -1,
+            "length_in_months": -1
+        },
+        {
+            "name": "Sakshi Agarwal",
+            "href": "https://www.whosdatedwho.com/dating/sakshi-agarwal",
+            "relationship_type": 2,
+            "start_date": "",
+            "end_date": "",
+            "length": "-",
+            "start_months_since_1900": -1,
+            "end_months_since_1900": -1,
+            "length_in_months": -1
+        },
+        {
+            "name": "Sanjjanaa Galrani",
+            "href": "https://www.whosdatedwho.com/dating/sanjjanaa-galrani-actress",
+            "relationship_type": 2,
+            "start_date": "",
+            "end_date": "",
+            "length": "-",
+            "start_months_since_1900": -1,
+            "end_months_since_1900": -1,
+            "length_in_months": -1
+        }
+    ],
+    "details": {
+        "First Name": "Virat",
+        "Middle Name": "NA",
+        "Last Name": "Kohli",
+        "Maiden Name": "NA",
+        "Full Name at Birth": "Virat Kohli",
+        "Alternative Name": "NA",
+        "Birthday": "1988",
+        "Birthplace": "India",
+        "Height": "175",
+        "Weight": "NA",
+        "Zodiac Sign": "5",
+        "Sexuality": "Straight",
+        "Religion": "1",
+        "Ethnicity": "7",
+        "Nationality": "34",
+        "Occupation": "2"
+    }
+}

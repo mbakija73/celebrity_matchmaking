@@ -1,0 +1,33 @@
+{
+    "relationships": [
+        {
+            "name": "Pippa Middleton",
+            "href": "https://www.whosdatedwho.com/dating/pippa-middleton",
+            "relationship_type": 4,
+            "start_date": "Sep 2015",
+            "end_date": "present",
+            "length": "9 years",
+            "start_months_since_1900": 1388,
+            "end_months_since_1900": -1,
+            "length_in_months": 108
+        }
+    ],
+    "details": {
+        "First Name": "James",
+        "Middle Name": "Spencer",
+        "Last Name": "Matthews",
+        "Maiden Name": "NA",
+        "Full Name at Birth": "James Spencer Matthews",
+        "Alternative Name": "James Matthews, James Spencer Matthews",
+        "Birthday": "1975",
+        "Birthplace": "England",
+        "Height": "194",
+        "Weight": "NA",
+        "Zodiac Sign": "12",
+        "Sexuality": "NA",
+        "Religion": "1",
+        "Ethnicity": "6",
+        "Nationality": "8",
+        "Occupation": "7"
+    }
+}

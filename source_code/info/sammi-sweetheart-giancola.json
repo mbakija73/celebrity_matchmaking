@@ -1,0 +1,66 @@
+{
+    "relationships": [
+        {
+            "name": "Justin May",
+            "href": "https://www.whosdatedwho.com/dating/justin-may-121182876",
+            "relationship_type": 2,
+            "start_date": "Sep 2021",
+            "end_date": "present",
+            "length": "3 years",
+            "start_months_since_1900": 1460,
+            "end_months_since_1900": -1,
+            "length_in_months": 36
+        },
+        {
+            "name": "Christian Biscardi",
+            "href": "https://www.whosdatedwho.com/dating/christian-biscardi",
+            "relationship_type": 2,
+            "start_date": "Jan 2017",
+            "end_date": "Jul 2021",
+            "length": "4 years",
+            "start_months_since_1900": 1404,
+            "end_months_since_1900": 1458,
+            "length_in_months": 48
+        },
+        {
+            "name": "Ronnie Magro",
+            "href": "https://www.whosdatedwho.com/dating/ronnie-magro",
+            "relationship_type": 2,
+            "start_date": "Jul 2009",
+            "end_date": "Jul 2016",
+            "length": "7 years",
+            "start_months_since_1900": 1314,
+            "end_months_since_1900": 1398,
+            "length_in_months": 84
+        },
+        {
+            "name": "Mike 'The Situation' Sorrentino",
+            "href": "https://www.whosdatedwho.com/dating/mike-the-situation-sorrentino",
+            "relationship_type": 3,
+            "start_date": "Jul 2009",
+            "end_date": "Jul 2009",
+            "length": "-",
+            "start_months_since_1900": 1314,
+            "end_months_since_1900": 1314,
+            "length_in_months": -1
+        }
+    ],
+    "details": {
+        "First Name": "Samantha",
+        "Middle Name": "Rae",
+        "Last Name": "Giancola",
+        "Maiden Name": "NA",
+        "Full Name at Birth": "Samantha Rae Giancola",
+        "Alternative Name": "Sam, Sammi Sweetheart, Sweetheart",
+        "Birthday": "1987",
+        "Birthplace": "USA",
+        "Height": "168",
+        "Weight": "NA",
+        "Zodiac Sign": "1",
+        "Sexuality": "Straight",
+        "Religion": "13",
+        "Ethnicity": "6",
+        "Nationality": "91",
+        "Occupation": "11"
+    }
+}

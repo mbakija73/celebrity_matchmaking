@@ -1,0 +1,55 @@
+{
+    "relationships": [
+        {
+            "name": "Kip Gilman",
+            "href": "https://www.whosdatedwho.com/dating/kip-gilman",
+            "relationship_type": 4,
+            "start_date": "2004",
+            "end_date": "present",
+            "length": "20 years",
+            "start_months_since_1900": 1248,
+            "end_months_since_1900": -1,
+            "length_in_months": 240
+        },
+        {
+            "name": "James Orr",
+            "href": "https://www.whosdatedwho.com/dating/james-orr",
+            "relationship_type": 4,
+            "start_date": "1986",
+            "end_date": "1988",
+            "length": "2 years",
+            "start_months_since_1900": 1032,
+            "end_months_since_1900": 1056,
+            "length_in_months": 24
+        },
+        {
+            "name": "Clint Eastwood",
+            "href": "https://www.whosdatedwho.com/dating/clint-eastwood",
+            "relationship_type": 2,
+            "start_date": "Dec 1983",
+            "end_date": "Feb 1984",
+            "length": "2 months",
+            "start_months_since_1900": 1007,
+            "end_months_since_1900": 1009,
+            "length_in_months": 2
+        }
+    ],
+    "details": {
+        "First Name": "Jamie",
+        "Middle Name": "NA",
+        "Last Name": "Rose",
+        "Maiden Name": "NA",
+        "Full Name at Birth": "Jamie Rose",
+        "Alternative Name": "Jamie Gilman",
+        "Birthday": "1959",
+        "Birthplace": "USA",
+        "Height": "NA",
+        "Weight": "NA",
+        "Zodiac Sign": "6",
+        "Sexuality": "Straight",
+        "Religion": "1",
+        "Ethnicity": "6",
+        "Nationality": "91",
+        "Occupation": "8"
+    }
+}

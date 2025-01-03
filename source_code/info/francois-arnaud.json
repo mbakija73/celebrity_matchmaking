@@ -1,0 +1,55 @@
+{
+    "relationships": [
+        {
+            "name": "Sarah Gadon",
+            "href": "https://www.whosdatedwho.com/dating/sarah-gadon",
+            "relationship_type": 2,
+            "start_date": "Feb 2014",
+            "end_date": "Feb 2014",
+            "length": "-",
+            "start_months_since_1900": 1369,
+            "end_months_since_1900": 1369,
+            "length_in_months": -1
+        },
+        {
+            "name": "Evelyne Brochu",
+            "href": "https://www.whosdatedwho.com/dating/evelyne-brochu",
+            "relationship_type": 2,
+            "start_date": "Apr 2012",
+            "end_date": "2014",
+            "length": "1 year",
+            "start_months_since_1900": 1347,
+            "end_months_since_1900": 1368,
+            "length_in_months": 12
+        },
+        {
+            "name": "Holliday Grainger",
+            "href": "https://www.whosdatedwho.com/dating/holliday-grainger",
+            "relationship_type": 2,
+            "start_date": "2011",
+            "end_date": "Jan 2012",
+            "length": "1 year",
+            "start_months_since_1900": 1332,
+            "end_months_since_1900": 1344,
+            "length_in_months": 12
+        }
+    ],
+    "details": {
+        "First Name": "Francois",
+        "Middle Name": "NA",
+        "Last Name": "Arnaud",
+        "Maiden Name": "NA",
+        "Full Name at Birth": "Fran\u00e7ois Landriault-Barbeau",
+        "Alternative Name": "Fran\u00e7ois Arnaud, Fran\u00e7ois Barbeau",
+        "Birthday": "1985",
+        "Birthplace": "Canada",
+        "Height": "185",
+        "Weight": "NA",
+        "Zodiac Sign": "8",
+        "Sexuality": "Bisexual",
+        "Religion": "1",
+        "Ethnicity": "6",
+        "Nationality": "90",
+        "Occupation": "8"
+    }
+}

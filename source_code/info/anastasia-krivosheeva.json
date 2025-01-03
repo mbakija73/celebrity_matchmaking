@@ -1,0 +1,55 @@
+{
+    "relationships": [
+        {
+            "name": "Timofey Kolesnikov",
+            "href": "https://www.whosdatedwho.com/dating/timofey-kolesnikov",
+            "relationship_type": 2,
+            "start_date": "2015",
+            "end_date": "2015",
+            "length": "-",
+            "start_months_since_1900": 1380,
+            "end_months_since_1900": 1380,
+            "length_in_months": -1
+        },
+        {
+            "name": "Jared Leto",
+            "href": "https://www.whosdatedwho.com/dating/jared-leto",
+            "relationship_type": 3,
+            "start_date": "2012",
+            "end_date": "2014",
+            "length": "2 years",
+            "start_months_since_1900": 1344,
+            "end_months_since_1900": 1368,
+            "length_in_months": 24
+        },
+        {
+            "name": "Andrey Shirman",
+            "href": "https://www.whosdatedwho.com/dating/dj-smash-russian-musician",
+            "relationship_type": 2,
+            "start_date": "Dec 2010",
+            "end_date": "2011",
+            "length": "1 month",
+            "start_months_since_1900": 1331,
+            "end_months_since_1900": 1332,
+            "length_in_months": 1
+        }
+    ],
+    "details": {
+        "First Name": "Anastasia",
+        "Middle Name": "NA",
+        "Last Name": "Krivosheeva",
+        "Maiden Name": "NA",
+        "Full Name at Birth": "NA",
+        "Alternative Name": "\u0410\u043d\u0430\u0441\u0442\u0430\u0441\u0438\u044f \u041a\u0440\u0438\u0432\u043e\u0448\u0435\u0435\u0432\u0430",
+        "Birthday": "1991",
+        "Birthplace": "Russia",
+        "Height": "180",
+        "Weight": "NA",
+        "Zodiac Sign": "4",
+        "Sexuality": "Straight",
+        "Religion": "32",
+        "Ethnicity": "6",
+        "Nationality": "9",
+        "Occupation": "15"
+    }
+}

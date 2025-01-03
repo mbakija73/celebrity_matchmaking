@@ -1,0 +1,66 @@
+{
+    "relationships": [
+        {
+            "name": "Mario Balotelli",
+            "href": "https://www.whosdatedwho.com/dating/mario-balotelli",
+            "relationship_type": 3,
+            "start_date": "2010",
+            "end_date": "2010",
+            "length": "-",
+            "start_months_since_1900": 1320,
+            "end_months_since_1900": 1320,
+            "length_in_months": -1
+        },
+        {
+            "name": "Davide Lippi",
+            "href": "https://www.whosdatedwho.com/dating/davide-lippi",
+            "relationship_type": 3,
+            "start_date": "Jul 2008",
+            "end_date": "Sep 2008",
+            "length": "2 months",
+            "start_months_since_1900": 1302,
+            "end_months_since_1900": 1304,
+            "length_in_months": 2
+        },
+        {
+            "name": "Franklin Santana",
+            "href": "https://www.whosdatedwho.com/dating/franklin-santana",
+            "relationship_type": 3,
+            "start_date": "2006",
+            "end_date": "2006",
+            "length": "-",
+            "start_months_since_1900": 1272,
+            "end_months_since_1900": 1272,
+            "length_in_months": -1
+        },
+        {
+            "name": "Francesco Arca",
+            "href": "https://www.whosdatedwho.com/dating/francesco-arca",
+            "relationship_type": 2,
+            "start_date": "2005",
+            "end_date": "2005",
+            "length": "-",
+            "start_months_since_1900": 1260,
+            "end_months_since_1900": 1260,
+            "length_in_months": -1
+        }
+    ],
+    "details": {
+        "First Name": "Carla",
+        "Middle Name": "NA",
+        "Last Name": "Velli",
+        "Maiden Name": "NA",
+        "Full Name at Birth": "NA",
+        "Alternative Name": "NA",
+        "Birthday": "1981",
+        "Birthplace": "Italy",
+        "Height": "NA",
+        "Weight": "NA",
+        "Zodiac Sign": "8",
+        "Sexuality": "Straight",
+        "Religion": "1",
+        "Ethnicity": "6",
+        "Nationality": "139",
+        "Occupation": "15"
+    }
+}

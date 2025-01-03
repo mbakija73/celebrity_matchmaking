@@ -1,0 +1,99 @@
+{
+    "relationships": [
+        {
+            "name": "Nick Zano",
+            "href": "https://www.whosdatedwho.com/dating/nick-zano",
+            "relationship_type": 2,
+            "start_date": "May 2005",
+            "end_date": "Aug 2006",
+            "length": "1 year",
+            "start_months_since_1900": 1264,
+            "end_months_since_1900": 1279,
+            "length_in_months": 12
+        },
+        {
+            "name": "Raviv Ullman",
+            "href": "https://www.whosdatedwho.com/dating/raviv-ullman",
+            "relationship_type": 3,
+            "start_date": "Apr 2005",
+            "end_date": "May 2005",
+            "length": "1 month",
+            "start_months_since_1900": 1263,
+            "end_months_since_1900": 1264,
+            "length_in_months": 1
+        },
+        {
+            "name": "Damien Fahey",
+            "href": "https://www.whosdatedwho.com/dating/damien-fahey",
+            "relationship_type": 2,
+            "start_date": "Jan 2004",
+            "end_date": "Jun 2004",
+            "length": "5 months",
+            "start_months_since_1900": 1248,
+            "end_months_since_1900": 1253,
+            "length_in_months": 5
+        },
+        {
+            "name": "Robbie Williams",
+            "href": "https://www.whosdatedwho.com/dating/robbie-williams",
+            "relationship_type": 3,
+            "start_date": "May 2003",
+            "end_date": "Jun 2003",
+            "length": "1 month",
+            "start_months_since_1900": 1240,
+            "end_months_since_1900": 1241,
+            "length_in_months": 1
+        },
+        {
+            "name": "Iann Robinson",
+            "href": "https://www.whosdatedwho.com/dating/iann-robinson",
+            "relationship_type": 2,
+            "start_date": "2003",
+            "end_date": "2003",
+            "length": "-",
+            "start_months_since_1900": 1236,
+            "end_months_since_1900": 1236,
+            "length_in_months": -1
+        },
+        {
+            "name": "DJ Ruckus",
+            "href": "https://www.whosdatedwho.com/dating/dj-ruckus",
+            "relationship_type": 2,
+            "start_date": "Oct 2002",
+            "end_date": "Dec 2002",
+            "length": "2 months",
+            "start_months_since_1900": 1233,
+            "end_months_since_1900": 1235,
+            "length_in_months": 2
+        },
+        {
+            "name": "Clint Mathis",
+            "href": "https://www.whosdatedwho.com/dating/clint-mathis",
+            "relationship_type": 2,
+            "start_date": "Jul 2002",
+            "end_date": "Sep 2002",
+            "length": "2 months",
+            "start_months_since_1900": 1230,
+            "end_months_since_1900": 1232,
+            "length_in_months": 2
+        }
+    ],
+    "details": {
+        "First Name": "Rachel",
+        "Middle Name": "NA",
+        "Last Name": "NA",
+        "Maiden Name": "Perry",
+        "Full Name at Birth": "Rachel Perry",
+        "Alternative Name": "Neighborhood Watch",
+        "Birthday": "1976",
+        "Birthplace": "Canada",
+        "Height": "170",
+        "Weight": "NA",
+        "Zodiac Sign": "13",
+        "Sexuality": "Straight",
+        "Religion": "1",
+        "Ethnicity": "6",
+        "Nationality": "90",
+        "Occupation": "8"
+    }
+}

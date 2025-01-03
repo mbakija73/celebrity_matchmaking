@@ -1,0 +1,33 @@
+{
+    "relationships": [
+        {
+            "name": "Alex Trebek",
+            "href": "https://www.whosdatedwho.com/dating/alex-trebek",
+            "relationship_type": 4,
+            "start_date": "Apr 1989",
+            "end_date": "Nov 2020",
+            "length": "31 years",
+            "start_months_since_1900": 1071,
+            "end_months_since_1900": 1450,
+            "length_in_months": 372
+        }
+    ],
+    "details": {
+        "First Name": "Jean",
+        "Middle Name": "NA",
+        "Last Name": "Currivan",
+        "Maiden Name": "NA",
+        "Full Name at Birth": "NA",
+        "Alternative Name": "Jean Currivan Trebek, Jean Trebek",
+        "Birthday": "1963",
+        "Birthplace": "USA",
+        "Height": "173",
+        "Weight": "132lbs (60 kg)",
+        "Zodiac Sign": "11",
+        "Sexuality": "Straight",
+        "Religion": "18",
+        "Ethnicity": "6",
+        "Nationality": "91",
+        "Occupation": "7"
+    }
+}

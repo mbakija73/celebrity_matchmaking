@@ -1,0 +1,33 @@
+{
+    "relationships": [
+        {
+            "name": "John Singleton (Australian entrepreneur)",
+            "href": "https://www.whosdatedwho.com/dating/john-singleton-australian-entrepreneur",
+            "relationship_type": 4,
+            "start_date": "1991",
+            "end_date": "1992",
+            "length": "1 year",
+            "start_months_since_1900": 1092,
+            "end_months_since_1900": 1104,
+            "length_in_months": 12
+        }
+    ],
+    "details": {
+        "First Name": "Liz",
+        "Middle Name": "NA",
+        "Last Name": "Hayes",
+        "Maiden Name": "NA",
+        "Full Name at Birth": "Elizabeth Ryan",
+        "Alternative Name": "Liz Hayes, Luz Ryan",
+        "Birthday": "1956",
+        "Birthplace": "Australia",
+        "Height": "NA",
+        "Weight": "NA",
+        "Zodiac Sign": "4",
+        "Sexuality": "Straight",
+        "Religion": "1",
+        "Ethnicity": "6",
+        "Nationality": "135",
+        "Occupation": "3"
+    }
+}

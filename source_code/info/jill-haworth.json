@@ -1,0 +1,66 @@
+{
+    "relationships": [
+        {
+            "name": "Paul McCartney",
+            "href": "https://www.whosdatedwho.com/dating/paul-mccartney",
+            "relationship_type": 2,
+            "start_date": "1971",
+            "end_date": "1971",
+            "length": "-",
+            "start_months_since_1900": 852,
+            "end_months_since_1900": 852,
+            "length_in_months": -1
+        },
+        {
+            "name": "Aaron Spelling",
+            "href": "https://www.whosdatedwho.com/dating/aaron-spelling",
+            "relationship_type": 2,
+            "start_date": "1965",
+            "end_date": "1965",
+            "length": "-",
+            "start_months_since_1900": 780,
+            "end_months_since_1900": 780,
+            "length_in_months": -1
+        },
+        {
+            "name": "Sal Mineo",
+            "href": "https://www.whosdatedwho.com/dating/sal-mineo",
+            "relationship_type": 2,
+            "start_date": "Mar 1960",
+            "end_date": "Jul 1960",
+            "length": "4 months",
+            "start_months_since_1900": 722,
+            "end_months_since_1900": 726,
+            "length_in_months": 4
+        },
+        {
+            "name": "Christopher Plummer",
+            "href": "https://www.whosdatedwho.com/dating/christopher-plummer",
+            "relationship_type": 2,
+            "start_date": "",
+            "end_date": "",
+            "length": "-",
+            "start_months_since_1900": -1,
+            "end_months_since_1900": -1,
+            "length_in_months": -1
+        }
+    ],
+    "details": {
+        "First Name": "Jill",
+        "Middle Name": "NA",
+        "Last Name": "Haworth",
+        "Maiden Name": "NA",
+        "Full Name at Birth": "Valeria Jill Haworth",
+        "Alternative Name": "NA",
+        "Birthday": "1945",
+        "Birthplace": "UK",
+        "Height": "157",
+        "Weight": "NA",
+        "Zodiac Sign": "12",
+        "Sexuality": "Straight",
+        "Religion": "1",
+        "Ethnicity": "6",
+        "Nationality": "8",
+        "Occupation": "8"
+    }
+}

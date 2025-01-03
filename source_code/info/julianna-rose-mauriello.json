@@ -1,0 +1,44 @@
+{
+    "relationships": [
+        {
+            "name": "Amanda Burwasser",
+            "href": "https://www.whosdatedwho.com/dating/amanda-burwasser",
+            "relationship_type": 2,
+            "start_date": "2004",
+            "end_date": "2008",
+            "length": "4 years",
+            "start_months_since_1900": 1248,
+            "end_months_since_1900": 1296,
+            "length_in_months": 48
+        },
+        {
+            "name": "Lil Jon",
+            "href": "https://www.whosdatedwho.com/dating/lil-jon",
+            "relationship_type": 1,
+            "start_date": "",
+            "end_date": "",
+            "length": "-",
+            "start_months_since_1900": -1,
+            "end_months_since_1900": -1,
+            "length_in_months": -1
+        }
+    ],
+    "details": {
+        "First Name": "Julianna",
+        "Middle Name": "Rose",
+        "Last Name": "Mauriello",
+        "Maiden Name": "NA",
+        "Full Name at Birth": "Julianna Rose Mauriello",
+        "Alternative Name": "NA",
+        "Birthday": "1991",
+        "Birthplace": "USA",
+        "Height": "165",
+        "Weight": "NA",
+        "Zodiac Sign": "4",
+        "Sexuality": "Lesbian",
+        "Religion": "18",
+        "Ethnicity": "8",
+        "Nationality": "91",
+        "Occupation": "8"
+    }
+}

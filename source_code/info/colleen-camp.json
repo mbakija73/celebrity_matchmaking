@@ -1,0 +1,55 @@
+{
+    "relationships": [
+        {
+            "name": "John Goldwyn",
+            "href": "https://www.whosdatedwho.com/dating/john-goldwyn",
+            "relationship_type": 4,
+            "start_date": "1984",
+            "end_date": "2001",
+            "length": "17 years",
+            "start_months_since_1900": 1008,
+            "end_months_since_1900": 1212,
+            "length_in_months": 204
+        },
+        {
+            "name": "Peter Bogdanovich",
+            "href": "https://www.whosdatedwho.com/dating/peter-bogdanovich",
+            "relationship_type": 2,
+            "start_date": "1978",
+            "end_date": "1978",
+            "length": "-",
+            "start_months_since_1900": 936,
+            "end_months_since_1900": 936,
+            "length_in_months": -1
+        },
+        {
+            "name": "Dean Tavoularis",
+            "href": "https://www.whosdatedwho.com/dating/dean-tavoularis",
+            "relationship_type": 2,
+            "start_date": "Mar 1976",
+            "end_date": "Jun 1977",
+            "length": "1 year",
+            "start_months_since_1900": 914,
+            "end_months_since_1900": 929,
+            "length_in_months": 12
+        }
+    ],
+    "details": {
+        "First Name": "Colleen",
+        "Middle Name": "NA",
+        "Last Name": "Camp",
+        "Maiden Name": "NA",
+        "Full Name at Birth": "Colleen Celeste Camp",
+        "Alternative Name": "Colleen Camp",
+        "Birthday": "1953",
+        "Birthplace": "USA",
+        "Height": "159",
+        "Weight": "NA",
+        "Zodiac Sign": "4",
+        "Sexuality": "Straight",
+        "Religion": "1",
+        "Ethnicity": "6",
+        "Nationality": "91",
+        "Occupation": "8"
+    }
+}

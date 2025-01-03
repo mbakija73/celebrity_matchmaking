@@ -1,0 +1,44 @@
+{
+    "relationships": [
+        {
+            "name": "Shane Dawson",
+            "href": "https://www.whosdatedwho.com/dating/shane-dawson",
+            "relationship_type": 2,
+            "start_date": "Dec 2015",
+            "end_date": "Jan 2016",
+            "length": "1 month",
+            "start_months_since_1900": 1391,
+            "end_months_since_1900": 1392,
+            "length_in_months": 1
+        },
+        {
+            "name": "Clayton Moore",
+            "href": "https://www.whosdatedwho.com/dating/clayton-moore-make-up-artist",
+            "relationship_type": 1,
+            "start_date": "",
+            "end_date": "",
+            "length": "-",
+            "start_months_since_1900": -1,
+            "end_months_since_1900": -1,
+            "length_in_months": -1
+        }
+    ],
+    "details": {
+        "First Name": "Garrett",
+        "Middle Name": "NA",
+        "Last Name": "Watts",
+        "Maiden Name": "NA",
+        "Full Name at Birth": "Garrett Watts",
+        "Alternative Name": "Garrett Watts",
+        "Birthday": "1989",
+        "Birthplace": "USA",
+        "Height": "193",
+        "Weight": "NA",
+        "Zodiac Sign": "4",
+        "Sexuality": "Bisexual",
+        "Religion": "3",
+        "Ethnicity": "6",
+        "Nationality": "91",
+        "Occupation": "11"
+    }
+}

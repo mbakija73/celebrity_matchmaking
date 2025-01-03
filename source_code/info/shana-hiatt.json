@@ -1,0 +1,55 @@
+{
+    "relationships": [
+        {
+            "name": "Todd Garner",
+            "href": "https://www.whosdatedwho.com/dating/todd-garner",
+            "relationship_type": 4,
+            "start_date": "Dec 2004",
+            "end_date": "present",
+            "length": "19 years",
+            "start_months_since_1900": 1259,
+            "end_months_since_1900": -1,
+            "length_in_months": 228
+        },
+        {
+            "name": "James Van Patten",
+            "href": "https://www.whosdatedwho.com/dating/james-van-patten",
+            "relationship_type": 4,
+            "start_date": "1998",
+            "end_date": "1st May 2005",
+            "length": "7 years",
+            "start_months_since_1900": 1176,
+            "end_months_since_1900": 1264,
+            "length_in_months": 84
+        },
+        {
+            "name": "Tommy Gunn",
+            "href": "https://www.whosdatedwho.com/dating/tommy-gunn",
+            "relationship_type": 2,
+            "start_date": "",
+            "end_date": "",
+            "length": "-",
+            "start_months_since_1900": -1,
+            "end_months_since_1900": -1,
+            "length_in_months": -1
+        }
+    ],
+    "details": {
+        "First Name": "Shana",
+        "Middle Name": "NA",
+        "Last Name": "Garner",
+        "Maiden Name": "Hiatt",
+        "Full Name at Birth": "Shana Hiatt",
+        "Alternative Name": "Miss Hawaiian Tropic USA 1995",
+        "Birthday": "1975",
+        "Birthplace": "New Jersey",
+        "Height": "170",
+        "Weight": "NA",
+        "Zodiac Sign": "6",
+        "Sexuality": "Straight",
+        "Religion": "1",
+        "Ethnicity": "6",
+        "Nationality": "91",
+        "Occupation": "8"
+    }
+}

@@ -1,0 +1,66 @@
+{
+    "relationships": [
+        {
+            "name": "Andrew Garfield",
+            "href": "https://www.whosdatedwho.com/dating/andrew-garfield",
+            "relationship_type": 2,
+            "start_date": "May 2021",
+            "end_date": "Mar 2022",
+            "length": "10 months",
+            "start_months_since_1900": 1456,
+            "end_months_since_1900": 1466,
+            "length_in_months": 10
+        },
+        {
+            "name": "Cam Avery",
+            "href": "https://www.whosdatedwho.com/dating/cam-avery",
+            "relationship_type": 4,
+            "start_date": "Jun 2018",
+            "end_date": "Sep 2018",
+            "length": "3 months",
+            "start_months_since_1900": 1421,
+            "end_months_since_1900": 1424,
+            "length_in_months": 3
+        },
+        {
+            "name": "Jake Gyllenhaal",
+            "href": "https://www.whosdatedwho.com/dating/jake-gyllenhaal",
+            "relationship_type": 2,
+            "start_date": "Jun 2013",
+            "end_date": "May 2014",
+            "length": "11 months",
+            "start_months_since_1900": 1361,
+            "end_months_since_1900": 1372,
+            "length_in_months": 11
+        },
+        {
+            "name": "Bjorn Iooss",
+            "href": "https://www.whosdatedwho.com/dating/bjorn-iooss",
+            "relationship_type": 2,
+            "start_date": "2010",
+            "end_date": "2013",
+            "length": "3 years",
+            "start_months_since_1900": 1320,
+            "end_months_since_1900": 1356,
+            "length_in_months": 36
+        }
+    ],
+    "details": {
+        "First Name": "Alyssa",
+        "Middle Name": "Elaine",
+        "Last Name": "Miller",
+        "Maiden Name": "NA",
+        "Full Name at Birth": "Alyssa Elaine Miller",
+        "Alternative Name": "Alyssa Miller, Charlie (Though this is her dog\u2019s name; but she is sometimes called by this name also), Alyssa Elaine Miller, Alyssa",
+        "Birthday": "1989",
+        "Birthplace": "USA",
+        "Height": "175",
+        "Weight": "121lbs (55 kg)",
+        "Zodiac Sign": "8",
+        "Sexuality": "Straight",
+        "Religion": "18",
+        "Ethnicity": "6",
+        "Nationality": "91",
+        "Occupation": "15"
+    }
+}

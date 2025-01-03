@@ -1,0 +1,44 @@
+{
+    "relationships": [
+        {
+            "name": "Frankie Bridge",
+            "href": "https://www.whosdatedwho.com/dating/frankie-bridge",
+            "relationship_type": 4,
+            "start_date": "2010",
+            "end_date": "present",
+            "length": "14 years",
+            "start_months_since_1900": 1320,
+            "end_months_since_1900": -1,
+            "length_in_months": 168
+        },
+        {
+            "name": "Vanessa Perroncel",
+            "href": "https://www.whosdatedwho.com/dating/vanessa-perroncel",
+            "relationship_type": 2,
+            "start_date": "2005",
+            "end_date": "2009",
+            "length": "4 years",
+            "start_months_since_1900": 1260,
+            "end_months_since_1900": 1308,
+            "length_in_months": 48
+        }
+    ],
+    "details": {
+        "First Name": "Wayne",
+        "Middle Name": "Michael",
+        "Last Name": "Bridge",
+        "Maiden Name": "NA",
+        "Full Name at Birth": "Wayne Michael Bridge",
+        "Alternative Name": "NA",
+        "Birthday": "1980",
+        "Birthplace": "England",
+        "Height": "178",
+        "Weight": "156lbs (71 kg)",
+        "Zodiac Sign": "12",
+        "Sexuality": "Straight",
+        "Religion": "1",
+        "Ethnicity": "6",
+        "Nationality": "8",
+        "Occupation": "2"
+    }
+}

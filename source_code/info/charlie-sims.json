@@ -1,0 +1,66 @@
+{
+    "relationships": [
+        {
+            "name": "Ferne McCann",
+            "href": "https://www.whosdatedwho.com/dating/ferne-mccann",
+            "relationship_type": 2,
+            "start_date": "2010",
+            "end_date": "2014",
+            "length": "4 years",
+            "start_months_since_1900": 1320,
+            "end_months_since_1900": 1368,
+            "length_in_months": 48
+        },
+        {
+            "name": "Valentine Windle",
+            "href": "https://www.whosdatedwho.com/dating/valentine-windle",
+            "relationship_type": 1,
+            "start_date": "",
+            "end_date": "",
+            "length": "-",
+            "start_months_since_1900": -1,
+            "end_months_since_1900": -1,
+            "length_in_months": -1
+        },
+        {
+            "name": "Georgia Shults",
+            "href": "https://www.whosdatedwho.com/dating/georgia-shults",
+            "relationship_type": 2,
+            "start_date": "",
+            "end_date": "present",
+            "length": "-",
+            "start_months_since_1900": -1,
+            "end_months_since_1900": -1,
+            "length_in_months": -1
+        },
+        {
+            "name": "Vicky Pattison",
+            "href": "https://www.whosdatedwho.com/dating/vicky-pattison",
+            "relationship_type": 1,
+            "start_date": "",
+            "end_date": "",
+            "length": "-",
+            "start_months_since_1900": -1,
+            "end_months_since_1900": -1,
+            "length_in_months": -1
+        }
+    ],
+    "details": {
+        "First Name": "Charlie",
+        "Middle Name": "Antony",
+        "Last Name": "Sims",
+        "Maiden Name": "NA",
+        "Full Name at Birth": "Charles Antony Sims",
+        "Alternative Name": "NA",
+        "Birthday": "1990",
+        "Birthplace": "NA",
+        "Height": "NA",
+        "Weight": "NA",
+        "Zodiac Sign": "1",
+        "Sexuality": "Straight",
+        "Religion": "1",
+        "Ethnicity": "6",
+        "Nationality": "98",
+        "Occupation": "11"
+    }
+}

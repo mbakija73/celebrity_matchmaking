@@ -1,0 +1,55 @@
+{
+    "relationships": [
+        {
+            "name": "Paul Fanning",
+            "href": "https://www.whosdatedwho.com/dating/paul-fanning",
+            "relationship_type": 4,
+            "start_date": "May 1943",
+            "end_date": "1957",
+            "length": "13 years",
+            "start_months_since_1900": 520,
+            "end_months_since_1900": 684,
+            "length_in_months": 156
+        },
+        {
+            "name": "Burgess Meredith",
+            "href": "https://www.whosdatedwho.com/dating/burgess-meredith",
+            "relationship_type": 4,
+            "start_date": "Feb 1935",
+            "end_date": "19th Jul 1938",
+            "length": "3 years",
+            "start_months_since_1900": 421,
+            "end_months_since_1900": 462,
+            "length_in_months": 36
+        },
+        {
+            "name": "Winsor French",
+            "href": "https://www.whosdatedwho.com/dating/winsor-french",
+            "relationship_type": 4,
+            "start_date": "1933",
+            "end_date": "1934",
+            "length": "1 year",
+            "start_months_since_1900": 396,
+            "end_months_since_1900": 408,
+            "length_in_months": 12
+        }
+    ],
+    "details": {
+        "First Name": "Margaret",
+        "Middle Name": "NA",
+        "Last Name": "Perry",
+        "Maiden Name": "NA",
+        "Full Name at Birth": "Margaret Frueauff",
+        "Alternative Name": "Margaret Perry, Maggie",
+        "Birthday": "1913",
+        "Birthplace": "Colorado",
+        "Height": "NA",
+        "Weight": "NA",
+        "Zodiac Sign": "1",
+        "Sexuality": "Straight",
+        "Religion": "1",
+        "Ethnicity": "6",
+        "Nationality": "91",
+        "Occupation": "8"
+    }
+}

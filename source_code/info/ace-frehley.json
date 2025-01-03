@@ -1,0 +1,110 @@
+{
+    "relationships": [
+        {
+            "name": "Lara Cove",
+            "href": "https://www.whosdatedwho.com/dating/lara-cove",
+            "relationship_type": 2,
+            "start_date": "Dec 2018",
+            "end_date": "2024",
+            "length": "5 years",
+            "start_months_since_1900": 1427,
+            "end_months_since_1900": 1488,
+            "length_in_months": 60
+        },
+        {
+            "name": "Rachel Gordon",
+            "href": "https://www.whosdatedwho.com/dating/rachael-gordon",
+            "relationship_type": 2,
+            "start_date": "2008",
+            "end_date": "2019",
+            "length": "11 years",
+            "start_months_since_1900": 1296,
+            "end_months_since_1900": 1428,
+            "length_in_months": 132
+        },
+        {
+            "name": "Wendy Moore",
+            "href": "https://www.whosdatedwho.com/dating/wendy-moore",
+            "relationship_type": 2,
+            "start_date": "1998",
+            "end_date": "2000",
+            "length": "2 years",
+            "start_months_since_1900": 1176,
+            "end_months_since_1900": 1200,
+            "length_in_months": 24
+        },
+        {
+            "name": "Audrey Hamilton",
+            "href": "https://www.whosdatedwho.com/dating/audrey-hamilton",
+            "relationship_type": 3,
+            "start_date": "1979",
+            "end_date": "1981",
+            "length": "2 years",
+            "start_months_since_1900": 948,
+            "end_months_since_1900": 972,
+            "length_in_months": 24
+        },
+        {
+            "name": "Jeanette Trerotola",
+            "href": "https://www.whosdatedwho.com/dating/jeanette-trerotola",
+            "relationship_type": 4,
+            "start_date": "1976",
+            "end_date": "1976",
+            "length": "-",
+            "start_months_since_1900": 912,
+            "end_months_since_1900": 912,
+            "length_in_months": -1
+        },
+        {
+            "name": "Linda Susebach",
+            "href": "https://www.whosdatedwho.com/dating/linda-susebach",
+            "relationship_type": 3,
+            "start_date": "",
+            "end_date": "",
+            "length": "-",
+            "start_months_since_1900": -1,
+            "end_months_since_1900": -1,
+            "length_in_months": -1
+        },
+        {
+            "name": "Diane Cusano",
+            "href": "https://www.whosdatedwho.com/dating/diane-cusano",
+            "relationship_type": 2,
+            "start_date": "",
+            "end_date": "",
+            "length": "-",
+            "start_months_since_1900": -1,
+            "end_months_since_1900": -1,
+            "length_in_months": -1
+        },
+        {
+            "name": "Kim Rowe",
+            "href": "https://www.whosdatedwho.com/dating/kim-rowe",
+            "relationship_type": 2,
+            "start_date": "",
+            "end_date": "",
+            "length": "-",
+            "start_months_since_1900": -1,
+            "end_months_since_1900": -1,
+            "length_in_months": -1
+        }
+    ],
+    "details": {
+        "First Name": "Ace",
+        "Middle Name": "NA",
+        "Last Name": "Frehley",
+        "Maiden Name": "NA",
+        "Full Name at Birth": "Paul Daniel Frehley",
+        "Alternative Name": "Space-Ace, \"Spaceman\" or \"Space Ace\", Space Ace, The Spaceman",
+        "Birthday": "1951",
+        "Birthplace": "New York",
+        "Height": "185",
+        "Weight": "NA",
+        "Zodiac Sign": "3",
+        "Sexuality": "Straight",
+        "Religion": "28",
+        "Ethnicity": "6",
+        "Nationality": "91",
+        "Occupation": "1"
+    }
+}

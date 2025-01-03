@@ -1,0 +1,66 @@
+{
+    "relationships": [
+        {
+            "name": "Slim Danger",
+            "href": "https://www.whosdatedwho.com/dating/slim-danger",
+            "relationship_type": 3,
+            "start_date": "2021",
+            "end_date": "2021",
+            "length": "-",
+            "start_months_since_1900": 1452,
+            "end_months_since_1900": 1452,
+            "length_in_months": -1
+        },
+        {
+            "name": "Catherine Paiz",
+            "href": "https://www.whosdatedwho.com/dating/catherine-paiz",
+            "relationship_type": 4,
+            "start_date": "Jul 2015",
+            "end_date": "Jan 2024",
+            "length": "8 years",
+            "start_months_since_1900": 1386,
+            "end_months_since_1900": 1488,
+            "length_in_months": 96
+        },
+        {
+            "name": "Seiko Huffman",
+            "href": "https://www.whosdatedwho.com/dating/seiko-huffman",
+            "relationship_type": 2,
+            "start_date": "Jan 2014",
+            "end_date": "Jul 2015",
+            "length": "1 year",
+            "start_months_since_1900": 1368,
+            "end_months_since_1900": 1386,
+            "length_in_months": 12
+        },
+        {
+            "name": "Jasmine Villegas",
+            "href": "https://www.whosdatedwho.com/dating/jasmine-villegas",
+            "relationship_type": 3,
+            "start_date": "Jan 2012",
+            "end_date": "Mar 2013",
+            "length": "1 year",
+            "start_months_since_1900": 1344,
+            "end_months_since_1900": 1358,
+            "length_in_months": 12
+        }
+    ],
+    "details": {
+        "First Name": "Austin",
+        "Middle Name": "NA",
+        "Last Name": "McBroom",
+        "Maiden Name": "NA",
+        "Full Name at Birth": "Austin McBroom",
+        "Alternative Name": "Austin McBroom",
+        "Birthday": "1992",
+        "Birthplace": "USA",
+        "Height": "183",
+        "Weight": "170lbs (77 kg)",
+        "Zodiac Sign": "3",
+        "Sexuality": "Straight",
+        "Religion": "13",
+        "Ethnicity": "8",
+        "Nationality": "91",
+        "Occupation": "11"
+    }
+}

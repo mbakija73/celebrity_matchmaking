@@ -1,0 +1,44 @@
+{
+    "relationships": [
+        {
+            "name": "Caity Lotz",
+            "href": "https://www.whosdatedwho.com/dating/caity-lotz",
+            "relationship_type": 4,
+            "start_date": "Feb 2021",
+            "end_date": "present",
+            "length": "3 years",
+            "start_months_since_1900": 1453,
+            "end_months_since_1900": -1,
+            "length_in_months": 36
+        },
+        {
+            "name": "Nicky Whelan",
+            "href": "https://www.whosdatedwho.com/dating/nicky-whelan",
+            "relationship_type": 2,
+            "start_date": "Oct 2019",
+            "end_date": "2020",
+            "length": "3 months",
+            "start_months_since_1900": 1437,
+            "end_months_since_1900": 1440,
+            "length_in_months": 3
+        }
+    ],
+    "details": {
+        "First Name": "Kyle",
+        "Middle Name": "Andreas",
+        "Last Name": "Schmid",
+        "Maiden Name": "NA",
+        "Full Name at Birth": "Kyle Andreas Schmid",
+        "Alternative Name": "NA",
+        "Birthday": "1984",
+        "Birthplace": "Canada",
+        "Height": "178",
+        "Weight": "180lbs (82 kg)",
+        "Zodiac Sign": "12",
+        "Sexuality": "Straight",
+        "Religion": "1",
+        "Ethnicity": "6",
+        "Nationality": "90",
+        "Occupation": "8"
+    }
+}

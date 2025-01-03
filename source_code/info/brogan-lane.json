@@ -1,0 +1,33 @@
+{
+    "relationships": [
+        {
+            "name": "Dudley Moore",
+            "href": "https://www.whosdatedwho.com/dating/dudley-moore",
+            "relationship_type": 4,
+            "start_date": "1984",
+            "end_date": "1991",
+            "length": "7 years",
+            "start_months_since_1900": 1008,
+            "end_months_since_1900": 1092,
+            "length_in_months": 84
+        }
+    ],
+    "details": {
+        "First Name": "Brogan",
+        "Middle Name": "NA",
+        "Last Name": "Lane",
+        "Maiden Name": "NA",
+        "Full Name at Birth": "Brogan Lane",
+        "Alternative Name": "NA",
+        "Birthday": "1954",
+        "Birthplace": "USA",
+        "Height": "178",
+        "Weight": "120lbs (54 kg)",
+        "Zodiac Sign": "2",
+        "Sexuality": "Straight",
+        "Religion": "1",
+        "Ethnicity": "6",
+        "Nationality": "91",
+        "Occupation": "8"
+    }
+}

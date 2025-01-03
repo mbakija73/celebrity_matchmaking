@@ -1,0 +1,66 @@
+{
+    "relationships": [
+        {
+            "name": "Constantine Maroulis",
+            "href": "https://www.whosdatedwho.com/dating/constantine-maroulis",
+            "relationship_type": 3,
+            "start_date": "2005",
+            "end_date": "2005",
+            "length": "-",
+            "start_months_since_1900": 1260,
+            "end_months_since_1900": 1260,
+            "length_in_months": -1
+        },
+        {
+            "name": "Leonardo DiCaprio",
+            "href": "https://www.whosdatedwho.com/dating/leonardo-dicaprio",
+            "relationship_type": 2,
+            "start_date": "Oct 1996",
+            "end_date": "Dec 1997",
+            "length": "1 year",
+            "start_months_since_1900": 1161,
+            "end_months_since_1900": 1175,
+            "length_in_months": 12
+        },
+        {
+            "name": "Nicolas Cage",
+            "href": "https://www.whosdatedwho.com/dating/nicolas-cage",
+            "relationship_type": 2,
+            "start_date": "Oct 1992",
+            "end_date": "Dec 1994",
+            "length": "2 years",
+            "start_months_since_1900": 1113,
+            "end_months_since_1900": 1139,
+            "length_in_months": 24
+        },
+        {
+            "name": "Michael Hutchence",
+            "href": "https://www.whosdatedwho.com/dating/michael-hutchence",
+            "relationship_type": 3,
+            "start_date": "1991",
+            "end_date": "1991",
+            "length": "-",
+            "start_months_since_1900": 1092,
+            "end_months_since_1900": 1092,
+            "length_in_months": -1
+        }
+    ],
+    "details": {
+        "First Name": "Kristen",
+        "Middle Name": "Erica",
+        "Last Name": "Zang",
+        "Maiden Name": "NA",
+        "Full Name at Birth": "Kristen Erica Zang",
+        "Alternative Name": "NA",
+        "Birthday": "1974",
+        "Birthplace": "USA",
+        "Height": "178",
+        "Weight": "NA",
+        "Zodiac Sign": "8",
+        "Sexuality": "Straight",
+        "Religion": "1",
+        "Ethnicity": "6",
+        "Nationality": "91",
+        "Occupation": "15"
+    }
+}

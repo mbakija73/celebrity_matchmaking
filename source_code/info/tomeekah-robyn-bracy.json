@@ -1,0 +1,33 @@
+{
+    "relationships": [
+        {
+            "name": "Stevie Wonder",
+            "href": "https://www.whosdatedwho.com/dating/stevie-wonder",
+            "relationship_type": 4,
+            "start_date": "2013",
+            "end_date": "present",
+            "length": "11 years",
+            "start_months_since_1900": 1356,
+            "end_months_since_1900": -1,
+            "length_in_months": 132
+        }
+    ],
+    "details": {
+        "First Name": "Tomeekah",
+        "Middle Name": "Robyn",
+        "Last Name": "Wonder",
+        "Maiden Name": "Bracy",
+        "Full Name at Birth": "Tomeekah Robyn Bracy",
+        "Alternative Name": "NA",
+        "Birthday": "1973",
+        "Birthplace": "California",
+        "Height": "NA",
+        "Weight": "NA",
+        "Zodiac Sign": "5",
+        "Sexuality": "Straight",
+        "Religion": "1",
+        "Ethnicity": "2",
+        "Nationality": "91",
+        "Occupation": "18"
+    }
+}

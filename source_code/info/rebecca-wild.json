@@ -1,0 +1,44 @@
+{
+    "relationships": [
+        {
+            "name": "Rob King",
+            "href": "https://www.whosdatedwho.com/dating/rob-king",
+            "relationship_type": 4,
+            "start_date": "1993",
+            "end_date": "1993",
+            "length": "-",
+            "start_months_since_1900": 1116,
+            "end_months_since_1900": 1116,
+            "length_in_months": -1
+        },
+        {
+            "name": "Buck Adams",
+            "href": "https://www.whosdatedwho.com/dating/buck-adams",
+            "relationship_type": 2,
+            "start_date": "",
+            "end_date": "",
+            "length": "-",
+            "start_months_since_1900": -1,
+            "end_months_since_1900": -1,
+            "length_in_months": -1
+        }
+    ],
+    "details": {
+        "First Name": "Rebecca",
+        "Middle Name": "NA",
+        "Last Name": "Wild",
+        "Maiden Name": "NA",
+        "Full Name at Birth": "NA",
+        "Alternative Name": "Christina Cruise, Rebbecca Wild, Rebecca Wilde, Rebecca Wylde, Rebecca Wild",
+        "Birthday": "1972",
+        "Birthplace": "USA",
+        "Height": "163",
+        "Weight": "110lbs (50 kg)",
+        "Zodiac Sign": "7",
+        "Sexuality": "Bisexual",
+        "Religion": "1",
+        "Ethnicity": "6",
+        "Nationality": "91",
+        "Occupation": "16"
+    }
+}

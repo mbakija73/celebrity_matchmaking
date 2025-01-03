@@ -1,0 +1,44 @@
+{
+    "relationships": [
+        {
+            "name": "Donovan",
+            "href": "https://www.whosdatedwho.com/dating/donovan",
+            "relationship_type": 4,
+            "start_date": "1970",
+            "end_date": "",
+            "length": "-",
+            "start_months_since_1900": 840,
+            "end_months_since_1900": -1,
+            "length_in_months": -1
+        },
+        {
+            "name": "Brian Jones",
+            "href": "https://www.whosdatedwho.com/dating/brian-jones",
+            "relationship_type": 1,
+            "start_date": "0001",
+            "end_date": "0001",
+            "length": "-",
+            "start_months_since_1900": -22788,
+            "end_months_since_1900": -22788,
+            "length_in_months": -1
+        }
+    ],
+    "details": {
+        "First Name": "Linda",
+        "Middle Name": "NA",
+        "Last Name": "NA",
+        "Maiden Name": "Lawrence",
+        "Full Name at Birth": "Linda Lawrence",
+        "Alternative Name": "Linda Lawrence",
+        "Birthday": "NA",
+        "Birthplace": "NA",
+        "Height": "160",
+        "Weight": "NA",
+        "Zodiac Sign": "2",
+        "Sexuality": "Straight",
+        "Religion": "1",
+        "Ethnicity": "6",
+        "Nationality": "65",
+        "Occupation": "8"
+    }
+}

@@ -1,0 +1,44 @@
+{
+    "relationships": [
+        {
+            "name": "Prince",
+            "href": "https://www.whosdatedwho.com/dating/prince-musician",
+            "relationship_type": 3,
+            "start_date": "2010",
+            "end_date": "2010",
+            "length": "-",
+            "start_months_since_1900": 1320,
+            "end_months_since_1900": 1320,
+            "length_in_months": -1
+        },
+        {
+            "name": "Olu Evans",
+            "href": "https://www.whosdatedwho.com/dating/olu-evans",
+            "relationship_type": 4,
+            "start_date": "2004",
+            "end_date": "present",
+            "length": "20 years",
+            "start_months_since_1900": 1248,
+            "end_months_since_1900": -1,
+            "length_in_months": 240
+        }
+    ],
+    "details": {
+        "First Name": "Misty",
+        "Middle Name": "Danielle",
+        "Last Name": "NA",
+        "Maiden Name": "Copeland",
+        "Full Name at Birth": "Misty Danielle Copeland",
+        "Alternative Name": "Misty Copeland, Misty Danielle Copeland",
+        "Birthday": "1982",
+        "Birthplace": "Missouri USA",
+        "Height": "157",
+        "Weight": "119lbs (54 kg)",
+        "Zodiac Sign": "11",
+        "Sexuality": "Straight",
+        "Religion": "1",
+        "Ethnicity": "8",
+        "Nationality": "91",
+        "Occupation": "14"
+    }
+}

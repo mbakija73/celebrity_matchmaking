@@ -1,0 +1,44 @@
+{
+    "relationships": [
+        {
+            "name": "Alyssa Miller",
+            "href": "https://www.whosdatedwho.com/dating/alyssa-miller",
+            "relationship_type": 4,
+            "start_date": "Jun 2018",
+            "end_date": "Sep 2018",
+            "length": "3 months",
+            "start_months_since_1900": 1421,
+            "end_months_since_1900": 1424,
+            "length_in_months": 3
+        },
+        {
+            "name": "Camille Rowe",
+            "href": "https://www.whosdatedwho.com/dating/camille-rowe",
+            "relationship_type": 2,
+            "start_date": "2015",
+            "end_date": "2015",
+            "length": "-",
+            "start_months_since_1900": 1380,
+            "end_months_since_1900": 1380,
+            "length_in_months": -1
+        }
+    ],
+    "details": {
+        "First Name": "Cam",
+        "Middle Name": "NA",
+        "Last Name": "Avery",
+        "Maiden Name": "NA",
+        "Full Name at Birth": "NA",
+        "Alternative Name": "NA",
+        "Birthday": "1988",
+        "Birthplace": "Australia",
+        "Height": "NA",
+        "Weight": "NA",
+        "Zodiac Sign": "3",
+        "Sexuality": "NA",
+        "Religion": "1",
+        "Ethnicity": "6",
+        "Nationality": "135",
+        "Occupation": "1"
+    }
+}

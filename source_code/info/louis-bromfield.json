@@ -1,0 +1,55 @@
+{
+    "relationships": [
+        {
+            "name": "Doris Duke",
+            "href": "https://www.whosdatedwho.com/dating/doris-duke",
+            "relationship_type": 2,
+            "start_date": "1952",
+            "end_date": "1956",
+            "length": "4 years",
+            "start_months_since_1900": 624,
+            "end_months_since_1900": 672,
+            "length_in_months": 48
+        },
+        {
+            "name": "Mary Appleton Wood",
+            "href": "https://www.whosdatedwho.com/dating/mary-appleton-wood",
+            "relationship_type": 4,
+            "start_date": "16th Oct 1921",
+            "end_date": "14th Sep 1952",
+            "length": "30 years",
+            "start_months_since_1900": 261,
+            "end_months_since_1900": 632,
+            "length_in_months": 360
+        },
+        {
+            "name": "Lucius Beebe",
+            "href": "https://www.whosdatedwho.com/dating/lucius-beebe",
+            "relationship_type": 3,
+            "start_date": "",
+            "end_date": "",
+            "length": "-",
+            "start_months_since_1900": -1,
+            "end_months_since_1900": -1,
+            "length_in_months": -1
+        }
+    ],
+    "details": {
+        "First Name": "Louis",
+        "Middle Name": "NA",
+        "Last Name": "Bromfield",
+        "Maiden Name": "NA",
+        "Full Name at Birth": "Louis Brumfield",
+        "Alternative Name": "Louis Brumfield, Louis Bromfield",
+        "Birthday": "1896",
+        "Birthplace": "USA",
+        "Height": "NA",
+        "Weight": "NA",
+        "Zodiac Sign": "13",
+        "Sexuality": "Bisexual",
+        "Religion": "1",
+        "Ethnicity": "6",
+        "Nationality": "91",
+        "Occupation": "3"
+    }
+}

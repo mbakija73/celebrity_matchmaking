@@ -1,0 +1,55 @@
+{
+    "relationships": [
+        {
+            "name": "Jordan Ozuna",
+            "href": "https://www.whosdatedwho.com/dating/jordan-ozuna",
+            "relationship_type": 3,
+            "start_date": "Jul 2018",
+            "end_date": "Aug 2018",
+            "length": "1 month",
+            "start_months_since_1900": 1422,
+            "end_months_since_1900": 1423,
+            "length_in_months": 1
+        },
+        {
+            "name": "Kourtney Kardashian",
+            "href": "https://www.whosdatedwho.com/dating/kourtney-kardashian",
+            "relationship_type": 2,
+            "start_date": "Jan 2017",
+            "end_date": "Jul 2018",
+            "length": "1 year",
+            "start_months_since_1900": 1404,
+            "end_months_since_1900": 1422,
+            "length_in_months": 12
+        },
+        {
+            "name": "Jourdan Dunn",
+            "href": "https://www.whosdatedwho.com/dating/jourdan-dunn",
+            "relationship_type": 2,
+            "start_date": "May 2015",
+            "end_date": "Oct 2016",
+            "length": "1 year",
+            "start_months_since_1900": 1384,
+            "end_months_since_1900": 1401,
+            "length_in_months": 12
+        }
+    ],
+    "details": {
+        "First Name": "Younes",
+        "Middle Name": "NA",
+        "Last Name": "Bendjima",
+        "Maiden Name": "NA",
+        "Full Name at Birth": "Younes Bendjima",
+        "Alternative Name": "Younes Bendjima",
+        "Birthday": "1993",
+        "Birthplace": "Algeria",
+        "Height": "188",
+        "Weight": "NA",
+        "Zodiac Sign": "3",
+        "Sexuality": "Straight",
+        "Religion": "1",
+        "Ethnicity": "5",
+        "Nationality": "35",
+        "Occupation": "15"
+    }
+}

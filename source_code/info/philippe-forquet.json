@@ -1,0 +1,44 @@
+{
+    "relationships": [
+        {
+            "name": "Linda Morand",
+            "href": "https://www.whosdatedwho.com/dating/linda-morand",
+            "relationship_type": 4,
+            "start_date": "1966",
+            "end_date": "1976",
+            "length": "10 years",
+            "start_months_since_1900": 792,
+            "end_months_since_1900": 912,
+            "length_in_months": 120
+        },
+        {
+            "name": "Sharon Tate",
+            "href": "https://www.whosdatedwho.com/dating/sharon-tate",
+            "relationship_type": 2,
+            "start_date": "Sep 1963",
+            "end_date": "Jan 1964",
+            "length": "4 months",
+            "start_months_since_1900": 764,
+            "end_months_since_1900": 768,
+            "length_in_months": 4
+        }
+    ],
+    "details": {
+        "First Name": "Philippe",
+        "Middle Name": "NA",
+        "Last Name": "Forquet",
+        "Maiden Name": "NA",
+        "Full Name at Birth": "Philippe Marcius Forquet de Dorne",
+        "Alternative Name": "NA",
+        "Birthday": "1940",
+        "Birthplace": "France",
+        "Height": "183",
+        "Weight": "NA",
+        "Zodiac Sign": "10",
+        "Sexuality": "Straight",
+        "Religion": "18",
+        "Ethnicity": "6",
+        "Nationality": "86",
+        "Occupation": "8"
+    }
+}

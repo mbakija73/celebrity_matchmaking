@@ -1,0 +1,44 @@
+{
+    "relationships": [
+        {
+            "name": "Queen Silvia",
+            "href": "https://www.whosdatedwho.com/dating/silvia-drottning",
+            "relationship_type": 4,
+            "start_date": "1972",
+            "end_date": "present",
+            "length": "52 years",
+            "start_months_since_1900": 864,
+            "end_months_since_1900": -1,
+            "length_in_months": 624
+        },
+        {
+            "name": "Pia Degermark",
+            "href": "https://www.whosdatedwho.com/dating/pia-degermark",
+            "relationship_type": 1,
+            "start_date": "",
+            "end_date": "",
+            "length": "-",
+            "start_months_since_1900": -1,
+            "end_months_since_1900": -1,
+            "length_in_months": -1
+        }
+    ],
+    "details": {
+        "First Name": "King Carl XVI Gustaf",
+        "Middle Name": "Folke",
+        "Last Name": "Hubertus",
+        "Maiden Name": "NA",
+        "Full Name at Birth": "Carl Gustaf Folke Hubertus",
+        "Alternative Name": "Carl XVI Gustaf of Sweden",
+        "Birthday": "1946",
+        "Birthplace": "Sweden",
+        "Height": "179",
+        "Weight": "NA",
+        "Zodiac Sign": "3",
+        "Sexuality": "Straight",
+        "Religion": "28",
+        "Ethnicity": "6",
+        "Nationality": "30",
+        "Occupation": "18"
+    }
+}

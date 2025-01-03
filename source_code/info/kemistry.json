@@ -1,0 +1,33 @@
+{
+    "relationships": [
+        {
+            "name": "Goldie",
+            "href": "https://www.whosdatedwho.com/dating/goldie",
+            "relationship_type": 2,
+            "start_date": "1998",
+            "end_date": "Apr 1999",
+            "length": "1 year",
+            "start_months_since_1900": 1176,
+            "end_months_since_1900": 1191,
+            "length_in_months": 12
+        }
+    ],
+    "details": {
+        "First Name": "Kemistry",
+        "Middle Name": "Olukemi A",
+        "Last Name": "NA",
+        "Maiden Name": "Olusanya",
+        "Full Name at Birth": "Valerie Olukemi A Olusanya",
+        "Alternative Name": "Kemi",
+        "Birthday": "1963",
+        "Birthplace": "England",
+        "Height": "NA",
+        "Weight": "NA",
+        "Zodiac Sign": "10",
+        "Sexuality": "Straight",
+        "Religion": "1",
+        "Ethnicity": "1",
+        "Nationality": "98",
+        "Occupation": "1"
+    }
+}

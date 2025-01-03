@@ -1,0 +1,66 @@
+{
+    "relationships": [
+        {
+            "name": "Mallory Matoush",
+            "href": "https://www.whosdatedwho.com/dating/mallory-matoush",
+            "relationship_type": 2,
+            "start_date": "Jun 2011",
+            "end_date": "Dec 2011",
+            "length": "6 months",
+            "start_months_since_1900": 1337,
+            "end_months_since_1900": 1343,
+            "length_in_months": 6
+        },
+        {
+            "name": "Lea Michele",
+            "href": "https://www.whosdatedwho.com/dating/lea-michele",
+            "relationship_type": 2,
+            "start_date": "2009",
+            "end_date": "2013",
+            "length": "4 years",
+            "start_months_since_1900": 1308,
+            "end_months_since_1900": 1356,
+            "length_in_months": 48
+        },
+        {
+            "name": "Naya Rivera",
+            "href": "https://www.whosdatedwho.com/dating/naya-rivera",
+            "relationship_type": 1,
+            "start_date": "2009",
+            "end_date": "2009",
+            "length": "-",
+            "start_months_since_1900": 1308,
+            "end_months_since_1900": 1308,
+            "length_in_months": -1
+        },
+        {
+            "name": "Julie Vardalos",
+            "href": "https://www.whosdatedwho.com/dating/julie-vardalos",
+            "relationship_type": 2,
+            "start_date": "2008",
+            "end_date": "2010",
+            "length": "2 years",
+            "start_months_since_1900": 1296,
+            "end_months_since_1900": 1320,
+            "length_in_months": 24
+        }
+    ],
+    "details": {
+        "First Name": "Cory",
+        "Middle Name": "Allan Michael",
+        "Last Name": "Monteith",
+        "Maiden Name": "NA",
+        "Full Name at Birth": "Cory Allan Michael Monteith",
+        "Alternative Name": "Cory",
+        "Birthday": "1982",
+        "Birthplace": "Canada",
+        "Height": "192",
+        "Weight": "188lbs (85 kg)",
+        "Zodiac Sign": "3",
+        "Sexuality": "Straight",
+        "Religion": "18",
+        "Ethnicity": "6",
+        "Nationality": "90",
+        "Occupation": "8"
+    }
+}

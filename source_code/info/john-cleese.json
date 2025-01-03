@@ -1,0 +1,66 @@
+{
+    "relationships": [
+        {
+            "name": "Jennifer Wade",
+            "href": "https://www.whosdatedwho.com/dating/jennifer-wade",
+            "relationship_type": 4,
+            "start_date": "2010",
+            "end_date": "present",
+            "length": "14 years",
+            "start_months_since_1900": 1320,
+            "end_months_since_1900": -1,
+            "length_in_months": 168
+        },
+        {
+            "name": "Alyce Faye Eichelberger",
+            "href": "https://www.whosdatedwho.com/dating/alyce-faye-eichelberger",
+            "relationship_type": 4,
+            "start_date": "1991",
+            "end_date": "Jan 2008",
+            "length": "17 years",
+            "start_months_since_1900": 1092,
+            "end_months_since_1900": 1296,
+            "length_in_months": 204
+        },
+        {
+            "name": "Barbara Trentham",
+            "href": "https://www.whosdatedwho.com/dating/barbara-trentham",
+            "relationship_type": 4,
+            "start_date": "1980",
+            "end_date": "Oct 1990",
+            "length": "10 years",
+            "start_months_since_1900": 960,
+            "end_months_since_1900": 1089,
+            "length_in_months": 120
+        },
+        {
+            "name": "Connie Booth",
+            "href": "https://www.whosdatedwho.com/dating/connie-booth",
+            "relationship_type": 4,
+            "start_date": "Feb 1967",
+            "end_date": "Aug 1978",
+            "length": "11 years",
+            "start_months_since_1900": 805,
+            "end_months_since_1900": 943,
+            "length_in_months": 132
+        }
+    ],
+    "details": {
+        "First Name": "John",
+        "Middle Name": "Marwood",
+        "Last Name": "Cleese",
+        "Maiden Name": "NA",
+        "Full Name at Birth": "John Marwood Cleese",
+        "Alternative Name": "Cleesey",
+        "Birthday": "1939",
+        "Birthplace": "England",
+        "Height": "196",
+        "Weight": "NA",
+        "Zodiac Sign": "5",
+        "Sexuality": "Straight",
+        "Religion": "22",
+        "Ethnicity": "6",
+        "Nationality": "98",
+        "Occupation": "8"
+    }
+}

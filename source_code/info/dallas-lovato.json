@@ -1,0 +1,55 @@
+{
+    "relationships": [
+        {
+            "name": "Robert Livingston",
+            "href": "https://www.whosdatedwho.com/dating/robert-livingston",
+            "relationship_type": 2,
+            "start_date": "Jul 2012",
+            "end_date": "2014",
+            "length": "1 year",
+            "start_months_since_1900": 1350,
+            "end_months_since_1900": 1368,
+            "length_in_months": 12
+        },
+        {
+            "name": "Mike Manning",
+            "href": "https://www.whosdatedwho.com/dating/mike-manning",
+            "relationship_type": 2,
+            "start_date": "2011",
+            "end_date": "2012",
+            "length": "1 year",
+            "start_months_since_1900": 1332,
+            "end_months_since_1900": 1344,
+            "length_in_months": 12
+        },
+        {
+            "name": "Chord Overstreet",
+            "href": "https://www.whosdatedwho.com/dating/chord-overstreet",
+            "relationship_type": 2,
+            "start_date": "Jan 2010",
+            "end_date": "Aug 2010",
+            "length": "7 months",
+            "start_months_since_1900": 1320,
+            "end_months_since_1900": 1327,
+            "length_in_months": 7
+        }
+    ],
+    "details": {
+        "First Name": "Dallas",
+        "Middle Name": "Leigh",
+        "Last Name": "Lovato",
+        "Maiden Name": "NA",
+        "Full Name at Birth": "Dallas Leigh Lovato",
+        "Alternative Name": "Dallas",
+        "Birthday": "1988",
+        "Birthplace": "USA",
+        "Height": "156",
+        "Weight": "110lbs (50 kg)",
+        "Zodiac Sign": "9",
+        "Sexuality": "Straight",
+        "Religion": "18",
+        "Ethnicity": "8",
+        "Nationality": "91",
+        "Occupation": "8"
+    }
+}

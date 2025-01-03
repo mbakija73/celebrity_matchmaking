@@ -1,0 +1,66 @@
+{
+    "relationships": [
+        {
+            "name": "Josh Hartzler",
+            "href": "https://www.whosdatedwho.com/dating/josh-hartzler",
+            "relationship_type": 4,
+            "start_date": "8th Mar 2005",
+            "end_date": "",
+            "length": "-",
+            "start_months_since_1900": 1262,
+            "end_months_since_1900": -1,
+            "length_in_months": -1
+        },
+        {
+            "name": "Shaun Morgan",
+            "href": "https://www.whosdatedwho.com/dating/shaun-morgan",
+            "relationship_type": 2,
+            "start_date": "Oct 2003",
+            "end_date": "Mar 2005",
+            "length": "1 year",
+            "start_months_since_1900": 1245,
+            "end_months_since_1900": 1262,
+            "length_in_months": 12
+        },
+        {
+            "name": "Sean Paul",
+            "href": "https://www.whosdatedwho.com/dating/sean-paul",
+            "relationship_type": 3,
+            "start_date": "28th Aug 2003",
+            "end_date": "28th Aug 2003",
+            "length": "-",
+            "start_months_since_1900": 1243,
+            "end_months_since_1900": 1243,
+            "length_in_months": -1
+        },
+        {
+            "name": "Ben Moody",
+            "href": "https://www.whosdatedwho.com/dating/ben-moody",
+            "relationship_type": 2,
+            "start_date": "2000",
+            "end_date": "Sep 2003",
+            "length": "3 years",
+            "start_months_since_1900": 1200,
+            "end_months_since_1900": 1244,
+            "length_in_months": 36
+        }
+    ],
+    "details": {
+        "First Name": "Amy",
+        "Middle Name": "Lynn",
+        "Last Name": "Hartzler",
+        "Maiden Name": "Lee",
+        "Full Name at Birth": "Amy Lynn Lee",
+        "Alternative Name": "Amy Lynn Hartzler, Amy Lynn Lee, Amy Lee, Queen of Rock",
+        "Birthday": "1981",
+        "Birthplace": "USA",
+        "Height": "160",
+        "Weight": "138lbs (63 kg)",
+        "Zodiac Sign": "6",
+        "Sexuality": "Straight",
+        "Religion": "18",
+        "Ethnicity": "6",
+        "Nationality": "91",
+        "Occupation": "1"
+    }
+}

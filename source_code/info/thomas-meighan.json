@@ -1,0 +1,66 @@
+{
+    "relationships": [
+        {
+            "name": "Gloria Swanson",
+            "href": "https://www.whosdatedwho.com/dating/gloria-swanson",
+            "relationship_type": 2,
+            "start_date": "1918",
+            "end_date": "1919",
+            "length": "1 year",
+            "start_months_since_1900": 216,
+            "end_months_since_1900": 228,
+            "length_in_months": 12
+        },
+        {
+            "name": "Norma Talmadge",
+            "href": "https://www.whosdatedwho.com/dating/norma-talmadge",
+            "relationship_type": 2,
+            "start_date": "1918",
+            "end_date": "1918",
+            "length": "-",
+            "start_months_since_1900": 216,
+            "end_months_since_1900": 216,
+            "length_in_months": -1
+        },
+        {
+            "name": "Mary Pickford",
+            "href": "https://www.whosdatedwho.com/dating/mary-pickford",
+            "relationship_type": 3,
+            "start_date": "1917",
+            "end_date": "1917",
+            "length": "-",
+            "start_months_since_1900": 204,
+            "end_months_since_1900": 204,
+            "length_in_months": -1
+        },
+        {
+            "name": "Frances Ring",
+            "href": "https://www.whosdatedwho.com/dating/frances-ring",
+            "relationship_type": 4,
+            "start_date": "1908",
+            "end_date": "Jul 1936",
+            "length": "28 years",
+            "start_months_since_1900": 96,
+            "end_months_since_1900": 438,
+            "length_in_months": 336
+        }
+    ],
+    "details": {
+        "First Name": "Thomas",
+        "Middle Name": "NA",
+        "Last Name": "Meighan",
+        "Maiden Name": "NA",
+        "Full Name at Birth": "Thomas Meighan",
+        "Alternative Name": "Thomas Meighan",
+        "Birthday": "1879",
+        "Birthplace": "USA",
+        "Height": "185",
+        "Weight": "NA",
+        "Zodiac Sign": "7",
+        "Sexuality": "Straight",
+        "Religion": "1",
+        "Ethnicity": "6",
+        "Nationality": "91",
+        "Occupation": "8"
+    }
+}

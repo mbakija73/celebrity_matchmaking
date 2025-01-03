@@ -1,0 +1,66 @@
+{
+    "relationships": [
+        {
+            "name": "Marc Maron",
+            "href": "https://www.whosdatedwho.com/dating/marc-maron",
+            "relationship_type": 2,
+            "start_date": "Dec 2013",
+            "end_date": "May 2014",
+            "length": "5 months",
+            "start_months_since_1900": 1367,
+            "end_months_since_1900": 1372,
+            "length_in_months": 5
+        },
+        {
+            "name": "Paul Doucette",
+            "href": "https://www.whosdatedwho.com/dating/paul-doucette",
+            "relationship_type": 4,
+            "start_date": "2000",
+            "end_date": "2014",
+            "length": "14 years",
+            "start_months_since_1900": 1200,
+            "end_months_since_1900": 1368,
+            "length_in_months": 168
+        },
+        {
+            "name": "Woody Harrelson",
+            "href": "https://www.whosdatedwho.com/dating/woody-harrelson",
+            "relationship_type": 2,
+            "start_date": "1989",
+            "end_date": "1989",
+            "length": "-",
+            "start_months_since_1900": 1068,
+            "end_months_since_1900": 1068,
+            "length_in_months": -1
+        },
+        {
+            "name": "Bobby Blotzer",
+            "href": "https://www.whosdatedwho.com/dating/bobby-blotzer",
+            "relationship_type": 3,
+            "start_date": "1985",
+            "end_date": "1985",
+            "length": "-",
+            "start_months_since_1900": 1020,
+            "end_months_since_1900": 1020,
+            "length_in_months": -1
+        }
+    ],
+    "details": {
+        "First Name": "Moon",
+        "Middle Name": "Unit",
+        "Last Name": "Zappa",
+        "Maiden Name": "NA",
+        "Full Name at Birth": "Moon Unit Zappa",
+        "Alternative Name": "Moon Zappa, Moon Unit Zappa",
+        "Birthday": "1967",
+        "Birthplace": "USA",
+        "Height": "163",
+        "Weight": "NA",
+        "Zodiac Sign": "10",
+        "Sexuality": "Straight",
+        "Religion": "1",
+        "Ethnicity": "8",
+        "Nationality": "91",
+        "Occupation": "8"
+    }
+}

@@ -1,0 +1,44 @@
+{
+    "relationships": [
+        {
+            "name": "Mike Piazza",
+            "href": "https://www.whosdatedwho.com/dating/mike-piazza",
+            "relationship_type": 2,
+            "start_date": "1998",
+            "end_date": "1998",
+            "length": "-",
+            "start_months_since_1900": 1176,
+            "end_months_since_1900": 1176,
+            "length_in_months": -1
+        },
+        {
+            "name": "Steve Timmons",
+            "href": "https://www.whosdatedwho.com/dating/steve-timmons",
+            "relationship_type": 4,
+            "start_date": "1997",
+            "end_date": "2018",
+            "length": "21 years",
+            "start_months_since_1900": 1164,
+            "end_months_since_1900": 1416,
+            "length_in_months": 252
+        }
+    ],
+    "details": {
+        "First Name": "Debbe",
+        "Middle Name": "Lynn",
+        "Last Name": "Dunning",
+        "Maiden Name": "NA",
+        "Full Name at Birth": "Debra Lynn Dunning",
+        "Alternative Name": "Debra Dunning, Debbe Dunning, Debra Lynn Dunning, Debra Dunning Timmons, Debra L. Dunning, Debbe",
+        "Birthday": "1966",
+        "Birthplace": "USA",
+        "Height": "173",
+        "Weight": "132lbs (60 kg)",
+        "Zodiac Sign": "8",
+        "Sexuality": "Straight",
+        "Religion": "1",
+        "Ethnicity": "6",
+        "Nationality": "91",
+        "Occupation": "8"
+    }
+}

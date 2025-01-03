@@ -1,0 +1,99 @@
+{
+    "relationships": [
+        {
+            "name": "Inez Andersson",
+            "href": "https://www.whosdatedwho.com/dating/inez-andersson",
+            "relationship_type": 2,
+            "start_date": "2005",
+            "end_date": "",
+            "length": "-",
+            "start_months_since_1900": 1260,
+            "end_months_since_1900": -1,
+            "length_in_months": -1
+        },
+        {
+            "name": "Anne Undlien",
+            "href": "https://www.whosdatedwho.com/dating/anne-undlien",
+            "relationship_type": 2,
+            "start_date": "2000",
+            "end_date": "2005",
+            "length": "5 years",
+            "start_months_since_1900": 1200,
+            "end_months_since_1900": 1260,
+            "length_in_months": 60
+        },
+        {
+            "name": "Lene Nystr\u00f8m",
+            "href": "https://www.whosdatedwho.com/dating/lene-nystrom",
+            "relationship_type": 3,
+            "start_date": "1998",
+            "end_date": "1998",
+            "length": "-",
+            "start_months_since_1900": 1176,
+            "end_months_since_1900": 1176,
+            "length_in_months": -1
+        },
+        {
+            "name": "Patrice Burke",
+            "href": "https://www.whosdatedwho.com/dating/patrice-burke",
+            "relationship_type": 2,
+            "start_date": "1987",
+            "end_date": "1987",
+            "length": "-",
+            "start_months_since_1900": 1044,
+            "end_months_since_1900": 1044,
+            "length_in_months": -1
+        },
+        {
+            "name": "Helena Springs",
+            "href": "https://www.whosdatedwho.com/dating/helena-springs",
+            "relationship_type": 3,
+            "start_date": "1987",
+            "end_date": "1987",
+            "length": "-",
+            "start_months_since_1900": 1044,
+            "end_months_since_1900": 1044,
+            "length_in_months": -1
+        },
+        {
+            "name": "Camilla Malmquist",
+            "href": "https://www.whosdatedwho.com/dating/camilla-malmquist",
+            "relationship_type": 4,
+            "start_date": "1986",
+            "end_date": "1998",
+            "length": "12 years",
+            "start_months_since_1900": 1032,
+            "end_months_since_1900": 1176,
+            "length_in_months": 144
+        },
+        {
+            "name": "Bunty Bailey",
+            "href": "https://www.whosdatedwho.com/dating/bunty-bailey",
+            "relationship_type": 2,
+            "start_date": "1985",
+            "end_date": "1987",
+            "length": "2 years",
+            "start_months_since_1900": 1020,
+            "end_months_since_1900": 1044,
+            "length_in_months": 24
+        }
+    ],
+    "details": {
+        "First Name": "Morten",
+        "Middle Name": "NA",
+        "Last Name": "Harket",
+        "Maiden Name": "NA",
+        "Full Name at Birth": "Morten Harket",
+        "Alternative Name": "NA",
+        "Birthday": "1959",
+        "Birthplace": "Kongsberg",
+        "Height": "183",
+        "Weight": "NA",
+        "Zodiac Sign": "11",
+        "Sexuality": "Straight",
+        "Religion": "1",
+        "Ethnicity": "6",
+        "Nationality": "107",
+        "Occupation": "1"
+    }
+}

@@ -1,0 +1,66 @@
+{
+    "relationships": [
+        {
+            "name": "Reggie Youngblood",
+            "href": "https://www.whosdatedwho.com/dating/reggie-youngblood",
+            "relationship_type": 4,
+            "start_date": "Oct 2013",
+            "end_date": "present",
+            "length": "11 years",
+            "start_months_since_1900": 1365,
+            "end_months_since_1900": -1,
+            "length_in_months": 132
+        },
+        {
+            "name": "Kenny Anderson",
+            "href": "https://www.whosdatedwho.com/dating/kenny-anderson",
+            "relationship_type": 4,
+            "start_date": "Nov 1992",
+            "end_date": "Mar 2001",
+            "length": "8 years",
+            "start_months_since_1900": 1114,
+            "end_months_since_1900": 1214,
+            "length_in_months": 96
+        },
+        {
+            "name": "Todd 1",
+            "href": "https://www.whosdatedwho.com/dating/todd-1",
+            "relationship_type": 3,
+            "start_date": "Oct 1992",
+            "end_date": "Oct 1992",
+            "length": "-",
+            "start_months_since_1900": 1113,
+            "end_months_since_1900": 1113,
+            "length_in_months": -1
+        },
+        {
+            "name": "Marlon Wayans",
+            "href": "https://www.whosdatedwho.com/dating/marlon-wayans",
+            "relationship_type": 2,
+            "start_date": "Apr 1991",
+            "end_date": "Sep 1992",
+            "length": "1 year",
+            "start_months_since_1900": 1095,
+            "end_months_since_1900": 1112,
+            "length_in_months": 12
+        }
+    ],
+    "details": {
+        "First Name": "Tami",
+        "Middle Name": "NA",
+        "Last Name": "NA",
+        "Maiden Name": "Roman",
+        "Full Name at Birth": "Tamisha Akbar",
+        "Alternative Name": "Tami Akbar, Tami Anderson",
+        "Birthday": "1970",
+        "Birthplace": "New York",
+        "Height": "175",
+        "Weight": "NA",
+        "Zodiac Sign": "7",
+        "Sexuality": "Straight",
+        "Religion": "25",
+        "Ethnicity": "8",
+        "Nationality": "91",
+        "Occupation": "8"
+    }
+}

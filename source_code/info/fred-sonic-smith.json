@@ -1,0 +1,55 @@
+{
+    "relationships": [
+        {
+            "name": "Patti Smith",
+            "href": "https://www.whosdatedwho.com/dating/patti-smith",
+            "relationship_type": 4,
+            "start_date": "1979",
+            "end_date": "Nov 1994",
+            "length": "15 years",
+            "start_months_since_1900": 948,
+            "end_months_since_1900": 1138,
+            "length_in_months": 180
+        },
+        {
+            "name": "Janis Joplin",
+            "href": "https://www.whosdatedwho.com/dating/janis-joplin",
+            "relationship_type": 1,
+            "start_date": "1966",
+            "end_date": "1966",
+            "length": "-",
+            "start_months_since_1900": 792,
+            "end_months_since_1900": 792,
+            "length_in_months": -1
+        },
+        {
+            "name": "Sigrid Dobat",
+            "href": "https://www.whosdatedwho.com/dating/sigrid-dobat",
+            "relationship_type": 4,
+            "start_date": "",
+            "end_date": "",
+            "length": "-",
+            "start_months_since_1900": -1,
+            "end_months_since_1900": -1,
+            "length_in_months": -1
+        }
+    ],
+    "details": {
+        "First Name": "Fred",
+        "Middle Name": "Sonic",
+        "Last Name": "Smith",
+        "Maiden Name": "NA",
+        "Full Name at Birth": "NA",
+        "Alternative Name": "NA",
+        "Birthday": "1943",
+        "Birthplace": "United States",
+        "Height": "NA",
+        "Weight": "NA",
+        "Zodiac Sign": "11",
+        "Sexuality": "NA",
+        "Religion": "1",
+        "Ethnicity": "1",
+        "Nationality": "91",
+        "Occupation": "1"
+    }
+}

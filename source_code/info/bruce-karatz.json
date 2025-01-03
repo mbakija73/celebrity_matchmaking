@@ -1,0 +1,66 @@
+{
+    "relationships": [
+        {
+            "name": "Lilly Tartikoff",
+            "href": "https://www.whosdatedwho.com/dating/lilly-tartikoff",
+            "relationship_type": 4,
+            "start_date": "Nov 2009",
+            "end_date": "present",
+            "length": "14 years",
+            "start_months_since_1900": 1318,
+            "end_months_since_1900": -1,
+            "length_in_months": 168
+        },
+        {
+            "name": "Tracy Richman",
+            "href": "https://www.whosdatedwho.com/dating/tracy-richman",
+            "relationship_type": 3,
+            "start_date": "2005",
+            "end_date": "2005",
+            "length": "-",
+            "start_months_since_1900": 1260,
+            "end_months_since_1900": 1260,
+            "length_in_months": -1
+        },
+        {
+            "name": "Sandra Lee",
+            "href": "https://www.whosdatedwho.com/dating/sandra-lee",
+            "relationship_type": 4,
+            "start_date": "2001",
+            "end_date": "2007",
+            "length": "6 years",
+            "start_months_since_1900": 1212,
+            "end_months_since_1900": 1284,
+            "length_in_months": 72
+        },
+        {
+            "name": "Janet Dreisen",
+            "href": "https://www.whosdatedwho.com/dating/janet-dreisen",
+            "relationship_type": 4,
+            "start_date": "1968",
+            "end_date": "2001",
+            "length": "33 years",
+            "start_months_since_1900": 816,
+            "end_months_since_1900": 1212,
+            "length_in_months": 396
+        }
+    ],
+    "details": {
+        "First Name": "Bruce",
+        "Middle Name": "NA",
+        "Last Name": "Karatz",
+        "Maiden Name": "NA",
+        "Full Name at Birth": "Bruce Karatz",
+        "Alternative Name": "NA",
+        "Birthday": "1945",
+        "Birthplace": "U.S.",
+        "Height": "NA",
+        "Weight": "NA",
+        "Zodiac Sign": "10",
+        "Sexuality": "NA",
+        "Religion": "31",
+        "Ethnicity": "1",
+        "Nationality": "91",
+        "Occupation": "18"
+    }
+}

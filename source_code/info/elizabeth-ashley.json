@@ -1,0 +1,66 @@
+{
+    "relationships": [
+        {
+            "name": "James McCarthy",
+            "href": "https://www.whosdatedwho.com/dating/james-mccarthy",
+            "relationship_type": 4,
+            "start_date": "1974",
+            "end_date": "Feb 1981",
+            "length": "7 years",
+            "start_months_since_1900": 888,
+            "end_months_since_1900": 973,
+            "length_in_months": 84
+        },
+        {
+            "name": "George Peppard",
+            "href": "https://www.whosdatedwho.com/dating/george-peppard",
+            "relationship_type": 4,
+            "start_date": "1965",
+            "end_date": "Feb 1972",
+            "length": "7 years",
+            "start_months_since_1900": 780,
+            "end_months_since_1900": 865,
+            "length_in_months": 84
+        },
+        {
+            "name": "James Farentino",
+            "href": "https://www.whosdatedwho.com/dating/james-farentino",
+            "relationship_type": 4,
+            "start_date": "1961",
+            "end_date": "Apr 1965",
+            "length": "4 years",
+            "start_months_since_1900": 732,
+            "end_months_since_1900": 783,
+            "length_in_months": 48
+        },
+        {
+            "name": "Thomas McGuane",
+            "href": "https://www.whosdatedwho.com/dating/thomas-mcguane",
+            "relationship_type": 2,
+            "start_date": "",
+            "end_date": "",
+            "length": "-",
+            "start_months_since_1900": -1,
+            "end_months_since_1900": -1,
+            "length_in_months": -1
+        }
+    ],
+    "details": {
+        "First Name": "Elizabeth",
+        "Middle Name": "Ann",
+        "Last Name": "Ashley",
+        "Maiden Name": "Cole",
+        "Full Name at Birth": "Elizabeth Ann Cole",
+        "Alternative Name": "Elizabeth Ann Cole, Elizabeth Ashley, Elizabeth Cole",
+        "Birthday": "1939",
+        "Birthplace": "USA",
+        "Height": "NA",
+        "Weight": "NA",
+        "Zodiac Sign": "11",
+        "Sexuality": "Straight",
+        "Religion": "1",
+        "Ethnicity": "6",
+        "Nationality": "91",
+        "Occupation": "8"
+    }
+}

@@ -1,0 +1,88 @@
+{
+    "relationships": [
+        {
+            "name": "Bob Jones",
+            "href": "https://www.whosdatedwho.com/dating/bob-jones",
+            "relationship_type": 4,
+            "start_date": "1973",
+            "end_date": "1975",
+            "length": "2 years",
+            "start_months_since_1900": 876,
+            "end_months_since_1900": 900,
+            "length_in_months": 24
+        },
+        {
+            "name": "Robert Jones",
+            "href": "https://www.whosdatedwho.com/dating/robert-jones-3406368",
+            "relationship_type": 4,
+            "start_date": "1972",
+            "end_date": "1975",
+            "length": "3 years",
+            "start_months_since_1900": 864,
+            "end_months_since_1900": 900,
+            "length_in_months": 36
+        },
+        {
+            "name": "Keith Larsen",
+            "href": "https://www.whosdatedwho.com/dating/keith-larsen",
+            "relationship_type": 4,
+            "start_date": "Apr 1960",
+            "end_date": "Oct 1971",
+            "length": "11 years",
+            "start_months_since_1900": 723,
+            "end_months_since_1900": 861,
+            "length_in_months": 132
+        },
+        {
+            "name": "Gordon Scott",
+            "href": "https://www.whosdatedwho.com/dating/gordon-scott",
+            "relationship_type": 4,
+            "start_date": "Aug 1954",
+            "end_date": "Mar 1960",
+            "length": "5 years",
+            "start_months_since_1900": 655,
+            "end_months_since_1900": 722,
+            "length_in_months": 60
+        },
+        {
+            "name": "Bob Miles",
+            "href": "https://www.whosdatedwho.com/dating/bob-miles",
+            "relationship_type": 4,
+            "start_date": "1947",
+            "end_date": "1954",
+            "length": "7 years",
+            "start_months_since_1900": 564,
+            "end_months_since_1900": 648,
+            "length_in_months": 84
+        },
+        {
+            "name": "Tom Tryon",
+            "href": "https://www.whosdatedwho.com/dating/tom-tryon",
+            "relationship_type": 1,
+            "start_date": "",
+            "end_date": "",
+            "length": "-",
+            "start_months_since_1900": -1,
+            "end_months_since_1900": -1,
+            "length_in_months": -1
+        }
+    ],
+    "details": {
+        "First Name": "Vera",
+        "Middle Name": "June",
+        "Last Name": "Miles",
+        "Maiden Name": "Ralston",
+        "Full Name at Birth": "Vera June Ralston",
+        "Alternative Name": "May Ralston, Vera June Ralston, Vera Miles",
+        "Birthday": "1929",
+        "Birthplace": "USA",
+        "Height": "162",
+        "Weight": "115lbs (52 kg)",
+        "Zodiac Sign": "12",
+        "Sexuality": "Straight",
+        "Religion": "1",
+        "Ethnicity": "6",
+        "Nationality": "91",
+        "Occupation": "8"
+    }
+}

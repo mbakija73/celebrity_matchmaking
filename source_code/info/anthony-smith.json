@@ -1,0 +1,33 @@
+{
+    "relationships": [
+        {
+            "name": "Vanity",
+            "href": "https://www.whosdatedwho.com/dating/vanity-singer",
+            "relationship_type": 4,
+            "start_date": "Feb 1995",
+            "end_date": "1996",
+            "length": "11 months",
+            "start_months_since_1900": 1141,
+            "end_months_since_1900": 1152,
+            "length_in_months": 11
+        }
+    ],
+    "details": {
+        "First Name": "Anthony",
+        "Middle Name": "Wayne",
+        "Last Name": "Smith",
+        "Maiden Name": "NA",
+        "Full Name at Birth": "Anthony Wayne Smith",
+        "Alternative Name": "NA",
+        "Birthday": "1967",
+        "Birthplace": "USA",
+        "Height": "191",
+        "Weight": "265lbs (120 kg)",
+        "Zodiac Sign": "8",
+        "Sexuality": "Straight",
+        "Religion": "1",
+        "Ethnicity": "2",
+        "Nationality": "91",
+        "Occupation": "2"
+    }
+}

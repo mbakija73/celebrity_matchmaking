@@ -1,0 +1,165 @@
+{
+    "relationships": [
+        {
+            "name": "Paul Newman",
+            "href": "https://www.whosdatedwho.com/dating/paul-newman",
+            "relationship_type": 3,
+            "start_date": "1960",
+            "end_date": "1960",
+            "length": "-",
+            "start_months_since_1900": 720,
+            "end_months_since_1900": 720,
+            "length_in_months": -1
+        },
+        {
+            "name": "Adlai Stevenson",
+            "href": "https://www.whosdatedwho.com/dating/adlai-stevenson",
+            "relationship_type": 3,
+            "start_date": "1952",
+            "end_date": "1952",
+            "length": "-",
+            "start_months_since_1900": 624,
+            "end_months_since_1900": 624,
+            "length_in_months": -1
+        },
+        {
+            "name": "Howland H. Sergeant",
+            "href": "https://www.whosdatedwho.com/dating/howland-h-sergeant",
+            "relationship_type": 4,
+            "start_date": "Jun 1950",
+            "end_date": "May 1960",
+            "length": "9 years",
+            "start_months_since_1900": 605,
+            "end_months_since_1900": 724,
+            "length_in_months": 108
+        },
+        {
+            "name": "Gene Markey",
+            "href": "https://www.whosdatedwho.com/dating/gene-markey",
+            "relationship_type": 4,
+            "start_date": "Apr 1945",
+            "end_date": "21st Aug 1950",
+            "length": "5 years",
+            "start_months_since_1900": 543,
+            "end_months_since_1900": 607,
+            "length_in_months": 60
+        },
+        {
+            "name": "John Hertz, Jr.",
+            "href": "https://www.whosdatedwho.com/dating/john-hertz-jr",
+            "relationship_type": 4,
+            "start_date": "Jun 1941",
+            "end_date": "Aug 1944",
+            "length": "3 years",
+            "start_months_since_1900": 497,
+            "end_months_since_1900": 535,
+            "length_in_months": 36
+        },
+        {
+            "name": "Spencer Tracy",
+            "href": "https://www.whosdatedwho.com/dating/spencer-tracy",
+            "relationship_type": 2,
+            "start_date": "1935",
+            "end_date": "1936",
+            "length": "1 year",
+            "start_months_since_1900": 420,
+            "end_months_since_1900": 432,
+            "length_in_months": 12
+        },
+        {
+            "name": "Leslie Howard",
+            "href": "https://www.whosdatedwho.com/dating/leslie-howard",
+            "relationship_type": 3,
+            "start_date": "Oct 1932",
+            "end_date": "Nov 1932",
+            "length": "1 month",
+            "start_months_since_1900": 393,
+            "end_months_since_1900": 394,
+            "length_in_months": 1
+        },
+        {
+            "name": "John Barrymore",
+            "href": "https://www.whosdatedwho.com/dating/john-barrymore",
+            "relationship_type": 3,
+            "start_date": "1932",
+            "end_date": "1932",
+            "length": "-",
+            "start_months_since_1900": 384,
+            "end_months_since_1900": 384,
+            "length_in_months": -1
+        },
+        {
+            "name": "Arthur Hornblow Jr.",
+            "href": "https://www.whosdatedwho.com/dating/arthur-hornblow-jr",
+            "relationship_type": 4,
+            "start_date": "1931",
+            "end_date": "1st Jun 1942",
+            "length": "11 years",
+            "start_months_since_1900": 372,
+            "end_months_since_1900": 509,
+            "length_in_months": 132
+        },
+        {
+            "name": "Lawrence Copley thaw",
+            "href": "https://www.whosdatedwho.com/dating/lawrence-copley-thaw",
+            "relationship_type": 1,
+            "start_date": "",
+            "end_date": "",
+            "length": "-",
+            "start_months_since_1900": -1,
+            "end_months_since_1900": -1,
+            "length_in_months": -1
+        },
+        {
+            "name": "Barry Norton",
+            "href": "https://www.whosdatedwho.com/dating/barry-norton",
+            "relationship_type": 2,
+            "start_date": "",
+            "end_date": "",
+            "length": "-",
+            "start_months_since_1900": -1,
+            "end_months_since_1900": -1,
+            "length_in_months": -1
+        },
+        {
+            "name": "Collier Young",
+            "href": "https://www.whosdatedwho.com/dating/collier-young",
+            "relationship_type": 3,
+            "start_date": "",
+            "end_date": "",
+            "length": "-",
+            "start_months_since_1900": -1,
+            "end_months_since_1900": -1,
+            "length_in_months": -1
+        },
+        {
+            "name": "Humphrey Bogart",
+            "href": "https://www.whosdatedwho.com/dating/humphrey-bogart",
+            "relationship_type": 2,
+            "start_date": "",
+            "end_date": "",
+            "length": "-",
+            "start_months_since_1900": -1,
+            "end_months_since_1900": -1,
+            "length_in_months": -1
+        }
+    ],
+    "details": {
+        "First Name": "Myrna",
+        "Middle Name": "Adele",
+        "Last Name": "Loy",
+        "Maiden Name": "Williams",
+        "Full Name at Birth": "Myrna Adele Williams",
+        "Alternative Name": "Queen of Hollywood, The Perfect Wife, Minnie, Myrna Williams, Myrna Adele Williams, Myrna Loy",
+        "Birthday": "1905",
+        "Birthplace": "USA",
+        "Height": "168",
+        "Weight": "NA",
+        "Zodiac Sign": "12",
+        "Sexuality": "Straight",
+        "Religion": "29",
+        "Ethnicity": "6",
+        "Nationality": "91",
+        "Occupation": "8"
+    }
+}

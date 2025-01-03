@@ -1,0 +1,55 @@
+{
+    "relationships": [
+        {
+            "name": "Rene Russo",
+            "href": "https://www.whosdatedwho.com/dating/rene-russo",
+            "relationship_type": 4,
+            "start_date": "1992",
+            "end_date": "present",
+            "length": "32 years",
+            "start_months_since_1900": 1104,
+            "end_months_since_1900": -1,
+            "length_in_months": 384
+        },
+        {
+            "name": "Shelley Duvall",
+            "href": "https://www.whosdatedwho.com/dating/shelley-duvall",
+            "relationship_type": 1,
+            "start_date": "",
+            "end_date": "",
+            "length": "-",
+            "start_months_since_1900": -1,
+            "end_months_since_1900": -1,
+            "length_in_months": -1
+        },
+        {
+            "name": "Madonna",
+            "href": "https://www.whosdatedwho.com/dating/madonna",
+            "relationship_type": 1,
+            "start_date": "",
+            "end_date": "",
+            "length": "-",
+            "start_months_since_1900": -1,
+            "end_months_since_1900": -1,
+            "length_in_months": -1
+        }
+    ],
+    "details": {
+        "First Name": "Daniel",
+        "Middle Name": "Christopher",
+        "Last Name": "Gilroy",
+        "Maiden Name": "NA",
+        "Full Name at Birth": "Daniel Christopher Gilroy",
+        "Alternative Name": "Dan Gilroy, Daniel Christopher Gilroy",
+        "Birthday": "1959",
+        "Birthplace": "USA",
+        "Height": "180",
+        "Weight": "150lbs (68 kg)",
+        "Zodiac Sign": "8",
+        "Sexuality": "Straight",
+        "Religion": "26",
+        "Ethnicity": "6",
+        "Nationality": "91",
+        "Occupation": "3"
+    }
+}

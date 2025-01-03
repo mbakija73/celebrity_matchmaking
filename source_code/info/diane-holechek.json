@@ -1,0 +1,33 @@
+{
+    "relationships": [
+        {
+            "name": "Chuck Norris",
+            "href": "https://www.whosdatedwho.com/dating/chuck-norris",
+            "relationship_type": 4,
+            "start_date": "Dec 1956",
+            "end_date": "Sep 1989",
+            "length": "32 years",
+            "start_months_since_1900": 683,
+            "end_months_since_1900": 1076,
+            "length_in_months": 384
+        }
+    ],
+    "details": {
+        "First Name": "Diane",
+        "Middle Name": "NA",
+        "Last Name": "Holechek",
+        "Maiden Name": "NA",
+        "Full Name at Birth": "Dianne Kay Holechek",
+        "Alternative Name": "Dianne Holechek, Dianne Kay Holechek, Diana Norris",
+        "Birthday": "1941",
+        "Birthplace": "CA",
+        "Height": "NA",
+        "Weight": "NA",
+        "Zodiac Sign": "6",
+        "Sexuality": "Straight",
+        "Religion": "18",
+        "Ethnicity": "6",
+        "Nationality": "91",
+        "Occupation": "18"
+    }
+}

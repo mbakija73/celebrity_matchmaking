@@ -1,0 +1,88 @@
+{
+    "relationships": [
+        {
+            "name": "Sahara Ray",
+            "href": "https://www.whosdatedwho.com/dating/sahara-ray",
+            "relationship_type": 2,
+            "start_date": "Jul 2023",
+            "end_date": "present",
+            "length": "1 year",
+            "start_months_since_1900": 1482,
+            "end_months_since_1900": -1,
+            "length_in_months": 12
+        },
+        {
+            "name": "Avril Lavigne",
+            "href": "https://www.whosdatedwho.com/dating/avril-lavigne",
+            "relationship_type": 2,
+            "start_date": "Feb 2021",
+            "end_date": "Feb 2023",
+            "length": "2 years",
+            "start_months_since_1900": 1453,
+            "end_months_since_1900": 1477,
+            "length_in_months": 24
+        },
+        {
+            "name": "Tana Mongeau",
+            "href": "https://www.whosdatedwho.com/dating/tana-mongeau",
+            "relationship_type": 2,
+            "start_date": "2018",
+            "end_date": "2020",
+            "length": "2 years",
+            "start_months_since_1900": 1416,
+            "end_months_since_1900": 1440,
+            "length_in_months": 24
+        },
+        {
+            "name": "Bella Thorne",
+            "href": "https://www.whosdatedwho.com/dating/bella-thorne",
+            "relationship_type": 2,
+            "start_date": "19th Oct 2017",
+            "end_date": "14th Jun 2018",
+            "length": "7 months",
+            "start_months_since_1900": 1413,
+            "end_months_since_1900": 1421,
+            "length_in_months": 7
+        },
+        {
+            "name": "Hanna Beth Merjos",
+            "href": "https://www.whosdatedwho.com/dating/hanna-beth-merjos",
+            "relationship_type": 2,
+            "start_date": "Jun 2015",
+            "end_date": "2017",
+            "length": "1 year",
+            "start_months_since_1900": 1385,
+            "end_months_since_1900": 1404,
+            "length_in_months": 12
+        },
+        {
+            "name": "Brooke Schofield",
+            "href": "https://www.whosdatedwho.com/dating/brooke-schofield",
+            "relationship_type": 1,
+            "start_date": "",
+            "end_date": "",
+            "length": "-",
+            "start_months_since_1900": -1,
+            "end_months_since_1900": -1,
+            "length_in_months": -1
+        }
+    ],
+    "details": {
+        "First Name": "Derek",
+        "Middle Name": "NA",
+        "Last Name": "Smith",
+        "Maiden Name": "NA",
+        "Full Name at Birth": "Derek Smith",
+        "Alternative Name": "Mod Sun, Dylan Smith, Modern Sunshine",
+        "Birthday": "1987",
+        "Birthplace": "United States",
+        "Height": "169",
+        "Weight": "NA",
+        "Zodiac Sign": "1",
+        "Sexuality": "Straight",
+        "Religion": "1",
+        "Ethnicity": "6",
+        "Nationality": "91",
+        "Occupation": "1"
+    }
+}

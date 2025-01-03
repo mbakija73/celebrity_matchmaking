@@ -1,0 +1,132 @@
+{
+    "relationships": [
+        {
+            "name": "Jennifer Jones",
+            "href": "https://www.whosdatedwho.com/dating/jennifer-jones",
+            "relationship_type": 4,
+            "start_date": "Nov 1943",
+            "end_date": "22nd Jun 1965",
+            "length": "21 years",
+            "start_months_since_1900": 526,
+            "end_months_since_1900": 785,
+            "length_in_months": 252
+        },
+        {
+            "name": "Paulette Goddard",
+            "href": "https://www.whosdatedwho.com/dating/paulette-goddard",
+            "relationship_type": 3,
+            "start_date": "Dec 1940",
+            "end_date": "Jan 1941",
+            "length": "1 month",
+            "start_months_since_1900": 491,
+            "end_months_since_1900": 492,
+            "length_in_months": 1
+        },
+        {
+            "name": "Dolores Costello",
+            "href": "https://www.whosdatedwho.com/dating/dolores-costello",
+            "relationship_type": 2,
+            "start_date": "Dec 1935",
+            "end_date": "Jan 1936",
+            "length": "1 month",
+            "start_months_since_1900": 431,
+            "end_months_since_1900": 432,
+            "length_in_months": 1
+        },
+        {
+            "name": "Irene Mayer Selznick",
+            "href": "https://www.whosdatedwho.com/dating/irene-selznick",
+            "relationship_type": 4,
+            "start_date": "1930",
+            "end_date": "1949",
+            "length": "19 years",
+            "start_months_since_1900": 360,
+            "end_months_since_1900": 588,
+            "length_in_months": 228
+        },
+        {
+            "name": "Jean Arthur",
+            "href": "https://www.whosdatedwho.com/dating/jean-arthur",
+            "relationship_type": 2,
+            "start_date": "1930",
+            "end_date": "1930",
+            "length": "-",
+            "start_months_since_1900": 360,
+            "end_months_since_1900": 360,
+            "length_in_months": -1
+        },
+        {
+            "name": "Carole Lombard",
+            "href": "https://www.whosdatedwho.com/dating/carole-lombard",
+            "relationship_type": 3,
+            "start_date": "1930",
+            "end_date": "1930",
+            "length": "-",
+            "start_months_since_1900": 360,
+            "end_months_since_1900": 360,
+            "length_in_months": -1
+        },
+        {
+            "name": "Joan Fontaine",
+            "href": "https://www.whosdatedwho.com/dating/joan-fontaine",
+            "relationship_type": 3,
+            "start_date": "",
+            "end_date": "",
+            "length": "-",
+            "start_months_since_1900": -1,
+            "end_months_since_1900": -1,
+            "length_in_months": -1
+        },
+        {
+            "name": "Nancy Kelly",
+            "href": "https://www.whosdatedwho.com/dating/nancy-kelly",
+            "relationship_type": 3,
+            "start_date": "",
+            "end_date": "",
+            "length": "-",
+            "start_months_since_1900": -1,
+            "end_months_since_1900": -1,
+            "length_in_months": -1
+        },
+        {
+            "name": "Loretta Young",
+            "href": "https://www.whosdatedwho.com/dating/loretta-young",
+            "relationship_type": 3,
+            "start_date": "",
+            "end_date": "",
+            "length": "-",
+            "start_months_since_1900": -1,
+            "end_months_since_1900": -1,
+            "length_in_months": -1
+        },
+        {
+            "name": "Ingrid Bergman",
+            "href": "https://www.whosdatedwho.com/dating/ingrid-bergman",
+            "relationship_type": 3,
+            "start_date": "",
+            "end_date": "",
+            "length": "-",
+            "start_months_since_1900": -1,
+            "end_months_since_1900": -1,
+            "length_in_months": -1
+        }
+    ],
+    "details": {
+        "First Name": "David",
+        "Middle Name": "O.",
+        "Last Name": "Selznick",
+        "Maiden Name": "NA",
+        "Full Name at Birth": "David Selznick",
+        "Alternative Name": "David O. Selznick, David Selznick",
+        "Birthday": "1902",
+        "Birthplace": "Pennsylvania USA",
+        "Height": "185",
+        "Weight": "NA",
+        "Zodiac Sign": "3",
+        "Sexuality": "Straight",
+        "Religion": "31",
+        "Ethnicity": "6",
+        "Nationality": "91",
+        "Occupation": "9"
+    }
+}

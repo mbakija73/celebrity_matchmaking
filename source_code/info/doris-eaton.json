@@ -1,0 +1,66 @@
+{
+    "relationships": [
+        {
+            "name": "Paul Travis",
+            "href": "https://www.whosdatedwho.com/dating/paul-travis",
+            "relationship_type": 4,
+            "start_date": "1940",
+            "end_date": "2000",
+            "length": "60 years",
+            "start_months_since_1900": 480,
+            "end_months_since_1900": 1200,
+            "length_in_months": 720
+        },
+        {
+            "name": "Joe Gorman",
+            "href": "https://www.whosdatedwho.com/dating/joe-gorman",
+            "relationship_type": 4,
+            "start_date": "Jan 1923",
+            "end_date": "Oct 1923",
+            "length": "9 months",
+            "start_months_since_1900": 276,
+            "end_months_since_1900": 285,
+            "length_in_months": 9
+        },
+        {
+            "name": "Nacio Brown",
+            "href": "https://www.whosdatedwho.com/dating/nacio-brown",
+            "relationship_type": 1,
+            "start_date": "",
+            "end_date": "",
+            "length": "-",
+            "start_months_since_1900": -1,
+            "end_months_since_1900": -1,
+            "length_in_months": -1
+        },
+        {
+            "name": "Kerry Johnson",
+            "href": "https://www.whosdatedwho.com/dating/kerry-johnson",
+            "relationship_type": 3,
+            "start_date": "1927",
+            "end_date": "1927",
+            "length": "-",
+            "start_months_since_1900": 324,
+            "end_months_since_1900": 324,
+            "length_in_months": -1
+        }
+    ],
+    "details": {
+        "First Name": "Doris",
+        "Middle Name": "NA",
+        "Last Name": "Eaton",
+        "Maiden Name": "NA",
+        "Full Name at Birth": "Doris Eaton",
+        "Alternative Name": "Doris Eaton Travis, Doris Eaton",
+        "Birthday": "1904",
+        "Birthplace": "Virginia USA",
+        "Height": "157",
+        "Weight": "NA",
+        "Zodiac Sign": "1",
+        "Sexuality": "Straight",
+        "Religion": "12",
+        "Ethnicity": "6",
+        "Nationality": "91",
+        "Occupation": "14"
+    }
+}

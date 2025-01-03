@@ -1,0 +1,99 @@
+{
+    "relationships": [
+        {
+            "name": "E.E. Fogelson",
+            "href": "https://www.whosdatedwho.com/dating/e-e-fogelson",
+            "relationship_type": 4,
+            "start_date": "1949",
+            "end_date": "1949",
+            "length": "-",
+            "start_months_since_1900": 588,
+            "end_months_since_1900": 588,
+            "length_in_months": -1
+        },
+        {
+            "name": "Errol Flynn",
+            "href": "https://www.whosdatedwho.com/dating/errol-flynn",
+            "relationship_type": 3,
+            "start_date": "Dec 1948",
+            "end_date": "Mar 1949",
+            "length": "3 months",
+            "start_months_since_1900": 587,
+            "end_months_since_1900": 590,
+            "length_in_months": 3
+        },
+        {
+            "name": "Richard Ney",
+            "href": "https://www.whosdatedwho.com/dating/richard-ney",
+            "relationship_type": 4,
+            "start_date": "Dec 1941",
+            "end_date": "Sep 1947",
+            "length": "5 years",
+            "start_months_since_1900": 503,
+            "end_months_since_1900": 572,
+            "length_in_months": 60
+        },
+        {
+            "name": "George Jessel",
+            "href": "https://www.whosdatedwho.com/dating/george-jessel",
+            "relationship_type": 3,
+            "start_date": "1940",
+            "end_date": "1940",
+            "length": "-",
+            "start_months_since_1900": 480,
+            "end_months_since_1900": 480,
+            "length_in_months": -1
+        },
+        {
+            "name": "Edward Alec Abbot Snelson",
+            "href": "https://www.whosdatedwho.com/dating/edward-alec-abbot-snelson",
+            "relationship_type": 4,
+            "start_date": "1933",
+            "end_date": "1940",
+            "length": "7 years",
+            "start_months_since_1900": 396,
+            "end_months_since_1900": 480,
+            "length_in_months": 84
+        },
+        {
+            "name": "Joseph L. Mankiewicz",
+            "href": "https://www.whosdatedwho.com/dating/joseph-l-mankiewicz",
+            "relationship_type": 3,
+            "start_date": "",
+            "end_date": "",
+            "length": "-",
+            "start_months_since_1900": -1,
+            "end_months_since_1900": -1,
+            "length_in_months": -1
+        },
+        {
+            "name": "Louis B. Mayer",
+            "href": "https://www.whosdatedwho.com/dating/louis-b-mayer",
+            "relationship_type": 1,
+            "start_date": "",
+            "end_date": "",
+            "length": "-",
+            "start_months_since_1900": -1,
+            "end_months_since_1900": -1,
+            "length_in_months": -1
+        }
+    ],
+    "details": {
+        "First Name": "Greer",
+        "Middle Name": "NA",
+        "Last Name": "NA",
+        "Maiden Name": "Garson",
+        "Full Name at Birth": "Eileen Evelyn Greer Garson",
+        "Alternative Name": "Duchess",
+        "Birthday": "1904",
+        "Birthplace": "United Kingdom",
+        "Height": "168",
+        "Weight": "NA",
+        "Zodiac Sign": "10",
+        "Sexuality": "Straight",
+        "Religion": "4",
+        "Ethnicity": "6",
+        "Nationality": "8",
+        "Occupation": "8"
+    }
+}

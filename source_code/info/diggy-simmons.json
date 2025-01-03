@@ -1,0 +1,77 @@
+{
+    "relationships": [
+        {
+            "name": "Chloe Bailey",
+            "href": "https://www.whosdatedwho.com/dating/chloe-bailey",
+            "relationship_type": 2,
+            "start_date": "May 2019",
+            "end_date": "May 2020",
+            "length": "1 year",
+            "start_months_since_1900": 1432,
+            "end_months_since_1900": 1444,
+            "length_in_months": 12
+        },
+        {
+            "name": "Sydney Utendahl",
+            "href": "https://www.whosdatedwho.com/dating/sydney-utendahl",
+            "relationship_type": 2,
+            "start_date": "Oct 2017",
+            "end_date": "Mar 2018",
+            "length": "5 months",
+            "start_months_since_1900": 1413,
+            "end_months_since_1900": 1418,
+            "length_in_months": 5
+        },
+        {
+            "name": "Young Lyric",
+            "href": "https://www.whosdatedwho.com/dating/young-lyric",
+            "relationship_type": 2,
+            "start_date": "May 2012",
+            "end_date": "Dec 2014",
+            "length": "2 years",
+            "start_months_since_1900": 1348,
+            "end_months_since_1900": 1379,
+            "length_in_months": 24
+        },
+        {
+            "name": "Jessica Jarrell",
+            "href": "https://www.whosdatedwho.com/dating/jessica-jarrell",
+            "relationship_type": 2,
+            "start_date": "May 2011",
+            "end_date": "May 2012",
+            "length": "1 year",
+            "start_months_since_1900": 1336,
+            "end_months_since_1900": 1348,
+            "length_in_months": 12
+        },
+        {
+            "name": "Destiny Thompson",
+            "href": "https://www.whosdatedwho.com/dating/destiny-thompson",
+            "relationship_type": 3,
+            "start_date": "Sep 2010",
+            "end_date": "Sep 2010",
+            "length": "-",
+            "start_months_since_1900": 1328,
+            "end_months_since_1900": 1328,
+            "length_in_months": -1
+        }
+    ],
+    "details": {
+        "First Name": "Daniel",
+        "Middle Name": "Diggy",
+        "Last Name": "Simmons",
+        "Maiden Name": "NA",
+        "Full Name at Birth": "Daniel Simmons",
+        "Alternative Name": "Diggy, Dig, Dan, Diggy Simmons, Digg, Daniel Simmons",
+        "Birthday": "1995",
+        "Birthplace": "United States",
+        "Height": "168",
+        "Weight": "NA",
+        "Zodiac Sign": "7",
+        "Sexuality": "Straight",
+        "Religion": "18",
+        "Ethnicity": "8",
+        "Nationality": "91",
+        "Occupation": "1"
+    }
+}

@@ -1,0 +1,44 @@
+{
+    "relationships": [
+        {
+            "name": "Johnny Messner",
+            "href": "https://www.whosdatedwho.com/dating/johnny-messner",
+            "relationship_type": 2,
+            "start_date": "Feb 2010",
+            "end_date": "Feb 2010",
+            "length": "-",
+            "start_months_since_1900": 1321,
+            "end_months_since_1900": 1321,
+            "length_in_months": -1
+        },
+        {
+            "name": "Randy Hamilton",
+            "href": "https://www.whosdatedwho.com/dating/randy-hamilton",
+            "relationship_type": 2,
+            "start_date": "2001",
+            "end_date": "2004",
+            "length": "3 years",
+            "start_months_since_1900": 1212,
+            "end_months_since_1900": 1248,
+            "length_in_months": 36
+        }
+    ],
+    "details": {
+        "First Name": "Kathryn",
+        "Middle Name": "Susan",
+        "Last Name": "Morris",
+        "Maiden Name": "NA",
+        "Full Name at Birth": "Kathryn Susan Morris",
+        "Alternative Name": "Kathy Morris, Kathryn Morris, Kathryn Susan Morris",
+        "Birthday": "1969",
+        "Birthplace": "USA",
+        "Height": "170",
+        "Weight": "115lbs (52 kg)",
+        "Zodiac Sign": "9",
+        "Sexuality": "Straight",
+        "Religion": "1",
+        "Ethnicity": "6",
+        "Nationality": "91",
+        "Occupation": "8"
+    }
+}

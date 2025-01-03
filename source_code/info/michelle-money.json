@@ -1,0 +1,66 @@
+{
+    "relationships": [
+        {
+            "name": "Mike Weir",
+            "href": "https://www.whosdatedwho.com/dating/mike-weir",
+            "relationship_type": 4,
+            "start_date": "2016",
+            "end_date": "present",
+            "length": "8 years",
+            "start_months_since_1900": 1392,
+            "end_months_since_1900": -1,
+            "length_in_months": 96
+        },
+        {
+            "name": "Cody Sattler",
+            "href": "https://www.whosdatedwho.com/dating/cody-sattler",
+            "relationship_type": 2,
+            "start_date": "2014",
+            "end_date": "2015",
+            "length": "1 year",
+            "start_months_since_1900": 1368,
+            "end_months_since_1900": 1380,
+            "length_in_months": 12
+        },
+        {
+            "name": "Graham Bunn",
+            "href": "https://www.whosdatedwho.com/dating/graham-bunn",
+            "relationship_type": 2,
+            "start_date": "Jul 2011",
+            "end_date": "Jul 2011",
+            "length": "-",
+            "start_months_since_1900": 1338,
+            "end_months_since_1900": 1338,
+            "length_in_months": -1
+        },
+        {
+            "name": "Carlos Boozer",
+            "href": "https://www.whosdatedwho.com/dating/carlos-boozer",
+            "relationship_type": 2,
+            "start_date": "2009",
+            "end_date": "Jun 2009",
+            "length": "5 months",
+            "start_months_since_1900": 1308,
+            "end_months_since_1900": 1313,
+            "length_in_months": 5
+        }
+    ],
+    "details": {
+        "First Name": "Michelle",
+        "Middle Name": "NA",
+        "Last Name": "Money",
+        "Maiden Name": "NA",
+        "Full Name at Birth": "NA",
+        "Alternative Name": "NA",
+        "Birthday": "1980",
+        "Birthplace": "Utah",
+        "Height": "168",
+        "Weight": "NA",
+        "Zodiac Sign": "10",
+        "Sexuality": "Straight",
+        "Religion": "1",
+        "Ethnicity": "6",
+        "Nationality": "91",
+        "Occupation": "15"
+    }
+}

@@ -1,0 +1,16 @@
+{
+    "relationships": [
+        {
+            "name": "Annie Sprinkle",
+            "href": "https://www.whosdatedwho.com/dating/annie-sprinkle",
+            "relationship_type": 2,
+            "start_date": "Jul 2000",
+            "end_date": "Jul 2000",
+            "length": "-",
+            "start_months_since_1900": 1206,
+            "end_months_since_1900": 1206,
+            "length_in_months": -1
+        }
+    ],
+    "details": {}
+}

@@ -1,0 +1,132 @@
+{
+    "relationships": [
+        {
+            "name": "Benny Blanco",
+            "href": "https://www.whosdatedwho.com/dating/benny-blanco",
+            "relationship_type": 2,
+            "start_date": "Jul 2023",
+            "end_date": "present",
+            "length": "1 year",
+            "start_months_since_1900": 1482,
+            "end_months_since_1900": -1,
+            "length_in_months": 12
+        },
+        {
+            "name": "Zayn Malik",
+            "href": "https://www.whosdatedwho.com/dating/zayn-malik",
+            "relationship_type": 1,
+            "start_date": "Mar 2023",
+            "end_date": "May 2023",
+            "length": "2 months",
+            "start_months_since_1900": 1478,
+            "end_months_since_1900": 1480,
+            "length_in_months": 2
+        },
+        {
+            "name": "Andrew Taggart",
+            "href": "https://www.whosdatedwho.com/dating/andrew-taggart-disc-jockey",
+            "relationship_type": 3,
+            "start_date": "Jan 2023",
+            "end_date": "Jan 2023",
+            "length": "-",
+            "start_months_since_1900": 1476,
+            "end_months_since_1900": 1476,
+            "length_in_months": -1
+        },
+        {
+            "name": "Jimmy Butler",
+            "href": "https://www.whosdatedwho.com/dating/jimmy-butler-basketball",
+            "relationship_type": 3,
+            "start_date": "Nov 2020",
+            "end_date": "Dec 2020",
+            "length": "1 month",
+            "start_months_since_1900": 1450,
+            "end_months_since_1900": 1451,
+            "length_in_months": 1
+        },
+        {
+            "name": "The Weeknd",
+            "href": "https://www.whosdatedwho.com/dating/the-weeknd",
+            "relationship_type": 2,
+            "start_date": "Dec 2016",
+            "end_date": "Oct 2017",
+            "length": "10 months",
+            "start_months_since_1900": 1403,
+            "end_months_since_1900": 1413,
+            "length_in_months": 10
+        },
+        {
+            "name": "Zedd",
+            "href": "https://www.whosdatedwho.com/dating/zedd-producer",
+            "relationship_type": 2,
+            "start_date": "Jan 2015",
+            "end_date": "Apr 2015",
+            "length": "3 months",
+            "start_months_since_1900": 1380,
+            "end_months_since_1900": 1383,
+            "length_in_months": 3
+        },
+        {
+            "name": "Justin Bieber",
+            "href": "https://www.whosdatedwho.com/dating/justin-bieber",
+            "relationship_type": 2,
+            "start_date": "Nov 2010",
+            "end_date": "Mar 2018",
+            "length": "7 years",
+            "start_months_since_1900": 1330,
+            "end_months_since_1900": 1418,
+            "length_in_months": 84
+        },
+        {
+            "name": "Taylor Lautner",
+            "href": "https://www.whosdatedwho.com/dating/taylor-lautner",
+            "relationship_type": 2,
+            "start_date": "Apr 2009",
+            "end_date": "Jul 2009",
+            "length": "3 months",
+            "start_months_since_1900": 1311,
+            "end_months_since_1900": 1314,
+            "length_in_months": 3
+        },
+        {
+            "name": "Nick Jonas",
+            "href": "https://www.whosdatedwho.com/dating/nick-jonas",
+            "relationship_type": 2,
+            "start_date": "Feb 2008",
+            "end_date": "Mar 2010",
+            "length": "2 years",
+            "start_months_since_1900": 1297,
+            "end_months_since_1900": 1322,
+            "length_in_months": 24
+        },
+        {
+            "name": "Masatoshi Ito",
+            "href": "https://www.whosdatedwho.com/dating/masatoshi-ito-6041973",
+            "relationship_type": 1,
+            "start_date": "",
+            "end_date": "",
+            "length": "-",
+            "start_months_since_1900": -1,
+            "end_months_since_1900": -1,
+            "length_in_months": -1
+        }
+    ],
+    "details": {
+        "First Name": "Selena",
+        "Middle Name": "Marie",
+        "Last Name": "Gomez",
+        "Maiden Name": "NA",
+        "Full Name at Birth": "Selena Marie Gomez",
+        "Alternative Name": "Sel, Selly, Selena Marie Gomez, Selena Gomez, Selenita, Conchita, Mamachita, See",
+        "Birthday": "1992",
+        "Birthplace": "USA",
+        "Height": "165",
+        "Weight": "121lbs (55 kg)",
+        "Zodiac Sign": "8",
+        "Sexuality": "Straight",
+        "Religion": "18",
+        "Ethnicity": "8",
+        "Nationality": "91",
+        "Occupation": "1"
+    }
+}

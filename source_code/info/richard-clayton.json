@@ -1,0 +1,66 @@
+{
+    "relationships": [
+        {
+            "name": "Sharon Harvey",
+            "href": "https://www.whosdatedwho.com/dating/sharon-harvey",
+            "relationship_type": 3,
+            "start_date": "Oct 1968",
+            "end_date": "Nov 1968",
+            "length": "1 month",
+            "start_months_since_1900": 825,
+            "end_months_since_1900": 826,
+            "length_in_months": 1
+        },
+        {
+            "name": "Lori Nelson",
+            "href": "https://www.whosdatedwho.com/dating/lori-nelson",
+            "relationship_type": 2,
+            "start_date": "Aug 1954",
+            "end_date": "Jan 1956",
+            "length": "1 year",
+            "start_months_since_1900": 655,
+            "end_months_since_1900": 672,
+            "length_in_months": 12
+        },
+        {
+            "name": "Kathleen Crowley",
+            "href": "https://www.whosdatedwho.com/dating/kathleen-crowley",
+            "relationship_type": 2,
+            "start_date": "1954",
+            "end_date": "1954",
+            "length": "-",
+            "start_months_since_1900": 648,
+            "end_months_since_1900": 648,
+            "length_in_months": -1
+        },
+        {
+            "name": "Ann Blyth",
+            "href": "https://www.whosdatedwho.com/dating/ann-blyth",
+            "relationship_type": 2,
+            "start_date": "Sep 1951",
+            "end_date": "Dec 1951",
+            "length": "3 months",
+            "start_months_since_1900": 620,
+            "end_months_since_1900": 623,
+            "length_in_months": 3
+        }
+    ],
+    "details": {
+        "First Name": "Richard",
+        "Middle Name": "NA",
+        "Last Name": "Clayton",
+        "Maiden Name": "NA",
+        "Full Name at Birth": "Joseph Coan",
+        "Alternative Name": "Dick Clayton",
+        "Birthday": "1915",
+        "Birthplace": "USA",
+        "Height": "NA",
+        "Weight": "NA",
+        "Zodiac Sign": "4",
+        "Sexuality": "NA",
+        "Religion": "1",
+        "Ethnicity": "6",
+        "Nationality": "91",
+        "Occupation": "7"
+    }
+}

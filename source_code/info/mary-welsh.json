@@ -1,0 +1,44 @@
+{
+    "relationships": [
+        {
+            "name": "Ernest Hemingway",
+            "href": "https://www.whosdatedwho.com/dating/ernest-hemingway",
+            "relationship_type": 4,
+            "start_date": "Mar 1945",
+            "end_date": "Jul 1961",
+            "length": "16 years",
+            "start_months_since_1900": 542,
+            "end_months_since_1900": 738,
+            "length_in_months": 192
+        },
+        {
+            "name": "Irwin Shaw",
+            "href": "https://www.whosdatedwho.com/dating/irwin-shaw",
+            "relationship_type": 2,
+            "start_date": "1942",
+            "end_date": "1942",
+            "length": "-",
+            "start_months_since_1900": 504,
+            "end_months_since_1900": 504,
+            "length_in_months": -1
+        }
+    ],
+    "details": {
+        "First Name": "Mary",
+        "Middle Name": "NA",
+        "Last Name": "Welsh",
+        "Maiden Name": "NA",
+        "Full Name at Birth": "NA",
+        "Alternative Name": "NA",
+        "Birthday": "1896",
+        "Birthplace": "England",
+        "Height": "NA",
+        "Weight": "NA",
+        "Zodiac Sign": "12",
+        "Sexuality": "NA",
+        "Religion": "1",
+        "Ethnicity": "1",
+        "Nationality": "8",
+        "Occupation": "3"
+    }
+}

@@ -1,0 +1,55 @@
+{
+    "relationships": [
+        {
+            "name": "Helena Carter",
+            "href": "https://www.whosdatedwho.com/dating/helena-carter",
+            "relationship_type": 2,
+            "start_date": "Apr 1951",
+            "end_date": "May 1951",
+            "length": "1 month",
+            "start_months_since_1900": 615,
+            "end_months_since_1900": 616,
+            "length_in_months": 1
+        },
+        {
+            "name": "Jane Nigh",
+            "href": "https://www.whosdatedwho.com/dating/jane-nigh",
+            "relationship_type": 2,
+            "start_date": "Sep 1949",
+            "end_date": "Oct 1949",
+            "length": "1 month",
+            "start_months_since_1900": 596,
+            "end_months_since_1900": 597,
+            "length_in_months": 1
+        },
+        {
+            "name": "M'liss McClure",
+            "href": "https://www.whosdatedwho.com/dating/m-liss-mcclure",
+            "relationship_type": 4,
+            "start_date": "Jan 1949",
+            "end_date": "Sep 1949",
+            "length": "8 months",
+            "start_months_since_1900": 588,
+            "end_months_since_1900": 596,
+            "length_in_months": 8
+        }
+    ],
+    "details": {
+        "First Name": "Marvin",
+        "Middle Name": "NA",
+        "Last Name": "Finch",
+        "Maiden Name": "NA",
+        "Full Name at Birth": "Marvin Adelbert Finch",
+        "Alternative Name": "Marvin Adelbert Finch, Marvin Finch",
+        "Birthday": "NA",
+        "Birthplace": "NA",
+        "Height": "NA",
+        "Weight": "NA",
+        "Zodiac Sign": "2",
+        "Sexuality": "NA",
+        "Religion": "1",
+        "Ethnicity": "1",
+        "Nationality": "65",
+        "Occupation": "19"
+    }
+}

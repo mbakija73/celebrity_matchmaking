@@ -1,0 +1,55 @@
+{
+    "relationships": [
+        {
+            "name": "Ross Forrester",
+            "href": "https://www.whosdatedwho.com/dating/ross-forrester",
+            "relationship_type": 4,
+            "start_date": "1942",
+            "end_date": "Aug 1965",
+            "length": "23 years",
+            "start_months_since_1900": 504,
+            "end_months_since_1900": 787,
+            "length_in_months": 276
+        },
+        {
+            "name": "John Alban",
+            "href": "https://www.whosdatedwho.com/dating/john-alban",
+            "relationship_type": 4,
+            "start_date": "1939",
+            "end_date": "1942",
+            "length": "3 years",
+            "start_months_since_1900": 468,
+            "end_months_since_1900": 504,
+            "length_in_months": 36
+        },
+        {
+            "name": "Lowell Sherman",
+            "href": "https://www.whosdatedwho.com/dating/lowell-sherman",
+            "relationship_type": 4,
+            "start_date": "1925",
+            "end_date": "1930",
+            "length": "5 years",
+            "start_months_since_1900": 300,
+            "end_months_since_1900": 360,
+            "length_in_months": 60
+        }
+    ],
+    "details": {
+        "First Name": "Pauline",
+        "Middle Name": "NA",
+        "Last Name": "Garon",
+        "Maiden Name": "NA",
+        "Full Name at Birth": "Marie Pauline Garon",
+        "Alternative Name": "Marie Pauline Garon, Pauline Garon",
+        "Birthday": "1901",
+        "Birthplace": "Canada",
+        "Height": "155",
+        "Weight": "NA",
+        "Zodiac Sign": "11",
+        "Sexuality": "Straight",
+        "Religion": "1",
+        "Ethnicity": "6",
+        "Nationality": "90",
+        "Occupation": "8"
+    }
+}

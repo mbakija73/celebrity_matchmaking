@@ -1,0 +1,33 @@
+{
+    "relationships": [
+        {
+            "name": "John Cleese",
+            "href": "https://www.whosdatedwho.com/dating/john-cleese",
+            "relationship_type": 4,
+            "start_date": "2010",
+            "end_date": "present",
+            "length": "14 years",
+            "start_months_since_1900": 1320,
+            "end_months_since_1900": -1,
+            "length_in_months": 168
+        }
+    ],
+    "details": {
+        "First Name": "Jennifer",
+        "Middle Name": "NA",
+        "Last Name": "Cleese",
+        "Maiden Name": "Wade",
+        "Full Name at Birth": "Jennifer Wade",
+        "Alternative Name": "Jennifer Norris",
+        "Birthday": "NA",
+        "Birthplace": "NA",
+        "Height": "NA",
+        "Weight": "NA",
+        "Zodiac Sign": "2",
+        "Sexuality": "Straight",
+        "Religion": "1",
+        "Ethnicity": "6",
+        "Nationality": "8",
+        "Occupation": "7"
+    }
+}

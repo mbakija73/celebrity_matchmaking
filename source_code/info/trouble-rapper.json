@@ -1,0 +1,55 @@
+{
+    "relationships": [
+        {
+            "name": "Monica",
+            "href": "https://www.whosdatedwho.com/dating/monica-musician",
+            "relationship_type": 2,
+            "start_date": "Oct 2019",
+            "end_date": "Dec 2019",
+            "length": "2 months",
+            "start_months_since_1900": 1437,
+            "end_months_since_1900": 1439,
+            "length_in_months": 2
+        },
+        {
+            "name": "Alexis Skyy",
+            "href": "https://www.whosdatedwho.com/dating/alexis-sky",
+            "relationship_type": 2,
+            "start_date": "Jun 2019",
+            "end_date": "Oct 2019",
+            "length": "4 months",
+            "start_months_since_1900": 1433,
+            "end_months_since_1900": 1437,
+            "length_in_months": 4
+        },
+        {
+            "name": "Kash Doll",
+            "href": "https://www.whosdatedwho.com/dating/kash-doll",
+            "relationship_type": 2,
+            "start_date": "Sep 2018",
+            "end_date": "May 2019",
+            "length": "8 months",
+            "start_months_since_1900": 1424,
+            "end_months_since_1900": 1432,
+            "length_in_months": 8
+        }
+    ],
+    "details": {
+        "First Name": "Trouble",
+        "Middle Name": "NA",
+        "Last Name": "NA",
+        "Maiden Name": "NA",
+        "Full Name at Birth": "Mariel Semonte Orr",
+        "Alternative Name": "Trouble DTE, Skoob, Big Trouble, Trouble Trouble, Trouble",
+        "Birthday": "1987",
+        "Birthplace": "USA",
+        "Height": "183",
+        "Weight": "NA",
+        "Zodiac Sign": "5",
+        "Sexuality": "Straight",
+        "Religion": "18",
+        "Ethnicity": "2",
+        "Nationality": "91",
+        "Occupation": "1"
+    }
+}

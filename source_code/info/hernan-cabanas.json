@@ -1,0 +1,44 @@
+{
+    "relationships": [
+        {
+            "name": "Eugenia Lemos",
+            "href": "https://www.whosdatedwho.com/dating/eugenia-lemos",
+            "relationship_type": 3,
+            "start_date": "Jan 2011",
+            "end_date": "Jan 2011",
+            "length": "-",
+            "start_months_since_1900": 1332,
+            "end_months_since_1900": 1332,
+            "length_in_months": -1
+        },
+        {
+            "name": "Nicole Moreno",
+            "href": "https://www.whosdatedwho.com/dating/nicole-moreno",
+            "relationship_type": 2,
+            "start_date": "2010",
+            "end_date": "2011",
+            "length": "1 year",
+            "start_months_since_1900": 1320,
+            "end_months_since_1900": 1332,
+            "length_in_months": 12
+        }
+    ],
+    "details": {
+        "Birthday": "1983",
+        "First Name": "NA",
+        "Middle Name": "NA",
+        "Last Name": "NA",
+        "Maiden Name": "NA",
+        "Full Name at Birth": "NA",
+        "Alternative Name": "NA",
+        "Birthplace": "NA",
+        "Height": "NA",
+        "Weight": "NA",
+        "Zodiac Sign": "7",
+        "Sexuality": "NA",
+        "Religion": "1",
+        "Ethnicity": "1",
+        "Nationality": "28",
+        "Occupation": "15"
+    }
+}

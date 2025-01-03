@@ -1,0 +1,66 @@
+{
+    "relationships": [
+        {
+            "name": "Brian Quintana",
+            "href": "https://www.whosdatedwho.com/dating/brian-quintana",
+            "relationship_type": 1,
+            "start_date": "2007",
+            "end_date": "2007",
+            "length": "-",
+            "start_months_since_1900": 1284,
+            "end_months_since_1900": 1284,
+            "length_in_months": -1
+        },
+        {
+            "name": "Val Kilmer",
+            "href": "https://www.whosdatedwho.com/dating/val-kilmer",
+            "relationship_type": 2,
+            "start_date": "2005",
+            "end_date": "2005",
+            "length": "-",
+            "start_months_since_1900": 1260,
+            "end_months_since_1900": 1260,
+            "length_in_months": -1
+        },
+        {
+            "name": "Paris Kassidokostas-Latsis",
+            "href": "https://www.whosdatedwho.com/dating/paris-kasidokostas-latsis",
+            "relationship_type": 2,
+            "start_date": "2002",
+            "end_date": "2004",
+            "length": "2 years",
+            "start_months_since_1900": 1224,
+            "end_months_since_1900": 1248,
+            "length_in_months": 24
+        },
+        {
+            "name": "Francois Graff",
+            "href": "https://www.whosdatedwho.com/dating/francois-graff",
+            "relationship_type": 4,
+            "start_date": "1992",
+            "end_date": "2002",
+            "length": "10 years",
+            "start_months_since_1900": 1104,
+            "end_months_since_1900": 1224,
+            "length_in_months": 120
+        }
+    ],
+    "details": {
+        "First Name": "Zeta",
+        "Middle Name": "NA",
+        "Last Name": "Graff",
+        "Maiden Name": "NA",
+        "Full Name at Birth": "NA",
+        "Alternative Name": "NA",
+        "Birthday": "NA",
+        "Birthplace": "NA",
+        "Height": "178",
+        "Weight": "NA",
+        "Zodiac Sign": "2",
+        "Sexuality": "Lesbian",
+        "Religion": "18",
+        "Ethnicity": "6",
+        "Nationality": "65",
+        "Occupation": "7"
+    }
+}

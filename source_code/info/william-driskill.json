@@ -1,0 +1,44 @@
+{
+    "relationships": [
+        {
+            "name": "Jane Wald",
+            "href": "https://www.whosdatedwho.com/dating/jane-wald",
+            "relationship_type": 4,
+            "start_date": "1963",
+            "end_date": "1965",
+            "length": "2 years",
+            "start_months_since_1900": 756,
+            "end_months_since_1900": 780,
+            "length_in_months": 24
+        },
+        {
+            "name": "Joan Dixon",
+            "href": "https://www.whosdatedwho.com/dating/joan-dixon",
+            "relationship_type": 4,
+            "start_date": "Oct 1956",
+            "end_date": "May 1959",
+            "length": "2 years",
+            "start_months_since_1900": 681,
+            "end_months_since_1900": 712,
+            "length_in_months": 24
+        }
+    ],
+    "details": {
+        "Birthday": "1930",
+        "First Name": "NA",
+        "Middle Name": "NA",
+        "Last Name": "NA",
+        "Maiden Name": "NA",
+        "Full Name at Birth": "NA",
+        "Alternative Name": "NA",
+        "Birthplace": "NA",
+        "Height": "NA",
+        "Weight": "NA",
+        "Zodiac Sign": "1",
+        "Sexuality": "NA",
+        "Religion": "1",
+        "Ethnicity": "1",
+        "Nationality": "65",
+        "Occupation": "19"
+    }
+}

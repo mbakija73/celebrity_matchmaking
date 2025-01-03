@@ -1,0 +1,44 @@
+{
+    "relationships": [
+        {
+            "name": "Lemmy",
+            "href": "https://www.whosdatedwho.com/dating/lemmy",
+            "relationship_type": 2,
+            "start_date": "1967",
+            "end_date": "1967",
+            "length": "-",
+            "start_months_since_1900": 804,
+            "end_months_since_1900": 804,
+            "length_in_months": -1
+        },
+        {
+            "name": "John Lennon",
+            "href": "https://www.whosdatedwho.com/dating/john-lennon",
+            "relationship_type": 2,
+            "start_date": "1960",
+            "end_date": "Aug 1962",
+            "length": "2 years",
+            "start_months_since_1900": 720,
+            "end_months_since_1900": 751,
+            "length_in_months": 24
+        }
+    ],
+    "details": {
+        "First Name": "Patricia",
+        "Middle Name": "NA",
+        "Last Name": "Inder",
+        "Maiden Name": "NA",
+        "Full Name at Birth": "Patricia Inder",
+        "Alternative Name": "NA",
+        "Birthday": "NA",
+        "Birthplace": "United Kingdom",
+        "Height": "NA",
+        "Weight": "NA",
+        "Zodiac Sign": "2",
+        "Sexuality": "Straight",
+        "Religion": "1",
+        "Ethnicity": "6",
+        "Nationality": "8",
+        "Occupation": "18"
+    }
+}

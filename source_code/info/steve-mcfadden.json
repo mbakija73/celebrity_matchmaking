@@ -1,0 +1,88 @@
+{
+    "relationships": [
+        {
+            "name": "Rachel Sidwell",
+            "href": "https://www.whosdatedwho.com/dating/rachel-sidwell",
+            "relationship_type": 2,
+            "start_date": "2008",
+            "end_date": "Aug 2009",
+            "length": "1 year",
+            "start_months_since_1900": 1296,
+            "end_months_since_1900": 1315,
+            "length_in_months": 12
+        },
+        {
+            "name": "Gemma Storey",
+            "href": "https://www.whosdatedwho.com/dating/gemma-storey",
+            "relationship_type": 3,
+            "start_date": "Sep 2007",
+            "end_date": "Sep 2007",
+            "length": "-",
+            "start_months_since_1900": 1292,
+            "end_months_since_1900": 1292,
+            "length_in_months": -1
+        },
+        {
+            "name": "Lucy Benjamin",
+            "href": "https://www.whosdatedwho.com/dating/lucy-benjamin",
+            "relationship_type": 2,
+            "start_date": "1999",
+            "end_date": "2003",
+            "length": "4 years",
+            "start_months_since_1900": 1188,
+            "end_months_since_1900": 1236,
+            "length_in_months": 48
+        },
+        {
+            "name": "Sue Marshall",
+            "href": "https://www.whosdatedwho.com/dating/sue-marshall",
+            "relationship_type": 2,
+            "start_date": "",
+            "end_date": "",
+            "length": "-",
+            "start_months_since_1900": -1,
+            "end_months_since_1900": -1,
+            "length_in_months": -1
+        },
+        {
+            "name": "Angela Bostock",
+            "href": "https://www.whosdatedwho.com/dating/angela-bostock",
+            "relationship_type": 2,
+            "start_date": "",
+            "end_date": "",
+            "length": "-",
+            "start_months_since_1900": -1,
+            "end_months_since_1900": -1,
+            "length_in_months": -1
+        },
+        {
+            "name": "Samantha Fox",
+            "href": "https://www.whosdatedwho.com/dating/samantha-fox",
+            "relationship_type": 2,
+            "start_date": "",
+            "end_date": "",
+            "length": "-",
+            "start_months_since_1900": -1,
+            "end_months_since_1900": -1,
+            "length_in_months": -1
+        }
+    ],
+    "details": {
+        "First Name": "Steve",
+        "Middle Name": "NA",
+        "Last Name": "McFadden",
+        "Maiden Name": "NA",
+        "Full Name at Birth": "Stephen Reid",
+        "Alternative Name": "NA",
+        "Birthday": "1959",
+        "Birthplace": "UK",
+        "Height": "173",
+        "Weight": "NA",
+        "Zodiac Sign": "1",
+        "Sexuality": "Straight",
+        "Religion": "1",
+        "Ethnicity": "6",
+        "Nationality": "8",
+        "Occupation": "8"
+    }
+}

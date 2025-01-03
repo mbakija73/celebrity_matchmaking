@@ -1,0 +1,44 @@
+{
+    "relationships": [
+        {
+            "name": "DDG",
+            "href": "https://www.whosdatedwho.com/dating/ddg-rapper",
+            "relationship_type": 2,
+            "start_date": "2019",
+            "end_date": "2019",
+            "length": "-",
+            "start_months_since_1900": 1428,
+            "end_months_since_1900": 1428,
+            "length_in_months": -1
+        },
+        {
+            "name": "Jack Gilinsky",
+            "href": "https://www.whosdatedwho.com/dating/jack-gilinsky",
+            "relationship_type": 2,
+            "start_date": "2018",
+            "end_date": "2018",
+            "length": "-",
+            "start_months_since_1900": 1416,
+            "end_months_since_1900": 1416,
+            "length_in_months": -1
+        }
+    ],
+    "details": {
+        "First Name": "Tiana",
+        "Middle Name": "NA",
+        "Last Name": "Musarra",
+        "Maiden Name": "NA",
+        "Full Name at Birth": "Tiana Musarra",
+        "Alternative Name": "Tiana, Tiana Musarra",
+        "Birthday": "1997",
+        "Birthplace": "USA",
+        "Height": "163",
+        "Weight": "128lbs (58 kg)",
+        "Zodiac Sign": "8",
+        "Sexuality": "Straight",
+        "Religion": "18",
+        "Ethnicity": "8",
+        "Nationality": "91",
+        "Occupation": "11"
+    }
+}

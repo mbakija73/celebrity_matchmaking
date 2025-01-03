@@ -1,0 +1,77 @@
+{
+    "relationships": [
+        {
+            "name": "Jason Derulo",
+            "href": "https://www.whosdatedwho.com/dating/jason-derulo",
+            "relationship_type": 2,
+            "start_date": "Apr 2020",
+            "end_date": "Sep 2021",
+            "length": "1 year",
+            "start_months_since_1900": 1443,
+            "end_months_since_1900": 1460,
+            "length_in_months": 12
+        },
+        {
+            "name": "Matt Barnes",
+            "href": "https://www.whosdatedwho.com/dating/matt-barnes",
+            "relationship_type": 2,
+            "start_date": "Jul 2017",
+            "end_date": "Nov 2017",
+            "length": "4 months",
+            "start_months_since_1900": 1410,
+            "end_months_since_1900": 1414,
+            "length_in_months": 4
+        },
+        {
+            "name": "Antonio Brown",
+            "href": "https://www.whosdatedwho.com/dating/antonio-brown",
+            "relationship_type": 2,
+            "start_date": "Mar 2017",
+            "end_date": "Apr 2017",
+            "length": "1 month",
+            "start_months_since_1900": 1406,
+            "end_months_since_1900": 1407,
+            "length_in_months": 1
+        },
+        {
+            "name": "Jesse Lingard",
+            "href": "https://www.whosdatedwho.com/dating/jesse-lingard",
+            "relationship_type": 2,
+            "start_date": "2017",
+            "end_date": "2018",
+            "length": "1 year",
+            "start_months_since_1900": 1404,
+            "end_months_since_1900": 1416,
+            "length_in_months": 12
+        },
+        {
+            "name": "Nick Cannon",
+            "href": "https://www.whosdatedwho.com/dating/nick-cannon",
+            "relationship_type": 2,
+            "start_date": "Jan 2016",
+            "end_date": "Mar 2017",
+            "length": "1 year",
+            "start_months_since_1900": 1392,
+            "end_months_since_1900": 1406,
+            "length_in_months": 12
+        }
+    ],
+    "details": {
+        "First Name": "Jena",
+        "Middle Name": "NA",
+        "Last Name": "Frumes",
+        "Maiden Name": "Frum\u00e8s",
+        "Full Name at Birth": "Jena Frum\u00e8s",
+        "Alternative Name": "Jena Frumes, Jena",
+        "Birthday": "1993",
+        "Birthplace": "USA",
+        "Height": "163",
+        "Weight": "114lbs (52 kg)",
+        "Zodiac Sign": "11",
+        "Sexuality": "Straight",
+        "Religion": "18",
+        "Ethnicity": "8",
+        "Nationality": "91",
+        "Occupation": "8"
+    }
+}

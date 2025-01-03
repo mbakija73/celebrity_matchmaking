@@ -1,0 +1,88 @@
+{
+    "relationships": [
+        {
+            "name": "Larry Marchiano",
+            "href": "https://www.whosdatedwho.com/dating/larry-marchiano",
+            "relationship_type": 4,
+            "start_date": "1974",
+            "end_date": "1996",
+            "length": "22 years",
+            "start_months_since_1900": 888,
+            "end_months_since_1900": 1152,
+            "length_in_months": 264
+        },
+        {
+            "name": "David Winters",
+            "href": "https://www.whosdatedwho.com/dating/david-winters",
+            "relationship_type": 2,
+            "start_date": "1973",
+            "end_date": "1975",
+            "length": "2 years",
+            "start_months_since_1900": 876,
+            "end_months_since_1900": 900,
+            "length_in_months": 24
+        },
+        {
+            "name": "Sammy Davis Jr.",
+            "href": "https://www.whosdatedwho.com/dating/sammy-davis-jr",
+            "relationship_type": 2,
+            "start_date": "1972",
+            "end_date": "1972",
+            "length": "-",
+            "start_months_since_1900": 864,
+            "end_months_since_1900": 864,
+            "length_in_months": -1
+        },
+        {
+            "name": "Chuck Traynor",
+            "href": "https://www.whosdatedwho.com/dating/chuck-traynor",
+            "relationship_type": 4,
+            "start_date": "1970",
+            "end_date": "1974",
+            "length": "4 years",
+            "start_months_since_1900": 840,
+            "end_months_since_1900": 888,
+            "length_in_months": 48
+        },
+        {
+            "name": "Riki Rachtman",
+            "href": "https://www.whosdatedwho.com/dating/riki-rachtman",
+            "relationship_type": 2,
+            "start_date": "",
+            "end_date": "",
+            "length": "-",
+            "start_months_since_1900": -1,
+            "end_months_since_1900": -1,
+            "length_in_months": -1
+        },
+        {
+            "name": "Roy Rogers",
+            "href": "https://www.whosdatedwho.com/dating/roy-rogers",
+            "relationship_type": 1,
+            "start_date": "",
+            "end_date": "",
+            "length": "-",
+            "start_months_since_1900": -1,
+            "end_months_since_1900": -1,
+            "length_in_months": -1
+        }
+    ],
+    "details": {
+        "First Name": "Linda",
+        "Middle Name": "Susan",
+        "Last Name": "Boreman",
+        "Maiden Name": "NA",
+        "Full Name at Birth": "Linda Susan Boreman",
+        "Alternative Name": "Miss Holy Holy, Linda Lovelace, Linda Traynor, Linda Marchiano",
+        "Birthday": "1949",
+        "Birthplace": "USA",
+        "Height": "173",
+        "Weight": "NA",
+        "Zodiac Sign": "13",
+        "Sexuality": "Straight",
+        "Religion": "36",
+        "Ethnicity": "6",
+        "Nationality": "91",
+        "Occupation": "16"
+    }
+}

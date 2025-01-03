@@ -1,0 +1,66 @@
+{
+    "relationships": [
+        {
+            "name": "Buddy Lee",
+            "href": "https://www.whosdatedwho.com/dating/buddy-lee",
+            "relationship_type": 4,
+            "start_date": "1961",
+            "end_date": "1970",
+            "length": "9 years",
+            "start_months_since_1900": 732,
+            "end_months_since_1900": 840,
+            "length_in_months": 108
+        },
+        {
+            "name": "Hank Williams",
+            "href": "https://www.whosdatedwho.com/dating/hank-williams",
+            "relationship_type": 2,
+            "start_date": "1952",
+            "end_date": "1952",
+            "length": "-",
+            "start_months_since_1900": 624,
+            "end_months_since_1900": 624,
+            "length_in_months": -1
+        },
+        {
+            "name": "Walter Carroll",
+            "href": "https://www.whosdatedwho.com/dating/walter-carroll",
+            "relationship_type": 4,
+            "start_date": "1936",
+            "end_date": "1939",
+            "length": "3 years",
+            "start_months_since_1900": 432,
+            "end_months_since_1900": 468,
+            "length_in_months": 36
+        },
+        {
+            "name": "Johnny Long",
+            "href": "https://www.whosdatedwho.com/dating/johnny-long",
+            "relationship_type": 4,
+            "start_date": "",
+            "end_date": "",
+            "length": "-",
+            "start_months_since_1900": -1,
+            "end_months_since_1900": -1,
+            "length_in_months": -1
+        }
+    ],
+    "details": {
+        "First Name": "Mary",
+        "Middle Name": "Lillian",
+        "Last Name": "Ellison",
+        "Maiden Name": "NA",
+        "Full Name at Birth": "Mary Lillian Ellison",
+        "Alternative Name": "Slave Girl Moolah, The Fabulous Moolah, The Spider, Mary Lillian Ellison, The Spider Lady",
+        "Birthday": "1923",
+        "Birthplace": "USA",
+        "Height": "168",
+        "Weight": "138lbs (63 kg)",
+        "Zodiac Sign": "8",
+        "Sexuality": "NA",
+        "Religion": "1",
+        "Ethnicity": "6",
+        "Nationality": "91",
+        "Occupation": "2"
+    }
+}

@@ -1,0 +1,33 @@
+{
+    "relationships": [
+        {
+            "name": "Quincy Jones",
+            "href": "https://www.whosdatedwho.com/dating/quincy-jones",
+            "relationship_type": 3,
+            "start_date": "May 2006",
+            "end_date": "Aug 2006",
+            "length": "3 months",
+            "start_months_since_1900": 1276,
+            "end_months_since_1900": 1279,
+            "length_in_months": 3
+        }
+    ],
+    "details": {
+        "First Name": "Heba",
+        "Middle Name": "NA",
+        "Last Name": "Elawadi",
+        "Maiden Name": "NA",
+        "Full Name at Birth": "NA",
+        "Alternative Name": "NA",
+        "Birthday": "NA",
+        "Birthplace": "NA",
+        "Height": "NA",
+        "Weight": "NA",
+        "Zodiac Sign": "2",
+        "Sexuality": "NA",
+        "Religion": "1",
+        "Ethnicity": "1",
+        "Nationality": "65",
+        "Occupation": "19"
+    }
+}

@@ -1,0 +1,44 @@
+{
+    "relationships": [
+        {
+            "name": "Carol Castro",
+            "href": "https://www.whosdatedwho.com/dating/carol-castro",
+            "relationship_type": 4,
+            "start_date": "Jul 2012",
+            "end_date": "May 2015",
+            "length": "2 years",
+            "start_months_since_1900": 1350,
+            "end_months_since_1900": 1384,
+            "length_in_months": 24
+        },
+        {
+            "name": "Luana Piovani",
+            "href": "https://www.whosdatedwho.com/dating/luana-piovani",
+            "relationship_type": 2,
+            "start_date": "Mar 2007",
+            "end_date": "May 2007",
+            "length": "2 months",
+            "start_months_since_1900": 1286,
+            "end_months_since_1900": 1288,
+            "length_in_months": 2
+        }
+    ],
+    "details": {
+        "First Name": "Raphael",
+        "Middle Name": "NA",
+        "Last Name": "Sander",
+        "Maiden Name": "NA",
+        "Full Name at Birth": "NA",
+        "Alternative Name": "NA",
+        "Birthday": "1987",
+        "Birthplace": "Brazil",
+        "Height": "188",
+        "Weight": "154lbs (70 kg)",
+        "Zodiac Sign": "4",
+        "Sexuality": "Straight",
+        "Religion": "1",
+        "Ethnicity": "6",
+        "Nationality": "87",
+        "Occupation": "15"
+    }
+}

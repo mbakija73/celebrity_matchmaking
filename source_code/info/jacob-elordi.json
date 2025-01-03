@@ -1,0 +1,66 @@
+{
+    "relationships": [
+        {
+            "name": "Olivia Giannulli",
+            "href": "https://www.whosdatedwho.com/dating/olivia-giannulli",
+            "relationship_type": 2,
+            "start_date": "Dec 2021",
+            "end_date": "present",
+            "length": "2 years",
+            "start_months_since_1900": 1463,
+            "end_months_since_1900": -1,
+            "length_in_months": 24
+        },
+        {
+            "name": "Kaia Gerber",
+            "href": "https://www.whosdatedwho.com/dating/kaia-gerber",
+            "relationship_type": 2,
+            "start_date": "Sep 2020",
+            "end_date": "Nov 2021",
+            "length": "1 year",
+            "start_months_since_1900": 1448,
+            "end_months_since_1900": 1462,
+            "length_in_months": 12
+        },
+        {
+            "name": "Zendaya",
+            "href": "https://www.whosdatedwho.com/dating/zendaya",
+            "relationship_type": 2,
+            "start_date": "2019",
+            "end_date": "2020",
+            "length": "1 year",
+            "start_months_since_1900": 1428,
+            "end_months_since_1900": 1440,
+            "length_in_months": 12
+        },
+        {
+            "name": "Joey King",
+            "href": "https://www.whosdatedwho.com/dating/joey-king",
+            "relationship_type": 2,
+            "start_date": "Jan 2017",
+            "end_date": "Nov 2018",
+            "length": "1 year",
+            "start_months_since_1900": 1404,
+            "end_months_since_1900": 1426,
+            "length_in_months": 12
+        }
+    ],
+    "details": {
+        "First Name": "Jacob",
+        "Middle Name": "Nataniel",
+        "Last Name": "Elordi",
+        "Maiden Name": "NA",
+        "Full Name at Birth": "Jacob Nathaniel Elordi",
+        "Alternative Name": "NA",
+        "Birthday": "1997",
+        "Birthplace": "Australia",
+        "Height": "196",
+        "Weight": "NA",
+        "Zodiac Sign": "8",
+        "Sexuality": "Straight",
+        "Religion": "1",
+        "Ethnicity": "6",
+        "Nationality": "135",
+        "Occupation": "8"
+    }
+}

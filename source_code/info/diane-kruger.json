@@ -1,0 +1,66 @@
+{
+    "relationships": [
+        {
+            "name": "Norman Reedus",
+            "href": "https://www.whosdatedwho.com/dating/norman-reedus",
+            "relationship_type": 2,
+            "start_date": "Jul 2016",
+            "end_date": "present",
+            "length": "8 years",
+            "start_months_since_1900": 1398,
+            "end_months_since_1900": -1,
+            "length_in_months": 96
+        },
+        {
+            "name": "Joshua Jackson",
+            "href": "https://www.whosdatedwho.com/dating/joshua-jackson",
+            "relationship_type": 2,
+            "start_date": "Apr 2006",
+            "end_date": "Jul 2016",
+            "length": "10 years",
+            "start_months_since_1900": 1275,
+            "end_months_since_1900": 1398,
+            "length_in_months": 120
+        },
+        {
+            "name": "Chris Heinz",
+            "href": "https://www.whosdatedwho.com/dating/chris-heinz",
+            "relationship_type": 2,
+            "start_date": "2004",
+            "end_date": "2005",
+            "length": "1 year",
+            "start_months_since_1900": 1248,
+            "end_months_since_1900": 1260,
+            "length_in_months": 12
+        },
+        {
+            "name": "Guillaume Canet",
+            "href": "https://www.whosdatedwho.com/dating/guillaume-canet",
+            "relationship_type": 4,
+            "start_date": "1999",
+            "end_date": "2006",
+            "length": "7 years",
+            "start_months_since_1900": 1188,
+            "end_months_since_1900": 1272,
+            "length_in_months": 84
+        }
+    ],
+    "details": {
+        "First Name": "Diane",
+        "Middle Name": "NA",
+        "Last Name": "Kruger",
+        "Maiden Name": "NA",
+        "Full Name at Birth": "Diane Heidkr\u00fcger",
+        "Alternative Name": "Diane Heidkr\u00fcger, Diane Kruger",
+        "Birthday": "1976",
+        "Birthplace": "Germany",
+        "Height": "170",
+        "Weight": "NA",
+        "Zodiac Sign": "8",
+        "Sexuality": "Straight",
+        "Religion": "1",
+        "Ethnicity": "6",
+        "Nationality": "55",
+        "Occupation": "8"
+    }
+}

@@ -1,0 +1,77 @@
+{
+    "relationships": [
+        {
+            "name": "Simon Jenkins",
+            "href": "https://www.whosdatedwho.com/dating/simon-jenkins",
+            "relationship_type": 4,
+            "start_date": "1977",
+            "end_date": "2009",
+            "length": "32 years",
+            "start_months_since_1900": 924,
+            "end_months_since_1900": 1308,
+            "length_in_months": 384
+        },
+        {
+            "name": "Rex Harrison",
+            "href": "https://www.whosdatedwho.com/dating/rex-harrison",
+            "relationship_type": 3,
+            "start_date": "1976",
+            "end_date": "1976",
+            "length": "-",
+            "start_months_since_1900": 912,
+            "end_months_since_1900": 912,
+            "length_in_months": -1
+        },
+        {
+            "name": "Tom Mankiewicz",
+            "href": "https://www.whosdatedwho.com/dating/tom-mankiewicz",
+            "relationship_type": 2,
+            "start_date": "Mar 1968",
+            "end_date": "Jul 1968",
+            "length": "4 months",
+            "start_months_since_1900": 818,
+            "end_months_since_1900": 822,
+            "length_in_months": 4
+        },
+        {
+            "name": "David Hemmings",
+            "href": "https://www.whosdatedwho.com/dating/david-hemmings",
+            "relationship_type": 4,
+            "start_date": "Mar 1967",
+            "end_date": "1975",
+            "length": "7 years",
+            "start_months_since_1900": 806,
+            "end_months_since_1900": 900,
+            "length_in_months": 84
+        },
+        {
+            "name": "Roger Corman",
+            "href": "https://www.whosdatedwho.com/dating/roger-corman",
+            "relationship_type": 2,
+            "start_date": "Mar 1966",
+            "end_date": "Apr 1966",
+            "length": "1 month",
+            "start_months_since_1900": 794,
+            "end_months_since_1900": 795,
+            "length_in_months": 1
+        }
+    ],
+    "details": {
+        "First Name": "Gayle",
+        "Middle Name": "NA",
+        "Last Name": "NA",
+        "Maiden Name": "Hunnicutt",
+        "Full Name at Birth": "Virginia Gayle Hunnicutt",
+        "Alternative Name": "NA",
+        "Birthday": "1943",
+        "Birthplace": "USA",
+        "Height": "170",
+        "Weight": "NA",
+        "Zodiac Sign": "9",
+        "Sexuality": "Straight",
+        "Religion": "1",
+        "Ethnicity": "6",
+        "Nationality": "91",
+        "Occupation": "8"
+    }
+}

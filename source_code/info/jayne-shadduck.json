@@ -1,0 +1,66 @@
+{
+    "relationships": [
+        {
+            "name": "James Roosevelt",
+            "href": "https://www.whosdatedwho.com/dating/james-roosevelt",
+            "relationship_type": 2,
+            "start_date": "1943",
+            "end_date": "1944",
+            "length": "1 year",
+            "start_months_since_1900": 516,
+            "end_months_since_1900": 528,
+            "length_in_months": 12
+        },
+        {
+            "name": "Richard Church Durant",
+            "href": "https://www.whosdatedwho.com/dating/richard-church-durant",
+            "relationship_type": 4,
+            "start_date": "1939",
+            "end_date": "1943",
+            "length": "4 years",
+            "start_months_since_1900": 468,
+            "end_months_since_1900": 516,
+            "length_in_months": 48
+        },
+        {
+            "name": "Henry Topping",
+            "href": "https://www.whosdatedwho.com/dating/henry-topping",
+            "relationship_type": 4,
+            "start_date": "1934",
+            "end_date": "1938",
+            "length": "4 years",
+            "start_months_since_1900": 408,
+            "end_months_since_1900": 456,
+            "length_in_months": 48
+        },
+        {
+            "name": "Jack Kirkland",
+            "href": "https://www.whosdatedwho.com/dating/jack-kirkland",
+            "relationship_type": 4,
+            "start_date": "Mar 1933",
+            "end_date": "Jul 1935",
+            "length": "2 years",
+            "start_months_since_1900": 398,
+            "end_months_since_1900": 426,
+            "length_in_months": 24
+        }
+    ],
+    "details": {
+        "First Name": "Jayne",
+        "Middle Name": "NA",
+        "Last Name": "Shadduck",
+        "Maiden Name": "NA",
+        "Full Name at Birth": "Jayne Shadduck",
+        "Alternative Name": "Jayne Shadduck-Durant, Jayne Durant, Jayne S Durant",
+        "Birthday": "1915",
+        "Birthplace": "Washington",
+        "Height": "NA",
+        "Weight": "NA",
+        "Zodiac Sign": "8",
+        "Sexuality": "Straight",
+        "Religion": "1",
+        "Ethnicity": "6",
+        "Nationality": "91",
+        "Occupation": "8"
+    }
+}

@@ -1,0 +1,55 @@
+{
+    "relationships": [
+        {
+            "name": "Pat McGlynn",
+            "href": "https://www.whosdatedwho.com/dating/pat-mcglynn",
+            "relationship_type": 4,
+            "start_date": "1988",
+            "end_date": "present",
+            "length": "36 years",
+            "start_months_since_1900": 1056,
+            "end_months_since_1900": -1,
+            "length_in_months": 432
+        },
+        {
+            "name": "John Taylor",
+            "href": "https://www.whosdatedwho.com/dating/john-taylor",
+            "relationship_type": 2,
+            "start_date": "1983",
+            "end_date": "1985",
+            "length": "2 years",
+            "start_months_since_1900": 996,
+            "end_months_since_1900": 1020,
+            "length_in_months": 24
+        },
+        {
+            "name": "Cozy Powell",
+            "href": "https://www.whosdatedwho.com/dating/cozy-powell",
+            "relationship_type": 2,
+            "start_date": "",
+            "end_date": "",
+            "length": "-",
+            "start_months_since_1900": -1,
+            "end_months_since_1900": -1,
+            "length_in_months": -1
+        }
+    ],
+    "details": {
+        "First Name": "Janine",
+        "Middle Name": "NA",
+        "Last Name": "Andrews",
+        "Maiden Name": "NA",
+        "Full Name at Birth": "Janine James",
+        "Alternative Name": "Penthouse Pet of the Month Miss March 1982, Sharon Axley, Janine Fairbrother, Janine James",
+        "Birthday": "1960",
+        "Birthplace": "England",
+        "Height": "175",
+        "Weight": "NA",
+        "Zodiac Sign": "5",
+        "Sexuality": "Straight",
+        "Religion": "1",
+        "Ethnicity": "6",
+        "Nationality": "8",
+        "Occupation": "16"
+    }
+}

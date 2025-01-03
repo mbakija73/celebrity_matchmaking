@@ -1,0 +1,44 @@
+{
+    "relationships": [
+        {
+            "name": "Duke Worne",
+            "href": "https://www.whosdatedwho.com/dating/duke-worne",
+            "relationship_type": 4,
+            "start_date": "1930",
+            "end_date": "Oct 0193",
+            "length": "1737 years",
+            "start_months_since_1900": 360,
+            "end_months_since_1900": -20475,
+            "length_in_months": -1
+        },
+        {
+            "name": "Jack Dougherty",
+            "href": "https://www.whosdatedwho.com/dating/jack-dougherty",
+            "relationship_type": 4,
+            "start_date": "1926",
+            "end_date": "1928",
+            "length": "2 years",
+            "start_months_since_1900": 312,
+            "end_months_since_1900": 336,
+            "length_in_months": 24
+        }
+    ],
+    "details": {
+        "First Name": "Virginia",
+        "Middle Name": "Brown",
+        "Last Name": "Faire",
+        "Maiden Name": "Labuna",
+        "Full Name at Birth": "Virginia Labuna",
+        "Alternative Name": "Virginia Faire Brown, Virginia Brown Fair, Virginia Browne Faire",
+        "Birthday": "1904",
+        "Birthplace": "USA",
+        "Height": "160",
+        "Weight": "NA",
+        "Zodiac Sign": "8",
+        "Sexuality": "Straight",
+        "Religion": "1",
+        "Ethnicity": "6",
+        "Nationality": "91",
+        "Occupation": "8"
+    }
+}

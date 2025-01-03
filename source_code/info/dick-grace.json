@@ -1,0 +1,33 @@
+{
+    "relationships": [
+        {
+            "name": "Alice White",
+            "href": "https://www.whosdatedwho.com/dating/alice-white",
+            "relationship_type": 2,
+            "start_date": "",
+            "end_date": "",
+            "length": "-",
+            "start_months_since_1900": -1,
+            "end_months_since_1900": -1,
+            "length_in_months": -1
+        }
+    ],
+    "details": {
+        "First Name": "Dick",
+        "Middle Name": "NA",
+        "Last Name": "Grace",
+        "Maiden Name": "NA",
+        "Full Name at Birth": "Richard Virgil Grace",
+        "Alternative Name": "Dick Grace, Lucky\" Dick Grace",
+        "Birthday": "1898",
+        "Birthplace": "NA",
+        "Height": "160",
+        "Weight": "117lbs (53 kg)",
+        "Zodiac Sign": "13",
+        "Sexuality": "Straight",
+        "Religion": "1",
+        "Ethnicity": "6",
+        "Nationality": "91",
+        "Occupation": "9"
+    }
+}

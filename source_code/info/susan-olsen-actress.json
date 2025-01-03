@@ -1,0 +1,66 @@
+{
+    "relationships": [
+        {
+            "name": "Mitch Markwell",
+            "href": "https://www.whosdatedwho.com/dating/mitch-markwell",
+            "relationship_type": 4,
+            "start_date": "Aug 1994",
+            "end_date": "Mar 2004",
+            "length": "9 years",
+            "start_months_since_1900": 1135,
+            "end_months_since_1900": 1250,
+            "length_in_months": 108
+        },
+        {
+            "name": "Steve Ventimiglia",
+            "href": "https://www.whosdatedwho.com/dating/steve-ventimiglia",
+            "relationship_type": 4,
+            "start_date": "Aug 1987",
+            "end_date": "1990",
+            "length": "2 years",
+            "start_months_since_1900": 1051,
+            "end_months_since_1900": 1080,
+            "length_in_months": 24
+        },
+        {
+            "name": "Mike Lookinland",
+            "href": "https://www.whosdatedwho.com/dating/mike-lookinland",
+            "relationship_type": 3,
+            "start_date": "1970",
+            "end_date": "1970",
+            "length": "-",
+            "start_months_since_1900": 840,
+            "end_months_since_1900": 840,
+            "length_in_months": -1
+        },
+        {
+            "name": "Danny Bonaduce",
+            "href": "https://www.whosdatedwho.com/dating/danny-bonaduce",
+            "relationship_type": 3,
+            "start_date": "",
+            "end_date": "",
+            "length": "-",
+            "start_months_since_1900": -1,
+            "end_months_since_1900": -1,
+            "length_in_months": -1
+        }
+    ],
+    "details": {
+        "First Name": "Susan",
+        "Middle Name": "Marie",
+        "Last Name": "NA",
+        "Maiden Name": "Olsen",
+        "Full Name at Birth": "Susan Marie Olsen",
+        "Alternative Name": "Susan Marie Olsen",
+        "Birthday": "1961",
+        "Birthplace": "California USA",
+        "Height": "160",
+        "Weight": "NA",
+        "Zodiac Sign": "12",
+        "Sexuality": "Straight",
+        "Religion": "1",
+        "Ethnicity": "6",
+        "Nationality": "91",
+        "Occupation": "8"
+    }
+}

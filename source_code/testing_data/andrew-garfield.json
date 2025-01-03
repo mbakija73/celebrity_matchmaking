@@ -1,0 +1,86 @@
+{
+    "relationships": [
+        {
+            "name": "Kate Tomas",
+            "href": "https://www.whosdatedwho.com/dating/kate-tomas",
+            "relationship_type": "Relationship",
+            "start_date": "Mar 2024",
+            "end_date": "present",
+            "length": "7 months"
+        },
+        {
+            "name": "Phoebe Dynevor",
+            "href": "https://www.whosdatedwho.com/dating/phoebe-dynevor",
+            "relationship_type": "Relationship",
+            "start_date": "Nov 2022",
+            "end_date": "2022",
+            "length": "10 months"
+        },
+        {
+            "name": "Alyssa Miller",
+            "href": "https://www.whosdatedwho.com/dating/alyssa-miller",
+            "relationship_type": "Relationship",
+            "start_date": "May 2021",
+            "end_date": "Mar 2022",
+            "length": "10 months"
+        },
+        {
+            "name": "Christine Gabel",
+            "href": "https://www.whosdatedwho.com/dating/christine-gabel",
+            "relationship_type": "Relationship",
+            "start_date": "Jun 2019",
+            "end_date": "Aug 2019",
+            "length": "2 months"
+        },
+        {
+            "name": "Rita Ora",
+            "href": "https://www.whosdatedwho.com/dating/rita-ora",
+            "relationship_type": "Relationship",
+            "start_date": "Oct 2018",
+            "end_date": "Jan 2019",
+            "length": "3 months"
+        },
+        {
+            "name": "Susie Abromeit",
+            "href": "https://www.whosdatedwho.com/dating/susie-abromeit",
+            "relationship_type": "Encounter",
+            "start_date": "Sep 2018",
+            "end_date": "Oct 2018",
+            "length": "1 month"
+        },
+        {
+            "name": "Emma Stone",
+            "href": "https://www.whosdatedwho.com/dating/emma-stone",
+            "relationship_type": "Relationship",
+            "start_date": "Jun 2011",
+            "end_date": "Oct 2015",
+            "length": "4 years"
+        },
+        {
+            "name": "Shannon Woodward",
+            "href": "https://www.whosdatedwho.com/dating/shannon-woodward",
+            "relationship_type": "Relationship",
+            "start_date": "Mar 2008",
+            "end_date": "May 2011",
+            "length": "3 years"
+        }
+    ],
+    "details": {
+        "First Name": "Andrew",
+        "Middle Name": "Russell",
+        "Last Name": "Garfield",
+        "Maiden Name": "NA",
+        "Full Name at Birth": "Andrew Russell Garfield",
+        "Alternative Name": "Andy, Andrew Russell Garfield, Andrew Garfield",
+        "Birthday": "20th August, 1983",
+        "Birthplace": "Los Angeles, California, USA",
+        "Height": "5' 10\u00bd\" (179 cm)",
+        "Weight": "163lbs (74 kg)",
+        "Zodiac Sign": "Leo",
+        "Sexuality": "Straight",
+        "Religion": "Jewish",
+        "Ethnicity": "White",
+        "Nationality": "British",
+        "Occupation": "Actor"
+    }
+}

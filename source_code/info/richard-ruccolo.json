@@ -1,0 +1,44 @@
+{
+    "relationships": [
+        {
+            "name": "Lauren Rees",
+            "href": "https://www.whosdatedwho.com/dating/lauren-rees",
+            "relationship_type": 4,
+            "start_date": "2008",
+            "end_date": "",
+            "length": "-",
+            "start_months_since_1900": 1296,
+            "end_months_since_1900": -1,
+            "length_in_months": -1
+        },
+        {
+            "name": "Tiffani Thiessen",
+            "href": "https://www.whosdatedwho.com/dating/tiffani-thiessen",
+            "relationship_type": 2,
+            "start_date": "Jan 2000",
+            "end_date": "Apr 2003",
+            "length": "3 years",
+            "start_months_since_1900": 1200,
+            "end_months_since_1900": 1239,
+            "length_in_months": 36
+        }
+    ],
+    "details": {
+        "First Name": "Richard",
+        "Middle Name": "Robert",
+        "Last Name": "Ruccolo",
+        "Maiden Name": "NA",
+        "Full Name at Birth": "Richard Robert Ruccolo",
+        "Alternative Name": "NA",
+        "Birthday": "1972",
+        "Birthplace": "NJ",
+        "Height": "180",
+        "Weight": "NA",
+        "Zodiac Sign": "1",
+        "Sexuality": "Straight",
+        "Religion": "1",
+        "Ethnicity": "6",
+        "Nationality": "91",
+        "Occupation": "8"
+    }
+}

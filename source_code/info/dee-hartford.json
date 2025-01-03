@@ -1,0 +1,55 @@
+{
+    "relationships": [
+        {
+            "name": "Stuart Cramer",
+            "href": "https://www.whosdatedwho.com/dating/stuart-cramer",
+            "relationship_type": 4,
+            "start_date": "1971",
+            "end_date": "",
+            "length": "-",
+            "start_months_since_1900": 852,
+            "end_months_since_1900": -1,
+            "length_in_months": -1
+        },
+        {
+            "name": "James T. Aubrey",
+            "href": "https://www.whosdatedwho.com/dating/james-t-aubrey",
+            "relationship_type": 2,
+            "start_date": "May 1962",
+            "end_date": "Aug 1962",
+            "length": "3 months",
+            "start_months_since_1900": 748,
+            "end_months_since_1900": 751,
+            "length_in_months": 3
+        },
+        {
+            "name": "Howard Hawks",
+            "href": "https://www.whosdatedwho.com/dating/howard-hawks",
+            "relationship_type": 4,
+            "start_date": "1952",
+            "end_date": "1959",
+            "length": "7 years",
+            "start_months_since_1900": 624,
+            "end_months_since_1900": 708,
+            "length_in_months": 84
+        }
+    ],
+    "details": {
+        "First Name": "Dee",
+        "Middle Name": "NA",
+        "Last Name": "Hartford",
+        "Maiden Name": "Higgins",
+        "Full Name at Birth": "Donna B. Higgins",
+        "Alternative Name": "NA",
+        "Birthday": "1928",
+        "Birthplace": "Utah",
+        "Height": "NA",
+        "Weight": "NA",
+        "Zodiac Sign": "3",
+        "Sexuality": "Straight",
+        "Religion": "20",
+        "Ethnicity": "6",
+        "Nationality": "91",
+        "Occupation": "8"
+    }
+}

@@ -1,0 +1,55 @@
+{
+    "relationships": [
+        {
+            "name": "Matthew Johnston",
+            "href": "https://www.whosdatedwho.com/dating/matthew-johnston",
+            "relationship_type": 4,
+            "start_date": "1987",
+            "end_date": "present",
+            "length": "37 years",
+            "start_months_since_1900": 1044,
+            "end_months_since_1900": -1,
+            "length_in_months": 444
+        },
+        {
+            "name": "Ron Duguay",
+            "href": "https://www.whosdatedwho.com/dating/ron-duguay",
+            "relationship_type": 2,
+            "start_date": "1983",
+            "end_date": "1983",
+            "length": "-",
+            "start_months_since_1900": 996,
+            "end_months_since_1900": 996,
+            "length_in_months": -1
+        },
+        {
+            "name": "Kevin Kline",
+            "href": "https://www.whosdatedwho.com/dating/kevin-kline",
+            "relationship_type": 2,
+            "start_date": "1972",
+            "end_date": "1977",
+            "length": "5 years",
+            "start_months_since_1900": 864,
+            "end_months_since_1900": 924,
+            "length_in_months": 60
+        }
+    ],
+    "details": {
+        "First Name": "Patti",
+        "Middle Name": "Ann",
+        "Last Name": "Johnston",
+        "Maiden Name": "LuPone",
+        "Full Name at Birth": "Patti Ann LuPone",
+        "Alternative Name": "NA",
+        "Birthday": "1949",
+        "Birthplace": "USA",
+        "Height": "157",
+        "Weight": "130lbs (59 kg)",
+        "Zodiac Sign": "3",
+        "Sexuality": "Straight",
+        "Religion": "13",
+        "Ethnicity": "6",
+        "Nationality": "91",
+        "Occupation": "8"
+    }
+}

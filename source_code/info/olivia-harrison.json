@@ -1,0 +1,33 @@
+{
+    "relationships": [
+        {
+            "name": "George Harrison",
+            "href": "https://www.whosdatedwho.com/dating/george-harrison",
+            "relationship_type": 4,
+            "start_date": "Sep 1974",
+            "end_date": "Nov 2001",
+            "length": "27 years",
+            "start_months_since_1900": 896,
+            "end_months_since_1900": 1222,
+            "length_in_months": 324
+        }
+    ],
+    "details": {
+        "First Name": "Olivia",
+        "Middle Name": "NA",
+        "Last Name": "Harrison",
+        "Maiden Name": "Arias",
+        "Full Name at Birth": "Olivia Trinidad Arias",
+        "Alternative Name": "Olivia Harrison, Olivia Trinidad Harrison, Olivia Trinidad Arias, Olivia Arias",
+        "Birthday": "1948",
+        "Birthplace": "Mexico",
+        "Height": "NA",
+        "Weight": "NA",
+        "Zodiac Sign": "3",
+        "Sexuality": "Straight",
+        "Religion": "27",
+        "Ethnicity": "8",
+        "Nationality": "7",
+        "Occupation": "9"
+    }
+}

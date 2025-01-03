@@ -1,0 +1,66 @@
+{
+    "relationships": [
+        {
+            "name": "Bernard Sofronski",
+            "href": "https://www.whosdatedwho.com/dating/bernard-sofronski",
+            "relationship_type": 4,
+            "start_date": "1987",
+            "end_date": "present",
+            "length": "37 years",
+            "start_months_since_1900": 1044,
+            "end_months_since_1900": -1,
+            "length_in_months": 444
+        },
+        {
+            "name": "Lenny Hirshan",
+            "href": "https://www.whosdatedwho.com/dating/lenny-hirshan",
+            "relationship_type": 4,
+            "start_date": "1976",
+            "end_date": "1981",
+            "length": "5 years",
+            "start_months_since_1900": 912,
+            "end_months_since_1900": 972,
+            "length_in_months": 60
+        },
+        {
+            "name": "David Cassidy",
+            "href": "https://www.whosdatedwho.com/dating/david-cassidy",
+            "relationship_type": 3,
+            "start_date": "1974",
+            "end_date": "1974",
+            "length": "-",
+            "start_months_since_1900": 888,
+            "end_months_since_1900": 888,
+            "length_in_months": -1
+        },
+        {
+            "name": "Dale McRaven",
+            "href": "https://www.whosdatedwho.com/dating/dale-mcraven",
+            "relationship_type": 2,
+            "start_date": "1970",
+            "end_date": "1973",
+            "length": "3 years",
+            "start_months_since_1900": 840,
+            "end_months_since_1900": 876,
+            "length_in_months": 36
+        }
+    ],
+    "details": {
+        "First Name": "Susan",
+        "Middle Name": "Hallock",
+        "Last Name": "Dey",
+        "Maiden Name": "NA",
+        "Full Name at Birth": "Susan Hallock Dey",
+        "Alternative Name": "NA",
+        "Birthday": "1952",
+        "Birthplace": "USA",
+        "Height": "170",
+        "Weight": "NA",
+        "Zodiac Sign": "6",
+        "Sexuality": "Straight",
+        "Religion": "18",
+        "Ethnicity": "6",
+        "Nationality": "91",
+        "Occupation": "8"
+    }
+}

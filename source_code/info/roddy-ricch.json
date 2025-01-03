@@ -1,0 +1,55 @@
+{
+    "relationships": [
+        {
+            "name": "Saweetie",
+            "href": "https://www.whosdatedwho.com/dating/saweetie",
+            "relationship_type": 1,
+            "start_date": "Oct 2021",
+            "end_date": "Oct 2021",
+            "length": "-",
+            "start_months_since_1900": 1461,
+            "end_months_since_1900": 1461,
+            "length_in_months": -1
+        },
+        {
+            "name": "India Love",
+            "href": "https://www.whosdatedwho.com/dating/india-westbrook",
+            "relationship_type": 2,
+            "start_date": "Jan 2020",
+            "end_date": "Feb 2020",
+            "length": "1 month",
+            "start_months_since_1900": 1440,
+            "end_months_since_1900": 1441,
+            "length_in_months": 1
+        },
+        {
+            "name": "Allie Minati",
+            "href": "https://www.whosdatedwho.com/dating/allie-minati",
+            "relationship_type": 2,
+            "start_date": "",
+            "end_date": "present",
+            "length": "-",
+            "start_months_since_1900": -1,
+            "end_months_since_1900": -1,
+            "length_in_months": -1
+        }
+    ],
+    "details": {
+        "First Name": "Roddy",
+        "Middle Name": "NA",
+        "Last Name": "Ricch",
+        "Maiden Name": "NA",
+        "Full Name at Birth": "Rodrick Wayne Moore, Jr.",
+        "Alternative Name": "Roddy Ricch",
+        "Birthday": "1998",
+        "Birthplace": "USA",
+        "Height": "170",
+        "Weight": "143lbs (65 kg)",
+        "Zodiac Sign": "10",
+        "Sexuality": "Straight",
+        "Religion": "1",
+        "Ethnicity": "2",
+        "Nationality": "91",
+        "Occupation": "1"
+    }
+}

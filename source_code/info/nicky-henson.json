@@ -1,0 +1,55 @@
+{
+    "relationships": [
+        {
+            "name": "Una Stubbs",
+            "href": "https://www.whosdatedwho.com/dating/una-stubbs",
+            "relationship_type": 4,
+            "start_date": "1969",
+            "end_date": "1975",
+            "length": "6 years",
+            "start_months_since_1900": 828,
+            "end_months_since_1900": 900,
+            "length_in_months": 72
+        },
+        {
+            "name": "Marguerite Porter",
+            "href": "https://www.whosdatedwho.com/dating/marguerite-porter",
+            "relationship_type": 4,
+            "start_date": "",
+            "end_date": "",
+            "length": "-",
+            "start_months_since_1900": -1,
+            "end_months_since_1900": -1,
+            "length_in_months": -1
+        },
+        {
+            "name": "Susan Hampshire",
+            "href": "https://www.whosdatedwho.com/dating/susan-hampshire",
+            "relationship_type": 3,
+            "start_date": "",
+            "end_date": "",
+            "length": "-",
+            "start_months_since_1900": -1,
+            "end_months_since_1900": -1,
+            "length_in_months": -1
+        }
+    ],
+    "details": {
+        "First Name": "Nicky",
+        "Middle Name": "Victor",
+        "Last Name": "Henson",
+        "Maiden Name": "NA",
+        "Full Name at Birth": "Nicholas Victor Leslie Henson",
+        "Alternative Name": "NA",
+        "Birthday": "1945",
+        "Birthplace": "England",
+        "Height": "175",
+        "Weight": "NA",
+        "Zodiac Sign": "3",
+        "Sexuality": "Straight",
+        "Religion": "1",
+        "Ethnicity": "6",
+        "Nationality": "98",
+        "Occupation": "8"
+    }
+}

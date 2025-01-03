@@ -1,0 +1,33 @@
+{
+    "relationships": [
+        {
+            "name": "Aaron Carter",
+            "href": "https://www.whosdatedwho.com/dating/aaron-carter",
+            "relationship_type": 2,
+            "start_date": "Jun 2020",
+            "end_date": "Feb 2022",
+            "length": "1 year",
+            "start_months_since_1900": 1445,
+            "end_months_since_1900": 1465,
+            "length_in_months": 12
+        }
+    ],
+    "details": {
+        "First Name": "Melanie",
+        "Middle Name": "NA",
+        "Last Name": "Martin",
+        "Maiden Name": "NA",
+        "Full Name at Birth": "Melanie Martin",
+        "Alternative Name": "Melanie Martin",
+        "Birthday": "1992",
+        "Birthplace": "Bulgaria",
+        "Height": "168",
+        "Weight": "132lbs (60 kg)",
+        "Zodiac Sign": "4",
+        "Sexuality": "Straight",
+        "Religion": "18",
+        "Ethnicity": "6",
+        "Nationality": "19",
+        "Occupation": "11"
+    }
+}

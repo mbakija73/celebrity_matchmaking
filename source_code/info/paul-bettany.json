@@ -1,0 +1,55 @@
+{
+    "relationships": [
+        {
+            "name": "Jennifer Connelly",
+            "href": "https://www.whosdatedwho.com/dating/jennifer-connelly",
+            "relationship_type": 4,
+            "start_date": "Apr 2002",
+            "end_date": "present",
+            "length": "22 years",
+            "start_months_since_1900": 1227,
+            "end_months_since_1900": -1,
+            "length_in_months": 264
+        },
+        {
+            "name": "Laura Fraser",
+            "href": "https://www.whosdatedwho.com/dating/laura-fraser",
+            "relationship_type": 2,
+            "start_date": "Jan 2000",
+            "end_date": "Mar 2002",
+            "length": "2 years",
+            "start_months_since_1900": 1200,
+            "end_months_since_1900": 1226,
+            "length_in_months": 24
+        },
+        {
+            "name": "Emily Mortimer",
+            "href": "https://www.whosdatedwho.com/dating/emily-mortimer",
+            "relationship_type": 2,
+            "start_date": "1997",
+            "end_date": "1999",
+            "length": "2 years",
+            "start_months_since_1900": 1164,
+            "end_months_since_1900": 1188,
+            "length_in_months": 24
+        }
+    ],
+    "details": {
+        "First Name": "Paul",
+        "Middle Name": "William",
+        "Last Name": "Bettany",
+        "Maiden Name": "NA",
+        "Full Name at Birth": "Paul William Bettany",
+        "Alternative Name": "NA",
+        "Birthday": "1971",
+        "Birthplace": "UK",
+        "Height": "192",
+        "Weight": "198lbs (90 kg)",
+        "Zodiac Sign": "4",
+        "Sexuality": "Straight",
+        "Religion": "22",
+        "Ethnicity": "6",
+        "Nationality": "8",
+        "Occupation": "8"
+    }
+}

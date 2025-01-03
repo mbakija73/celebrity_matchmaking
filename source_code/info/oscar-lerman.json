@@ -1,0 +1,33 @@
+{
+    "relationships": [
+        {
+            "name": "Jackie Collins",
+            "href": "https://www.whosdatedwho.com/dating/jackie-collins",
+            "relationship_type": 4,
+            "start_date": "1965",
+            "end_date": "May 1992",
+            "length": "27 years",
+            "start_months_since_1900": 780,
+            "end_months_since_1900": 1108,
+            "length_in_months": 324
+        }
+    ],
+    "details": {
+        "First Name": "Oscar",
+        "Middle Name": "NA",
+        "Last Name": "Lerman",
+        "Maiden Name": "NA",
+        "Full Name at Birth": "NA",
+        "Alternative Name": "NA",
+        "Birthday": "1919",
+        "Birthplace": "NA",
+        "Height": "NA",
+        "Weight": "NA",
+        "Zodiac Sign": "11",
+        "Sexuality": "NA",
+        "Religion": "1",
+        "Ethnicity": "1",
+        "Nationality": "65",
+        "Occupation": "19"
+    }
+}

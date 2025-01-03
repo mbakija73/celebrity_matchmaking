@@ -1,0 +1,44 @@
+{
+    "relationships": [
+        {
+            "name": "Zoey Deutch",
+            "href": "https://www.whosdatedwho.com/dating/zoey-deutch",
+            "relationship_type": 2,
+            "start_date": "Oct 2017",
+            "end_date": "2021",
+            "length": "3 years",
+            "start_months_since_1900": 1413,
+            "end_months_since_1900": 1452,
+            "length_in_months": 36
+        },
+        {
+            "name": "Paige Reifler",
+            "href": "https://www.whosdatedwho.com/dating/paige-reifler",
+            "relationship_type": 2,
+            "start_date": "Sep 2014",
+            "end_date": "Nov 2015",
+            "length": "1 year",
+            "start_months_since_1900": 1376,
+            "end_months_since_1900": 1390,
+            "length_in_months": 12
+        }
+    ],
+    "details": {
+        "First Name": "Dylan",
+        "Middle Name": "NA",
+        "Last Name": "Hayes",
+        "Maiden Name": "NA",
+        "Full Name at Birth": "NA",
+        "Alternative Name": "NA",
+        "Birthday": "1995",
+        "Birthplace": "NA",
+        "Height": "188",
+        "Weight": "NA",
+        "Zodiac Sign": "10",
+        "Sexuality": "NA",
+        "Religion": "1",
+        "Ethnicity": "1",
+        "Nationality": "91",
+        "Occupation": "8"
+    }
+}

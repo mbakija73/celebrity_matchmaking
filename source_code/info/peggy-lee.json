@@ -1,0 +1,99 @@
+{
+    "relationships": [
+        {
+            "name": "Jack Del Rio",
+            "href": "https://www.whosdatedwho.com/dating/jack-del-rio",
+            "relationship_type": 4,
+            "start_date": "Feb 1963",
+            "end_date": "1965",
+            "length": "1 year",
+            "start_months_since_1900": 757,
+            "end_months_since_1900": 780,
+            "length_in_months": 12
+        },
+        {
+            "name": "Dewey Martin",
+            "href": "https://www.whosdatedwho.com/dating/dewey-martin",
+            "relationship_type": 4,
+            "start_date": "Apr 1955",
+            "end_date": "1959",
+            "length": "3 years",
+            "start_months_since_1900": 663,
+            "end_months_since_1900": 708,
+            "length_in_months": 36
+        },
+        {
+            "name": "Brad Dexter",
+            "href": "https://www.whosdatedwho.com/dating/brad-dexter",
+            "relationship_type": 4,
+            "start_date": "Nov 1952",
+            "end_date": "Nov 1953",
+            "length": "1 year",
+            "start_months_since_1900": 634,
+            "end_months_since_1900": 646,
+            "length_in_months": 12
+        },
+        {
+            "name": "Dave Barbour",
+            "href": "https://www.whosdatedwho.com/dating/dave-barbour",
+            "relationship_type": 4,
+            "start_date": "Mar 1942",
+            "end_date": "May 1951",
+            "length": "9 years",
+            "start_months_since_1900": 506,
+            "end_months_since_1900": 616,
+            "length_in_months": 108
+        },
+        {
+            "name": "Paul Newman",
+            "href": "https://www.whosdatedwho.com/dating/paul-newman",
+            "relationship_type": 3,
+            "start_date": "",
+            "end_date": "",
+            "length": "-",
+            "start_months_since_1900": -1,
+            "end_months_since_1900": -1,
+            "length_in_months": -1
+        },
+        {
+            "name": "Greg Bautzer",
+            "href": "https://www.whosdatedwho.com/dating/greg-bautzer",
+            "relationship_type": 2,
+            "start_date": "",
+            "end_date": "",
+            "length": "-",
+            "start_months_since_1900": -1,
+            "end_months_since_1900": -1,
+            "length_in_months": -1
+        },
+        {
+            "name": "Nelson Riddle",
+            "href": "https://www.whosdatedwho.com/dating/nelson-riddle",
+            "relationship_type": 3,
+            "start_date": "",
+            "end_date": "",
+            "length": "-",
+            "start_months_since_1900": -1,
+            "end_months_since_1900": -1,
+            "length_in_months": -1
+        }
+    ],
+    "details": {
+        "First Name": "Peggy",
+        "Middle Name": "Deloris",
+        "Last Name": "Lee",
+        "Maiden Name": "Egstrom",
+        "Full Name at Birth": "Norma Deloris Egstrom",
+        "Alternative Name": "Norma Deloris Egstrom, Peggy Lee",
+        "Birthday": "1920",
+        "Birthplace": "North Dakota USA",
+        "Height": "168",
+        "Weight": "NA",
+        "Zodiac Sign": "4",
+        "Sexuality": "Straight",
+        "Religion": "28",
+        "Ethnicity": "6",
+        "Nationality": "91",
+        "Occupation": "1"
+    }
+}

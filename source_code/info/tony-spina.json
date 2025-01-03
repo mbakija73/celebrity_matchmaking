@@ -1,0 +1,66 @@
+{
+    "relationships": [
+        {
+            "name": "Makoke",
+            "href": "https://www.whosdatedwho.com/dating/makoke",
+            "relationship_type": 2,
+            "start_date": "2018",
+            "end_date": "",
+            "length": "-",
+            "start_months_since_1900": 1416,
+            "end_months_since_1900": -1,
+            "length_in_months": -1
+        },
+        {
+            "name": "Kathy Contreras",
+            "href": "https://www.whosdatedwho.com/dating/kathy-contreras",
+            "relationship_type": 3,
+            "start_date": "2016",
+            "end_date": "2016",
+            "length": "-",
+            "start_months_since_1900": 1392,
+            "end_months_since_1900": 1392,
+            "length_in_months": -1
+        },
+        {
+            "name": "Flavia Medina",
+            "href": "https://www.whosdatedwho.com/dating/flavia-medina",
+            "relationship_type": 2,
+            "start_date": "2016",
+            "end_date": "2017",
+            "length": "1 year",
+            "start_months_since_1900": 1392,
+            "end_months_since_1900": 1404,
+            "length_in_months": 12
+        },
+        {
+            "name": "Oriana Marzoli",
+            "href": "https://www.whosdatedwho.com/dating/oriana-marzoli",
+            "relationship_type": 2,
+            "start_date": "2013",
+            "end_date": "2015",
+            "length": "2 years",
+            "start_months_since_1900": 1356,
+            "end_months_since_1900": 1380,
+            "length_in_months": 24
+        }
+    ],
+    "details": {
+        "First Name": "Tony",
+        "Middle Name": "NA",
+        "Last Name": "Spina",
+        "Maiden Name": "NA",
+        "Full Name at Birth": "NA",
+        "Alternative Name": "NA",
+        "Birthday": "NA",
+        "Birthplace": "NA",
+        "Height": "NA",
+        "Weight": "NA",
+        "Zodiac Sign": "2",
+        "Sexuality": "Straight",
+        "Religion": "1",
+        "Ethnicity": "6",
+        "Nationality": "118",
+        "Occupation": "11"
+    }
+}

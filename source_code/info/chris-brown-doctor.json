@@ -1,0 +1,55 @@
+{
+    "relationships": [
+        {
+            "name": "Sarah Harris",
+            "href": "https://www.whosdatedwho.com/dating/sarah-harris-born-1981",
+            "relationship_type": 1,
+            "start_date": "May 2023",
+            "end_date": "May 2023",
+            "length": "-",
+            "start_months_since_1900": 1480,
+            "end_months_since_1900": 1480,
+            "length_in_months": -1
+        },
+        {
+            "name": "Kassandra Clementi",
+            "href": "https://www.whosdatedwho.com/dating/kassandra-clementi",
+            "relationship_type": 2,
+            "start_date": "2014",
+            "end_date": "2015",
+            "length": "1 year",
+            "start_months_since_1900": 1368,
+            "end_months_since_1900": 1380,
+            "length_in_months": 12
+        },
+        {
+            "name": "Kylie Speer",
+            "href": "https://www.whosdatedwho.com/dating/kylie-speer",
+            "relationship_type": 3,
+            "start_date": "",
+            "end_date": "",
+            "length": "-",
+            "start_months_since_1900": -1,
+            "end_months_since_1900": -1,
+            "length_in_months": -1
+        }
+    ],
+    "details": {
+        "First Name": "Chris",
+        "Middle Name": "NA",
+        "Last Name": "Brown",
+        "Maiden Name": "NA",
+        "Full Name at Birth": "Chris Brown",
+        "Alternative Name": "Chris Brown, Dr Chris Brown",
+        "Birthday": "1978",
+        "Birthplace": "Australia",
+        "Height": "196",
+        "Weight": "NA",
+        "Zodiac Sign": "11",
+        "Sexuality": "NA",
+        "Religion": "1",
+        "Ethnicity": "6",
+        "Nationality": "135",
+        "Occupation": "6"
+    }
+}

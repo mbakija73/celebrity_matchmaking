@@ -1,0 +1,44 @@
+{
+    "relationships": [
+        {
+            "name": "Todd Grinnell",
+            "href": "https://www.whosdatedwho.com/dating/todd-grinnell",
+            "relationship_type": 4,
+            "start_date": "2012",
+            "end_date": "present",
+            "length": "12 years",
+            "start_months_since_1900": 1344,
+            "end_months_since_1900": -1,
+            "length_in_months": 144
+        },
+        {
+            "name": "Derek Hough",
+            "href": "https://www.whosdatedwho.com/dating/derek-hough",
+            "relationship_type": 2,
+            "start_date": "2000",
+            "end_date": "2008",
+            "length": "8 years",
+            "start_months_since_1900": 1200,
+            "end_months_since_1900": 1296,
+            "length_in_months": 96
+        }
+    ],
+    "details": {
+        "First Name": "India",
+        "Middle Name": "NA",
+        "Last Name": "De Beaufort",
+        "Maiden Name": "Lloyd",
+        "Full Name at Birth": "India Ewence Beaufort-Lloyd",
+        "Alternative Name": "India Beau, India Beaufort Lloyd, India de Beaufort, India Ewence Beaufort-Lloyd",
+        "Birthday": "1987",
+        "Birthplace": "UK",
+        "Height": "160",
+        "Weight": "123lbs (56 kg)",
+        "Zodiac Sign": "8",
+        "Sexuality": "Straight",
+        "Religion": "1",
+        "Ethnicity": "6",
+        "Nationality": "8",
+        "Occupation": "8"
+    }
+}

@@ -1,0 +1,33 @@
+{
+    "relationships": [
+        {
+            "name": "Spencer Tracy",
+            "href": "https://www.whosdatedwho.com/dating/spencer-tracy",
+            "relationship_type": 4,
+            "start_date": "1922",
+            "end_date": "10th Jun 1967",
+            "length": "45 years",
+            "start_months_since_1900": 264,
+            "end_months_since_1900": 809,
+            "length_in_months": 540
+        }
+    ],
+    "details": {
+        "First Name": "Louise",
+        "Middle Name": "Ten Broeck",
+        "Last Name": "Tracy",
+        "Maiden Name": "Treadwell",
+        "Full Name at Birth": "Louise Ten Broeck Treadwell",
+        "Alternative Name": "Louise Treadwell Tracy",
+        "Birthday": "1896",
+        "Birthplace": "Pennsylvania",
+        "Height": "NA",
+        "Weight": "NA",
+        "Zodiac Sign": "12",
+        "Sexuality": "Straight",
+        "Religion": "13",
+        "Ethnicity": "6",
+        "Nationality": "91",
+        "Occupation": "18"
+    }
+}

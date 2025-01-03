@@ -1,0 +1,44 @@
+{
+    "relationships": [
+        {
+            "name": "Pat Benatar",
+            "href": "https://www.whosdatedwho.com/dating/pat-benatar",
+            "relationship_type": 4,
+            "start_date": "1979",
+            "end_date": "present",
+            "length": "45 years",
+            "start_months_since_1900": 948,
+            "end_months_since_1900": -1,
+            "length_in_months": 540
+        },
+        {
+            "name": "Linda Blair",
+            "href": "https://www.whosdatedwho.com/dating/linda-blair",
+            "relationship_type": 2,
+            "start_date": "1979",
+            "end_date": "1979",
+            "length": "-",
+            "start_months_since_1900": 948,
+            "end_months_since_1900": 948,
+            "length_in_months": -1
+        }
+    ],
+    "details": {
+        "First Name": "Neil",
+        "Middle Name": "Thomas",
+        "Last Name": "Giraldo",
+        "Maiden Name": "NA",
+        "Full Name at Birth": "Neil Thomas Giraldo",
+        "Alternative Name": "Spyder James, Neil Thomas Giraldo, Neil Giraldo, Spyder James Neil Geraldo, Neil Geraldo",
+        "Birthday": "1955",
+        "Birthplace": "Ohio USA",
+        "Height": "NA",
+        "Weight": "NA",
+        "Zodiac Sign": "13",
+        "Sexuality": "Straight",
+        "Religion": "1",
+        "Ethnicity": "6",
+        "Nationality": "139",
+        "Occupation": "1"
+    }
+}

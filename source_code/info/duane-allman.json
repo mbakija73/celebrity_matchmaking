@@ -1,0 +1,77 @@
+{
+    "relationships": [
+        {
+            "name": "Ellen Hopkins",
+            "href": "https://www.whosdatedwho.com/dating/ellen-hopkins",
+            "relationship_type": 1,
+            "start_date": "1969",
+            "end_date": "1969",
+            "length": "-",
+            "start_months_since_1900": 828,
+            "end_months_since_1900": 828,
+            "length_in_months": -1
+        },
+        {
+            "name": "Dixie Meadow",
+            "href": "https://www.whosdatedwho.com/dating/dixie-meadow",
+            "relationship_type": 2,
+            "start_date": "1969",
+            "end_date": "1971",
+            "length": "2 years",
+            "start_months_since_1900": 828,
+            "end_months_since_1900": 852,
+            "length_in_months": 24
+        },
+        {
+            "name": "Donna Roosmann",
+            "href": "https://www.whosdatedwho.com/dating/donna-roosmann",
+            "relationship_type": 2,
+            "start_date": "1968",
+            "end_date": "1968",
+            "length": "-",
+            "start_months_since_1900": 816,
+            "end_months_since_1900": 816,
+            "length_in_months": -1
+        },
+        {
+            "name": "Connie Hamzy",
+            "href": "https://www.whosdatedwho.com/dating/connie-hamzy",
+            "relationship_type": 3,
+            "start_date": "",
+            "end_date": "",
+            "length": "-",
+            "start_months_since_1900": -1,
+            "end_months_since_1900": -1,
+            "length_in_months": -1
+        },
+        {
+            "name": "Devon Wilson",
+            "href": "https://www.whosdatedwho.com/dating/devon-wilson",
+            "relationship_type": 3,
+            "start_date": "",
+            "end_date": "",
+            "length": "-",
+            "start_months_since_1900": -1,
+            "end_months_since_1900": -1,
+            "length_in_months": -1
+        }
+    ],
+    "details": {
+        "First Name": "Duane",
+        "Middle Name": "NA",
+        "Last Name": "Allman",
+        "Maiden Name": "NA",
+        "Full Name at Birth": "Howard Duane Allman",
+        "Alternative Name": "Skydog, Skyman",
+        "Birthday": "1946",
+        "Birthplace": "Tennessee",
+        "Height": "185",
+        "Weight": "140lbs (64 kg)",
+        "Zodiac Sign": "5",
+        "Sexuality": "Straight",
+        "Religion": "1",
+        "Ethnicity": "6",
+        "Nationality": "91",
+        "Occupation": "1"
+    }
+}

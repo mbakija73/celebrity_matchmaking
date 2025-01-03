@@ -1,0 +1,110 @@
+{
+    "relationships": [
+        {
+            "name": "Douglas Fairbanks Jr.",
+            "href": "https://www.whosdatedwho.com/dating/douglas-fairbanks-jr",
+            "relationship_type": 3,
+            "start_date": "1930",
+            "end_date": "1931",
+            "length": "1 year",
+            "start_months_since_1900": 360,
+            "end_months_since_1900": 372,
+            "length_in_months": 12
+        },
+        {
+            "name": "Edmund Lowe",
+            "href": "https://www.whosdatedwho.com/dating/edmund-lowe",
+            "relationship_type": 4,
+            "start_date": "1925",
+            "end_date": "1934",
+            "length": "9 years",
+            "start_months_since_1900": 300,
+            "end_months_since_1900": 408,
+            "length_in_months": 108
+        },
+        {
+            "name": "Al Lee",
+            "href": "https://www.whosdatedwho.com/dating/al-lee",
+            "relationship_type": 4,
+            "start_date": "1914",
+            "end_date": "1921",
+            "length": "7 years",
+            "start_months_since_1900": 168,
+            "end_months_since_1900": 252,
+            "length_in_months": 84
+        },
+        {
+            "name": "Greta Garbo",
+            "href": "https://www.whosdatedwho.com/dating/greta-garbo",
+            "relationship_type": 1,
+            "start_date": "",
+            "end_date": "",
+            "length": "-",
+            "start_months_since_1900": -1,
+            "end_months_since_1900": -1,
+            "length_in_months": -1
+        },
+        {
+            "name": "Tallulah Bankhead",
+            "href": "https://www.whosdatedwho.com/dating/tallulah-bankhead",
+            "relationship_type": 3,
+            "start_date": "",
+            "end_date": "",
+            "length": "-",
+            "start_months_since_1900": -1,
+            "end_months_since_1900": -1,
+            "length_in_months": -1
+        },
+        {
+            "name": "John Gilbert",
+            "href": "https://www.whosdatedwho.com/dating/john-gilbert",
+            "relationship_type": 2,
+            "start_date": "",
+            "end_date": "",
+            "length": "-",
+            "start_months_since_1900": -1,
+            "end_months_since_1900": -1,
+            "length_in_months": -1
+        },
+        {
+            "name": "Gertrude Lawrence",
+            "href": "https://www.whosdatedwho.com/dating/gertrude-lawrence",
+            "relationship_type": 3,
+            "start_date": "",
+            "end_date": "",
+            "length": "-",
+            "start_months_since_1900": -1,
+            "end_months_since_1900": -1,
+            "length_in_months": -1
+        },
+        {
+            "name": "Humphrey Bogart",
+            "href": "https://www.whosdatedwho.com/dating/humphrey-bogart",
+            "relationship_type": 3,
+            "start_date": "",
+            "end_date": "",
+            "length": "-",
+            "start_months_since_1900": -1,
+            "end_months_since_1900": -1,
+            "length_in_months": -1
+        }
+    ],
+    "details": {
+        "First Name": "Lilyan",
+        "Middle Name": "NA",
+        "Last Name": "Tashman",
+        "Maiden Name": "NA",
+        "Full Name at Birth": "Lilyan Tashman",
+        "Alternative Name": "NA",
+        "Birthday": "1896",
+        "Birthplace": "New York",
+        "Height": "170",
+        "Weight": "NA",
+        "Zodiac Sign": "5",
+        "Sexuality": "Bisexual",
+        "Religion": "31",
+        "Ethnicity": "6",
+        "Nationality": "91",
+        "Occupation": "8"
+    }
+}

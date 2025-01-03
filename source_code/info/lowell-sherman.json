@@ -1,0 +1,66 @@
+{
+    "relationships": [
+        {
+            "name": "Helene Costello",
+            "href": "https://www.whosdatedwho.com/dating/helene-costello",
+            "relationship_type": 4,
+            "start_date": "1929",
+            "end_date": "1932",
+            "length": "3 years",
+            "start_months_since_1900": 348,
+            "end_months_since_1900": 384,
+            "length_in_months": 36
+        },
+        {
+            "name": "Geneva Mitchell",
+            "href": "https://www.whosdatedwho.com/dating/geneva-mitchell",
+            "relationship_type": 2,
+            "start_date": "Dec 1926",
+            "end_date": "Dec 1934",
+            "length": "8 years",
+            "start_months_since_1900": 323,
+            "end_months_since_1900": 419,
+            "length_in_months": 96
+        },
+        {
+            "name": "Pauline Garon",
+            "href": "https://www.whosdatedwho.com/dating/pauline-garon",
+            "relationship_type": 4,
+            "start_date": "1925",
+            "end_date": "1930",
+            "length": "5 years",
+            "start_months_since_1900": 300,
+            "end_months_since_1900": 360,
+            "length_in_months": 60
+        },
+        {
+            "name": "Evelyn Booth",
+            "href": "https://www.whosdatedwho.com/dating/evelyn-booth",
+            "relationship_type": 4,
+            "start_date": "1914",
+            "end_date": "1922",
+            "length": "8 years",
+            "start_months_since_1900": 168,
+            "end_months_since_1900": 264,
+            "length_in_months": 96
+        }
+    ],
+    "details": {
+        "First Name": "Lowell",
+        "Middle Name": "NA",
+        "Last Name": "Sherman",
+        "Maiden Name": "NA",
+        "Full Name at Birth": "Lowell Sherman",
+        "Alternative Name": "NA",
+        "Birthday": "1885",
+        "Birthplace": "California",
+        "Height": "NA",
+        "Weight": "NA",
+        "Zodiac Sign": "10",
+        "Sexuality": "Straight",
+        "Religion": "1",
+        "Ethnicity": "6",
+        "Nationality": "91",
+        "Occupation": "9"
+    }
+}

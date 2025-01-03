@@ -1,0 +1,44 @@
+{
+    "relationships": [
+        {
+            "name": "Robert Durst",
+            "href": "https://www.whosdatedwho.com/dating/robert-durst",
+            "relationship_type": 2,
+            "start_date": "1980",
+            "end_date": "1982",
+            "length": "2 years",
+            "start_months_since_1900": 960,
+            "end_months_since_1900": 984,
+            "length_in_months": 24
+        },
+        {
+            "name": "Albert Morrill Bruns",
+            "href": "https://www.whosdatedwho.com/dating/albert-morrill-bruns",
+            "relationship_type": 4,
+            "start_date": "18th Dec 1969",
+            "end_date": "",
+            "length": "-",
+            "start_months_since_1900": 839,
+            "end_months_since_1900": -1,
+            "length_in_months": -1
+        }
+    ],
+    "details": {
+        "First Name": "Prudence",
+        "Middle Name": "NA",
+        "Last Name": "Farrow",
+        "Maiden Name": "NA",
+        "Full Name at Birth": "Prudence Anne Villiers Farrow",
+        "Alternative Name": "Prudence Anne Villiers Farrow, Prudence Farrow",
+        "Birthday": "1948",
+        "Birthplace": "USA",
+        "Height": "NA",
+        "Weight": "NA",
+        "Zodiac Sign": "13",
+        "Sexuality": "Straight",
+        "Religion": "1",
+        "Ethnicity": "6",
+        "Nationality": "91",
+        "Occupation": "3"
+    }
+}

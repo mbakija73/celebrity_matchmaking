@@ -1,0 +1,55 @@
+{
+    "relationships": [
+        {
+            "name": "Roger Waters",
+            "href": "https://www.whosdatedwho.com/dating/roger-waters",
+            "relationship_type": 4,
+            "start_date": "1975",
+            "end_date": "1992",
+            "length": "17 years",
+            "start_months_since_1900": 900,
+            "end_months_since_1900": 1104,
+            "length_in_months": 204
+        },
+        {
+            "name": "Rock Scully",
+            "href": "https://www.whosdatedwho.com/dating/rock-scully",
+            "relationship_type": 4,
+            "start_date": "1974",
+            "end_date": "1981",
+            "length": "7 years",
+            "start_months_since_1900": 888,
+            "end_months_since_1900": 972,
+            "length_in_months": 84
+        },
+        {
+            "name": "John Julian Reynolds",
+            "href": "https://www.whosdatedwho.com/dating/john-julian-reynolds",
+            "relationship_type": 4,
+            "start_date": "1966",
+            "end_date": "1970",
+            "length": "4 years",
+            "start_months_since_1900": 792,
+            "end_months_since_1900": 840,
+            "length_in_months": 48
+        }
+    ],
+    "details": {
+        "First Name": "Carolyn",
+        "Middle Name": "Anne",
+        "Last Name": "Christie",
+        "Maiden Name": "NA",
+        "Full Name at Birth": "Carolyne Anne Christie",
+        "Alternative Name": "Carolyne Christie, Carolyne Scully, Carolyne Waters",
+        "Birthday": "1946",
+        "Birthplace": "NA",
+        "Height": "180",
+        "Weight": "NA",
+        "Zodiac Sign": "13",
+        "Sexuality": "Straight",
+        "Religion": "1",
+        "Ethnicity": "6",
+        "Nationality": "65",
+        "Occupation": "18"
+    }
+}

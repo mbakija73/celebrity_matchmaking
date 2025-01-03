@@ -1,0 +1,88 @@
+{
+    "relationships": [
+        {
+            "name": "Chrissy Teigen",
+            "href": "https://www.whosdatedwho.com/dating/chrissy-teigen",
+            "relationship_type": 4,
+            "start_date": "Jan 2007",
+            "end_date": "present",
+            "length": "17 years",
+            "start_months_since_1900": 1284,
+            "end_months_since_1900": -1,
+            "length_in_months": 204
+        },
+        {
+            "name": "Tayo Otiti",
+            "href": "https://www.whosdatedwho.com/dating/tayo-otiti",
+            "relationship_type": 3,
+            "start_date": "Jul 2006",
+            "end_date": "Jul 2006",
+            "length": "-",
+            "start_months_since_1900": 1278,
+            "end_months_since_1900": 1278,
+            "length_in_months": -1
+        },
+        {
+            "name": "Danielle Abreu",
+            "href": "https://www.whosdatedwho.com/dating/danielle-abreu",
+            "relationship_type": 2,
+            "start_date": "May 2006",
+            "end_date": "2006",
+            "length": "4 months",
+            "start_months_since_1900": 1276,
+            "end_months_since_1900": 1272,
+            "length_in_months": 4
+        },
+        {
+            "name": "Wafah Dufour",
+            "href": "https://www.whosdatedwho.com/dating/wafah-dufour",
+            "relationship_type": 2,
+            "start_date": "2006",
+            "end_date": "2006",
+            "length": "-",
+            "start_months_since_1900": 1272,
+            "end_months_since_1900": 1272,
+            "length_in_months": -1
+        },
+        {
+            "name": "Jacque Reid",
+            "href": "https://www.whosdatedwho.com/dating/jacque-reid",
+            "relationship_type": 1,
+            "start_date": "Sep 2005",
+            "end_date": "Sep 2005",
+            "length": "-",
+            "start_months_since_1900": 1268,
+            "end_months_since_1900": 1268,
+            "length_in_months": -1
+        },
+        {
+            "name": "Jessica White",
+            "href": "https://www.whosdatedwho.com/dating/jessica-white",
+            "relationship_type": 3,
+            "start_date": "26th Aug 2005",
+            "end_date": "1st Sep 2005",
+            "length": "< 1 month",
+            "start_months_since_1900": 1267,
+            "end_months_since_1900": 1268,
+            "length_in_months": 0
+        }
+    ],
+    "details": {
+        "First Name": "John",
+        "Middle Name": "Roger",
+        "Last Name": "Legend",
+        "Maiden Name": "NA",
+        "Full Name at Birth": "John Roger Stephens",
+        "Alternative Name": "John Stephens, John Legend, Johnny, Legend",
+        "Birthday": "1978",
+        "Birthplace": "USA",
+        "Height": "175",
+        "Weight": "158lbs (72 kg)",
+        "Zodiac Sign": "13",
+        "Sexuality": "Straight",
+        "Religion": "18",
+        "Ethnicity": "8",
+        "Nationality": "91",
+        "Occupation": "1"
+    }
+}

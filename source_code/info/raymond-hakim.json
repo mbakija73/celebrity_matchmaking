@@ -1,0 +1,77 @@
+{
+    "relationships": [
+        {
+            "name": "Claire James",
+            "href": "https://www.whosdatedwho.com/dating/claire-james",
+            "relationship_type": 2,
+            "start_date": "Nov 1945",
+            "end_date": "Dec 1945",
+            "length": "1 month",
+            "start_months_since_1900": 550,
+            "end_months_since_1900": 551,
+            "length_in_months": 1
+        },
+        {
+            "name": "Claudia Dell",
+            "href": "https://www.whosdatedwho.com/dating/claudia-dell",
+            "relationship_type": 2,
+            "start_date": "May 1943",
+            "end_date": "Aug 1943",
+            "length": "3 months",
+            "start_months_since_1900": 520,
+            "end_months_since_1900": 523,
+            "length_in_months": 3
+        },
+        {
+            "name": "Carole Landis",
+            "href": "https://www.whosdatedwho.com/dating/carole-landis",
+            "relationship_type": 2,
+            "start_date": "1941",
+            "end_date": "1941",
+            "length": "-",
+            "start_months_since_1900": 492,
+            "end_months_since_1900": 492,
+            "length_in_months": -1
+        },
+        {
+            "name": "Doris Merrick",
+            "href": "https://www.whosdatedwho.com/dating/doris-merrick",
+            "relationship_type": 3,
+            "start_date": "",
+            "end_date": "",
+            "length": "-",
+            "start_months_since_1900": -1,
+            "end_months_since_1900": -1,
+            "length_in_months": -1
+        },
+        {
+            "name": "Veronica Lake",
+            "href": "https://www.whosdatedwho.com/dating/veronica-lake",
+            "relationship_type": 2,
+            "start_date": "",
+            "end_date": "",
+            "length": "-",
+            "start_months_since_1900": -1,
+            "end_months_since_1900": -1,
+            "length_in_months": -1
+        }
+    ],
+    "details": {
+        "First Name": "Raymond",
+        "Middle Name": "NA",
+        "Last Name": "Hakim",
+        "Maiden Name": "NA",
+        "Full Name at Birth": "NA",
+        "Alternative Name": "NA",
+        "Birthday": "1909",
+        "Birthplace": "Egypt",
+        "Height": "NA",
+        "Weight": "NA",
+        "Zodiac Sign": "12",
+        "Sexuality": "Straight",
+        "Religion": "1",
+        "Ethnicity": "1",
+        "Nationality": "94",
+        "Occupation": "19"
+    }
+}

@@ -1,0 +1,44 @@
+{
+    "relationships": [
+        {
+            "name": "Will Geer",
+            "href": "https://www.whosdatedwho.com/dating/will-geer",
+            "relationship_type": 3,
+            "start_date": "1958",
+            "end_date": "1958",
+            "length": "-",
+            "start_months_since_1900": 696,
+            "end_months_since_1900": 696,
+            "length_in_months": -1
+        },
+        {
+            "name": "Cecil Beaton",
+            "href": "https://www.whosdatedwho.com/dating/cecil-beaton",
+            "relationship_type": 3,
+            "start_date": "",
+            "end_date": "",
+            "length": "-",
+            "start_months_since_1900": -1,
+            "end_months_since_1900": -1,
+            "length_in_months": -1
+        }
+    ],
+    "details": {
+        "First Name": "Howard",
+        "Middle Name": "NA",
+        "Last Name": "Claney",
+        "Maiden Name": "NA",
+        "Full Name at Birth": "Howard Moorhead Claney",
+        "Alternative Name": "NA",
+        "Birthday": "1897",
+        "Birthplace": "Pennsylvania",
+        "Height": "NA",
+        "Weight": "NA",
+        "Zodiac Sign": "2",
+        "Sexuality": "Gay",
+        "Religion": "1",
+        "Ethnicity": "6",
+        "Nationality": "91",
+        "Occupation": "16"
+    }
+}

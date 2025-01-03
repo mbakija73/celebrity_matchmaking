@@ -1,0 +1,44 @@
+{
+    "relationships": [
+        {
+            "name": "Maria Benz",
+            "href": "https://www.whosdatedwho.com/dating/maria-benz-model",
+            "relationship_type": 4,
+            "start_date": "1929",
+            "end_date": "1946",
+            "length": "17 years",
+            "start_months_since_1900": 348,
+            "end_months_since_1900": 552,
+            "length_in_months": 204
+        },
+        {
+            "name": "Gala Dal\u00ed",
+            "href": "https://www.whosdatedwho.com/dating/gala-dali",
+            "relationship_type": 4,
+            "start_date": "1913",
+            "end_date": "1929",
+            "length": "16 years",
+            "start_months_since_1900": 156,
+            "end_months_since_1900": 348,
+            "length_in_months": 192
+        }
+    ],
+    "details": {
+        "First Name": "Paul",
+        "Middle Name": "NA",
+        "Last Name": "\u00c9luard",
+        "Maiden Name": "NA",
+        "Full Name at Birth": "Eug\u00e8ne \u00c9mile Paul Grindel",
+        "Alternative Name": "Eug\u00e8ne \u00c9mile Paul Grindel",
+        "Birthday": "1895",
+        "Birthplace": "France",
+        "Height": "NA",
+        "Weight": "NA",
+        "Zodiac Sign": "6",
+        "Sexuality": "Straight",
+        "Religion": "1",
+        "Ethnicity": "6",
+        "Nationality": "86",
+        "Occupation": "3"
+    }
+}

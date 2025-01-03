@@ -1,0 +1,99 @@
+{
+    "relationships": [
+        {
+            "name": "Sarah Palin",
+            "href": "https://www.whosdatedwho.com/dating/sarah-palin",
+            "relationship_type": 2,
+            "start_date": "Jan 2022",
+            "end_date": "present",
+            "length": "2 years",
+            "start_months_since_1900": 1464,
+            "end_months_since_1900": -1,
+            "length_in_months": 24
+        },
+        {
+            "name": "Kim Alexis",
+            "href": "https://www.whosdatedwho.com/dating/kim-alexis",
+            "relationship_type": 4,
+            "start_date": "Sep 1991",
+            "end_date": "2016",
+            "length": "24 years",
+            "start_months_since_1900": 1100,
+            "end_months_since_1900": 1392,
+            "length_in_months": 288
+        },
+        {
+            "name": "Patti LuPone",
+            "href": "https://www.whosdatedwho.com/dating/patti-lupone",
+            "relationship_type": 2,
+            "start_date": "1983",
+            "end_date": "1983",
+            "length": "-",
+            "start_months_since_1900": 996,
+            "end_months_since_1900": 996,
+            "length_in_months": -1
+        },
+        {
+            "name": "Farrah Fawcett",
+            "href": "https://www.whosdatedwho.com/dating/farrah-fawcett",
+            "relationship_type": 3,
+            "start_date": "1983",
+            "end_date": "1983",
+            "length": "-",
+            "start_months_since_1900": 996,
+            "end_months_since_1900": 996,
+            "length_in_months": -1
+        },
+        {
+            "name": "Cher",
+            "href": "https://www.whosdatedwho.com/dating/cher",
+            "relationship_type": 3,
+            "start_date": "1982",
+            "end_date": "1982",
+            "length": "-",
+            "start_months_since_1900": 984,
+            "end_months_since_1900": 984,
+            "length_in_months": -1
+        },
+        {
+            "name": "Bianca Jagger",
+            "href": "https://www.whosdatedwho.com/dating/bianca-jagger",
+            "relationship_type": 2,
+            "start_date": "1980",
+            "end_date": "1980",
+            "length": "-",
+            "start_months_since_1900": 960,
+            "end_months_since_1900": 960,
+            "length_in_months": -1
+        },
+        {
+            "name": "Cheryl Tiegs",
+            "href": "https://www.whosdatedwho.com/dating/cheryl-tiegs",
+            "relationship_type": 2,
+            "start_date": "",
+            "end_date": "",
+            "length": "-",
+            "start_months_since_1900": -1,
+            "end_months_since_1900": -1,
+            "length_in_months": -1
+        }
+    ],
+    "details": {
+        "First Name": "Ron",
+        "Middle Name": "NA",
+        "Last Name": "Duguay",
+        "Maiden Name": "NA",
+        "Full Name at Birth": "Ronald Duguay",
+        "Alternative Name": "NA",
+        "Birthday": "1957",
+        "Birthplace": "Canada",
+        "Height": "188",
+        "Weight": "210lbs (95 kg)",
+        "Zodiac Sign": "8",
+        "Sexuality": "Straight",
+        "Religion": "1",
+        "Ethnicity": "6",
+        "Nationality": "90",
+        "Occupation": "2"
+    }
+}

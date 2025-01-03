@@ -1,0 +1,55 @@
+{
+    "relationships": [
+        {
+            "name": "Madison Beer",
+            "href": "https://www.whosdatedwho.com/dating/madison-beer",
+            "relationship_type": 2,
+            "start_date": "Mar 2021",
+            "end_date": "present",
+            "length": "3 years",
+            "start_months_since_1900": 1454,
+            "end_months_since_1900": -1,
+            "length_in_months": 36
+        },
+        {
+            "name": "Darianka Sanchez",
+            "href": "https://www.whosdatedwho.com/dating/darianka-sanchez",
+            "relationship_type": 1,
+            "start_date": "",
+            "end_date": "",
+            "length": "-",
+            "start_months_since_1900": -1,
+            "end_months_since_1900": -1,
+            "length_in_months": -1
+        },
+        {
+            "name": "Avani Gregg",
+            "href": "https://www.whosdatedwho.com/dating/avani-gregg",
+            "relationship_type": 1,
+            "start_date": "",
+            "end_date": "",
+            "length": "-",
+            "start_months_since_1900": -1,
+            "end_months_since_1900": -1,
+            "length_in_months": -1
+        }
+    ],
+    "details": {
+        "First Name": "Nick",
+        "Middle Name": "NA",
+        "Last Name": "Austin",
+        "Maiden Name": "NA",
+        "Full Name at Birth": "Nick Austin",
+        "Alternative Name": "Nick",
+        "Birthday": "2000",
+        "Birthplace": "United States",
+        "Height": "175",
+        "Weight": "139lbs (63 kg)",
+        "Zodiac Sign": "8",
+        "Sexuality": "Straight",
+        "Religion": "1",
+        "Ethnicity": "6",
+        "Nationality": "91",
+        "Occupation": "11"
+    }
+}

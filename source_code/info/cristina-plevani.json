@@ -1,0 +1,55 @@
+{
+    "relationships": [
+        {
+            "name": "Mirko Vatteroni",
+            "href": "https://www.whosdatedwho.com/dating/mirko-vatteroni",
+            "relationship_type": 2,
+            "start_date": "Nov 2003",
+            "end_date": "Apr 2004",
+            "length": "5 months",
+            "start_months_since_1900": 1246,
+            "end_months_since_1900": 1251,
+            "length_in_months": 5
+        },
+        {
+            "name": "Fabio Macellari",
+            "href": "https://www.whosdatedwho.com/dating/fabio-macellari",
+            "relationship_type": 2,
+            "start_date": "2001",
+            "end_date": "2002",
+            "length": "1 year",
+            "start_months_since_1900": 1212,
+            "end_months_since_1900": 1224,
+            "length_in_months": 12
+        },
+        {
+            "name": "Pietro Taricone",
+            "href": "https://www.whosdatedwho.com/dating/pietro-taricone",
+            "relationship_type": 2,
+            "start_date": "Sep 2000",
+            "end_date": "Dec 2000",
+            "length": "3 months",
+            "start_months_since_1900": 1208,
+            "end_months_since_1900": 1211,
+            "length_in_months": 3
+        }
+    ],
+    "details": {
+        "First Name": "Cristina",
+        "Middle Name": "NA",
+        "Last Name": "Plevani",
+        "Maiden Name": "NA",
+        "Full Name at Birth": "NA",
+        "Alternative Name": "NA",
+        "Birthday": "1972",
+        "Birthplace": "Italy",
+        "Height": "NA",
+        "Weight": "NA",
+        "Zodiac Sign": "4",
+        "Sexuality": "NA",
+        "Religion": "1",
+        "Ethnicity": "1",
+        "Nationality": "139",
+        "Occupation": "11"
+    }
+}

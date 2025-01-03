@@ -1,0 +1,33 @@
+{
+    "relationships": [
+        {
+            "name": "Henry Cavill",
+            "href": "https://www.whosdatedwho.com/dating/henry-cavill",
+            "relationship_type": 2,
+            "start_date": "May 2017",
+            "end_date": "3rd Feb 2018",
+            "length": "9 months",
+            "start_months_since_1900": 1408,
+            "end_months_since_1900": 1417,
+            "length_in_months": 9
+        }
+    ],
+    "details": {
+        "First Name": "Lucy",
+        "Middle Name": "NA",
+        "Last Name": "Cork",
+        "Maiden Name": "NA",
+        "Full Name at Birth": "Lucy Cork",
+        "Alternative Name": "Lucy Cork",
+        "Birthday": "1991",
+        "Birthplace": "UK",
+        "Height": "170",
+        "Weight": "128lbs (58 kg)",
+        "Zodiac Sign": "6",
+        "Sexuality": "Straight",
+        "Religion": "1",
+        "Ethnicity": "6",
+        "Nationality": "8",
+        "Occupation": "9"
+    }
+}

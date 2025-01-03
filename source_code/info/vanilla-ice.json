@@ -1,0 +1,66 @@
+{
+    "relationships": [
+        {
+            "name": "Laura Giarritta",
+            "href": "https://www.whosdatedwho.com/dating/laura-giarritta",
+            "relationship_type": 4,
+            "start_date": "1995",
+            "end_date": "Jul 2011",
+            "length": "16 years",
+            "start_months_since_1900": 1140,
+            "end_months_since_1900": 1338,
+            "length_in_months": 192
+        },
+        {
+            "name": "Madonna",
+            "href": "https://www.whosdatedwho.com/dating/madonna",
+            "relationship_type": 2,
+            "start_date": "1991",
+            "end_date": "1992",
+            "length": "1 year",
+            "start_months_since_1900": 1092,
+            "end_months_since_1900": 1104,
+            "length_in_months": 12
+        },
+        {
+            "name": "Connie Hamzy",
+            "href": "https://www.whosdatedwho.com/dating/connie-hamzy",
+            "relationship_type": 3,
+            "start_date": "Jan 1990",
+            "end_date": "Feb 1990",
+            "length": "1 month",
+            "start_months_since_1900": 1080,
+            "end_months_since_1900": 1081,
+            "length_in_months": 1
+        },
+        {
+            "name": "Rowanne Brewer",
+            "href": "https://www.whosdatedwho.com/dating/rowanne-brewer",
+            "relationship_type": 3,
+            "start_date": "1988",
+            "end_date": "1988",
+            "length": "-",
+            "start_months_since_1900": 1056,
+            "end_months_since_1900": 1056,
+            "length_in_months": -1
+        }
+    ],
+    "details": {
+        "First Name": "Robert",
+        "Middle Name": "Matthew",
+        "Last Name": "Van Winkle",
+        "Maiden Name": "NA",
+        "Full Name at Birth": "Robert Matthew Van Winkle",
+        "Alternative Name": "Vanilla Ice, Ice Man, Ice, V-Ice, Robbie",
+        "Birthday": "1967",
+        "Birthplace": "USA",
+        "Height": "180",
+        "Weight": "168lbs (76 kg)",
+        "Zodiac Sign": "5",
+        "Sexuality": "Straight",
+        "Religion": "18",
+        "Ethnicity": "6",
+        "Nationality": "91",
+        "Occupation": "1"
+    }
+}

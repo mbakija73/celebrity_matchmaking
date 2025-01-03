@@ -1,0 +1,16 @@
+{
+    "relationships": [
+        {
+            "name": "Tennessee Williams",
+            "href": "https://www.whosdatedwho.com/dating/tennessee-williams",
+            "relationship_type": 2,
+            "start_date": "1945",
+            "end_date": "1947",
+            "length": "2 years",
+            "start_months_since_1900": 540,
+            "end_months_since_1900": 564,
+            "length_in_months": 24
+        }
+    ],
+    "details": {}
+}

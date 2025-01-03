@@ -1,0 +1,44 @@
+{
+    "relationships": [
+        {
+            "name": "Salvador Dal\u00ed",
+            "href": "https://www.whosdatedwho.com/dating/salvador-dali",
+            "relationship_type": 2,
+            "start_date": "1955",
+            "end_date": "1964",
+            "length": "9 years",
+            "start_months_since_1900": 660,
+            "end_months_since_1900": 768,
+            "length_in_months": 108
+        },
+        {
+            "name": "Edward Ruscha",
+            "href": "https://www.whosdatedwho.com/dating/edward-ruscha",
+            "relationship_type": 2,
+            "start_date": "",
+            "end_date": "",
+            "length": "-",
+            "start_months_since_1900": -1,
+            "end_months_since_1900": -1,
+            "length_in_months": -1
+        }
+    ],
+    "details": {
+        "First Name": "Ultra Violet",
+        "Middle Name": "NA",
+        "Last Name": "NA",
+        "Maiden Name": "Dufresne",
+        "Full Name at Birth": "Isabelle Collin Dufresne",
+        "Alternative Name": "Isabelle Collin Dufresne, Ultra Violet",
+        "Birthday": "1935",
+        "Birthplace": "France",
+        "Height": "NA",
+        "Weight": "NA",
+        "Zodiac Sign": "11",
+        "Sexuality": "Straight",
+        "Religion": "20",
+        "Ethnicity": "6",
+        "Nationality": "86",
+        "Occupation": "8"
+    }
+}

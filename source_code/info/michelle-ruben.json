@@ -1,0 +1,66 @@
+{
+    "relationships": [
+        {
+            "name": "Marcos Resto",
+            "href": "https://www.whosdatedwho.com/dating/marcos-resto",
+            "relationship_type": 4,
+            "start_date": "2013",
+            "end_date": "present",
+            "length": "11 years",
+            "start_months_since_1900": 1356,
+            "end_months_since_1900": -1,
+            "length_in_months": 132
+        },
+        {
+            "name": "Mark McGrath",
+            "href": "https://www.whosdatedwho.com/dating/mark-mcgrath",
+            "relationship_type": 3,
+            "start_date": "Oct 2002",
+            "end_date": "Oct 2002",
+            "length": "-",
+            "start_months_since_1900": 1233,
+            "end_months_since_1900": 1233,
+            "length_in_months": -1
+        },
+        {
+            "name": "Wes Scantlin",
+            "href": "https://www.whosdatedwho.com/dating/wes-scantlin",
+            "relationship_type": 2,
+            "start_date": "2002",
+            "end_date": "2002",
+            "length": "-",
+            "start_months_since_1900": 1224,
+            "end_months_since_1900": 1224,
+            "length_in_months": -1
+        },
+        {
+            "name": "Vin Diesel",
+            "href": "https://www.whosdatedwho.com/dating/vin-diesel",
+            "relationship_type": 2,
+            "start_date": "",
+            "end_date": "",
+            "length": "-",
+            "start_months_since_1900": -1,
+            "end_months_since_1900": -1,
+            "length_in_months": -1
+        }
+    ],
+    "details": {
+        "First Name": "Michelle",
+        "Middle Name": "NA",
+        "Last Name": "NA",
+        "Maiden Name": "Ruben",
+        "Full Name at Birth": "Michelle Ruben",
+        "Alternative Name": "Michelle Rubin",
+        "Birthday": "1970",
+        "Birthplace": "USA",
+        "Height": "NA",
+        "Weight": "NA",
+        "Zodiac Sign": "11",
+        "Sexuality": "NA",
+        "Religion": "18",
+        "Ethnicity": "6",
+        "Nationality": "91",
+        "Occupation": "8"
+    }
+}

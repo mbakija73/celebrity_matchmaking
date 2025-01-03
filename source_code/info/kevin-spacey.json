@@ -1,0 +1,66 @@
+{
+    "relationships": [
+        {
+            "name": "Ashleigh Banfield",
+            "href": "https://www.whosdatedwho.com/dating/ashleigh-banfield",
+            "relationship_type": 2,
+            "start_date": "2014",
+            "end_date": "2014",
+            "length": "-",
+            "start_months_since_1900": 1368,
+            "end_months_since_1900": 1368,
+            "length_in_months": -1
+        },
+        {
+            "name": "Dianne Dreyer",
+            "href": "https://www.whosdatedwho.com/dating/dianne-dreyer",
+            "relationship_type": 2,
+            "start_date": "1992",
+            "end_date": "2000",
+            "length": "8 years",
+            "start_months_since_1900": 1104,
+            "end_months_since_1900": 1200,
+            "length_in_months": 96
+        },
+        {
+            "name": "April Winchell",
+            "href": "https://www.whosdatedwho.com/dating/april-winchell",
+            "relationship_type": 2,
+            "start_date": "1976",
+            "end_date": "1977",
+            "length": "1 year",
+            "start_months_since_1900": 912,
+            "end_months_since_1900": 924,
+            "length_in_months": 12
+        },
+        {
+            "name": "Jennifer Jason Leigh",
+            "href": "https://www.whosdatedwho.com/dating/jennifer-jason-leigh",
+            "relationship_type": 3,
+            "start_date": "",
+            "end_date": "",
+            "length": "-",
+            "start_months_since_1900": -1,
+            "end_months_since_1900": -1,
+            "length_in_months": -1
+        }
+    ],
+    "details": {
+        "First Name": "Kevin",
+        "Middle Name": "Matthew",
+        "Last Name": "Spacey",
+        "Maiden Name": "NA",
+        "Full Name at Birth": "Kevin Matthew Fowler",
+        "Alternative Name": "NA",
+        "Birthday": "1959",
+        "Birthplace": "USA",
+        "Height": "178",
+        "Weight": "NA",
+        "Zodiac Sign": "12",
+        "Sexuality": "Bisexual",
+        "Religion": "22",
+        "Ethnicity": "6",
+        "Nationality": "91",
+        "Occupation": "8"
+    }
+}

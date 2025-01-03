@@ -1,0 +1,44 @@
+{
+    "relationships": [
+        {
+            "name": "Jerry Butler",
+            "href": "https://www.whosdatedwho.com/dating/jerry-butler",
+            "relationship_type": 2,
+            "start_date": "1991",
+            "end_date": "1991",
+            "length": "-",
+            "start_months_since_1900": 1092,
+            "end_months_since_1900": 1092,
+            "length_in_months": -1
+        },
+        {
+            "name": "Jack Nance",
+            "href": "https://www.whosdatedwho.com/dating/jack-nance",
+            "relationship_type": 4,
+            "start_date": "Dec 1988",
+            "end_date": "Nov 1991",
+            "length": "2 years",
+            "start_months_since_1900": 1067,
+            "end_months_since_1900": 1102,
+            "length_in_months": 24
+        }
+    ],
+    "details": {
+        "First Name": "Kelly",
+        "Middle Name": "Jean",
+        "Last Name": "Van Dyke",
+        "Maiden Name": "NA",
+        "Full Name at Birth": "Kelly Jean Van Dyke",
+        "Alternative Name": "Nancee Kelly, Kelly Jean Van Dyke, Nancee Kellee, Nancee Kelley, Nancee Kellie, Kelly, Kelley Van Dyke, Kelly Van Dyke-Nance",
+        "Birthday": "1958",
+        "Birthplace": "Illinois USA",
+        "Height": "NA",
+        "Weight": "NA",
+        "Zodiac Sign": "4",
+        "Sexuality": "NA",
+        "Religion": "1",
+        "Ethnicity": "6",
+        "Nationality": "91",
+        "Occupation": "16"
+    }
+}

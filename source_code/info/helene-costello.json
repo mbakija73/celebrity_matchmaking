@@ -1,0 +1,66 @@
+{
+    "relationships": [
+        {
+            "name": "Arturo del Barrio",
+            "href": "https://www.whosdatedwho.com/dating/arturo-del-barrio",
+            "relationship_type": 4,
+            "start_date": "Jan 1933",
+            "end_date": "1939",
+            "length": "6 years",
+            "start_months_since_1900": 396,
+            "end_months_since_1900": 468,
+            "length_in_months": 72
+        },
+        {
+            "name": "Lowell Sherman",
+            "href": "https://www.whosdatedwho.com/dating/lowell-sherman",
+            "relationship_type": 4,
+            "start_date": "1929",
+            "end_date": "1932",
+            "length": "3 years",
+            "start_months_since_1900": 348,
+            "end_months_since_1900": 384,
+            "length_in_months": 36
+        },
+        {
+            "name": "Douglas Fairbanks Jr.",
+            "href": "https://www.whosdatedwho.com/dating/douglas-fairbanks-jr",
+            "relationship_type": 2,
+            "start_date": "Feb 1927",
+            "end_date": "Oct 1927",
+            "length": "8 months",
+            "start_months_since_1900": 325,
+            "end_months_since_1900": 333,
+            "length_in_months": 8
+        },
+        {
+            "name": "John Regan",
+            "href": "https://www.whosdatedwho.com/dating/john-regan",
+            "relationship_type": 1,
+            "start_date": "",
+            "end_date": "",
+            "length": "-",
+            "start_months_since_1900": -1,
+            "end_months_since_1900": -1,
+            "length_in_months": -1
+        }
+    ],
+    "details": {
+        "First Name": "Helene",
+        "Middle Name": "NA",
+        "Last Name": "Costello",
+        "Maiden Name": "NA",
+        "Full Name at Birth": "Helene Costello",
+        "Alternative Name": "NA",
+        "Birthday": "1906",
+        "Birthplace": "USA",
+        "Height": "157",
+        "Weight": "NA",
+        "Zodiac Sign": "4",
+        "Sexuality": "Straight",
+        "Religion": "1",
+        "Ethnicity": "6",
+        "Nationality": "91",
+        "Occupation": "8"
+    }
+}

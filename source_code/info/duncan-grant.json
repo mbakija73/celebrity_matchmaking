@@ -1,0 +1,132 @@
+{
+    "relationships": [
+        {
+            "name": "Paul Roche",
+            "href": "https://www.whosdatedwho.com/dating/paul-roche",
+            "relationship_type": 1,
+            "start_date": "1946",
+            "end_date": "1978",
+            "length": "32 years",
+            "start_months_since_1900": 552,
+            "end_months_since_1900": 936,
+            "length_in_months": 384
+        },
+        {
+            "name": "John Maynard Keynes",
+            "href": "https://www.whosdatedwho.com/dating/john-maynard-keynes",
+            "relationship_type": 1,
+            "start_date": "1908",
+            "end_date": "1908",
+            "length": "-",
+            "start_months_since_1900": 96,
+            "end_months_since_1900": 96,
+            "length_in_months": -1
+        },
+        {
+            "name": "Arthur Hobhouse",
+            "href": "https://www.whosdatedwho.com/dating/arthur-hobhouse",
+            "relationship_type": 1,
+            "start_date": "",
+            "end_date": "",
+            "length": "-",
+            "start_months_since_1900": -1,
+            "end_months_since_1900": -1,
+            "length_in_months": -1
+        },
+        {
+            "name": "Edward Marsh (polymath)",
+            "href": "https://www.whosdatedwho.com/dating/edward-marsh-polymath",
+            "relationship_type": 1,
+            "start_date": "",
+            "end_date": "",
+            "length": "-",
+            "start_months_since_1900": -1,
+            "end_months_since_1900": -1,
+            "length_in_months": -1
+        },
+        {
+            "name": "George Bergen",
+            "href": "https://www.whosdatedwho.com/dating/george-bergen",
+            "relationship_type": 1,
+            "start_date": "",
+            "end_date": "",
+            "length": "-",
+            "start_months_since_1900": -1,
+            "end_months_since_1900": -1,
+            "length_in_months": -1
+        },
+        {
+            "name": "Harry Daley (Policeman)",
+            "href": "https://www.whosdatedwho.com/dating/harry-daley-policeman",
+            "relationship_type": 2,
+            "start_date": "",
+            "end_date": "",
+            "length": "-",
+            "start_months_since_1900": -1,
+            "end_months_since_1900": -1,
+            "length_in_months": -1
+        },
+        {
+            "name": "George Mallory",
+            "href": "https://www.whosdatedwho.com/dating/george-mallory",
+            "relationship_type": 1,
+            "start_date": "",
+            "end_date": "",
+            "length": "-",
+            "start_months_since_1900": -1,
+            "end_months_since_1900": -1,
+            "length_in_months": -1
+        },
+        {
+            "name": "Vanessa Bell",
+            "href": "https://www.whosdatedwho.com/dating/vanessa-bell",
+            "relationship_type": 1,
+            "start_date": "",
+            "end_date": "",
+            "length": "-",
+            "start_months_since_1900": -1,
+            "end_months_since_1900": -1,
+            "length_in_months": -1
+        },
+        {
+            "name": "Mary Hutchinson",
+            "href": "https://www.whosdatedwho.com/dating/mary-hutchinson",
+            "relationship_type": 1,
+            "start_date": "",
+            "end_date": "",
+            "length": "-",
+            "start_months_since_1900": -1,
+            "end_months_since_1900": -1,
+            "length_in_months": -1
+        },
+        {
+            "name": "Lytton Strachey",
+            "href": "https://www.whosdatedwho.com/dating/lytton-strachey",
+            "relationship_type": 1,
+            "start_date": "",
+            "end_date": "",
+            "length": "-",
+            "start_months_since_1900": -1,
+            "end_months_since_1900": -1,
+            "length_in_months": -1
+        }
+    ],
+    "details": {
+        "First Name": "Duncan",
+        "Middle Name": "James Corrowr",
+        "Last Name": "Grant",
+        "Maiden Name": "NA",
+        "Full Name at Birth": "Duncan James Corrowr Grant",
+        "Alternative Name": "Duncan James Corrowr Grant, Duncan Grant",
+        "Birthday": "1885",
+        "Birthplace": "Scotland",
+        "Height": "NA",
+        "Weight": "NA",
+        "Zodiac Sign": "9",
+        "Sexuality": "Gay",
+        "Religion": "1",
+        "Ethnicity": "6",
+        "Nationality": "8",
+        "Occupation": "13"
+    }
+}

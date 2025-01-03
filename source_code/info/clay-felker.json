@@ -1,0 +1,77 @@
+{
+    "relationships": [
+        {
+            "name": "Gail Sheehy",
+            "href": "https://www.whosdatedwho.com/dating/gail-sheehy",
+            "relationship_type": 3,
+            "start_date": "1984",
+            "end_date": "2008",
+            "length": "24 years",
+            "start_months_since_1900": 1008,
+            "end_months_since_1900": 1296,
+            "length_in_months": 288
+        },
+        {
+            "name": "Pamela Tiffin",
+            "href": "https://www.whosdatedwho.com/dating/pamela-tiffin",
+            "relationship_type": 4,
+            "start_date": "1961",
+            "end_date": "1969",
+            "length": "8 years",
+            "start_months_since_1900": 732,
+            "end_months_since_1900": 828,
+            "length_in_months": 96
+        },
+        {
+            "name": "Leslie Blatt",
+            "href": "https://www.whosdatedwho.com/dating/leslie-blatt",
+            "relationship_type": 3,
+            "start_date": "1949",
+            "end_date": "1949",
+            "length": "-",
+            "start_months_since_1900": 588,
+            "end_months_since_1900": 588,
+            "length_in_months": -1
+        },
+        {
+            "name": "Leslie Blatt",
+            "href": "https://www.whosdatedwho.com/dating/leslie-blatt-344682",
+            "relationship_type": 1,
+            "start_date": "",
+            "end_date": "",
+            "length": "-",
+            "start_months_since_1900": -1,
+            "end_months_since_1900": -1,
+            "length_in_months": -1
+        },
+        {
+            "name": "Leslie Blatt",
+            "href": "https://www.whosdatedwho.com/dating/leslie-blatt-344683",
+            "relationship_type": 1,
+            "start_date": "",
+            "end_date": "",
+            "length": "-",
+            "start_months_since_1900": -1,
+            "end_months_since_1900": -1,
+            "length_in_months": -1
+        }
+    ],
+    "details": {
+        "First Name": "Clay",
+        "Middle Name": "NA",
+        "Last Name": "Felker",
+        "Maiden Name": "NA",
+        "Full Name at Birth": "Clay Schuette Felker",
+        "Alternative Name": "NA",
+        "Birthday": "1925",
+        "Birthplace": "Missouri",
+        "Height": "NA",
+        "Weight": "NA",
+        "Zodiac Sign": "10",
+        "Sexuality": "Straight",
+        "Religion": "1",
+        "Ethnicity": "6",
+        "Nationality": "91",
+        "Occupation": "3"
+    }
+}

@@ -1,0 +1,44 @@
+{
+    "relationships": [
+        {
+            "name": "Ian Holm",
+            "href": "https://www.whosdatedwho.com/dating/ian-holm",
+            "relationship_type": 2,
+            "start_date": "1966",
+            "end_date": "1966",
+            "length": "-",
+            "start_months_since_1900": 792,
+            "end_months_since_1900": 792,
+            "length_in_months": -1
+        },
+        {
+            "name": "Andrew Birkin",
+            "href": "https://www.whosdatedwho.com/dating/andrew-birkin",
+            "relationship_type": 2,
+            "start_date": "",
+            "end_date": "",
+            "length": "-",
+            "start_months_since_1900": -1,
+            "end_months_since_1900": -1,
+            "length_in_months": -1
+        }
+    ],
+    "details": {
+        "First Name": "Bee",
+        "Middle Name": "NA",
+        "Last Name": "Gilbert",
+        "Maiden Name": "NA",
+        "Full Name at Birth": "Bridget Phyllis Gilbert",
+        "Alternative Name": "NA",
+        "Birthday": "NA",
+        "Birthplace": "NA",
+        "Height": "NA",
+        "Weight": "NA",
+        "Zodiac Sign": "2",
+        "Sexuality": "Straight",
+        "Religion": "1",
+        "Ethnicity": "1",
+        "Nationality": "98",
+        "Occupation": "9"
+    }
+}

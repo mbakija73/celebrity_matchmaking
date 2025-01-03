@@ -1,0 +1,55 @@
+{
+    "relationships": [
+        {
+            "name": "Ye",
+            "href": "https://www.whosdatedwho.com/dating/kanye-west",
+            "relationship_type": 2,
+            "start_date": "Sep 2010",
+            "end_date": "Nov 2010",
+            "length": "2 months",
+            "start_months_since_1900": 1328,
+            "end_months_since_1900": 1330,
+            "length_in_months": 2
+        },
+        {
+            "name": "Shad Moss",
+            "href": "https://www.whosdatedwho.com/dating/shad-moss",
+            "relationship_type": 2,
+            "start_date": "Apr 2008",
+            "end_date": "Jun 2008",
+            "length": "2 months",
+            "start_months_since_1900": 1299,
+            "end_months_since_1900": 1301,
+            "length_in_months": 2
+        },
+        {
+            "name": "Eddie Murphy",
+            "href": "https://www.whosdatedwho.com/dating/eddie-murphy",
+            "relationship_type": 3,
+            "start_date": "2008",
+            "end_date": "2008",
+            "length": "-",
+            "start_months_since_1900": 1296,
+            "end_months_since_1900": 1296,
+            "length_in_months": -1
+        }
+    ],
+    "details": {
+        "First Name": "Melody",
+        "Middle Name": "NA",
+        "Last Name": "Thornton",
+        "Maiden Name": "NA",
+        "Full Name at Birth": "Melody Thornton",
+        "Alternative Name": "Mel, Baby Doll",
+        "Birthday": "1984",
+        "Birthplace": "USA",
+        "Height": "160",
+        "Weight": "124lbs (56 kg)",
+        "Zodiac Sign": "10",
+        "Sexuality": "Straight",
+        "Religion": "1",
+        "Ethnicity": "8",
+        "Nationality": "91",
+        "Occupation": "1"
+    }
+}

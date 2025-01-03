@@ -1,0 +1,44 @@
+{
+    "relationships": [
+        {
+            "name": "Nicole Alexander",
+            "href": "https://www.whosdatedwho.com/dating/nicole-alexander",
+            "relationship_type": 3,
+            "start_date": "May 2006",
+            "end_date": "Jul 2006",
+            "length": "2 months",
+            "start_months_since_1900": 1276,
+            "end_months_since_1900": 1278,
+            "length_in_months": 2
+        },
+        {
+            "name": "LeToya Luckett",
+            "href": "https://www.whosdatedwho.com/dating/letoya-luckett",
+            "relationship_type": 2,
+            "start_date": "Apr 2002",
+            "end_date": "Dec 2011",
+            "length": "9 years",
+            "start_months_since_1900": 1227,
+            "end_months_since_1900": 1343,
+            "length_in_months": 108
+        }
+    ],
+    "details": {
+        "First Name": "Slim",
+        "Middle Name": "NA",
+        "Last Name": "Thug",
+        "Maiden Name": "NA",
+        "Full Name at Birth": "Stayve Jerome Thomas",
+        "Alternative Name": "NA",
+        "Birthday": "1980",
+        "Birthplace": "Texas",
+        "Height": "198",
+        "Weight": "NA",
+        "Zodiac Sign": "11",
+        "Sexuality": "Straight",
+        "Religion": "1",
+        "Ethnicity": "8",
+        "Nationality": "91",
+        "Occupation": "1"
+    }
+}

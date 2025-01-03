@@ -1,0 +1,55 @@
+{
+    "relationships": [
+        {
+            "name": "Brigitte Bardot",
+            "href": "https://www.whosdatedwho.com/dating/brigitte-bardot",
+            "relationship_type": 2,
+            "start_date": "1970",
+            "end_date": "1970",
+            "length": "-",
+            "start_months_since_1900": 840,
+            "end_months_since_1900": 840,
+            "length_in_months": -1
+        },
+        {
+            "name": "Florence Michard-Pelissier",
+            "href": "https://www.whosdatedwho.com/dating/florence-michard-pelissier",
+            "relationship_type": 4,
+            "start_date": "8th Jun 1964",
+            "end_date": "",
+            "length": "-",
+            "start_months_since_1900": 773,
+            "end_months_since_1900": -1,
+            "length_in_months": -1
+        },
+        {
+            "name": "Sylvia Casablancas",
+            "href": "https://www.whosdatedwho.com/dating/sylvia-casablancas",
+            "relationship_type": 2,
+            "start_date": "1959",
+            "end_date": "1960",
+            "length": "1 year",
+            "start_months_since_1900": 708,
+            "end_months_since_1900": 720,
+            "length_in_months": 12
+        }
+    ],
+    "details": {
+        "First Name": "Jean-Noel",
+        "Middle Name": "NA",
+        "Last Name": "Grinda",
+        "Maiden Name": "NA",
+        "Full Name at Birth": "NA",
+        "Alternative Name": "NA",
+        "Birthday": "1936",
+        "Birthplace": "France",
+        "Height": "NA",
+        "Weight": "NA",
+        "Zodiac Sign": "10",
+        "Sexuality": "NA",
+        "Religion": "1",
+        "Ethnicity": "6",
+        "Nationality": "86",
+        "Occupation": "2"
+    }
+}

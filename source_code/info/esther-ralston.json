@@ -1,0 +1,77 @@
+{
+    "relationships": [
+        {
+            "name": "Ted Lloyd",
+            "href": "https://www.whosdatedwho.com/dating/ted-lloyd",
+            "relationship_type": 4,
+            "start_date": "1938",
+            "end_date": "1954",
+            "length": "16 years",
+            "start_months_since_1900": 456,
+            "end_months_since_1900": 648,
+            "length_in_months": 192
+        },
+        {
+            "name": "Louis B. Mayer",
+            "href": "https://www.whosdatedwho.com/dating/louis-b-mayer",
+            "relationship_type": 2,
+            "start_date": "1934",
+            "end_date": "1934",
+            "length": "-",
+            "start_months_since_1900": 408,
+            "end_months_since_1900": 408,
+            "length_in_months": -1
+        },
+        {
+            "name": "Will Morgan",
+            "href": "https://www.whosdatedwho.com/dating/will-morgan",
+            "relationship_type": 4,
+            "start_date": "1933",
+            "end_date": "1938",
+            "length": "5 years",
+            "start_months_since_1900": 396,
+            "end_months_since_1900": 456,
+            "length_in_months": 60
+        },
+        {
+            "name": "George Webb",
+            "href": "https://www.whosdatedwho.com/dating/george-webb-actor",
+            "relationship_type": 4,
+            "start_date": "1924",
+            "end_date": "1934",
+            "length": "10 years",
+            "start_months_since_1900": 288,
+            "end_months_since_1900": 408,
+            "length_in_months": 120
+        },
+        {
+            "name": "Gene Raymond",
+            "href": "https://www.whosdatedwho.com/dating/gene-raymond",
+            "relationship_type": 3,
+            "start_date": "",
+            "end_date": "",
+            "length": "-",
+            "start_months_since_1900": -1,
+            "end_months_since_1900": -1,
+            "length_in_months": -1
+        }
+    ],
+    "details": {
+        "First Name": "Esther",
+        "Middle Name": "NA",
+        "Last Name": "Ralston",
+        "Maiden Name": "Worth",
+        "Full Name at Birth": "Esther Louise Worth",
+        "Alternative Name": "Jane Carleton, Esther Ralston, Esther Worth, The American Venus, Esther Louise Worth",
+        "Birthday": "1902",
+        "Birthplace": "USA",
+        "Height": "165",
+        "Weight": "NA",
+        "Zodiac Sign": "11",
+        "Sexuality": "Straight",
+        "Religion": "1",
+        "Ethnicity": "6",
+        "Nationality": "91",
+        "Occupation": "8"
+    }
+}

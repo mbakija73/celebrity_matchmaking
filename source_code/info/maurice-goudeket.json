@@ -1,0 +1,33 @@
+{
+    "relationships": [
+        {
+            "name": "Colette",
+            "href": "https://www.whosdatedwho.com/dating/colette",
+            "relationship_type": 4,
+            "start_date": "1935",
+            "end_date": "3rd Aug 1954",
+            "length": "19 years",
+            "start_months_since_1900": 420,
+            "end_months_since_1900": 655,
+            "length_in_months": 228
+        }
+    ],
+    "details": {
+        "First Name": "Maurice",
+        "Middle Name": "NA",
+        "Last Name": "Goudeket",
+        "Maiden Name": "NA",
+        "Full Name at Birth": "Maurice Goudeket",
+        "Alternative Name": "Maurice Goudeket",
+        "Birthday": "NA",
+        "Birthplace": "NA",
+        "Height": "NA",
+        "Weight": "NA",
+        "Zodiac Sign": "2",
+        "Sexuality": "NA",
+        "Religion": "1",
+        "Ethnicity": "1",
+        "Nationality": "65",
+        "Occupation": "3"
+    }
+}

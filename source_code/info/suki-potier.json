@@ -1,0 +1,66 @@
+{
+    "relationships": [
+        {
+            "name": "Robert Ho",
+            "href": "https://www.whosdatedwho.com/dating/robert-ho",
+            "relationship_type": 4,
+            "start_date": "1970",
+            "end_date": "23rd Jun 1981",
+            "length": "11 years",
+            "start_months_since_1900": 840,
+            "end_months_since_1900": 977,
+            "length_in_months": 132
+        },
+        {
+            "name": "Brian Jones",
+            "href": "https://www.whosdatedwho.com/dating/brian-jones",
+            "relationship_type": 2,
+            "start_date": "1967",
+            "end_date": "1969",
+            "length": "2 years",
+            "start_months_since_1900": 804,
+            "end_months_since_1900": 828,
+            "length_in_months": 24
+        },
+        {
+            "name": "Tara Browne",
+            "href": "https://www.whosdatedwho.com/dating/tara-browne",
+            "relationship_type": 2,
+            "start_date": "Mar 1966",
+            "end_date": "Dec 1966",
+            "length": "9 months",
+            "start_months_since_1900": 794,
+            "end_months_since_1900": 803,
+            "length_in_months": 9
+        },
+        {
+            "name": "Stash Klossowski",
+            "href": "https://www.whosdatedwho.com/dating/stash-de-rola",
+            "relationship_type": 2,
+            "start_date": "",
+            "end_date": "",
+            "length": "-",
+            "start_months_since_1900": -1,
+            "end_months_since_1900": -1,
+            "length_in_months": -1
+        }
+    ],
+    "details": {
+        "First Name": "Suki",
+        "Middle Name": "NA",
+        "Last Name": "NA",
+        "Maiden Name": "Potier",
+        "Full Name at Birth": "Melanie Susan Potier",
+        "Alternative Name": "Suki Potier, Suki Ho",
+        "Birthday": "1947",
+        "Birthplace": "England",
+        "Height": "165",
+        "Weight": "NA",
+        "Zodiac Sign": "5",
+        "Sexuality": "Straight",
+        "Religion": "1",
+        "Ethnicity": "6",
+        "Nationality": "8",
+        "Occupation": "15"
+    }
+}

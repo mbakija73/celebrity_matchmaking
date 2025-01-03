@@ -1,0 +1,44 @@
+{
+    "relationships": [
+        {
+            "name": "Dua Lipa",
+            "href": "https://www.whosdatedwho.com/dating/dua-lipa",
+            "relationship_type": 2,
+            "start_date": "Dec 2022",
+            "end_date": "Dec 2022",
+            "length": "-",
+            "start_months_since_1900": 1475,
+            "end_months_since_1900": 1475,
+            "length_in_months": -1
+        },
+        {
+            "name": "Rita Ora",
+            "href": "https://www.whosdatedwho.com/dating/rita-ora",
+            "relationship_type": 2,
+            "start_date": "2020",
+            "end_date": "2021",
+            "length": "1 year",
+            "start_months_since_1900": 1440,
+            "end_months_since_1900": 1452,
+            "length_in_months": 12
+        }
+    ],
+    "details": {
+        "First Name": "Romain",
+        "Middle Name": "NA",
+        "Last Name": "Gavras",
+        "Maiden Name": "NA",
+        "Full Name at Birth": "Romain Gavras",
+        "Alternative Name": "Romain Gavras",
+        "Birthday": "1981",
+        "Birthplace": "France",
+        "Height": "NA",
+        "Weight": "NA",
+        "Zodiac Sign": "8",
+        "Sexuality": "NA",
+        "Religion": "1",
+        "Ethnicity": "1",
+        "Nationality": "86",
+        "Occupation": "9"
+    }
+}

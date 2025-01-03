@@ -1,0 +1,55 @@
+{
+    "relationships": [
+        {
+            "name": "Susan Shaw",
+            "href": "https://www.whosdatedwho.com/dating/susan-shaw",
+            "relationship_type": 4,
+            "start_date": "1951",
+            "end_date": "Aug 1958",
+            "length": "7 years",
+            "start_months_since_1900": 612,
+            "end_months_since_1900": 703,
+            "length_in_months": 84
+        },
+        {
+            "name": "Tamara Lees",
+            "href": "https://www.whosdatedwho.com/dating/tamara-lees",
+            "relationship_type": 4,
+            "start_date": "",
+            "end_date": "",
+            "length": "-",
+            "start_months_since_1900": -1,
+            "end_months_since_1900": -1,
+            "length_in_months": -1
+        },
+        {
+            "name": "Simone Silva",
+            "href": "https://www.whosdatedwho.com/dating/simone-silva",
+            "relationship_type": 2,
+            "start_date": "",
+            "end_date": "",
+            "length": "-",
+            "start_months_since_1900": -1,
+            "end_months_since_1900": -1,
+            "length_in_months": -1
+        }
+    ],
+    "details": {
+        "First Name": "Bonar",
+        "Middle Name": "NA",
+        "Last Name": "Colleano",
+        "Maiden Name": "NA",
+        "Full Name at Birth": "NA",
+        "Alternative Name": "NA",
+        "Birthday": "1924",
+        "Birthplace": "U.S.",
+        "Height": "NA",
+        "Weight": "NA",
+        "Zodiac Sign": "1",
+        "Sexuality": "Straight",
+        "Religion": "1",
+        "Ethnicity": "6",
+        "Nationality": "91",
+        "Occupation": "8"
+    }
+}

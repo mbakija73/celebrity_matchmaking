@@ -1,0 +1,44 @@
+{
+    "relationships": [
+        {
+            "name": "Florence Mills",
+            "href": "https://www.whosdatedwho.com/dating/florence-mills",
+            "relationship_type": 4,
+            "start_date": "1917",
+            "end_date": "1927",
+            "length": "10 years",
+            "start_months_since_1900": 204,
+            "end_months_since_1900": 324,
+            "length_in_months": 120
+        },
+        {
+            "name": "Gertrude Curtis",
+            "href": "https://www.whosdatedwho.com/dating/gertrude-curtis",
+            "relationship_type": 4,
+            "start_date": "",
+            "end_date": "",
+            "length": "-",
+            "start_months_since_1900": -1,
+            "end_months_since_1900": -1,
+            "length_in_months": -1
+        }
+    ],
+    "details": {
+        "First Name": "Ulysses",
+        "Middle Name": "NA",
+        "Last Name": "Thompson",
+        "Maiden Name": "NA",
+        "Full Name at Birth": "Ulysses S Thompson",
+        "Alternative Name": "Ulysses S Thompson, Slow Kid\u201dThompson, Ulysses Thompson",
+        "Birthday": "1888",
+        "Birthplace": "USA",
+        "Height": "NA",
+        "Weight": "NA",
+        "Zodiac Sign": "11",
+        "Sexuality": "NA",
+        "Religion": "1",
+        "Ethnicity": "1",
+        "Nationality": "91",
+        "Occupation": "10"
+    }
+}

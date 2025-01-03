@@ -1,0 +1,55 @@
+{
+    "relationships": [
+        {
+            "name": "Torrey DeVitto",
+            "href": "https://www.whosdatedwho.com/dating/torrey-devitto",
+            "relationship_type": 2,
+            "start_date": "2020",
+            "end_date": "2021",
+            "length": "1 year",
+            "start_months_since_1900": 1440,
+            "end_months_since_1900": 1452,
+            "length_in_months": 12
+        },
+        {
+            "name": "Mia Kang",
+            "href": "https://www.whosdatedwho.com/dating/mia-kang",
+            "relationship_type": 2,
+            "start_date": "Jan 2012",
+            "end_date": "Mar 2012",
+            "length": "2 months",
+            "start_months_since_1900": 1344,
+            "end_months_since_1900": 1346,
+            "length_in_months": 2
+        },
+        {
+            "name": "Vanessa Lengies",
+            "href": "https://www.whosdatedwho.com/dating/vanessa-lengies",
+            "relationship_type": 2,
+            "start_date": "May 2002",
+            "end_date": "Mar 2004",
+            "length": "1 year",
+            "start_months_since_1900": 1228,
+            "end_months_since_1900": 1250,
+            "length_in_months": 12
+        }
+    ],
+    "details": {
+        "First Name": "Will",
+        "Middle Name": "Estes",
+        "Last Name": "Nipper",
+        "Maiden Name": "NA",
+        "Full Name at Birth": "William Estes Nipper",
+        "Alternative Name": "NA",
+        "Birthday": "1978",
+        "Birthplace": "California",
+        "Height": "179",
+        "Weight": "NA",
+        "Zodiac Sign": "10",
+        "Sexuality": "Straight",
+        "Religion": "1",
+        "Ethnicity": "6",
+        "Nationality": "91",
+        "Occupation": "8"
+    }
+}

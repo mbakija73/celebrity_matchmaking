@@ -1,0 +1,55 @@
+{
+    "relationships": [
+        {
+            "name": "Jonathan Axelrod",
+            "href": "https://www.whosdatedwho.com/dating/jonathan-axelrod",
+            "relationship_type": 4,
+            "start_date": "May 1998",
+            "end_date": "Mar 2001",
+            "length": "2 years",
+            "start_months_since_1900": 1180,
+            "end_months_since_1900": 1214,
+            "length_in_months": 24
+        },
+        {
+            "name": "Martin Scorsese",
+            "href": "https://www.whosdatedwho.com/dating/martin-scorsese",
+            "relationship_type": 2,
+            "start_date": "1988",
+            "end_date": "1997",
+            "length": "9 years",
+            "start_months_since_1900": 1056,
+            "end_months_since_1900": 1164,
+            "length_in_months": 108
+        },
+        {
+            "name": "Harvey Weinstein",
+            "href": "https://www.whosdatedwho.com/dating/harvey-weinstein",
+            "relationship_type": 3,
+            "start_date": "",
+            "end_date": "",
+            "length": "-",
+            "start_months_since_1900": -1,
+            "end_months_since_1900": -1,
+            "length_in_months": -1
+        }
+    ],
+    "details": {
+        "First Name": "Illeana",
+        "Middle Name": "NA",
+        "Last Name": "Douglas",
+        "Maiden Name": "Hesselberg",
+        "Full Name at Birth": "Illeana Hesselberg",
+        "Alternative Name": "Illeana Douglas, Illeana Hesselberg, Illeana J Douglas, Illeana Douglass, Illeanarama",
+        "Birthday": "1961",
+        "Birthplace": "USA",
+        "Height": "174",
+        "Weight": "137lbs (62 kg)",
+        "Zodiac Sign": "12",
+        "Sexuality": "Straight",
+        "Religion": "31",
+        "Ethnicity": "6",
+        "Nationality": "91",
+        "Occupation": "8"
+    }
+}

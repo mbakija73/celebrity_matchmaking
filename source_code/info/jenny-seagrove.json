@@ -1,0 +1,55 @@
+{
+    "relationships": [
+        {
+            "name": "Bill Kenwright",
+            "href": "https://www.whosdatedwho.com/dating/bill-kenwright",
+            "relationship_type": 2,
+            "start_date": "1994",
+            "end_date": "1994",
+            "length": "-",
+            "start_months_since_1900": 1128,
+            "end_months_since_1900": 1128,
+            "length_in_months": -1
+        },
+        {
+            "name": "Michael Winner",
+            "href": "https://www.whosdatedwho.com/dating/michael-winner",
+            "relationship_type": 2,
+            "start_date": "Oct 1989",
+            "end_date": "1993",
+            "length": "3 years",
+            "start_months_since_1900": 1077,
+            "end_months_since_1900": 1116,
+            "length_in_months": 36
+        },
+        {
+            "name": "Madhav Sharma",
+            "href": "https://www.whosdatedwho.com/dating/madhav-sharma",
+            "relationship_type": 4,
+            "start_date": "1982",
+            "end_date": "1988",
+            "length": "6 years",
+            "start_months_since_1900": 984,
+            "end_months_since_1900": 1056,
+            "length_in_months": 72
+        }
+    ],
+    "details": {
+        "First Name": "Jenny",
+        "Middle Name": "NA",
+        "Last Name": "Seagrove",
+        "Maiden Name": "NA",
+        "Full Name at Birth": "Jenny Seagrove",
+        "Alternative Name": "NA",
+        "Birthday": "1957",
+        "Birthplace": "Malaysia",
+        "Height": "168",
+        "Weight": "NA",
+        "Zodiac Sign": "8",
+        "Sexuality": "NA",
+        "Religion": "1",
+        "Ethnicity": "6",
+        "Nationality": "8",
+        "Occupation": "8"
+    }
+}

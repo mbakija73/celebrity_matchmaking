@@ -1,0 +1,33 @@
+{
+    "relationships": [
+        {
+            "name": "Rick Ross",
+            "href": "https://www.whosdatedwho.com/dating/rick-ross",
+            "relationship_type": 2,
+            "start_date": "May 2003",
+            "end_date": "Jul 2015",
+            "length": "12 years",
+            "start_months_since_1900": 1240,
+            "end_months_since_1900": 1386,
+            "length_in_months": 144
+        }
+    ],
+    "details": {
+        "First Name": "Tia",
+        "Middle Name": "NA",
+        "Last Name": "Kemp",
+        "Maiden Name": "NA",
+        "Full Name at Birth": "Tia Kemp",
+        "Alternative Name": "NA",
+        "Birthday": "1986",
+        "Birthplace": "NA",
+        "Height": "170",
+        "Weight": "NA",
+        "Zodiac Sign": "2",
+        "Sexuality": "Straight",
+        "Religion": "18",
+        "Ethnicity": "2",
+        "Nationality": "91",
+        "Occupation": "19"
+    }
+}

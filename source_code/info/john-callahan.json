@@ -1,0 +1,44 @@
+{
+    "relationships": [
+        {
+            "name": "Eva LaRue",
+            "href": "https://www.whosdatedwho.com/dating/eva-larue",
+            "relationship_type": 4,
+            "start_date": "1995",
+            "end_date": "2004",
+            "length": "9 years",
+            "start_months_since_1900": 1140,
+            "end_months_since_1900": 1248,
+            "length_in_months": 108
+        },
+        {
+            "name": "Linda Freeman",
+            "href": "https://www.whosdatedwho.com/dating/linda-freeman",
+            "relationship_type": 4,
+            "start_date": "",
+            "end_date": "",
+            "length": "-",
+            "start_months_since_1900": -1,
+            "end_months_since_1900": -1,
+            "length_in_months": -1
+        }
+    ],
+    "details": {
+        "First Name": "John",
+        "Middle Name": "Kevin",
+        "Last Name": "Callahan",
+        "Maiden Name": "NA",
+        "Full Name at Birth": "John Kevin Callahan",
+        "Alternative Name": "NA",
+        "Birthday": "1953",
+        "Birthplace": "USA",
+        "Height": "183",
+        "Weight": "NA",
+        "Zodiac Sign": "13",
+        "Sexuality": "Straight",
+        "Religion": "1",
+        "Ethnicity": "6",
+        "Nationality": "91",
+        "Occupation": "8"
+    }
+}

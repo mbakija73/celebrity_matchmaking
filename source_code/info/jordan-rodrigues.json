@@ -1,0 +1,55 @@
+{
+    "relationships": [
+        {
+            "name": "Marissa Heart",
+            "href": "https://www.whosdatedwho.com/dating/marissa-heart",
+            "relationship_type": 2,
+            "start_date": "Oct 2015",
+            "end_date": "Oct 2015",
+            "length": "-",
+            "start_months_since_1900": 1389,
+            "end_months_since_1900": 1389,
+            "length_in_months": -1
+        },
+        {
+            "name": "Jacinta Gulisano",
+            "href": "https://www.whosdatedwho.com/dating/jacinta-gulisano",
+            "relationship_type": 2,
+            "start_date": "2013",
+            "end_date": "2015",
+            "length": "2 years",
+            "start_months_since_1900": 1356,
+            "end_months_since_1900": 1380,
+            "length_in_months": 24
+        },
+        {
+            "name": "Xenia Goodwin",
+            "href": "https://www.whosdatedwho.com/dating/xenia-goodwin",
+            "relationship_type": 1,
+            "start_date": "",
+            "end_date": "",
+            "length": "-",
+            "start_months_since_1900": -1,
+            "end_months_since_1900": -1,
+            "length_in_months": -1
+        }
+    ],
+    "details": {
+        "First Name": "Jordan",
+        "Middle Name": "NA",
+        "Last Name": "Rodrigues",
+        "Maiden Name": "NA",
+        "Full Name at Birth": "Jordan Rodrigues",
+        "Alternative Name": "Jay Rod, Jordan Rodrigues",
+        "Birthday": "1992",
+        "Birthplace": "New South Wales",
+        "Height": "174",
+        "Weight": "NA",
+        "Zodiac Sign": "8",
+        "Sexuality": "Straight",
+        "Religion": "1",
+        "Ethnicity": "3",
+        "Nationality": "135",
+        "Occupation": "8"
+    }
+}

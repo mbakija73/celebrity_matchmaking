@@ -1,0 +1,44 @@
+{
+    "relationships": [
+        {
+            "name": "Grimes",
+            "href": "https://www.whosdatedwho.com/dating/grimes-singer",
+            "relationship_type": 2,
+            "start_date": "Mar 2022",
+            "end_date": "Jul 2022",
+            "length": "4 months",
+            "start_months_since_1900": 1466,
+            "end_months_since_1900": 1470,
+            "length_in_months": 4
+        },
+        {
+            "name": "Tyler Watkins",
+            "href": "https://www.whosdatedwho.com/dating/tyler-watkins-106231583",
+            "relationship_type": 2,
+            "start_date": "",
+            "end_date": "",
+            "length": "-",
+            "start_months_since_1900": -1,
+            "end_months_since_1900": -1,
+            "length_in_months": -1
+        }
+    ],
+    "details": {
+        "First Name": "Chelsea",
+        "Middle Name": "Elizabeth",
+        "Last Name": "Manning",
+        "Maiden Name": "NA",
+        "Full Name at Birth": "Bradley Edward Manning",
+        "Alternative Name": "Bradley Manning, Bradley Edward Manning, Chelsea Manning, Chelsea Elizabeth Manning, Chelsea",
+        "Birthday": "1987",
+        "Birthplace": "USA",
+        "Height": "157",
+        "Weight": "106lbs (48 kg)",
+        "Zodiac Sign": "6",
+        "Sexuality": "Lesbian",
+        "Religion": "1",
+        "Ethnicity": "6",
+        "Nationality": "91",
+        "Occupation": "12"
+    }
+}

@@ -1,0 +1,44 @@
+{
+    "relationships": [
+        {
+            "name": "James F. Goldstein",
+            "href": "https://www.whosdatedwho.com/dating/james-goldstein-business",
+            "relationship_type": 2,
+            "start_date": "2013",
+            "end_date": "2014",
+            "length": "1 year",
+            "start_months_since_1900": 1356,
+            "end_months_since_1900": 1368,
+            "length_in_months": 12
+        },
+        {
+            "name": "Mehcad Brooks",
+            "href": "https://www.whosdatedwho.com/dating/mehcad-brooks",
+            "relationship_type": 2,
+            "start_date": "2012",
+            "end_date": "2013",
+            "length": "1 year",
+            "start_months_since_1900": 1344,
+            "end_months_since_1900": 1356,
+            "length_in_months": 12
+        }
+    ],
+    "details": {
+        "First Name": "Amalie",
+        "Middle Name": "NA",
+        "Last Name": "Wichmann",
+        "Maiden Name": "NA",
+        "Full Name at Birth": "Amalie Ny Wichmann",
+        "Alternative Name": "Amalie Ny Wichmann",
+        "Birthday": "1990",
+        "Birthplace": "Denmark",
+        "Height": "178",
+        "Weight": "NA",
+        "Zodiac Sign": "13",
+        "Sexuality": "NA",
+        "Religion": "1",
+        "Ethnicity": "6",
+        "Nationality": "50",
+        "Occupation": "15"
+    }
+}

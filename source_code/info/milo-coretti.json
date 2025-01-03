@@ -1,0 +1,44 @@
+{
+    "relationships": [
+        {
+            "name": "Samantha Fantauzzi",
+            "href": "https://www.whosdatedwho.com/dating/samantha-fantauzzi",
+            "relationship_type": 2,
+            "start_date": "Dec 2007",
+            "end_date": "Mar 2008",
+            "length": "3 months",
+            "start_months_since_1900": 1295,
+            "end_months_since_1900": 1298,
+            "length_in_months": 3
+        },
+        {
+            "name": "Guendalina Canessa",
+            "href": "https://www.whosdatedwho.com/dating/guendalina-canessa",
+            "relationship_type": 2,
+            "start_date": "Mar 2007",
+            "end_date": "Jun 2007",
+            "length": "3 months",
+            "start_months_since_1900": 1286,
+            "end_months_since_1900": 1289,
+            "length_in_months": 3
+        }
+    ],
+    "details": {
+        "First Name": "Milo",
+        "Middle Name": "NA",
+        "Last Name": "Coretti",
+        "Maiden Name": "NA",
+        "Full Name at Birth": "NA",
+        "Alternative Name": "NA",
+        "Birthday": "1977",
+        "Birthplace": "Italy",
+        "Height": "NA",
+        "Weight": "NA",
+        "Zodiac Sign": "6",
+        "Sexuality": "Straight",
+        "Religion": "1",
+        "Ethnicity": "6",
+        "Nationality": "139",
+        "Occupation": "8"
+    }
+}

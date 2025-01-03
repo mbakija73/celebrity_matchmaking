@@ -1,0 +1,66 @@
+{
+    "relationships": [
+        {
+            "name": "Rebecca Slaughter",
+            "href": "https://www.whosdatedwho.com/dating/rebecca-slaughter",
+            "relationship_type": 4,
+            "start_date": "1994",
+            "end_date": "2010",
+            "length": "16 years",
+            "start_months_since_1900": 1128,
+            "end_months_since_1900": 1320,
+            "length_in_months": 192
+        },
+        {
+            "name": "Shannen Doherty",
+            "href": "https://www.whosdatedwho.com/dating/shannen-doherty",
+            "relationship_type": 3,
+            "start_date": "1992",
+            "end_date": "1992",
+            "length": "-",
+            "start_months_since_1900": 1104,
+            "end_months_since_1900": 1104,
+            "length_in_months": -1
+        },
+        {
+            "name": "Sandra Wild",
+            "href": "https://www.whosdatedwho.com/dating/sandra-wild",
+            "relationship_type": 2,
+            "start_date": "1990",
+            "end_date": "1990",
+            "length": "-",
+            "start_months_since_1900": 1080,
+            "end_months_since_1900": 1080,
+            "length_in_months": -1
+        },
+        {
+            "name": "Cindy Romano (personality)",
+            "href": "https://www.whosdatedwho.com/dating/cindy-romano",
+            "relationship_type": 2,
+            "start_date": "",
+            "end_date": "",
+            "length": "-",
+            "start_months_since_1900": -1,
+            "end_months_since_1900": -1,
+            "length_in_months": -1
+        }
+    ],
+    "details": {
+        "First Name": "Mark",
+        "Middle Name": "Allen",
+        "Last Name": "Slaughter",
+        "Maiden Name": "NA",
+        "Full Name at Birth": "Mark Allen Slaughter",
+        "Alternative Name": "Smiley",
+        "Birthday": "1964",
+        "Birthplace": "USA",
+        "Height": "183",
+        "Weight": "165lbs (75 kg)",
+        "Zodiac Sign": "8",
+        "Sexuality": "NA",
+        "Religion": "1",
+        "Ethnicity": "6",
+        "Nationality": "91",
+        "Occupation": "1"
+    }
+}

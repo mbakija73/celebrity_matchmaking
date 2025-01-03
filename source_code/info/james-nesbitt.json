@@ -1,0 +1,44 @@
+{
+    "relationships": [
+        {
+            "name": "Florence Welch",
+            "href": "https://www.whosdatedwho.com/dating/florence-welch",
+            "relationship_type": 2,
+            "start_date": "Jan 2012",
+            "end_date": "2015",
+            "length": "3 years",
+            "start_months_since_1900": 1344,
+            "end_months_since_1900": 1380,
+            "length_in_months": 36
+        },
+        {
+            "name": "Paloma Faith",
+            "href": "https://www.whosdatedwho.com/dating/paloma-faith",
+            "relationship_type": 2,
+            "start_date": "",
+            "end_date": "",
+            "length": "-",
+            "start_months_since_1900": -1,
+            "end_months_since_1900": -1,
+            "length_in_months": -1
+        }
+    ],
+    "details": {
+        "First Name": "James",
+        "Middle Name": "NA",
+        "Last Name": "Nesbitt",
+        "Maiden Name": "NA",
+        "Full Name at Birth": "NA",
+        "Alternative Name": "NA",
+        "Birthday": "NA",
+        "Birthplace": "NA",
+        "Height": "NA",
+        "Weight": "NA",
+        "Zodiac Sign": "2",
+        "Sexuality": "NA",
+        "Religion": "1",
+        "Ethnicity": "1",
+        "Nationality": "65",
+        "Occupation": "9"
+    }
+}

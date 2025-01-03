@@ -1,0 +1,44 @@
+{
+    "relationships": [
+        {
+            "name": "Michelle Williams",
+            "href": "https://www.whosdatedwho.com/dating/michelle-williams",
+            "relationship_type": 2,
+            "start_date": "Jul 2015",
+            "end_date": "2016",
+            "length": "6 months",
+            "start_months_since_1900": 1386,
+            "end_months_since_1900": 1392,
+            "length_in_months": 6
+        },
+        {
+            "name": "Nicole Krauss",
+            "href": "https://www.whosdatedwho.com/dating/nicole-krauss",
+            "relationship_type": 4,
+            "start_date": "2001",
+            "end_date": "2016",
+            "length": "15 years",
+            "start_months_since_1900": 1212,
+            "end_months_since_1900": 1392,
+            "length_in_months": 180
+        }
+    ],
+    "details": {
+        "First Name": "Jonathan",
+        "Middle Name": "Safran",
+        "Last Name": "Foer",
+        "Maiden Name": "NA",
+        "Full Name at Birth": "Jonathan Safran Foer",
+        "Alternative Name": "NA",
+        "Birthday": "1977",
+        "Birthplace": "D.C.",
+        "Height": "NA",
+        "Weight": "NA",
+        "Zodiac Sign": "1",
+        "Sexuality": "NA",
+        "Religion": "31",
+        "Ethnicity": "1",
+        "Nationality": "91",
+        "Occupation": "3"
+    }
+}

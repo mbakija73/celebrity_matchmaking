@@ -1,0 +1,55 @@
+{
+    "relationships": [
+        {
+            "name": "Edith Atwater",
+            "href": "https://www.whosdatedwho.com/dating/edith-atwater",
+            "relationship_type": 4,
+            "start_date": "1946",
+            "end_date": "1946",
+            "length": "-",
+            "start_months_since_1900": 552,
+            "end_months_since_1900": 552,
+            "length_in_months": -1
+        },
+        {
+            "name": "K.T. Stevens",
+            "href": "https://www.whosdatedwho.com/dating/k-t-stevens",
+            "relationship_type": 4,
+            "start_date": "1946",
+            "end_date": "1968",
+            "length": "22 years",
+            "start_months_since_1900": 552,
+            "end_months_since_1900": 816,
+            "length_in_months": 264
+        },
+        {
+            "name": "Rosemary Torri",
+            "href": "https://www.whosdatedwho.com/dating/rosemary-torri",
+            "relationship_type": 4,
+            "start_date": "1967",
+            "end_date": "May 1982",
+            "length": "15 years",
+            "start_months_since_1900": 804,
+            "end_months_since_1900": 988,
+            "length_in_months": 180
+        }
+    ],
+    "details": {
+        "First Name": "Hugh",
+        "Middle Name": "Herbert",
+        "Last Name": "Marlowe",
+        "Maiden Name": "NA",
+        "Full Name at Birth": "Hugh Herbert Hipple",
+        "Alternative Name": "NA",
+        "Birthday": "1911",
+        "Birthplace": "Pennsylvania",
+        "Height": "180",
+        "Weight": "NA",
+        "Zodiac Sign": "9",
+        "Sexuality": "Straight",
+        "Religion": "1",
+        "Ethnicity": "6",
+        "Nationality": "91",
+        "Occupation": "8"
+    }
+}

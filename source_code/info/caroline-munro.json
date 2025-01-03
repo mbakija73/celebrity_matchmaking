@@ -1,0 +1,77 @@
+{
+    "relationships": [
+        {
+            "name": "George Dugdale",
+            "href": "https://www.whosdatedwho.com/dating/george-dugdale",
+            "relationship_type": 4,
+            "start_date": "1987",
+            "end_date": "Jan 2020",
+            "length": "33 years",
+            "start_months_since_1900": 1044,
+            "end_months_since_1900": 1440,
+            "length_in_months": 396
+        },
+        {
+            "name": "Gary Numan",
+            "href": "https://www.whosdatedwho.com/dating/gary-numan",
+            "relationship_type": 2,
+            "start_date": "1984",
+            "end_date": "1985",
+            "length": "1 year",
+            "start_months_since_1900": 1008,
+            "end_months_since_1900": 1020,
+            "length_in_months": 12
+        },
+        {
+            "name": "Robert Plant",
+            "href": "https://www.whosdatedwho.com/dating/robert-plant",
+            "relationship_type": 3,
+            "start_date": "1971",
+            "end_date": "1971",
+            "length": "-",
+            "start_months_since_1900": 852,
+            "end_months_since_1900": 852,
+            "length_in_months": -1
+        },
+        {
+            "name": "Judd Hamilton",
+            "href": "https://www.whosdatedwho.com/dating/judd-hamilton",
+            "relationship_type": 4,
+            "start_date": "1966",
+            "end_date": "1970",
+            "length": "4 years",
+            "start_months_since_1900": 792,
+            "end_months_since_1900": 840,
+            "length_in_months": 48
+        },
+        {
+            "name": "Colin Blunstone",
+            "href": "https://www.whosdatedwho.com/dating/colin-blunstone",
+            "relationship_type": 2,
+            "start_date": "",
+            "end_date": "",
+            "length": "-",
+            "start_months_since_1900": -1,
+            "end_months_since_1900": -1,
+            "length_in_months": -1
+        }
+    ],
+    "details": {
+        "First Name": "Caroline",
+        "Middle Name": "NA",
+        "Last Name": "NA",
+        "Maiden Name": "Munro",
+        "Full Name at Birth": "Caroline Jane Munro",
+        "Alternative Name": "NA",
+        "Birthday": "1949",
+        "Birthplace": "UK",
+        "Height": "170",
+        "Weight": "NA",
+        "Zodiac Sign": "13",
+        "Sexuality": "Straight",
+        "Religion": "1",
+        "Ethnicity": "6",
+        "Nationality": "8",
+        "Occupation": "8"
+    }
+}

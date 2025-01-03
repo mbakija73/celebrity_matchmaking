@@ -1,0 +1,55 @@
+{
+    "relationships": [
+        {
+            "name": "Kristin Cavallari",
+            "href": "https://www.whosdatedwho.com/dating/kristin-cavallari",
+            "relationship_type": 2,
+            "start_date": "Oct 2020",
+            "end_date": "Jan 2021",
+            "length": "3 months",
+            "start_months_since_1900": 1449,
+            "end_months_since_1900": 1452,
+            "length_in_months": 3
+        },
+        {
+            "name": "Rebecca Quin",
+            "href": "https://www.whosdatedwho.com/dating/rebecca-quin",
+            "relationship_type": 2,
+            "start_date": "Nov 2018",
+            "end_date": "",
+            "length": "-",
+            "start_months_since_1900": 1426,
+            "end_months_since_1900": -1,
+            "length_in_months": -1
+        },
+        {
+            "name": "Sara Jean Underwood",
+            "href": "https://www.whosdatedwho.com/dating/sara-jean-underwood",
+            "relationship_type": 2,
+            "start_date": "2009",
+            "end_date": "2012",
+            "length": "3 years",
+            "start_months_since_1900": 1308,
+            "end_months_since_1900": 1344,
+            "length_in_months": 36
+        }
+    ],
+    "details": {
+        "First Name": "Jeff",
+        "Middle Name": "NA",
+        "Last Name": "Dye",
+        "Maiden Name": "NA",
+        "Full Name at Birth": "Jeffrey Dye",
+        "Alternative Name": "NA",
+        "Birthday": "1983",
+        "Birthplace": "U.S.A.",
+        "Height": "193",
+        "Weight": "NA",
+        "Zodiac Sign": "9",
+        "Sexuality": "Straight",
+        "Religion": "1",
+        "Ethnicity": "6",
+        "Nationality": "91",
+        "Occupation": "16"
+    }
+}

@@ -1,0 +1,88 @@
+{
+    "relationships": [
+        {
+            "name": "Vado",
+            "href": "https://www.whosdatedwho.com/dating/vado",
+            "relationship_type": 2,
+            "start_date": "Oct 2023",
+            "end_date": "present",
+            "length": "1 year",
+            "start_months_since_1900": 1485,
+            "end_months_since_1900": -1,
+            "length_in_months": 12
+        },
+        {
+            "name": "Suge Knight",
+            "href": "https://www.whosdatedwho.com/dating/marion-suge-knight",
+            "relationship_type": 3,
+            "start_date": "Oct 1995",
+            "end_date": "Nov 1995",
+            "length": "1 month",
+            "start_months_since_1900": 1149,
+            "end_months_since_1900": 1150,
+            "length_in_months": 1
+        },
+        {
+            "name": "Jojo Brim",
+            "href": "https://www.whosdatedwho.com/dating/jojo-brim",
+            "relationship_type": 4,
+            "start_date": "1995",
+            "end_date": "1999",
+            "length": "4 years",
+            "start_months_since_1900": 1140,
+            "end_months_since_1900": 1188,
+            "length_in_months": 48
+        },
+        {
+            "name": "Sean 'Diddy' Combs",
+            "href": "https://www.whosdatedwho.com/dating/sean-combs",
+            "relationship_type": 2,
+            "start_date": "Sep 1992",
+            "end_date": "Mar 1995",
+            "length": "2 years",
+            "start_months_since_1900": 1112,
+            "end_months_since_1900": 1142,
+            "length_in_months": 24
+        },
+        {
+            "name": "50 Cent",
+            "href": "https://www.whosdatedwho.com/dating/50-cent",
+            "relationship_type": 3,
+            "start_date": "",
+            "end_date": "",
+            "length": "-",
+            "start_months_since_1900": -1,
+            "end_months_since_1900": -1,
+            "length_in_months": -1
+        },
+        {
+            "name": "Benzino",
+            "href": "https://www.whosdatedwho.com/dating/benzino",
+            "relationship_type": 1,
+            "start_date": "",
+            "end_date": "",
+            "length": "-",
+            "start_months_since_1900": -1,
+            "end_months_since_1900": -1,
+            "length_in_months": -1
+        }
+    ],
+    "details": {
+        "First Name": "Misa",
+        "Middle Name": "NA",
+        "Last Name": "Hylton-Brim",
+        "Maiden Name": "NA",
+        "Full Name at Birth": "NA",
+        "Alternative Name": "NA",
+        "Birthday": "1973",
+        "Birthplace": "USA",
+        "Height": "163",
+        "Weight": "132lbs (60 kg)",
+        "Zodiac Sign": "13",
+        "Sexuality": "Straight",
+        "Religion": "18",
+        "Ethnicity": "8",
+        "Nationality": "91",
+        "Occupation": "15"
+    }
+}

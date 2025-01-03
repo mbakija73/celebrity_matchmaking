@@ -1,0 +1,44 @@
+{
+    "relationships": [
+        {
+            "name": "Cathy McGowan",
+            "href": "https://www.whosdatedwho.com/dating/cathy-mcgowan",
+            "relationship_type": 4,
+            "start_date": "1969",
+            "end_date": "1988",
+            "length": "19 years",
+            "start_months_since_1900": 828,
+            "end_months_since_1900": 1056,
+            "length_in_months": 228
+        },
+        {
+            "name": "Tessa Dahl",
+            "href": "https://www.whosdatedwho.com/dating/tessa-dahl",
+            "relationship_type": 3,
+            "start_date": "",
+            "end_date": "",
+            "length": "-",
+            "start_months_since_1900": -1,
+            "end_months_since_1900": -1,
+            "length_in_months": -1
+        }
+    ],
+    "details": {
+        "First Name": "Hywel",
+        "Middle Name": "Thomas",
+        "Last Name": "Bennett",
+        "Maiden Name": "NA",
+        "Full Name at Birth": "Hywel Thomas Bennett",
+        "Alternative Name": "Hywel Thomas Bennett, Hywel Bennett",
+        "Birthday": "1944",
+        "Birthplace": "UK",
+        "Height": "178",
+        "Weight": "NA",
+        "Zodiac Sign": "7",
+        "Sexuality": "NA",
+        "Religion": "1",
+        "Ethnicity": "6",
+        "Nationality": "83",
+        "Occupation": "8"
+    }
+}

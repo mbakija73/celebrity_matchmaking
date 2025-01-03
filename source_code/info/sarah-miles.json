@@ -1,0 +1,110 @@
+{
+    "relationships": [
+        {
+            "name": "David Copperfield",
+            "href": "https://www.whosdatedwho.com/dating/david-copperfield-illusionist",
+            "relationship_type": 2,
+            "start_date": "Jul 1983",
+            "end_date": "Jul 1983",
+            "length": "-",
+            "start_months_since_1900": 1002,
+            "end_months_since_1900": 1002,
+            "length_in_months": -1
+        },
+        {
+            "name": "Steven Spielberg",
+            "href": "https://www.whosdatedwho.com/dating/steven-spielberg",
+            "relationship_type": 2,
+            "start_date": "1973",
+            "end_date": "1975",
+            "length": "2 years",
+            "start_months_since_1900": 876,
+            "end_months_since_1900": 900,
+            "length_in_months": 24
+        },
+        {
+            "name": "Burt Reynolds",
+            "href": "https://www.whosdatedwho.com/dating/burt-reynolds",
+            "relationship_type": 2,
+            "start_date": "1972",
+            "end_date": "1972",
+            "length": "-",
+            "start_months_since_1900": 864,
+            "end_months_since_1900": 864,
+            "length_in_months": -1
+        },
+        {
+            "name": "Robert Mitchum",
+            "href": "https://www.whosdatedwho.com/dating/robert-mitchum",
+            "relationship_type": 2,
+            "start_date": "1970",
+            "end_date": "1970",
+            "length": "-",
+            "start_months_since_1900": 840,
+            "end_months_since_1900": 840,
+            "length_in_months": -1
+        },
+        {
+            "name": "Robert Bolt",
+            "href": "https://www.whosdatedwho.com/dating/robert-bolt",
+            "relationship_type": 4,
+            "start_date": "1966",
+            "end_date": "20th Feb 1995",
+            "length": "29 years",
+            "start_months_since_1900": 792,
+            "end_months_since_1900": 1141,
+            "length_in_months": 348
+        },
+        {
+            "name": "James Fox",
+            "href": "https://www.whosdatedwho.com/dating/james-fox",
+            "relationship_type": 2,
+            "start_date": "1962",
+            "end_date": "1963",
+            "length": "1 year",
+            "start_months_since_1900": 744,
+            "end_months_since_1900": 756,
+            "length_in_months": 12
+        },
+        {
+            "name": "William Donaldson",
+            "href": "https://www.whosdatedwho.com/dating/william-donaldson",
+            "relationship_type": 2,
+            "start_date": "1962",
+            "end_date": "1964",
+            "length": "2 years",
+            "start_months_since_1900": 744,
+            "end_months_since_1900": 768,
+            "length_in_months": 24
+        },
+        {
+            "name": "Laurence Olivier",
+            "href": "https://www.whosdatedwho.com/dating/laurence-olivier",
+            "relationship_type": 2,
+            "start_date": "1960",
+            "end_date": "1960",
+            "length": "-",
+            "start_months_since_1900": 720,
+            "end_months_since_1900": 720,
+            "length_in_months": -1
+        }
+    ],
+    "details": {
+        "First Name": "Sarah",
+        "Middle Name": "NA",
+        "Last Name": "NA",
+        "Maiden Name": "Miles",
+        "Full Name at Birth": "Sarah Miles",
+        "Alternative Name": "NA",
+        "Birthday": "1941",
+        "Birthplace": "UK",
+        "Height": "165",
+        "Weight": "NA",
+        "Zodiac Sign": "13",
+        "Sexuality": "Straight",
+        "Religion": "1",
+        "Ethnicity": "6",
+        "Nationality": "8",
+        "Occupation": "8"
+    }
+}

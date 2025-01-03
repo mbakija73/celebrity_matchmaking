@@ -1,0 +1,44 @@
+{
+    "relationships": [
+        {
+            "name": "Michel Brown",
+            "href": "https://www.whosdatedwho.com/dating/michel-brown",
+            "relationship_type": 4,
+            "start_date": "2011",
+            "end_date": "present",
+            "length": "13 years",
+            "start_months_since_1900": 1332,
+            "end_months_since_1900": -1,
+            "length_in_months": 156
+        },
+        {
+            "name": "Guy Davidyan",
+            "href": "https://www.whosdatedwho.com/dating/guy-davidyan",
+            "relationship_type": 2,
+            "start_date": "2006",
+            "end_date": "2009",
+            "length": "3 years",
+            "start_months_since_1900": 1272,
+            "end_months_since_1900": 1308,
+            "length_in_months": 36
+        }
+    ],
+    "details": {
+        "First Name": "Margarita",
+        "Middle Name": "NA",
+        "Last Name": "Munoz",
+        "Maiden Name": "NA",
+        "Full Name at Birth": "Sof\u00eda Margarita Mu\u00f1oz Parra",
+        "Alternative Name": "Margarita Mu\u00f1oz, Margarita Mu\u00f1oz Parra, Sof\u00eda Margarita Mu\u00f1oz Parra, Mar\u00eda Margarita Mu\u00f1oz Parra",
+        "Birthday": "1987",
+        "Birthplace": "Colombia",
+        "Height": "NA",
+        "Weight": "NA",
+        "Zodiac Sign": "11",
+        "Sexuality": "Straight",
+        "Religion": "1",
+        "Ethnicity": "6",
+        "Nationality": "133",
+        "Occupation": "8"
+    }
+}

@@ -1,0 +1,44 @@
+{
+    "relationships": [
+        {
+            "name": "Courtney Hope",
+            "href": "https://www.whosdatedwho.com/dating/courtney-hope",
+            "relationship_type": 2,
+            "start_date": "Nov 2022",
+            "end_date": "Oct 2023",
+            "length": "11 months",
+            "start_months_since_1900": 1474,
+            "end_months_since_1900": 1485,
+            "length_in_months": 11
+        },
+        {
+            "name": "Sharon Case",
+            "href": "https://www.whosdatedwho.com/dating/sharon-case",
+            "relationship_type": 2,
+            "start_date": "Sep 2019",
+            "end_date": "2022",
+            "length": "2 years",
+            "start_months_since_1900": 1436,
+            "end_months_since_1900": 1464,
+            "length_in_months": 24
+        }
+    ],
+    "details": {
+        "First Name": "Mark",
+        "Middle Name": "NA",
+        "Last Name": "Grossman",
+        "Maiden Name": "NA",
+        "Full Name at Birth": "NA",
+        "Alternative Name": "NA",
+        "Birthday": "1987",
+        "Birthplace": "SC",
+        "Height": "185",
+        "Weight": "NA",
+        "Zodiac Sign": "9",
+        "Sexuality": "NA",
+        "Religion": "1",
+        "Ethnicity": "1",
+        "Nationality": "65",
+        "Occupation": "8"
+    }
+}

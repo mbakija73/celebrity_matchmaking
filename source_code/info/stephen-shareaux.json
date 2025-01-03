@@ -1,0 +1,33 @@
+{
+    "relationships": [
+        {
+            "name": "Jill St. Marks",
+            "href": "https://www.whosdatedwho.com/dating/jill-st-marks",
+            "relationship_type": 2,
+            "start_date": "Oct 2000",
+            "end_date": "Oct 2000",
+            "length": "-",
+            "start_months_since_1900": 1209,
+            "end_months_since_1900": 1209,
+            "length_in_months": -1
+        }
+    ],
+    "details": {
+        "First Name": "Stephen",
+        "Middle Name": "NA",
+        "Last Name": "Shareaux",
+        "Maiden Name": "NA",
+        "Full Name at Birth": "NA",
+        "Alternative Name": "NA",
+        "Birthday": "NA",
+        "Birthplace": "NA",
+        "Height": "NA",
+        "Weight": "NA",
+        "Zodiac Sign": "2",
+        "Sexuality": "Straight",
+        "Religion": "1",
+        "Ethnicity": "6",
+        "Nationality": "65",
+        "Occupation": "1"
+    }
+}

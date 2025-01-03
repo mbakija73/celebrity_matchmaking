@@ -1,0 +1,44 @@
+{
+    "relationships": [
+        {
+            "name": "Aaron Carter",
+            "href": "https://www.whosdatedwho.com/dating/aaron-carter",
+            "relationship_type": 2,
+            "start_date": "Apr 2020",
+            "end_date": "May 2020",
+            "length": "1 month",
+            "start_months_since_1900": 1443,
+            "end_months_since_1900": 1444,
+            "length_in_months": 1
+        },
+        {
+            "name": "Scott Harrison",
+            "href": "https://www.whosdatedwho.com/dating/scott-harrison",
+            "relationship_type": 2,
+            "start_date": "",
+            "end_date": "",
+            "length": "-",
+            "start_months_since_1900": -1,
+            "end_months_since_1900": -1,
+            "length_in_months": -1
+        }
+    ],
+    "details": {
+        "First Name": "Viktoria",
+        "Middle Name": "NA",
+        "Last Name": "Alexeeva",
+        "Maiden Name": "NA",
+        "Full Name at Birth": "Viktoria Alexeeva",
+        "Alternative Name": "Viktoria Alexeeva",
+        "Birthday": "13th April",
+        "Birthplace": "NA",
+        "Height": "NA",
+        "Weight": "NA",
+        "Zodiac Sign": "7",
+        "Sexuality": "NA",
+        "Religion": "1",
+        "Ethnicity": "1",
+        "Nationality": "9",
+        "Occupation": "19"
+    }
+}

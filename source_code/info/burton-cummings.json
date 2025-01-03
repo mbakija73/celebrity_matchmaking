@@ -1,0 +1,44 @@
+{
+    "relationships": [
+        {
+            "name": "Cherry Vanilla",
+            "href": "https://www.whosdatedwho.com/dating/cherry-vanilla",
+            "relationship_type": 3,
+            "start_date": "1970",
+            "end_date": "1970",
+            "length": "-",
+            "start_months_since_1900": 840,
+            "end_months_since_1900": 840,
+            "length_in_months": -1
+        },
+        {
+            "name": "Cheryl Deluca",
+            "href": "https://www.whosdatedwho.com/dating/cheryl-deluca",
+            "relationship_type": 4,
+            "start_date": "",
+            "end_date": "",
+            "length": "-",
+            "start_months_since_1900": -1,
+            "end_months_since_1900": -1,
+            "length_in_months": -1
+        }
+    ],
+    "details": {
+        "First Name": "Burton",
+        "Middle Name": "Lorne",
+        "Last Name": "Cummings",
+        "Maiden Name": "NA",
+        "Full Name at Birth": "Burton Lorne Cummings",
+        "Alternative Name": "NA",
+        "Birthday": "1947",
+        "Birthplace": "Canada",
+        "Height": "NA",
+        "Weight": "NA",
+        "Zodiac Sign": "13",
+        "Sexuality": "Straight",
+        "Religion": "1",
+        "Ethnicity": "6",
+        "Nationality": "90",
+        "Occupation": "1"
+    }
+}

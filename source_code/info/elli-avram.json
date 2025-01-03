@@ -1,0 +1,55 @@
+{
+    "relationships": [
+        {
+            "name": "Hardik Pandya",
+            "href": "https://www.whosdatedwho.com/dating/hardik-pandya",
+            "relationship_type": 2,
+            "start_date": "2017",
+            "end_date": "2018",
+            "length": "1 year",
+            "start_months_since_1900": 1404,
+            "end_months_since_1900": 1416,
+            "length_in_months": 12
+        },
+        {
+            "name": "Salman Khan",
+            "href": "https://www.whosdatedwho.com/dating/salman-khan",
+            "relationship_type": 2,
+            "start_date": "2013",
+            "end_date": "2013",
+            "length": "-",
+            "start_months_since_1900": 1356,
+            "end_months_since_1900": 1356,
+            "length_in_months": -1
+        },
+        {
+            "name": "Maniesh Paul",
+            "href": "https://www.whosdatedwho.com/dating/manish-paul",
+            "relationship_type": 2,
+            "start_date": "2013",
+            "end_date": "2013",
+            "length": "-",
+            "start_months_since_1900": 1356,
+            "end_months_since_1900": 1356,
+            "length_in_months": -1
+        }
+    ],
+    "details": {
+        "First Name": "Elli",
+        "Middle Name": "NA",
+        "Last Name": "Avram",
+        "Maiden Name": "NA",
+        "Full Name at Birth": "Elisabet Emelie Avramidou Granlund",
+        "Alternative Name": "Elisabeth Avramidou, Elli Avram, Elisabet Avramidou, Elisavet Avramidou, Elli, Elli AvrRam, Elisabet Avramidou Granlund, Elli Avramidou, Elisabet Emelie Avramidou Granlund",
+        "Birthday": "1990",
+        "Birthplace": "Sweden",
+        "Height": "170",
+        "Weight": "121lbs (55 kg)",
+        "Zodiac Sign": "12",
+        "Sexuality": "Straight",
+        "Religion": "34",
+        "Ethnicity": "6",
+        "Nationality": "30",
+        "Occupation": "8"
+    }
+}

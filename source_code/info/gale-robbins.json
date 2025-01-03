@@ -1,0 +1,66 @@
+{
+    "relationships": [
+        {
+            "name": "George Jessel",
+            "href": "https://www.whosdatedwho.com/dating/george-jessel",
+            "relationship_type": 3,
+            "start_date": "Jul 1959",
+            "end_date": "Jul 1959",
+            "length": "-",
+            "start_months_since_1900": 714,
+            "end_months_since_1900": 714,
+            "length_in_months": -1
+        },
+        {
+            "name": "George Raft",
+            "href": "https://www.whosdatedwho.com/dating/george-raft",
+            "relationship_type": 2,
+            "start_date": "Oct 1947",
+            "end_date": "Dec 1947",
+            "length": "2 months",
+            "start_months_since_1900": 573,
+            "end_months_since_1900": 575,
+            "length_in_months": 2
+        },
+        {
+            "name": "Alexander D'Arcy",
+            "href": "https://www.whosdatedwho.com/dating/alexander-d-arcy",
+            "relationship_type": 2,
+            "start_date": "May 1943",
+            "end_date": "Jul 1943",
+            "length": "2 months",
+            "start_months_since_1900": 520,
+            "end_months_since_1900": 522,
+            "length_in_months": 2
+        },
+        {
+            "name": "Robert Olson",
+            "href": "https://www.whosdatedwho.com/dating/robert-olson",
+            "relationship_type": 4,
+            "start_date": "1942",
+            "end_date": "Feb 1967",
+            "length": "25 years",
+            "start_months_since_1900": 504,
+            "end_months_since_1900": 805,
+            "length_in_months": 300
+        }
+    ],
+    "details": {
+        "First Name": "Gale",
+        "Middle Name": "NA",
+        "Last Name": "Robbins",
+        "Maiden Name": "NA",
+        "Full Name at Birth": "Betty Gale Murphy",
+        "Alternative Name": "Betty Gale Murphy, Betty Gale Robbins, Gale Robbins",
+        "Birthday": "1921",
+        "Birthplace": "USA",
+        "Height": "NA",
+        "Weight": "NA",
+        "Zodiac Sign": "3",
+        "Sexuality": "Straight",
+        "Religion": "1",
+        "Ethnicity": "6",
+        "Nationality": "91",
+        "Occupation": "8"
+    }
+}

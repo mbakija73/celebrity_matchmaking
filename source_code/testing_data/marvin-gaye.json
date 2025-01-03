@@ -1,0 +1,54 @@
+{
+    "relationships": [
+        {
+            "name": "Jan Gaye",
+            "href": "https://www.whosdatedwho.com/dating/janis-hunter",
+            "relationship_type": "Married",
+            "start_date": "Mar 1973",
+            "end_date": "Nov 1979",
+            "length": "6 years"
+        },
+        {
+            "name": "Anna Gordy Gaye",
+            "href": "https://www.whosdatedwho.com/dating/anna-gordy-gaye",
+            "relationship_type": "Married",
+            "start_date": "1960",
+            "end_date": "1975",
+            "length": "15 years"
+        },
+        {
+            "name": "Marlon Brando",
+            "href": "https://www.whosdatedwho.com/dating/marlon-brando",
+            "relationship_type": "Encounter",
+            "start_date": "",
+            "end_date": "",
+            "length": "-"
+        },
+        {
+            "name": "Tammi Terrell",
+            "href": "https://www.whosdatedwho.com/dating/tammi-terrell",
+            "relationship_type": "Encounter",
+            "start_date": "",
+            "end_date": "",
+            "length": "-"
+        }
+    ],
+    "details": {
+        "First Name": "Marvin",
+        "Middle Name": "Pentz",
+        "Last Name": "Gaye",
+        "Maiden Name": "NA",
+        "Full Name at Birth": "Marvin Pentz Gay Jr.",
+        "Alternative Name": "The Prince of Soul, The Prince of Motown, Prince of Motown, Prince of Soul, Marvin Gaye, Marvin Pentz Gay Jr., Marvin Pentz Gaye Jr., Marvin Gay, Marvin",
+        "Birthday": "2nd April, 1939",
+        "Birthplace": "Freedman's Hospital, Washington, District of Columbia, USA",
+        "Height": "6' 1\" (185 cm)",
+        "Weight": "172lbs (78 kg)",
+        "Zodiac Sign": "Aries",
+        "Sexuality": "DISPUTED",
+        "Religion": "Christian",
+        "Ethnicity": "Black",
+        "Nationality": "American",
+        "Occupation": "Singer"
+    }
+}

@@ -1,0 +1,55 @@
+{
+    "relationships": [
+        {
+            "name": "Mariela Roman",
+            "href": "https://www.whosdatedwho.com/dating/mariela-roman",
+            "relationship_type": 4,
+            "start_date": "2007",
+            "end_date": "",
+            "length": "-",
+            "start_months_since_1900": 1284,
+            "end_months_since_1900": -1,
+            "length_in_months": -1
+        },
+        {
+            "name": "Evangelina Anderson",
+            "href": "https://www.whosdatedwho.com/dating/evangelina-anderson",
+            "relationship_type": 2,
+            "start_date": "Sep 2005",
+            "end_date": "Mar 2007",
+            "length": "1 year",
+            "start_months_since_1900": 1268,
+            "end_months_since_1900": 1286,
+            "length_in_months": 12
+        },
+        {
+            "name": "Vivi Rodrigues",
+            "href": "https://www.whosdatedwho.com/dating/vivi-rodriguez",
+            "relationship_type": 2,
+            "start_date": "2002",
+            "end_date": "Jul 2005",
+            "length": "3 years",
+            "start_months_since_1900": 1224,
+            "end_months_since_1900": 1266,
+            "length_in_months": 36
+        }
+    ],
+    "details": {
+        "First Name": "Fabrizio",
+        "Middle Name": "NA",
+        "Last Name": "Vasconcellos",
+        "Maiden Name": "NA",
+        "Full Name at Birth": "NA",
+        "Alternative Name": "Fabrizio, Fabrizio Vasconcellos",
+        "Birthday": "1980",
+        "Birthplace": "Brazil",
+        "Height": "NA",
+        "Weight": "NA",
+        "Zodiac Sign": "5",
+        "Sexuality": "Straight",
+        "Religion": "1",
+        "Ethnicity": "1",
+        "Nationality": "87",
+        "Occupation": "14"
+    }
+}

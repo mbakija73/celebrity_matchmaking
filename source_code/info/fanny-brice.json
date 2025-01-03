@@ -1,0 +1,66 @@
+{
+    "relationships": [
+        {
+            "name": "Billy Rose",
+            "href": "https://www.whosdatedwho.com/dating/billy-rose",
+            "relationship_type": 4,
+            "start_date": "1927",
+            "end_date": "27th Oct 1939",
+            "length": "12 years",
+            "start_months_since_1900": 324,
+            "end_months_since_1900": 477,
+            "length_in_months": 144
+        },
+        {
+            "name": "Jules Arnstein",
+            "href": "https://www.whosdatedwho.com/dating/jules-arnstein",
+            "relationship_type": 4,
+            "start_date": "Oct 1918",
+            "end_date": "Sep 1927",
+            "length": "8 years",
+            "start_months_since_1900": 225,
+            "end_months_since_1900": 332,
+            "length_in_months": 96
+        },
+        {
+            "name": "Frank White",
+            "href": "https://www.whosdatedwho.com/dating/frank-white",
+            "relationship_type": 4,
+            "start_date": "1910",
+            "end_date": "1913",
+            "length": "3 years",
+            "start_months_since_1900": 120,
+            "end_months_since_1900": 156,
+            "length_in_months": 36
+        },
+        {
+            "name": "Ann Pennington",
+            "href": "https://www.whosdatedwho.com/dating/ann-pennington-actress",
+            "relationship_type": 2,
+            "start_date": "",
+            "end_date": "",
+            "length": "-",
+            "start_months_since_1900": -1,
+            "end_months_since_1900": -1,
+            "length_in_months": -1
+        }
+    ],
+    "details": {
+        "First Name": "Fanny",
+        "Middle Name": "NA",
+        "Last Name": "Brice",
+        "Maiden Name": "NA",
+        "Full Name at Birth": "Fania Borach",
+        "Alternative Name": "Fannie Brice, Fanny Brice, Fania Borach, Fanny Borach",
+        "Birthday": "1891",
+        "Birthplace": "USA",
+        "Height": "168",
+        "Weight": "NA",
+        "Zodiac Sign": "5",
+        "Sexuality": "Straight",
+        "Religion": "31",
+        "Ethnicity": "6",
+        "Nationality": "91",
+        "Occupation": "8"
+    }
+}

@@ -1,0 +1,55 @@
+{
+    "relationships": [
+        {
+            "name": "Sofia Sousa",
+            "href": "https://www.whosdatedwho.com/dating/sofia-sousa",
+            "relationship_type": 2,
+            "start_date": "Jul 2015",
+            "end_date": "Jan 2016",
+            "length": "6 months",
+            "start_months_since_1900": 1386,
+            "end_months_since_1900": 1392,
+            "length_in_months": 6
+        },
+        {
+            "name": "Daniela Pimenta",
+            "href": "https://www.whosdatedwho.com/dating/daniela-pimenta",
+            "relationship_type": 2,
+            "start_date": "2010",
+            "end_date": "2011",
+            "length": "1 year",
+            "start_months_since_1900": 1320,
+            "end_months_since_1900": 1332,
+            "length_in_months": 12
+        },
+        {
+            "name": "Margarida Aranha",
+            "href": "https://www.whosdatedwho.com/dating/margarida-aranha",
+            "relationship_type": 3,
+            "start_date": "",
+            "end_date": "",
+            "length": "-",
+            "start_months_since_1900": -1,
+            "end_months_since_1900": -1,
+            "length_in_months": -1
+        }
+    ],
+    "details": {
+        "First Name": "Pedro",
+        "Middle Name": "NA",
+        "Last Name": "Luso",
+        "Maiden Name": "NA",
+        "Full Name at Birth": "NA",
+        "Alternative Name": "NA",
+        "Birthday": "NA",
+        "Birthplace": "NA",
+        "Height": "NA",
+        "Weight": "NA",
+        "Zodiac Sign": "2",
+        "Sexuality": "NA",
+        "Religion": "1",
+        "Ethnicity": "8",
+        "Nationality": "65",
+        "Occupation": "19"
+    }
+}

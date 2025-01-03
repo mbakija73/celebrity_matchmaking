@@ -1,0 +1,55 @@
+{
+    "relationships": [
+        {
+            "name": "Carmen Phillips",
+            "href": "https://www.whosdatedwho.com/dating/carmen-phillips",
+            "relationship_type": 2,
+            "start_date": "Jul 1958",
+            "end_date": "1960",
+            "length": "1 year",
+            "start_months_since_1900": 702,
+            "end_months_since_1900": 720,
+            "length_in_months": 12
+        },
+        {
+            "name": "Kathleen Case",
+            "href": "https://www.whosdatedwho.com/dating/kathleen-case",
+            "relationship_type": 2,
+            "start_date": "Oct 1954",
+            "end_date": "Jan 1957",
+            "length": "2 years",
+            "start_months_since_1900": 657,
+            "end_months_since_1900": 684,
+            "length_in_months": 24
+        },
+        {
+            "name": "Jean Seberg",
+            "href": "https://www.whosdatedwho.com/dating/jean-seberg",
+            "relationship_type": 3,
+            "start_date": "",
+            "end_date": "",
+            "length": "-",
+            "start_months_since_1900": -1,
+            "end_months_since_1900": -1,
+            "length_in_months": -1
+        }
+    ],
+    "details": {
+        "First Name": "Steve",
+        "Middle Name": "Jacob",
+        "Last Name": "Rowland",
+        "Maiden Name": "NA",
+        "Full Name at Birth": "Stephen Jacob Rowland",
+        "Alternative Name": "NA",
+        "Birthday": "1932",
+        "Birthplace": "CA",
+        "Height": "NA",
+        "Weight": "NA",
+        "Zodiac Sign": "11",
+        "Sexuality": "Straight",
+        "Religion": "1",
+        "Ethnicity": "6",
+        "Nationality": "91",
+        "Occupation": "8"
+    }
+}

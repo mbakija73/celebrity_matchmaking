@@ -1,0 +1,33 @@
+{
+    "relationships": [
+        {
+            "name": "Vita Sackville-West",
+            "href": "https://www.whosdatedwho.com/dating/vita-sackville-west",
+            "relationship_type": 2,
+            "start_date": "1929",
+            "end_date": "1931",
+            "length": "2 years",
+            "start_months_since_1900": 348,
+            "end_months_since_1900": 372,
+            "length_in_months": 24
+        }
+    ],
+    "details": {
+        "First Name": "Hilda",
+        "Middle Name": "NA",
+        "Last Name": "Matheson",
+        "Maiden Name": "NA",
+        "Full Name at Birth": "Hilda Matheson",
+        "Alternative Name": "Hilda Matheson",
+        "Birthday": "1888",
+        "Birthplace": "England UK",
+        "Height": "NA",
+        "Weight": "NA",
+        "Zodiac Sign": "4",
+        "Sexuality": "NA",
+        "Religion": "1",
+        "Ethnicity": "1",
+        "Nationality": "8",
+        "Occupation": "9"
+    }
+}

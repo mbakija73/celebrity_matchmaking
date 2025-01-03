@@ -1,0 +1,44 @@
+{
+    "relationships": [
+        {
+            "name": "John Estanislau",
+            "href": "https://www.whosdatedwho.com/dating/john-estanislau",
+            "relationship_type": 2,
+            "start_date": "2015",
+            "end_date": "2020",
+            "length": "5 years",
+            "start_months_since_1900": 1380,
+            "end_months_since_1900": 1440,
+            "length_in_months": 60
+        },
+        {
+            "name": "Jimmy Wong",
+            "href": "https://www.whosdatedwho.com/dating/jimmy-wong",
+            "relationship_type": 2,
+            "start_date": "Aug 2011",
+            "end_date": "Aug 2013",
+            "length": "2 years",
+            "start_months_since_1900": 1339,
+            "end_months_since_1900": 1363,
+            "length_in_months": 24
+        }
+    ],
+    "details": {
+        "First Name": "Meghan",
+        "Middle Name": "Channing",
+        "Last Name": "Camarena",
+        "Maiden Name": "NA",
+        "Full Name at Birth": "Meghan Channing Camarena",
+        "Alternative Name": "Meg, Strawburry17, Meghan, Meghan Camarena, Meghan Channing Camarena, Meghan-san",
+        "Birthday": "1987",
+        "Birthplace": "USA",
+        "Height": "168",
+        "Weight": "126lbs (57 kg)",
+        "Zodiac Sign": "8",
+        "Sexuality": "Straight",
+        "Religion": "1",
+        "Ethnicity": "8",
+        "Nationality": "91",
+        "Occupation": "11"
+    }
+}

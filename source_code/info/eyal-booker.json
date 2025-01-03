@@ -1,0 +1,66 @@
+{
+    "relationships": [
+        {
+            "name": "Hana Cross",
+            "href": "https://www.whosdatedwho.com/dating/hana-cross",
+            "relationship_type": 2,
+            "start_date": "May 2022",
+            "end_date": "2022",
+            "length": "4 months",
+            "start_months_since_1900": 1468,
+            "end_months_since_1900": 1464,
+            "length_in_months": 4
+        },
+        {
+            "name": "Amelia Hamlin",
+            "href": "https://www.whosdatedwho.com/dating/amelia-hamlin",
+            "relationship_type": 2,
+            "start_date": "2021",
+            "end_date": "Jan 2022",
+            "length": "1 year",
+            "start_months_since_1900": 1452,
+            "end_months_since_1900": 1464,
+            "length_in_months": 12
+        },
+        {
+            "name": "Delilah Hamlin",
+            "href": "https://www.whosdatedwho.com/dating/delilah-hamlin",
+            "relationship_type": 2,
+            "start_date": "2019",
+            "end_date": "2021",
+            "length": "2 years",
+            "start_months_since_1900": 1428,
+            "end_months_since_1900": 1452,
+            "length_in_months": 24
+        },
+        {
+            "name": "Megan Barton Hanson",
+            "href": "https://www.whosdatedwho.com/dating/megan-barton-hanson",
+            "relationship_type": 2,
+            "start_date": "Jun 2018",
+            "end_date": "Jun 2018",
+            "length": "-",
+            "start_months_since_1900": 1421,
+            "end_months_since_1900": 1421,
+            "length_in_months": -1
+        }
+    ],
+    "details": {
+        "First Name": "Eyal",
+        "Middle Name": "NA",
+        "Last Name": "Booker",
+        "Maiden Name": "NA",
+        "Full Name at Birth": "Eyal Booker",
+        "Alternative Name": "NA",
+        "Birthday": "1995",
+        "Birthplace": "England",
+        "Height": "178",
+        "Weight": "167lbs (76 kg)",
+        "Zodiac Sign": "12",
+        "Sexuality": "Straight",
+        "Religion": "1",
+        "Ethnicity": "6",
+        "Nationality": "8",
+        "Occupation": "15"
+    }
+}

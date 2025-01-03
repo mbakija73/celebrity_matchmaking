@@ -1,0 +1,55 @@
+{
+    "relationships": [
+        {
+            "name": "Ted Monte",
+            "href": "https://www.whosdatedwho.com/dating/ted-monte",
+            "relationship_type": 4,
+            "start_date": "2003",
+            "end_date": "present",
+            "length": "21 years",
+            "start_months_since_1900": 1236,
+            "end_months_since_1900": -1,
+            "length_in_months": 252
+        },
+        {
+            "name": "Joel Schur",
+            "href": "https://www.whosdatedwho.com/dating/joel-schur",
+            "relationship_type": 2,
+            "start_date": "1981",
+            "end_date": "1985",
+            "length": "4 years",
+            "start_months_since_1900": 972,
+            "end_months_since_1900": 1020,
+            "length_in_months": 48
+        },
+        {
+            "name": "Gary DeVore",
+            "href": "https://www.whosdatedwho.com/dating/gary-devore",
+            "relationship_type": 2,
+            "start_date": "",
+            "end_date": "",
+            "length": "-",
+            "start_months_since_1900": -1,
+            "end_months_since_1900": -1,
+            "length_in_months": -1
+        }
+    ],
+    "details": {
+        "First Name": "Priscilla",
+        "Middle Name": "Anne",
+        "Last Name": "Barnes",
+        "Maiden Name": "NA",
+        "Full Name at Birth": "Priscilla Anne Barnes",
+        "Alternative Name": "Priscilla Anne Barnes, Priscilla Barnes",
+        "Birthday": "1954",
+        "Birthplace": "USA",
+        "Height": "170",
+        "Weight": "NA",
+        "Zodiac Sign": "6",
+        "Sexuality": "Straight",
+        "Religion": "1",
+        "Ethnicity": "6",
+        "Nationality": "91",
+        "Occupation": "8"
+    }
+}

@@ -1,0 +1,55 @@
+{
+    "relationships": [
+        {
+            "name": "Rachel",
+            "href": "https://www.whosdatedwho.com/dating/rachel-brenner-118399559",
+            "relationship_type": 2,
+            "start_date": "2020",
+            "end_date": "present",
+            "length": "4 years",
+            "start_months_since_1900": 1440,
+            "end_months_since_1900": -1,
+            "length_in_months": 48
+        },
+        {
+            "name": "Kian Lawley",
+            "href": "https://www.whosdatedwho.com/dating/kian-lawley",
+            "relationship_type": 2,
+            "start_date": "Aug 2011",
+            "end_date": "",
+            "length": "-",
+            "start_months_since_1900": 1339,
+            "end_months_since_1900": -1,
+            "length_in_months": -1
+        },
+        {
+            "name": "Alyx Weiss",
+            "href": "https://www.whosdatedwho.com/dating/alyx-weiss-personality",
+            "relationship_type": 1,
+            "start_date": "2017",
+            "end_date": "2017",
+            "length": "-",
+            "start_months_since_1900": 1404,
+            "end_months_since_1900": 1404,
+            "length_in_months": -1
+        }
+    ],
+    "details": {
+        "First Name": "Jenn",
+        "Middle Name": "NA",
+        "Last Name": "MacAllister",
+        "Maiden Name": "NA",
+        "Full Name at Birth": "Jennifer Ann MacAllister",
+        "Alternative Name": "Jennxpenn, Jenn, Jenn McAllister",
+        "Birthday": "1996",
+        "Birthplace": "USA",
+        "Height": "163",
+        "Weight": "121lbs (55 kg)",
+        "Zodiac Sign": "8",
+        "Sexuality": "Bisexual",
+        "Religion": "1",
+        "Ethnicity": "6",
+        "Nationality": "91",
+        "Occupation": "11"
+    }
+}

@@ -1,0 +1,66 @@
+{
+    "relationships": [
+        {
+            "name": "William Paley",
+            "href": "https://www.whosdatedwho.com/dating/william-paley",
+            "relationship_type": 2,
+            "start_date": "1980",
+            "end_date": "1980",
+            "length": "-",
+            "start_months_since_1900": 960,
+            "end_months_since_1900": 960,
+            "length_in_months": -1
+        },
+        {
+            "name": "Vincent Astor",
+            "href": "https://www.whosdatedwho.com/dating/vincent-astor",
+            "relationship_type": 4,
+            "start_date": "Oct 1953",
+            "end_date": "Feb 1959",
+            "length": "5 years",
+            "start_months_since_1900": 645,
+            "end_months_since_1900": 709,
+            "length_in_months": 60
+        },
+        {
+            "name": "Charles Henry Marshall",
+            "href": "https://www.whosdatedwho.com/dating/charles-henry-marshall",
+            "relationship_type": 4,
+            "start_date": "19th Apr 1932",
+            "end_date": "27th Nov 1952",
+            "length": "20 years",
+            "start_months_since_1900": 387,
+            "end_months_since_1900": 634,
+            "length_in_months": 240
+        },
+        {
+            "name": "John Dryden Kuser",
+            "href": "https://www.whosdatedwho.com/dating/john-dryden-kuser",
+            "relationship_type": 4,
+            "start_date": "26th Apr 1919",
+            "end_date": "1930",
+            "length": "10 years",
+            "start_months_since_1900": 231,
+            "end_months_since_1900": 360,
+            "length_in_months": 120
+        }
+    ],
+    "details": {
+        "First Name": "Brooke",
+        "Middle Name": "Brooke",
+        "Last Name": "Astor",
+        "Maiden Name": "NA",
+        "Full Name at Birth": "Roberta Brooke Russell",
+        "Alternative Name": "Mrs. Vincent Astor, Roberta Brooke Russell, Brooke Marshall Astor, Brooke Astor, Brooke Russell",
+        "Birthday": "1902",
+        "Birthplace": "New Hampshire",
+        "Height": "NA",
+        "Weight": "NA",
+        "Zodiac Sign": "7",
+        "Sexuality": "Straight",
+        "Religion": "1",
+        "Ethnicity": "6",
+        "Nationality": "91",
+        "Occupation": "11"
+    }
+}

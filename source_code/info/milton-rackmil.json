@@ -1,0 +1,55 @@
+{
+    "relationships": [
+        {
+            "name": "Joan Crane",
+            "href": "https://www.whosdatedwho.com/dating/joan-crane",
+            "relationship_type": 4,
+            "start_date": "1974",
+            "end_date": "Apr 1992",
+            "length": "18 years",
+            "start_months_since_1900": 888,
+            "end_months_since_1900": 1107,
+            "length_in_months": 216
+        },
+        {
+            "name": "Gladys Nederlander",
+            "href": "https://www.whosdatedwho.com/dating/gladys-nederlander",
+            "relationship_type": 4,
+            "start_date": "1962",
+            "end_date": "1973",
+            "length": "11 years",
+            "start_months_since_1900": 744,
+            "end_months_since_1900": 876,
+            "length_in_months": 132
+        },
+        {
+            "name": "Vivian Blaine",
+            "href": "https://www.whosdatedwho.com/dating/vivian-blaine",
+            "relationship_type": 4,
+            "start_date": "1957",
+            "end_date": "23rd Jul 1961",
+            "length": "4 years",
+            "start_months_since_1900": 684,
+            "end_months_since_1900": 738,
+            "length_in_months": 48
+        }
+    ],
+    "details": {
+        "First Name": "Milton",
+        "Middle Name": "NA",
+        "Last Name": "Rackmil",
+        "Maiden Name": "NA",
+        "Full Name at Birth": "Milton R. Rackmil",
+        "Alternative Name": "NA",
+        "Birthday": "1906",
+        "Birthplace": "USA",
+        "Height": "NA",
+        "Weight": "NA",
+        "Zodiac Sign": "9",
+        "Sexuality": "Straight",
+        "Religion": "31",
+        "Ethnicity": "6",
+        "Nationality": "91",
+        "Occupation": "9"
+    }
+}

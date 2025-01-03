@@ -1,0 +1,77 @@
+{
+    "relationships": [
+        {
+            "name": "Josh Duhamel",
+            "href": "https://www.whosdatedwho.com/dating/josh-duhamel",
+            "relationship_type": 4,
+            "start_date": "Sep 2004",
+            "end_date": "Nov 2019",
+            "length": "15 years",
+            "start_months_since_1900": 1256,
+            "end_months_since_1900": 1438,
+            "length_in_months": 180
+        },
+        {
+            "name": "Justin Timberlake",
+            "href": "https://www.whosdatedwho.com/dating/justin-timberlake",
+            "relationship_type": 3,
+            "start_date": "Jun 1998",
+            "end_date": "Aug 1998",
+            "length": "2 months",
+            "start_months_since_1900": 1181,
+            "end_months_since_1900": 1183,
+            "length_in_months": 2
+        },
+        {
+            "name": "Mario Lopez",
+            "href": "https://www.whosdatedwho.com/dating/mario-lopez",
+            "relationship_type": 2,
+            "start_date": "1984",
+            "end_date": "1984",
+            "length": "-",
+            "start_months_since_1900": 1008,
+            "end_months_since_1900": 1008,
+            "length_in_months": -1
+        },
+        {
+            "name": "Kendrick Lamar",
+            "href": "https://www.whosdatedwho.com/dating/kendrick-lamar",
+            "relationship_type": 1,
+            "start_date": "",
+            "end_date": "",
+            "length": "-",
+            "start_months_since_1900": -1,
+            "end_months_since_1900": -1,
+            "length_in_months": -1
+        },
+        {
+            "name": "24KGoldn",
+            "href": "https://www.whosdatedwho.com/dating/24kgoldn",
+            "relationship_type": 1,
+            "start_date": "",
+            "end_date": "",
+            "length": "-",
+            "start_months_since_1900": -1,
+            "end_months_since_1900": -1,
+            "length_in_months": -1
+        }
+    ],
+    "details": {
+        "First Name": "Stacy",
+        "Middle Name": "Ann",
+        "Last Name": "Duhamel",
+        "Maiden Name": "Ferguson",
+        "Full Name at Birth": "Stacy Ann Ferguson",
+        "Alternative Name": "Fergie, The Dutchess, Fergie Duhamel, Stacy Ann Ferguson Duhamel, Stacy Ann Ferguson, Stace, Fergalicious",
+        "Birthday": "1975",
+        "Birthplace": "USA",
+        "Height": "159",
+        "Weight": "126lbs (57 kg)",
+        "Zodiac Sign": "7",
+        "Sexuality": "Bisexual",
+        "Religion": "13",
+        "Ethnicity": "6",
+        "Nationality": "91",
+        "Occupation": "1"
+    }
+}

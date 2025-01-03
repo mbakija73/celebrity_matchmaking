@@ -1,0 +1,44 @@
+{
+    "relationships": [
+        {
+            "name": "Danny Fuller",
+            "href": "https://www.whosdatedwho.com/dating/danny-fuller",
+            "relationship_type": 4,
+            "start_date": "Oct 2013",
+            "end_date": "Jun 2017",
+            "length": "3 years",
+            "start_months_since_1900": 1365,
+            "end_months_since_1900": 1409,
+            "length_in_months": 36
+        },
+        {
+            "name": "Mark Birnbaum",
+            "href": "https://www.whosdatedwho.com/dating/mark-birnbaum-other",
+            "relationship_type": 4,
+            "start_date": "2019",
+            "end_date": "present",
+            "length": "5 years",
+            "start_months_since_1900": 1428,
+            "end_months_since_1900": -1,
+            "length_in_months": 60
+        }
+    ],
+    "details": {
+        "First Name": "Tori",
+        "Middle Name": "NA",
+        "Last Name": "Praver",
+        "Maiden Name": "NA",
+        "Full Name at Birth": "Victoria Syde Praver",
+        "Alternative Name": "Tori Praever, Tori, Tori Praver-Fuller, Victoria Syde Praver",
+        "Birthday": "1987",
+        "Birthplace": "USA",
+        "Height": "180",
+        "Weight": "NA",
+        "Zodiac Sign": "4",
+        "Sexuality": "Straight",
+        "Religion": "1",
+        "Ethnicity": "6",
+        "Nationality": "91",
+        "Occupation": "15"
+    }
+}

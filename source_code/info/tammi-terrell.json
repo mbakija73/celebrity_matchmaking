@@ -1,0 +1,66 @@
+{
+    "relationships": [
+        {
+            "name": "David Ruffin",
+            "href": "https://www.whosdatedwho.com/dating/david-ruffin",
+            "relationship_type": 2,
+            "start_date": "1965",
+            "end_date": "1967",
+            "length": "2 years",
+            "start_months_since_1900": 780,
+            "end_months_since_1900": 804,
+            "length_in_months": 24
+        },
+        {
+            "name": "James Brown",
+            "href": "https://www.whosdatedwho.com/dating/james-brown",
+            "relationship_type": 2,
+            "start_date": "1962",
+            "end_date": "1964",
+            "length": "2 years",
+            "start_months_since_1900": 744,
+            "end_months_since_1900": 768,
+            "length_in_months": 24
+        },
+        {
+            "name": "Marvin Gaye",
+            "href": "https://www.whosdatedwho.com/dating/marvin-gaye",
+            "relationship_type": 3,
+            "start_date": "",
+            "end_date": "",
+            "length": "-",
+            "start_months_since_1900": -1,
+            "end_months_since_1900": -1,
+            "length_in_months": -1
+        },
+        {
+            "name": "Eddie Kendricks",
+            "href": "https://www.whosdatedwho.com/dating/eddie-kendricks",
+            "relationship_type": 3,
+            "start_date": "",
+            "end_date": "",
+            "length": "-",
+            "start_months_since_1900": -1,
+            "end_months_since_1900": -1,
+            "length_in_months": -1
+        }
+    ],
+    "details": {
+        "First Name": "Tammi",
+        "Middle Name": "Winifred",
+        "Last Name": "Terrell",
+        "Maiden Name": "NA",
+        "Full Name at Birth": "Thomasina Winifred Montgomery",
+        "Alternative Name": "Tammi Terrell",
+        "Birthday": "1945",
+        "Birthplace": "USA",
+        "Height": "NA",
+        "Weight": "NA",
+        "Zodiac Sign": "3",
+        "Sexuality": "Straight",
+        "Religion": "1",
+        "Ethnicity": "2",
+        "Nationality": "91",
+        "Occupation": "1"
+    }
+}

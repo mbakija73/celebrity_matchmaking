@@ -1,0 +1,231 @@
+{
+    "relationships": [
+        {
+            "name": "Aaron Carter",
+            "href": "https://www.whosdatedwho.com/dating/aaron-carter",
+            "relationship_type": 2,
+            "start_date": "Oct 2019",
+            "end_date": "Nov 2019",
+            "length": "1 month",
+            "start_months_since_1900": 1437,
+            "end_months_since_1900": 1438,
+            "length_in_months": 1
+        },
+        {
+            "name": "Will Barton",
+            "href": "https://www.whosdatedwho.com/dating/will-barton-basketball",
+            "relationship_type": 3,
+            "start_date": "Dec 2015",
+            "end_date": "Feb 2016",
+            "length": "2 months",
+            "start_months_since_1900": 1391,
+            "end_months_since_1900": 1393,
+            "length_in_months": 2
+        },
+        {
+            "name": "Andre Drummond",
+            "href": "https://www.whosdatedwho.com/dating/andre-drummond",
+            "relationship_type": 3,
+            "start_date": "2015",
+            "end_date": "2015",
+            "length": "-",
+            "start_months_since_1900": 1380,
+            "end_months_since_1900": 1380,
+            "length_in_months": -1
+        },
+        {
+            "name": "Austin Daye",
+            "href": "https://www.whosdatedwho.com/dating/austin-daye",
+            "relationship_type": 3,
+            "start_date": "2014",
+            "end_date": "2014",
+            "length": "-",
+            "start_months_since_1900": 1368,
+            "end_months_since_1900": 1368,
+            "length_in_months": -1
+        },
+        {
+            "name": "Josh Gordon",
+            "href": "https://www.whosdatedwho.com/dating/josh-gordon",
+            "relationship_type": 3,
+            "start_date": "2014",
+            "end_date": "2014",
+            "length": "-",
+            "start_months_since_1900": 1368,
+            "end_months_since_1900": 1368,
+            "length_in_months": -1
+        },
+        {
+            "name": "French Montana",
+            "href": "https://www.whosdatedwho.com/dating/french-montana",
+            "relationship_type": 3,
+            "start_date": "2013",
+            "end_date": "2013",
+            "length": "-",
+            "start_months_since_1900": 1356,
+            "end_months_since_1900": 1356,
+            "length_in_months": -1
+        },
+        {
+            "name": "James Harden",
+            "href": "https://www.whosdatedwho.com/dating/james-harden",
+            "relationship_type": 3,
+            "start_date": "2012",
+            "end_date": "2012",
+            "length": "-",
+            "start_months_since_1900": 1344,
+            "end_months_since_1900": 1344,
+            "length_in_months": -1
+        },
+        {
+            "name": "Lamar Odom",
+            "href": "https://www.whosdatedwho.com/dating/lamar-odom",
+            "relationship_type": 3,
+            "start_date": "2011",
+            "end_date": "2011",
+            "length": "-",
+            "start_months_since_1900": 1332,
+            "end_months_since_1900": 1332,
+            "length_in_months": -1
+        },
+        {
+            "name": "Rob Kardashian",
+            "href": "https://www.whosdatedwho.com/dating/rob-kardashian",
+            "relationship_type": 3,
+            "start_date": "Oct 2010",
+            "end_date": "Nov 2010",
+            "length": "1 month",
+            "start_months_since_1900": 1329,
+            "end_months_since_1900": 1330,
+            "length_in_months": 1
+        },
+        {
+            "name": "Juelz Santana",
+            "href": "https://www.whosdatedwho.com/dating/juelz-santana",
+            "relationship_type": 3,
+            "start_date": "Sep 2010",
+            "end_date": "Sep 2010",
+            "length": "-",
+            "start_months_since_1900": 1328,
+            "end_months_since_1900": 1328,
+            "length_in_months": -1
+        },
+        {
+            "name": "Ye",
+            "href": "https://www.whosdatedwho.com/dating/kanye-west",
+            "relationship_type": 3,
+            "start_date": "2010",
+            "end_date": "2010",
+            "length": "-",
+            "start_months_since_1900": 1320,
+            "end_months_since_1900": 1320,
+            "length_in_months": -1
+        },
+        {
+            "name": "Lil' Wayne",
+            "href": "https://www.whosdatedwho.com/dating/lil-wayne",
+            "relationship_type": 3,
+            "start_date": "Aug 2009",
+            "end_date": "Feb 2010",
+            "length": "6 months",
+            "start_months_since_1900": 1315,
+            "end_months_since_1900": 1321,
+            "length_in_months": 6
+        },
+        {
+            "name": "Yung Berg",
+            "href": "https://www.whosdatedwho.com/dating/yung-berg",
+            "relationship_type": 3,
+            "start_date": "Jul 2009",
+            "end_date": "Nov 2012",
+            "length": "3 years",
+            "start_months_since_1900": 1314,
+            "end_months_since_1900": 1354,
+            "length_in_months": 36
+        },
+        {
+            "name": "Shad Moss",
+            "href": "https://www.whosdatedwho.com/dating/shad-moss",
+            "relationship_type": 3,
+            "start_date": "2009",
+            "end_date": "2009",
+            "length": "-",
+            "start_months_since_1900": 1308,
+            "end_months_since_1900": 1308,
+            "length_in_months": -1
+        },
+        {
+            "name": "Soulja Boy",
+            "href": "https://www.whosdatedwho.com/dating/soulja-boy",
+            "relationship_type": 2,
+            "start_date": "2009",
+            "end_date": "2013",
+            "length": "4 years",
+            "start_months_since_1900": 1308,
+            "end_months_since_1900": 1356,
+            "length_in_months": 48
+        },
+        {
+            "name": "Fabolous",
+            "href": "https://www.whosdatedwho.com/dating/fabolous",
+            "relationship_type": 3,
+            "start_date": "2008",
+            "end_date": "2010",
+            "length": "2 years",
+            "start_months_since_1900": 1296,
+            "end_months_since_1900": 1320,
+            "length_in_months": 24
+        },
+        {
+            "name": "Tyga",
+            "href": "https://www.whosdatedwho.com/dating/tyga",
+            "relationship_type": 3,
+            "start_date": "Jul 2007",
+            "end_date": "Jul 2007",
+            "length": "-",
+            "start_months_since_1900": 1290,
+            "end_months_since_1900": 1290,
+            "length_in_months": -1
+        },
+        {
+            "name": "Mack Maine",
+            "href": "https://www.whosdatedwho.com/dating/mack-maine",
+            "relationship_type": 3,
+            "start_date": "",
+            "end_date": "",
+            "length": "-",
+            "start_months_since_1900": -1,
+            "end_months_since_1900": -1,
+            "length_in_months": -1
+        },
+        {
+            "name": "Benzino",
+            "href": "https://www.whosdatedwho.com/dating/benzino",
+            "relationship_type": 3,
+            "start_date": "",
+            "end_date": "",
+            "length": "-",
+            "start_months_since_1900": -1,
+            "end_months_since_1900": -1,
+            "length_in_months": -1
+        }
+    ],
+    "details": {
+        "First Name": "Jenna",
+        "Middle Name": "NA",
+        "Last Name": "Shea",
+        "Maiden Name": "NA",
+        "Full Name at Birth": "Jenna Shea Cosgrove",
+        "Alternative Name": "The Urban Barbie, Jenna, Jenna Cosgrove, Jenna Shea",
+        "Birthday": "1985",
+        "Birthplace": "USA",
+        "Height": "178",
+        "Weight": "120lbs (54 kg)",
+        "Zodiac Sign": "11",
+        "Sexuality": "Straight",
+        "Religion": "18",
+        "Ethnicity": "6",
+        "Nationality": "91",
+        "Occupation": "16"
+    }
+}

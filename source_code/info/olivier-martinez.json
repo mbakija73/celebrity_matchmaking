@@ -1,0 +1,110 @@
+{
+    "relationships": [
+        {
+            "name": "Halle Berry",
+            "href": "https://www.whosdatedwho.com/dating/halle-berry",
+            "relationship_type": 4,
+            "start_date": "Aug 2010",
+            "end_date": "Oct 2015",
+            "length": "5 years",
+            "start_months_since_1900": 1327,
+            "end_months_since_1900": 1389,
+            "length_in_months": 60
+        },
+        {
+            "name": "Rosie Huntington-Whiteley",
+            "href": "https://www.whosdatedwho.com/dating/rosie-huntington-whiteley",
+            "relationship_type": 2,
+            "start_date": "Nov 2009",
+            "end_date": "Feb 2010",
+            "length": "3 months",
+            "start_months_since_1900": 1318,
+            "end_months_since_1900": 1321,
+            "length_in_months": 3
+        },
+        {
+            "name": "Goya Toledo",
+            "href": "https://www.whosdatedwho.com/dating/goya-toledo",
+            "relationship_type": 3,
+            "start_date": "Sep 2009",
+            "end_date": "Nov 2009",
+            "length": "2 months",
+            "start_months_since_1900": 1316,
+            "end_months_since_1900": 1318,
+            "length_in_months": 2
+        },
+        {
+            "name": "Elsa Pataky",
+            "href": "https://www.whosdatedwho.com/dating/elsa-pataky",
+            "relationship_type": 2,
+            "start_date": "Jun 2009",
+            "end_date": "Aug 2009",
+            "length": "2 months",
+            "start_months_since_1900": 1313,
+            "end_months_since_1900": 1315,
+            "length_in_months": 2
+        },
+        {
+            "name": "Michelle Rodriguez",
+            "href": "https://www.whosdatedwho.com/dating/michelle-rodriguez",
+            "relationship_type": 3,
+            "start_date": "Jul 2003",
+            "end_date": "Aug 2003",
+            "length": "1 month",
+            "start_months_since_1900": 1242,
+            "end_months_since_1900": 1243,
+            "length_in_months": 1
+        },
+        {
+            "name": "Kylie Minogue",
+            "href": "https://www.whosdatedwho.com/dating/kylie-minogue",
+            "relationship_type": 2,
+            "start_date": "Apr 2003",
+            "end_date": "Feb 2007",
+            "length": "3 years",
+            "start_months_since_1900": 1239,
+            "end_months_since_1900": 1285,
+            "length_in_months": 36
+        },
+        {
+            "name": "Mira Sorvino",
+            "href": "https://www.whosdatedwho.com/dating/mira-sorvino",
+            "relationship_type": 2,
+            "start_date": "Sep 1999",
+            "end_date": "Nov 2002",
+            "length": "3 years",
+            "start_months_since_1900": 1196,
+            "end_months_since_1900": 1234,
+            "length_in_months": 36
+        },
+        {
+            "name": "Juliette Binoche",
+            "href": "https://www.whosdatedwho.com/dating/juliette-binoche",
+            "relationship_type": 2,
+            "start_date": "1994",
+            "end_date": "1997",
+            "length": "3 years",
+            "start_months_since_1900": 1128,
+            "end_months_since_1900": 1164,
+            "length_in_months": 36
+        }
+    ],
+    "details": {
+        "First Name": "Olivier",
+        "Middle Name": "NA",
+        "Last Name": "Martinez",
+        "Maiden Name": "NA",
+        "Full Name at Birth": "Olivier Martinez",
+        "Alternative Name": "Olivier Martinez",
+        "Birthday": "1966",
+        "Birthplace": "France",
+        "Height": "178",
+        "Weight": "NA",
+        "Zodiac Sign": "13",
+        "Sexuality": "Straight",
+        "Religion": "13",
+        "Ethnicity": "6",
+        "Nationality": "86",
+        "Occupation": "8"
+    }
+}

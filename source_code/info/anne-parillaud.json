@@ -1,0 +1,66 @@
+{
+    "relationships": [
+        {
+            "name": "Jean-Michel Jarre",
+            "href": "https://www.whosdatedwho.com/dating/jean-michel-jarre",
+            "relationship_type": 4,
+            "start_date": "2003",
+            "end_date": "Oct 2010",
+            "length": "7 years",
+            "start_months_since_1900": 1236,
+            "end_months_since_1900": 1329,
+            "length_in_months": 84
+        },
+        {
+            "name": "Mark Allan",
+            "href": "https://www.whosdatedwho.com/dating/mark-allan",
+            "relationship_type": 2,
+            "start_date": "1993",
+            "end_date": "2003",
+            "length": "10 years",
+            "start_months_since_1900": 1116,
+            "end_months_since_1900": 1236,
+            "length_in_months": 120
+        },
+        {
+            "name": "Luc Besson",
+            "href": "https://www.whosdatedwho.com/dating/luc-besson",
+            "relationship_type": 4,
+            "start_date": "1984",
+            "end_date": "1991",
+            "length": "7 years",
+            "start_months_since_1900": 1008,
+            "end_months_since_1900": 1092,
+            "length_in_months": 84
+        },
+        {
+            "name": "Alain Delon",
+            "href": "https://www.whosdatedwho.com/dating/alain-delon",
+            "relationship_type": 2,
+            "start_date": "1981",
+            "end_date": "1983",
+            "length": "2 years",
+            "start_months_since_1900": 972,
+            "end_months_since_1900": 996,
+            "length_in_months": 24
+        }
+    ],
+    "details": {
+        "First Name": "Anne",
+        "Middle Name": "NA",
+        "Last Name": "NA",
+        "Maiden Name": "Parillaud",
+        "Full Name at Birth": "Anne Parillaud",
+        "Alternative Name": "NA",
+        "Birthday": "1960",
+        "Birthplace": "France",
+        "Height": "168",
+        "Weight": "NA",
+        "Zodiac Sign": "3",
+        "Sexuality": "Straight",
+        "Religion": "1",
+        "Ethnicity": "6",
+        "Nationality": "86",
+        "Occupation": "8"
+    }
+}

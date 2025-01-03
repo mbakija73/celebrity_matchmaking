@@ -1,0 +1,66 @@
+{
+    "relationships": [
+        {
+            "name": "Zoe Ventoura",
+            "href": "https://www.whosdatedwho.com/dating/zoe-ventoura",
+            "relationship_type": 4,
+            "start_date": "2011",
+            "end_date": "Dec 2020",
+            "length": "9 years",
+            "start_months_since_1900": 1332,
+            "end_months_since_1900": 1451,
+            "length_in_months": 108
+        },
+        {
+            "name": "Natalie Garonzi",
+            "href": "https://www.whosdatedwho.com/dating/natalie-garonzi",
+            "relationship_type": 2,
+            "start_date": "Jul 2010",
+            "end_date": "Nov 2010",
+            "length": "4 months",
+            "start_months_since_1900": 1326,
+            "end_months_since_1900": 1330,
+            "length_in_months": 4
+        },
+        {
+            "name": "Jemma Gawned",
+            "href": "https://www.whosdatedwho.com/dating/jemma-gawned",
+            "relationship_type": 2,
+            "start_date": "2005",
+            "end_date": "2006",
+            "length": "1 year",
+            "start_months_since_1900": 1260,
+            "end_months_since_1900": 1272,
+            "length_in_months": 12
+        },
+        {
+            "name": "Kristi Townley",
+            "href": "https://www.whosdatedwho.com/dating/kristi-townley",
+            "relationship_type": 2,
+            "start_date": "",
+            "end_date": "",
+            "length": "-",
+            "start_months_since_1900": -1,
+            "end_months_since_1900": -1,
+            "length_in_months": -1
+        }
+    ],
+    "details": {
+        "First Name": "Daniel",
+        "Middle Name": "Donald",
+        "Last Name": "Macpherson",
+        "Maiden Name": "NA",
+        "Full Name at Birth": "Daniel Donald MacPherson",
+        "Alternative Name": "Dan MacPherson",
+        "Birthday": "1980",
+        "Birthplace": "Australia",
+        "Height": "175",
+        "Weight": "NA",
+        "Zodiac Sign": "3",
+        "Sexuality": "Straight",
+        "Religion": "1",
+        "Ethnicity": "6",
+        "Nationality": "135",
+        "Occupation": "8"
+    }
+}

@@ -1,0 +1,44 @@
+{
+    "relationships": [
+        {
+            "name": "Ginger Crane",
+            "href": "https://www.whosdatedwho.com/dating/ginger-crane",
+            "relationship_type": 4,
+            "start_date": "1988",
+            "end_date": "13th Jul 2008",
+            "length": "20 years",
+            "start_months_since_1900": 1056,
+            "end_months_since_1900": 1302,
+            "length_in_months": 240
+        },
+        {
+            "name": "Tina Louise",
+            "href": "https://www.whosdatedwho.com/dating/tina-louise",
+            "relationship_type": 4,
+            "start_date": "Apr 1965",
+            "end_date": "Jun 1970",
+            "length": "5 years",
+            "start_months_since_1900": 783,
+            "end_months_since_1900": 845,
+            "length_in_months": 60
+        }
+    ],
+    "details": {
+        "First Name": "Les",
+        "Middle Name": "NA",
+        "Last Name": "Crane",
+        "Maiden Name": "NA",
+        "Full Name at Birth": "Leslie Stein",
+        "Alternative Name": "Les Crane, Leslie Stein",
+        "Birthday": "1933",
+        "Birthplace": "New York USA",
+        "Height": "NA",
+        "Weight": "NA",
+        "Zodiac Sign": "6",
+        "Sexuality": "Straight",
+        "Religion": "1",
+        "Ethnicity": "6",
+        "Nationality": "91",
+        "Occupation": "16"
+    }
+}

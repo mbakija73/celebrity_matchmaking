@@ -1,0 +1,44 @@
+{
+    "relationships": [
+        {
+            "name": "Millicent Rogers",
+            "href": "https://www.whosdatedwho.com/dating/millicent-rogers",
+            "relationship_type": 4,
+            "start_date": "1924",
+            "end_date": "1927",
+            "length": "3 years",
+            "start_months_since_1900": 288,
+            "end_months_since_1900": 324,
+            "length_in_months": 36
+        },
+        {
+            "name": "Lucy Doraine",
+            "href": "https://www.whosdatedwho.com/dating/lucy-doraine",
+            "relationship_type": 2,
+            "start_date": "",
+            "end_date": "",
+            "length": "-",
+            "start_months_since_1900": -1,
+            "end_months_since_1900": -1,
+            "length_in_months": -1
+        }
+    ],
+    "details": {
+        "First Name": "Ludwig",
+        "Middle Name": "Von",
+        "Last Name": "Salm-Hoogstraeten",
+        "Maiden Name": "NA",
+        "Full Name at Birth": "Ludwig Albrecht Constantin Maria von Salm Hoogstraeten",
+        "Alternative Name": "NA",
+        "Birthday": "1885",
+        "Birthplace": "Germany",
+        "Height": "NA",
+        "Weight": "NA",
+        "Zodiac Sign": "1",
+        "Sexuality": "Straight",
+        "Religion": "31",
+        "Ethnicity": "6",
+        "Nationality": "44",
+        "Occupation": "2"
+    }
+}

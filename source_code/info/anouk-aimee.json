@@ -1,0 +1,88 @@
+{
+    "relationships": [
+        {
+            "name": "Ryan O'Neal",
+            "href": "https://www.whosdatedwho.com/dating/ryan-o-neal",
+            "relationship_type": 2,
+            "start_date": "1978",
+            "end_date": "1978",
+            "length": "-",
+            "start_months_since_1900": 936,
+            "end_months_since_1900": 936,
+            "length_in_months": -1
+        },
+        {
+            "name": "Albert Finney",
+            "href": "https://www.whosdatedwho.com/dating/albert-finney",
+            "relationship_type": 4,
+            "start_date": "Aug 1969",
+            "end_date": "Jun 1978",
+            "length": "8 years",
+            "start_months_since_1900": 835,
+            "end_months_since_1900": 941,
+            "length_in_months": 96
+        },
+        {
+            "name": "Trevor Howard",
+            "href": "https://www.whosdatedwho.com/dating/trevor-howard",
+            "relationship_type": 2,
+            "start_date": "1950",
+            "end_date": "1951",
+            "length": "1 year",
+            "start_months_since_1900": 600,
+            "end_months_since_1900": 612,
+            "length_in_months": 12
+        },
+        {
+            "name": "Nikos Papatakis",
+            "href": "https://www.whosdatedwho.com/dating/nikos-papatakis",
+            "relationship_type": 4,
+            "start_date": "1950",
+            "end_date": "Oct 1955",
+            "length": "5 years",
+            "start_months_since_1900": 600,
+            "end_months_since_1900": 669,
+            "length_in_months": 60
+        },
+        {
+            "name": "Edouard Zimmermann",
+            "href": "https://www.whosdatedwho.com/dating/edouard-zimmermann",
+            "relationship_type": 4,
+            "start_date": "1948",
+            "end_date": "Oct 1950",
+            "length": "2 years",
+            "start_months_since_1900": 576,
+            "end_months_since_1900": 609,
+            "length_in_months": 24
+        },
+        {
+            "name": "Pierre Barouh",
+            "href": "https://www.whosdatedwho.com/dating/pierre-barouh",
+            "relationship_type": 4,
+            "start_date": "1965",
+            "end_date": "Mar 1969",
+            "length": "4 years",
+            "start_months_since_1900": 780,
+            "end_months_since_1900": 830,
+            "length_in_months": 48
+        }
+    ],
+    "details": {
+        "First Name": "Anouk",
+        "Middle Name": "NA",
+        "Last Name": "Aimee",
+        "Maiden Name": "Dreyfus",
+        "Full Name at Birth": "Nicole Fran\u00e7oise Florence Dreyfus",
+        "Alternative Name": "Anouk Aim\u00e9e, Fran\u00e7oise Sorya Dreyfus, Nicole Fran\u00e7oise Florence Dreyfus",
+        "Birthday": "1932",
+        "Birthplace": "France",
+        "Height": "174",
+        "Weight": "NA",
+        "Zodiac Sign": "3",
+        "Sexuality": "Straight",
+        "Religion": "31",
+        "Ethnicity": "6",
+        "Nationality": "86",
+        "Occupation": "8"
+    }
+}

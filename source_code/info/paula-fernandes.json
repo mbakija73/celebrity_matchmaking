@@ -1,0 +1,66 @@
+{
+    "relationships": [
+        {
+            "name": "Henrique Do Valle",
+            "href": "https://www.whosdatedwho.com/dating/henrique-do-valle",
+            "relationship_type": 2,
+            "start_date": "Aug 2012",
+            "end_date": "present",
+            "length": "12 years",
+            "start_months_since_1900": 1351,
+            "end_months_since_1900": -1,
+            "length_in_months": 144
+        },
+        {
+            "name": "Daniel Boaventura",
+            "href": "https://www.whosdatedwho.com/dating/daniel-boaventura",
+            "relationship_type": 3,
+            "start_date": "Dec 2011",
+            "end_date": "2012",
+            "length": "1 month",
+            "start_months_since_1900": 1343,
+            "end_months_since_1900": 1344,
+            "length_in_months": 1
+        },
+        {
+            "name": "Roberto Carlos",
+            "href": "https://www.whosdatedwho.com/dating/roberto-carlos",
+            "relationship_type": 3,
+            "start_date": "2010",
+            "end_date": "2010",
+            "length": "-",
+            "start_months_since_1900": 1320,
+            "end_months_since_1900": 1320,
+            "length_in_months": -1
+        },
+        {
+            "name": "Victor Chaves",
+            "href": "https://www.whosdatedwho.com/dating/victor-chaves",
+            "relationship_type": 2,
+            "start_date": "2004",
+            "end_date": "2004",
+            "length": "-",
+            "start_months_since_1900": 1248,
+            "end_months_since_1900": 1248,
+            "length_in_months": -1
+        }
+    ],
+    "details": {
+        "First Name": "Paula",
+        "Middle Name": "Fernandes",
+        "Last Name": "Souza",
+        "Maiden Name": "NA",
+        "Full Name at Birth": "Paula Fernandes de Souza",
+        "Alternative Name": "NA",
+        "Birthday": "1984",
+        "Birthplace": "Brazil",
+        "Height": "163",
+        "Weight": "110lbs (50 kg)",
+        "Zodiac Sign": "11",
+        "Sexuality": "Straight",
+        "Religion": "13",
+        "Ethnicity": "6",
+        "Nationality": "87",
+        "Occupation": "1"
+    }
+}

@@ -1,0 +1,66 @@
+{
+    "relationships": [
+        {
+            "name": "Brian Austin Green",
+            "href": "https://www.whosdatedwho.com/dating/brian-austin-green",
+            "relationship_type": 2,
+            "start_date": "Oct 2020",
+            "end_date": "present",
+            "length": "4 years",
+            "start_months_since_1900": 1449,
+            "end_months_since_1900": -1,
+            "length_in_months": 48
+        },
+        {
+            "name": "Pierson Fode",
+            "href": "https://www.whosdatedwho.com/dating/pierson-fode",
+            "relationship_type": 2,
+            "start_date": "Apr 2017",
+            "end_date": "Jul 2017",
+            "length": "3 months",
+            "start_months_since_1900": 1407,
+            "end_months_since_1900": 1410,
+            "length_in_months": 3
+        },
+        {
+            "name": "Bonner Bolton",
+            "href": "https://www.whosdatedwho.com/dating/bonner-bolton",
+            "relationship_type": 2,
+            "start_date": "Mar 2017",
+            "end_date": "",
+            "length": "-",
+            "start_months_since_1900": 1406,
+            "end_months_since_1900": -1,
+            "length_in_months": -1
+        },
+        {
+            "name": "Paul Kirkland",
+            "href": "https://www.whosdatedwho.com/dating/paul-kirkland",
+            "relationship_type": 2,
+            "start_date": "2010",
+            "end_date": "2015",
+            "length": "5 years",
+            "start_months_since_1900": 1320,
+            "end_months_since_1900": 1380,
+            "length_in_months": 60
+        }
+    ],
+    "details": {
+        "First Name": "Sharna",
+        "Middle Name": "May",
+        "Last Name": "Burgess",
+        "Maiden Name": "NA",
+        "Full Name at Birth": "Sharna May Burgess",
+        "Alternative Name": "NA",
+        "Birthday": "1985",
+        "Birthplace": "Australia",
+        "Height": "165",
+        "Weight": "115lbs (52 kg)",
+        "Zodiac Sign": "4",
+        "Sexuality": "Straight",
+        "Religion": "1",
+        "Ethnicity": "6",
+        "Nationality": "135",
+        "Occupation": "14"
+    }
+}

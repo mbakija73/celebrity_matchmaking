@@ -1,0 +1,55 @@
+{
+    "relationships": [
+        {
+            "name": "Mike Bennett",
+            "href": "https://www.whosdatedwho.com/dating/mike-bennett",
+            "relationship_type": 4,
+            "start_date": "Jun 2011",
+            "end_date": "",
+            "length": "-",
+            "start_months_since_1900": 1337,
+            "end_months_since_1900": -1,
+            "length_in_months": -1
+        },
+        {
+            "name": "Mike Bennett",
+            "href": "https://www.whosdatedwho.com/dating/mike-bennett-wrestler",
+            "relationship_type": 4,
+            "start_date": "Jun 2011",
+            "end_date": "present",
+            "length": "13 years",
+            "start_months_since_1900": 1337,
+            "end_months_since_1900": -1,
+            "length_in_months": 156
+        },
+        {
+            "name": "Phil Brooks",
+            "href": "https://www.whosdatedwho.com/dating/c-m-punk",
+            "relationship_type": 2,
+            "start_date": "2005",
+            "end_date": "Jun 2007",
+            "length": "2 years",
+            "start_months_since_1900": 1260,
+            "end_months_since_1900": 1289,
+            "length_in_months": 24
+        }
+    ],
+    "details": {
+        "First Name": "Maria",
+        "Middle Name": "Louise",
+        "Last Name": "Kanellis",
+        "Maiden Name": "NA",
+        "Full Name at Birth": "Maria Louise Kanellis",
+        "Alternative Name": "Maria Kanellis, Maria, Maria Louise Kanellis, Maria Kanellis-Bennett",
+        "Birthday": "1982",
+        "Birthplace": "USA",
+        "Height": "170",
+        "Weight": "117lbs (53 kg)",
+        "Zodiac Sign": "1",
+        "Sexuality": "Straight",
+        "Religion": "1",
+        "Ethnicity": "6",
+        "Nationality": "91",
+        "Occupation": "2"
+    }
+}

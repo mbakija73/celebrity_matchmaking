@@ -1,0 +1,66 @@
+{
+    "relationships": [
+        {
+            "name": "Donald Trump",
+            "href": "https://www.whosdatedwho.com/dating/donald-trump",
+            "relationship_type": 3,
+            "start_date": "1993",
+            "end_date": "1993",
+            "length": "-",
+            "start_months_since_1900": 1116,
+            "end_months_since_1900": 1116,
+            "length_in_months": -1
+        },
+        {
+            "name": "Jani Lane",
+            "href": "https://www.whosdatedwho.com/dating/jani-lane",
+            "relationship_type": 4,
+            "start_date": "1993",
+            "end_date": "2005",
+            "length": "12 years",
+            "start_months_since_1900": 1116,
+            "end_months_since_1900": 1260,
+            "length_in_months": 144
+        },
+        {
+            "name": "Brian Jack (musician)",
+            "href": "https://www.whosdatedwho.com/dating/brian-jack",
+            "relationship_type": 2,
+            "start_date": "1989",
+            "end_date": "1993",
+            "length": "4 years",
+            "start_months_since_1900": 1068,
+            "end_months_since_1900": 1116,
+            "length_in_months": 48
+        },
+        {
+            "name": "Vanilla Ice",
+            "href": "https://www.whosdatedwho.com/dating/vanilla-ice",
+            "relationship_type": 3,
+            "start_date": "1988",
+            "end_date": "1988",
+            "length": "-",
+            "start_months_since_1900": 1056,
+            "end_months_since_1900": 1056,
+            "length_in_months": -1
+        }
+    ],
+    "details": {
+        "First Name": "Rowanne",
+        "Middle Name": "NA",
+        "Last Name": "Brewer",
+        "Maiden Name": "NA",
+        "Full Name at Birth": "NA",
+        "Alternative Name": "Rowanne Brewer-Lane, Rowanne Lane, Miss Maryland 1988, 1989 Miss Snap-On Tools",
+        "Birthday": "1964",
+        "Birthplace": "USA",
+        "Height": "170",
+        "Weight": "118lbs (54 kg)",
+        "Zodiac Sign": "8",
+        "Sexuality": "Straight",
+        "Religion": "18",
+        "Ethnicity": "6",
+        "Nationality": "91",
+        "Occupation": "15"
+    }
+}

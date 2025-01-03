@@ -1,0 +1,110 @@
+{
+    "relationships": [
+        {
+            "name": "Liv Tyler",
+            "href": "https://www.whosdatedwho.com/dating/liv-tyler",
+            "relationship_type": 3,
+            "start_date": "2010",
+            "end_date": "2010",
+            "length": "-",
+            "start_months_since_1900": 1320,
+            "end_months_since_1900": 1320,
+            "length_in_months": -1
+        },
+        {
+            "name": "Rashida Jones",
+            "href": "https://www.whosdatedwho.com/dating/rashida-jones",
+            "relationship_type": 2,
+            "start_date": "Jun 2006",
+            "end_date": "Nov 2006",
+            "length": "5 months",
+            "start_months_since_1900": 1277,
+            "end_months_since_1900": 1282,
+            "length_in_months": 5
+        },
+        {
+            "name": "Georgina Townsley",
+            "href": "https://www.whosdatedwho.com/dating/georgina-townsly",
+            "relationship_type": 2,
+            "start_date": "2005",
+            "end_date": "2007",
+            "length": "2 years",
+            "start_months_since_1900": 1260,
+            "end_months_since_1900": 1284,
+            "length_in_months": 24
+        },
+        {
+            "name": "Morgana McNelis",
+            "href": "https://www.whosdatedwho.com/dating/morgana-mcnelis",
+            "relationship_type": 2,
+            "start_date": "2005",
+            "end_date": "2005",
+            "length": "-",
+            "start_months_since_1900": 1260,
+            "end_months_since_1900": 1260,
+            "length_in_months": -1
+        },
+        {
+            "name": "Kerry Geary",
+            "href": "https://www.whosdatedwho.com/dating/kerry-geary",
+            "relationship_type": 2,
+            "start_date": "2005",
+            "end_date": "2006",
+            "length": "1 year",
+            "start_months_since_1900": 1260,
+            "end_months_since_1900": 1272,
+            "length_in_months": 12
+        },
+        {
+            "name": "Stella Parker",
+            "href": "https://www.whosdatedwho.com/dating/stella-parker",
+            "relationship_type": 2,
+            "start_date": "Apr 2002",
+            "end_date": "Feb 2004",
+            "length": "1 year",
+            "start_months_since_1900": 1227,
+            "end_months_since_1900": 1249,
+            "length_in_months": 12
+        },
+        {
+            "name": "Sophie Dahl",
+            "href": "https://www.whosdatedwho.com/dating/sophie-dahl",
+            "relationship_type": 2,
+            "start_date": "Feb 2002",
+            "end_date": "Apr 2002",
+            "length": "1 month",
+            "start_months_since_1900": 1225,
+            "end_months_since_1900": 1227,
+            "length_in_months": 1
+        },
+        {
+            "name": "Katharine Towne",
+            "href": "https://www.whosdatedwho.com/dating/katharine-towne",
+            "relationship_type": 4,
+            "start_date": "Jun 1999",
+            "end_date": "2002",
+            "length": "2 years",
+            "start_months_since_1900": 1193,
+            "end_months_since_1900": 1224,
+            "length_in_months": 24
+        }
+    ],
+    "details": {
+        "First Name": "Charlie",
+        "Middle Name": "Matthew",
+        "Last Name": "Hunnam",
+        "Maiden Name": "NA",
+        "Full Name at Birth": "Charles Matthew Hunnam",
+        "Alternative Name": "Charlie Hunnam, Charles Matthew Hunnam",
+        "Birthday": "1980",
+        "Birthplace": "UK",
+        "Height": "185",
+        "Weight": "NA",
+        "Zodiac Sign": "7",
+        "Sexuality": "Straight",
+        "Religion": "18",
+        "Ethnicity": "6",
+        "Nationality": "8",
+        "Occupation": "8"
+    }
+}

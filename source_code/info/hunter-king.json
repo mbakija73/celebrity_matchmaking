@@ -1,0 +1,55 @@
+{
+    "relationships": [
+        {
+            "name": "Andy McNeil",
+            "href": "https://www.whosdatedwho.com/dating/andy-mcneil-120178457",
+            "relationship_type": 2,
+            "start_date": "Jul 2022",
+            "end_date": "present",
+            "length": "2 years",
+            "start_months_since_1900": 1470,
+            "end_months_since_1900": -1,
+            "length_in_months": 24
+        },
+        {
+            "name": "Nico Svoboda",
+            "href": "https://www.whosdatedwho.com/dating/nico-svoboda",
+            "relationship_type": 2,
+            "start_date": "2017",
+            "end_date": "Aug 2020",
+            "length": "3 years",
+            "start_months_since_1900": 1404,
+            "end_months_since_1900": 1447,
+            "length_in_months": 36
+        },
+        {
+            "name": "Austin Hawk",
+            "href": "https://www.whosdatedwho.com/dating/austin-hawk",
+            "relationship_type": 1,
+            "start_date": "",
+            "end_date": "",
+            "length": "-",
+            "start_months_since_1900": -1,
+            "end_months_since_1900": -1,
+            "length_in_months": -1
+        }
+    ],
+    "details": {
+        "First Name": "Hunter",
+        "Middle Name": "Haley",
+        "Last Name": "King",
+        "Maiden Name": "NA",
+        "Full Name at Birth": "Haley Ashley King",
+        "Alternative Name": "Hunter King, Haley King, Hunter Haley King, Hunter Hailey King, Haley Ashley King",
+        "Birthday": "1993",
+        "Birthplace": "USA",
+        "Height": "165",
+        "Weight": "121lbs (55 kg)",
+        "Zodiac Sign": "10",
+        "Sexuality": "Straight",
+        "Religion": "18",
+        "Ethnicity": "6",
+        "Nationality": "91",
+        "Occupation": "8"
+    }
+}

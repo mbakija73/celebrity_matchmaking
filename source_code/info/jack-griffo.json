@@ -1,0 +1,77 @@
+{
+    "relationships": [
+        {
+            "name": "Mia Beyer",
+            "href": "https://www.whosdatedwho.com/dating/mia-beyer",
+            "relationship_type": 2,
+            "start_date": "2020",
+            "end_date": "present",
+            "length": "4 years",
+            "start_months_since_1900": 1440,
+            "end_months_since_1900": -1,
+            "length_in_months": 48
+        },
+        {
+            "name": "Paris Berelc",
+            "href": "https://www.whosdatedwho.com/dating/paris-berelc",
+            "relationship_type": 2,
+            "start_date": "Jan 2017",
+            "end_date": "2020",
+            "length": "3 years",
+            "start_months_since_1900": 1404,
+            "end_months_since_1900": 1440,
+            "length_in_months": 36
+        },
+        {
+            "name": "Ryan Whitney",
+            "href": "https://www.whosdatedwho.com/dating/ryan-newman",
+            "relationship_type": 2,
+            "start_date": "16th Jun 2013",
+            "end_date": "28th Aug 2016",
+            "length": "3 years",
+            "start_months_since_1900": 1361,
+            "end_months_since_1900": 1399,
+            "length_in_months": 36
+        },
+        {
+            "name": "Ciara Bravo",
+            "href": "https://www.whosdatedwho.com/dating/ciara-bravo",
+            "relationship_type": 2,
+            "start_date": "Mar 2013",
+            "end_date": "Mar 2013",
+            "length": "-",
+            "start_months_since_1900": 1358,
+            "end_months_since_1900": 1358,
+            "length_in_months": -1
+        },
+        {
+            "name": "Kira Kosarin",
+            "href": "https://www.whosdatedwho.com/dating/kira-kosarin",
+            "relationship_type": 2,
+            "start_date": "2012",
+            "end_date": "2012",
+            "length": "-",
+            "start_months_since_1900": 1344,
+            "end_months_since_1900": 1344,
+            "length_in_months": -1
+        }
+    ],
+    "details": {
+        "First Name": "Jack",
+        "Middle Name": "Davis",
+        "Last Name": "Griffo",
+        "Maiden Name": "NA",
+        "Full Name at Birth": "Jack Davis Griffo",
+        "Alternative Name": "NA",
+        "Birthday": "1996",
+        "Birthplace": "USA",
+        "Height": "173",
+        "Weight": "140lbs (64 kg)",
+        "Zodiac Sign": "6",
+        "Sexuality": "Straight",
+        "Religion": "1",
+        "Ethnicity": "6",
+        "Nationality": "91",
+        "Occupation": "8"
+    }
+}

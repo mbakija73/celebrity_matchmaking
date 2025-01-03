@@ -1,0 +1,77 @@
+{
+    "relationships": [
+        {
+            "name": "Oscar Wilde",
+            "href": "https://www.whosdatedwho.com/dating/oscar-wilde",
+            "relationship_type": 3,
+            "start_date": "1882",
+            "end_date": "1882",
+            "length": "-",
+            "start_months_since_1900": -216,
+            "end_months_since_1900": -216,
+            "length_in_months": -1
+        },
+        {
+            "name": "Peter Doyle (lover)",
+            "href": "https://www.whosdatedwho.com/dating/peter-doyle-lover",
+            "relationship_type": 2,
+            "start_date": "1866",
+            "end_date": "1872",
+            "length": "6 years",
+            "start_months_since_1900": -408,
+            "end_months_since_1900": -336,
+            "length_in_months": 72
+        },
+        {
+            "name": "Edward Carpenter",
+            "href": "https://www.whosdatedwho.com/dating/edward-carpenter",
+            "relationship_type": 3,
+            "start_date": "1838",
+            "end_date": "1838",
+            "length": "-",
+            "start_months_since_1900": -744,
+            "end_months_since_1900": -744,
+            "length_in_months": -1
+        },
+        {
+            "name": "Thomas Eakins",
+            "href": "https://www.whosdatedwho.com/dating/thomas-eakins",
+            "relationship_type": 2,
+            "start_date": "",
+            "end_date": "",
+            "length": "-",
+            "start_months_since_1900": -1,
+            "end_months_since_1900": -1,
+            "length_in_months": -1
+        },
+        {
+            "name": "Charles Warren Stoddard",
+            "href": "https://www.whosdatedwho.com/dating/charles-warren-stoddard",
+            "relationship_type": 2,
+            "start_date": "",
+            "end_date": "",
+            "length": "-",
+            "start_months_since_1900": -1,
+            "end_months_since_1900": -1,
+            "length_in_months": -1
+        }
+    ],
+    "details": {
+        "First Name": "Walt",
+        "Middle Name": "NA",
+        "Last Name": "Whitman",
+        "Maiden Name": "NA",
+        "Full Name at Birth": "Walter Whitman",
+        "Alternative Name": "Walter Whitman, Walt Whitman",
+        "Birthday": "1819",
+        "Birthplace": "USA",
+        "Height": "NA",
+        "Weight": "NA",
+        "Zodiac Sign": "4",
+        "Sexuality": "Gay",
+        "Religion": "1",
+        "Ethnicity": "6",
+        "Nationality": "91",
+        "Occupation": "3"
+    }
+}

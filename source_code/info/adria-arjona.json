@@ -1,0 +1,55 @@
+{
+    "relationships": [
+        {
+            "name": "Jason Momoa",
+            "href": "https://www.whosdatedwho.com/dating/jason-momoa",
+            "relationship_type": 2,
+            "start_date": "May 2024",
+            "end_date": "present",
+            "length": "5 months",
+            "start_months_since_1900": 1492,
+            "end_months_since_1900": -1,
+            "length_in_months": 5
+        },
+        {
+            "name": "Edgardo Canales",
+            "href": "https://www.whosdatedwho.com/dating/edgardo-canales",
+            "relationship_type": 2,
+            "start_date": "Feb 2016",
+            "end_date": "",
+            "length": "-",
+            "start_months_since_1900": 1393,
+            "end_months_since_1900": -1,
+            "length_in_months": -1
+        },
+        {
+            "name": "Channing Tatum",
+            "href": "https://www.whosdatedwho.com/dating/channing-tatum",
+            "relationship_type": 1,
+            "start_date": "",
+            "end_date": "",
+            "length": "-",
+            "start_months_since_1900": -1,
+            "end_months_since_1900": -1,
+            "length_in_months": -1
+        }
+    ],
+    "details": {
+        "First Name": "Adria",
+        "Middle Name": "NA",
+        "Last Name": "Arjona",
+        "Maiden Name": "NA",
+        "Full Name at Birth": "Adria Arjona Torres",
+        "Alternative Name": "Adria Arjona Torres, Adria Arjona",
+        "Birthday": "1992",
+        "Birthplace": "Puerto Rico",
+        "Height": "170",
+        "Weight": "110lbs (50 kg)",
+        "Zodiac Sign": "3",
+        "Sexuality": "Straight",
+        "Religion": "18",
+        "Ethnicity": "8",
+        "Nationality": "91",
+        "Occupation": "8"
+    }
+}

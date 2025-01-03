@@ -1,0 +1,55 @@
+{
+    "relationships": [
+        {
+            "name": "Susan George",
+            "href": "https://www.whosdatedwho.com/dating/susan-george",
+            "relationship_type": 4,
+            "start_date": "Jan 1982",
+            "end_date": "14th Oct 2010",
+            "length": "28 years",
+            "start_months_since_1900": 984,
+            "end_months_since_1900": 1329,
+            "length_in_months": 336
+        },
+        {
+            "name": "Linda Purl",
+            "href": "https://www.whosdatedwho.com/dating/linda-purl",
+            "relationship_type": 2,
+            "start_date": "1981",
+            "end_date": "1981",
+            "length": "-",
+            "start_months_since_1900": 972,
+            "end_months_since_1900": 972,
+            "length_in_months": -1
+        },
+        {
+            "name": "Fiona Fullerton",
+            "href": "https://www.whosdatedwho.com/dating/fiona-fullerton",
+            "relationship_type": 4,
+            "start_date": "1975",
+            "end_date": "1982",
+            "length": "7 years",
+            "start_months_since_1900": 900,
+            "end_months_since_1900": 984,
+            "length_in_months": 84
+        }
+    ],
+    "details": {
+        "First Name": "Simon",
+        "Middle Name": "Charles Pendered",
+        "Last Name": "MacCorkindale",
+        "Maiden Name": "NA",
+        "Full Name at Birth": "Simon Charles Pendered MacCorkindale",
+        "Alternative Name": "NA",
+        "Birthday": "1952",
+        "Birthplace": "UK",
+        "Height": "183",
+        "Weight": "NA",
+        "Zodiac Sign": "1",
+        "Sexuality": "Straight",
+        "Religion": "1",
+        "Ethnicity": "6",
+        "Nationality": "8",
+        "Occupation": "8"
+    }
+}

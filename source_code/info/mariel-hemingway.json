@@ -1,0 +1,88 @@
+{
+    "relationships": [
+        {
+            "name": "Bobby Williams",
+            "href": "https://www.whosdatedwho.com/dating/bobby-williams",
+            "relationship_type": 2,
+            "start_date": "2011",
+            "end_date": "present",
+            "length": "13 years",
+            "start_months_since_1900": 1332,
+            "end_months_since_1900": -1,
+            "length_in_months": 156
+        },
+        {
+            "name": "John Mellencamp",
+            "href": "https://www.whosdatedwho.com/dating/john-mellencamp",
+            "relationship_type": 3,
+            "start_date": "1991",
+            "end_date": "1991",
+            "length": "-",
+            "start_months_since_1900": 1092,
+            "end_months_since_1900": 1092,
+            "length_in_months": -1
+        },
+        {
+            "name": "Stephen Crisman",
+            "href": "https://www.whosdatedwho.com/dating/stephen-crisman",
+            "relationship_type": 4,
+            "start_date": "1983",
+            "end_date": "2008",
+            "length": "25 years",
+            "start_months_since_1900": 996,
+            "end_months_since_1900": 1296,
+            "length_in_months": 300
+        },
+        {
+            "name": "Robert Towne",
+            "href": "https://www.whosdatedwho.com/dating/robert-towne",
+            "relationship_type": 2,
+            "start_date": "1981",
+            "end_date": "1981",
+            "length": "-",
+            "start_months_since_1900": 972,
+            "end_months_since_1900": 972,
+            "length_in_months": -1
+        },
+        {
+            "name": "Chad McQueen",
+            "href": "https://www.whosdatedwho.com/dating/chad-mcqueen",
+            "relationship_type": 2,
+            "start_date": "Apr 1979",
+            "end_date": "Jul 1979",
+            "length": "3 months",
+            "start_months_since_1900": 951,
+            "end_months_since_1900": 954,
+            "length_in_months": 3
+        },
+        {
+            "name": "Treat Williams",
+            "href": "https://www.whosdatedwho.com/dating/treat-williams",
+            "relationship_type": 3,
+            "start_date": "1979",
+            "end_date": "1979",
+            "length": "-",
+            "start_months_since_1900": 948,
+            "end_months_since_1900": 948,
+            "length_in_months": -1
+        }
+    ],
+    "details": {
+        "First Name": "Mariel",
+        "Middle Name": "Hadley",
+        "Last Name": "Hemingway",
+        "Maiden Name": "NA",
+        "Full Name at Birth": "Mariel Hadley Hemingway",
+        "Alternative Name": "Mariel Hadley Hemingway, Mariel Hemingway",
+        "Birthday": "1961",
+        "Birthplace": "California USA",
+        "Height": "180",
+        "Weight": "NA",
+        "Zodiac Sign": "5",
+        "Sexuality": "Straight",
+        "Religion": "1",
+        "Ethnicity": "6",
+        "Nationality": "91",
+        "Occupation": "8"
+    }
+}

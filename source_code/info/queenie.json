@@ -1,0 +1,154 @@
+{
+    "relationships": [
+        {
+            "name": "Rod Stewart",
+            "href": "https://www.whosdatedwho.com/dating/rod-stewart",
+            "relationship_type": 3,
+            "start_date": "1978",
+            "end_date": "1979",
+            "length": "1 year",
+            "start_months_since_1900": 936,
+            "end_months_since_1900": 948,
+            "length_in_months": 12
+        },
+        {
+            "name": "Alice Cooper",
+            "href": "https://www.whosdatedwho.com/dating/alice-cooper",
+            "relationship_type": 3,
+            "start_date": "1975",
+            "end_date": "1975",
+            "length": "-",
+            "start_months_since_1900": 900,
+            "end_months_since_1900": 900,
+            "length_in_months": -1
+        },
+        {
+            "name": "David Bowie",
+            "href": "https://www.whosdatedwho.com/dating/david-bowie",
+            "relationship_type": 3,
+            "start_date": "1974",
+            "end_date": "1974",
+            "length": "-",
+            "start_months_since_1900": 888,
+            "end_months_since_1900": 888,
+            "length_in_months": -1
+        },
+        {
+            "name": "Marc Bolan",
+            "href": "https://www.whosdatedwho.com/dating/marc-bolan",
+            "relationship_type": 3,
+            "start_date": "1973",
+            "end_date": "1973",
+            "length": "-",
+            "start_months_since_1900": 876,
+            "end_months_since_1900": 876,
+            "length_in_months": -1
+        },
+        {
+            "name": "Jimmy Page",
+            "href": "https://www.whosdatedwho.com/dating/jimmy-page",
+            "relationship_type": 3,
+            "start_date": "1972",
+            "end_date": "1972",
+            "length": "-",
+            "start_months_since_1900": 864,
+            "end_months_since_1900": 864,
+            "length_in_months": -1
+        },
+        {
+            "name": "David Johansen",
+            "href": "https://www.whosdatedwho.com/dating/david-johansen",
+            "relationship_type": 3,
+            "start_date": "",
+            "end_date": "",
+            "length": "-",
+            "start_months_since_1900": -1,
+            "end_months_since_1900": -1,
+            "length_in_months": -1
+        },
+        {
+            "name": "Iggy Pop",
+            "href": "https://www.whosdatedwho.com/dating/iggy-pop",
+            "relationship_type": 3,
+            "start_date": "",
+            "end_date": "",
+            "length": "-",
+            "start_months_since_1900": -1,
+            "end_months_since_1900": -1,
+            "length_in_months": -1
+        },
+        {
+            "name": "Jerry Nolan",
+            "href": "https://www.whosdatedwho.com/dating/jerry-nolan",
+            "relationship_type": 3,
+            "start_date": "",
+            "end_date": "",
+            "length": "-",
+            "start_months_since_1900": -1,
+            "end_months_since_1900": -1,
+            "length_in_months": -1
+        },
+        {
+            "name": "Dee Dee Ramone",
+            "href": "https://www.whosdatedwho.com/dating/dee-dee-ramone",
+            "relationship_type": 3,
+            "start_date": "",
+            "end_date": "",
+            "length": "-",
+            "start_months_since_1900": -1,
+            "end_months_since_1900": -1,
+            "length_in_months": -1
+        },
+        {
+            "name": "Richard Lloyd",
+            "href": "https://www.whosdatedwho.com/dating/richard-lloyd",
+            "relationship_type": 3,
+            "start_date": "",
+            "end_date": "",
+            "length": "-",
+            "start_months_since_1900": -1,
+            "end_months_since_1900": -1,
+            "length_in_months": -1
+        },
+        {
+            "name": "Ron Asheton",
+            "href": "https://www.whosdatedwho.com/dating/ron-asheton",
+            "relationship_type": 3,
+            "start_date": "",
+            "end_date": "",
+            "length": "-",
+            "start_months_since_1900": -1,
+            "end_months_since_1900": -1,
+            "length_in_months": -1
+        },
+        {
+            "name": "Mick Ronson",
+            "href": "https://www.whosdatedwho.com/dating/mick-ronson",
+            "relationship_type": 3,
+            "start_date": "",
+            "end_date": "",
+            "length": "-",
+            "start_months_since_1900": -1,
+            "end_months_since_1900": -1,
+            "length_in_months": -1
+        }
+    ],
+    "details": {
+        "First Name": "Queenie",
+        "Middle Name": "NA",
+        "Last Name": "NA",
+        "Maiden Name": "NA",
+        "Full Name at Birth": "Lynn Koenigsaecker",
+        "Alternative Name": "Lynn Koenigsaecker, Queenie Lynn, Queenie Glam",
+        "Birthday": "1957",
+        "Birthplace": "USA",
+        "Height": "NA",
+        "Weight": "NA",
+        "Zodiac Sign": "2",
+        "Sexuality": "Straight",
+        "Religion": "1",
+        "Ethnicity": "6",
+        "Nationality": "91",
+        "Occupation": "11"
+    }
+}

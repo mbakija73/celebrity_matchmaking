@@ -1,0 +1,55 @@
+{
+    "relationships": [
+        {
+            "name": "Jayson Tatum",
+            "href": "https://www.whosdatedwho.com/dating/jayson-tatum",
+            "relationship_type": 2,
+            "start_date": "Jan 2019",
+            "end_date": "present",
+            "length": "5 years",
+            "start_months_since_1900": 1428,
+            "end_months_since_1900": -1,
+            "length_in_months": 60
+        },
+        {
+            "name": "Kehlani",
+            "href": "https://www.whosdatedwho.com/dating/kehlani",
+            "relationship_type": 1,
+            "start_date": "Aug 2018",
+            "end_date": "Aug 2018",
+            "length": "-",
+            "start_months_since_1900": 1423,
+            "end_months_since_1900": 1423,
+            "length_in_months": -1
+        },
+        {
+            "name": "John Wall",
+            "href": "https://www.whosdatedwho.com/dating/john-wall-basketball",
+            "relationship_type": 3,
+            "start_date": "May 2018",
+            "end_date": "May 2018",
+            "length": "-",
+            "start_months_since_1900": 1420,
+            "end_months_since_1900": 1420,
+            "length_in_months": -1
+        }
+    ],
+    "details": {
+        "First Name": "Ella",
+        "Middle Name": "NA",
+        "Last Name": "Mai",
+        "Maiden Name": "NA",
+        "Full Name at Birth": "Ella Mai Howell",
+        "Alternative Name": "Ella Mai, Ella",
+        "Birthday": "1994",
+        "Birthplace": "United Kingdom",
+        "Height": "173",
+        "Weight": "121lbs (55 kg)",
+        "Zodiac Sign": "5",
+        "Sexuality": "Straight",
+        "Religion": "1",
+        "Ethnicity": "8",
+        "Nationality": "8",
+        "Occupation": "1"
+    }
+}

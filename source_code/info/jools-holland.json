@@ -1,0 +1,44 @@
+{
+    "relationships": [
+        {
+            "name": "Christabel McEwan",
+            "href": "https://www.whosdatedwho.com/dating/christabel-mcewan",
+            "relationship_type": 4,
+            "start_date": "2004",
+            "end_date": "present",
+            "length": "20 years",
+            "start_months_since_1900": 1248,
+            "end_months_since_1900": -1,
+            "length_in_months": 240
+        },
+        {
+            "name": "Aimee Mann",
+            "href": "https://www.whosdatedwho.com/dating/aimee-mann",
+            "relationship_type": 2,
+            "start_date": "1992",
+            "end_date": "1993",
+            "length": "1 year",
+            "start_months_since_1900": 1104,
+            "end_months_since_1900": 1116,
+            "length_in_months": 12
+        }
+    ],
+    "details": {
+        "First Name": "Jools",
+        "Middle Name": "NA",
+        "Last Name": "Holland",
+        "Maiden Name": "NA",
+        "Full Name at Birth": "Julian Miles Holland",
+        "Alternative Name": "Jools Holland, Julian Miles Holland",
+        "Birthday": "1958",
+        "Birthplace": "UK",
+        "Height": "NA",
+        "Weight": "NA",
+        "Zodiac Sign": "9",
+        "Sexuality": "NA",
+        "Religion": "1",
+        "Ethnicity": "6",
+        "Nationality": "8",
+        "Occupation": "1"
+    }
+}

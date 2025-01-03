@@ -1,0 +1,55 @@
+{
+    "relationships": [
+        {
+            "name": "Calum Best",
+            "href": "https://www.whosdatedwho.com/dating/calum-best",
+            "relationship_type": 2,
+            "start_date": "2014",
+            "end_date": "May 2015",
+            "length": "1 year",
+            "start_months_since_1900": 1368,
+            "end_months_since_1900": 1384,
+            "length_in_months": 12
+        },
+        {
+            "name": "Sam Smith",
+            "href": "https://www.whosdatedwho.com/dating/sam-smith-born-1990",
+            "relationship_type": 2,
+            "start_date": "2012",
+            "end_date": "",
+            "length": "-",
+            "start_months_since_1900": 1344,
+            "end_months_since_1900": -1,
+            "length_in_months": -1
+        },
+        {
+            "name": "Richard Dinan",
+            "href": "https://www.whosdatedwho.com/dating/richard-dinan",
+            "relationship_type": 2,
+            "start_date": "2011",
+            "end_date": "2012",
+            "length": "1 year",
+            "start_months_since_1900": 1332,
+            "end_months_since_1900": 1344,
+            "length_in_months": 12
+        }
+    ],
+    "details": {
+        "First Name": "Ianthe",
+        "Middle Name": "Rose",
+        "Last Name": "Cochrane-Stack",
+        "Maiden Name": "NA",
+        "Full Name at Birth": "Ianthe Rose Cochrane-Stack",
+        "Alternative Name": "Ianthe Rose Cochrane, Ianthe Rose",
+        "Birthday": "1984",
+        "Birthplace": "UK",
+        "Height": "173",
+        "Weight": "NA",
+        "Zodiac Sign": "6",
+        "Sexuality": "Straight",
+        "Religion": "1",
+        "Ethnicity": "6",
+        "Nationality": "8",
+        "Occupation": "15"
+    }
+}

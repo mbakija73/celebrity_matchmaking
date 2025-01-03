@@ -1,0 +1,77 @@
+{
+    "relationships": [
+        {
+            "name": "Alexandre Brasseur",
+            "href": "https://www.whosdatedwho.com/dating/alexandre-brasseur",
+            "relationship_type": 2,
+            "start_date": "2020",
+            "end_date": "2020",
+            "length": "-",
+            "start_months_since_1900": 1440,
+            "end_months_since_1900": 1440,
+            "length_in_months": -1
+        },
+        {
+            "name": "Thierry Peythieu",
+            "href": "https://www.whosdatedwho.com/dating/thierry-peythieu",
+            "relationship_type": 4,
+            "start_date": "2011",
+            "end_date": "Nov 2020",
+            "length": "9 years",
+            "start_months_since_1900": 1332,
+            "end_months_since_1900": 1450,
+            "length_in_months": 108
+        },
+        {
+            "name": "Serge Dupire",
+            "href": "https://www.whosdatedwho.com/dating/serge-dupire",
+            "relationship_type": 2,
+            "start_date": "2007",
+            "end_date": "2007",
+            "length": "-",
+            "start_months_since_1900": 1284,
+            "end_months_since_1900": 1284,
+            "length_in_months": -1
+        },
+        {
+            "name": "Jean-michel Tinivelli",
+            "href": "https://www.whosdatedwho.com/dating/jean-michel-tinivelli",
+            "relationship_type": 2,
+            "start_date": "2004",
+            "end_date": "2006",
+            "length": "2 years",
+            "start_months_since_1900": 1248,
+            "end_months_since_1900": 1272,
+            "length_in_months": 24
+        },
+        {
+            "name": "Laurent Hennequin",
+            "href": "https://www.whosdatedwho.com/dating/laurent-hennequin",
+            "relationship_type": 2,
+            "start_date": "2001",
+            "end_date": "2004",
+            "length": "3 years",
+            "start_months_since_1900": 1212,
+            "end_months_since_1900": 1248,
+            "length_in_months": 36
+        }
+    ],
+    "details": {
+        "First Name": "Ingrid",
+        "Middle Name": "NA",
+        "Last Name": "Chauvin",
+        "Maiden Name": "NA",
+        "Full Name at Birth": "NA",
+        "Alternative Name": "NA",
+        "Birthday": "1973",
+        "Birthplace": "France",
+        "Height": "171",
+        "Weight": "NA",
+        "Zodiac Sign": "10",
+        "Sexuality": "Straight",
+        "Religion": "1",
+        "Ethnicity": "6",
+        "Nationality": "86",
+        "Occupation": "8"
+    }
+}

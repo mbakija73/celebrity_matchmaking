@@ -1,0 +1,66 @@
+{
+    "relationships": [
+        {
+            "name": "Pamela Anderson",
+            "href": "https://www.whosdatedwho.com/dating/pamela-anderson",
+            "relationship_type": 3,
+            "start_date": "1995",
+            "end_date": "1995",
+            "length": "-",
+            "start_months_since_1900": 1140,
+            "end_months_since_1900": 1140,
+            "length_in_months": -1
+        },
+        {
+            "name": "Paula Abdul",
+            "href": "https://www.whosdatedwho.com/dating/paula-abdul",
+            "relationship_type": 2,
+            "start_date": "1989",
+            "end_date": "2013",
+            "length": "24 years",
+            "start_months_since_1900": 1068,
+            "end_months_since_1900": 1356,
+            "length_in_months": 288
+        },
+        {
+            "name": "Emma Samms",
+            "href": "https://www.whosdatedwho.com/dating/emma-samms",
+            "relationship_type": 2,
+            "start_date": "1983",
+            "end_date": "1984",
+            "length": "1 year",
+            "start_months_since_1900": 996,
+            "end_months_since_1900": 1008,
+            "length_in_months": 12
+        },
+        {
+            "name": "Mary Frann",
+            "href": "https://www.whosdatedwho.com/dating/mary-frann",
+            "relationship_type": 3,
+            "start_date": "",
+            "end_date": "",
+            "length": "-",
+            "start_months_since_1900": -1,
+            "end_months_since_1900": -1,
+            "length_in_months": -1
+        }
+    ],
+    "details": {
+        "First Name": "Arsenio",
+        "Middle Name": "Cheron",
+        "Last Name": "Hall",
+        "Maiden Name": "NA",
+        "Full Name at Birth": "Arsenio Cheron Hall, Sr.",
+        "Alternative Name": "NA",
+        "Birthday": "1956",
+        "Birthplace": "USA",
+        "Height": "180",
+        "Weight": "NA",
+        "Zodiac Sign": "9",
+        "Sexuality": "Straight",
+        "Religion": "19",
+        "Ethnicity": "2",
+        "Nationality": "91",
+        "Occupation": "8"
+    }
+}

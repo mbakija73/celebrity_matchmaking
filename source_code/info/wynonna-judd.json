@@ -1,0 +1,66 @@
+{
+    "relationships": [
+        {
+            "name": "Cactus Moser",
+            "href": "https://www.whosdatedwho.com/dating/cactus-moser",
+            "relationship_type": 4,
+            "start_date": "2009",
+            "end_date": "present",
+            "length": "15 years",
+            "start_months_since_1900": 1308,
+            "end_months_since_1900": -1,
+            "length_in_months": 180
+        },
+        {
+            "name": "D. R. Roach",
+            "href": "https://www.whosdatedwho.com/dating/d-r-roach",
+            "relationship_type": 4,
+            "start_date": "2002",
+            "end_date": "2007",
+            "length": "5 years",
+            "start_months_since_1900": 1224,
+            "end_months_since_1900": 1284,
+            "length_in_months": 60
+        },
+        {
+            "name": "Arch Kelley",
+            "href": "https://www.whosdatedwho.com/dating/arch-kelley",
+            "relationship_type": 4,
+            "start_date": "1993",
+            "end_date": "1999",
+            "length": "6 years",
+            "start_months_since_1900": 1116,
+            "end_months_since_1900": 1188,
+            "length_in_months": 72
+        },
+        {
+            "name": "Dwight Yoakam",
+            "href": "https://www.whosdatedwho.com/dating/dwight-yoakam",
+            "relationship_type": 2,
+            "start_date": "",
+            "end_date": "",
+            "length": "-",
+            "start_months_since_1900": -1,
+            "end_months_since_1900": -1,
+            "length_in_months": -1
+        }
+    ],
+    "details": {
+        "First Name": "Wynonna",
+        "Middle Name": "Claire",
+        "Last Name": "Judd-Moser",
+        "Maiden Name": "Ciminella",
+        "Full Name at Birth": "Christina Claire Ciminella",
+        "Alternative Name": "Sweet Tater, Hurricane Wy, Red, Wynonna, Christina Claire Ciminella, Wynonna Judd",
+        "Birthday": "1964",
+        "Birthplace": "USA",
+        "Height": "166",
+        "Weight": "160lbs (73 kg)",
+        "Zodiac Sign": "4",
+        "Sexuality": "Straight",
+        "Religion": "18",
+        "Ethnicity": "6",
+        "Nationality": "91",
+        "Occupation": "1"
+    }
+}

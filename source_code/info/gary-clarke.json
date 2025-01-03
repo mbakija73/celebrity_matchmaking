@@ -1,0 +1,66 @@
+{
+    "relationships": [
+        {
+            "name": "Pat Woodell",
+            "href": "https://www.whosdatedwho.com/dating/pat-woodell",
+            "relationship_type": 4,
+            "start_date": "Jul 1963",
+            "end_date": "May 1977",
+            "length": "13 years",
+            "start_months_since_1900": 762,
+            "end_months_since_1900": 928,
+            "length_in_months": 156
+        },
+        {
+            "name": "Anna Kashfi",
+            "href": "https://www.whosdatedwho.com/dating/anna-kashfi",
+            "relationship_type": 3,
+            "start_date": "1963",
+            "end_date": "1963",
+            "length": "-",
+            "start_months_since_1900": 756,
+            "end_months_since_1900": 756,
+            "length_in_months": -1
+        },
+        {
+            "name": "Sherry Jackson",
+            "href": "https://www.whosdatedwho.com/dating/sherry-jackson",
+            "relationship_type": 2,
+            "start_date": "1961",
+            "end_date": "1961",
+            "length": "-",
+            "start_months_since_1900": 732,
+            "end_months_since_1900": 732,
+            "length_in_months": -1
+        },
+        {
+            "name": "Connie Stevens",
+            "href": "https://www.whosdatedwho.com/dating/connie-stevens",
+            "relationship_type": 2,
+            "start_date": "1958",
+            "end_date": "1961",
+            "length": "3 years",
+            "start_months_since_1900": 696,
+            "end_months_since_1900": 732,
+            "length_in_months": 36
+        }
+    ],
+    "details": {
+        "First Name": "Gary",
+        "Middle Name": "NA",
+        "Last Name": "Clarke",
+        "Maiden Name": "NA",
+        "Full Name at Birth": "Clarke F. Lamoreaux",
+        "Alternative Name": "NA",
+        "Birthday": "1936",
+        "Birthplace": "USA",
+        "Height": "183",
+        "Weight": "NA",
+        "Zodiac Sign": "12",
+        "Sexuality": "NA",
+        "Religion": "1",
+        "Ethnicity": "1",
+        "Nationality": "91",
+        "Occupation": "8"
+    }
+}

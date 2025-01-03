@@ -1,0 +1,44 @@
+{
+    "relationships": [
+        {
+            "name": "Nick Starcevic",
+            "href": "https://www.whosdatedwho.com/dating/nick-starcevic",
+            "relationship_type": 2,
+            "start_date": "2011",
+            "end_date": "2011",
+            "length": "-",
+            "start_months_since_1900": 1332,
+            "end_months_since_1900": 1332,
+            "length_in_months": -1
+        },
+        {
+            "name": "Hayden Moss",
+            "href": "https://www.whosdatedwho.com/dating/hayden-moss",
+            "relationship_type": 3,
+            "start_date": "Jul 2010",
+            "end_date": "Aug 2010",
+            "length": "1 month",
+            "start_months_since_1900": 1326,
+            "end_months_since_1900": 1327,
+            "length_in_months": 1
+        }
+    ],
+    "details": {
+        "First Name": "Kristen",
+        "Middle Name": "Mary",
+        "Last Name": "Bitting",
+        "Maiden Name": "NA",
+        "Full Name at Birth": "Kristen Mary Bitting",
+        "Alternative Name": "NA",
+        "Birthday": "1986",
+        "Birthplace": "USA",
+        "Height": "170",
+        "Weight": "115lbs (52 kg)",
+        "Zodiac Sign": "13",
+        "Sexuality": "Straight",
+        "Religion": "1",
+        "Ethnicity": "6",
+        "Nationality": "91",
+        "Occupation": "8"
+    }
+}

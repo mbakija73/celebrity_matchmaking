@@ -1,0 +1,44 @@
+{
+    "relationships": [
+        {
+            "name": "Peter Reckell",
+            "href": "https://www.whosdatedwho.com/dating/peter-reckell",
+            "relationship_type": 4,
+            "start_date": "Apr 1996",
+            "end_date": "present",
+            "length": "28 years",
+            "start_months_since_1900": 1155,
+            "end_months_since_1900": -1,
+            "length_in_months": 336
+        },
+        {
+            "name": "Stuart Mathis",
+            "href": "https://www.whosdatedwho.com/dating/stuart-mathis",
+            "relationship_type": 4,
+            "start_date": "1993",
+            "end_date": "1993",
+            "length": "-",
+            "start_months_since_1900": 1116,
+            "end_months_since_1900": 1116,
+            "length_in_months": -1
+        }
+    ],
+    "details": {
+        "First Name": "Kelly",
+        "Middle Name": "Susan",
+        "Last Name": "Reckell",
+        "Maiden Name": "Moneymaker",
+        "Full Name at Birth": "Kelly Susan Moneymaker",
+        "Alternative Name": "NA",
+        "Birthday": "1970",
+        "Birthplace": "Alaska",
+        "Height": "NA",
+        "Weight": "NA",
+        "Zodiac Sign": "4",
+        "Sexuality": "Straight",
+        "Religion": "1",
+        "Ethnicity": "6",
+        "Nationality": "91",
+        "Occupation": "8"
+    }
+}

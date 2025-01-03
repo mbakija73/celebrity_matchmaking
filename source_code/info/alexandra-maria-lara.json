@@ -1,0 +1,55 @@
+{
+    "relationships": [
+        {
+            "name": "Sam Riley",
+            "href": "https://www.whosdatedwho.com/dating/sam-riley",
+            "relationship_type": 4,
+            "start_date": "Apr 2007",
+            "end_date": "present",
+            "length": "17 years",
+            "start_months_since_1900": 1287,
+            "end_months_since_1900": -1,
+            "length_in_months": 204
+        },
+        {
+            "name": "Florian Unger",
+            "href": "https://www.whosdatedwho.com/dating/florian-unger",
+            "relationship_type": 2,
+            "start_date": "Aug 1996",
+            "end_date": "May 2006",
+            "length": "9 years",
+            "start_months_since_1900": 1159,
+            "end_months_since_1900": 1276,
+            "length_in_months": 108
+        },
+        {
+            "name": "Moritz Bleibtreu",
+            "href": "https://www.whosdatedwho.com/dating/moritz-bleibtreu",
+            "relationship_type": 1,
+            "start_date": "",
+            "end_date": "",
+            "length": "-",
+            "start_months_since_1900": -1,
+            "end_months_since_1900": -1,
+            "length_in_months": -1
+        }
+    ],
+    "details": {
+        "First Name": "Alexandra",
+        "Middle Name": "Maria",
+        "Last Name": "Lara",
+        "Maiden Name": "Pl\u0103t\u0103reanu",
+        "Full Name at Birth": "Alexandra Maria Platareanu",
+        "Alternative Name": "Alexandra Maria Lara, Alexandra Lara, Alexandra Maria Lara (n\u00e9e Pl\u0103t\u0103reanu), Alexandra M. Lara",
+        "Birthday": "1978",
+        "Birthplace": "Romania",
+        "Height": "174",
+        "Weight": "NA",
+        "Zodiac Sign": "5",
+        "Sexuality": "Straight",
+        "Religion": "22",
+        "Ethnicity": "6",
+        "Nationality": "126",
+        "Occupation": "8"
+    }
+}

@@ -1,0 +1,44 @@
+{
+    "relationships": [
+        {
+            "name": "Chuck Liddell",
+            "href": "https://www.whosdatedwho.com/dating/chuck-liddell",
+            "relationship_type": 2,
+            "start_date": "2010",
+            "end_date": "present",
+            "length": "14 years",
+            "start_months_since_1900": 1320,
+            "end_months_since_1900": -1,
+            "length_in_months": 168
+        },
+        {
+            "name": "Jose Canseco",
+            "href": "https://www.whosdatedwho.com/dating/jose-canseco",
+            "relationship_type": 3,
+            "start_date": "2006",
+            "end_date": "2008",
+            "length": "2 years",
+            "start_months_since_1900": 1272,
+            "end_months_since_1900": 1296,
+            "length_in_months": 24
+        }
+    ],
+    "details": {
+        "First Name": "Heidi",
+        "Middle Name": "NA",
+        "Last Name": "Northcott",
+        "Maiden Name": "NA",
+        "Full Name at Birth": "NA",
+        "Alternative Name": "NA",
+        "Birthday": "NA",
+        "Birthplace": "NA",
+        "Height": "160",
+        "Weight": "NA",
+        "Zodiac Sign": "2",
+        "Sexuality": "NA",
+        "Religion": "1",
+        "Ethnicity": "8",
+        "Nationality": "65",
+        "Occupation": "19"
+    }
+}

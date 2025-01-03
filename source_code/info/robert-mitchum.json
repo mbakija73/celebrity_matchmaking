@@ -1,0 +1,187 @@
+{
+    "relationships": [
+        {
+            "name": "Sarah Miles",
+            "href": "https://www.whosdatedwho.com/dating/sarah-miles",
+            "relationship_type": 2,
+            "start_date": "1970",
+            "end_date": "1970",
+            "length": "-",
+            "start_months_since_1900": 840,
+            "end_months_since_1900": 840,
+            "length_in_months": -1
+        },
+        {
+            "name": "Shirley MacLaine",
+            "href": "https://www.whosdatedwho.com/dating/shirley-maclaine",
+            "relationship_type": 2,
+            "start_date": "1962",
+            "end_date": "1964",
+            "length": "2 years",
+            "start_months_since_1900": 744,
+            "end_months_since_1900": 768,
+            "length_in_months": 24
+        },
+        {
+            "name": "Deborah Kerr",
+            "href": "https://www.whosdatedwho.com/dating/deborah-kerr",
+            "relationship_type": 3,
+            "start_date": "Aug 1956",
+            "end_date": "Dec 1956",
+            "length": "4 months",
+            "start_months_since_1900": 679,
+            "end_months_since_1900": 683,
+            "length_in_months": 4
+        },
+        {
+            "name": "Shelley Winters",
+            "href": "https://www.whosdatedwho.com/dating/shelley-winters",
+            "relationship_type": 3,
+            "start_date": "16th Aug 1954",
+            "end_date": "7th Oct 1954",
+            "length": "1 month",
+            "start_months_since_1900": 655,
+            "end_months_since_1900": 657,
+            "length_in_months": 1
+        },
+        {
+            "name": "Gloria Pall",
+            "href": "https://www.whosdatedwho.com/dating/gloria-pall",
+            "relationship_type": 3,
+            "start_date": "Aug 1954",
+            "end_date": "Oct 1954",
+            "length": "2 months",
+            "start_months_since_1900": 655,
+            "end_months_since_1900": 657,
+            "length_in_months": 2
+        },
+        {
+            "name": "Marilyn Monroe",
+            "href": "https://www.whosdatedwho.com/dating/marilyn-monroe",
+            "relationship_type": 3,
+            "start_date": "Apr 1953",
+            "end_date": "Apr 1953",
+            "length": "-",
+            "start_months_since_1900": 639,
+            "end_months_since_1900": 639,
+            "length_in_months": -1
+        },
+        {
+            "name": "Jean Simmons",
+            "href": "https://www.whosdatedwho.com/dating/jean-simmons",
+            "relationship_type": 3,
+            "start_date": "1952",
+            "end_date": "1952",
+            "length": "-",
+            "start_months_since_1900": 624,
+            "end_months_since_1900": 624,
+            "length_in_months": -1
+        },
+        {
+            "name": "Ava Gardner",
+            "href": "https://www.whosdatedwho.com/dating/ava-gardner",
+            "relationship_type": 3,
+            "start_date": "Oct 1949",
+            "end_date": "Nov 1949",
+            "length": "1 month",
+            "start_months_since_1900": 597,
+            "end_months_since_1900": 598,
+            "length_in_months": 1
+        },
+        {
+            "name": "Lila Leeds",
+            "href": "https://www.whosdatedwho.com/dating/lila-leeds",
+            "relationship_type": 3,
+            "start_date": "Sep 1948",
+            "end_date": "Sep 1948",
+            "length": "-",
+            "start_months_since_1900": 584,
+            "end_months_since_1900": 584,
+            "length_in_months": -1
+        },
+        {
+            "name": "Jane Greer",
+            "href": "https://www.whosdatedwho.com/dating/jane-greer",
+            "relationship_type": 3,
+            "start_date": "Oct 1946",
+            "end_date": "Jan 1947",
+            "length": "3 months",
+            "start_months_since_1900": 561,
+            "end_months_since_1900": 564,
+            "length_in_months": 3
+        },
+        {
+            "name": "Dorothy Mitchum",
+            "href": "https://www.whosdatedwho.com/dating/dorothy-mitchum",
+            "relationship_type": 4,
+            "start_date": "1940",
+            "end_date": "Jul 1997",
+            "length": "57 years",
+            "start_months_since_1900": 480,
+            "end_months_since_1900": 1170,
+            "length_in_months": 684
+        },
+        {
+            "name": "Maila Nurmi",
+            "href": "https://www.whosdatedwho.com/dating/vampira",
+            "relationship_type": 2,
+            "start_date": "",
+            "end_date": "",
+            "length": "-",
+            "start_months_since_1900": -1,
+            "end_months_since_1900": -1,
+            "length_in_months": -1
+        },
+        {
+            "name": "Joan Rivers",
+            "href": "https://www.whosdatedwho.com/dating/joan-rivers",
+            "relationship_type": 3,
+            "start_date": "",
+            "end_date": "",
+            "length": "-",
+            "start_months_since_1900": -1,
+            "end_months_since_1900": -1,
+            "length_in_months": -1
+        },
+        {
+            "name": "Lucille Ball",
+            "href": "https://www.whosdatedwho.com/dating/lucille-ball",
+            "relationship_type": 3,
+            "start_date": "",
+            "end_date": "",
+            "length": "-",
+            "start_months_since_1900": -1,
+            "end_months_since_1900": -1,
+            "length_in_months": -1
+        },
+        {
+            "name": "Anita Ekberg",
+            "href": "https://www.whosdatedwho.com/dating/anita-ekberg",
+            "relationship_type": 3,
+            "start_date": "",
+            "end_date": "",
+            "length": "-",
+            "start_months_since_1900": -1,
+            "end_months_since_1900": -1,
+            "length_in_months": -1
+        }
+    ],
+    "details": {
+        "First Name": "Robert",
+        "Middle Name": "Charles, Durman",
+        "Last Name": "Mitchum",
+        "Maiden Name": "NA",
+        "Full Name at Birth": "Robert Charles Durman Mitchum",
+        "Alternative Name": "Mitch, Old Rumple Eyes, Bob, Robert Charles Durman Mitchum, Robert Mitchum",
+        "Birthday": "1917",
+        "Birthplace": "USA",
+        "Height": "185",
+        "Weight": "NA",
+        "Zodiac Sign": "12",
+        "Sexuality": "Straight",
+        "Religion": "29",
+        "Ethnicity": "6",
+        "Nationality": "91",
+        "Occupation": "8"
+    }
+}

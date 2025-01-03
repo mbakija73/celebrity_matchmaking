@@ -1,0 +1,55 @@
+{
+    "relationships": [
+        {
+            "name": "Amy Heckerling",
+            "href": "https://www.whosdatedwho.com/dating/amy-heckerling",
+            "relationship_type": 2,
+            "start_date": "1993",
+            "end_date": "1997",
+            "length": "4 years",
+            "start_months_since_1900": 1116,
+            "end_months_since_1900": 1164,
+            "length_in_months": 48
+        },
+        {
+            "name": "Carrie Fisher",
+            "href": "https://www.whosdatedwho.com/dating/carrie-fisher",
+            "relationship_type": 3,
+            "start_date": "1985",
+            "end_date": "1985",
+            "length": "-",
+            "start_months_since_1900": 1020,
+            "end_months_since_1900": 1020,
+            "length_in_months": -1
+        },
+        {
+            "name": "Marcy Walker",
+            "href": "https://www.whosdatedwho.com/dating/marcy-walker",
+            "relationship_type": 2,
+            "start_date": "1984",
+            "end_date": "1985",
+            "length": "1 year",
+            "start_months_since_1900": 1008,
+            "end_months_since_1900": 1020,
+            "length_in_months": 12
+        }
+    ],
+    "details": {
+        "First Name": "Bronson",
+        "Middle Name": "NA",
+        "Last Name": "Pinchot",
+        "Maiden Name": "NA",
+        "Full Name at Birth": "Bronson Alcott Pinchot",
+        "Alternative Name": "NA",
+        "Birthday": "1959",
+        "Birthplace": "USA",
+        "Height": "178",
+        "Weight": "NA",
+        "Zodiac Sign": "3",
+        "Sexuality": "Straight",
+        "Religion": "1",
+        "Ethnicity": "6",
+        "Nationality": "91",
+        "Occupation": "8"
+    }
+}

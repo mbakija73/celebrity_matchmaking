@@ -1,0 +1,55 @@
+{
+    "relationships": [
+        {
+            "name": "Zooey Deschanel",
+            "href": "https://www.whosdatedwho.com/dating/zooey-deschanel",
+            "relationship_type": 2,
+            "start_date": "Aug 2019",
+            "end_date": "present",
+            "length": "5 years",
+            "start_months_since_1900": 1435,
+            "end_months_since_1900": -1,
+            "length_in_months": 60
+        },
+        {
+            "name": "Jacinta Kuznetsov",
+            "href": "https://www.whosdatedwho.com/dating/jacinta-kuznetsov",
+            "relationship_type": 2,
+            "start_date": "2015",
+            "end_date": "May 2018",
+            "length": "3 years",
+            "start_months_since_1900": 1380,
+            "end_months_since_1900": 1420,
+            "length_in_months": 36
+        },
+        {
+            "name": "Kelsy Ully",
+            "href": "https://www.whosdatedwho.com/dating/kelsy-ully",
+            "relationship_type": 1,
+            "start_date": "",
+            "end_date": "",
+            "length": "-",
+            "start_months_since_1900": -1,
+            "end_months_since_1900": -1,
+            "length_in_months": -1
+        }
+    ],
+    "details": {
+        "First Name": "John",
+        "Middle Name": "Ian",
+        "Last Name": "Scott",
+        "Maiden Name": "NA",
+        "Full Name at Birth": "John Ian Scott",
+        "Alternative Name": "Jonathan Scott, Jonathan Silver Scott",
+        "Birthday": "1978",
+        "Birthplace": "Canada",
+        "Height": "196",
+        "Weight": "203lbs (92 kg)",
+        "Zodiac Sign": "3",
+        "Sexuality": "Straight",
+        "Religion": "1",
+        "Ethnicity": "6",
+        "Nationality": "90",
+        "Occupation": "7"
+    }
+}

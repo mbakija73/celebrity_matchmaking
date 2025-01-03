@@ -1,0 +1,44 @@
+{
+    "relationships": [
+        {
+            "name": "Mike Hanke",
+            "href": "https://www.whosdatedwho.com/dating/mike-hanke",
+            "relationship_type": 4,
+            "start_date": "2006",
+            "end_date": "present",
+            "length": "18 years",
+            "start_months_since_1900": 1272,
+            "end_months_since_1900": -1,
+            "length_in_months": 216
+        },
+        {
+            "name": "Fernando Alonso",
+            "href": "https://www.whosdatedwho.com/dating/fernando-alonso",
+            "relationship_type": 3,
+            "start_date": "2005",
+            "end_date": "2005",
+            "length": "-",
+            "start_months_since_1900": 1260,
+            "end_months_since_1900": 1260,
+            "length_in_months": -1
+        }
+    ],
+    "details": {
+        "First Name": "Jenny",
+        "Middle Name": "NA",
+        "Last Name": "Kessler",
+        "Maiden Name": "NA",
+        "Full Name at Birth": "NA",
+        "Alternative Name": "NA",
+        "Birthday": "NA",
+        "Birthplace": "NA",
+        "Height": "NA",
+        "Weight": "NA",
+        "Zodiac Sign": "2",
+        "Sexuality": "Straight",
+        "Religion": "1",
+        "Ethnicity": "8",
+        "Nationality": "55",
+        "Occupation": "15"
+    }
+}

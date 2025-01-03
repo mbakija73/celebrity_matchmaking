@@ -1,0 +1,33 @@
+{
+    "relationships": [
+        {
+            "name": "Steve Kazee",
+            "href": "https://www.whosdatedwho.com/dating/steve-kazee",
+            "relationship_type": 2,
+            "start_date": "2015",
+            "end_date": "Dec 2016",
+            "length": "1 year",
+            "start_months_since_1900": 1380,
+            "end_months_since_1900": 1403,
+            "length_in_months": 12
+        }
+    ],
+    "details": {
+        "First Name": "Michelle",
+        "Middle Name": "Denise",
+        "Last Name": "Beadle",
+        "Maiden Name": "NA",
+        "Full Name at Birth": "Michelle Denise Beadle",
+        "Alternative Name": "Michelle",
+        "Birthday": "1975",
+        "Birthplace": "Italy",
+        "Height": "173",
+        "Weight": "132lbs (60 kg)",
+        "Zodiac Sign": "5",
+        "Sexuality": "Straight",
+        "Religion": "18",
+        "Ethnicity": "6",
+        "Nationality": "91",
+        "Occupation": "11"
+    }
+}
