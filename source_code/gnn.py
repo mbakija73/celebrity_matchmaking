@@ -2,7 +2,6 @@
 import torch
 import numpy as np
 import networkx as nx
-from torch_geometric.data import Data
 import dgl
 import torch.nn as nn
 import torch.nn.functional as F
@@ -13,6 +12,9 @@ import itertools
 import numpy as np
 import sklearn
 from sklearn.metrics import roc_auc_score
+import argparse
+import models
+from models import DeeperGCN, GraphSAGE
 
 #paths to use
 node_features_path = 'npy_data/final_node_features.npy'
@@ -33,6 +35,32 @@ def analyze_node_features(node_features_path, verbose=False):
         print(f"Node features tensor shape: {x.shape}")
 
     return x
+
+#remove desired features
+def filter_features(x, ignored_prefixes):
+    feature_names = [
+    "birth_year", "height", "height_NA", "zodiac_Pisces", "zodiac_NA", "zodiac_Taurus",
+    "zodiac_Gemini", "zodiac_Scorpio", "zodiac_Sagittarius", "zodiac_Aries", "zodiac_Cancer",
+    "zodiac_Aquarius", "zodiac_Libra", "zodiac_Virgo", "zodiac_Leo", "zodiac_Capricorn",
+    "religion_NA", "religion_Christian", "religion_Muslim", "religion_Jewish", "religion_Hindu", 
+    "religion_Buddhism", "religion_Sikh", "religion_Irreligion", "religion_Other", 
+    "ethnicity_NA", "ethnicity_Black", "ethnicity_Asian", "ethnicity_OTHER",
+    "ethnicity_Middle Eastern", "ethnicity_White", "ethnicity_Asian/Indian", 
+    "ethnicity_Multiracial", "ethnicity_Hispanic", "continent_North_America", 
+    "continent_South_America", "continent_Europe", "continent_Africa", "continent_Asia",
+    "continent_Oceania", "continent_NA", "occupation_Music", "occupation_Sports", 
+    "occupation_Writing", "occupation_Science", "occupation_Humanties", "occupation_Health", 
+    "occupation_Buisness", "occupation_Acting", "occupation_Film and TV production",
+    "occupation_Blue Collar", 'occupation_"Influencer"', "occupation_Politics", 
+    "occupation_Artist", "occupation_Dance", "occupation_Fashion", "occupation_Entertainer", 
+    "occupation_Law", "occupation_Other", "occupation_NA"
+    ]
+
+    keep_indices = [
+        i for i, feature in enumerate(feature_names)
+        if not any(feature.startswith(prefix) for prefix in ignored_prefixes)
+    ]
+    return x[:, keep_indices]
 
 
 #pure edge list and pure edge attributes
@@ -168,26 +196,6 @@ def training_test_split(edge_list, edge_attributes, split_year, alpha=None, nega
     return final_training_edges, training_edge_attributes, final_test_edges, test_edge_attributes
 
 
-
-#graph sage with batch normalization
-class GraphSAGE(nn.Module):
-    def __init__(self, in_feats, h_feats):
-        super(GraphSAGE, self).__init__()
-        self.conv1 = SAGEConv(in_feats, h_feats, 'lstm')
-        self.bn1 = nn.BatchNorm1d(h_feats)  #BatchNorm 
-        self.conv2 = SAGEConv(h_feats, h_feats, 'lstm')
-        self.bn2 = nn.BatchNorm1d(h_feats)  #BatchNorm 
-
-    def forward(self, g, in_feat):
-        h = self.conv1(g, in_feat)
-        h = self.bn1(h)  #Applying BatchNorm
-        h = F.relu(h)    
-
-        h = self.conv2(g, h)
-        h = self.bn2(h)  
-        return h
-
-
 class DotPredictor(nn.Module):
     def forward(self, g, h):
         with g.local_scope():
@@ -208,15 +216,48 @@ def compute_auc(pos_score, neg_score):
     return roc_auc_score(labels, scores)
 
 
+def filter_features(x, ignored_prefixes):
+    feature_names = [
+    "birth_year", "height", "height_NA", "zodiac_Pisces", "zodiac_NA", "zodiac_Taurus",
+    "zodiac_Gemini", "zodiac_Scorpio", "zodiac_Sagittarius", "zodiac_Aries", "zodiac_Cancer",
+    "zodiac_Aquarius", "zodiac_Libra", "zodiac_Virgo", "zodiac_Leo", "zodiac_Capricorn",
+    "religion_NA", "religion_Christian", "religion_Muslim", "religion_Jewish", "religion_Hindu", 
+    "religion_Buddhism", "religion_Sikh", "religion_Irreligion", "religion_Other", 
+    "ethnicity_NA", "ethnicity_Black", "ethnicity_Asian", "ethnicity_OTHER",
+    "ethnicity_Middle Eastern", "ethnicity_White", "ethnicity_Asian/Indian", 
+    "ethnicity_Multiracial", "ethnicity_Hispanic", "continent_North_America", 
+    "continent_South_America", "continent_Europe", "continent_Africa", "continent_Asia",
+    "continent_Oceania", "continent_NA", "occupation_Music", "occupation_Sports", 
+    "occupation_Writing", "occupation_Science", "occupation_Humanties", "occupation_Health", 
+    "occupation_Buisness", "occupation_Acting", "occupation_Film and TV production",
+    "occupation_Blue Collar", 'occupation_"Influencer"', "occupation_Politics", 
+    "occupation_Artist", "occupation_Dance", "occupation_Fashion", "occupation_Entertainer", 
+    "occupation_Law", "occupation_Other", "occupation_NA"
+    ]
 
-def main():
-    #Load 
-    x = (analyze_node_features(node_features_path))
-    edge_list, edge_attributes = analyze_edge_list(edge_list_path, edge_attributes_path)
+    keep_indices = [
+        i for i, feature in enumerate(feature_names)
+        if not any(feature.startswith(prefix) for prefix in ignored_prefixes)
+    ]
+    return x[:, keep_indices]
+
+def train(model_type, negative_sampling, ignore_features, verbose):
+    #load features
+    ignored_features = ignore_features or []
+    ignored_feature_prefixes = [f"{feature}_" for feature in ignored_features]
+
+    # ignored_prefixes = ignore_features.split(",") if ignore_features else []
+    # ignored_prefixes = ignored_prefixes + ["eth_", "rel_"]
+
+    x = analyze_node_features(node_features_path, verbose)
+    x = filter_features(x, ignored_feature_prefixes)
+    if(verbose):
+        print(f"Final number of features :{x.shape[1]}")
+
+    edge_list, edge_attributes = analyze_edge_list(edge_list_path, edge_attributes_path, verbose)
 
     split_year = 2018
     alpha = 0.1 #random selection of nodes with no start date
-    negative_sampling = "Random" 
 
     #training and test edges and attributes
     training_edges, training_attributes, test_edges, test_attributes = training_test_split(
@@ -252,8 +293,20 @@ def main():
     train_neg_g = dgl.graph((train_neg_u, train_neg_v), num_nodes=x.shape[0])
     test_neg_g = dgl.graph((test_neg_u, test_neg_v), num_nodes=x.shape[0])
 
-    #create GraphSage model and start training
-    model = GraphSAGE(train_g.ndata['feat'].shape[1], 32)
+    #create model and start training
+    if(model_type == "GraphSAGE"):
+        model = GraphSAGE(train_g.ndata['feat'].shape[1], 32)
+    elif(model_type == "DeepGCN"): #note at moment without connecting to GPUs have to omit features to <30 to work with memory
+        model = DeeperGCN(
+            node_feat_dim=train_g.ndata['feat'].shape[1],
+            edge_feat_dim=train_g.edata['attr'].shape[1],
+            hid_dim=42,
+            out_dim=32,
+            num_layers=3,
+            dropout=0.3,
+        )
+    else:
+        raise(Exception(f"unknown model type {model_type}"))
    
     pred = DotPredictor()
 
@@ -281,6 +334,18 @@ def main():
         pos_score = pred(test_pos_g, h)
         neg_score = pred(test_neg_g, h)
         print('AUC', compute_auc(pos_score, neg_score))
+
+def main():
+    parser = argparse.ArgumentParser(description="Train a GNN for edge prediction.")
+    parser.add_argument("--model", type=str, default="GraphSAGE", help="Model type (default: GraphSAGE)")
+    parser.add_argument("--negative_sampling", type=str, default="Random", help="Negative sampling strategy (Random/Inductive)")
+    parser.add_argument("--ignore_features", nargs="+", default=["religion", "ethnicity"], help="List of features to ignore (e.g., --ignore_features religion zodiac height)")
+    parser.add_argument("--verbose", action="store_true", help="Enable verbose logging")
+
+    args = parser.parse_args()
+
+    train(args.model, args.negative_sampling, args.ignore_features, args.verbose)
+
 
 
 if __name__ == "__main__":
